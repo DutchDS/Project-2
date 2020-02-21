@@ -13,37 +13,69 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 }).addTo(myMap);
 
 // Load in geojson data
-// var geoData = "static/data/Voter_Precincts.geojson";
-var geoData = "static/geojsons/china_manual.json";
+// var geoData = "static/geojsons/china.json";
+var geoUrl = "static/geojsons/2020-02-19.json";
+
+var current_date = new Date('2020-01-27');
+
+// add a day
+
+function formatDate(date) {
+  var d = new Date(date),
+      month = '' + (d.getMonth() + 1),
+      day = '' + d.getDate(),
+      year = d.getFullYear();
+
+  if (month.length < 2) 
+      month = '0' + month;
+  if (day.length < 2) 
+      day = '0' + day;
+
+  return [year, month, day].join('-');
+}
+for (var i = 0; i < 30; i++) {
+
+  script_date = formatDate(current_date)
+  
+  geoUrl = "static/geojsons/" + script_date + ".json";
+  // get_new_layer()
+  // console.log(current_date)
+  console.log(geoUrl)
+  get_new_layer(geoUrl)
+  
+  current_date.setDate(current_date.getDate() + 1);
+  // current_date = current_date.setDate(current_date + 1);
+  
+  }  
+// console.log(shortList);
+
+
 
 var geojson;
 
-// var selected_day_data = [];
-var selected_day_url = "static/data/df_2020-01-26.csv"
-
-function chooseColor(province, day_data) {
+function chooseColor(x) {
   
   console.log("--------------------------------------------")
   
-  if (day_data.find(i => i.provinceName === province)) {
-    // console.log("CORONA ", day_data);
-    console.log("Province: ", province)
-    var corona_conf = (day_data.find(i => i.provinceName === province).confirmedCount + 0);
-    console.log("Confirmed: ", corona_conf)
-    var corona_suspect = (day_data.find(i => i.provinceName === province).suspectedCount + 0);
-    console.log("Suspected: ", corona_suspect)
-    var corona_cured = (day_data.find(i => i.provinceName === province).curedCount + 0);
-    console.log("Cured: ", corona_cured)
-    var corona_dead = (day_data.find(i => i.provinceName === province).deadCount + 0);
-    console.log("Dead: ", corona_dead)
-    var american_name = day_data.find(i => i.provinceName === province).american_name
-    console.log(american_name) }
-  else {
-    corona_conf = 0
-    corona_suspect = 0
-    corona_cured = 0
-    corona_dead = 0 }
-    x = corona_conf
+  // if (day_data.find(i => i.provinceName === province)) {
+  //   // console.log("CORONA ", day_data);
+  //   console.log("Province: ", province)
+  //   var corona_conf = (day_data.find(i => i.provinceName === province).confirmedCount + 0);
+  //   console.log("Confirmed: ", corona_conf)
+  //   var corona_suspect = (day_data.find(i => i.provinceName === province).suspectedCount + 0);
+  //   console.log("Suspected: ", corona_suspect)
+  //   var corona_cured = (day_data.find(i => i.provinceName === province).curedCount + 0);
+  //   console.log("Cured: ", corona_cured)
+  //   var corona_dead = (day_data.find(i => i.provinceName === province).deadCount + 0);
+  //   console.log("Dead: ", corona_dead)
+  //   var american_name = day_data.find(i => i.provinceName === province).american_name
+  //   console.log(american_name) }
+  // else {
+  //   corona_conf = 0
+  //   corona_suspect = 0
+  //   corona_cured = 0
+  //   corona_dead = 0 }
+    // x = corona_conf
   // var color = chooseColor(corona_conf)
     if (x == 0)
       color = "white"
@@ -62,17 +94,10 @@ function chooseColor(province, day_data) {
   return (color)
   }
 
-function get_new_layer() { 
-  
-  d3.csv(selected_day_url, function(day_data) {
-
-  console.log(day_data);
-
-    var selected_day_data = [];
-    selected_day_data = day_data;
+function get_new_layer(geoUrl) { 
 
       // Grab data with d3
-  d3.json(geoData, function(data) {
+  d3.json(geoUrl, function(data) {
     
     console.log("GEOJSON ", data)
   
@@ -83,19 +108,23 @@ function get_new_layer() {
         return {
           color: "white",
           // fillColor: "red",
-          fillColor: chooseColor(feature.properties.name, selected_day_data), 
+          fillColor: chooseColor(feature.properties.confirmedCount), 
           fillOpacity: 0.8,
           weight: 1
         }},
 
-
     // Binding a pop-up to each layer
     onEachFeature: function(feature, layer) {
-      layer.bindPopup("<strong>Province:</strong> " + feature.properties.name)
-      ;
+      layer.bindPopup("<strong>Province:</strong> " + feature.properties.american_name 
+                + "<hr><strong>Confirmed Cases: </strong>" + feature.properties.confirmedCount 
+                + "<br><strong>Suspected Cases: </strong>" + feature.properties.suspectedCount 
+                + "<br><strong>Cured Cases: </strong>" + feature.properties.curedCount 
+                + "<br><strong>Dead Cases: </strong>" + feature.properties.deadCount
+      );
     }
     }).addTo(myMap);
 });
-})}
+}
+// )}
 
-get_new_layer()
+// get_new_layer()
