@@ -38,7 +38,7 @@ function formatDate(date) {
 function run(geoUrl) {    
   // run this code
 
-  setTimeout(afterTwoSeconds(geoUrl), 100);    
+  setTimeout(afterTwoSeconds(geoUrl), 500);    
 }
 
 function afterTwoSeconds(geoUrl) {  
@@ -56,8 +56,7 @@ function task(i) {
     // console.log(current_date)
     console.log(geoUrl)
   // call run
-    run(geoUrl);
-    create_date_box(script_date);
+  run(geoUrl);
   
     
   
@@ -68,11 +67,32 @@ function task(i) {
   , 2000 * i); 
 } 
 
+for (var i = 0; i < 26; i++)  { 
+  task(i); 
+} 
+// for (var i = 0; i < 30; i++) {
+
+//   script_date = formatDate(current_date)
+  
+//   geoUrl = "static/geojsons/" + script_date + ".json";
+//   // get_new_layer()
+//   // console.log(current_date)
+//   console.log(geoUrl)
+//   get_new_layer(geoUrl)
+  
+//   current_date.setDate(current_date.getDate() + 1);
+//   // current_date = current_date.setDate(current_date + 1);
+  
+//   }  
+// console.log(shortList);
+
+
+
 var geojson;
-var legend;
+
 function chooseColor(x) {
   
-  // console.log("--------------------------")
+  console.log("--------------------------")
     if (x == 0)
       color = "#fde8fc"
     else if (x <= 50)
@@ -81,11 +101,11 @@ function chooseColor(x) {
       color = "#f15be9"
     else if (x <= 500)
       color = "#eb14e0"
-    else if (x <= 5000)
+    else if (x <= 10000)
       color = "#a40e9d"
     else
       color = "#5e085a";
-    // console.log(color)
+    console.log(color)
 
   return (color)
   }
@@ -111,7 +131,7 @@ function get_new_layer(geoUrl) {
     onEachFeature: function(feature, layer) {
       layer.bindPopup("<strong>Province:</strong> " + feature.properties.american_name 
                 + "<hr><strong>Confirmed Cases: </strong>" + feature.properties.confirmedCount 
-                // + "<br><strong>Suspected Cases: </strong>" + feature.properties.suspectedCount 
+                + "<br><strong>Suspected Cases: </strong>" + feature.properties.suspectedCount 
                 + "<br><strong>Cured Cases: </strong>" + feature.properties.curedCount 
                 + "<br><strong>Dead Cases: </strong>" + feature.properties.deadCount
       );
@@ -120,43 +140,5 @@ function get_new_layer(geoUrl) {
 });
 }
 
-function create_legend() {
 
-var legend = L.control({ position: "bottomleft" });
-legend.onAdd = function(map) {
-  var div = L.DomUtil.create("div", "legend");
-  div.innerHTML += "<h4>Corona Cases</h4>";
-  div.innerHTML += '<i style="background: #fde8fc"></i><span>0</span><br>';
-  div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 50</span><br>';
-  div.innerHTML += '<i style="background: #f15be9"></i><span>51 - 100</span><br>';
-  div.innerHTML += '<i style="background: #eb14e0"></i><span>101 - 500</span><br>';
-  div.innerHTML += '<i style="background: #a40e9d"></i><span>501 - 5000</span><br>';
-  div.innerHTML += '<i style="background: #5e085a"></i><span>> 5000</span><br>';  
-
-  return div;
-};
-
-legend.addTo(myMap);
-
-}
-
-function create_date_box(date) {
-
-  var legend = L.control({ position: "bottomright" });
-
-  legend.onAdd = function(map) {
-    var div = L.DomUtil.create("div", "legend");
-    div.innerHTML += "<h4>As of Date: </h4><hr>";
-    div.innerHTML += '<h4><span>' + date+  '</span></h4>';  
-  
-    return div;
-  };
-  
-  legend.addTo(myMap);
-  
-  }
-create_legend()
-
-for (var i = 0; i < 26; i++)  {  
-  task(i); 
-} 
+// get_new_layer()
