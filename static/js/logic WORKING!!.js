@@ -14,12 +14,11 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 // Load in geojson data
 // var geoData = "static/data/Voter_Precincts.geojson";
-var geoData = "static/geojsons/china_manual.json";
-
+var geoData = "static/geojsons/china.json";
 var geojson;
 
 // var selected_day_data = [];
-var selected_day_url = "static/data/df_2020-01-26.csv"
+var selected_day_url = "static/data/df_2020-02-01.csv"
 
 function chooseColor(province, day_data) {
   

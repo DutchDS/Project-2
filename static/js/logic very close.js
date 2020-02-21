@@ -8,23 +8,40 @@ var myMap = L.map("map", {
 L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
   maxZoom: 18,
-  id: "mapbox.satellite",
+  id: "mapbox.dark",
   accessToken: API_KEY
 }).addTo(myMap);
 
 // Load in geojson data
 // var geoData = "static/data/Voter_Precincts.geojson";
-var geoData = "static/geojsons/china_manual.json";
-
+var geoData = "static/geojsons/china.json";
 var geojson;
 
-// var selected_day_data = [];
-var selected_day_url = "static/data/df_2020-01-26.csv"
+var selected_day_data = [];
+var selected_day_url = "static/data/df_2020-02-17.csv"
 
-function chooseColor(province, day_data) {
-  
+function chooseColor(x) {
+    console.log(x);
+    if (x == 0)
+      color = "white"
+    else if (x <= 100)
+      color = "yellow"
+    else if (x <= 1000)
+      color = "orange"
+    else if (x <= 10000)
+      color = "red"
+    else if (x <= 100000)
+      color = "purple"
+    else
+      color = "black";
+    console.log(color)
+    return color
+  }
+
+function get_record(province, day_data) {
+
   console.log("--------------------------------------------")
-  
+
   if (day_data.find(i => i.provinceName === province)) {
     // console.log("CORONA ", day_data);
     console.log("Province: ", province)
@@ -43,59 +60,35 @@ function chooseColor(province, day_data) {
     corona_suspect = 0
     corona_cured = 0
     corona_dead = 0 }
-    x = corona_conf
+  
   // var color = chooseColor(corona_conf)
-    if (x == 0)
-      color = "white"
-    else if (x <= 100)
-      color = "yellow"
-    else if (x <= 1000)
-      color = "orange"
-    else if (x <= 10000)
-      color = "red"
-    else if (x <= 100000)
-      color = "darkred"
-    else
-      color = "black";
-    console.log(color)
+  return chooseColor(corona_conf)
+};
 
-  return (color)
-  }
 
-function get_new_layer() { 
-  
-  d3.csv(selected_day_url, function(day_data) {
+// Grab data with d3
+d3.json(geoData, function(data) {
 
-  console.log(day_data);
+  console.log("GEOJSON ", data)
+   d3.csv(selected_day_url, function(day_data) {
+  // Create a new choropleth layer
+  geojson = L.geoJson(data, day_data, {
 
-    var selected_day_data = [];
-    selected_day_data = day_data;
-
-      // Grab data with d3
-  d3.json(geoData, function(data) {
-    
-    console.log("GEOJSON ", data)
-  
-    // Create a new choropleth layer
-    geojson = L.geoJson(data, {
-  
-      style: function(feature) {
-        return {
-          color: "white",
-          // fillColor: "red",
-          fillColor: chooseColor(feature.properties.name, selected_day_data), 
-          fillOpacity: 0.8,
-          weight: 1
-        }},
+    style: function(feature) {
+      return {
+        color: "white",
+        // fillColor: "red",
+        fillColor: get_record(feature.properties.name, day_data), 
+        fillOpacity: 0.5,
+        weight: 1.5
+      }},
 
 
     // Binding a pop-up to each layer
     onEachFeature: function(feature, layer) {
-      layer.bindPopup("<strong>Province:</strong> " + feature.properties.name)
+      layer.bindPopup("<strong>Province:</strong> " + feature.properties.name + "Dead:" + get_record(feature.properties.name, day_data))
       ;
     }
     }).addTo(myMap);
+   })
 });
-})}
-
-get_new_layer()
