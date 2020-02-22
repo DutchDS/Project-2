@@ -142,15 +142,9 @@ legend.addTo(myMap);
 
 function create_date_box(date) {
 
+  var legend = L.control({ position: "bottomright" });
 
-
-
-    // var div = d3.select("div", "legend");
-    // div.html(" ");
-  
-    var legend = L.control({ position: "bottomright" });
-
-    legend.onAdd = function(map) {
+  legend.onAdd = function(map) {
     var div = L.DomUtil.create("div", "legend");
     div.innerHTML += "<h4>As of Date: </h4><hr>";
     div.innerHTML += '<h4><span>' + date+  '</span></h4>';  
