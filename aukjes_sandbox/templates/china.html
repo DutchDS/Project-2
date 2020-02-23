@@ -22,6 +22,7 @@
     crossorigin=""></script>
 
     <!-- d3 JavaScript -->
+    <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
     <script src="https://d3js.org/d3.v4.min.js"></script>
 
     <!-- Leaflet-Choropleth JavaScript -->
@@ -51,41 +52,28 @@
           </div>
         </div>
         <br>
-        <!-- <div class="row">
-          <div class= "col-12">
-            <div class="card" style="width: 100%">
-              <div class="card-body">
-                <h2 class="text-left">Mars News</h2>
-                <h4><strong>{{ mars_data.news_title }}</strong></h4>
-                <h6>{{ mars_data.news_body }}</h6>
-              </div>
-            </div>
-          </div>
-        </div> -->
     <!-- *********************SECOND ROW*********************************   -->    
         <div class="row">
           <div class="col-lg-8 col-sm-12">
             <div class="card" style="width: 100%">
               <div class="card-body">
+          <!-- ############################################ -->
+          <!-- ########## INSERT MAP HERE ################# -->
+          <!-- ############################################ -->
                 <div id="map"></div>      
               </div>
             </div>
-            <!-- <div class="card" style="width: 100%">
-              <div class="card-body">
-                <h2 class="text-left">Featured Mars Image</h2>
-                <img width=100% src="{{ mars_data.featured_image_url }}" alt="Featured Picture">
-                <br>
-              </div>
-            </div> -->
             <br>
           </div>
           <div class="col-lg-4 col-sm-12">
             <div>
-              <!-- <h2 class="text-left"><strong>Weather on Mars</strong></h2>
-              <h4>{{ mars_data.mars_weather }}</h4> -->
               <div class="card" style="width: 100%">
                 <div class="card-body">
-                  <h2 class="card-title">Chart goes here</h2>
+          <!-- ############################################ -->
+          <!-- ########## FACTS GO HERE ################### -->
+          <!-- ############################################ -->
+                  <h2 class="card-title">Facts of the day go here</h2>
+                  <div id="facts"></div>
                   <h6 class="card-subtitle mb-2 text-muted">source: Twitter.com</h6>
                   <br>  
                   <h6 class="card-text">{{ mars_data }}</h6>
@@ -96,8 +84,11 @@
               <br>
               <div class="card" style="width: 100%">
                 <div class="card-body">
-                  <h2 class="text-left">Facts go here</h2>
-                  <table class="table-striped>
+          <!-- ############################################ -->
+          <!-- ########## NEWS GOES HERE ################### -->
+          <!-- ############################################ -->
+                  <h2 class="text-left">News links go here</h2>
+                  <table class="table-striped">
                     <thead>
                       <tr style="text-align: right;">
                         <!-- <th></th> -->
@@ -117,12 +108,15 @@
         <!-- <br> -->
     <!-- *********************THRID ROW*********************************   -->
         <div class="row">
-          <div class= "col-12">
+          <div class= "col-lg-8 col-sm-12">
             <br>
             <div class="card" style="width: 100%">
               <div class="card-body">
+              <!-- ############################################ -->
+              <!-- ########## INSERT BAR CHART ################ -->
+              <!-- ############################################ -->
                 <div id="bar"></div>  
-              <h2 class="text-center"><strong>Spread over time</strong></h2>
+              <!-- <h2 class="text-center"><strong>Spread over time</strong></h2> -->
           </div>
         </div>
         <br>

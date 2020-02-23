@@ -47,7 +47,7 @@ def home():
 #     # return redirect("/")
 #     return jsonify(results)
 
-@app.route("/api/bar_china")
+@app.route("/api/bar_china/file.json")
 def bar_china():
 
     connection_string = "postgres:postgres@localhost:5432/corona_db"
