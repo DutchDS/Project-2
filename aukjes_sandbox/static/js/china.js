@@ -48,7 +48,7 @@ function task(i) {
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 100 * i); 
+  , 300 * i); 
 } 
 
 var geojson;
