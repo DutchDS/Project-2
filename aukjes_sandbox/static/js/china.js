@@ -76,7 +76,7 @@ function chooseColor(x) {
 function get_new_layer(geoUrl) { 
 
       // Grab data with d3
-  d3.json(geoUrl, function(data) {
+  d3.json(geoUrl).then(function(data) {
     
     console.log("GEOJSON ", data)
     // Create a new choropleth layer
