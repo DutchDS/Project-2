@@ -87,7 +87,7 @@
                 <div class="card-body">
                   <h2 class="card-title">Chart goes here</h2>
                   <h6 class="card-subtitle mb-2 text-muted">source: Twitter.com</h6>
-                  <br>
+                  <br>  
                   <h6 class="card-text">{{ mars_data }}</h6>
                 </div>
               </div>
@@ -121,7 +121,8 @@
             <br>
             <div class="card" style="width: 100%">
               <div class="card-body">
-              <h2 class="text-center"><strong>Hemispheres</strong></h2>
+                <div id="bar"></div>  
+              <h2 class="text-center"><strong>Spread over time</strong></h2>
           </div>
         </div>
         <br>
@@ -145,8 +146,10 @@
       </div>
     </div>
       </div>
-
+    
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script type="text/javascript" src="static/js/config.js"></script>
+    <script type="text/javascript" src="static/js/china_bar.js"></script>
     <script type="text/javascript" src="static/js/china.js"></script>
 
   </body>

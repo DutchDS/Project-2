@@ -6,7 +6,8 @@ from flask import (
     jsonify,
     request,
     redirect)
-
+import pandas as pd
+from sqlalchemy import create_engine
 
 app = Flask(__name__)
 
@@ -24,7 +25,7 @@ app = Flask(__name__)
 # Route to render index.html template using data from Mongo
 @app.route("/")
 def home():
-
+    
     # Find one record of data from the mongo database
     # mars_data = mongo.db.mars_collection.find_one()
     mars_data = ['aukje', 'jim', 'vamsi','meliha']
@@ -46,31 +47,21 @@ def home():
 #     # return redirect("/")
 #     return jsonify(results)
 
-# @app.route("/api/pals")
-# def pals():
-#     results = db.session.query(Pet.name, Pet.lat, Pet.lon).all()
+@app.route("/api/bar_china")
+def bar_china():
 
-#     hover_text = [result[0] for result in results]
-#     lat = [result[1] for result in results]
-#     lon = [result[2] for result in results]
+    connection_string = "postgres:postgres@localhost:5432/corona_db"
+    engine = create_engine(f'postgresql://{connection_string}')
 
-#     pet_data = [{
-#         "type": "scattergeo",
-#         "locationmode": "USA-states",
-#         "lat": lat,
-#         "lon": lon,
-#         "text": hover_text,
-#         "hoverinfo": "text",
-#         "marker": {
-#             "size": 50,
-#             "line": {
-#                 "color": "rgb(8,8,8)",
-#                 "width": 1
-#             },
-#         }
-#     }]
-
-#     return jsonify(pet_data)
+    query_str = open('static/sql/test_query.sql')
+    query_text = ""
+    for text in query_str:
+        query_text = query_text + text
+        
+    print(query_text)
+    df_query = pd.read_sql_query(query_text, con=engine)
+    bar_data = df_query.to_json()
+    return bar_data
 
 if __name__ == "__main__":
     app.run(debug=True)

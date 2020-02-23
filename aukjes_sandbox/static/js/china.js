@@ -18,7 +18,6 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 var current_date = new Date('2020-01-27');
 
-// add a day
 
 function formatDate(date) {
   var d = new Date(date),
@@ -35,20 +34,9 @@ function formatDate(date) {
 }
 
 
-function run(geoUrl) {    
-  // run this code
-
-  setTimeout(afterTwoSeconds(geoUrl), 100);    
-}
-
-function afterTwoSeconds(geoUrl) {  
-  get_new_layer(geoUrl)  
-  // run this code two seconds after executing run.   
-}
-
 function task(i) { 
   setTimeout(function() {
-
+    // get_bar_data()
     script_date = formatDate(current_date)
      
     geoUrl = "static/geojsons/" + script_date + ".json";
@@ -56,13 +44,13 @@ function task(i) {
     // console.log(current_date)
     console.log(geoUrl)
   // call run
-    run(geoUrl);
+    get_new_layer(geoUrl)  
   
     current_date.setDate(current_date.getDate() + 1);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 2000 * i); 
+  , 500 * i); 
 } 
 
 var geojson;
@@ -141,3 +129,4 @@ create_legend()
 for (var i = 0; i < 26; i++)  {  
   task(i); 
 } 
+  
