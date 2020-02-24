@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jeffrey Sparshott",
+            "title": "Newsletter: Coronavirus vs. the Economy",
+            "description": "Your daily economics newsletter from The Wall Street Journal.",
+            "url": "https://blogs.wsj.com/economics/2020/01/27/newsletter-coronavirus-vs-the-economy/",
+            "urlToImage": "https://images.wsj.net/im-147604",
+            "publishedAt": "2020-01-27T11:40:31Z",
+            "content": "This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here.Coronavirus vs. Consumer SpendingChina was counting on consumers to underpin its already slowing economy. Now, authorities are advising people to stay home,\u2026 [+5782 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "China Virus Epicenter\u2019s Streets Deserted as Hospitals Struggle to Cope",
+            "description": "Chinese authorities are urging the public to remain calm as they try to contain a mysterious, fast-spreading coronavirus that has killed dozens of people and infected thousands. However, millions have already left Wuhan, the city at the center of the outbreak\u2026",
+            "url": "https://www.wsj.com/video/china-virus-epicenters-streets-deserted-as-hospitals-struggle-to-cope/969C923B-AACC-4262-A984-C5ECDABBE53F.html",
+            "urlToImage": "http://m.wsj.net/video/20200123/cvirus0127/cvirus0127_1280x720.jpg",
+            "publishedAt": "2020-01-27T09:57:20Z",
+            "content": "Teens Grapple With Social Media Burnout\r\n1/21/2020Adults often think teens just zone out on Instagram and Snapchat, but when WSJ's Julie Jargon sat down with high schoolers in Sherman Oaks, Calif., they said there are times when social media socializing gets \u2026 [+219 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Josh Chin",
+            "title": "China\u2019s Premier Tours Virus Epicenter as Anger Bubbles at Crisis Response - The Wall Street Journal",
+            "description": "China\u2019s Premier Tours Virus Epicenter as Anger Bubbles at Crisis Response The Wall Street Journal Asian stocks fall as virus fears spook markets, hit tourism Associated Press msnNOW Stocks plunge as virus fears spook markets, hit tourism Fox Business Stocks, \u2026",
+            "url": "https://www.wsj.com/articles/chinas-premier-tours-virus-epicenter-as-anger-bubbles-at-crisis-response-11580109098",
+            "urlToImage": "https://images.wsj.net/im-147595/social",
+            "publishedAt": "2020-01-27T07:11:00Z",
+            "content": "BEIJINGChinese Premier Li Keqiang traveled to the epicenter of the countrys dangerous viral outbreak to meet infected patients and front-line health workers, signaling the Beijing leaderships concern as public frustration rises over how local officials have h\u2026 [+271 chars]"
+        }
+    ]
+}

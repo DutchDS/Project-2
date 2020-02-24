@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "President Trump releases his Middle East peace plan.",
+            "description": "It's been applauded by Israel, but condemned by the Palestinians. President Xi Jinping says China is sure to beat the new coronavirus; and, #Girldad - inspired by Kobe Bryant.",
+            "url": "https://www.bbc.co.uk/programmes/p081n9xf",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-01-28T23:52:00Z",
+            "content": "It's been applauded by Israel, but condemned by the Palestinians. President Xi Jinping says China is sure to beat the new coronavirus; and, #Girldad - inspired by Kobe Bryant."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Australian scientists first to recreate virus outside China",
+            "description": "Australian scientists say it is a \"significant breakthrough\" in efforts to contain the new coronavirus.",
+            "url": "https://www.bbc.co.uk/news/world-australia-51289897",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/125FA/production/_110685257_virus.png",
+            "publishedAt": "2020-01-28T23:34:33Z",
+            "content": "Image copyrightPETER DOHERTY INSTITUTE FOR INFECTION AND IMMUNITYImage caption\r\n The new coronavirus has been grown outside China for the first time\r\nScientists in Australia have become the first to recreate the new coronavirus outside of China in what they h\u2026 [+2047 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Apple 'closely monitoring' coronavirus",
+            "description": "The outbreak has clouded the firm's forecast for the upcoming quarter.",
+            "url": "https://www.bbc.co.uk/news/business-51286626",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_110685090_gettyimages-1078754638-1.jpg",
+            "publishedAt": "2020-01-28T23:16:14Z",
+            "content": "Image copyrightGetty Images\r\nApple chief Tim Cook said the firm is \"closely monitoring\" the coronavirus outbreak, which has clouded its forecast for the upcoming quarter.\r\nThe company has limited travel and reduced store hours in China, while its suppliers' f\u2026 [+2559 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: UK warns against travel to China",
+            "description": "UK Foreign Office warns against all but essential travel to mainland China amid coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/news/uk-51288672",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+            "publishedAt": "2020-01-28T19:00:10Z",
+            "content": "The Foreign Office is warning Britons not to travel to mainland China, unless their journey is essential. \r\nIts updated advice comes amid the coronavirus outbreak, which has caused more than 100 deaths, spread across China and to at least 16 other countries.\r\u2026 [+337 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Chinese wish is for new year health, not fortune",
+            "description": "The coronavirus outbreak has changed how China celebrates its biggest two-week holiday.",
+            "url": "https://www.bbc.co.uk/news/51286633",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/045E/production/_110681110_gettyimages-1202063159.jpg",
+            "publishedAt": "2020-01-28T18:48:57Z",
+            "content": "Image copyrightGetty Images\r\nThe coronavirus has not only disrupted the way many Chinese people are celebrating their new year - it has also reshaped their traditional greetings. \r\nForget about fortune in the year of the rat - just keep your health.\r\nAs the c\u2026 [+3479 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China coronavirus: Misinformation spreads online about origin and scale",
+            "description": "The outbreak of the new coronavirus has led to the spread of misleading videos and conspiracy theories online",
+            "url": "https://www.bbc.co.uk/news/blogs-trending-51271037",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C48/production/_110667727_mobile.jpg",
+            "publishedAt": "2020-01-28T16:24:34Z",
+            "content": "Image copyrightEPA\r\nMore than 100 people have now been killed by the coronavirus. \r\nThe number of confirmed cases has risen to 4,500 with places like Hong Kong announcing plans to cut travel to mainland China to halt the spread. \r\nBut not only has the virus s\u2026 [+7361 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Hong Kong to slash border travel",
+            "description": "Japan and Germany have both reported their first cases of the new coronavirus in individuals who did not travel to China. Huawei is allowed a limited role in UK 5G networks. Jeffrey Epstein accusers outraged by Prince Andrew's 'lack of co-operation'.",
+            "url": "https://www.bbc.co.uk/programmes/p081mbh1",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-01-28T15:21:00Z",
+            "content": "Japan and Germany have both reported their first cases of the new coronavirus in individuals who did not travel to China. Huawei is allowed a limited role in UK 5G networks. Jeffrey Epstein accusers outraged by Prince Andrew's 'lack of co-operation'."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Foreigners seek evacuations as China races to contain deadly outbreak",
+            "description": "Germany and Japan have both reported cases of the new coronavirus in people who haven't been to China. Beijing has urged its citizens not to travel abroad until the outbreak has been contained. Hong Kong has announced stringent new measures to stop the virus \u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq5575fm2df",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p081m3cl.jpg",
+            "publishedAt": "2020-01-28T15:20:00Z",
+            "content": "Germany and Japan have both reported cases of the new coronavirus in people who haven't been to China. Beijing has urged its citizens not to travel abroad until the outbreak has been contained. Hong Kong has announced stringent new measures to stop the virus \u2026 [+376 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Britons in China want more support from UK",
+            "description": "UK citizens criticise the government's response as ministers say they are \"working on\" repatriation.",
+            "url": "https://www.bbc.co.uk/news/uk-51279436",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11843/production/_110674717_de22.jpg",
+            "publishedAt": "2020-01-28T10:49:24Z",
+            "content": "Image caption\r\n Canadian Lauren Williams and her British husband Tom are trapped in Wuhan with a baby on the way\r\nBritons in parts of China affected by the new coronavirus have criticised the lack of government support for returning home.\r\nUK citizens in Wuha\u2026 [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Hong Kong to slash border travel as virus spreads",
+            "description": "It wants to drastically reduce visits from mainland China, where the death toll has reached 106.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51279726",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/116B3/production/_110674317_2b8ab352-df89-4ec5-bd7e-deb2b08b5bcd.jpg",
+            "publishedAt": "2020-01-28T10:14:07Z",
+            "content": "Image copyrightReuters Image caption\r\n Hong Kong leader Carrie Lam wore a face mask to speak to the media\r\nHong Kong has announced plans to slash cross-border travel between the city and mainland China as the new coronavirus continues to spread.\r\nMore than 10\u2026 [+6285 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Wuhan residents shout from windows in solidarity",
+            "description": "Residents in the quarantined city battling a virus outbreak are shouting and singing to boost morale.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-china-51278756/coronavirus-wuhan-residents-shout-from-windows-in-solidarity",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/353B/production/_110672631_p081l980.jpg",
+            "publishedAt": "2020-01-28T09:05:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Tales of solidarity from China's virus-hit Wuhan",
+            "description": "The number of coronavirus cases continues to climb but some in Wuhan are determined to spread cheer.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51276496",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/118ED/production/_110671917_gettyimages-1196884915.jpg",
+            "publishedAt": "2020-01-28T08:07:32Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Keeping spirits up in virus-hit Wuhan\r\nAs the number of coronavirus infections continues to grow, millions of people have gone into lockdown in Wuhan - the epicentre of the outbreak - to try to stop the virus spreadi\u2026 [+4611 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Facebook staff told to avoid China travel",
+            "description": "The social media giant has become the first big American company to tell its employees not to travel.",
+            "url": "https://www.bbc.co.uk/news/business-51276316",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1163B/production/_110672217_gettyimages-1195315493.jpg",
+            "publishedAt": "2020-01-28T07:07:29Z",
+            "content": "Image copyrightGetty Images\r\nFacebook has become the first big US firm to tell staff to avoid travelling to China, as the death toll from the coronavirus rises.\r\nThe tech giant said it was acting \"out of an abundance of caution\" to protect its employees.\r\nOth\u2026 [+2946 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: Coronavirus death toll rises and UK faces Huawei decision",
+            "description": "Your morning briefing for 28 January 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51273997",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1853/production/_110672260_mediaitem110672256.jpg",
+            "publishedAt": "2020-01-28T06:24:56Z",
+            "content": "If you want to get this briefing by email, sign up here\r\nImage copyrightReuters\r\nCoronavirus: Death toll passes 100\r\nChina has put more restrictions on travel as it tries to stem the spread of the flu-like coronavirus. The death toll has increased to 106, wit\u2026 [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Death toll climbs to 106 as China tightens measures",
+            "description": "Transport restrictions have been further tightened, with some cities suspending public transport.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51275896",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/135D5/production/_110671397_4f84d1e1-0c3c-431e-b4ee-1e3d1f788d41.jpg",
+            "publishedAt": "2020-01-28T02:06:23Z",
+            "content": "Image copyrightAFP\r\nChinese authorities say 106 people have died from the new coronavirus and more than 4,000 people are infected. \r\nThe country has meanwhile further tightened travel restrictions to curb the spread of the virus. \r\nThe city of Wuhan, thought \u2026 [+1022 chars]"
+        }
+    ]
+}

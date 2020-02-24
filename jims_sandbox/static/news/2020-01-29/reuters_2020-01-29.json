@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 241,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Se Young Lee",
+            "title": "WHO to reconsider declaring global emergency as China virus evacuations begin",
+            "description": "Foreign governments flew their citizens out of the epicentre of China's coronavirus outbreak on Wednesday, as the number of deaths jumped to 133 and the World Health Organization voiced \"grave concern\" about person-to-person spread in three other countries.",
+            "url": "https://www.reuters.com/article/us-china-health-hubei-idUSKBN1ZR2VG",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483136034&w=1200&r=LYNXMPEG0S20T",
+            "publishedAt": "2020-01-29T23:28:40Z",
+            "content": "BEIJING/GENEVA (Reuters) - Foreign governments flew their citizens out of the epicentre of China\u2019s coronavirus outbreak on Wednesday, as the number of deaths jumped to 133 and the World Health Organization voiced \u201cgrave concern\u201d about person-to-person spread \u2026 [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ann Saphir",
+            "title": "Coronavirus outbreak poses risk to U.S. Fed's economic outlook",
+            "description": "The outbreak of a new virus that originated in the central-Chinese city of Wuhan is likely to slow China's economic growth at least in the near term and could hurt its trading partners around the world.",
+            "url": "https://in.reuters.com/article/uk-china-health-global-economy-idINKBN1ZS385",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483168747&w=1200&r=LYNXMPEG0S24K",
+            "publishedAt": "2020-01-29T23:22:52Z",
+            "content": "SAN FRANCISCO/WASHINGTON (Reuters) - The outbreak of a new virus that originated in the central-Chinese city of Wuhan is likely to slow China\u2019s economic growth at least in the near term and could hurt its trading partners around the world. \r\nThe potential eff\u2026 [+4259 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China virus evacuations begin as death toll rises at outbreak epicenter",
+            "description": "Foreign governments began flying their citizens out of China's Hubei province, the epicenter of the coronavirus outbreak, as authorities said the death toll there had topped 160.",
+            "url": "https://ca.reuters.com/article/topNews/idCAKBN1ZS35G",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483166468&w=1200&r=LYNXMPEG0S23E",
+            "publishedAt": "2020-01-29T23:21:16Z",
+            "content": "(Reuters) - Foreign governments began flying their citizens out of China\u2019s Hubei province, the epicenter of the coronavirus outbreak, as authorities said the death toll there had topped 160. \r\nThe health commission for Hubei said on Thursday that deaths in th\u2026 [+1424 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Mondelez sees first quarter revenue hit on coronavirus outbreak",
+            "description": "Oreo maker Mondelez Inc said on Wednesday it expects a hit to its first quarter revenue from a new coronavirus outbreak in China which has killed over 130 people.",
+            "url": "https://www.reuters.com/article/us-china-health-mondelez-intl-idUSKBN1ZS38O",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T23:16:04Z",
+            "content": "(Reuters) - Oreo maker Mondelez Inc (MDLZ.O) said on Wednesday it expects a hit to its first quarter revenue from a new coronavirus outbreak in China which has killed over 130 people. \r\nChief Executive Officer Dirk Van de Put said it was still too early to qu\u2026 [+188 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ann Saphir",
+            "title": "Coronavirus outbreak poses risk to U.S. Fed's economic outlook",
+            "description": "The outbreak of a new virus that originated in the central-Chinese city of Wuhan is likely to slow China's economic growth at least in the near term and could hurt its trading partners around the world.",
+            "url": "https://www.reuters.com/article/us-china-health-global-economy-idUSKBN1ZS38E",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483164999&w=1200&r=LYNXMPEG0S24M",
+            "publishedAt": "2020-01-29T23:15:16Z",
+            "content": "SAN FRANCISCO/WASHINGTON (Reuters) - The outbreak of a new virus that originated in the central-Chinese city of Wuhan is likely to slow China\u2019s economic growth at least in the near term and could hurt its trading partners around the world. \r\nThe potential eff\u2026 [+4257 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Mondelez sees first quarter revenue hit on coronavirus outbreak",
+            "description": "Oreo maker Mondelez Inc said on Wednesday it expects a hit to its first quarter revenue from a new coronavirus outbreak in China which has killed over 130 people.",
+            "url": "https://in.reuters.com/article/uk-china-health-mondelez-intl-idINKBN1ZS38C",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T23:12:23Z",
+            "content": "(Reuters) - Oreo maker Mondelez Inc (MDLZ.O) said on Wednesday it expects a hit to its first quarter revenue from a new coronavirus outbreak in China which has killed over 130 people. \r\nChief Executive Officer Dirk Van de Put said it was still too early to qu\u2026 [+189 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Mondelez sees first quarter revenue hit on coronavirus outbreak",
+            "description": "Oreo maker Mondelez Inc said on Wednesday it expects a hit to its first quarter revenue from a new coronavirus outbreak in China which has killed over 130 people.",
+            "url": "https://www.reuters.com/article/china-health-mondelez-intl-idUSL4N29Y52T",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T23:10:43Z",
+            "content": "Jan 29 (Reuters) - Oreo maker Mondelez Inc said on Wednesday it expects a hit to its first quarter revenue from a new coronavirus outbreak in China which has killed over 130 people. \r\nChief Executive Officer Dirk Van de Put said it was still too early to quan\u2026 [+187 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-China virus evacuations begin as death toll rises at outbreak epicenter",
+            "description": "Foreign governments began flying their citizens out of China's Hubei province, the epicenter of the coronavirus outbreak, as authorities said the death toll there had topped 160.",
+            "url": "https://www.reuters.com/article/us-china-health-idUSKBN1ZS35G",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483166468&w=1200&r=LYNXMPEG0S23E",
+            "publishedAt": "2020-01-29T23:05:33Z",
+            "content": "(Reuters) - Foreign governments began flying their citizens out of China\u2019s Hubei province, the epicenter of the coronavirus outbreak, as authorities said the death toll there had topped 160. \r\nThe health commission for Hubei said on Thursday that deaths in th\u2026 [+1424 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Richa Naidu",
+            "title": "Oreo maker Mondelez's quarterly results sweetened by emerging markets",
+            "description": "Mondelez International Inc , the maker of Oreos and Chips Ahoy cookies, on Wednesday reported quarterly revenue that beat estimates, helped by higher demand for its snacks in developing markets, sending shares up 3%.",
+            "url": "https://uk.reuters.com/article/us-mondelez-intl-results-idUKKBN1ZS30R",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483134238&w=1200&r=LYNXMPEG0S20O",
+            "publishedAt": "2020-01-29T22:55:46Z",
+            "content": "(Reuters) - Mondelez International Inc (MDLZ.O), the maker of Oreos and Chips Ahoy cookies, on Wednesday reported quarterly revenue that beat estimates, helped by higher demand for its snacks in developing markets, sending shares up 3%. \r\nThe company said it \u2026 [+2215 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Britain working on flight home for citizens in coronavirus-hit Wuhan: spokeswoman",
+            "description": "The British government is working to organize a flight back to the United Kingdom for Britons in Wuhan, China, a foreign office spokeswoman said on Wednesday as the city grapples with an outbreak of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-britain-idUSKBN1ZS36S",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T22:48:09Z",
+            "content": "(Reuters) - The British government is working to organize a flight back to the United Kingdom for Britons in Wuhan, China, a foreign office spokeswoman said on Wednesday as the city grapples with an outbreak of the coronavirus. \r\nFears over the spread of the \u2026 [+751 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Restrictions for airlines flying to China under discussion: White House's Kudlow",
+            "description": "The White House is considering further restrictions on U.S. airlines flying to and from China in addition to voluntary restrictions that the companies have put into place, President Donald Trump's economic adviser Larry Kudlow said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-airlines-usa-idUSKBN1ZS367",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483155433&w=1200&r=LYNXMPEG0S23P",
+            "publishedAt": "2020-01-29T22:42:33Z",
+            "content": "WASHINGTON (Reuters) - The White House is considering further restrictions on U.S. airlines flying to and from China in addition to voluntary restrictions that the companies have put into place, President Donald Trump\u2019s economic adviser Larry Kudlow said on W\u2026 [+309 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Restrictions for airlines flying to China under discussion - White House's Kudlow",
+            "description": "The White House is considering further restrictions on U.S. airlines flying to and from China in addition to voluntary restrictions that the companies have put into place, President Donald Trump's economic adviser Larry Kudlow said on Wednesday.",
+            "url": "https://in.reuters.com/article/uk-china-health-airlines-usa-idINKBN1ZS362",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483154414&w=1200&r=LYNXMPEG0S23L",
+            "publishedAt": "2020-01-29T22:41:08Z",
+            "content": "WASHINGTON (Reuters) - The White House is considering further restrictions on U.S. airlines flying to and from China in addition to voluntary restrictions that the companies have put into place, President Donald Trump\u2019s economic adviser Larry Kudlow said on W\u2026 [+309 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China's Hubei says coronavirus deaths rise to 162 in province",
+            "description": "The health commission for Hubei, the Chinese province at the center of the new coronavirus outbreak, said on Thursday that deaths in the province from the disease had risen by 37 to 162 as of the end of Jan. 29.",
+            "url": "https://www.reuters.com/article/us-china-health-hubei-idUSKBN1ZS35G",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483153661&w=1200&r=LYNXMPEG0S23E",
+            "publishedAt": "2020-01-29T22:36:48Z",
+            "content": "(Reuters) - The health commission for Hubei, the Chinese province at the center of the new coronavirus outbreak, said on Thursday that deaths in the province from the disease had risen by 37 to 162 as of the end of Jan. 29. \r\nThere had been a further 1,032 ca\u2026 [+361 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sarah Young",
+            "title": "Airlines suspend, scale back direct flights to China amid virus fears",
+            "description": "Global airlines on Wednesday continued to suspend or scale back direct flights to China's major cities amid an increase in travel warnings and decline in demand from passengers due to the coronavirus. Fears over the spread of the flu-like virus, which origina\u2026",
+            "url": "https://in.reuters.com/article/uk-china-health-airlines-idINKBN1ZS336",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483154428&w=1200&r=LYNXMPEG0S228",
+            "publishedAt": "2020-01-29T22:09:22Z",
+            "content": "LONDON/MONTREAL (Reuters) - Global airlines on Wednesday continued to suspend or scale back direct flights to China\u2019s major cities amid an increase in travel warnings and decline in demand from passengers due to the coronavirus. Fears over the spread of the f\u2026 [+3170 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sarah Young",
+            "title": "Airlines suspend, scale back direct flights to China amid virus fears",
+            "description": "Global airlines on Wednesday continued to suspend or scale back direct flights to China's major cities amid an increase in travel warnings and decline in demand from passengers over the coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-airlines-idUSKBN1ZS341",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483143549&w=1200&r=LYNXMPEG0S22N",
+            "publishedAt": "2020-01-29T22:08:57Z",
+            "content": "LONDON/MONTREAL (Reuters) - Global airlines on Wednesday continued to suspend or scale back direct flights to China\u2019s major cities amid an increase in travel warnings and decline in demand from passengers over the coronavirus. \r\nFears over the spread of the f\u2026 [+2732 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Factbox: What do we know about the new coronavirus?",
+            "description": "A new coronavirus that has killed more than 130 people in China is spreading to other countries, alarming health experts.",
+            "url": "https://www.reuters.com/article/uk-china-health-virus-facts-factbox-idUSKBN1ZS33F",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483142846&w=1200&r=LYNXMPEG0S22C",
+            "publishedAt": "2020-01-29T22:07:10Z",
+            "content": "(Reuters) - A new coronavirus that has killed more than 130 people in China is spreading to other countries, alarming health experts. \r\nHere is some of what we know - and don\u2019t know - about the virus: \r\nWHERE DID THE VIRUS COME FROM? \r\nThe virus is believed t\u2026 [+3316 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Factbox: What do we know about the new coronavirus?",
+            "description": "A new coronavirus that has killed more than 130 people in China is spreading to other countries, alarming health experts.",
+            "url": "https://www.reuters.com/article/us-china-health-virus-facts-factbox-idUSKBN1ZS33J",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483181996&w=1200&r=LYNXMPEG0S22F",
+            "publishedAt": "2020-01-29T22:06:35Z",
+            "content": "(Reuters) - A new coronavirus that has killed more than 130 people in China is spreading to other countries, alarming health experts. \r\nHere is some of what we know - and don\u2019t know - about the virus: \r\nWHERE DID THE VIRUS COME FROM? \r\nThe virus is believed t\u2026 [+3316 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Herbert Lash",
+            "title": "GLOBAL MARKETS-Stock rally loses steam, virus keeps safe-havens alive",
+            "description": "Global equity markets closed little changed on Wednesday as strong results from Apple and others provided a lift, but concerns about the coronavirus outbreak in China kept enthusiasm in check and a safe-haven bid in gold and the dollar alive.",
+            "url": "https://www.reuters.com/article/global-markets-idUSL1N29Y1N8",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T21:52:03Z",
+            "content": "(Adds close of U.S. markets) \r\n* Coronavirus death toll rises to 133 \r\n* China state economist sees hard hit to 1st-qtr growth \r\n* Fed leaves rates unchanged, \u201cstrong\u201d job market cited \r\nBy Herbert Lash \r\nNEW YORK, Jan 29 (Reuters) - Global equity markets clo\u2026 [+4061 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kate Duguid",
+            "title": "FOREX-Dollar holds gains after Fed expresses virus concerns",
+            "description": "The U.S. dollar index hovered near two-month highs on Wednesday after Federal Reserve Chair Jay Powell expressed concerns about the economic fallout of the coronavirus at a news conference following the central bank's announcement it would leave interest rate\u2026",
+            "url": "https://www.reuters.com/article/global-forex-idUSL1N29Y172",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T21:38:17Z",
+            "content": "(New throughout) \r\nBy Kate Duguid \r\nNEW YORK, Jan 29 (Reuters) - The U.S. dollar index hovered near two-month highs on Wednesday after Federal Reserve Chair Jay Powell expressed concerns about the economic fallout of the coronavirus at a news conference follo\u2026 [+2208 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nichola Saminather",
+            "title": "UPDATE 2-Canadian pension fund Caisse names insider and former banker mond CEO",
+            "description": "Canada's second-largest pension fund, Caisse de depot et placement du Quebec (CDPQ), on Wednesday said former investment banker Charles \u00c9mond will become chief executive, taking over as it navigates an uncertain global economy and some challenging investments.",
+            "url": "https://uk.reuters.com/article/caisse-moves-charles-emond-idUKL1N29Y18Y",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T20:59:41Z",
+            "content": "(Adds comment, context) \r\nBy Nichola Saminather \r\nTORONTO, Jan 29 (Reuters) - Canada\u2019s second-largest pension fund, Caisse de depot et placement du Quebec (CDPQ), on Wednesday said former investment banker Charles \u00c9mond will become chief executive, taking ove\u2026 [+2202 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mark Weinraub",
+            "title": "LIVESTOCK-Hog, cattle contracts sink to multi-month lows",
+            "description": "U.S. hog and cattle futures dropped to fresh multi-month lows on Wednesday.'",
+            "url": "https://www.reuters.com/article/usa-livestock-idUSL1N29Y1N1",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T20:51:03Z",
+            "content": "CHICAGO, Jan 29 (Reuters) - U.S. hog and cattle futures dropped to fresh multi-month lows on Wednesday. \r\nAmple supplies and weakening cash markets weighed on the cattle contracts while concerns about demand from China pressured hog futures. \r\nThe pressure on\u2026 [+1541 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus won't hurt meat sales to China -JBS CEO",
+            "description": "The chief executive of Brazilian meatpacker JBS SA said on Wednesday that he does not expect the coronavirus outbreak to negatively impact China's meat imports.",
+            "url": "https://www.reuters.com/article/us-china-health-meat-idUSKBN1ZS2WW",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T20:32:03Z",
+            "content": "SAO PAULO (Reuters) - The chief executive of Brazilian meatpacker JBS SA said on Wednesday that he does not expect the coronavirus outbreak to negatively impact China\u2019s meat imports. \r\nCEO Gilberto Tomazoni said that during China\u2019s SARS outbreak in the 2000s,\u2026 [+121 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Se Young Lee",
+            "title": "WHO to reconsider declaring global emergency as China virus evacuations begin",
+            "description": "Foreign governments flew their citizens out of the epicentre of China's coronavirus outbreak on Wednesday, as the number of deaths jumped to 133 and the World Health Organization voiced \"grave concern\" about person-to-person spread in three other countries.",
+            "url": "https://www.reuters.com/article/us-china-health-idUSKBN1ZR2VG",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483027106&w=1200&r=LYNXMPEG0S1LF",
+            "publishedAt": "2020-01-29T20:15:39Z",
+            "content": "BEIJING/GENEVA (Reuters) - Foreign governments flew their citizens out of the epicentre of China\u2019s coronavirus outbreak on Wednesday, as the number of deaths jumped to 133 and the World Health Organization voiced \u201cgrave concern\u201d about person-to-person spread \u2026 [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Russia limits rail service with China from Jan. 31 over coronavirus",
+            "description": "Russia will limit railway service with China from Jan. 31, leaving only direct trains between Moscow and Beijing, in response to the coronavirus crisis, Deputy Prime Minister Tatiana Golikova said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-russia-railway-idUSKBN1ZS2W8",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483105189&w=1200&r=LYNXMPEG0S1XW",
+            "publishedAt": "2020-01-29T20:14:20Z",
+            "content": "MOSCOW (Reuters) - Russia will limit railway service with China from Jan. 31, leaving only direct trains between Moscow and Beijing, in response to the coronavirus crisis, Deputy Prime Minister Tatiana Golikova said on Wednesday. \r\n\u201cUnder a decision of the em\u2026 [+1698 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Google temporarily shutting down all China offices: The Verge",
+            "description": "Alphabet Inc's Google is temporarily shutting down all its offices in China due to the outbreak of a new coronavirus in the country, technology website The Verge reported on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-google-idUSKBN1ZS2VO",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483101843&w=1200&r=LYNXMPEG0S1XP",
+            "publishedAt": "2020-01-29T20:06:34Z",
+            "content": "(Reuters) - Alphabet Inc\u2019s (GOOGL.O) Google is temporarily shutting down all its offices in China due to the outbreak of a new coronavirus in the country, technology website The Verge reported on Wednesday. \r\nThe shutdown includes all offices in mainland Chin\u2026 [+375 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Canada to evacuate Canadians from flu-hit Chinese region - foreign minister",
+            "description": "Canada will evacuate about 160 of its citizens from the Chinese region that is the epicentre for the new coronavirus, and the government is urging others to avoid non-essential travel to China, a top official said on Wednesday.",
+            "url": "https://uk.reuters.com/article/uk-china-health-canada-idUKKBN1ZS2U1",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:58:14Z",
+            "content": "OTTAWA (Reuters) - Canada will evacuate about 160 of its citizens from the Chinese region that is the epicentre for the new coronavirus, and the government is urging others to avoid non-essential travel to China, a top official said on Wednesday. \r\n\u201cWe have 1\u2026 [+1596 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "World indoor champs in China postponed over coronavirus fears",
+            "description": "The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport's global governing body said on Wednesday.",
+            "url": "https://uk.reuters.com/article/uk-sport-athletics-idUKKBN1ZS2TT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:58:14Z",
+            "content": "MOSCOW (Reuters) - The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport\u2019s global governing body said on Wednesday. \r\u2026 [+1120 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Se Young Lee",
+            "title": "WHO to reconsider declaring global emergency as China virus evacuations begin",
+            "description": "Foreign governments flew their citizens out of the epicentre of China's coronavirus outbreak on Wednesday, as the number of deaths jumped to 133 and the World Health Organization voiced \"grave concern\" about person-to-person spread in three other countries.",
+            "url": "https://uk.reuters.com/article/us-china-health-hubei-cases-idUKKBN1ZR2VG",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483027106&w=1200&r=LYNXMPEG0S1LF",
+            "publishedAt": "2020-01-29T19:58:14Z",
+            "content": "BEIJING/GENEVA (Reuters) - Foreign governments flew their citizens out of the epicentre of China\u2019s coronavirus outbreak on Wednesday, as the number of deaths jumped to 133 and the World Health Organization voiced \u201cgrave concern\u201d about person-to-person spread \u2026 [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "France confirms fifth case of infection with coronavirus",
+            "description": "France has confirmed a fifth case of infection by the new coronavirus from China, the French health minister said on Wednesday, adding the patient was the daughter of an 80-year-old man already hospitalized with the disease.",
+            "url": "https://uk.reuters.com/article/uk-china-health-france-coronavirus-idUKKBN1ZS2TO",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483097862&w=1200&r=LYNXMPEG0S1WG",
+            "publishedAt": "2020-01-29T19:58:14Z",
+            "content": "PARIS (Reuters) - France has confirmed a fifth case of infection by the new coronavirus from China, the French health minister said on Wednesday, adding the patient was the daughter of an 80-year-old man already hospitalized with the disease. \r\nAgnes Buzyn al\u2026 [+641 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-Canada to evacuate citizens from flu-hit China region, warns against travel",
+            "description": "(Adds comments, details and background)",
+            "url": "https://uk.reuters.com/article/china-health-canada-idUKL1N29Y1BC",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:57:56Z",
+            "content": "(Adds comments, details and background) \r\nOTTAWA, Jan 29 (Reuters) - Canada will evacuate about 160 of its citizens from the Chinese region that is the epicenter for the new coronavirus, and the government is urging others to avoid non-essential travel to Chi\u2026 [+1647 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "World indoor championships in China postponed over coronavirus fears",
+            "description": "The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport's global governing body said on Wednesday.",
+            "url": "https://www.reuters.com/article/uk-sport-athletics-idUSKBN1ZS2TT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:30:41Z",
+            "content": "MOSCOW (Reuters) - The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport\u2019s global governing body said on Wednesday. \r\u2026 [+60 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chuck Mikolajczak",
+            "title": "US STOCKS-Apple, Boeing lift Wall Street as Fed stands pat",
+            "description": "U.S. stocks rose on Wednesday, boosted by Apple, Boeing and General Electric following their quarterly results, though worries about the economic damage of the fast-spreading coronavirus kept gains in check.",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL1N29Y1A9",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:28:17Z",
+            "content": "(For a live blog on the U.S. stock market, click or type LIVE/ in a news window) \r\n* Apple, Boeing boost Dow after results \r\n* Starbucks slips as virus prompts store closures in China \r\n* Dow up 0.57%, S&amp;P 500 up 0.45%, Nasdaq up 0.54% (Updates with Fed s\u2026 [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "World indoor championships in China postponed over coronavirus fears",
+            "description": "The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport's global governing body said on Wednesday.",
+            "url": "https://ca.reuters.com/article/sportsNews/idCAKBN1ZS2TV-OCASP",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:28:10Z",
+            "content": "MOSCOW (Reuters) - The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport\u2019s global governing body said on Wednesday. \r\u2026 [+60 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "World indoor championships in China postponed over coronavirus fears",
+            "description": "The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport's global governing body said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-sport-athletics-idUSKBN1ZS2TV",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:28:10Z",
+            "content": "MOSCOW (Reuters) - The World Athletics Indoor Championships scheduled to take place in Nanjing, China in March have been postponed until 2021 over fears related to the coronavirus outbreak in the country, the sport\u2019s global governing body said on Wednesday. \r\u2026 [+1120 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Canada to evacuate Canadians from flu-hit Chinese region: foreign minister",
+            "description": "Canada will evacuate some 160 of its citizens from the Chinese region that is the epicenter for the new coronavirus, and it is urging other Canadians to avoid non-essential travel to China, the foreign minister said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-canada-idUSKBN1ZS2TK",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483086287&w=1200&r=LYNXMPEG0S1WB",
+            "publishedAt": "2020-01-29T19:26:57Z",
+            "content": "OTTAWA (Reuters) - Canada will evacuate some 160 of its citizens from the Chinese region that is the epicenter for the new coronavirus, and it is urging other Canadians to avoid non-essential travel to China, the foreign minister said on Wednesday. \r\nForeign \u2026 [+278 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Fed holds rates steady, offers no new guidance on balance sheet",
+            "description": "The Federal Reserve held interest rates steady on Wednesday at its first policy meeting of the year, with officials pointing to continued moderate U.S. economic growth and a \"strong\" job market.",
+            "url": "https://www.reuters.com/article/us-usa-fed-instantview-idUSKBN1ZS2TA",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483086312&w=1200&r=LYNXMPEG0S1W7",
+            "publishedAt": "2020-01-29T19:26:26Z",
+            "content": "NEW YORK (Reuters) - The Federal Reserve held interest rates steady on Wednesday at its first policy meeting of the year, with officials pointing to continued moderate U.S. economic growth and a \u201cstrong\u201d job market. \r\nThe Fed\u2019s policy-setting committee announ\u2026 [+2695 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Canada to evacuate Canadians from flu-hit Chinese region: foreign minister",
+            "description": "Canada will evacuate some 160 of its citizens from the Chinese region that is the epicenter for the new coronavirus, and it is urging other Canadians to avoid non-essential travel to China, the foreign minister said on Wednesday.",
+            "url": "https://ca.reuters.com/article/domesticNews/idCAKBN1ZS2TK",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483085994&w=1200&r=LYNXMPEG0S1WB",
+            "publishedAt": "2020-01-29T19:25:13Z",
+            "content": "OTTAWA (Reuters) - Canada will evacuate some 160 of its citizens from the Chinese region that is the epicenter for the new coronavirus, and it is urging other Canadians to avoid non-essential travel to China, the foreign minister said on Wednesday. \r\nForeign \u2026 [+278 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "France confirms fifth case of infection with coronavirus",
+            "description": "France has confirmed a fifth case of infection by the new coronavirus from China, French health minister said on Wednesday, adding the patient was the daughter of an 80-year old man already hospitalized with the disease.",
+            "url": "https://www.reuters.com/article/us-china-health-france-coronavirus-idUSKBN1ZS2TE",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:24:00Z",
+            "content": "PARIS (Reuters) - France has confirmed a fifth case of infection by the new coronavirus from China, French health minister said on Wednesday, adding the patient was the daughter of an 80-year old man already hospitalized with the disease. \r\nAgnes Buzyn also s\u2026 [+403 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brendan O'Brien",
+            "title": "'I'm in an apocalypse:' American student trapped in coronavirus-hit Chinese city",
+            "description": "For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-student-idUSKBN1ZS2RI",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483084226&w=1200&r=LYNXMPEG0S1W2",
+            "publishedAt": "2020-01-29T19:23:09Z",
+            "content": "(Reuters) - For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak. \r\nAn eerie calm has descende\u2026 [+2848 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brendan O'Brien",
+            "title": "'I'm in an apocalypse:' American student trapped in coronavirus-hit Chinese city",
+            "description": "For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-student-idUSKBN1ZS2RI",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483084226&w=1200&r=LYNXMPEG0S1W2",
+            "publishedAt": "2020-01-29T19:23:09Z",
+            "content": "(Reuters) - For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak. \r\nAn eerie calm has descende\u2026 [+2848 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brendan O'Brien",
+            "title": "'I'm in an apocalypse:' American student trapped in coronavirus-hit Chinese city",
+            "description": "For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-student-idUSKBN1ZS2RI",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483084226&w=1200&r=LYNXMPEG0S1W2",
+            "publishedAt": "2020-01-29T19:23:09Z",
+            "content": "(Reuters) - For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak. \r\nAn eerie calm has descende\u2026 [+2848 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ambar Warrick",
+            "title": "EMERGING MARKETS-Latam markets muted amid coronavirus uncertainty; Mexico up on trade deal",
+            "description": "Most Latin American assets edged lower on\nWednesday as the markets continued to assess the Chinese virus\nepidemic, while Mexico's stocks and currency drew mild support\nfrom the U.S. signing of a new North American trade agreement.  \n    An increasing death to\u2026",
+            "url": "https://www.reuters.com/article/emerging-markets-latam-idUSL1N29Y0Z4",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:21:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Instant View: Fed holds rates steady, offers no new guidance on balance sheet",
+            "description": "The Federal Reserve held interest rates steady on Wednesday at its first policy meeting of the year, with officials pointing to continued moderate U.S. economic growth and a \"strong\" job market.",
+            "url": "https://in.reuters.com/article/uk-usa-fed-instantview-idINKBN1ZS2T8",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T19:21:41Z",
+            "content": "NEW YORK (Reuters) - The Federal Reserve held interest rates steady on Wednesday at its first policy meeting of the year, with officials pointing to continued moderate U.S. economic growth and a \u201cstrong\u201d job market. \r\nThe Fed\u2019s policy-setting committee announ\u2026 [+2670 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Brendan O'Brien",
+            "title": "'I'm in an apocalypse:' American student trapped in coronavirus-hit Chinese city",
+            "description": "For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak.",
+            "url": "https://uk.reuters.com/article/us-china-health-usa-student-idUKKBN1ZS2RI",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483084226&w=1200&r=LYNXMPEG0S1W2",
+            "publishedAt": "2020-01-29T18:59:10Z",
+            "content": "(Reuters) - For almost a week, 21-year-old American-born college student Nicholas Schneider has been trying and failing to find a way out of Wuhan, China, the quarantined city at the heart of a fast-spreading coronavirus outbreak. \r\nAn eerie calm has descende\u2026 [+2848 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Brazil's Petrobras suspends travel to China over coronavirus, oil flows unchanged",
+            "description": "Brazil's state-owned oil company Petroleo Brasileiro SA said on Wednesday that it would suspend employee travel to China amid the coronavirus outbreak as a precautionary measure.",
+            "url": "https://www.reuters.com/article/us-china-health-petrobras-idUSKBN1ZS2PX",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483070546&w=1200&r=LYNXMPEG0S1TZ",
+            "publishedAt": "2020-01-29T18:40:02Z",
+            "content": "RIO DE JANEIRO (Reuters) - Brazil\u2019s state-owned oil company Petroleo Brasileiro SA said on Wednesday that it would suspend employee travel to China amid the coronavirus outbreak as a precautionary measure. \r\nPetrobras, as the company is known, said oil export\u2026 [+147 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "CORRECTED-KLM says it will scrap some flights to China due to the coronavirus outbreak",
+            "description": "KLM, the Dutch arm of Air France KLM, will scrap some flights to China due to the coronavirus outbreak in the North Asian country, it said late on Wednesday.",
+            "url": "https://www.reuters.com/article/china-health-klm-idUSA5N28R032",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T18:30:39Z",
+            "content": "(Corrects to say service to Beijing has not been affected) \r\nAMSTERDAM, Jan 29 (Reuters) - KLM, the Dutch arm of Air France KLM, will scrap some flights to China due to the coronavirus outbreak in the North Asian country, it said late on Wednesday. \r\nStarting\u2026 [+272 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Air France reduces China flights as virus outbreak hits demand",
+            "description": "Air France said on Wednesday it would reduce its flight schedule to Beijing and Shanghai this week, as the coronavirus outbreak hit demand for travel to China.",
+            "url": "https://www.reuters.com/article/us-china-health-air-france-klm-idUSKBN1ZS2OD",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483064290&w=1200&r=LYNXMPEG0S1TI",
+            "publishedAt": "2020-01-29T18:29:19Z",
+            "content": "PARIS (Reuters) - Air France said on Wednesday it would reduce its flight schedule to Beijing and Shanghai this week, as the coronavirus outbreak hit demand for travel to China. \r\nStarting on Friday, the airline will operate one daily service to each destinat\u2026 [+186 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Air France reduces China flights as virus outbreak hits demand",
+            "description": "Air France said on Wednesday it would reduce its flight schedule to Beijing and Shanghai this week, as the coronavirus outbreak hit demand for travel to China.",
+            "url": "https://www.reuters.com/article/china-health-air-france-klm-idUSL8N29Y6VH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T18:26:03Z",
+            "content": "PARIS, Jan 29 (Reuters) - Air France said on Wednesday it would reduce its flight schedule to Beijing and Shanghai this week, as the coronavirus outbreak hit demand for travel to China. \r\nStarting on Friday, the airline will operate one daily service to each \u2026 [+194 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "KLM says it will scrap some flights to China due to the coronavirus outbreak",
+            "description": "KLM, the Dutch arm of Air France KLM, will scrap some flights to China due to the coronavirus outbreak in the North Asian country, it said late on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-klm-idUSKBN1ZS2NR",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483060935&w=1200&r=LYNXMPEG0S1T2",
+            "publishedAt": "2020-01-29T18:21:18Z",
+            "content": "AMSTERDAM (Reuters) - KLM, the Dutch arm of Air France KLM, will scrap some flights to China due to the coronavirus outbreak in the North Asian country, it said late on Wednesday. \r\nStarting on Friday, direct flights to Chengdu and Hangzhou will be suspended,\u2026 [+204 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Argentina needs policy clarity to reinvigorate economy: IMF",
+            "description": "Greater certainty around Argentina's public policies could help reactivate growth and investments in the recession-hit South American country, the International Monetary Fund said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-imf-latam-idUSKBN1ZS2MM",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483054242&w=1200&r=LYNXMPEG0S1SH",
+            "publishedAt": "2020-01-29T18:05:14Z",
+            "content": "(Reuters) - Greater certainty around Argentina\u2019s public policies could help reactivate growth and investments in the recession-hit South American country, the International Monetary Fund said on Wednesday. \r\n\u201cAs new public policies are announced it will decre\u2026 [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "J\u00f6rn Poltz",
+            "title": "Keep calm and work at home: order prevails at virus-hit German firm",
+            "description": "Four of their co-workers have contracted the coronavirus after a colleague from China visited the firm and their factory has been temporarily closed, but staff at German auto parts supplier Webasto insist they are not worried, even as the global death toll ri\u2026",
+            "url": "https://www.reuters.com/article/us-china-health-germany-webasto-idUSKBN1ZS2L8",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483052125&w=1200&r=LYNXMPEG0S1RP",
+            "publishedAt": "2020-01-29T17:57:29Z",
+            "content": "STOCKDORF, Germany (Reuters) - Four of their co-workers have contracted the coronavirus after a colleague from China visited the firm and their factory has been temporarily closed, but staff at German auto parts supplier Webasto insist they are not worried, e\u2026 [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. working 'closely' with China on coronavirus: Trump",
+            "description": "U.S. President Donald Trump said on Wednesday he had spoken with Chinese President Xi Jinping and the United States was working \"very closely\" with China on the coronavirus outbreak.",
+            "url": "https://www.reuters.com/video/watch/idOVBY8EZTR",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20200129&i=OVBY8EZTR&r=OVBY8EZTR&t=2",
+            "publishedAt": "2020-01-29T17:32:25Z",
+            "content": "Posted \r\nU.S. President Donald Trump said on Wednesday he had spoken with Chinese President Xi Jinping and the United States was working \"very closely\" with China on the coronavirus outbreak."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Human spread of virus in three countries outside China worrying: WHO chief",
+            "description": "The person-to-person spread of the new coronavirus in three countries - Germany, Vietnam and Japan - is worrying and will be considered by experts reconvened to consider declaring a global emergency, the World Health Organization said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-who-chief-idUSKBN1ZS2JQ",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483042678&w=1200&r=LYNXMPEG0S1QA",
+            "publishedAt": "2020-01-29T17:30:41Z",
+            "content": "GENEVA (Reuters) - The person-to-person spread of the new coronavirus in three countries - Germany, Vietnam and Japan - is worrying and will be considered by experts reconvened to consider declaring a global emergency, the World Health Organization said on We\u2026 [+703 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Laila Kearney",
+            "title": "Oil mixed as virus fears offset by talk of OPEC cut extension",
+            "description": "Oil was mixed on Wednesday as worries about the impact of the coronavirus outbreak and swelling crude inventories in the United States weighed on prices, while talk that OPEC could extend oil output cuts provided support.",
+            "url": "https://in.reuters.com/article/global-oil-idINKBN1ZS0DH",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483041791&w=1200&r=LYNXMPEG0S17C",
+            "publishedAt": "2020-01-29T17:24:29Z",
+            "content": "NEW YORK (Reuters) - Oil was mixed on Wednesday as worries about the impact of the coronavirus outbreak and swelling crude inventories in the United States weighed on prices, while talk that OPEC could extend oil output cuts provided support. \r\nBrent crude ga\u2026 [+2635 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Herbert Lash",
+            "title": "Stocks gain on solid results, but virus keeps safe-havens alive",
+            "description": "Global equity markets edged higher on Wednesday on strong results from Apple and others but concerns about the coronavirus outbreak in China dampened investor enthusiasm, keeping a safe-haven bid in gold and the dollar alive.",
+            "url": "https://in.reuters.com/article/global-markets-idINKBN1ZS09H",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482941662&w=1200&r=LYNXMPEG0S12M",
+            "publishedAt": "2020-01-29T17:24:13Z",
+            "content": "NEW YORK (Reuters) - Global equity markets edged higher on Wednesday on strong results from Apple and others but concerns about the coronavirus outbreak in China dampened investor enthusiasm, keeping a safe-haven bid in gold and the dollar alive. \r\nThe yield \u2026 [+3120 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Royal Caribbean sees profit hit after cancelling three cruises amid coronavirus outbreak",
+            "description": "Royal Caribbean Cruises Ltd said on Wednesday its 2020 earnings would be hurt after it canceled three trips of its China-based cruise liner following discussions with health authorities over the coronavirus outbreak.",
+            "url": "https://in.reuters.com/article/china-health-royal-caibbean-idINKBN1ZS265",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483039679&w=1200&r=LYNXMPEG0S1PU",
+            "publishedAt": "2020-01-29T17:22:08Z",
+            "content": "(Reuters) - Royal Caribbean Cruises Ltd said on Wednesday its 2020 earnings would be hurt after it canceled three trips of its China-based cruise liner following discussions with health authorities over the coronavirus outbreak. \r\nThe U.S. cruise operator sai\u2026 [+978 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Air Tanzania postpones maiden flights to China over coronavirus",
+            "description": "Tanzania\u2019s national carrier said on Wednesday it will have to postpone its maiden flights from commercial capital Dar es Salaam to China, citing concerns over the spread of a coronavirus that has killed 133 people.",
+            "url": "https://in.reuters.com/article/china-health-tanzania-idINKBN1ZS25N",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483039690&w=1200&r=LYNXMPEG0S1PS",
+            "publishedAt": "2020-01-29T17:21:50Z",
+            "content": "DAR ES SALAAM (Reuters) - Tanzania\u2019s national carrier said on Wednesday it will have to postpone its maiden flights from commercial capital Dar es Salaam to China, citing concerns over the spread of a coronavirus that has killed 133 people. \r\n\u00a0 \u00a0 State-run Ai\u2026 [+841 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Germany's Lufthansa cancels flights to China due to coronavirus - Bild",
+            "description": "Germany's Lufthansa plans to cancel all flights to China due to concerns about the coronavirus, top-selling Bild daily reported on Wednesday, citing company sources.",
+            "url": "https://in.reuters.com/article/china-health-germany-lufthansa-idINKBN1ZS25P",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483039668&w=1200&r=LYNXMPEG0S1PO",
+            "publishedAt": "2020-01-29T17:21:04Z",
+            "content": "BERLIN (Reuters) - Germany\u2019s Lufthansa plans to cancel all flights to China due to concerns about the coronavirus, top-selling Bild daily reported on Wednesday, citing company sources. \r\nFocus Online had originally tweeted the report. \r\nLufthansa said it had \u2026 [+104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Russian Railways expects coronavirus outbreak to impact freight traffic to Europe",
+            "description": "Russian Railways (RZhD) expects the coronavirus outbreak in China to put pressure on container freight traffic to Europe via Russia, the deputy head of the state rail monopoly said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-russia-freight-idUSKBN1ZS2IH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T17:13:58Z",
+            "content": "MOSCOW (Reuters) - Russian Railways (RZhD) expects the coronavirus outbreak in China to put pressure on container freight traffic to Europe via Russia, the deputy head of the state rail monopoly said on Wednesday. \r\nAlexei Shilo told reporters that RZhD had b\u2026 [+551 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "TSX gains on energy boost",
+            "description": "Canada's main stock index rose on Monday as energy companies were boosted by higher oil prices, but concerns over the economic impact of a coronavirus outbreak in China kept gains in check.",
+            "url": "https://ca.reuters.com/article/topNews/idCAKBN1ZS1KY",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483035907&w=1200&r=LYNXMPEG0S128",
+            "publishedAt": "2020-01-29T17:13:51Z",
+            "content": "(Reuters) - Canada\u2019s main stock index rose on Monday as energy companies were boosted by higher oil prices, but concerns over the economic impact of a coronavirus outbreak in China kept gains in check. \r\nChina\u2019s President Xi Jinping said on Wednesday that pre\u2026 [+1536 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Morgan Stanley warns coronavirus could drag on global, Chinese GDP growth",
+            "description": "Morgan Stanley said on Wednesday the coronavirus outbreak in China was likely to hurt global growth in the near-term and could shave up to 1 percentage point off Chinese growth in the first quarter.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKBN1ZS27P",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483034791&w=1200&r=LYNXMPEG0S1GQ",
+            "publishedAt": "2020-01-29T17:10:19Z",
+            "content": "LONDON (Reuters) - Morgan Stanley said on Wednesday the coronavirus outbreak in China was likely to hurt global growth in the near-term and could shave up to 1 percentage point off Chinese growth in the first quarter. \r\nAssuming the coronavirus peaks in Febru\u2026 [+2135 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Johnson & Johnson working on vaccine for coronavirus",
+            "description": "As the death toll from the new coronavirus jumped to 132, Johnson & Johnson said it is working on developing a vaccine to stop the outbreak that has infected thousands in China. Colette Luke reports",
+            "url": "https://www.reuters.com/video/watch/idOVBY8ER1N",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20200129&i=OVBY8ER1N&r=OVBY8ER1N&t=2",
+            "publishedAt": "2020-01-29T17:08:25Z",
+            "content": "Posted \r\nAs the death toll from the new coronavirus jumped to 132, Johnson &amp; Johnson said it is working on developing a vaccine to stop the outbreak that has infected thousands in China. Colette Luke reports"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Trump says he spoke to China's Xi, U.S. working closely with China on coronavirus",
+            "description": "U.S. President Donald Trump said on Wednesday he had spoken with Chinese President Xi Jinping and the United States was working very closely with China on the coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-trump-idUSKBN1ZS2GP",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483031890&w=1200&r=LYNXMPEG0S1O3",
+            "publishedAt": "2020-01-29T17:03:16Z",
+            "content": "WASHINGTON (Reuters) - U.S. President Donald Trump said on Wednesday he had spoken with Chinese President Xi Jinping and the United States was working very closely with China on the coronavirus outbreak. \r\n\u201cWe\u2019re very much involved with them right now on the \u2026 [+277 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Trump says he spoke to China's Xi, U.S. working closely with China on coronavirus",
+            "description": "U.S. President Donald Trump said on Wednesday he had spoken with Chinese President Xi Jinping and the United States was working very closely with China on the coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-trump-idUSKBN1ZS2GP",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483031890&w=1200&r=LYNXMPEG0S1O3",
+            "publishedAt": "2020-01-29T17:03:16Z",
+            "content": "WASHINGTON (Reuters) - U.S. President Donald Trump said on Wednesday he had spoken with Chinese President Xi Jinping and the United States was working very closely with China on the coronavirus outbreak. \r\n\u201cWe\u2019re very much involved with them right now on the \u2026 [+277 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "WHO 'very impressed' with Chinese response to coronavirus outbreak",
+            "description": "The World Health Organization (WHO) is \"very impressed\" with the Chinese response to the global coronavirus outbreak so far, a senior official said on Wednesday, adding that the world had reached a critical point in efforts to tackle the disease.",
+            "url": "https://www.reuters.com/article/us-china-health-who-idUSKBN1ZS2EE",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483025833&w=1200&r=LYNXMPEG0S1L9",
+            "publishedAt": "2020-01-29T16:47:02Z",
+            "content": "GENEVA (Reuters) - The World Health Organization (WHO) is \u201cvery impressed\u201d with the Chinese response to the global coronavirus outbreak so far, a senior official said on Wednesday, adding that the world had reached a critical point in efforts to tackle the di\u2026 [+423 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S.-chartered plane arrives in CA from virus-hit Wuhan",
+            "description": "A plane chartered by the U.S. State Department carrying U.S. consulate employees and other Americans from the coronavirus-hit Chinese city of Wuhan, arrived at March Air Reserve Base in California on Wednesday.",
+            "url": "https://www.reuters.com/video/watch/idOVBY8EXGF",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20200129&i=OVBY8EXGF&r=OVBY8EXGF&t=2",
+            "publishedAt": "2020-01-29T16:45:25Z",
+            "content": "Posted \r\nA plane chartered by the U.S. State Department carrying U.S. consulate employees and other Americans from the coronavirus-hit Chinese city of Wuhan, arrived at March Air Reserve Base in California on Wednesday."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "WHO panel to reconvene on Thursday to decide if virus global emergency",
+            "description": "The World Health Organization's Emergency Committee will meet on Thursday, the third time in a week, to evaluate whether the new coronavirus spreading from China now constitutes an international emergency, the WHO said.",
+            "url": "https://www.reuters.com/article/us-china-health-who-meeting-idUSKBN1ZS29K",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483010837&w=1200&r=LYNXMPEG0S1HS",
+            "publishedAt": "2020-01-29T16:04:30Z",
+            "content": "GENEVA (Reuters) - The World Health Organization\u2019s Emergency Committee will meet on Thursday, the third time in a week, to evaluate whether the new coronavirus spreading from China now constitutes an international emergency, the WHO said. \r\n\u201cThe Committee wil\u2026 [+482 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Howard Schneider",
+            "title": "Fed likely to keep interest rates on hold as coronavirus worries grow",
+            "description": "The U.S. Federal Reserve will end its latest policy meeting on Wednesday with interest rates likely on hold, adjustments to its balance sheet under discussion, and China's widening coronavirus outbreak posing an unexpected risk to the global economy.",
+            "url": "https://in.reuters.com/article/us-usa-fed-idINKBN1ZS0HP",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482809760&w=1200&r=LYNXMPEG0S0DB",
+            "publishedAt": "2020-01-29T16:01:57Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Federal Reserve will end its latest policy meeting on Wednesday with interest rates likely on hold, adjustments to its balance sheet under discussion, and China\u2019s widening coronavirus outbreak posing an unexpected risk to the g\u2026 [+4260 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "WHO panel to reconvene on Thursday to decide if virus global emergency",
+            "description": "The World Health Organization's Emergency Committee will meet on Thursday, the third time in a week, to evaluate whether the new coronavirus spreading from China now constitutes an international emergency, the WHO said.",
+            "url": "https://www.reuters.com/article/china-health-who-meeting-idUSL8N29Y5YT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T15:55:42Z",
+            "content": "GENEVA, Jan 29 (Reuters) - The World Health Organization\u2019s Emergency Committee will meet on Thursday, the third time in a week, to evaluate whether the new coronavirus spreading from China now constitutes an international emergency, the WHO said. \r\n\u201cThe Commi\u2026 [+491 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Finland confirms its first coronavirus case",
+            "description": "Finland on Wednesday confirmed its first coronavirus case, on a Chinese traveler from Wuhan, the Finnish Institute for Health and Welfare said.",
+            "url": "https://www.reuters.com/article/us-china-health-finland-idUSKBN1ZS27O",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T15:43:45Z",
+            "content": "HELSINKI (Reuters) - Finland on Wednesday confirmed its first coronavirus case, on a Chinese traveler from Wuhan, the Finnish Institute for Health and Welfare said. \r\nThe traveler remains in isolation in Lapland\u2019s central hospital in northern Finland, it said\u2026 [+123 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. military won't be in contact with Wuhan evacuees -Pentagon",
+            "description": "U.S. military personnel won't have any direct contact with U.S. evacuees who are being flown to a U.S. military base in southern California from the Chinese city of Wuhan, the center of an outbreak of the coronavirus, the Pentagon said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-pentagon-idUSKBN1ZS27L",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T15:43:42Z",
+            "content": "WASHINGTON (Reuters) - U.S. military personnel won\u2019t have any direct contact with U.S. evacuees who are being flown to a U.S. military base in southern California from the Chinese city of Wuhan, the center of an outbreak of the coronavirus, the Pentagon said \u2026 [+523 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Morgan Stanley says coronavirus could drag on global, Chinese GDP growth",
+            "description": "Morgan Stanley said on Wednesday that assuming the coronavirus peaks in February and March, global economic growth could be hit by 0.15 to 0.3 percentage point during the first quarter.",
+            "url": "https://www.reuters.com/article/us-china-health-economy-morgan-stanley-idUSKBN1ZS27P",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483002773&w=1200&r=LYNXMPEG0S1GQ",
+            "publishedAt": "2020-01-29T15:43:18Z",
+            "content": "LONDON (Reuters) - Morgan Stanley said on Wednesday that assuming the coronavirus peaks in February and March, global economic growth could be hit by 0.15 to 0.3 percentage point during the first quarter. \r\nAssuming the same time scale, the bank said China\u2019s \u2026 [+146 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. agriculture secretary unsure whether coronavirus will slow Chinese buys of U.S. farm goods",
+            "description": "U.S. Agriculture Secretary Sonny Perdue said on Wednesday he does not know whether China's coronavirus outbreak will affect Beijing's pledge to radically increase purchases of American farm goods under an initial trade deal.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-trade-idUSKBN1ZS27B",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1483001523&w=1200&r=LYNXMPEG0S1GJ",
+            "publishedAt": "2020-01-29T15:42:01Z",
+            "content": "CHICAGO (Reuters) - U.S. Agriculture Secretary Sonny Perdue said on Wednesday he does not know whether China\u2019s coronavirus outbreak will affect Beijing\u2019s pledge to radically increase purchases of American farm goods under an initial trade deal. \r\nU.S. grain a\u2026 [+315 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Top Chinese, U.S. diplomats discuss coronavirus situation",
+            "description": "China's top diplomat Yang Jiechi discussed the coronavirus outbreak with U.S Secretary of State Mike Pompeo on Wednesday, telling him that Beijing has the confidence and ability to win the battle against the virus, state news agency Xinhua said.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-diplomat-idUSKBN1ZS277",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482999596&w=1200&r=LYNXMPEG0S1GH",
+            "publishedAt": "2020-01-29T15:39:26Z",
+            "content": "BEIJING (Reuters) - China\u2019s top diplomat Yang Jiechi discussed the coronavirus outbreak with U.S Secretary of State Mike Pompeo on Wednesday, telling him that Beijing has the confidence and ability to win the battle against the virus, state news agency Xinhua\u2026 [+295 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Canadian dollar nears seven-week low as oil prices fall",
+            "description": "The Canadian dollar weakened against its U.S. counterpart on Wednesday as oil prices fell and investors awaited a Federal Reserve interest rate decision, with the loonie nearing a multiweek low it hit the previous day.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKBN1ZS263",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482995303&w=1200&r=LYNXMPEG0S1FH",
+            "publishedAt": "2020-01-29T15:25:31Z",
+            "content": "TORONTO (Reuters) - The Canadian dollar weakened against its U.S. counterpart on Wednesday as oil prices fell and investors awaited a Federal Reserve interest rate decision, with the loonie nearing a multiweek low it hit the previous day. \r\nThe price of oil, \u2026 [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-Royal Caribbean sees profit hit after cancelling three cruises amid coronavirus outbreak",
+            "description": "Royal Caribbean Cruises Ltd said on Wednesday its 2020 earnings would be hurt after it canceled three trips of its China-based cruise liner following discussions with health authorities over the coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/china-health-royal-caibbean-idUSL4N29Y3BC",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T15:22:19Z",
+            "content": "(Adds details from statement, background) \r\nJan 29 (Reuters) - Royal Caribbean Cruises Ltd said on Wednesday its 2020 earnings would be hurt after it canceled three trips of its China-based cruise liner following discussions with health authorities over the c\u2026 [+1029 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Wall Street gives up early gains as weak earnings weigh",
+            "description": "U.S. stocks gave up early gains on Wednesday, as a spate of disappointing earnings reports offset strong gains in Apple and Boeing, while investors assessed the economic impact of a fast-spreading coronavirus.",
+            "url": "https://in.reuters.com/article/usa-stocks-idINKBN1ZS1XE",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482970325&w=1200&r=LYNXMPEG0S197",
+            "publishedAt": "2020-01-29T15:20:17Z",
+            "content": "(Reuters) - U.S. stocks gave up early gains on Wednesday, as a spate of disappointing earnings reports offset strong gains in Apple and Boeing, while investors assessed the economic impact of a fast-spreading coronavirus. \r\nAt 10:09 a.m. ET, the Dow Jones Ind\u2026 [+255 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Air Tanzania postpones maiden flights to China over coronavirus",
+            "description": "Tanzania's national carrier said on Wednesday it will have to postpone its maiden flights from commercial capital Dar es Salaam to China, citing concerns over the spread of a coronavirus that has killed 133 people.",
+            "url": "https://af.reuters.com/article/topNews/idAFKBN1ZS24G-OZATP",
+            "urlToImage": null,
+            "publishedAt": "2020-01-29T15:11:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "CANADA STOCKS-TSX gains on energy boost",
+            "description": "Canada's main stock index rose on Monday as energy companies were boosted by higher oil prices, but concerns over the economic impact of a coronavirus outbreak in China kept gains in check.",
+            "url": "https://www.reuters.com/article/canada-stocks-idUSL4N29Y3BT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T15:07:43Z",
+            "content": "Jan 29 (Reuters) - Canada\u2019s main stock index rose on Monday as energy companies were boosted by higher oil prices, but concerns over the economic impact of a coronavirus outbreak in China kept gains in check. \r\nChina\u2019s President Xi Jinping said on Wednesday t\u2026 [+1565 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "American Airlines to suspend flights to China",
+            "description": "American Airlines has decided to cancel its flights from Los Angeles to Shanghai and Beijing from Feb. 9 through March 27, the company said on Wednesday, amid deepening fears over the spread of Coronavirus. (Reporting by Sanjana Shivdas in Bengaluru; Editing \u2026",
+            "url": "https://www.reuters.com/article/american-airline-china-health-idUSL4N29Y3CF",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T15:03:41Z",
+            "content": "Jan 29 (Reuters) - American Airlines has decided to cancel its flights from Los Angeles to Shanghai and Beijing from Feb. 9 through March 27, the company said on Wednesday, amid deepening fears over the spread of Coronavirus. (Reporting by Sanjana Shivdas in \u2026 [+33 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Germany's Lufthansa cancels flights to China due to coronavirus - Bild",
+            "description": "Germany's Lufthansa plans to cancel all flights to China due to concerns about the coronavirus, top-selling Bild daily reported on Wednesday, citing company sources.",
+            "url": "https://www.reuters.com/article/china-health-germany-lufthansa-idUSS8N29K09L",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T14:58:40Z",
+            "content": "BERLIN, Jan 29 (Reuters) - Germany\u2019s Lufthansa plans to cancel all flights to China due to concerns about the coronavirus, top-selling Bild daily reported on Wednesday, citing company sources. \r\nFocus Online had originally tweeted the report. \r\nLufthansa said\u2026 [+111 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UNICEF sends six tonnes of masks and other gear to help fight China virus",
+            "description": "A six-tonne shipment of respiratory masks and protective suits for health care workers landed in China on Wednesday for distribution in Wuhan, the epicenter of a spreading coronavirus outbreak, the U.N. Children's Fund (UNICEF) said.",
+            "url": "https://www.reuters.com/article/us-china-health-unicef-idUSKBN1ZS21N",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482984780&w=1200&r=LYNXMPEG0S1C6",
+            "publishedAt": "2020-01-29T14:55:41Z",
+            "content": "GENEVA (Reuters) - A six-tonne shipment of respiratory masks and protective suits for health care workers landed in China on Wednesday for distribution in Wuhan, the epicenter of a spreading coronavirus outbreak, the U.N. Children\u2019s Fund (UNICEF) said. \r\nThe \u2026 [+1080 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Cruise operator Royal Caribbean cancels three trips on coronavirus outbreak",
+            "description": "Royal Caribbean Cruises Ltd said on Wednesday it had canceled three trips scheduled in February, after consultation with health authorities over the spread of coronavirus that has killed more than 100 people and infected thousands in China.",
+            "url": "https://www.reuters.com/article/us-china-health-royal-caibbean-idUSKBN1ZS227",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T14:53:16Z",
+            "content": "(Reuters) - Royal Caribbean Cruises Ltd said on Wednesday it had canceled three trips scheduled in February, after consultation with health authorities over the spread of coronavirus that has killed more than 100 people and infected thousands in China. \r\nThe \u2026 [+751 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Cruise operator Royal Caribbean cancels three trips on coronavirus outbreak",
+            "description": "Royal Caribbean Cruises Ltd said on Wednesday it had canceled three trips scheduled in February, after consultation with health authorities over the spread of coronavirus that has killed more than 100 people and infected thousands in China.",
+            "url": "https://www.reuters.com/article/china-health-royal-caibbean-idUSL4N29Y39J",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T14:52:39Z",
+            "content": "Jan 29 (Reuters) - Royal Caribbean Cruises Ltd said on Wednesday it had canceled three trips scheduled in February, after consultation with health authorities over the spread of coronavirus that has killed more than 100 people and infected thousands in China.\u2026 [+758 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "EU Commission advises staff to suspend non-essential travel to China",
+            "description": "The European Commission is advising its staff to delay \"non-essential\" travel to China, the top official in charge of crisis management said on Wednesday, as the number of deaths from a new coronavirus leapt.",
+            "url": "https://www.reuters.com/article/us-china-health-eu-idUSKBN1ZS220",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482984058&w=1200&r=LYNXMPEG0S1CA",
+            "publishedAt": "2020-01-29T14:52:00Z",
+            "content": "BRUSSELS (Reuters) - The European Commission is advising its staff to delay \u201cnon-essential\u201d travel to China, the top official in charge of crisis management said on Wednesday, as the number of deaths from a new coronavirus leapt. \r\nThe advice concerns only Eu\u2026 [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lindsay Dunsmuir",
+            "title": "Explainer: What the U.S. Federal Reserve is watching this year",
+            "description": "The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday.",
+            "url": "https://www.reuters.com/article/us-usa-fed-2020-explainer-idUSKBN1ZS1Z9",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482980415&w=1200&r=LYNXMPEG0S1AV",
+            "publishedAt": "2020-01-29T14:43:30Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday. \r\nThe U.S. central bank is currently in a holding pattern after cutting interest rates three times\u2026 [+5807 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lindsay Dunsmuir",
+            "title": "Explainer: What the U.S. Federal Reserve is watching this year",
+            "description": "The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKBN1ZS1Z9",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482980415&w=1200&r=LYNXMPEG0S1AV",
+            "publishedAt": "2020-01-29T14:43:30Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday. \r\nThe U.S. central bank is currently in a holding pattern after cutting interest rates three times\u2026 [+5832 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "CANADA STOCKS-TSX opens higher on energy boost",
+            "description": "Canada's main stock index was lifted by energy stocks on Wednesday, as oil prices rose on talk that the OPEC could extend oil output cuts if the new coronavirus hurts demand and data that showed a decline in U.S. stockpiles.",
+            "url": "https://www.reuters.com/article/canada-stocks-idUSL4N29Y39S",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T14:38:21Z",
+            "content": "Jan 29 (Reuters) - Canada\u2019s main stock index was lifted by energy stocks on Wednesday, as oil prices rose on talk that the OPEC could extend oil output cuts if the new coronavirus hurts demand and data that showed a decline in U.S. stockpiles. \r\n* At 09:00 a.\u2026 [+189 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lindsay Dunsmuir",
+            "title": "Explainer: What the U.S. Federal Reserve is watching this year",
+            "description": "The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday.",
+            "url": "https://in.reuters.com/article/us-usa-fed-2020-explainer-idINKBN1ZS1Z9",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482980415&w=1200&r=LYNXMPEG0S1AV",
+            "publishedAt": "2020-01-29T14:25:27Z",
+            "content": "WASHINGTON (Reuters) - The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday. \r\nThe U.S. central bank is currently in a holding pattern after cutting interest rates three times\u2026 [+5807 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lindsay Dunsmuir",
+            "title": "EXPLAINER-What the U.S. Federal Reserve is watching this year",
+            "description": "The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday.",
+            "url": "https://www.reuters.com/article/usa-fed-2020-idUSL1N29X0US",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T14:22:30Z",
+            "content": "WASHINGTON, Jan 29 (Reuters) - The U.S. Federal Reserve is expected to keep interest rates unchanged when it wraps up its first policy meeting of the year on Wednesday. \r\nThe U.S. central bank is currently in a holding pattern after cutting interest rates thr\u2026 [+5542 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sophie Yu",
+            "title": "Chinese farmers, supermarkets race to supply food to locked down Wuhan",
+            "description": "China has told farmers to step up vegetable production, opened roads for delivery trucks and is punishing those trying to profit in order to keep feeding residents of the locked down city of Wuhan at the center of the new coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-wuhan-food-idUSKBN1ZS1XL",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482970391&w=1200&r=LYNXMPEG0S19D",
+            "publishedAt": "2020-01-29T14:14:55Z",
+            "content": "BEIJING (Reuters) - China has told farmers to step up vegetable production, opened roads for delivery trucks and is punishing those trying to profit in order to keep feeding residents of the locked down city of Wuhan at the center of the new coronavirus outbr\u2026 [+3955 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sruthi Shankar",
+            "title": "Wall Street set for gains as Apple, Boeing take focus off coronavirus",
+            "description": "Wall Street was set to extend its recovery on Wednesday as a surge in shares of Apple and Boeing after their results overshadowed concerns over the economic impact of a fast-spreading coronavirus.",
+            "url": "https://in.reuters.com/article/us-usa-stocks-idINKBN1ZS1NK",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482946636&w=1200&r=LYNXMPEG0S13O",
+            "publishedAt": "2020-01-29T14:14:04Z",
+            "content": "(Reuters) - Wall Street was set to extend its recovery on Wednesday as a surge in shares of Apple and Boeing after their results overshadowed concerns over the economic impact of a fast-spreading coronavirus. \r\nApple Inc (AAPL.O) gained 1.9% in premarket trad\u2026 [+2575 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sruthi Shankar",
+            "title": "US STOCKS-Wall St set for gains as Apple, Boeing take focus off coronavirus",
+            "description": "Wall Street was set to extend its recovery on Wednesday as a surge in shares of Apple and Boeing after their results overshadowed concerns over the economic impact of a fast-spreading coronavirus.",
+            "url": "https://www.reuters.com/article/usa-stocks-idUSL4N29Y31S",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T14:10:50Z",
+            "content": "(For a live blog on the U.S. stock market, click or type LIVE/ in a news window.) \r\n* Apple, Boeing, GE set to boost Wall St at open \r\n* Starbucks slips as coronavirus prompts store closures in China \r\n* Fed expected to hold rates, statement due at 2:00 pm ET\u2026 [+2899 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "German minister: Too early to gauge impact of coronavirus on economy",
+            "description": "More time and data are needed to quantify any possible negative effects of the coronavirus that broke out in China on the German economy, Economy Minister Peter Altmaier said on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-germany-economy-idUSKBN1ZS1WU",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482969234&w=1200&r=LYNXMPEG0S18P",
+            "publishedAt": "2020-01-29T14:09:54Z",
+            "content": "BERLIN (Reuters) - More time and data are needed to quantify any possible negative effects of the coronavirus that broke out in China on the German economy, Economy Minister Peter Altmaier said on Wednesday. \r\nChina, which is struggling to contain the epidemi\u2026 [+166 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China's Sichuan province reports first death from coronavirus - state media",
+            "description": "China's Sichuan province reported its first death from coronavirus, state media reported on Wednesday.",
+            "url": "https://www.reuters.com/article/us-china-health-sichuan-idUSKBN1ZS1WS",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482969161&w=1200&r=LYNXMPEG0S18W",
+            "publishedAt": "2020-01-29T14:09:49Z",
+            "content": "BEIJING (Reuters) - China\u2019s Sichuan province reported its first death from coronavirus, state media reported on Wednesday. \r\nAs of 8 a.m. (0000 GMT) Wednesday, the southwestern province had reported 108 confirmed cases. \r\nReporting by Beijing newsroom; Writin\u2026 [+42 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Johnson & Johnson starts developing vaccine for coronavirus",
+            "description": "Johnson & Johnson said on Wednesday it is working on developing a vaccine for the new coronavirus that has killed more than 100 people in China.",
+            "url": "https://www.reuters.com/article/us-china-health-johnson-johnson-idUSKBN1ZS1VW",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482966259&w=1200&r=LYNXMPEG0S185",
+            "publishedAt": "2020-01-29T14:02:59Z",
+            "content": "(Reuters) - Johnson &amp; Johnson said on Wednesday it is working on developing a vaccine for the new coronavirus that has killed more than 100 people in China. \r\nThe company also said it was donating its HIV drug Prezcobix to China for use in research to fin\u2026 [+98 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Johnson & Johnson starts developing vaccine for coronavirus",
+            "description": "Johnson & Johnson said on Wednesday it is working on developing a vaccine for the new coronavirus that has killed more than 100 people in China.",
+            "url": "https://www.reuters.com/article/china-health-johnsonjohnson-idUSL4N29Y31V",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T14:01:04Z",
+            "content": "Jan 29 (Reuters) - Johnson &amp; Johnson said on Wednesday it is working on developing a vaccine for the new coronavirus that has killed more than 100 people in China. \r\nThe company also said it was donating its HIV drug Prezcobix to China for use in research\u2026 [+105 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Miller",
+            "title": "UPDATE 3-Novartis predicts rising sales and minimal disruption from coronavirus",
+            "description": "Novartis boss Vas Narasimhan expects higher sales and profitability this year, lifted by its broad range of drugs, and minimal disruption to its supply chain from the coronavirus outbreak in China.'",
+            "url": "https://www.reuters.com/article/novartis-results-idUSL8N29Y0WT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-01-29T13:58:08Z",
+            "content": "* Expects sales and profit growth to extend into 2020 \r\n* Fourth-quarter net income up 13% \r\n* Shares gain 1.5% (Recasts on 2020 growth, adds CEO and analyst comment) \r\nBy John Miller \r\nBASEL, Switzerland, Jan 29 (Reuters) - Novartis boss Vas Narasimhan expec\u2026 [+2857 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China first-quarter growth may dip below 5% as virus spreads - government economist",
+            "description": "China's economic growth may drop to 5% or even lower due to the coronavirus outbreak, possibly pushing policymakers into introduce more stimulus measures, a government economist said in remarks published on Wednesday.",
+            "url": "https://in.reuters.com/article/china-health-economy-idINKBN1ZS1UQ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482964841&w=1200&r=LYNXMPEG0S17W",
+            "publishedAt": "2020-01-29T13:57:49Z",
+            "content": "BEIJING (Reuters) - China\u2019s economic growth may drop to 5% or even lower due to the coronavirus outbreak, possibly pushing policymakers into introduce more stimulus measures, a government economist said in remarks published on Wednesday. \r\nThe fast-spreading \u2026 [+2692 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Noor Zainab Hussain",
+            "title": "Many global firms, excluded from epidemic insurance, face heavy coronavirus costs",
+            "description": "Many global companies from hotels and airlines to industrial houses are expected to have to foot the bill for disruptions caused by a new coronavirus in China, with epidemics usually excluded from insurance cover, experts said.",
+            "url": "https://in.reuters.com/article/china-health-insurance-idINKBN1ZS1RT",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200129&t=2&i=1482959357&w=1200&r=LYNXMPEG0S16S",
+            "publishedAt": "2020-01-29T13:43:47Z",
+            "content": "LONDON/HONG KONG (Reuters) - Many global companies from hotels and airlines to industrial houses are expected to have to foot the bill for disruptions caused by a new coronavirus in China, with epidemics usually excluded from insurance cover, experts said. \r\n\u2026 [+3904 chars]"
+        }
+    ]
+}

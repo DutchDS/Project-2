@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": null,
+            "title": "How coronavirus compares to flu, Ebola, and other major outbreaks - msnNOW",
+            "description": "How coronavirus compares to flu, Ebola, and other major outbreaks msnNOW View full coverage on Google News",
+            "url": "https://www.nationalgeographic.com/science/2020/02/graphic-coronavirus-compares-flu-ebola-other-major-outbreaks/",
+            "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBZLMtK.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=1865&y=1234",
+            "publishedAt": "2020-02-07T19:33:00Z",
+            "content": "The novel coronavirus that originated in Wuhan, China, has swept across the globe, infecting about 31,500 people as of press time. But a persistent question has permeated the public consciousness: Is this new viral terror less or more dangerous than other inf\u2026 [+16030 chars]"
+        }
+    ]
+}

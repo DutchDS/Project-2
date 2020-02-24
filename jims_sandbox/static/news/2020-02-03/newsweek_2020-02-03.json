@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Thousands of Pets Trapped in Wuhan Lockdown Face Death from Starvation Following Coronavirus Outbreak",
+            "description": "The capital of Hubei province, where the virus was first discovered, has been on lockdown since January 23.",
+            "url": "https://www.newsweek.com/coronavirus-china-wuhan-pets-trapped-animal-protection-rescue-1485440",
+            "urlToImage": "https://d.newsweek.com/en/full/1564620/wuhan-china-dog-january-22-2020.jpg",
+            "publishedAt": "2020-02-03T17:51:48Z",
+            "content": "Thousands of pets in Wuhan are estimated to be trapped inside homes and in danger of dying from starvation in the absence of their owners, who have not been allowed to return to the city following the ongoing coronavirus outbreak, animal advocates claim.\r\nThe\u2026 [+4907 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Alex Jones Infowars Youtube Videos Uploaded by Proxy Accounts Attracted Hundreds of Thousands of Views, Despite Ban",
+            "description": "Multiple YouTube accounts distributing content from Infowars were created last October and remained online until today, when \"Newsweek\" approached Google for comment.",
+            "url": "https://www.newsweek.com/alex-jones-infowars-youtube-videos-general-shepherd-terminated-social-media-ban-1485424",
+            "urlToImage": "https://d.newsweek.com/en/full/1564605/alex-jones.jpg",
+            "publishedAt": "2020-02-03T17:50:49Z",
+            "content": "YouTube channels sharing content from Alex Jones and his website Infowars have attracted hundreds of thousands of views, despite the host's ban from the platform.\r\nUploaded under the pseudonym \"General Shepherd,\" at least three accounts amassed thousands of s\u2026 [+4929 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Coronavirus Update: Confirmed Cases Surpass 17,000 As Death Toll Rises",
+            "description": "There are now 11 cases in the United States, but officials are urging people not to panic because the risk of being exposed is still low.",
+            "url": "https://www.newsweek.com/coronavirus-update-confirmed-cases-deaths-united-states-china-world-1485429",
+            "urlToImage": "https://d.newsweek.com/en/full/1564600/coronavirus-cases-update-death-toll-increase.jpg",
+            "publishedAt": "2020-02-03T16:38:04Z",
+            "content": "As researchers try to learn more about the new coronavirus strain, confirmed cases and the death toll continue to rise.\r\nTemporarily named 2019-nCoV, the virus was first identified in December in Wuhan, China, after several people sought medical help for pneu\u2026 [+3188 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "China Accuses U.S. of 'Manufacturing and Spreading Panic' With Coronavirus Travel Ban, Evacuations",
+            "description": "Despite restricting travel from China and urging Americans to not go there, government officials maintained that the risk to the American public is low.",
+            "url": "https://www.newsweek.com/china-accuses-us-manufacturing-spreading-panic-coronavirus-travel-ban-evacuations-1485401",
+            "urlToImage": "https://d.newsweek.com/en/full/1564556/coronavirus-us-fear-trump-china.jpg",
+            "publishedAt": "2020-02-03T14:51:35Z",
+            "content": "As cases of a new coronavirus rise in the United States, so has the government's response, prompting condemnation from China for causing panic instead of offering aid.\r\nOn Sunday, health officials in California confirmed three additional cases of the virus, b\u2026 [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Coronavirus Fears Rise As U.S. Denies Entry to Foreign Nationals Who Have Traveled to China in Last 14 Days",
+            "description": "Additionally, any Americans who have been to China will undergo a health screening at one of 11 airports.",
+            "url": "https://www.newsweek.com/coronavirus-us-travel-ban-airport-restrictions-health-screening-china-flights-1485369",
+            "urlToImage": "https://d.newsweek.com/en/full/1564488/los-angeles-airport-passengers-masks-coronavirus.jpg",
+            "publishedAt": "2020-02-03T12:28:57Z",
+            "content": "The U.S. has temporarily banned the entry of any foreign nationals who have traveled to China within the last 14 days in a bid to \"proactively and aggressively\" contain the spread of the coronavirus. All U.S. citizens who have traveled to the Hubei province, \u2026 [+6449 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Margaret Hamburg, Mark Smolinski",
+            "title": "The Coronavirus Outbreak Is A Wake-up Call Showing How Unprepared We Are To Deal With Biological Threats",
+            "description": "A disease in a remote part of the world can be in your backyard tomorrow. But though each outbreak captured the attention of the public and the politicians, as fears subsided, complacency set it.",
+            "url": "https://www.newsweek.com/coronavirus-outbreak-wake-call-showing-how-unprepared-we-are-deal-biological-threats-1485316",
+            "urlToImage": "https://d.newsweek.com/en/full/1564062/coronavirus-wuhan-china-virus-getty.jpg",
+            "publishedAt": "2020-02-03T12:00:01Z",
+            "content": "In 2011, a novel virus,MEV-1, emerged from China and quickly spread throughout the world, killing 2.5 million people in the U.S. and 26 million worldwide.\r\nThat outbreak wasn't real, of courseit was the plot of the film Contagion, providing a Hollywood-style \u2026 [+16743 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "Coronavirus Outbreak in China 'Much Worse' than Officially Reported, Claim Wuhan Residents",
+            "description": "One man told international media: \"Many who weren't able to get diagnosed ended up dying at home.\"",
+            "url": "https://www.newsweek.com/coronavirus-china-outbreak-epidemic-wuhan-1485354",
+            "urlToImage": "https://d.newsweek.com/en/full/1564464/wuhan.jpg",
+            "publishedAt": "2020-02-03T11:30:12Z",
+            "content": "The coronavirus has already claimed more lives in mainland China than the SARS epidemic, amid reports the country's authorities are not being transparent about the scale of the epidemic and that people are finding it hard to get treatment.\r\nThe official death\u2026 [+3631 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Pregnant Woman With Coronavirus Gives Birth to Healthy Baby in China, Now in Quarantine, Officials Say",
+            "description": "The virus which has spread to over 20 countries has killed over 300 people.",
+            "url": "https://www.newsweek.com/pregnant-woman-coronavirus-heathy-baby-china-1485342",
+            "urlToImage": "https://d.newsweek.com/en/full/1564469/coronavirus-countries-wuhan-china-london-heathrow.jpg",
+            "publishedAt": "2020-02-03T09:36:26Z",
+            "content": "A woman with the mysterious new coronavirus that has killed hundreds of people has given birth to a healthy baby, according to Chinese authorities.\r\nThe unnamed woman who had the bug known as 2019-nCoV gave birth to a baby weighing around 3 kg (6.6 lbs) in He\u2026 [+3097 chars]"
+        }
+    ]
+}

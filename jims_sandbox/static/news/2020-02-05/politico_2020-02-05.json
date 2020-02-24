@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Ryan McCrimmon",
+            "title": "Buttigieg, Sanders take the lead in Iowa",
+            "description": "Caucus flop could dent ethanol\u2019s power \u2014 White House sees farm export threat from coronavirus",
+            "url": "https://www.politico.com/newsletters/morning-agriculture/2020/02/05/buttigieg-sanders-take-the-lead-in-iowa-785067",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-05T15:00:34Z",
+            "content": "With help from Eric Wolff\r\nEditor's Note: This edition of Morning Agriculture is published weekdays at 10 a.m. POLITICO Pro Agriculture subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pro's comprehens\u2026 [+9604 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Sam Mintz",
+            "title": "Trump bows to the inevitable on infrastructure",
+            "description": "FAA moves toward a new kind of drone certification \u2014 Flight attendants call for better coronavirus coordination",
+            "url": "https://www.politico.com/newsletters/morning-transportation/2020/02/05/trump-bows-to-the-inevitable-on-infrastructure-785057",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-05T15:00:26Z",
+            "content": "Presented by Freight Rail Works\r\nEditors Note: This edition of Morning Transportation is published weekdays at 10 a.m. POLITICO Pro Transportation subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pros \u2026 [+8713 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Doug Palmer",
+            "title": "Trump cuts China trade deficit as U.S. buys more from other nations",
+            "description": "The nation's overall trade gap is still 22 percent higher than in Obama's final year in office.",
+            "url": "https://www.politico.com/news/2020/02/05/trump-cuts-china-trade-deficit-as-us-buys-more-from-other-nations-110810",
+            "urlToImage": "https://static.politico.com/b3/a2/c8f5bb374f9c97543cd6fdaf50ba/200205-donald-trump-ap-773.jpg",
+            "publishedAt": "2020-02-05T14:59:02Z",
+            "content": "Data released Wednesday by the Commerce Department showed the deficit in exports versus imports from China shrank to$345.6 billion, down about 18 percent from a record high level of $419.5 billion in 2018.\r\nBut the U.S. trade deficit in manufactured goods wit\u2026 [+6433 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jeremy B. White, Carla Marinucci, Graph Massara and Aaron Leathley",
+            "title": "TRUMP hits CALIFORNIA in SOTU \u2014 BLOOMBERG doubles down \u2014 LA DA ads up \u2014 NEWSOM\u2019s WATER plan",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/02/05/trump-hits-california-in-sotu-bloomberg-doubles-down-la-da-ads-up-newsoms-water-plan-488244",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-05T14:17:06Z",
+            "content": "THE BUZZ: With the State of the Union spotlight burning bright, Donald Trump turned again last night to his favorite West Coast punching bag.\r\nCalifornia has long loomed for Trump and his allies as the sinister embodiment of liberal villainy, particularly whe\u2026 [+16531 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Melanie Zanona",
+            "title": "The Trump-Pelosi feud hits a new low as the final impeachment vote draws near",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/huddle/2020/02/05/the-trump-pelosi-feud-hits-a-new-low-as-the-final-impeachment-vote-draws-near-488248",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-05T13:24:18Z",
+            "content": "with help from Caitlin Emma\r\nBERATE OF THE UNION -- The State of the Union started with President Donald Trump snubbing\r\n Speaker Nancy Pelosis handshake and ended with Pelosi ripping up\r\n the presidents speech. It was the courteous thing to do, Pelosi said a\u2026 [+12283 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Erin Durkin, Anna Gronewold and Marcus Navarro",
+            "title": "Bail reformers take heat \u2014 Bloomberg to double ad spending \u2014 Cuomo names Medicaid panel",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-york-playbook/2020/02/05/bail-reformers-take-heat-bloomberg-to-double-ad-spending-cuomo-names-medicaid-panel-488246",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-05T12:30:53Z",
+            "content": "Presented by the Five Borough Jobs Campaign\r\nIts not easy these days being a bail reformer, with backers of the states criminal justice overhaul facing an onslaught from Republicans and some Democrats who want the law repealed or watered down.\r\nPart of the pr\u2026 [+20755 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Shannon Young",
+            "title": "PRESSLEY rips Trump\u2019s State of the Union speech \u2014 Dems take aim at LOGAN noise \u2014 IOWA CAUCUS results trickle out",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/massachusetts-playbook/2020/02/05/pressley-offers-own-take-on-state-of-the-union-mass-dems-take-aim-at-airplane-noise-iowa-caucus-results-released-488240",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-05T12:08:38Z",
+            "content": "GOOD MORNING, MASSACHUSETTS. \r\nPROGRAMMING NOTE: Stephanie Murray is in New Hampshire this week to help with POLITICOs 2020 primary coverage, so Im jumping back across the New York border to report on all things Massachusetts. Have a tip, story, suggestion, b\u2026 [+18247 chars]"
+        }
+    ]
+}

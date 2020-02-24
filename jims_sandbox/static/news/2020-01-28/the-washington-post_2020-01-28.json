@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Valerie Strauss",
+            "title": "News literacy lessons: How damaging fake news is spreading about China\u2019s virus outbreak",
+            "description": "From the News Literacy Project.",
+            "url": "https://www.washingtonpost.com/education/2020/01/28/news-literacy-lessons-how-damaging-fake-news-is-spreading-about-chinas-virus-outbreak/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/HpMYbD4bEpIVlnBivaa4y6tDDZM=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AK7OYTCBYQI6VGOHDX6UEQNC7Y.jpg",
+            "publishedAt": "2020-01-28T19:09:48Z",
+            "content": "Founded more than a decade ago by Alan Miller, a Pulitzer Prize-winning reporter at the Los Angeles Times, the News Literacy Project aims to teach students how to distinguish between whats real and fake in the age of digital communication and a president who \u2026 [+3875 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "James Hohmann",
+            "title": "The Daily 202: Five reasons Trump is poised to get acquitted \u2014 but Watergate brought down Nixon",
+            "description": "Ken Starr highlights some differences between the Nixon and Trump impeachment proceedings.",
+            "url": "https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2020/01/28/daily-202-five-reasons-trump-is-poised-to-get-acquitted-but-watergate-brought-down-nixon/5e2fbae988e0fa6ea99d592d/",
+            "urlToImage": "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/5647cedeaf6fb7a6277265695257e564-OF7SKFRKFUI6TEDOTVK3MRI6WQ-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+            "publishedAt": "2020-01-28T16:49:05Z",
+            "content": "THE BIG IDEA: Ken Starr said Monday that the rank criminality of the Nixon administration necessitated the 37th presidents impeachment.\r\nSpeaking on the Senate floor in his capacity as President Trumps defense lawyer, Starr held up the proceedings against Ric\u2026 [+48691 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kim Bellware",
+            "title": "FDA warns Purell over false claims it can eliminate Ebola, MRSA and flu",
+            "description": "The FDA warning targets the ways Goja Industries, Purell\u2019s parent company, marketed its sanitizer products in social media materials, blog posts and frequently asked questions.",
+            "url": "https://www.washingtonpost.com/health/2020/01/28/purell-hand-sanitizer-flu-fda/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/9JemAqwID9-XxFh9D8weB2DbgOg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RTXC7UHWEI6THLT4K5GXPY3TM.jpg",
+            "publishedAt": "2020-01-28T16:23:23Z",
+            "content": "The warning targets the ways Gojo Industries, Purells parent company, marketed its popular line of alcohol-based gels, foams and sprays in social media materials, blog posts and frequently asked questions on the product and corporate website. Some of the stat\u2026 [+4105 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Cat Zakrzewski",
+            "title": "The Technology 202: Twitter, Facebook investigate apparent hack of NFL accounts",
+            "description": "All organizations should take basic steps to protect their accounts, experts say.",
+            "url": "https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/28/the-technology-202-twitter-facebook-investigate-apparent-hack-of-nfl-accounts/5e2f1f3e88e0fa6ea99d5405/",
+            "urlToImage": "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/83ee0b5e28734c66af95635b17e473eb-R44UXNR25MI6VL7CBEHLG63AWE-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+            "publishedAt": "2020-01-28T14:04:53Z",
+            "content": "A detailed view of the National Football League logo on the goal post stanchion before the AFC Championship Game between the Kansas City Chiefs and the Tennessee Titans. (Photo by David Eulitt/Getty Images)\r\nCtrl + N\r\nTwitter and Facebook say they are investi\u2026 [+10822 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Tory Newmyer",
+            "title": "The Finance 202: Coronavirus fears spook Wall Street. But the U.S. economic threat looks limited",
+            "description": "Analysts say the market is right to be reacting to impact on China.",
+            "url": "https://www.washingtonpost.com/news/powerpost/paloma/the-finance-202/2020/01/28/the-finance-202-coronavirus-fears-spook-wall-street-but-the-u-s-economic-threat-looks-limited/5e2f6eaa602ff14e6605a6f2/",
+            "urlToImage": "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/d69ca054bf6b3b5fa8f0fdecade0cc27-NWQUJ4CBDMI6VGOHDX6UEQNC7Y-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+            "publishedAt": "2020-01-28T12:37:20Z",
+            "content": "THE TICKER\r\nTraders work on the floor of the New York Stock Exchange. (Photo by Spencer Platt/Getty Images)\r\nInvestors are looking beyond the impeachment drama transfixing Washington to another geopolitical disruption, as the ongoing spread of coronavirus ori\u2026 [+15089 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Paige Winfield Cunningham",
+            "title": "The Health 202: Trump can enforce his \u2018public charge\u2019 immigration crackdown -- for now",
+            "description": "It\u2019s part of the administration\u2019s aggressive attempt to get more cases before the Supreme Court.",
+            "url": "https://www.washingtonpost.com/news/powerpost/paloma/the-health-202/2020/01/28/the-health-202-trump-can-enforce-his-public-charge-immigration-crackdown-for-now/5e2f468d602ff14e6605a569/",
+            "urlToImage": "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/1c5d33c938ebf31a5468f2368c6249a5-BLMTJGSBGQI6VGOHDX6UEQNC7Y-680-453-70-8.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+            "publishedAt": "2020-01-28T12:29:40Z",
+            "content": "THE PROGNOSIS\r\nThe Supreme Court. (J. Scott Applewhite/AP)\r\nPresident Trump has made it a habit of running to the Supreme Court for help in buttressing his controversial new policies. The latest example: The courts 5-4 order yesterday allowing his administrat\u2026 [+14767 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerry Shih",
+            "title": "Concern \u2014 and boredom \u2014 mount for those trapped at the epicenter of the coronavirus outbreak",
+            "description": "54 million people trapped in the outbreak's epicenter are beginning to adjust to a surreal new reality that could last weeks, if not longer.",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/concern--and-boredom--mount-for-those-trapped-at-the-epicenter-of-the-coronavirus-outbreak/2020/01/28/7683fe94-41bd-11ea-99c7-1dfd4241a2fe_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/keiiCtNu155Re07IkjZIig7QEFU=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5DBIDSBYYI6VNIDFMDXYQ3GC4.jpg",
+            "publishedAt": "2020-01-28T12:11:39Z",
+            "content": "Nearly a week into a quarantine of unprecedented scale, as many as 54 million people trapped in the outbreaks epicenter, Wuhan, and the densely populated plains lining the Yangtze River are beginning to adjust to a surreal new reality that could last weeks, i\u2026 [+6880 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dake Kang\u2009|\u2009AP",
+            "title": "Wuhan officials face questions, anger over virus response",
+            "description": "Top officials in the central Chinese city of Wuhan attended a Lunar New Year gala last week where performers were sniffling and sneezing",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/wuhan-officials-face-questions-anger-over-virus-response/2020/01/28/74e43ea4-41b4-11ea-99c7-1dfd4241a2fe_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-01-28T09:56:30Z",
+            "content": "The next morning, residents woke to news that officials had ordered the city sealed, its airport closed and its train and bus stations shut down. Thousands of people flooded Wuhans hospitals, which pleaded for donations of masks, disinfectant and medical supp\u2026 [+9116 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerry Shih, Simon Denyer",
+            "title": "Asia faces steep economic price in battle to stop the spread of the coronavirus outbreak",
+            "description": "Stock markets are sliding and tourism incomes are falling, posing a new dilemma for Asian governments.",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-live-updates/2020/01/28/da7664f2-414d-11ea-b503-2b077c436617_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/pS03qUVWE3c4Sjh89y86oaeqtGY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U4ECZMSBUMI6VCL7JFJLRZXOOI.jpg",
+            "publishedAt": "2020-01-28T07:55:33Z",
+            "content": "Chinas Center for Disease control said a balance has to be struck between controlling the spread of the disease and mimizing the economic impact. A longer holiday is better, said the deputy director general, but people need to live and work and emergency supp\u2026 [+11795 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Associated Press",
+            "title": "Germany confirms 1st case of new virus from China",
+            "description": "Authorities in Germany have confirmed the country's first case of the new virus that emerged in central China",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/germany-confirms-1st-case-of-new-virus-from-china/2020/01/28/e6187e12-4198-11ea-99c7-1dfd4241a2fe_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-01-28T06:39:14Z",
+            "content": "The ministry said it considers the risk to the general population in Bavaria to be low.\r\nGermany is the second European country to report a confirmed case of the virus. Authorities in France confirmed three cases in recent days all Chinese citizens who recent\u2026 [+561 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Associated Press",
+            "title": "The Latest: North Korea increases steps against China virus",
+            "description": "North Korea said it's taking \"emergency steps\" to prevent the spread of a new virus from neighboring China",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/the-latest-north-korea-increases-steps-against-china-virus/2020/01/28/b407e3de-4195-11ea-99c7-1dfd4241a2fe_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-01-28T06:16:22Z",
+            "content": "Officials said the man is being medically isolated and people who were in close contact with him are being informed about possible symptoms and hygiene measures.\r\nThe ministry said it considers the risk to the general population in Bavaria to be low.\r\nAuthori\u2026 [+2058 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerry Shih",
+            "title": "As deadly coronavirus spreads, U.S. to expand screening of passengers from China at 20 airports",
+            "description": "As deadly coronavirus spreads, U.S. to expand screening of passengers from China at 20 airports washingtonpost.com",
+            "url": "https://www.washingtonpost.com/health/as-deadly-coronavirus-spreads-us-to-expand-screening-of-passengers-from-china-at-20-airports/2020/01/27/deb0fb78-412e-11ea-aa6a-083d01b3ed18_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/TqyhMV_9ndB8BwDcki5R2w41E8A=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AZYOUSBGEI6VNIDFMDXYQ3GC4.jpg",
+            "publishedAt": "2020-01-28T02:45:53Z",
+            "content": "In a rare public mea culpa, a Chinese official said Monday that the government had mishandled the early stages of the crisis, which has claimed at least 100 lives and infected more than 4,400 people. Wuhan Mayor Zhou Xianwang, speaking with Chinese state broa\u2026 [+9519 chars]"
+        }
+    ]
+}
