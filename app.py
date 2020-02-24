@@ -76,16 +76,16 @@ def bar_china():
     return bar_data
 
 
-@app.route("/api/data/test")
-def list_test():
-    results = db.session.query(daily_stats.date).all()
+# @app.route("/api/data/test")
+# def list_test():
+#     results = db.session.query(daily_stats.date).all()
 
-    dates = []
-    for result in results:
-        dates.append({
-            "date": result[0]
-        })
-    return jsonify(dates)
+#     dates = []
+#     for result in results:
+#         dates.append({
+#             "date": result[0]
+#         })
+#     return jsonify(dates)
 
 if __name__ == "__main__":
     app.run(debug=True)
