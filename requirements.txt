@@ -25,7 +25,7 @@ chainmap==1.0.3
 chardet==3.0.4
 citipy==0.0.5
 Click==7.0
-cloudpickle==1.2.2
+# cloudpickle==1.2.2
 clyent==1.2.2
 colorama==0.4.1
 combomethod==1.0.12
