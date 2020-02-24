@@ -124,6 +124,6 @@ legend.addTo(myMap);
 
 create_legend()
 
-for (var i = 0; i < 26; i++)  {  
+for (var i = 0; i < 30; i++)  {  
   task(i); 
 } 

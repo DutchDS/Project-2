@@ -14,9 +14,11 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 // Load in geojson data
 // var geoData = "static/geojsons/china.json";
-// var geoUrl = "static/geojsons/2020-02-19.json";
+var geoUrl = "static/geojsons/2020-02-19.json";
 
 var current_date = new Date('2020-01-27');
+
+// add a day
 
 function formatDate(date) {
   var d = new Date(date),
@@ -32,6 +34,18 @@ function formatDate(date) {
   return [year, month, day].join('-');
 }
 
+
+function run(geoUrl) {    
+  // run this code
+
+  setTimeout(afterTwoSeconds(geoUrl), 100);    
+}
+
+function afterTwoSeconds(geoUrl) {  
+  get_new_layer(geoUrl)  
+  // run this code two seconds after executing run.   
+}
+
 function task(i) { 
   setTimeout(function() {
 
@@ -42,19 +56,19 @@ function task(i) {
     // console.log(current_date)
     console.log(geoUrl)
   // call run
-    get_new_layer(geoUrl);
+    run(geoUrl);
   
     current_date.setDate(current_date.getDate() + 1);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 300 * i); 
+  , 2000 * i); 
 } 
 
 var geojson;
 var legend;
 function chooseColor(x) {
-  // console.log("this is line 57")
+  
   // console.log("--------------------------")
     if (x == 0)
       color = "#fde8fc"
@@ -76,7 +90,7 @@ function chooseColor(x) {
 function get_new_layer(geoUrl) { 
 
       // Grab data with d3
-  d3.json(geoUrl).then(function(data) {
+  d3.json(geoUrl, function(data) {
     
     console.log("GEOJSON ", data)
     // Create a new choropleth layer
@@ -124,6 +138,6 @@ legend.addTo(myMap);
 
 create_legend()
 
-for (var i = 0; i < 30; i++)  {  
+for (var i = 0; i < 26; i++)  {  
   task(i); 
 } 

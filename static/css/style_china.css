@@ -1,14 +1,102 @@
-body { background-image: url("https://i.ytimg.com/vi/QUpWCRadIIA/maxresdefault.jpg"); }
+body {
+  padding: 0;
+  margin: 0;
+}
 
-.card { 
-    background-color: rgb(14, 23, 61); 
-    color:whitesmoke; 
-    border: 2px solid whitesmoke;}
+#map,
+body,
+html {
+  height: 100%;
+}
 
-.jumbotron { background-color: rgb(14, 23, 61); padding: 5px; }
+#bar { 
+  background-color: "#0e173d";
+  /* opacity: 0.8; */
+}
+.xy, .bglayer, .nsewdrag {background-color: "#0e173d"}
 
-.text-center {padding: 2px; margin: 2px;}
+.leaflet-popup-content {
+  text-align: center;
+}
 
-h1, h2, h3, h4, h5, h6, tr {color: whitesmoke;}
 
-i {color: whitesmoke;}
+
+/*Legend specific*/
+.legend {
+  padding: 6px 8px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(177, 183, 214, 0.8);
+  /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+  /*border-radius: 5px;*/
+  line-height: 24px;
+  color: #555;
+}
+.legend h4 {
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 12px 8px;
+  color: #777;
+}
+
+.legend span {
+  position: relative;
+  bottom: 3px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin: 0 8px 0 0;
+  opacity: 0.7;
+}
+
+.legend i.icon {
+  background-size: 18px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.svg-container { 
+  padding: 10px; 
+  margin: 5px
+}
+
+#map {height: 450px}
+/* CSS from the Leaflet-Choropleth documentation
+.legend {
+  padding: 6px 8px;
+  font: 12px Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #555;
+  background: #fff;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend ul {
+  padding: 0;
+  margin: 0;
+  clear: both;
+  list-style-type: none;
+}
+
+.legend li {
+  display: inline-block;
+  width: 30px;
+  height: 22px;
+}
+
+.legend .min {
+  float: left;
+  padding-bottom: 5px;
+}
+
+.legend .max {
+  float: right;
+}
+
+h1 {
+  text-align: center;
+} */

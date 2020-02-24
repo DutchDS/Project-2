@@ -18,6 +18,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 var current_date = new Date('2020-01-27');
 
+
 function formatDate(date) {
   var d = new Date(date),
       month = '' + (d.getMonth() + 1),
@@ -32,9 +33,10 @@ function formatDate(date) {
   return [year, month, day].join('-');
 }
 
+
 function task(i) { 
   setTimeout(function() {
-
+    // get_bar_data()
     script_date = formatDate(current_date)
      
     geoUrl = "static/geojsons/" + script_date + ".json";
@@ -42,19 +44,19 @@ function task(i) {
     // console.log(current_date)
     console.log(geoUrl)
   // call run
-    get_new_layer(geoUrl);
+    get_new_layer(geoUrl)  
   
     current_date.setDate(current_date.getDate() + 1);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 300 * i); 
+  , 500 * i); 
 } 
 
 var geojson;
 var legend;
 function chooseColor(x) {
-  // console.log("this is line 57")
+  
   // console.log("--------------------------")
     if (x == 0)
       color = "#fde8fc"
@@ -76,7 +78,7 @@ function chooseColor(x) {
 function get_new_layer(geoUrl) { 
 
       // Grab data with d3
-  d3.json(geoUrl).then(function(data) {
+  d3.json(geoUrl, function(data) {
     
     console.log("GEOJSON ", data)
     // Create a new choropleth layer
@@ -124,6 +126,7 @@ legend.addTo(myMap);
 
 create_legend()
 
-for (var i = 0; i < 30; i++)  {  
+for (var i = 0; i < 26; i++)  {  
   task(i); 
 } 
+  
