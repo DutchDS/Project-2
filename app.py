@@ -15,11 +15,19 @@ app = Flask(__name__)
 # from flask_sqlalchemy import SQLAlchemy
 
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db/pets.sqlite"
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
+# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
 
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
+DATABASE_URI = 'postgres://jhmhjoanyrfkil:9cd0395b06b90f91ed2ea452bb2049b1d69921df39d0dbcfe18b54543f5e5e2c@ec2-50-17-178-87.compute-1.amazonaws.com:5432/decdba37fkfjcs'
 
-db = SQLAlchemy(app)
+# connection_string = "postgres:postgres@localhost:5432/corona_db"
+connection_string = 'jhmhjoanyrfkil:9cd0395b06b90f91ed2ea452bb2049b1d69921df39d0dbcfe18b54543f5e5e2c@ec2-50-17-178-87.compute-1.amazonaws.com:5432/decdba37fkfjcs'
+
+engine = create_engine(f'postgresql://{connection_string}')
+
+app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URI 
+
+db = SQLAlchemy(app, "postgres:postgres@localhost:5432/corona_db")
 
 # Use PyMongo to establish Mongo connection
 # mongo = PyMongo(app, uri="mongodb://localhost:27017/mars_app")
@@ -53,8 +61,8 @@ def home():
 @app.route("/api/bar_china/file.json")
 def bar_china():
 
-    connection_string = "postgres:postgres@localhost:5432/corona_db"
-    engine = create_engine(f'postgresql://{connection_string}')
+    # connection_string = "postgres:postgres@localhost:5432/corona_db"
+    # engine = create_engine(f'postgresql://{connection_string}')
 
     query_str = open('static/sql/test_query.sql')
     query_text = ""
