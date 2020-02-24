@@ -69,11 +69,23 @@ def bar_china():
         query_text = query_text + text
         
     print(query_text)
-    # df_query = pd.read_sql_query(query_text, con=engine)
-    df_query = pd.read_sql_query(query_text, con=db)
+    df_query = pd.read_sql_query(query_text, con=engine)
+    # df_query = pd.read_sql_query(query_text, con=db)
 
     bar_data = df_query.to_json()
     return bar_data
+
+
+@app.route("/api/data/test")
+def list_test():
+    results = db.session.query(daily_stats.date).all()
+
+    dates = []
+    for result in results:
+        dates.append({
+            "date": result[0]
+        })
+    return jsonify(dates)
 
 if __name__ == "__main__":
     app.run(debug=True)
