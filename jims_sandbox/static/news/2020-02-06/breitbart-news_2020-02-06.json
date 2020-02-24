@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward, John Hayward",
+            "title": "Chinese Communist Party Purge Begins over Coronavirus",
+            "description": "Beijing has begun sacking local officials in Hubei province over the coronavirus outbreak, including two Communist Party officials who left a teenager with cerebral palsy without care for six days while his family was placed in quarantine. The teenager died a\u2026",
+            "url": "https://www.breitbart.com/national-security/2020/02/06/chinese-communist-party-purge-begins-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/XiJinping-640x335.png",
+            "publishedAt": "2020-02-06T19:48:21Z",
+            "content": "Beijing has begun sacking local officials in Hubei province over the coronavirus outbreak, including two Communist Party officials who left a teenager with cerebral palsy without care for six days while his family was placed in quarantine. The teenager died a\u2026 [+4840 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Frances Martel",
+            "title": "\u2018What\u2019s Wrong with You?\u2019: Taiwan Excoriates WHO for Coronavirus \u2018Fake News\u2019",
+            "description": "Foreign Affairs Minister Joseph Wu of Taiwan erupted against the World Health Organization (WHO) on Twitter Wednesday for its deliberate exclusion of the country from the ongoing coronavirus response and its misreporting on the situation in Taiwan.",
+            "url": "https://www.breitbart.com/asia/2020/02/06/taiwan-attacks-who-coronavirus-fake-news/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-953254176-640x335.png",
+            "publishedAt": "2020-02-06T19:18:19Z",
+            "content": "Foreign Affairs Minister Joseph Wu of Taiwan erupted against the World Health Organization (WHO) on Twitter Wednesday for its deliberate exclusion of the country from the ongoing coronavirus response and its misreporting on the situation in Taiwan.\r\nThe WHO, \u2026 [+7255 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "AP",
+            "title": "Tokyo tries to Quell Fear of Olympic-Paralympic Cancellation",
+            "description": "TOKYO (AP) \u2014 Tokyo Olympic and Paralympic organizers again tried on Thursday to allay fears that the 2020 Games could be postponed or canceled by the fast-spreading virus from China.",
+            "url": "https://www.breitbart.com/sports/2020/02/06/tokyo-tries-to-quell-fear-of-olympic-paralympic-cancellation/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/Kazuhiri-Nogi_AFP-via-Getty-Images-640x335.jpg",
+            "publishedAt": "2020-02-06T16:42:26Z",
+            "content": "TOKYO (AP) Tokyo Olympic and Paralympic organizers again tried on Thursday to allay fears that the 2020 Games could be postponed or canceled by the fast-spreading virus from China.\r\nTokyo Olympic CEO Toshiro Muto, who on Wednesday said he was seriously worrie\u2026 [+2252 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Frances Martel, Frances Martel",
+            "title": "Coronavirus Death Toll Breaks Record Again with 73 Dead in One Day",
+            "description": "China logged the deadliest day on record on Wednesday since the novel coronavirus outbreak afflicting the nation began in December, breaking a record set only on Tuesday and defying clamor from state propaganda outlets last week that the rates of infection an\u2026",
+            "url": "https://www.breitbart.com/national-security/2020/02/06/coronavirus-death-toll-breaks-record-again-with-73-dead-in-one-day/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/coronavirus-death-640x335.jpg",
+            "publishedAt": "2020-02-06T16:22:42Z",
+            "content": "China logged the deadliest day on record on Wednesday since the novel coronavirus outbreak afflicting the nation began in December, breaking a record set only on Tuesday and defying clamor from state propaganda outlets last week that the rates of infection an\u2026 [+5965 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Thomas D. Williams, Ph.D.",
+            "title": "Vatican Sends \u2018Hundreds of Thousands\u2019 of Medical Masks to China",
+            "description": "The Vatican announced it sent hundreds of thousands of medical masks to China this week to help forestall the spread of the coronavirus.",
+            "url": "https://www.breitbart.com/health/2020/02/05/vatican-thousands-medical-masks-china/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/beijing-china-people-wear-medical-masks-coronavirus-feb52020-getty-640x335.jpg",
+            "publishedAt": "2020-02-06T01:43:51Z",
+            "content": "ROME The Vatican announced it sent hundreds of thousands of medical masks to China this week to help forestall the spread of the coronavirus.\r\nVatican News reported that the masks were sent to the regions most affected by the virus, namely Hubei, Zhejiang, an\u2026 [+963 chars]"
+        }
+    ]
+}

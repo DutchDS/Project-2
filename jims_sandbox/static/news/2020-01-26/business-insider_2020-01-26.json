@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ben Gilbert",
+            "title": "The coronavirus has reached Los Angeles, where the fourth person diagnosed in the US just arrived from China",
+            "description": "The fourth person in the US to be diagnosed with coronavirus is in Los Angeles, the Los Angeles County Department of Public Health announced on Sunday. The infected person arrived from Wuhan, China, and is currently being treated at an unknown hospital in Los\u2026",
+            "url": "https://www.businessinsider.com/fourth-us-case-of-coronavirus-los-angeles-wuhan-2020-1",
+            "urlToImage": "https://i.insider.com/5e2de8aa5bc79c03fa34caa2?width=1200&format=jpeg",
+            "publishedAt": "2020-01-26T20:13:34Z",
+            "content": "The fourth person in the United States to be diagnosed with coronavirus is in Los Angeles, LA County health officials announced on Sunday.\r\nThe infected person is receiving treatment at a Los Angeles-area hospital, and health officials \"are working to identif\u2026 [+1681 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Julia Naftulin",
+            "title": "The coronavirus can be spread from person to person before someone realizes they even have it, according to the Chinese health minister",
+            "description": "A person who contracts the Wuhan coronavirus could be asymptomatic for 1 to 14 days and not even know they have the virus, according to China's National Health Commission Minister Ma Xiaowei. During that two-week incubation period, a person could infect someo\u2026",
+            "url": "https://www.businessinsider.com/coronavirus-can-spread-before-someone-realizes-they-have-it-incubation-2020-1",
+            "urlToImage": "https://i.insider.com/5e2b51c962fa815eab46b3f8?width=1200&format=jpeg",
+            "publishedAt": "2020-01-26T16:03:59Z",
+            "content": "A person with the Wuhan coronavirus could be infectious to others before they know they have the virus, according to China's National Health Commission Minister Ma Xiaowei.\r\nAt a Sunday press conference, Ma said someone with the virus could show no symptoms t\u2026 [+1889 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Connor Perrett",
+            "title": "California case of Wuhan coronavirus is the 3rd US diagnosis of the virus",
+            "description": "A third person in the US is confirmed to have been infected with the Wuhan coronavirus. The person, who has not been identified, contacted state health officials and entered isolation while the CDC confirmed that the person had been infected, according to the\u2026",
+            "url": "https://www.businessinsider.com/wuhan-coronavirus-is-3rd-us-diagnosis-the-virus-california-case-2020-1",
+            "urlToImage": "https://i.insider.com/5e2da00562fa8170594db682?width=1200&format=jpeg",
+            "publishedAt": "2020-01-26T14:35:47Z",
+            "content": "A case of the Wuhan coronavirus has been reported in Orange County, California, bringing the total number of people infected with the deadly virus in the United States to three.\u00a0\r\nThe Orange County Health Care Agency (OCHA) reported than an individual who tra\u2026 [+1946 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Linette Lopez",
+            "title": "The Wuhan coronavirus could blow up the game China's been playing with its economy for years",
+            "description": "The Wuhan virus has markets roiling and Chinese officials rushing to stop its spread. Dozens have been killed and thousands infected across the country. Cases of the virus have also been found in the US. Its impact on the Chinese economy will be significant, \u2026",
+            "url": "https://www.businessinsider.com/wuhan-coronavirus-will-hurt-chinese-economy-inflation-debt-balance-2020-1",
+            "urlToImage": "https://i.insider.com/5e2b50f7b6d52d564b161fea?width=1200&format=jpeg",
+            "publishedAt": "2020-01-26T13:18:00Z",
+            "content": "For those who follow markets, starting the year with volatility emanating from China is all-too familiar. For years the country's bubbly behavior \u2014 especially in its over-heating property markets \u2014 gave markets convulsions almost like clockwork.\r\nBut then, it\u2026 [+3048 chars]"
+        }
+    ]
+}

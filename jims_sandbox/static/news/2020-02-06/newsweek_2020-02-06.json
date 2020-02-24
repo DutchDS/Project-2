@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "James LaPorta, David Brennan, Jenni Fink",
+            "title": "Exclusive: Documents Reveal U.S. Military is Tracking Russian Government News Agencies For Disinformation on Coronavirus",
+            "description": "Military planners are actively tracking disinformation campaigns promulgated by accounts operated by \u2014 or attributable to \u2014 the Russian government.",
+            "url": "https://www.newsweek.com/us-military-russia-disinformation-coronavirus-1485964",
+            "urlToImage": "https://d.newsweek.com/en/full/1565404/russia-us-military-coronavirus-disinformation.jpg",
+            "publishedAt": "2020-02-06T18:03:20Z",
+            "content": "The U.S. military is bracing for possible Russian disinformation regarding the spread of the coronavirus outbreak, according to Department of Defense documents obtained by Newsweek.\r\nMilitary planners are actively tracking disinformation campaigns promulgated\u2026 [+5413 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Wuhan Whistleblower Doctor Dies From Coronavirus As Death Toll Spikes to 565",
+            "description": "Local police reprimanded the doctor for \"spreading rumors online\" after he told a WeChat group about the virus.",
+            "url": "https://www.newsweek.com/wuhan-whistleblower-doctor-dies-coronavirus-death-toll-spikes-565-1486103",
+            "urlToImage": "https://d.newsweek.com/en/full/1565580/coronavirus-doctor-wuhan-dead-death-toll.jpg",
+            "publishedAt": "2020-02-06T16:37:26Z",
+            "content": "A doctor in Wuhan who was reprimanded for warning people about the new coronavirus strain that originated in China has died.\r\nLi Wenliang, a Chinese doctor, died Thursday night local time, according to The Washington Post. Li was hospitalized about three week\u2026 [+3256 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "2020 Olympics Officials 'Extremely Worried' Coronavirus Outbreak May Hamper Games",
+            "description": "A string of Olympics qualifying events have already been rescheduled.",
+            "url": "https://www.newsweek.com/2020-olympics-officials-extremely-worried-coronavirus-outbreak-may-hamper-games-1486029",
+            "urlToImage": "https://d.newsweek.com/en/full/1565475/2020-olympics-national-stadium-tokyo-japan.jpg",
+            "publishedAt": "2020-02-06T12:41:48Z",
+            "content": "Organizers of the 2020 Olympic Games are \"extremely worried\" the ongoing coronavirus outbreak could \"pour cold water\" on the upcoming games, which take place in Tokyo this July.\r\nSeveral qualifying events have already been disrupted but Japan's prime minister\u2026 [+6988 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
+            "description": "The AI tool could play a role in studying the nature of dark energy and dark matter, which seems to make up a large amount of the universe but remains an enigma, researchers said.",
+            "url": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033",
+            "urlToImage": "https://d.newsweek.com/en/full/1565487/milky-ways-galactic-centre.jpg",
+            "publishedAt": "2020-02-06T12:30:30Z",
+            "content": "An artificial intelligence tool has been developed to help predict the structure of the universe and aid research into the mysteries of dark energy and dark matter.\r\nResearchers in Japan used two of the world's fastest astrophysical simulation supercomputers,\u2026 [+3233 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "More People on Quarantined Cruise Ship Diagnosed with Coronavirus as China Death Toll Passes 560",
+            "description": "The new strain of coronavirus has killed over 550 people since late last year.",
+            "url": "https://www.newsweek.com/cruise-ship-ill-coronavirus-death-toll-550-1485997",
+            "urlToImage": "https://d.newsweek.com/en/full/1565444/coronavirus-diamond-princess-cruise-ship-japan-yokohama.jpg",
+            "publishedAt": "2020-02-06T10:44:00Z",
+            "content": "Almost a dozen more people on board a cruise ship quarantined off the coast of Japan have been diagnosed with the mysterious new coronavirus, which has killed over 560 individuals since the end of last year.\r\nThe total number of people who have been diagnosed\u2026 [+2171 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Tennessee Republican Bill Forcing Internet Providers to Block All Porn by Default May Be Unworkable, Expert Says",
+            "description": "\"This seems like a fair amount of attempts to regulate the internet - a mix of wishful thinking and woeful misunderstanding,\" one IT academic told Newsweek.",
+            "url": "https://www.newsweek.com/tennessee-republican-internet-porn-block-bill-hb-2294-unworkable-expert-says-1486004",
+            "urlToImage": "https://d.newsweek.com/en/full/1565457/file-photo-internet-porn-laptop.jpg",
+            "publishedAt": "2020-02-06T10:24:09Z",
+            "content": "Internet service providers operating in Tennessee should block pornographic material by default to protect minors, a state lawmaker has proposed.\r\nRep. James Van Huss (R-Jonesborough) is spearheading new efforts to make ISPs automatically activate a password-\u2026 [+4222 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "'Amazon's Choice' Badge is Exploited by Fake Reviews and Could Mislead Millions of Customers, Researchers Say",
+            "description": "\"Amazon risks betraying the trust millions of customers place in the Amazon's Choice badge by allowing its endorsement to be all too easily gamed,\" one Which? expert said.",
+            "url": "https://www.newsweek.com/amazon-choice-badge-misleading-customers-fake-reviews-which-research-claims-1485826",
+            "urlToImage": "https://d.newsweek.com/en/full/1565230/amazon.jpg",
+            "publishedAt": "2020-02-06T05:01:01Z",
+            "content": "A shopping feature on Amazon intended to highlight popular or well-reviewed products is open to abuse and could mislead \"millions\" of customers, researchers say.\r\nIf you have ever browsed products on the website, you may have been influenced by a badge that r\u2026 [+4148 chars]"
+        }
+    ]
+}

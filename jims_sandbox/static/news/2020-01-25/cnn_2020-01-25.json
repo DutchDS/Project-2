@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Leah Asmelash, CNN",
+            "title": "Stores in central Texas are running out of medical masks after possible case of coronavirus reported",
+            "description": "Medical supply stores in central Texas are experiencing a medical mask shortage after a Texas A&M student, having recently traveled to Wuhan, China, may have contracted coronavirus.",
+            "url": "https://www.cnn.com/2020/01/25/health/coronavirus-masks-shortage-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200121161204-encuentro-china-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-01-25T19:54:48Z",
+            "content": "(CNN)Medical supply stores in central Texas are experiencing a medical mask shortage after a Texas A&amp;M student, having recently traveled to Wuhan, China, may have contracted coronavirus.\r\nStores around the Brazos Valley, where the university is located, s\u2026 [+2393 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Veronica Stracqualursi, CNN",
+            "title": "Wall Street Journal: US to evacuate Americans and diplomats out of China amid coronavirus outbreak",
+            "description": "The US is planning to evacuate Americans from the Chinese city that has become ground zero for a new deadly strain of coronavirus, according to The Wall Street Journal.",
+            "url": "https://www.cnn.com/2020/01/25/politics/coronavirus-us-evacuate-americans-china/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124211442-05-coronavirus-0124-beijing-super-tease.jpg",
+            "publishedAt": "2020-01-25T15:44:44Z",
+            "content": "(CNN)The US is planning to evacuate Americans from the Chinese city that has become ground zero for a new deadly strain of coronavirus, according to The Wall Street Journal. \r\nIn an agreement struck with the Chinese government, the US is arranging a charter f\u2026 [+1983 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Veronica Stracqualursi, CNN",
+            "title": "Wall Street Journal: US to evacuate Americans and diplomats out of China amid coronavirus outbreak",
+            "description": "The US is planning to evacuate Americans from the Chinese city that has become ground zero for a new deadly strain of coronavirus, according to The Wall Street Journal.",
+            "url": "https://www.cnn.com/2020/01/25/politics/coronavirus-us-evacuate-americans-china/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124211442-05-coronavirus-0124-beijing-super-tease.jpg",
+            "publishedAt": "2020-01-25T15:44:44Z",
+            "content": "(CNN)The US is planning to evacuate Americans from the Chinese city that has become ground zero for a new deadly strain of coronavirus, according to The Wall Street Journal. \r\nIn an agreement struck with the Chinese government, the US is arranging a charter f\u2026 [+1983 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Yong Xiong, Natalie Thomas, David Culver and Helen Regan, CNN",
+            "title": "Wuhan healthcare workers speak of challenges while dealing with coronavirus outbreak",
+            "description": "Chinese healthcare workers in Wuhan are warning that hospitals are running low on supplies as they struggle to cope with the outbreak of the deadly Wuhan coronavirus.",
+            "url": "https://www.cnn.com/2020/01/25/china/wuhan-coronavirus-update-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124122608-wuhan-hospital-super-tease.jpg",
+            "publishedAt": "2020-01-25T10:23:32Z",
+            "content": "Beijing (CNN)Healthcare workers in the Chinese city of Wuhan say hospitals are running low on supplies as they struggle to cope with the outbreak of the deadly Wuhan coronavirus.\r\nIt comes as the Chinese central government announced on Saturday it would send \u2026 [+7799 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laurie Garrett",
+            "title": "What it will take to stop the Wuhan coronavirus",
+            "description": "Laurie Garrett writes, \"On this date 17 years ago, I was covering the aevere acute respiratory syndrome (SARS) virus for several months as it spread across Asia, eventually reaching 37 countries, sickening more than 8,098 people and killing 774 of them.\"",
+            "url": "https://www.cnn.com/2020/01/24/opinions/wuhan-coronavirus-china-strategy-garrett/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124122708-wuhan-hospital-staff-super-tease.jpg",
+            "publishedAt": "2020-01-25T02:29:31Z",
+            "content": "Laurie Garrett is a Pulitzer Prize-winning writer and policy analyst, and the author of \"The Coming Plague: Newly Emerging Diseases in a World Out of Balance.\" The views expressed in this commentary belong to the author. View more opinions at CNN. \r\n (CNN)On \u2026 [+16070 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Coronavirus death toll in China hits 41 as medical staff struggle to cope",
+            "description": null,
+            "url": "https://www.cnn.com/collections/wuhan-virus-intl-1-25/",
+            "urlToImage": null,
+            "publishedAt": "2020-01-25T01:27:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Hollingsworth, CNN",
+            "title": "A lot has changed since China's SARS outbreak 17 years ago. But some things haven't",
+            "description": "Many people worry that a Wuhan coronavirus outbreak that killed 17 could be a repeat of the deadly SARS pandemic in 2003 that killed hundreds and wrecked havoc on Hong Kong's economy. A lot has changed since 2003 -- but not everything.",
+            "url": "https://www.cnn.com/2020/01/24/asia/china-sars-coronavirus-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124175504-sars-4-super-tease.jpg",
+            "publishedAt": "2020-01-25T01:16:55Z",
+            "content": "Hong Kong (CNN)In 2003, panic was setting in. The fatal severe respiratory syndrome (SARS) -- whichfirst appeared in southern China -- had spread across borders, prompting schools to close in Singapore and hundreds to be quarantined in Hong Kong. \r\nIn the Chi\u2026 [+13061 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/joshua-berlinger\">Joshua Berlinger</a> and Adam Renton, CNN",
+            "title": "Live updates: Lunar New Year festivities canceled as dozens die of China virus",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-25-20/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124144711-wuhan-virus-0124-south-korea-super-tease.jpg",
+            "publishedAt": "2020-01-25T01:01:18Z",
+            "content": "January 25 is the first day of the Lunar New Year, as countries across Asia greet the Year of the Rat.\u00a0\r\nCelebrations will be considerably smaller in China than in previous years, however, as authorities have canceled many large public gatherings in order to \u2026 [+1573 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicole Chavez, Saskya Vandoorne and Fanny Bobille, CNN",
+            "title": "French health officials confirm the first three cases in Europe",
+            "description": "Three cases of Wuhan coronavirus have been identified in France, the Health Ministry announced Friday. They are the first European cases of the newly discovered virus, officials said.",
+            "url": "https://www.cnn.com/2020/01/24/europe/france-wuhan-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200108214800-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-01-25T00:18:05Z",
+            "content": "Paris, France (CNN)Three cases of Wuhan coronavirus have been identified in France, the Health Ministry announced Friday. They are the first European cases of the newly discovered virus, officials said. \r\nOne patient is a 48-year-old man in the southwestern c\u2026 [+1614 chars]"
+        }
+    ]
+}

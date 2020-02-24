@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander, James LaPorta, Jenni Fink",
+            "title": "Exclusive: A 10-Month-Old Baby Quarantined in California is Tested for Coronavirus, Documents Show",
+            "description": "A document obtained by Newsweek shows that a 10-month-old baby quarantined in California has been tested for coronavirus.",
+            "url": "https://www.newsweek.com/exclusive-10-month-old-baby-quarantined-california-tested-coronavirus-documents-show-1485942",
+            "urlToImage": "https://d.newsweek.com/en/full/1565376/coronavirus-evacuation-quarantine-march-air-reserve-base.jpg",
+            "publishedAt": "2020-02-05T23:19:49Z",
+            "content": "A 10-month-old baby quarantined at a military base in California has been admitted to a local hospital to be tested for coronavirus, a Defense Department document obtained by Newsweek. \r\nThe document, dated for Tuesday, did not identify the child and provided\u2026 [+5281 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Ewan Palmer",
+            "title": "Asian Woman Allegedly Attacked in New York Subway Station for Wearing Protective Mask",
+            "description": "The victim was allegedly called \"diseased b****\" before being attacked by a man at Grand Street station in an assault potentially linked to fear of the coronavirus.",
+            "url": "https://www.newsweek.com/new-york-subway-attack-coronavirus-woman-mask-1485842",
+            "urlToImage": "https://d.newsweek.com/en/full/1565246/coronavirus.jpg",
+            "publishedAt": "2020-02-05T16:13:31Z",
+            "content": "A woman in New York is being urged to come forward after she was allegedly attacked at a subway station while wearing a protective mask.\r\nA video of the incident, which has been shared on social media, appears to show a woman running through Manhattan's Grand\u2026 [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Fears Coronavirus Could Be Contracted in the Womb after Day-Old Baby in Wuhan Tests Positive",
+            "description": "The virus has so far killed almost 500 people, predominantly in mainland China.",
+            "url": "https://www.newsweek.com/coronavirus-spread-womb-newborn-baby-1485822",
+            "urlToImage": "https://d.newsweek.com/en/full/1565238/baby-incubator-stock-getty.jpg",
+            "publishedAt": "2020-02-05T14:38:06Z",
+            "content": "A one-day-old baby in China has tested positive for the new coronavirus, prompting fears it could spread from mother to infant in the womb. \r\nThe baby was born in Wuhan, the central Chinese city in Hubei province. This is the epicentre of the outbreak, which \u2026 [+2847 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Khaleda Rahman",
+            "title": "Police Hunting Man Wearing 'I Have The Coronavirus' Sign Who Sprayed Lysol On Walmart Produce",
+            "description": "The man donned a yellow surgical mask before spraying Lysol on produce, clothing, and health and beauty items, police said.",
+            "url": "https://www.newsweek.com/police-hunt-masked-man-coronavirus-sign-sprayed-walmart-produce-1485813",
+            "urlToImage": "https://d.newsweek.com/en/full/1565204/walmart-coronavirus.jpg",
+            "publishedAt": "2020-02-05T13:49:19Z",
+            "content": "Police are looking for a masked man who walked into a Walmart in Illinois and sprayed disinfectant on items while wearing a sign that read: \"Caution I have the coronavirus.\"\r\nThe Joliet Police Department said they were called to the store in the 1400 block of\u2026 [+2608 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "Malware Posing as New Coronavirus Information Spreads Online, Exploiting Fears About Global Outbreak",
+            "description": "China's Computer Virus Emergency Response Center says malware was found to be circulating via email and the social networking platform WeChat. Experts say it may only get worse.",
+            "url": "https://www.newsweek.com/china-coronavirus-malware-cybercrime-campaigns-discovered-emails-social-media-1485793",
+            "urlToImage": "https://d.newsweek.com/en/full/1565177/coronavirus-beijing-railway-station.jpg",
+            "publishedAt": "2020-02-05T12:13:40Z",
+            "content": "Internet users are being targeted with malware posing as health information about the new coronavirus, as hackers exploit fear about the outbreak to infect devices.\r\nChina's Computer Virus Emergency Response Center said this week malware was circulating via e\u2026 [+4074 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "American Among Those Testing Positive for Coronavirus on Quarantined Cruise Ship",
+            "description": "The ship will remain in quarantine for at least another two weeks, as required by the Japanese government.",
+            "url": "https://www.newsweek.com/coronavirus-update-cruise-ship-yokohama-japan-10-tested-positive-1485781",
+            "urlToImage": "https://d.newsweek.com/en/full/1565154/diamond-princess-cruise-ship-coronavirus-february-2020.jpg",
+            "publishedAt": "2020-02-05T11:07:35Z",
+            "content": "At least 10 people, including one from the U.S., have tested positive for the coronavirus after more than 3,700 people were quarantined aboard a Princess Cruises cruise ship in Japan. All passengers and crew members are required to remain on board for at leas\u2026 [+4330 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Hannah Osborne",
+            "title": "Coronavirus Study Claiming 2019-nCoV Can Spread Before Symptoms Has 'Major Flaws and Errors,' Researchers Say",
+            "description": "Report was based on a case where a German man caught the virus from his supposedly symptomless colleague.",
+            "url": "https://www.newsweek.com/coronavirus-study-flawed-transmission-1485779",
+            "urlToImage": "https://d.newsweek.com/en/full/1565153/coronavirus.jpg",
+            "publishedAt": "2020-02-05T10:18:51Z",
+            "content": "A study suggesting the 2019-nCoV coronavirus could be spread before symptoms appear has \"major flaws and errors,\" researchers have said. Questioning the findings published in the NEJM on January 30, experts say the woman was experiencing symptoms when she tra\u2026 [+3530 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Khaleda Rahman",
+            "title": "Passenger Dies Suddenly on Flight From China to New Zealand",
+            "description": "Police confirmed the incident, which occurred on a China Southern Airlines flight Monday, was not related to the deadly coronavirus outbreak.",
+            "url": "https://www.newsweek.com/passenger-dies-aboard-plane-china-new-zealand-1485757",
+            "urlToImage": "https://d.newsweek.com/en/full/1565126/china-southern.jpg",
+            "publishedAt": "2020-02-05T09:55:14Z",
+            "content": "A passenger had died on a flight from China to New Zealand, police have confirmed.\r\nHowever, the death, which occurred on a China Southern Airlines flight on Monday, is not thought to be related to the coronavirus outbreak.\r\nA police spokesperson confirmed to\u2026 [+2438 chars]"
+        }
+    ]
+}

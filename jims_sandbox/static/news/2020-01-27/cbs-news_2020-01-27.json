@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Major cruise lines cancel operations in China",
+            "description": "Royal Caribbean, MSC and other cruise operators have halted trips in China because of the coronavirus outbreak.",
+            "url": "https://www.cbsnews.com/news/coronavirus-us-cruise-lines-suspending-operations-china/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/01/27/0492eb08-41fd-4bf8-981a-39a2fb5e251e/thumbnail/1200x630/0ad80742677df2fd5de12c433d720278/gettyimages-1154991456.jpg",
+            "publishedAt": "2020-01-27T20:26:01Z",
+            "content": "International cruise operators are suspending service in China over mounting concerns about the\u00a0deadly coronavirus. Costa Crociere, Genting Cruise Lines, MSC and Royal Caribbean have all halted operations in the country on advice of the Chinese government and\u2026 [+2993 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Stocks down as coronavirus fears spook investors",
+            "description": "Travel-related stocks are dropping on concerns that China's suspension of tour groups could hurt global tourism.",
+            "url": "https://www.cbsnews.com/news/why-are-stocks-down-today-coronavirus-fears-spook-markets-hit-china-tourism/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/01/25/9cb30600-a4c1-42ea-a922-9310ccbaf71a/thumbnail/1200x630g2/b03ee858e87a3d0b460e535a091849f8/gettyimages-1196094976.jpg",
+            "publishedAt": "2020-01-27T14:09:42Z",
+            "content": "Stocks are slated to open sharply lower on Monday as the impact of the coronavirus spread over the weekend, leaving at least 81 people dead and more than 2,700 others infected in more than a dozen countries.\r\nThe Dow Jones Industrial Average was down in pre-m\u2026 [+3793 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Wuhan citizens \u201cfreaking out\u201d over coronavirus, American stranded in city says",
+            "description": "The U.S. government is racing to evacuate Americans from Wuhan, China, where the deadly coronavirus outbreak began. The virus has now killed more than 81 people in China. Ramy Inocencio spoke with one American stranded in the city, who said citizens are \u201cfrea\u2026",
+            "url": "https://www.cbsnews.com/video/wuhan-citizens-freaking-out-over-coronavirus-american-stranded-in-city-says/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/01/27/5c35ad2f-38eb-4eb9-b53d-685876fc8a4f/thumbnail/1200x630/2a5946a29000a95052a02352b8039e38/0127-ctm-coronavirus-inocencio-2015247-640x360.jpg",
+            "publishedAt": "2020-01-27T13:00:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Fear mounts as deadly new coronavirus spreads faster",
+            "description": "The coronavirus outbreak that started in central China has left at least 81 people dead and infected thousands.",
+            "url": "https://www.cbsnews.com/live-updates/china-coronavirus-outbreak-us-plans-wuhan-evacuation-death-toll-number-of-cases-rises-today/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/01/25/9cb30600-a4c1-42ea-a922-9310ccbaf71a/thumbnail/1200x630g2/b03ee858e87a3d0b460e535a091849f8/gettyimages-1196094976.jpg",
+            "publishedAt": "2020-01-27T11:36:53Z",
+            "content": "The U.S. government was racing Monday to evacuate Americans from the city at the center of the deadly coronavirus outbreak in China. As China sends medical reinforcements into Wuhan, officials there warned the virus was spreading faster.\r\nAt least 81 people h\u2026 [+1457 chars]"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Two US airlines suspend all their US-China flights - Aljazeera.com",
+            "description": "Two US airlines suspend all their US-China flights Aljazeera.com Hong Kong to NY flight sells for $201 \u2014 with a layover in Wuhan - Business Insider Business Insider Pilots, flight attendants file lawsuit to get American Airlines to halt China flights Global N\u2026",
+            "url": "https://www.aljazeera.com/ajimpact/airlines-suspend-china-flights-200131173346033.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/31/ea020f4f75804ac18dfd3b0b95552866_18.jpg",
+            "publishedAt": "2020-01-31T18:32:00Z",
+            "content": "Delta Air Lines Inc and American Airlines Group Inc decided on Friday to temporarily suspend all remaining United States-China flights after the US Department of State elevated a travel advisory over concerns about the coronavirus.\r\nThe US told citizens on Th\u2026 [+1388 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Scott Heidler",
+            "title": "Chinese residents in quarantine call for government action",
+            "description": "Some communities are taking matters into their hands to deal with the coronavirus epidemic.",
+            "url": "https://www.aljazeera.com/news/2020/01/chinese-residents-quarantine-call-government-action-200131124911464.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/1/31/image-20200131124914011.jpg",
+            "publishedAt": "2020-01-31T12:49:11Z",
+            "content": "The Chinese government has announced that it will charter flights to bring its citizens from Wuhan stranded overseas back to China. This comes as the pace of international evacuations from Wuhan picks up.\r\nThose affected by a lockdown in Hubei province are wa\u2026 [+110 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "UK confirms first two coronavirus cases",
+            "description": "Two members of the same family tested positive for coronavirus, Chris Whitty, chief medical officer for England, says.",
+            "url": "https://www.aljazeera.com/news/2020/01/uk-confirms-coronavirus-cases-200131100102626.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/31/760a2af52db94663a517ce41863504cb_18.jpg",
+            "publishedAt": "2020-01-31T10:53:04Z",
+            "content": "Two cases of coronavirus have been confirmed in the United Kingdom, the first such cases seen, British health authorities said on Friday.\r\n\"We can confirm that two patients in England, who are members of the same family, have tested positive for coronavirus,\"\u2026 [+1817 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Ruairi Casey",
+            "title": "How does coronavirus spread and how can you protect yourself?",
+            "description": "The 2019-nCoV coronavirus spreads from person-to-person in close proximity, similarly to other respiratory illnesses.",
+            "url": "https://www.aljazeera.com/news/2020/01/coronavirus-spread-protect-200130115539072.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/30/f4cfa840041e4fa398198a747b1cb380_18.jpg",
+            "publishedAt": "2020-01-31T08:43:43Z",
+            "content": "Almost 10,000 people have been infected by the new coronavirus, which continues to spread to more countries since it was first detected in the Chinese city of Wuhan in early December.\r\nMore than 200 people have died so far, all in China and almost all in Hube\u2026 [+5011 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Shawn Yuan",
+            "title": "Diary of a Wuhan native: A week under coronavirus quarantine",
+            "description": "Teacher from epicentre of the deadly outbreak describe the growing anxiety under lockdown and anger towards government.",
+            "url": "https://www.aljazeera.com/news/2020/01/diary-wuhan-native-week-coronavirus-quarantine-200131045152448.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/31/245610d802324d5e8a2749e476fe0d04_18.jpg",
+            "publishedAt": "2020-01-31T05:56:17Z",
+            "content": "At least nine million people in Wuhan were put under quarantine on January 23rd after the authorities decided to seal off the entire city. The order was later expanded to the entire Hubei province, affecting at least 56 million people. Now a week has passed. \u2026 [+7092 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus: Pakistan not to evacuate citizens from Wuhan",
+            "description": "At least four Pakistani students studying in Wuhan have been infected by the virus.",
+            "url": "https://www.aljazeera.com/news/2020/01/coronavirus-pakistan-evacuate-citizens-wuhan-200131055420482.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/1/31/image-20200131055421897.jpg",
+            "publishedAt": "2020-01-31T05:54:20Z",
+            "content": "Governments globally are grappling with the challenge of how to get their citizens out of China's Wuhan city, the epicentre of the outbreak.\r\nBut Pakistan is not evacuating anyone, leaving hundreds of foreign students in limbo.\r\nAl Jazeera's Nicola Gage repor\u2026 [+2 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US pilots, cabin crew demand China flights halt on virus fears - Aljazeera.com",
+            "description": "US pilots, cabin crew demand China flights halt on virus fears Aljazeera.com Coronavirus: Flight taking Britons out of Wuhan is delayed - BBC News BBC News Coronavirus update: 170 killed, evacuations begin, White House may ban all US-China flights Livemint Br\u2026",
+            "url": "https://www.aljazeera.com/ajimpact/pilots-cabin-crew-demand-china-flights-halt-virus-fears-200131020607703.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/31/0dde8196430a4b27829715cfb87b7977_18.jpg",
+            "publishedAt": "2020-01-31T04:32:00Z",
+            "content": "Pilots and flight attendants in the United States are demanding airlines stop flying to China after health officials declared a global emergency over the rapidly spreading coronavirus, with American Airlines pilots filing a lawsuit seeking an immediate halt.\r\u2026 [+3697 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China battles coronavirus outbreak: All the latest updates",
+            "description": "To coordinate global response, WHO says spread of coronavirus is 'public health emergency of international concern'.",
+            "url": "https://www.aljazeera.com/news/2020/01/cloneofcloneofcloneofcloneofchina-battles-corona-200130230453300.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/30/338e9a9058e242058c3321bcf165c394_18.jpg",
+            "publishedAt": "2020-01-31T00:01:27Z",
+            "content": "The death toll in China from the\u00a0new coronavirus\u00a0rose to 213 on Friday, as more countries announced plans to evacuate their citizens from Wuhan, the Chinese city at the centre of the outbreak.\r\nBeijing said there are at least 9,692 people confirmed to have th\u2026 [+2495 chars]"
+        }
+    ]
+}
