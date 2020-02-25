@@ -57,8 +57,9 @@ function chooseColor(x) {
   // console.log("this is line 57")
   // console.log("--------------------------")
     if (x == 0)
-      color = "#fde8fc"
-    else if (x <= 50)
+      // color = "#fde8fc"
+      color = "white"
+      else if (x <= 50)
       color = "#f7a1f3"
     else if (x <= 100)
       color = "#f15be9"
