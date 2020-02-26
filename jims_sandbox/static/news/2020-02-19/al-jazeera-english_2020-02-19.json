@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Arwa Ibrahim",
+            "title": "Two die of coronavirus in Iran, first fatalities in Middle East",
+            "description": "Elderly people die in hospital after testing positive for coronavirus in the holy city of Qom, officials say.",
+            "url": "https://www.aljazeera.com/news/2020/02/die-coronavirus-iran-fatalities-middle-east-200219171007605.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/19/5c60cee40671448092258350b1c8f53e_18.jpg",
+            "publishedAt": "2020-02-19T18:45:42Z",
+            "content": "Tehran, Iran\u00a0- Two elderly people have died in Iran\u00a0after testing positive for the new coronavirus, according to health officials.\r\nThe deaths on Wednesday were the outbreak's first fatalities in the Middle East.\r\n\"Two elderly people have died due to\u00a0coronavi\u2026 [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Movement restrictions in and out of China 'helping contain' virus",
+            "description": "Tens of millions of people have been restricted from leaving their homes, while residents have to rely on local teams to deliver food.",
+            "url": "https://www.aljazeera.com/news/2020/02/movement-restrictions-china-helping-contain-virus-200219134742490.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/19/image-20200219134744574.jpg",
+            "publishedAt": "2020-02-19T13:47:42Z",
+            "content": "Russia says it will stop Chinese citizens from entering the country, in an effort to prevent the spread of the new coronavirus.\r\nThe move comes as China's government maintains a close focus on fighting the virus in Hubei province.\r\nBut staff and resources are\u2026 [+103 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Passengers begin leaving Diamond Princess ship as quarantine ends",
+            "description": "About 500 people expected to leave cruise ship on Wednesday while over 2,000 passengers and crew remain.",
+            "url": "https://www.aljazeera.com/news/2020/02/passengers-leaving-diamond-princess-ship-quarantine-ends-200219031758493.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/19/366705481e784440b827ef7fb2fcf229_18.jpg",
+            "publishedAt": "2020-02-19T03:49:23Z",
+            "content": "Hundreds of passengers began leaving the Diamond Princess cruise ship on Wednesday after the end of a much-criticised, two-week quarantine that failed to stop the spread of a new virus among passengers and crew.\r\nResults were still pending for some passengers\u2026 [+3545 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Shawn Yuan",
+            "title": "Cheating death: China's Wuhan coronavirus survivors recall ordeal",
+            "description": "Amid reports of infections nearing 75,000 the number of survivors is also growing with more than 14,000 reported.",
+            "url": "https://www.aljazeera.com/news/2020/02/cheating-death-china-wuhan-coronavirus-survivors-recall-ordeal-200218235843994.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/19/2dc9d0c53d7a43d4820097106698b4fb_18.jpg",
+            "publishedAt": "2020-02-19T04:53:47Z",
+            "content": "Chengdu, China - Scrambled eggs with tomatoes - that's the first dish coronavirus survivor Yangyang made for herself after being discharged from No 7 Hospital in Wuhan, in Hubei province - the epicentre of the outbreak in China.\r\n\"This is the first time I tho\u2026 [+6376 chars]"
+        }
+    ]
+}

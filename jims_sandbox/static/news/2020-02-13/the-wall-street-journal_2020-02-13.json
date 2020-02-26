@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Joe Wallace",
+            "title": "Global Stocks Drop as China Sees Jump in Virus Cases - The Wall Street Journal",
+            "description": "Global Stocks Drop as China Sees Jump in Virus Cases The Wall Street Journal Stock market news live: S&P 500, Dow, Nasdaq close at record highs as coronavirus fears ease Yahoo Finance Stock market live Thursday: Dow record, Charlie Munger on Tesla, Apple jump\u2026",
+            "url": "https://www.wsj.com/articles/global-stocks-slip-as-china-sees-jump-in-virus-cases-11581589020",
+            "urlToImage": "https://images.wsj.net/im-154108/social",
+            "publishedAt": "2020-02-13T11:48:00Z",
+            "content": "Global stocks fell following a jump in the number of new coronavirus cases in the Chinese province at the epicenter of the outbreak.\r\nFutures tied to the Dow Jones Industrial Average dropped 0.6% a day after all three major U.S. indexes closed at a record. Th\u2026 [+90 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jeffrey Sparshott",
+            "title": "Newsletter: Coronavirus Hits Global Oil Demand",
+            "description": "Your daily economics newsletter from The Wall Street Journal.",
+            "url": "https://blogs.wsj.com/economics/2020/02/13/newsletter-coronavirus-hits-global-oil-demand/",
+            "urlToImage": "https://images.wsj.net/im-146989",
+            "publishedAt": "2020-02-13T11:42:55Z",
+            "content": "Feb 13, 2020 6:42 am ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. Significant Consequences Global oil demand is expected to fall in the first three months of the yearthe first quarterly drop in m\u2026 [+91 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "What It\u2019s Like for Cruise Ship Passengers During Coronavirus Outbreak",
+            "description": "More than 170 people have been diagnosed with the coronavirus on the Diamond Princess cruise ship docked in Yokohama, Japan. Here\u2019s how sick and healthy passengers are dealing with the quarantine. Photo: Toru Hanai/Bloomberg",
+            "url": "https://www.wsj.com/video/what-its-like-for-cruise-ship-passengers-during-coronavirus-outbreak/8A42F670-4B8A-4C20-8918-AE00B955CE62.html",
+            "urlToImage": "http://m.wsj.net/video/20200212/021120coronavirusdiamondprincessv4/021120coronavirusdiamondprincessv4_1280x720.jpg",
+            "publishedAt": "2020-02-13T10:30:00Z",
+            "content": "Trump on Impeachment: 'We Went Through Hell'\r\n2/6/2020President Trump thanked supporters in comments a day after he was found not guilty in the Senate impeachment trial, saying of the investigation, this should never, ever happen to another president, ever. P\u2026 [+30 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Coronavirus Outbreak Tests New Vaccine Development Strategy",
+            "description": "Scientists racing to find a vaccine for the Wuhan coronavirus are hoping a cutting-edge approach called \u201crapid response platforms\u201d will quickly yield a breakthrough. WSJ\u2019s Jason Bellini explains what these are and how they work. Photo: NIAID",
+            "url": "https://www.wsj.com/video/coronavirus-outbreak-tests-new-vaccine-development-strategy/79454E57-8826-4593-8DE8-1BD7573848A6.html",
+            "urlToImage": "http://m.wsj.net/video/20200212/newcolorfulsplash/newcolorfulsplash_1280x720.jpg",
+            "publishedAt": "2020-02-13T10:30:00Z",
+            "content": "Samsung Galaxy S20 First Look: Three Phones, 5G, So Many Cameras \r\n2/11/2020This year's flagship smartphones from Samsungthe Galaxy S20, S20+, S20 Ultraare packed. But can you tell them apart? WSJs Joanna Stern explains how they differ in size, cameras, price\u2026 [+25 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Erin Mendell, Yoko Kubota",
+            "title": "Newly Confirmed Coronavirus Cases in China's Hubei Province Rise Sharply - Wall Street Journal",
+            "description": "Newly Confirmed Coronavirus Cases in China's Hubei Province Rise Sharply Wall Street Journal Number of new COVID-19 cases in Hubei falls for second consecutive day CNA Coronavirus Cases Seemed to Be Leveling Off. Not Anymore. The New York Times Jump in new co\u2026",
+            "url": "https://www.wsj.com/articles/beijing-pledges-to-stabilize-chinas-economy-amid-coronavirus-outbreak-11581520499",
+            "urlToImage": "https://images.wsj.net/im-154083/social",
+            "publishedAt": "2020-02-13T04:09:00Z",
+            "content": "China reported nearly 10 times as many newly confirmed coronavirus cases Wednesday as Tuesday, after a new diagnosis classification was adopted, raising concerns that the scale of the outbreak has been much larger than Chinese data had suggested. \r\nNewly conf\u2026 [+201 chars]"
+        }
+    ]
+}

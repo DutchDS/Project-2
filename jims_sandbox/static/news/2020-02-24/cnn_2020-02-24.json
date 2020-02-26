@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob McLean, CNN Business",
+            "title": "Dow futures fall as coronavirus continues to spread",
+            "description": "US stock futures dropped Sunday evening as the coronavirus outbreak continues to spread globally.",
+            "url": "https://www.cnn.com/2020/02/23/business/stock-futures-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200223190524-01-coronavirus-0223-italy-super-tease.jpg",
+            "publishedAt": "2020-02-24T00:09:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Schools, social events shut down over coronavirus fears",
+            "description": "Iran's health ministry has confirmed 43 cases of the novel coronavirus, including eight deaths. Schools, theaters and sporting events have been shut down over fears the virus will spread. Journalist Ramin Mostaghim reports from Tehran, Iran.",
+            "url": "https://www.cnn.com/videos/world/2020/02/24/coronavirus-iran-life-shutdown-mostaghim-lkl-intl-hnk-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224120855-iran-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-24T09:59:27Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh and Serenitie Wang, CNN Business",
+            "title": "Drones. Disinfecting robots. Supercomputers. Coronavirus is a test for China's tech industry",
+            "description": "China has spent decades nurturing its tech sector. Now, faced with a massive public health crisis, Beijing is pushing its tech companies to join the fight against the novel coronavirus.",
+            "url": "https://www.cnn.com/2020/02/23/tech/china-tech-coronavirus-outbreak/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200214042436-03-china-technology-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-24T04:35:37Z",
+            "content": "By Michelle Toh and Serenitie Wang, CNN Business\r\nUpdated 11:35 PM ET, Sun February 23, 2020\r\nChat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.\r\nHong Kong (CNN Business)China has spent decades nurturing its tech sector.\u2026 [+6941 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Sweeping closures in Italian towns as coronavirus cases rise",
+            "description": "Italy is scrambling to contain Europe's largest outbreak of the novel coronavirus, with more than 200 cases confirmed and several dead.",
+            "url": "https://www.cnn.com/videos/world/2020/02/24/italy-closures-coronavirus-outbreak-lc-lon-orig.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224183238-italy-closures-orig-video-thumbnail-super-tease.jpg",
+            "publishedAt": "2020-02-24T19:12:07Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "CNN reporter: People are essentially trapped in their towns",
+            "description": "CNN's Melissa Bell reports from Venice, Italy, amid a spike in coronavirus cases in Italy.  More than 200 cases and five deaths have been confirmed with the northern regions hardest hit.",
+            "url": "https://www.cnn.com/videos/world/2020/02/24/venice-coronavirus-melissa-bell-live-intl-ldn-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224120507-italy-towns-quiet-streets-grab-super-tease.jpg",
+            "publishedAt": "2020-02-24T13:02:11Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Tamara Hardingham-Gill, CNN",
+            "title": "Is it safe for travelers to visit Italy?",
+            "description": "The number of confirmed coronavirus cases in Italy has shot up to at least 219, making it the largest outbreak outside of Asia. What is the advice for people with travel plans to the country?",
+            "url": "https://www.cnn.com/travel/article/is-it-safe-for-travelers-to-visit-italy/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224105028-venice-masks-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-24T14:52:04Z",
+            "content": "Tamara Hardingham-Gill, CNNPublished 24th February 2020\r\n(CNN) The novel coronavirus may have originated in Wuhan, China, but it's since spread to more than 30 countries across the world.\r\nDuring a press briefing on Monday, Angelo Borrelli, head of the countr\u2026 [+4119 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Chelsea Clinton and Devi Sridhar",
+            "title": "Under Trump, America is less prepared for an outbreak",
+            "description": "The coronavirus that emerged from Wuhan, China, last year is causing alarm across the world, with fear that this could become the next pandemic. Late last month, the World Health Organization declared the virus, named COVID-19, a \"Public Health Emergency of I\u2026",
+            "url": "https://www.cnn.com/2020/02/24/opinions/trump-us-coronavirus-prepared-clinton-sridhar/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200223190524-01-coronavirus-0223-italy-super-tease.jpg",
+            "publishedAt": "2020-02-24T22:14:43Z",
+            "content": "Chelsea Clinton is the Vice Chair of the Clinton Foundation and teaches at the Mailman School of Public Health at Columbia. She completed her D.Phil in international relations at Oxford University, examining the first decade of the Global Fund to Fight HIV/AI\u2026 [+5990 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob McLean, CNN Business",
+            "title": "Dow futures fall as coronavirus continues to spread",
+            "description": "US stock futures dropped Sunday evening as the coronavirus outbreak continues to spread globally.",
+            "url": "https://www.cnn.com/2020/02/23/business/stock-futures-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200223190524-01-coronavirus-0223-italy-super-tease.jpg",
+            "publishedAt": "2020-02-24T00:09:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Charles Riley, CNN Business",
+            "title": "Coronavirus is fast becoming an 'economic pandemic'",
+            "description": "The emergence of hundreds of coronavirus cases in two major economies outside China has dashed hopes of a speedy recovery from an epidemic that has already wreaked havoc on global supply chains and hit company profits.",
+            "url": "https://www.cnn.com/2020/02/24/business/coronavirus-global-economy/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224125356-01-coronavirus-0224-seoul-super-tease.jpg",
+            "publishedAt": "2020-02-24T17:27:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Gold at a seven-year high and bond yields flirt with record lows as fear grips Wall Street",
+            "description": "Fear has returned to Wall Street. The spread of coronavirus cases in Italy and South Korea is shaking investors out of their recent complacency.",
+            "url": "https://www.cnn.com/2020/02/24/investing/bond-yields-gold-fear/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224081607-gold-bar---dollar---stock-super-tease.jpg",
+            "publishedAt": "2020-02-24T14:28:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chandelis Duster, CNN",
+            "title": "Trump administration cancels plan to bring coronavirus patients to Alabama city following pushback from local officials",
+            "description": "The Trump administration has canceled plans to bring coronavirus patients to an Alabama city after pushback from local and state officials.",
+            "url": "https://www.cnn.com/2020/02/24/politics/alabama-coronavirus-patient-plan-canceled/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224161723-coronavirus-briefing-0207-super-tease.jpg",
+            "publishedAt": "2020-02-24T21:57:18Z",
+            "content": "Washington (CNN)The Trump administration has canceled plans to bring coronavirus patients to an Alabama city after pushback from local and state officials.\r\nThe move comes amid concern about novel coronavirus cases in the United States and growing fears of a \u2026 [+4293 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh and Serenitie Wang, CNN Business",
+            "title": "Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry",
+            "description": "China has spent decades nurturing its tech sector. Now, faced with a massive public health crisis, Beijing is pushing its tech companies to join the fight against the novel coronavirus.",
+            "url": "https://www.cnn.com/2020/02/23/tech/china-tech-coronavirus-outbreak/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200214042436-03-china-technology-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-24T04:35:37Z",
+            "content": "By Michelle Toh and Serenitie Wang, CNN Business\r\nUpdated 11:35 PM ET, Sun February 23, 2020\r\nChat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.\r\nHong Kong (CNN Business)China has spent decades nurturing its tech sector.\u2026 [+6941 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Gilead Sciences drug may help treat coronavirus symptoms, according to WHO",
+            "description": "Shares of American biotech firm Gilead Sciences rose 3% Monday after an official from the World Health Organization said that Gilead's drug remdesivir is showing signs that it may be able to help treat the deadly coronavirus.",
+            "url": "https://www.cnn.com/2020/02/24/investing/gilead-sciences-coronavirus-who-remdesivir/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200204130938-cdc-coronavirus-illustration-super-tease.jpg",
+            "publishedAt": "2020-02-24T19:05:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacqueline Howard, CNN",
+            "title": "Coronavirus outbreak has 'pandemic potential' but it's not there yet, WHO says",
+            "description": "The deadly outbreak of a novel coronavirus has raised concern worldwide but it has not developed yet into a full-blown pandemic, according to the World Health Organization. Here's why.",
+            "url": "https://www.cnn.com/2020/02/24/health/coronavirus-outbreak-pandemic-who-bn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224095942-italia-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-24T18:56:50Z",
+            "content": "(CNN)The deadly outbreak of a novel coronavirus has the world on edge, but it has not yet developed into a pandemic, according to the World Health Organization.\r\nAlthough WHO has declared the outbreaka \"public health emergency of international concern,\" the o\u2026 [+4355 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Luke McGee, Sharon Braithwaite, and Paul P. Murphy, CNN",
+            "title": "Italy warns people not to panic-buy as coronavirus cases rise in north",
+            "description": "Italy was racing Monday to contain the first major outbreak of a deadly new coronavirus in Europe, prompting fears that the international community losing the battle to prevent the virus from becoming a full-scale pandemic.",
+            "url": "https://www.cnn.com/2020/02/24/europe/italy-coronavirus-outbreak-monday-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224174033-italy-supermarket-line-lidl-milan-02232020-super-tease.jpg",
+            "publishedAt": "2020-02-24T19:02:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths, CNN",
+            "title": "Novel coronavirus cases top 79,000 amid worsening outbreaks in South Korea and Italy",
+            "description": "Chinese President Xi Jinping has warned the novel coronavirus is the worst public health crisis facing the country since its founding, as new outbreaks continued to worsen in South Korea and Italy, raising fears of a global pandemic.",
+            "url": "https://www.cnn.com/2020/02/23/asia/novel-coronavirus-covid-19-global-spread-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224092058-novel-coronavirus-0223-hong-kong-01-super-tease.jpg",
+            "publishedAt": "2020-02-24T03:57:55Z",
+            "content": "Hong Kong (CNN)Chinese President Xi Jinping has warned the novel coronavirus is the worst public health crisis facing the country since its founding, as new outbreaks continued to expand in South Korea and Italy, raising fears of a global pandemic. \r\nSpeaking\u2026 [+7116 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/jessie-yeung\">Jessie Yeung</a> and <a href=\"/profiles/jenni-marsh-profile\">Jenni Marsh</a>, CNN",
+            "title": "South Korean cases surge past 600 as global epidemic grows",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-24-20-hnk-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200222224802-02-coronavirus-0222-wuhan-super-tease.jpg",
+            "publishedAt": "2020-02-24T02:43:50Z",
+            "content": "A father and son were confirmed to have coronavirus on Sunday, bringing the number of cases in Taiwan to 28.\r\nThe father is in his 80s, while the son is in his 50s, the island's Central Epidemic Command Center said. Neither has any recent travel history, but \u2026 [+640 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Angela Dewan, CNN",
+            "title": "Stranded lobsters and missing wedding dresses: The coronavirus is a daily reminder of China's global reach",
+            "description": "The coronavirus that has devastated China is also hurting the small businesses that shape everyday life in every corner of the world. The food we eat, the work we do and the clothes we wear -- many are reminders of the vital role China plays in the global eco\u2026",
+            "url": "https://www.cnn.com/2020/02/24/business/china-coronavirus-global-impact-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200221172316-geraldton-fishermens-co-operative-australia-rock-lobster-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-02-24T05:22:31Z",
+            "content": "(CNN)In the city of Geraldton on Australia's western coast, a backlog of rock lobsters were recently stuck waiting in their tanks, with no market to go to. In New Jersey, a boutique has been unable to fill all its wedding dress orders. A small business owner \u2026 [+7086 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Harmeet Kaur, CNN",
+            "title": "5 things to know for February 24: India, coronavirus, Kobe Bryant, election 2020, Russia",
+            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
+            "url": "https://www.cnn.com/2020/02/24/us/five-things-february-24-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224015840-03-donald-trump-india-0224-super-tease.jpg",
+            "publishedAt": "2020-02-24T11:17:33Z",
+            "content": "(CNN)Listen up, brainiacs.\u00a0NASA wants your help creating technology for a mission to Venus. The winner gets up to $15,000. Of course, there's a catch. Here's what else you need to know to Get Up to Speed and Out the Door. \r\n(You can also get \"5 Things You Nee\u2026 [+5770 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Oscar Holland, CNN",
+            "title": "Armani held its Milan Fashion Week show in an empty theater due to coronavirus",
+            "description": "The lights dimmed. The music thumped. And the models walked the runway. But there was one thing missing from Armani's Milan Fashion Week show: the audience.",
+            "url": "https://www.cnn.com/style/article/armani-fashion-week-coronavirus-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224081917-01-armani-milan-show-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-24T14:15:12Z",
+            "content": "fashionPublished 24th February 2020\r\nThe lights dimmed. The music thumped. And the models walked the runway. But there was one thing missing from \r\nArmani's hotly anticipated Milan Fashion Week show: the audience.\r\nThe fashion giant's show was held behind clo\u2026 [+1535 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz, CNN Business",
+            "title": "Dow futures drop more than 700 points as coronavirus spreads to Italy",
+            "description": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.",
+            "url": "https://www.cnn.com/2020/02/24/investing/premarket-stocks-trading/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200220132958-01-nyse-0218-super-tease.jpg",
+            "publishedAt": "2020-02-24T12:07:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan, CNN Business",
+            "title": "Coronavirus market freakout: Stocks flew way too close to the sun",
+            "description": "Apple dropped a bombshell last week. Yet Wall Street, in the throes of a historic meltup, reacted with a collective shrug.",
+            "url": "https://www.cnn.com/2020/02/24/investing/dow-stock-market-today/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224102058-coronavirus-beijing-0222-super-tease.jpg",
+            "publishedAt": "2020-02-24T15:50:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stacey Lastoe, CNN",
+            "title": "US State Department urges citizens to reconsider cruise ship travel to Asia",
+            "description": "In yet another blow to the troubled cruise industry, US travelers are being urged to steer clear of Asia's waters. The US State Department advised cruise ship travelers to or within Asia to reconsider their travel.",
+            "url": "https://www.cnn.com/travel/article/state-department-coronavirus-asia-cruise-advisory/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200220145951-02-princess-cruise-ship-cleaning-super-tease.jpg",
+            "publishedAt": "2020-02-24T18:37:13Z",
+            "content": "Stacey Lastoe, CNNPublished 24th February 2020\r\n(CNN) In yet another blow to the troubled cruise industry, US travelers are being urged to steer clear of Asia's waters.\r\nOn Monday, the State Department advised cruise ship travelers to or within Asia to recons\u2026 [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Church, CNN",
+            "title": "Italian soccer faces further disruption amid spike in coronavirus cases",
+            "description": "Italian soccer is facing the threat of further postponements as the country struggles to control the coronavirus outbreak.",
+            "url": "https://edition.cnn.com/2020/02/24/football/serie-a-italy-soccer-coronavirus-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200224111832-serie-a-spt-intl-super-tease.jpg",
+            "publishedAt": "2020-02-24T12:31:50Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Controversy over Chinese government response to coronavirus",
+            "description": "President Xi Jinping and other leaders knew about the seriousness of outbreak weeks before it was revealed to the public, speech indicates.",
+            "url": "https://www.aljazeera.com/news/2020/02/controversy-chinese-government-response-coronavirus-200216135152634.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/16/image-20200216135155388.jpg",
+            "publishedAt": "2020-02-16T13:51:52Z",
+            "content": "In China, controversy has erupted over a speech by President Xi Jinping that indicates he and other leaders knew about the threat of the coronavirus outbreak weeks before it was revealed to the public.\r\nAl Jazeera's Adrian Brown is following the story from Ho\u2026 [+7 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Coronavirus outbreak's effect on the oil and gas market",
+            "description": "Exclusive with secretary-general of Gas Exporting Countries Forum on the coronavirus. Plus, cost of rising sea levels.",
+            "url": "https://www.aljazeera.com/programmes/countingthecost/2020/02/coronavirus-outbreak-effect-oil-gas-market-200215131949394.html",
+            "urlToImage": null,
+            "publishedAt": "2020-02-16T08:16:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China coronavirus outbreak: All the latest updates",
+            "description": "Province of Hubei, the epicentre of the outbreak, also reports 1,933 infections pushing nationwide total to 70,433.",
+            "url": "https://www.aljazeera.com/news/2020/02/cloneof200215224437270-200216231809757.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/16/8be36073b86e4ad2b46a5e8c59f32e2d_18.jpg",
+            "publishedAt": "2020-02-16T23:54:14Z",
+            "content": "China's province of Hubei, the epicentre of the coronavirus epidemic, reported 100 new deaths and\u00a01,933 new cases\u00a0on February 16, the local health authority said on Monday.\r\nThe Hubei health commission said the total number of deaths in the province has reach\u2026 [+9014 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Indonesia fears grow over coronavirus threat",
+            "description": "Despite virus being detected in more than two dozen countries, one of Asia's most populous nations is yet to report a single case.",
+            "url": "https://www.aljazeera.com/news/2020/02/indonesia-fears-grow-coronavirus-threat-200216163536214.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/16/image-20200216163539663.jpg",
+            "publishedAt": "2020-02-16T16:35:36Z",
+            "content": "The latest coronavirus, COVID-19, has now been detected in more than two dozen countries, but one of Asia's most populous nations is yet to report a single case.\r\nIndonesians who were evacuated from Wuhan have been released from quarantine with a clean bill o\u2026 [+128 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Xi had early knowledge of coronavirus severity, speech shows",
+            "description": "As new cases drop for third day, speech shows leadership knew virus's potential severity weeks before telling public.",
+            "url": "https://www.aljazeera.com/news/2020/02/xi-early-knowledge-coronavirus-severity-speech-shows-200216055120415.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/16/404c265fd35a4f6c9d1afe43b267896f_18.jpg",
+            "publishedAt": "2020-02-16T09:04:12Z",
+            "content": "China has announced a drop in new virus cases for the third straight day, as state media released a speech by President Xi Jinping that indicated the country's leadership was aware of the potential gravity of the outbreak far before the Chinese public was inf\u2026 [+3515 chars]"
+        }
+    ]
+}

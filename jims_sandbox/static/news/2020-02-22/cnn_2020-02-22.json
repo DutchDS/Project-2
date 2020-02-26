@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Life during the time of novel coronavirus",
+            "description": "CNN Senior International Correspondent Ivan Watson talks to Hong Kong residents about what it is like to live in a city in the midst of the novel coronavirus outbreak.",
+            "url": "https://www.cnn.com/videos/health/2020/02/22/life-in-hong-kong-during-coronavirus-watson-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200222071052-hong-kong-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-22T12:15:54Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Immunologist: Coronavirus has 'the makings of a pandemic'",
+            "description": "Dr. Anthony Fauci warns that person-to-person Coronavirus transmission outside of China without definitive origin has 'the makings of a  pandemic.'",
+            "url": "https://www.cnn.com/videos/tv/2020/02/22/fauci-coronavirus-has-the-makings-of-a-pandemic.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200222100640-fauci-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-22T15:14:35Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Woman records racist coronavirus rant while on subway",
+            "description": "CNN's Anderson Cooper spoke to Tanny Jiraprapasuke, who was verbally attacked while riding the subway in Los Angeles. This comes amid a string of racist attacks on Asians in the US due to hysteria around the coronavirus.",
+            "url": "https://www.cnn.com/videos/us/2020/02/21/coronavirus-attack-recording-la-train-jiraprapasuke-acfc-sot-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200221164853-tanny-rutdow-jiraprapasuke-coronavirus-rant-subway-super-tease.jpg",
+            "publishedAt": "2020-02-22T00:11:25Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Helen Regan, CNN",
+            "title": "Fears over containing novel coronavirus grow as cases outside China spike",
+            "description": "Concerns are growing over the global spread of the novel coronavirus after a spike in cases outside of mainland China among people with no connection to China or the city of Wuhan, ground zero for the outbreak.",
+            "url": "https://www.cnn.com/2020/02/22/asia/novel-coronavirus-covid-19-update-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200222123543-coronavirus-seoul-medic-super-tease.jpg",
+            "publishedAt": "2020-02-22T06:09:54Z",
+            "content": "Hong Kong (CNN)Concerns are growing over the global spread of the novel coronavirus after a spike in cases outside of mainland China among people with no connection to China or the city of Wuhan, ground zero for the outbreak.\r\nWorld Health Organization (WHO) \u2026 [+6697 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Top US immunologist: We are clearly at the brink of a pandemic",
+            "description": "Dr. Anthony Fauci, who is the director of the National Institute of Allergy and Infectious Diseases, explains what a pandemic is and says we're nearly at the brink of one with the novel coronavirus outbreak.",
+            "url": "https://www.cnn.com/videos/health/2020/02/22/anthony-fauci-on-coronavirus-smerconish-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200222115244-dr-fauci-coronavirus-smerconish-super-tease.jpg",
+            "publishedAt": "2020-02-22T17:51:38Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Spike linked to religious group",
+            "description": "More than half of South Korea's novel coronavirus cases can be linked to the Shincheonji religious group. Officials say one member attended services in the southern city of Daegu while infected. Religious services have since been shut down to stop the spread.\u2026",
+            "url": "https://www.cnn.com/videos/world/2020/02/22/south-korea-coronavirus-daegu-hancocks-pkg-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200220212717-01-coronavirus-south-korea-0220-super-tease.jpg",
+            "publishedAt": "2020-02-22T04:27:41Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul LeBlanc, CNN",
+            "title": "Washington Post: Trump furious after officials let Americans with coronavirus return to US from Japan",
+            "description": "President Donald Trump became enraged with senior advisers this week when 14 Americans who tested positive for the coronavirus were brought back to the US from Japan after he had been told they would remain quarantined overseas, administration officials told \u2026",
+            "url": "https://www.cnn.com/2020/02/21/politics/trump-coronavirus-cruise-ship/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200221140847-114-trump-lead-image-restricted-super-tease.jpg",
+            "publishedAt": "2020-02-22T04:21:08Z",
+            "content": "Washington (CNN)President Donald Trump became enraged with senior advisers this week when 14 Americans who tested positive for the coronavirus were brought back to the US from Japan after he had been told they would remain quarantined overseas, administration\u2026 [+2051 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a> and Adam Renton, CNN",
+            "title": "Coronavirus fears grow as global cases spike",
+            "description": "The novel coronavirus is spreading rapidly around the world, with Iran reporting a spike in numbers and Italy reporting its first death.",
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-22-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200222082805-coronavirus-doctor-super-tease.jpg",
+            "publishedAt": "2020-02-22T00:59:35Z",
+            "content": "A 78-year-old man who tested positive for the novel coronavirus has died at a hospital in Padua, northern Italy. \r\nIt is Italy's first death from the coronavirus, that is quickly spreading around the world. The country has reported 14 new confirmed casesof th\u2026 [+855 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "Coronavirus fears have pushed the US dollar to a three-year high",
+            "description": "The US dollar index reached a three-year high as investors worried about the global coronavirus outbreak are moving their money into the safe-haven greenback.",
+            "url": "https://www.cnn.com/2020/02/22/investing/us-dollar-three-year-high/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190905130549-dollar-bills--stock-super-tease.jpg",
+            "publishedAt": "2020-02-22T12:47:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Luke McGee, CNN",
+            "title": "A controversial religious group is at the center of South Korea's coronavirus outbreak",
+            "description": "More than half of South Korea's novel coronavirus cases are linked to a controversial religious group in the southern city of Daegu.",
+            "url": "https://www.cnn.com/2020/02/22/asia/south-korea-coronavirus-religious-group-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200222070332-01-shincheonji-daegu-0219-super-tease.jpg",
+            "publishedAt": "2020-02-22T12:28:36Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Hunter Moyler",
+            "title": "Trump Says Chinese President Xi Told Him Coronavirus Will Be Killed 'by April'",
+            "description": "\"So that would be a good thing,\" the president said.",
+            "url": "https://www.newsweek.com/trump-says-chinese-president-xi-told-him-coronavirus-will-killed-heat-april-1486571",
+            "urlToImage": "https://d.newsweek.com/en/full/1566193/president-trump-delivers-remarks-white-house.jpg",
+            "publishedAt": "2020-02-10T20:47:55Z",
+            "content": "President Donald Trump said Monday that Chinese President Xi Jinping had told him that the novel coronavirus that spread to the rest of the world from the city of Wuhan was likely to die off in the spring because of the heat.\r\nTrump made the remarks at the Wh\u2026 [+3599 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "China Sees Deadliest Day for Coronavirus, Reporting an Additional 97 Deaths",
+            "description": "In the three weeks since the World Health Organization reported the first deaths, the death toll has risen to 910 people.",
+            "url": "https://www.newsweek.com/china-sees-deadliest-day-coronavirus-reporting-additional-97-deaths-1486501",
+            "urlToImage": "https://d.newsweek.com/en/full/1566102/coronavirus-death-toll-97-most-deaths-china.jpg",
+            "publishedAt": "2020-02-10T14:33:04Z",
+            "content": "Sunday marked the deadliest day for the new coronavirus since the virus broke out in December, according to China's National Health Commission.\r\nIn just three weeks, the death toll from the pneumonia-causing coronavirus has risen from three deaths to 910. On \u2026 [+3278 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Could Be Airborne, Chinese Official Claims",
+            "description": "The deadly 2019-nCoV virus has spread to over 25 countries and territories.",
+            "url": "https://www.newsweek.com/coronavirus-could-airborne-chinese-official-claims-1486493",
+            "urlToImage": "https://d.newsweek.com/en/full/1566083/beijing-china-coronavirus.jpg",
+            "publishedAt": "2020-02-10T13:03:19Z",
+            "content": "Health officials in China are conflicted as to whether the deadly new coronavirus can spread through the air, with one expert saying 2019-nCoV could \"in theory\" be airborne.\r\nZengQun, the deputy head of the Shanghai Civil Affairs Bureau, told a press briefing\u2026 [+4582 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Charles Clarke",
+            "title": "Universities Could Save Us. But Will They Step Up? | Opinion",
+            "description": "Now is the time for universities to transform, for it is they who are best placed to address the most pressing issues in this rapidly changing world.",
+            "url": "https://www.newsweek.com/universities-could-save-us-will-they-step-opinion-1486432",
+            "urlToImage": "https://d.newsweek.com/en/full/1566019/oxford-university.jpg",
+            "publishedAt": "2020-02-10T11:00:01Z",
+            "content": "Every week brings new and often dangerous challenges. Businesses and governments across the world have to face up to events as disparate as the coronavirus, terrorist attacks, intense fires in Australia and California, the Brexit disruption of international p\u2026 [+5227 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Outbreak on Quarantined Cruise Ship Accounts for Around a Third of All Confirmed Cases Outside China",
+            "description": "The new form of the coronavirus has killed over 910 people since it emerged in China late last year.",
+            "url": "https://www.newsweek.com/coronavirus-cases-cruise-ship-diamond-princess-quarantine-japan-1486478",
+            "urlToImage": "https://d.newsweek.com/en/full/1566064/diamond-princess-cruise-ship-japan-coronavirus-2019-ncov.jpg",
+            "publishedAt": "2020-02-10T10:45:46Z",
+            "content": "Around a third of all people diagnosed with the deadly new coronavirus outside of mainland China are on board a cruise ship quarantined off the coast of Japan, figures show.\r\nThe total number of people diagnosed with the bug known as 2019-nCoV while on the Di\u2026 [+3341 chars]"
+        }
+    ]
+}

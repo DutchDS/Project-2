@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths, CNN",
+            "title": "Coronavirus death toll climbs to 1,669 with first death confirmed in Europe",
+            "description": "The number of cases of the novel coronavirus has risen to over 69,000 worldwide, with the first death from Covid-19 reported in Europe.",
+            "url": "https://www.cnn.com/2020/02/16/asia/coronavirus-covid-19-update-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200212152326-diamond-princess-yokohama-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-16T05:06:59Z",
+            "content": "Hong Kong (CNN)The number of cases of the novel coronavirus has risen to over 69,000 worldwide, with the first death from Covid-19 reported in Europe. \r\n As of Sunday morning, there were 68,500 cases of the virus recorded in mainland China, an increase of 2,0\u2026 [+5748 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Hollingsworth, CNN",
+            "title": "Chinese students spend billions overseas. Coronavirus travel bans threaten that income",
+            "description": "In 2017, an estimated 900,000 Chinese tertiary students studied abroad. Around half of those went to either the United States or Australia, contributing billions of dollars to their economies -- money that those countries now stand to lose.",
+            "url": "https://www.cnn.com/2020/02/15/asia/chinese-students-universities-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200214123646-student-2-super-tease.jpg",
+            "publishedAt": "2020-02-16T00:10:17Z",
+            "content": "December 8: The first patient of Wuhan coronavirus developed symptoms\r\nDecember 31: The first cases reported to the World Health Organization\r\nJanuary 1: The market in Wuhan where the outbreak is believed to have started shuts down for disinfection\r\nJanuary 8\u2026 [+314 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "US to evacuate Americans on cruise ship quarantined in Japan from coronavirus outbreak",
+            "description": null,
+            "url": "https://www.cnn.com/collections/intl-coronavirus-0216/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-16T02:02:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Holly Yan, CNN",
+            "title": "How to protect yourself from coronavirus",
+            "description": "The novel coronavirus is now a \"public health emergency of international concern,\" killing more than 1,600 people and infecting more than 69,000 worldwide.",
+            "url": "https://www.cnn.com/2020/02/16/health/coronavirus-how-to-protect-yourself-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200212171255-china-virus-0212-01-super-tease.jpg",
+            "publishedAt": "2020-02-16T19:59:17Z",
+            "content": "(CNN)The novel coronavirus is now a \"public health emergency of international concern,\" killing more than 1,600 people and infecting more than 69,000 worldwide. \r\nEven worse: The US Centers for Disease Control and Prevention expects this virus to keep spreadi\u2026 [+2568 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/james-griffiths\">James Griffiths</a> and <a href=\"/profiles/jenni-marsh-profile\">Jenni Marsh</a>, CNN",
+            "title": "First coronavirus death in Europe, with more than 68,000 cases globally",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-16-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200214185444-02-coronavirus-0214-beijing-super-tease.jpg",
+            "publishedAt": "2020-02-16T00:48:22Z",
+            "content": "There were 139 more deaths due to the coronavirus in Hubei province on Saturday, the health authorities there said this morning. That raises the death toll at the epicenter of the outbreak to 1,596. \r\nThe global death toll now stands at 1,666, with the vast m\u2026 [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mick Krever, Matt Rivers, Sandi Sidhu and Will Ripley, CNN",
+            "title": "The US is finally evacuating Americans from the Diamond Princess. Here's why that's made them mad",
+            "description": "The US plan to evacuate Americans and their families from the Diamond Princess cruise ship appears, on its face, to be the case of a powerful government coming to the aide of its most vulnerable citizens.",
+            "url": "https://www.cnn.com/2020/02/16/asia/coronavirus-outbreak-diamond-cruise-us-evacuation-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200216111918-diamond-princess-and-bus-super-tease.jpg",
+            "publishedAt": "2020-02-16T07:19:13Z",
+            "content": "(CNN)The US plan to evacuate Americans and their families from the Diamond Princess cruise ship appears, on its face, to be the case of a powerful government coming to the aide of its most vulnerable citizens. \r\nBut the decision has prompted anger from some e\u2026 [+5143 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Emiko Jozuka, CNN",
+            "title": "Hadaka Matsuri: Thousands gather for Japan's annual 'Naked Festival'",
+            "description": "Thousands braved chilly weather Saturday to gather at Japan's largest and most famous \"naked festival\" in Okayama prefecture. The event, called \"Hadaka Matsuri\" in Japanese, is a wild and raucous festival held annually on the third Saturday of February.",
+            "url": "https://www.cnn.com/travel/article/japan-naked-festival-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200215215656-01-japan-naked-festival-restricted-super-tease.jpg",
+            "publishedAt": "2020-02-16T03:16:56Z",
+            "content": "Tokyo (CNN) Thousands braved chilly weather on Saturday to gather at the annual \"Naked Festival\" in Okayama prefecture in the southern part of Japan's Honshu island. \r\nThe event, called \"Hadaka Matsuri\" in Japanese, is a wild and raucous festival held every y\u2026 [+3732 chars]"
+        }
+    ]
+}

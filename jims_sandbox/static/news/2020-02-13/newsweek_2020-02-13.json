@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "K Thor Jensen",
+            "title": "Man Misdiagnoses Himself With Coronavirus, Takes Own Life to Protect Villagers",
+            "description": "A man in the Chittoor district of Andhra Pradesh reportedly died by suicide because he was convinced he had the novel coronavirus.",
+            "url": "https://www.newsweek.com/man-misdiagnoses-himself-coronavirus-suicide-1487183",
+            "urlToImage": "https://d.newsweek.com/en/full/1567093/nurse-holding-coronavirus-blood-test.jpg",
+            "publishedAt": "2020-02-13T18:36:26Z",
+            "content": "A man in the Chittoor district of Andhra Pradesh has reportedly died by suicide because he was convinced he had the novel coronavirus.\r\nThe Telegraphhas identified the man as 50-year-old K. Bala Krishna, a father of three who went to a clinic in Tirumala afte\u2026 [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "American on U.S. Flight From Wuhan Tests Positive for Coronavirus, 15th Case in U.S.",
+            "description": "This is the third person to test positive after being evacuated from Wuhan and the CDC expects additional cases in the future.",
+            "url": "https://www.newsweek.com/coronavirus-case-confirmed-wuhan-flight-jbsa-lackland-1487187",
+            "urlToImage": "https://d.newsweek.com/en/full/1567091/lackland-base-coronavirus-case-confirmed-wuhan-flight.jpg",
+            "publishedAt": "2020-02-13T17:30:05Z",
+            "content": "An American who was evacuated from Wuhan, China, on a government-chartered flight has tested positive for the coronavirus, raising the number of cases in the United States to 15.\r\nThe person returned to America from Wuhan on February 7 and was under federal q\u2026 [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "History Will View Coronavirus as China's Chernobyl, According to U.S. Political Scientist",
+            "description": "Over 1,370 people have died of COVId-19 since late last year, with all but three fatalities in mainland China.",
+            "url": "https://www.newsweek.com/china-coronavirus-chernobyl-political-scientist-1487170",
+            "urlToImage": "https://d.newsweek.com/en/full/1567069/coronavirus-covid19-2019ncov-china-beijing.jpg",
+            "publishedAt": "2020-02-13T15:53:00Z",
+            "content": "The coronavirus outbreak that has killed almost 1,400 people has left China facing a crisis on the scale of Chernobyl, according to a political scientist from the U.S..\r\nThe virus, which was this week named COVID-19, has killed 1,367 people in mainland China \u2026 [+3990 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Steven Asarch",
+            "title": "Activision Blizzard Esports President Talks Future Plans for Overwatch & Call of Duty Leagues",
+            "description": "On the eve of the third season of the Overwatch League, Activision Blizzard Esports President Pete Vlastelica spoke with Newsweek about the sustainability of competitive gaming.",
+            "url": "https://www.newsweek.com/activision-blizzard-esports-president-future-plans-overwatch-call-duty-league-1486570",
+            "urlToImage": "https://d.newsweek.com/en/full/1567049/owl-overview.jpg",
+            "publishedAt": "2020-02-13T14:36:41Z",
+            "content": "Activision Blizzard is one of the largest video game publishers on the planet, cranking out hits like World of Warcraft, Overwatch and Call of Duty. Esports, where professional gamers compete competitively for online and in-person audiences, has exploded in p\u2026 [+10903 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Doctors Warn London's Underground System Could Be Breeding Ground For Coronavirus",
+            "description": "The risk to the public remains low, but a confirmed case in a highly-populated area like London increases the chances of additional cases.",
+            "url": "https://www.newsweek.com/doctors-warn-londons-underground-system-could-breeding-ground-coronavirus-1487150",
+            "urlToImage": "https://d.newsweek.com/en/full/1567041/coronavirus-london-public-transportation.jpg",
+            "publishedAt": "2020-02-13T14:30:41Z",
+            "content": "A confirmed case of the new coronavirus in London raised concerns that the city's mass transit system could help the virus spread.\r\nOn Wednesday, the Department of Health and Social Care confirmed a patient was being treated at a hospital in London, bringing \u2026 [+2562 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Cases Spike on China's Deadliest Day yet, With 'Wartime Measures' Banning City Residents From Leaving Home",
+            "description": "The virus recently named COVID-19 has killed over 1,000 people.",
+            "url": "https://www.newsweek.com/coronavirus-cases-spike-china-deadliest-day-wartime-measures-banning-city-residents-1487110",
+            "urlToImage": "https://d.newsweek.com/en/full/1566984/wuhan-china-coronavirus.jpg",
+            "publishedAt": "2020-02-13T10:28:45Z",
+            "content": "China has experienced its deadliest day of the new coronavirus outbreak, prompting Shiyan city to adopt \"wartime measures\" which include banning residents from leaving their homes.\r\nOn Wednesday in the city of Wuhan, Hubei province, some 242 people died and t\u2026 [+3525 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jeffery Martin",
+            "title": "China's Hubei Province Reports 14,840 New COVID-19 Coronavirus Cases and 242 New Deaths",
+            "description": "New information from the Hubei province of China, where the recent outbreak of COVID-19 is alleged to have started, is claiming 14,840 new confirmed cases and 242 new deaths as a result of the virus.",
+            "url": "https://www.newsweek.com/chinas-hubei-province-reports-14840-new-covid-19-coronavirus-cases-242-new-deaths-1487089",
+            "urlToImage": "https://d.newsweek.com/en/full/1566957/coronavirus-covid-19.jpg",
+            "publishedAt": "2020-02-13T03:00:59Z",
+            "content": "At the epicenter of the COVID-19 outbreak in China's Hubei province, health officials reported 14,840 new cases of the virus and 242 new deaths related to the infection according to CNBC. In Wuhan, where the latest outbreak of the coronavirus is alleged to ha\u2026 [+2613 chars]"
+        }
+    ]
+}
