@@ -35,8 +35,8 @@ def home():
 @app.route("/api/bar_china")
 def bar_chart_china():
     
-    connection_string = "postgres:postgres@localhost:5432/corona_db"
-    engine = create_engine(f'postgresql://{connection_string}')
+    # connection_string = "postgres:postgres@localhost:5432/corona_db"
+    # engine = create_engine(f'postgresql://{connection_string}')
     # Read
     result_set = []
     result_set = engine.execute("select date, \
