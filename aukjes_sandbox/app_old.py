@@ -7,17 +7,17 @@ from flask import (
     request,
     redirect)
 import pandas as pd
+from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
-from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
+# from flask_sqlalchemy import SQLAlchemy
+
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db/pets.sqlite"
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
+# # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
 
-# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
-
-db = SQLAlchemy(app)
+# db = SQLAlchemy(app)
 
 # Use PyMongo to establish Mongo connection
 # mongo = PyMongo(app, uri="mongodb://localhost:27017/mars_app")
@@ -63,6 +63,27 @@ def bar_china():
     df_query = pd.read_sql_query(query_text, con=engine)
     bar_data = df_query.to_json()
     return bar_data
+
+@app.route("/api/bar_test")
+def bar_text():
+
+    connection_string = "postgres:postgres@localhost:5432/corona_db"
+    engine = create_engine(f'postgresql://{connection_string}')
+
+    query_str = open('static/sql/test_query.sql')
+    query_text = ""
+    for text in query_str:
+        query_text = query_text + text
+        
+    print(query_text)
+
+    data=engine.execute(query_text)
+    list = []
+    for d in data:
+        list.append(d)
+
+
+    return jsonify(list)
 
 if __name__ == "__main__":
     app.run(debug=True)
