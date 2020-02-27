@@ -41,7 +41,24 @@ def world():
         order by total desc \
         limit 10")
 
-    return render_template("world.html", world_facts=result_set)
+    result_sum = []
+    result_sum = engine.execute("select  max(date), \
+	    sum(conf_count) confirmed, \
+	    sum(cured_count) cured, \
+	    sum(dead_count) dead, \
+		(sum(conf_count) + sum(cured_count) + sum(dead_count)) total \
+        from daily_stats_world  \
+        where date = (select max(date ) from daily_stats_world)") 
+
+    # for i in result_sum:
+    #     pct_conf = round(i[1]/i[4]*100)
+    #     pct_cured = round(i[2]/i[4]*100)
+    #     pct_dead = round(i[3]/i[4]*100)
+    #     print(pct_conf)
+    #     print(pct_cured)
+    #     print(pct_dead)
+  
+    return render_template("world.html", world_facts=result_set, world_sum=result_sum)
 
 @app.route("/china")
 def china(): 
@@ -90,7 +107,7 @@ def bar_chart_world():
 	sum(cured_count) cured, \
 	sum(dead_count) dead \
     from daily_stats_world \
-    where country <> 'Mainland China' \
+    where country <> 'China' \
     group by date\
     order by date")  
 

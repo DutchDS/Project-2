@@ -92,7 +92,7 @@ var trace3 = {
 var barData = [trace1, trace2, trace3]
 var barLayout = {
         barmode:"stack", 
-        title: { text: "Virus spread over time",
+        title: { text: "Virus spread over time - excluding China",
                 font: {
                     family: 'Arial, Helvetica, sans-serif',
                     size: 32,
