@@ -25,18 +25,25 @@ db = SQLAlchemy(app)
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
 
 # db = SQLAlchemy(app)
-
 @app.route("/")
-def home(): 
-    mars_data = ['aukje', 'jim', 'vamsi','meliha']
-    return render_template("china.html", mars_data=mars_data)
+def world():
+    return render_template("world.html")
+
+@app.route("/china")
+def china(): 
+    return render_template("china.html")
+
+@app.route("/slider")
+def slider(): 
+    return render_template("slider.html")
+
+@app.route("/news")
+def news():
+    return render_template("news.html")
 
 @app.route("/api/bar_china")
 def bar_chart_china():
     
-    # connection_string = "postgres:postgres@localhost:5432/corona_db"
-    # engine = create_engine(f'postgresql://{connection_string}')
-    # Read
     result_set = []
     result_set = engine.execute("select date, \
         sum(conf_count) confirmed, \
@@ -60,13 +67,12 @@ def bar_chart_china():
 
     return jsonify(all_results)
 
-@app.route("/world")
-def world():
-    mars_data = ['this', 'is', 'the','world']
-    return render_template("world.html", mars_data=mars_data)
-
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
+    
 ####################################
 # OLD WAY OF RETRIEVING JSON FILE
 #####################################
