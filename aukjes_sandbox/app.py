@@ -25,18 +25,39 @@ db = SQLAlchemy(app)
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
 
 # db = SQLAlchemy(app)
-
 @app.route("/")
-def home(): 
-    mars_data = ['aukje', 'jim', 'vamsi','meliha']
-    return render_template("china.html", mars_data=mars_data)
+def world():
+    result_set = []
+    result_set = engine.execute("select  \
+	    country, \
+	    max(date), \
+	    sum(conf_count) confirmed, \
+	    sum(cured_count) cured, \
+	    sum(dead_count) dead, \
+	    (sum(conf_count) + sum(cured_count) + sum(dead_count)) total \
+        from daily_stats_world \
+        where date = (select max(date ) from daily_stats_world) \
+        group by country \
+        order by total desc \
+        limit 10")
+
+    return render_template("world.html", world_facts=result_set)
+
+@app.route("/china")
+def china(): 
+    return render_template("china.html")
+
+@app.route("/slider")
+def slider(): 
+    return render_template("slider.html")
+
+@app.route("/news")
+def news():
+    return render_template("news.html")
 
 @app.route("/api/bar_china")
 def bar_chart_china():
     
-    # connection_string = "postgres:postgres@localhost:5432/corona_db"
-    # engine = create_engine(f'postgresql://{connection_string}')
-    # Read
     result_set = []
     result_set = engine.execute("select date, \
         sum(conf_count) confirmed, \
@@ -60,13 +81,37 @@ def bar_chart_china():
 
     return jsonify(all_results)
 
-@app.route("/world")
-def world():
-    mars_data = ['this', 'is', 'the','world']
-    return render_template("world.html", mars_data=mars_data)
+@app.route("/api/bar_world")
+def bar_chart_world():
+    
+    result_set = []
+    result_set = engine.execute("select date, \
+	sum(conf_count) confirmed, \
+	sum(cured_count) cured, \
+	sum(dead_count) dead \
+    from daily_stats_world \
+    where country <> 'Mainland China' \
+    group by date\
+    order by date")  
+
+    
+    all_results = []
+    for date, conf_count, cured_count, dead_count in result_set:
+        results_dict = {}
+        results_dict["date"] = date
+        results_dict["conf_count"] = conf_count
+        results_dict["cured_count"] = cured_count
+        results_dict["dead_count"] = dead_count
+        all_results.append(results_dict)
+
+    return jsonify(all_results)
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
+    
 ####################################
 # OLD WAY OF RETRIEVING JSON FILE
 #####################################

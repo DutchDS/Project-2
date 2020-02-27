@@ -27,7 +27,21 @@ db = SQLAlchemy(app)
 # db = SQLAlchemy(app)
 @app.route("/")
 def world():
-    return render_template("world.html")
+    result_set = []
+    result_set = engine.execute("select  \
+	    country, \
+	    max(date), \
+	    sum(conf_count) confirmed, \
+	    sum(cured_count) cured, \
+	    sum(dead_count) dead, \
+	    (sum(conf_count) + sum(cured_count) + sum(dead_count)) total \
+        from daily_stats_world \
+        where date = (select max(date ) from daily_stats_world) \
+        group by country \
+        order by total desc \
+        limit 10")
+
+    return render_template("world.html", world_facts=result_set)
 
 @app.route("/china")
 def china(): 
@@ -63,6 +77,31 @@ def bar_chart_china():
         results_dict["cured_count"] = cured_count
         results_dict["dead_count"] = dead_count
         results_dict["susp_count"] = susp_count
+        all_results.append(results_dict)
+
+    return jsonify(all_results)
+
+@app.route("/api/bar_world")
+def bar_chart_world():
+    
+    result_set = []
+    result_set = engine.execute("select date, \
+	sum(conf_count) confirmed, \
+	sum(cured_count) cured, \
+	sum(dead_count) dead \
+    from daily_stats_world \
+    where country <> 'Mainland China' \
+    group by date\
+    order by date")  
+
+    
+    all_results = []
+    for date, conf_count, cured_count, dead_count in result_set:
+        results_dict = {}
+        results_dict["date"] = date
+        results_dict["conf_count"] = conf_count
+        results_dict["cured_count"] = cured_count
+        results_dict["dead_count"] = dead_count
         all_results.append(results_dict)
 
     return jsonify(all_results)
