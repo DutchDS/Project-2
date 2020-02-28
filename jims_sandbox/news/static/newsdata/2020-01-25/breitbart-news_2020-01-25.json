@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Bob Price, Bob Price",
+            "title": "CORONAVIRUS: U.S. Orders Wuhan Consulate Staff to Leave City",
+            "description": "The U.S. Department of State ordered employees of the Consulate in Wuhan, China, to evacuate from the city in wake of the spreading novel coronavirus. The order comes as Chinese authorities expand containment responses designed to slow or stop the rapidly spr\u2026",
+            "url": "https://www.breitbart.com/border/2020/01/25/coronavirus-u-s-orders-wuhan-consulate-staff-to-leave-city/",
+            "urlToImage": "https://media.breitbart.com/media/2020/01/AP_20024311300245-640x335.jpg",
+            "publishedAt": "2020-01-25T17:53:42Z",
+            "content": "The U.S. Department of State ordered employees of the Consulate in Wuhan, China, to evacuate from the city in wake of the spreading novel coronavirus. The order comes as Chinese authorities expand containment responses designed to slow or stop the rapidly spr\u2026 [+1632 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Bob Price, Bob Price",
+            "title": "Xi Jinping: Accelerating Spread of Coronavirus 'Grave Situation' -- Suspends Tourist Travel Abroad",
+            "description": "Chinese President Xi Jinping called the accelerating spread of the novel coronavirus a \"grave situation\" and suspended international tourist travel from his country. The Chinese leader pledged China would \"win this battle to beat the epidemic.\"",
+            "url": "https://www.breitbart.com/border/2020/01/25/xi-jinping-accelerating-spread-of-coronavirus-grave-situation-suspends-tourist-travel-abroad/",
+            "urlToImage": "https://media.breitbart.com/media/2020/01/GettyImages-1195334417-640x335.jpg",
+            "publishedAt": "2020-01-25T16:12:05Z",
+            "content": "Chinese President Xi Jinping called the accelerating spread of the novel coronavirus a \u201cgrave situation\u201d and suspended international tourist travel from his country. The Chinese leader pledged China would \u201cwin this battle to beat the epidemic.\u201d\r\nConfronted wi\u2026 [+2898 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Oliver JJ Lane",
+            "title": "Chinese Coronavirus: First European Cases as Beijing Cracks Down, Locking Down 56 Million People",
+            "description": "Three cases of Coronavirus have been confirmed in France, the first in Europe, as the Chinese government locks down whole cities.",
+            "url": "https://www.breitbart.com/europe/2020/01/25/chinese-coronavirus-first-european-cases-as-beijing-cracks-down-locking-down-56-million-people/",
+            "urlToImage": "https://media.breitbart.com/media/2020/01/GettyImages-1196115521-e1579955190445-640x335.jpg",
+            "publishedAt": "2020-01-25T12:48:02Z",
+            "content": "Three cases of the deadly Chinese Coronavirus have been confirmed in France, the first in Europe, as the Chinese government moves to lockdown whole cities impacted by the disease, where an estimated 56 million people are now subjected to travel restrictions.\r\u2026 [+3287 chars]"
+        }
+    ]
+}

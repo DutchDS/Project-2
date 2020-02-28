@@ -9,11 +9,18 @@ from flask import (
 import pandas as pd
 from sqlalchemy import create_engine
 from flask_sqlalchemy import SQLAlchemy
+<<<<<<< HEAD:Old files/app working just china.py
+=======
+import decimal
+import flask.json
+>>>>>>> eca623a7c991caf93a258708fbb78b4aad4c1518:aukjes_sandbox/app.py
 
 app = Flask(__name__)
 
-# from flask_sqlalchemy import SQLAlchemy
+DATABASE_URI = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
+print(DATABASE_URI)
 
+<<<<<<< HEAD:Old files/app working just china.py
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db/pets.sqlite"
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
 
@@ -27,53 +34,136 @@ engine = create_engine(DATABASE_URI)
 app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URI 
 
 db = SQLAlchemy(app)
+=======
+engine = create_engine(DATABASE_URI)
 
-# Use PyMongo to establish Mongo connection
-# mongo = PyMongo(app, uri="mongodb://localhost:27017/mars_app")
+app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URI 
 
+db = SQLAlchemy(app)
+# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "postgresql://postgres:postgres@localhost:5432/corona_db"
 
-# Route to render index.html template using data from Mongo
+# db = SQLAlchemy(app)
 @app.route("/")
-def home():
+def world():
+    result_set = []
     
-    # Find one record of data from the mongo database
-    # mars_data = mongo.db.mars_collection.find_one()
-    mars_data = ['aukje', 'jim', 'vamsi','meliha']
-    # Return template and data
-    return render_template("china.html", mars_data=mars_data)
-
-
-# Route that will trigger the scrape function
-# @app.route("/scrape")
-# def scrape():
-
-#     # Run the scrape function
-#     # mars_data = scrape_mars.scrape()
-#     # results = db.session.query(daily_stats.date, daily_stats.confirmed).all()
-#     # Update the Mongo database using update and upsert=True
-#     # mongo.db.mars_collection.update({}, mars_data, upsert=True)
-
-#     # Redirect back to home page
-#     # return redirect("/")
-#     return jsonify(results)
-
-@app.route("/api/bar_china/file.json")
-def bar_china():
-
-    # connection_string = "postgres:postgres@localhost:5432/corona_db"
-    # engine = create_engine(f'postgresql://{connection_string}')
-
-    query_str = open('static/sql/test_query.sql')
+    query_str = open('static/sql/world_top_10.sql')
     query_text = ""
+    
     for text in query_str:
         query_text = query_text + text
         
+    result_set = engine.execute(query_text)
+
+    result_sum = []
+>>>>>>> eca623a7c991caf93a258708fbb78b4aad4c1518:aukjes_sandbox/app.py
+
+    query_str = open('static/sql/world_summary.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    result_sum = engine.execute(query_text)
+  
+    return render_template("world.html", world_facts=result_set, world_sum=result_sum)
+
+@app.route("/china")
+def china(): 
+    result_set = []
+    
+    query_str = open('static/sql/china_top_10.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
+
+    result_sum = []
+
+    query_str = open('static/sql/china_summary.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    result_sum = engine.execute(query_text)
+  
+    return render_template("china.html", china_facts=result_set, china_sum=result_sum)
+
+@app.route("/slider")
+def slider(): 
+    return render_template("slider.html")
+
+@app.route("/news")
+def news():
+    return render_template("news.html")
+
+<<<<<<< HEAD:Old files/app working just china.py
+    # connection_string = "postgres:postgres@localhost:5432/corona_db"
+    # engine = create_engine(f'postgresql://{connection_string}')
+=======
+@app.route("/api/bar_china")
+def bar_chart_china():
+    
+    
+    result_set = []
+    
+    query_str = open('static/sql/china_bar.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
+    
+    all_results = []
+    for date, conf_count, cured_count, dead_count, susp_count in result_set:
+        results_dict = {}
+        results_dict["date"] = date
+        results_dict["conf_count"] = conf_count
+        results_dict["cured_count"] = cured_count
+        results_dict["dead_count"] = dead_count
+        results_dict["susp_count"] = susp_count
+        all_results.append(results_dict)
+>>>>>>> eca623a7c991caf93a258708fbb78b4aad4c1518:aukjes_sandbox/app.py
+
+    return jsonify(all_results)
+
+@app.route("/api/bar_world")
+def bar_chart_world():
+    
+    result_set = []
+    
+    query_str = open('static/sql/world_bar.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+<<<<<<< HEAD:Old files/app working just china.py
     print(query_text)
     df_query = pd.read_sql_query(query_text, con=engine)
     # df_query = pd.read_sql_query(query_text, con=db)
 
     bar_data = df_query.to_json()
     return bar_data
+=======
+    result_set = engine.execute(query_text)
+    
+    all_results = []
+    for date, country, conf_count, cured_count, dead_count in result_set:
+        results_dict = {}
+        results_dict["date"] = date
+        results_dict["country"] = country
+        results_dict["conf_count"] = conf_count
+        results_dict["cured_count"] = cured_count
+        results_dict["dead_count"] = dead_count
+        all_results.append(results_dict)
+
+    return jsonify(all_results)
+>>>>>>> eca623a7c991caf93a258708fbb78b4aad4c1518:aukjes_sandbox/app.py
 
 
 # @app.route("/api/data/test")

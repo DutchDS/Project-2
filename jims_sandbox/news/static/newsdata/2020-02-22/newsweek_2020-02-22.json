@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kenneth R. Rosen",
+            "title": "Towns in Italy Under Lockdown as Coronavirus Cases Surge in Southern Europe and Middle East",
+            "description": "More than 50,000 people have been asked to remain shuttered inside their homes.",
+            "url": "https://www.newsweek.com/italy-coronavirus-iran-lebanon-israel-1488564",
+            "urlToImage": "https://d.newsweek.com/en/full/1568776/italy-coronavirus-rome.jpg",
+            "publishedAt": "2020-02-22T12:03:11Z",
+            "content": "A silent panic befell northeastern Italy during the final weekend of carnival. Bars, schools, restaurants, and other public spaces in 10 towns here closed, with more expected to follow, after the region reported its first two deaths from the new coronavirus. \u2026 [+3788 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Nigel Farage",
+            "title": "We Didn't Free Britain From Brussels Only to Bow Before Beijing. Conservatives Must Rebel Over Huawei | Opinion",
+            "description": "I am convinced that letting Huawei into our infrastructure against the express wishes of America's entire political spectrum\u2014from Trump to Pelosi\u2014is the worst decision taken by a UK government for many years.",
+            "url": "https://www.newsweek.com/huawei-boris-johnson-conservative-rebellion-churchill-farage-1488582",
+            "urlToImage": "https://d.newsweek.com/en/full/1568783/boris-oh.jpg",
+            "publishedAt": "2020-02-22T15:24:19Z",
+            "content": "On the face of it, this has been a very good week for Brexit. A remarkable speech was made by David Frost, the UK government's chief EU negotiator, in which he told an audience in the belly of the Brussels beast in no uncertain terms that Britain will become \u2026 [+10767 chars]"
+        }
+    ]
+}

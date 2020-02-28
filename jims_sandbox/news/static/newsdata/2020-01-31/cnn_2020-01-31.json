@@ -1,0 +1,331 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michael Nedelman, CNN",
+            "title": "New report on first US case of the virus details mild symptoms followed by pneumonia",
+            "description": "Doctors have shared new details about the first case of Wuhan coronavirus in the United States in a paper published Friday in the New England Journal of Medicine.",
+            "url": "https://www.cnn.com/2020/01/31/health/washington-coronavirus-study-nejm/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131121336-01-washington-coronavirus-patient-lungs-super-tease.jpg",
+            "publishedAt": "2020-01-31T22:47:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Cohen and Dakin Andone, CNN",
+            "title": "CDC orders a 14-day coronavirus quarantine for 200 Americans evacuated from Wuhan",
+            "description": "The US Centers for Disease Control and Prevention has ordered a federal 14-day quarantine for nearly 200 Americans who recently returned from Wuhan, China, the epicenter of the coronavirus outbreak.",
+            "url": "https://www.cnn.com/2020/01/31/health/us-coronavirus-friday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-super-tease.jpg",
+            "publishedAt": "2020-01-31T18:36:35Z",
+            "content": "(CNN)The US Centers for Disease Control and Prevention has ordered a federal 14-day quarantine for nearly 200 Americans who recently returned from Wuhan, China, the epicenter of the coronavirus outbreak. \r\nThe group -- made up of 195 Americans, many of them d\u2026 [+800 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Cohen and John Bonifield, CNN",
+            "title": "Top US doctor: Wuhan virus can spread when people have no symptoms",
+            "description": "The nation's top infectious disease doctor says a new study published Thursday night shows people can spread the Wuhan coronavirus before symptoms set in.",
+            "url": "https://www.cnn.com/2020/01/31/health/coronavirus-asymptomatic-spread-study/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-super-tease.jpg",
+            "publishedAt": "2020-01-31T17:40:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky, CNN Business",
+            "title": "American, Delta and United airlines suspend most US- China flights amid coronavirus outbreak",
+            "description": "Three of the largest US airlines -- Delta, American and United -- have canceled more flights between the United States and China because of concerns about the spread of coronavirus.",
+            "url": "https://www.cnn.com/2020/01/31/business/american-delta-united-flights-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131105507-delta-airlines-planes-tarmac-super-tease.jpg",
+            "publishedAt": "2020-01-31T17:19:05Z",
+            "content": "New York (CNN Business)Three of the largest US airlines -- Delta, American and United -- have canceled more flights between the United States and China because of concerns about the spread of coronavirus. \r\nFor American Airlines, the nation's largest carrier,\u2026 [+2822 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Geneva Sands, CNN",
+            "title": "Trump administration expected to expand travel ban to six new countries, source says",
+            "description": "The Trump administration on Friday is expected to announce an expansion of the travel ban, a revision of one of the President's signature policies, which has been derided by critics as an attempt to ban Muslims from the US, according to sources familiar with \u2026",
+            "url": "https://www.cnn.com/2020/01/31/politics/trump-administration-travel-ban-six-new-countries/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170306161752-lax-arrivals-travel-ban-file-super-tease.jpg",
+            "publishedAt": "2020-01-31T17:00:18Z",
+            "content": "Washington (CNN)The Trump administration on Friday is expected to announce an expansion of the travel ban, a revision of one of the President's signature policies, which has been derided by critics as an attempt to ban Muslims from the US, according to source\u2026 [+3109 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Coronavirus declared a global health emergency - CNN",
+            "description": "Coronavirus declared a global health emergency CNN How Bad Will the Coronavirus Outbreak Get? Here Are 6 Key Factors The New York Times WHO declares coronavirus a global health emergency ABC News Sold-Out Coronavirus N95 Face Masks Offer a Lesson in Price Gou\u2026",
+            "url": "https://www.cnn.com/videos/business/2020/01/31/coronavirus-china-who-containment.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131083509-02-coronavirus-0131-super-tease.jpg",
+            "publishedAt": "2020-01-31T16:55:42Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky, CNN Business",
+            "title": "Goldman Sachs warns that the coronavirus could slow the US economy",
+            "description": "The fast-spreading coronavirus could slow first quarter growth of the United States economy, according to a new report from Goldman Sachs.",
+            "url": "https://www.cnn.com/2020/01/31/business/coronavirus-goldman-sachs-us-economy/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131094951-coronavirus-us-market-fears-super-tease.jpg",
+            "publishedAt": "2020-01-31T16:47:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "It has been a roller coaster week for stocks. Here's what happened",
+            "description": "It was a turbulent week for stock markets as worries about coronavirus weighed on investors' minds.",
+            "url": "https://www.cnn.com/2020/01/31/investing/dow-stock-market-this-week-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130150533-coronavirus-0130-super-tease.jpg",
+            "publishedAt": "2020-01-31T16:14:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Bukola Adebayo and Radina Gigova, CNN",
+            "title": "African airlines suspend flights to China",
+            "description": "Kenya Airways has suspended flights to and from China until further notice in light of the current coronavirus outbreak, the airline said Friday.",
+            "url": "https://www.cnn.com/2020/01/31/africa/kenyan-airways-flight-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131140208-kenya-airways-super-tease.jpg",
+            "publishedAt": "2020-01-31T13:46:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By CNN staff",
+            "title": "Will travel insurance cover flights canceled due to the coronavirus outbreak?",
+            "description": "The outbreak and spread of the coronavirus has caused widespread disruption with airlines worldwide canceling flights, prompting questions for travelers over whether they can expect insurance compensation.",
+            "url": "https://www.cnn.com/travel/article/coronavirus-flight-cancellations-insurance/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131135417-chinese-tourists-coronavirus-travel-1196649362-super-tease.jpg",
+            "publishedAt": "2020-01-31T13:43:04Z",
+            "content": "CNN staffPublished 31st January 2020\r\n(CNN) The outbreak and spread of the coronavirus is causing widespread disruption, with airlines worldwide suspending all flights to China.\r\nAt least 213 people have died from the virus, which originated in Wuhan, and the\u2026 [+2160 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "See hospitals being built for coronavirus patients in Wuhan",
+            "description": "Thousands of workers and machines are working non-stop on two new hospitals for coronavirus patients in Wuhan, China.",
+            "url": "https://www.cnn.com/videos/world/2020/01/31/hospitals-being-built-urgently-for-coronavirus-patients-in-wuhan-china-lc-lon-orig.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-super-tease.jpg",
+            "publishedAt": "2020-01-31T13:25:37Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oscar Holland, CNN",
+            "title": "Hong Kong art fair faces calls to cancel amid coronavirus fears",
+            "description": "Organizers of Asia's largest art fair, Art Basel Hong Kong, are facing mounting pressure to cancel or postpone the March event as a deadly new coronavirus continues to spread around the region.",
+            "url": "https://www.cnn.com/style/article/art-basel-hong-kong-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131114049-01-art-basel-hong-kong-file-super-tease.jpg",
+            "publishedAt": "2020-01-31T12:13:14Z",
+            "content": "artsPublished 31st January 2020\r\nOrganizers of Asia's largest art fair, Art Basel Hong Kong, are facing mounting pressure to postpone or cancel the March event as the deadly Wuhan coronavirus continues to spread around the region.\r\nA number of galleries set t\u2026 [+5969 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Jason Steinhauer",
+            "title": "A Chinese cultural treasure is (mostly) saved from fire",
+            "description": "In 2006, I worked at the Museum of Chinese in America (MoCA), in the historic building that went up in flames last Friday over the Lunar New Year. At the time, the museum had five staff and two volunteers; a small permanent exhibit was on the second floor. I \u2026",
+            "url": "https://www.cnn.com/2020/01/31/opinions/museum-of-chinese-in-america-fire-steinhauer/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125163457-06-chinese-museum-fire-super-tease.jpg",
+            "publishedAt": "2020-01-31T12:02:46Z",
+            "content": "Jason Steinhauer is the director of Villanova University's Lepage Center for History in the Public Interest and Senior Fellow at the Foreign Policy Research Institute. The views expressed in this commentary are his own. Read more opinion on CNN. \r\n (CNN)In 20\u2026 [+4701 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maciej F. Boni, The Conversation",
+            "title": "How deadly is coronavirus, and can it be contained?",
+            "description": "The two outbreaks in recent memory that give the most insight into these questions are the 2002-2003 SARS outbreak and the 2009 H1N1 influenza pandemic, which spread globally.",
+            "url": "https://www.cnn.com/2020/01/31/health/coronavirus-vs-sars-influenza-conversation-partner/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130154824-01-coronavirus-global-health-concern-super-tease.jpg",
+            "publishedAt": "2020-01-31T11:35:40Z",
+            "content": "(CNN)As the new coronavirus continues to cross international borders, the two key questions on public health officials' minds are: 'How deadly is it?' and 'Can it be contained?'.\r\nThe two outbreaks in recent memory that give the most insight into these questi\u2026 [+7080 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Laura He, CNN Business",
+            "title": "The coronavirus could cost China's economy $60 billion this quarter. Beijing will have to act fast to avert a bigger hit",
+            "description": "China may have to cut taxes, boost spending and slash interest rates to prevent the coronavirus outbreak wreaking havoc on an already fragile economy.",
+            "url": "https://www.cnn.com/2020/01/31/economy/china-economy-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129142940-03-beijing-china-coronavirus-0128-super-tease.jpg",
+            "publishedAt": "2020-01-31T11:03:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for January 31: Coronavirus, impeachment, US military, Mexico, guns",
+            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
+            "url": "https://www.cnn.com/2020/01/31/us/five-things-january-31-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129205811-hong-kong-coronavirus-masks-super-tease.jpg",
+            "publishedAt": "2020-01-31T11:01:11Z",
+            "content": "(CNN)The time of Brexit is nigh. Today, the UK officially separates from the European Union. Not much will change at first, but the UK has a lot to get done by the end of the year, when the transition period ends. \r\nHere's what you need to know to Get Up to S\u2026 [+5714 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh, CNN Business",
+            "title": "Facebook joins Google and Twitter in cracking down on fake coronavirus 'cures' and other misinformation",
+            "description": null,
+            "url": "https://www.cnn.com/2020/01/31/tech/facebook-twitter-google-coronavirus-misinformation/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130220746-facebook-misinformation-coronavirus-stock-super-tease.jpg",
+            "publishedAt": "2020-01-31T09:21:42Z",
+            "content": "Hong Kong (CNN Business)Facebook(FB) says it will start taking down bogus claims about purported \"cures\" and other unproven theories surrounding the coronavirus, as the deadly outbreak continues to spread globally, sparking a surge in online chatter and misin\u2026 [+4205 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi, CNN",
+            "title": "Five key developments on the spread of coronavirus in the US this week",
+            "description": "The coronavirus outbreak is spreading worldwide after killing hundreds in China -- and there's no end in sight.",
+            "url": "https://www.cnn.com/2020/01/31/health/us-coronavirus-developments-this-week/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131013912-02-coronavirus-0130-hong-kong-super-tease.jpg",
+            "publishedAt": "2020-01-31T08:51:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Maggie Hiufu Wong, CNN",
+            "title": "No pillows, no hot meals: Airlines adopt preventative measures against outbreak",
+            "description": "While multiple airlines have temporarily canceled all flights to China, those that are still flying to the country are adopting a series of measures to prevent the spread of the deadly coronavirus, including the removal of pillows, blankets and hot meals.",
+            "url": "https://www.cnn.com/travel/article/wuhan-coronavirus-airlines-measures/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-super-tease.jpg",
+            "publishedAt": "2020-01-31T08:38:03Z",
+            "content": "Maggie Hiufu Wong, CNNPublished 31st January 2020\r\nHong Kong (CNN) While multiple airlines have temporarily suspended all flights to China due to the coronavirus outbreak, those that are still flying to the country are adopting a series of measures to prevent\u2026 [+3649 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi and Sarah Moon, CNN",
+            "title": "Hoaxes are spreading in the US as outbreak grows worldwide",
+            "description": "As the coronavirus outbreak grows after killing hundreds in China, officials in several US states are cracking down on false information about the spread of the disease locally.",
+            "url": "https://www.cnn.com/2020/01/31/health/us-coronavirus-hoaxes-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130234909-coronavirus-hoax-super-tease.jpg",
+            "publishedAt": "2020-01-31T06:35:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Jessie Yeung, CNN",
+            "title": "As the coronavirus spreads, fear is fueling racism and xenophobia",
+            "description": "The panic around the coronavirus outbreak has led to the re-emergence of old racist tropes that portray Asians, their food, and their customs as unsafe and unwelcome.",
+            "url": "https://www.cnn.com/2020/01/31/asia/wuhan-coronavirus-racism-fear-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-super-tease.jpg",
+            "publishedAt": "2020-01-31T05:04:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths, CNN",
+            "title": "China marks deadliest day as WHO declares global health emergency in fight against Wuhan coronavirus",
+            "description": "China marked its most fatal day yet during the Wuhan coronavirus outbreak Thursday as the World Health Organization (WHO) declared the virus a global health emergency.",
+            "url": "https://www.cnn.com/2020/01/30/asia/wuhan-coronavirus-update-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-super-tease.jpg",
+            "publishedAt": "2020-01-31T03:19:31Z",
+            "content": "Hong Kong (CNN)China marked its most fatal day yet during the Wuhan coronavirus outbreak Thursday as the World Health Organization (WHO) declared the virus a global health emergency. \r\nChinese authorities reported more than 40 deaths Thursday, all of them in \u2026 [+8938 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, CNN Business",
+            "title": "Asian markets are recovering a little after coronavirus fears sunk stocks",
+            "description": "Asian markets are showing signs of recovery after being battered this week by the spread of the coronavirus.",
+            "url": "https://www.cnn.com/2020/01/30/investing/asian-market-latest/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130205302-01-coronavirus-0130-super-tease.jpg",
+            "publishedAt": "2020-01-31T02:35:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Caroline Kelly",
+            "title": "US State Dept warning on China: 'Do Not Travel'",
+            "description": "The State Department announced a warning on Thursday not to travel to China due to the recent coronavirus outbreak.",
+            "url": "https://www.cnn.com/2020/01/30/politics/coronavirus-alert/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130205302-01-coronavirus-0130-super-tease.jpg",
+            "publishedAt": "2020-01-31T02:34:56Z",
+            "content": "(CNN)The State Department announced a warning on Thursday not to travel to China due to the recent coronavirus outbreak.\r\n\"Do not travel to China due to novel coronavirus first identified in Wuhan, China,\" the alert states, noting that the World Health Organi\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a> and <a href=\"/profiles/steve-george\">Steve George</a>, CNN",
+            "title": "WHO declares coronavirus a global health emergency as cases top 9,600",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-01-31-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130115346-03-china-coronavirus-lockdown-unfurled-super-tease.jpg",
+            "publishedAt": "2020-01-31T01:58:25Z",
+            "content": "South Korea has repatriated 367 of its citizens from Wuhan. \r\nA charter flight from the outbreak epicenter landed in Seouls Gimpo airport Friday morning local time.\r\nThere are about 700 South Koreans in Wuhan who registered to return to South Korea, according\u2026 [+295 chars]"
+        }
+    ]
+}

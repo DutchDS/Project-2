@@ -130,4 +130,8 @@ dmypy.json
 
 # all geojson files
 aukjes_sandbox/static/world_geojsons/
+<<<<<<< HEAD
 static/world_geojsons/
+=======
+static/world_geojsons/
+>>>>>>> eca623a7c991caf93a258708fbb78b4aad4c1518

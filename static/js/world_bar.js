@@ -53,10 +53,17 @@ function create_chart(bar_data) {
         bar_dead.push(bar_data[i].dead_count)
     }
 
+<<<<<<< HEAD
     // console.log(bar_dates)
     // console.log(bar_confirmed)
     // console.log(bar_cured)
     // console.log(bar_dead)
+=======
+    console.log(bar_dates)
+    console.log(bar_confirmed)
+    console.log(bar_cured)
+    console.log(bar_dead)
+>>>>>>> eca623a7c991caf93a258708fbb78b4aad4c1518
 
 
     x_values = bar_dates

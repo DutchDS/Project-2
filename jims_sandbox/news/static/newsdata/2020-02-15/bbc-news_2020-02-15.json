@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "World Health Organisation says too early to say coronavirus under control",
+            "description": "The head of the World Health Organisation has told a security conference in Munich that it's still too early to predict whether the coronavirus outbreak will become a global epidemic.Also in the programme: civilians trapped in northern Syria; and a marathon r\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq55yq2ktgd",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p083j82j.jpg",
+            "publishedAt": "2020-02-15T22:08:00Z",
+            "content": "The head of the World Health Organisation has told a security conference in Munich that it's still too early to predict whether the coronavirus outbreak will become a global epidemic.Also in the programme: civilians trapped in northern Syria; and a marathon r\u2026 [+223 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: North Sea platform crew member tests negative",
+            "description": "The man on the Tern Alpha platform, off Shetland, was kept in isolation until he could be tested.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-51518300",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D1A6/production/_110907635_ternalpha976.jpg",
+            "publishedAt": "2020-02-15T18:54:46Z",
+            "content": "Image copyrightTaqaImage caption\r\n Tern Alpha is off Shetland\r\nA worker on a North Sea platform has tested negative for coronavirus.\r\nThe man on the Tern Alpha platform, off Shetland, recently returned from holiday in Thailand and developed possible symptoms.\u2026 [+452 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "China says coronavirus epidemic is \"under control\"",
+            "description": "France has recorded the first death outside Asia from the new coronavirus, just as China said it was bringing the outbreak under control. China's foreign minister, Wang Yi, said the number of new cases outside the illness's epicentre had fallen for eleven con\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq55yq2jvhc",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p083h2yk.jpg",
+            "publishedAt": "2020-02-15T14:37:00Z",
+            "content": "France has recorded the first death outside Asia from the new coronavirus, just as China said it was bringing the outbreak under control. China's foreign minister, Wang Yi, said the number of new cases outside the illness's epicentre had fallen for eleven con\u2026 [+398 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Eight of nine UK patients receiving treatment discharged",
+            "description": "More than 100 people remain in quarantine in a hotel after arriving from China last weekend.",
+            "url": "https://www.bbc.co.uk/news/world-51514628",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15E47/production/_110917698_059908753.jpg",
+            "publishedAt": "2020-02-15T14:21:08Z",
+            "content": "Image copyrightPA MediaImage caption\r\n One person is still receiving treatment in Guy's and St Thomas' Hospital\r\nAll but one of the nine people being treated for the coronavirus in the UK have been discharged from hospital.\r\nThey were discharged after twice t\u2026 [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "First coronavirus death confirmed in Europe",
+            "description": "First death from coronavirus in Europe confirmed after Chinese tourist dies in France.",
+            "url": "https://www.bbc.co.uk/news/world-europe-51514837",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+            "publishedAt": "2020-02-15T10:09:03Z",
+            "content": "A Chinese tourist has died in France after contracting the new coronavirus - the first fatality from the disease outside Asia. \r\nThe victim was an 80-year-old woman from China's Hubei province, according to French Health Minister Agn\u00e8s Buzyn.\r\nShe arrived in \u2026 [+597 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: US to evacuate citizens from Diamond Princess",
+            "description": "The move comes as the death toll from the coronavirus outbreak passes 1,500.",
+            "url": "https://www.bbc.co.uk/news/world-asia-51514102",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16153/production/_110915409_059938631-1.jpg",
+            "publishedAt": "2020-02-15T09:01:10Z",
+            "content": "Image copyrightReutersImage caption\r\n Hundreds of Americans are among those stuck on the Diamond Princess\r\nThe US plans to evacuate Americans from the Diamond Princess cruise ship, the site of the biggest coronavirus outbreak outside China, officials say.\r\nTh\u2026 [+2468 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "The week in pictures",
+            "description": "A selection of striking news photographs from around the world this week.",
+            "url": "https://www.bbc.co.uk/news/in-pictures-51489971",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8098/production/_110902923_57e3da11-45e4-4119-a189-13a7f3d67569.jpg",
+            "publishedAt": "2020-02-15T00:19:24Z",
+            "content": "A selection of striking news photographs from around the world this week.\r\nImage copyrightBill Ingalls / Nasa / AFPImage caption\r\n Nasa astronaut Christina Koch is helped out of the Soyuz MS-13 spacecraft after she and fellow space adventurers Alexander Skvor\u2026 [+2712 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "1,700 Chinese health care workers infected with Coronavirus",
+            "description": "China's National Health Commission says there's high pressure on doctors and nurses, also a short truce could be in sight in Afghanistan and some different Valentine's Day events",
+            "url": "https://www.bbc.co.uk/programmes/p083f6x3",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-15T00:02:00Z",
+            "content": "China's National Health Commission says there's high pressure on doctors and nurses, also a short truce could be in sight in Afghanistan and some different Valentine's Day events"
+        }
+    ]
+}

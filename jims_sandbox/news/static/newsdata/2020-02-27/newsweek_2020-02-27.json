@@ -1,0 +1,279 @@
+{
+    "status": "ok",
+    "totalResults": 21,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Mortality Rate: How COVID-19 Fatalities Compare to Ebola, SARS and MERS",
+            "description": "The new coronavirus has spread to over 40 countries and territories, killing almost 3,000 people.",
+            "url": "https://www.newsweek.com/coronavirus-mortality-rate-covid-19-fatalities-ebola-sars-mers-1489466",
+            "urlToImage": "https://d.newsweek.com/en/full/1569884/coronavirus-south-korea-seoul-covid-19-getty.jpg",
+            "publishedAt": "2020-02-27T16:39:47Z",
+            "content": "As the outbreak of the new coronavirus continues to grow, experts around the world are working tirelessly to understand the characteristics of the mysterious new disease named COVID-19. That includes calculating its death rate, and seeing how it compares to t\u2026 [+4636 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Eddy Rodriguez",
+            "title": "Tulsi Gabbard Calls for Suspension of Flights from Japan and South Korea to Hawaii Amid Coronavirus Outbreak",
+            "description": "Congresswoman Tulsi Gabbard said that if the coronavirus is allowed to reach Hawaii \"it will spread like wildfire.\"",
+            "url": "https://www.newsweek.com/tulsi-gabbard-calls-suspension-flights-japan-south-korea-hawaii-amid-coronavirus-outbreak-1489616",
+            "urlToImage": "https://d.newsweek.com/en/full/1565672/tulsi-gabbard-democratic-debate-abc.jpg",
+            "publishedAt": "2020-02-27T22:39:57Z",
+            "content": "Congresswoman Tulsi Gabbard called for the suspension of flights from Japan and South Korea Thursday amid the novel coronavirus outbreak of the disease COVID-19.\r\n\"It is irresponsible for our leaders to endanger the health and well-being of Hawaii's people by\u2026 [+3441 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "How Is a Pandemic Different From an Epidemic? American Health Officials Warn of Coronavirus Spread",
+            "description": "A CDC official said the coronavirus outbreak was moving toward meeting the third criteria of a pandemic and urged people to prepare in the event a pandemic occurs.",
+            "url": "https://www.newsweek.com/pandemic-epidemic-differences-cdc-warns-americans-coronavirus-spreading-1489518",
+            "urlToImage": "https://d.newsweek.com/en/full/1569957/pandemic-vs-epidemic-coronavirus-spread.jpg",
+            "publishedAt": "2020-02-27T17:07:11Z",
+            "content": "As cases of COVID-19 continue to climb, health officials urged Americans to prepare in the event the outbreak becomes a pandemic.\r\nIn about two months, there have been 82,000 verified cases worldwide of the people having the virus, and cases have been confirm\u2026 [+2871 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jeffery Martin",
+            "title": "Trump Contradicts CDC Warning of 'Inevitable' Coronavirus Spread in U.S., Says He Doesn't 'Think It's Inevitable'",
+            "description": "\"Well, I don't think it's inevitable,\" President Donald Trump said about a widespread coronavirus outbreak to reporters at a Wednesday news conference. \"Whatever happens,\" Trump continued, \"we're totally prepared.\"",
+            "url": "https://www.newsweek.com/trump-contradicts-cdc-warning-inevitable-coronavirus-spread-us-says-he-doesnt-think-its-1489351",
+            "urlToImage": "https://d.newsweek.com/en/full/1569770/donald-trump.jpg",
+            "publishedAt": "2020-02-27T04:25:22Z",
+            "content": "President Donald Trump told reporters Wednesday he did not feel the spread of the coronavirus in the U.S. was inevitable, despite warnings from the Centers for Disease Control that a major outbreak of the virus would certainly occur.\r\nTrump's comments came af\u2026 [+2595 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jeffery Martin",
+            "title": "Trump Taps Pence to Lead Coronavirus Response, Says Infection Spread Seems to Have 'Gotten Smaller' in China",
+            "description": "President Donald Trump told reporters Wednesday that Vice President Mike Pence would be heading up the U.S. response to the outbreak of coronavirus in the country. Trump also said the spread of the infection in China had \"gone down quite a bit.\"",
+            "url": "https://www.newsweek.com/trump-taps-pence-lead-coronavirus-response-says-infection-spread-seems-have-gotten-smaller-1489337",
+            "urlToImage": "https://d.newsweek.com/en/full/1569753/mike-pence.jpg",
+            "publishedAt": "2020-02-27T00:29:57Z",
+            "content": "President Donald Trump announced that Vice President Mike Pence would be in charge of the United States coronavirus response at a news conference Wednesday.\r\nPence will be in charge of the White House Coronavirus Task Force and report directly to Trump.\r\nThe \u2026 [+1313 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Eddy Rodriguez",
+            "title": "People Are Scared of Buying Corona Beer Amid Coronavirus Pandemic Fears, New Poll Shows",
+            "description": "\"Unfortunately for one of America's favorite beers, that fear has extended to [Corona] even though the illness has nothing to do with the adult beverage,\" said YouGov.",
+            "url": "https://www.newsweek.com/people-are-scared-buying-corona-beer-amid-coronavirus-pandemic-fears-new-poll-shows-1489593",
+            "urlToImage": "https://d.newsweek.com/en/full/889208/10-mexico.jpg",
+            "publishedAt": "2020-02-27T20:20:41Z",
+            "content": "People are scared of buying Corona beer amid coronavirus fears, according to a poll conducted by the market research company YouGov.\r\n\"Unfortunately for one of America's favorite beers, that fear has extended to [Corona] even though the illness has nothing to\u2026 [+2432 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Matthew Impelli",
+            "title": "Fox Host Says Democrats' Criticism of Trump Response to Coronavirus Is 'Drumming Up' Market Panic",
+            "description": "On Thursday, Fox Business Network host, Stuart Varney suggested that the criticism towards President Donald Trump on his handling of the coronavirus, by Democrats, is \"drumming up some panic,\" in regard to the stock market.",
+            "url": "https://www.newsweek.com/fox-host-says-democrats-criticism-trump-response-coronavirus-drumming-market-panic-1489555",
+            "urlToImage": "https://d.newsweek.com/en/full/1570002/president-donald-trump.jpg",
+            "publishedAt": "2020-02-27T17:45:08Z",
+            "content": "Fox Business host Stuart Varney suggested that Democrats' criticism of President Donald Trump for his handling of the coronavirus is \"drumming up some panic\" in the stock market.\r\n\"Well, look what some of the leading Democrats have been saying about the presi\u2026 [+2548 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "GOP Leader McCarthy Says Trump's Coronavirus Funding Request Is 'a Little Low' as New Cases Detected in U.S.",
+            "description": "Republican Congressman Kevin McCarthy said \"now is not the time to play politics\" while characterizing President Donald Trump's coronavirus response funding request as \"a little low\" Wednesday as the total number of cases in the U.S. rose to 60.",
+            "url": "https://www.newsweek.com/gop-leader-mccarthy-says-trumps-coronavirus-funding-request-little-low-new-cases-detected-1489340",
+            "urlToImage": "https://d.newsweek.com/en/full/1569759/trump-pence-mccarthy.jpg",
+            "publishedAt": "2020-02-27T01:34:31Z",
+            "content": "House Minority Leader Kevin McCarthy (R-Calif.) characterized the $2.5 billion requested by the Trump administration in response to the COVID-19 coronavirus crisis as \"a little low,\" while the number of U.S. cases increased Wednesday.\r\nThe administration's re\u2026 [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "China Pulls Plague Inc. From App Stores over 'Illegal Content' as Dev Team Reveals: 'Out of Our Control'",
+            "description": "\"It's not clear if this removal is linked to the ongoing coronavirus outbreak that China is facing. However, Plague Inc.'s educational importance has been repeatedly recognised,\" the team said.",
+            "url": "https://www.newsweek.com/china-plague-inc-app-coronavirus-1489531",
+            "urlToImage": "https://d.newsweek.com/en/full/1562139/plague-inc.jpg",
+            "publishedAt": "2020-02-27T17:01:38Z",
+            "content": "The developers of Plague Inc., a mobile game that lets players simulate outbreaks of deadly diseases, have confirmed the game was pulled from Chinese app stores.\r\nIn a statement published today, Ndemic Creations described the situation as being out of its con\u2026 [+3342 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "Facebook Bans Coronavirus Cure, Prevention Ads to Stop Those Seeking to Profit Off Fears",
+            "description": "Facebook announced that unscrupulous advertisers who hope to profit off panic over a possible coronavirus pandemic are banned from the platform, after earlier promising to nix other types of disinformation about the emerging health threat.",
+            "url": "https://www.newsweek.com/facebook-bans-coronavirus-cure-prevention-ads-stop-those-seeking-profit-off-fears-1489627",
+            "urlToImage": "https://d.newsweek.com/en/full/1570117/facebook.jpg",
+            "publishedAt": "2020-02-27T23:27:57Z",
+            "content": "Social media giant Facebook has banned advertisements that seek to exploit fears over the emerging COVID-19 coronavirus threat.\r\nFacebook banned the unscrupulous ads Tuesday, after earlier taking measures to limit the spread of other types of misinformation c\u2026 [+2788 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Christina Zhao",
+            "title": "HHS Coronavirus Whistleblower Claims She Was Unfairly Reassigned After Raising Concerns Over Lack of Protective Gear: Report",
+            "description": "HHS workers were \"not properly trained or equipped to operate in a public health emergency situation,\" the whistleblower alleges in the complaint.",
+            "url": "https://www.newsweek.com/hhs-coronavirus-whistleblower-claims-she-was-unfairly-reassigned-after-raising-concerns-over-lack-1489624",
+            "urlToImage": "https://d.newsweek.com/en/full/1570109/coronavirus.jpg",
+            "publishedAt": "2020-02-27T23:41:10Z",
+            "content": "A senior Department of Health and Human Services (HHS) whistleblower claims she was unfairly and improperly reassigned after raising concerns about the lack of training, protective gear given to a dozen workers who assisted American coronavirus evacuees.\r\nThe\u2026 [+3236 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "'Utterly Irresponsible' to Put Mike Pence in Charge of Coronavirus Response, Says Alexandria Ocasio-Cortez",
+            "description": "The New York representative was among many who criticised the appointment of the vice president to the task force tackling the outbreak.",
+            "url": "https://www.newsweek.com/mike-pence-alexandria-ocasio-cortez-coronavirus-1489365",
+            "urlToImage": "https://d.newsweek.com/en/full/1569785/vice-president-mike-pence-trump.jpg",
+            "publishedAt": "2020-02-27T09:33:06Z",
+            "content": "Rep. Alexandria Ocasio-Cortez joined the clamor on social media criticizing the appointment of Vice President Mike Pence as the head of a task force overseeing the U.S. response to the coronavirus crisis.\r\nAt a news conference on Wednesday, President Donald T\u2026 [+3115 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Coronavirus Threatens Hajj 2020 Pilgrimage As Saudi Arabia Suspends Travel to Mecca",
+            "description": "The move is the latest drastic precautionary measure  taken by countries in the Middle East in a bid to curb the spread of the deadly virus.",
+            "url": "https://www.newsweek.com/coronavirus-threatens-hajj-2020-pilgrimage-saudi-arabia-suspends-travel-mecca-1489506",
+            "urlToImage": "https://d.newsweek.com/en/full/1569923/great-mosque-mecca-saudi-arabia-2005.jpg",
+            "publishedAt": "2020-02-27T16:44:38Z",
+            "content": "Saudia Arabia has temporarily banned foreigners from entering Mecca and Medina, two of Islam's holiest pilgrimage sites, in a bid to prevent the spread of the coronavirus.\r\nThe virus has infected more than 220 people in the Middle East, with at least 26 death\u2026 [+3239 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jeffery Martin",
+            "title": "Mike Pence's 'Pray On It' Plan To Combat Indiana HIV Outbreak Resurfaces After Trump Taps VP to Lead Coronavirus Response",
+            "description": "Vice President Mike Pence's slow response to the 2015 outbreak of HIV in Indiana while he was that state's governor resurfaced after President Donald Trump named him the head of the U.S. Coronavirus task force, a choice Vermont Senator Bernie Sanders called, \u2026",
+            "url": "https://www.newsweek.com/mike-pences-pray-it-plan-combat-indiana-hiv-outbreak-resurfaces-after-trump-taps-vp-lead-1489344",
+            "urlToImage": "https://d.newsweek.com/en/full/1569760/mike-pence-donald-trump.jpg",
+            "publishedAt": "2020-02-27T01:44:46Z",
+            "content": "After being tapped by President Donald Trump Wednesday to lead the U.S. response to the threat of coronavirus, Vice President Mike Pence's handling of an HIV outbreak while he was governor of Indiana made its way onto social media.\r\nPence's slow response to t\u2026 [+4825 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "David Brennan",
+            "title": "Elizabeth Warren Wants to 'Take Every Dime' Trump Is Spending on His 'Racist' Border Wall and Divert It to Fight Coronavirus",
+            "description": "The presidential hopeful said the Trump administration's response to the crisis is \"all about politics.\"",
+            "url": "https://www.newsweek.com/elizabeth-warren-take-every-dime-trump-racist-border-wall-coronavirus-1489450",
+            "urlToImage": "https://d.newsweek.com/en/full/1569840/elizabeth-warren-donald-trump-coronavirus-racist-wall.jpg",
+            "publishedAt": "2020-02-27T11:44:05Z",
+            "content": "Sen. Elizabeth Warren has announced she will produce a plan to divert funds away from President Donald Trump's controversial border wall and instead commit the money to the coronavirus response.\r\nSpeaking at a CNN town hall in South Carolina on Wednesday, the\u2026 [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "David Brennan",
+            "title": "Trump Is 'Ignorant' About Coronavirus and Doesn't Understand Public Health, WHO Official Warns",
+            "description": "Dr. Ezekiel Emanuel said that Trump's Wednesday briefing revealed \"how little he actually knows\" about the outbreak.",
+            "url": "https://www.newsweek.com/donald-trump-ignorant-coronavirus-understand-public-health-flu-who-official-warns-ezekiel-emanuel-1489433",
+            "urlToImage": "https://d.newsweek.com/en/full/1569806/donald-trump-response-coronavirus-briefing-who-official.jpg",
+            "publishedAt": "2020-02-27T10:07:09Z",
+            "content": "President Donald Trump's response to the spread of coronavirus proves he does not understand the danger nor how to slow the outbreak, a World Health Organization (WHO) official has warned.\r\nWHO Special Adviser to the Director Dr. Ezekiel Emanuel told MSNBC We\u2026 [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Coronavirus Update: Map Shows More Than 82,000 Cases in 47 Countries",
+            "description": "A new case in the United States raised concerns that there could be community spread of the virus.",
+            "url": "https://www.newsweek.com/coronavirus-update-map-shows-more-82000-cases-47-countries-1489482",
+            "urlToImage": "https://d.newsweek.com/en/full/1569913/coronavirus-case-update-map.jpg",
+            "publishedAt": "2020-02-27T14:36:02Z",
+            "content": "Cases of the new coronavirus that causes the disease COVID-19 surpassed 82,000, an increase of about 1,000 cases from the previous morning.\r\nOn Thursday morning, there were a total of 82,446 cases, according to a tracker maintained by Johns Hopkins University\u2026 [+3118 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "U.S. Coronavirus Patient in California Wasn't Tested for COVID-19 for Days",
+            "description": "Over 2,800 people have died of COVID-19 in over 82,000 cases worldwide.",
+            "url": "https://www.newsweek.com/us-coronavirus-patient-california-wasnt-tested-covid-19-days-1489362",
+            "urlToImage": "https://d.newsweek.com/en/full/1569783/coronavirus-covid-19-italy-turin-getty.jpg",
+            "publishedAt": "2020-02-27T09:30:20Z",
+            "content": "The first patient in the U.S. to catch the new coronavirus without a known link to the outbreak's epicenter or another sick person wasn't tested for the deadly disease known as COVID-19 for days.\r\nThe individual from Solano County who was diagnosed with COVID\u2026 [+5705 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Coronavirus Update as Death Toll Hits 2,800, Outbreak Spreads to 47 Countries",
+            "description": "With new cases across Brazil, Europe and the Middle East, the deadly virus has now spread to every continent except Antarctica.",
+            "url": "https://www.newsweek.com/coronavirus-update-california-1489471",
+            "urlToImage": "https://d.newsweek.com/en/full/1569888/tehran-iran-bus-worker-coronavirus-feb-2020.jpg",
+            "publishedAt": "2020-02-27T14:27:06Z",
+            "content": "More new cases of the COVID-19 coronavirus have been reported outside China than within the country for the first time since the outbreak, including a new case in California which may be the first indication of a \"community spread\" of the virus in the U.S., w\u2026 [+11925 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Eddy Rodriguez",
+            "title": "Trump's Tweet Slamming Obama For Appointing Ebola Czar With 'Zero Experience' Resurfaces After Pence Appointed to Lead Coronavirus Response",
+            "description": "\"Obama just appointed an Ebola Czar with zero experience in the medical area and zero experience in infectious disease control. A TOTAL JOKE!,\" Trump's tweet, posted on October 17, 2014, read.",
+            "url": "https://www.newsweek.com/trumps-tweet-slamming-obama-appointing-ebola-czar-zero-experience-resurfaces-after-pence-1489528",
+            "urlToImage": "https://d.newsweek.com/en/full/1569760/mike-pence-donald-trump.jpg",
+            "publishedAt": "2020-02-27T17:42:15Z",
+            "content": "A 2014 tweet from President Donald Trump criticizing then-President Barack Obama for his selection of an Ebola czar with \"zero experience\" has resurfaced after Trump appointed Vice President Mike Pence to lead the United States' response to the novel coronavi\u2026 [+3750 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Rosie McCall",
+            "title": "From 'Smoking Doesn't Kill' to Conversion Therapy\u2014Mike Pence's Most Controversial Science Remarks",
+            "description": "Vice President Mike Pence has some highly controversial \"scientific opinions\" that have raised more than a few professional eyebrows over the years, from climate change to creationism.",
+            "url": "https://www.newsweek.com/mike-pence-coronavirus-science-hiv-aids-smoking-evolution-climate-change-1489458",
+            "urlToImage": "https://d.newsweek.com/en/full/1569861/mike-pence-colorado-rally.jpg",
+            "publishedAt": "2020-02-27T13:54:40Z",
+            "content": "Vice President Mike Pence was selected to lead the country's response to the coronavirus (COVID-19) outbreak during a press conference on Wednesday, in spite of a rocky reputation when it comes to health related matters.\r\nIn response to Trump's decision to na\u2026 [+7941 chars]"
+        }
+    ]
+}

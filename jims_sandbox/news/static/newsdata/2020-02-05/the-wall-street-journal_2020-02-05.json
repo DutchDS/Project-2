@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Harriet Torry",
+            "title": "U.S. Trade Deficit Narrows for First Time in Six Years - The Wall Street Journal",
+            "description": "U.S. Trade Deficit Narrows for First Time in Six Years The Wall Street Journal China trade deficit shrinks as deficit with EU hits record high POLITICO U.S. trade deficit narrows in 2019 for first time in six years Reuters Can the US slap tariffs on auto impo\u2026",
+            "url": "https://www.wsj.com/articles/u-s-trade-deficit-narrowed-in-2019-for-first-time-in-six-years-11580909498",
+            "urlToImage": "https://images.wsj.net/im-150569/social",
+            "publishedAt": "2020-02-05T16:05:00Z",
+            "content": "WASHINGTONThe U.S. trade deficit narrowed in 2019 for the first time in six years, as Americans imported less from overseas and exports fell amid trade tariffs and slower global growth.The deficit in goods and services shrank 1.7% last year to $616.8 billion,\u2026 [+4096 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Tripp Mickle",
+            "title": "Rapid Spread of Coronavirus Tests Apple\u2019s China Dependency",
+            "description": "Outbreak has the potential to hurt Apple by cutting into sales in its second-most important market and roiling a crucial supply chain",
+            "url": "https://www.wsj.com/articles/rapid-spread-of-coronavirus-tests-apples-china-dependency-11580910743",
+            "urlToImage": "https://images.wsj.net/im-151016/social",
+            "publishedAt": "2020-02-05T14:08:30Z",
+            "content": "Coronavirus has given new meaning to something \r\nApple Inc.\r\n AAPL 0.93%\r\nexecutives have been saying for years: Apple needs another China.The rapid spread of the virus is the latest test of Apples dependency on the worlds most populous nation, one that has d\u2026 [+6306 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ Staff",
+            "title": "WSJ Wealth Adviser Briefing: Tech Bubble Signs, Wildfires Sour Wine, West Side Revival",
+            "description": "Goldman Sachs pointed out how the current run in technology stocks differs from the dot-com bubble; the smoke from wildfires in Australia and California posed a threat to the wine industry, and the Broadway revival of \"West Side Story' found an appreciative a\u2026",
+            "url": "https://blogs.wsj.com/moneybeat/2020/02/05/wsj-wealth-adviser-briefing-tech-bubble-signs-wildfires-sour-wine-west-side-revival/",
+            "urlToImage": "https://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social",
+            "publishedAt": "2020-02-05T11:00:30Z",
+            "content": "U.S. Treasurys are BlackRock's preferred source of \"portfolio ballast\" against any economic growth scares, especially after China's virus outbreak. Despite a relatively \"limited\" impact so far on markets, the recent coronavirus outbreak \"creates downside risk\u2026 [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Life on a Cruise Ship Struck by the Coronavirus",
+            "description": "About 3,700 passengers and crew on a cruise ship docked in Japan are being quarantined on the vessel after 10 people tested positive for the novel coronavirus. WSJ speaks to a passenger about his time aboard the Diamond Princess. Photo: Behrouz Mehri/Getty Im\u2026",
+            "url": "https://www.wsj.com/video/life-on-a-cruise-ship-struck-by-the-coronavirus/9DABEA42-E161-4A0A-8986-BA1677E78E54.html",
+            "urlToImage": "http://m.wsj.net/video/20200205/020520jcruise/020520jcruise_1280x720.jpg",
+            "publishedAt": "2020-02-05T08:36:33Z",
+            "content": "Palestinians Strong Rejection of Trumps Mideast Peace Plan\r\n1/29/2020Trump is the latest U.S. president to offer a Mideast peace deal, which Palestinians rejected immediately. As WSJs Dov Lieber heads to the Jordan Valley, he explains why Palestinians say the\u2026 [+124 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Full Text of President Trump\u2019s 2020 State of the Union Speech - The Wall Street Journal",
+            "description": "Full Text of President Trump\u2019s 2020 State of the Union Speech The Wall Street Journal View full coverage on Google News",
+            "url": "https://www.wsj.com/articles/full-text-of-president-trumps-2020-state-of-the-union-speech-11580873281",
+            "urlToImage": "https://images.wsj.net/im-151061/social",
+            "publishedAt": "2020-02-05T03:28:00Z",
+            "content": "Here is President Trumps State of the Union address as prepared for delivery and released by the White House.Madam Speaker, Mr. Vice President, Members of Congress, the First Lady of the United States, and my fellow citizens:Three years ago, we launched the g\u2026 [+35438 chars]"
+        }
+    ]
+}

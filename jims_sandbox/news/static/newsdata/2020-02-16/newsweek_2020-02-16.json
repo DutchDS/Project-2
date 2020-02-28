@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Christina Zhao",
+            "title": "Pastor Says God Will Protect U.S. From Coronavirus Because Trump Administration Sided With 'Life in the Womb'",
+            "description": "\"Do not fear. This virus is the spirit of God,\" conservative pastor Hank Kunneman said.",
+            "url": "https://www.newsweek.com/pastor-says-god-will-protect-us-coronavirus-because-trump-administration-sided-life-womb-1487583",
+            "urlToImage": "https://d.newsweek.com/en/full/1567580/donald-trump.jpg",
+            "publishedAt": "2020-02-16T21:43:59Z",
+            "content": "Conservative pastor Hank Kunneman recently claimed that God will save Americans from the new coronavirus because President Donald Trump's administration has \"aligned themselves\" with the right side of life.\r\nSpeaking to the Lord of Hosts church during a servi\u2026 [+2394 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Christina Zhao",
+            "title": "GOP Senator Tom Cotton Suggests Coronavirus Could've Come from Wuhan 'Super Lab,' Not Seafood Market: China's 'Still Lying Today'",
+            "description": "\"The situation is very grave in part because...China was lying from the beginning, and they're still lying today,\" the Arkansas senator said.",
+            "url": "https://www.newsweek.com/gop-senator-tom-cotton-suggests-coronavirus-couldve-come-wuhan-super-lab-not-seafood-market-1487584",
+            "urlToImage": "https://d.newsweek.com/en/full/1567582/tom-cotton.jpg",
+            "publishedAt": "2020-02-16T23:10:42Z",
+            "content": "Republican Senator Tom Cotton of Arkansas on Sunday accused China of lying about the severity of the coronavirus outbreak and suggested that the new disease may have originated from a biosafety super laboratory in Wuhan.\r\nSpeaking on Fox News' Sunday Morning \u2026 [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Hunter Moyler",
+            "title": "China's Hubei Province Orders Citizens to Stay Home Amid Coronavirus Epidemic",
+            "description": "Once every three days, a person from each household will be permitted to leave their town to buy supplies, according to the rules.",
+            "url": "https://www.newsweek.com/chinas-hubei-province-orders-citizens-stay-home-amid-coronavirus-epidemic-1487579",
+            "urlToImage": "https://d.newsweek.com/en/full/1567570/daily-life-wuhan-during-lockdown.jpg",
+            "publishedAt": "2020-02-16T22:29:47Z",
+            "content": "The Chinese government has ordered residents of the province of Hubeithe epicenter of the outbreak of a novel coronavirus that has killed over a thousand people and infected thousands moreto follow new rules to stymie its contagion.\r\nThe coronavirus originate\u2026 [+2188 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Scott McDonald",
+            "title": "NBA Salary Cap Could Take Big Hit With China Controversy, Ratings Decline and younger audience",
+            "description": "NBA commissioner Adam Silver said, \"We've lowered our cap projection slightly, part of that was due to reduced revenue in China.\"",
+            "url": "https://www.newsweek.com/nba-salary-cap-could-take-big-hit-china-controversy-ratings-decline-younger-audience-1487527",
+            "urlToImage": "https://d.newsweek.com/en/full/1567506/nba-china.jpg",
+            "publishedAt": "2020-02-16T03:44:28Z",
+            "content": "NBA Commissioner Adam Silver addressed the media in Chicago on Saturday evening during All-Star weekend, and he spent the bulk of his time addressing issues with future salary caps, and how China and an emerging youthful audience could slice into the league's\u2026 [+4989 chars]"
+        }
+    ]
+}

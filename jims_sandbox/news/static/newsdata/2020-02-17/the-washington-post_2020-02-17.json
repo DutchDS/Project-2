@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Linda Searing",
+            "title": "The Big Number: The flu has hit at least 22 million people in the U.S. so far. - The Washington Post",
+            "description": "The Big Number: The flu has hit at least 22 million people in the U.S. so far. The Washington Post Great Falls News Is it influenza or coronavirus? KRTV Great Falls News A second wave of flu hits U.S. kids amid coronovirus outbreak CGTN Flu cases continue to \u2026",
+            "url": "https://www.washingtonpost.com/health/the-big-numberthe-flu-has-hit-at-least-22-million-people-in-the-us-so-far/2020/02/14/3a83c0cc-4e7f-11ea-b721-9f4cdc90bc1c_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/AquvR1LKtp32PEEMfqdX4Pa7fOs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZIOM6COUUI6VG245LC3C3NPVI.jpg",
+            "publishedAt": "2020-02-17T13:00:00Z",
+            "content": "Four months into the flu season, at least 22\u00a0million U.S. residents have contracted influenza and possibly as many as 31 million people, according to the Centers for Disease Control and Prevention (CDC). Of those afflicted, about 210,000 have been hospitalize\u2026 [+1098 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jennifer Rubin",
+            "title": "The descent of the GOP into authoritarian know-nothingism",
+            "description": "Remember when small-government intellectuals dominated the party?",
+            "url": "https://www.washingtonpost.com/opinions/2020/02/17/descent-gop-into-authoritarian-know-nothingism/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/7tb2Wox1t0hGnbrgBOYwVr3TYs8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2K3O27ZPRAPBJ7NUCUP5AAZSM",
+            "publishedAt": "2020-02-17T17:00:32Z",
+            "content": "That query came to mind when Harvard Law school graduate Sen. Tom Cotton (R-Ark.) descended into sheer quackery and decided to perpetrate conspiracies about the origin of the coronavirus. The Post reports:\r\nSen. Tom Cotton (R-Ark.) repeated a fringe theory su\u2026 [+5019 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Anna Fifield",
+            "title": "In China, 200 million kids have gone back to school. Online.",
+            "description": "The coronavirus means that schools nationwide are closed indefinitely.",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/in-china-200-million-kids-have-gone-back-to-school-online/2020/02/17/e5cc6f10-5131-11ea-80ce-37a8d4266c09_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-02-17T16:24:33Z",
+            "content": "Then came Chinese and English lessons, all online, and math and science classes, also online. One middle school boy, sitting with his computer at his front door in Beijing, was asked what he was studying. He responded: physical education.\r\nChinese authorities\u2026 [+6259 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Anna Fifield",
+            "title": "Fourteen American cruise ship passengers with coronavirus among those evacuated to the U.S.",
+            "description": "Health authorities are searching for passengers from a second cruise ship who could have been exposed to the virus.",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/fourteen-american-cruise-passengers-with-coronavirus-among-328-evacuated-to-the-us/2020/02/17/1ac9be48-4f70-11ea-bf44-f5043eb3918a_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/8v9Yk6PZJPbDq7VZZlNybcX3bmI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LYE4QVCRMYI6VHSHLGAEXYO47M.jpg",
+            "publishedAt": "2020-02-17T09:57:03Z",
+            "content": "Here are the latest developments:\r\n Fourteen Americans evacuated from the Diamond Princess cruise ship in Japan tested positive for coronavirus but were still allowed to return to the United States.\r\n More than 300 Americans were evacuated on the two flights.\u2026 [+6487 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Associated Press",
+            "title": "First Russian citizen is diagnosed with COVID-19",
+            "description": "A Russian woman aboard the quarantined Diamond Princess cruise ship in Japan has been diagnosed with COVID-19",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/first-russian-citizen-is-diagnosed-with-covid-19/2020/02/17/69a16248-5180-11ea-80ce-37a8d4266c09_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-02-17T12:24:16Z",
+            "content": "The virus, which emerged in central China in December, has infected 454 people on that particular cruise ship. Globally, the virus has infected more than 71,000 people, killing 1,770 patients in mainland China and five others elsewhere. China has instituted s\u2026 [+1038 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Associated Press",
+            "title": "Recent developments surrounding the South China Sea",
+            "description": "Japan plans to provide Indonesia with an ocean-going ship and upgrades to its coast guard to protect its fisheries from Chinese incursions, while the U.S. has flown planes around Taiwan in response to aggressive moves by Chinese aircraft",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/recent-developments-surrounding-the-south-china-sea/2020/02/17/65a3cd44-5148-11ea-80ce-37a8d4266c09_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-02-17T05:43:18Z",
+            "content": "JAPAN TO PROVIDE INDONESIA WITH SHIP TO PROTECT FISHERIES AMID CHINESE INCURSIONS\r\nJapan is transferring a 27-year-old ship to Indonesia and providing funds to upgrade its coast guard to better guard against poaching in its South China Sea fisheries amid rece\u2026 [+5451 chars]"
+        }
+    ]
+}

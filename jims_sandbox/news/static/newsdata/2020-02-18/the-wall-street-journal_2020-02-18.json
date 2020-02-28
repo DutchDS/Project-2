@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Aaron Zitner",
+            "title": "The Wall Street Journal: Sanders pulls away from Biden in latest WSJ/NBC News poll",
+            "description": "Sen. Bernie Sanders has taken sole possession of the lead in the Democratic primary race, a new Wall Street Journal/NBC News poll finds, with four candidates essentially tied for second place amid declining support for former Vice President Joe Biden and the \u2026",
+            "url": "https://www.wsj.com/articles/sanders-leads-democratic-primary-field-as-biden-slips-wsj-nbc-news-poll-finds-11582063238",
+            "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-HZ920_sander_ZG_20200209195631.jpg",
+            "publishedAt": "2020-02-18T22:40:59Z",
+            "content": "Sen. Bernie Sanders has taken sole possession of the lead in the Democratic primary race, a new Wall Street Journal/NBC News poll finds, with four candidates essentially tied for second place amid declining support for former Vice President Joe Biden and the \u2026 [+1276 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Yoko Kubota",
+            "title": "Coronavirus Exposes Businesses\u2019 Dependency on China - Wall Street Journal",
+            "description": "Apple\u2019s warning indicates the global impact as companies in China struggle to restart operations and combat worker shortages",
+            "url": "https://www.wsj.com/articles/coronavirus-exposes-businesses-dependency-on-china-11582035993",
+            "urlToImage": "https://images.wsj.net/im-155246/social",
+            "publishedAt": "2020-02-18T14:26:00Z",
+            "content": "Just as the U.S.-China trade war was starting to fade, the coronavirus crisis is exposing how heavily dependent foreign companies are on China for their production and business.\r\nAs the new virus continues to spread in China, killing more than 1,800, cities h\u2026 [+182 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jeffrey Sparshott",
+            "title": "Newsletter: Coronavirus Constrains iPhone Production",
+            "description": "Your daily economics newsletter from The Wall Street Journal.",
+            "url": "https://blogs.wsj.com/economics/2020/02/18/newsletter-coronavirus-constrains-iphone-production/",
+            "urlToImage": "https://images.wsj.net/im-155183",
+            "publishedAt": "2020-02-18T11:40:21Z",
+            "content": "Feb 18, 2020 6:40 am ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. Apples Early Warning Apple became the first major U.S. company to say it wont meet its revenue projections due to the coronavirus\u2026 [+95 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ Staff",
+            "title": "WSJ Wealth Adviser Briefing: Stocks Hit Highs, Mom and Pop Millionaires, Inflight Movies",
+            "description": "China plays got left behind as U.S. markets charged to new highs; mom and pop millionaires are driving Blackstone\u2019s growth, and some airlines are ditching seatback screens on domestic flights.",
+            "url": "https://blogs.wsj.com/moneybeat/2020/02/18/wsj-wealth-adviser-briefing-markets-hover-near-records-mom-and-pop-millionaires-inflight-movies/",
+            "urlToImage": "https://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social",
+            "publishedAt": "2020-02-18T11:00:57Z",
+            "content": "Feb 18, 2020 6:00 am ET\r\n U.S. stocks have hit repeated highs this year, but many China-related trades still lag behind the broader market.\u00a0Hopes that the coronavirus outbreak will be containedand faith that central banks in China and the U.S. will step in, i\u2026 [+111 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Why China\u2019s Official Coronavirus Numbers May Not Tell the Whole Picture",
+            "description": "As the number of coronavirus cases rises, epidemiologists around the world look at maps, flight bookings and population data to estimate the size of the outbreak--and explain why their results are higher than China\u2019s official tally. Photo: Getty Images",
+            "url": "https://www.wsj.com/video/why-chinas-official-coronavirus-numbers-may-not-tell-the-whole-picture/5593B3ED-E33F-4AAD-B4E1-79465624D61F.html",
+            "urlToImage": "http://m.wsj.net/video/20200218/virustrack0218a/virustrack0218a_1280x720.jpg",
+            "publishedAt": "2020-02-18T17:38:00Z",
+            "content": "Samsung Galaxy S20 First Look: Three Phones, 5G, So Many Cameras \r\n2/11/2020This year's flagship smartphones from Samsungthe Galaxy S20, S20+, S20 Ultraare packed. But can you tell them apart? WSJs Joanna Stern explains how they differ in size, cameras, price\u2026 [+25 chars]"
+        }
+    ]
+}

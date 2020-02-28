@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 18,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Hong Kong imposes new quarantine rules over virus",
+            "description": "Travellers from mainland China will be isolated for 14 days in new efforts to stem the coronavirus. Also: Impeachment witness escorted from the White House, and unseen Charles Dickens letters open a window into the life of a genius.",
+            "url": "https://www.bbc.co.uk/programmes/p082nxp6",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-07T23:52:00Z",
+            "content": "Travellers from mainland China will be isolated for 14 days in new efforts to stem the coronavirus. Also: Impeachment witness escorted from the White House, and unseen Charles Dickens letters open a window into the life of a genius."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Pressure grows to re-open factories",
+            "description": "Global firms are waiting for China to re-start production to avoid further disruptions.",
+            "url": "https://www.bbc.co.uk/news/business-51353501",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28B3/production/_110791401_gettyimages-1198213072.jpg",
+            "publishedAt": "2020-02-07T22:36:37Z",
+            "content": "Image copyrightGetty Images\r\nCompanies around the world are waiting for China to re-open its factories and plants on Monday.\r\nIf this does not happen, major brands from car makers to tech giants will struggle to make their products.\r\nInventories are already r\u2026 [+3126 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: WHO warns of facemask shortage",
+            "description": "The Director-General of the World Health Organisation, Tedros Adhanom, says there is a chronic shortage of personal protective equipment. Mike Bowen, the executive vice president of Prestige Ameritech - largest manufacturer of surgical masks and respirators i\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq55lfrpryg",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p082nk4v.jpg",
+            "publishedAt": "2020-02-07T22:16:00Z",
+            "content": "The Director-General of the World Health Organisation, Tedros Adhanom, says there is a chronic shortage of personal protective equipment. Mike Bowen, the executive vice president of Prestige Ameritech - largest manufacturer of surgical masks and respirators i\u2026 [+675 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Hong Kong imposes quarantine rules on mainland Chinese",
+            "description": "Travellers from mainland China will be isolated for 14 days in new efforts to stem the coronavirus.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51419015",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50F1/production/_110812702_gettyimages-1199133636.jpg",
+            "publishedAt": "2020-02-07T17:45:51Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n China stepped up security at Shenzhen, where thousands queued to cross into Hong Kong\r\nHong Kong has begun a mandatory quarantine of two weeks for anyone arriving from mainland China, in fresh efforts to contain the \u2026 [+5369 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Footage shared of patients 'held in quarantine' in Wuhan",
+            "description": "Footage appearing to show people held in quarantine in a makeshift facility in Wuhan, has been shared across social media.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-china-51420920/coronavirus-footage-shared-of-patients-held-in-quarantine-in-wuhan",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10131/production/_110814856_p082mjr5.jpg",
+            "publishedAt": "2020-02-07T17:08:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Your travel rights explained",
+            "description": "With the virus spreading to more countries popular with tourists, what are your rights if you cancel?",
+            "url": "https://www.bbc.co.uk/news/business-51419470",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B8B/production/_110813572_korea.png",
+            "publishedAt": "2020-02-07T16:27:28Z",
+            "content": "Image copyrightAdam CobbImage caption\r\n Adam Cobb has been quoted \u00a3700 to re-route his flight\r\nThe coronavirus is now spreading well beyond China. Travellers returning from a total of nine Asian countries and destinations are being advised by Public Health En\u2026 [+4762 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Next Britons flown from Wuhan to be taken to Milton Keynes",
+            "description": "UK citizens returning from the coronavirus-hit city will be quarantined in an NHS facility for 14 days.",
+            "url": "https://www.bbc.co.uk/news/uk-51420320",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/39C2/production/_110768741_491a722e-5aeb-4abb-9045-a5f67e717836.jpg",
+            "publishedAt": "2020-02-07T16:25:30Z",
+            "content": "Image copyrightMinistry of DefenceImage caption\r\n Nearly 100 Britons have already been flown out of Wuhan on flights arranged by the UK government\r\nBritish nationals on the next flight back to the UK from Wuhan will be taken to an NHS facility in Milton Keyne\u2026 [+817 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Russian media hint at US conspiracy",
+            "description": "Big Pharma and US intelligence are among the culprits in conspiracy theories aired by Russian TV.",
+            "url": "https://www.bbc.co.uk/news/world-europe-51413870",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A45/production/_110810313_vremya3.jpg",
+            "publishedAt": "2020-02-07T16:24:38Z",
+            "content": "Image copyrightChannel OneImage caption\r\n Russia's Channel One has aired a theory linking the coronavirus to President Trump\r\nThe coronavirus outbreak in China has provided fertile ground for conspiracy theories and misinformation on the web everywhere, but i\u2026 [+3627 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Death of Wuhan doctor Li Wenliang sparks public anger",
+            "description": "Widespread grief after death of doctor who tried to warn about the coronavirus outbreak. Dr. Li died after contracting the virus while treating patients in Wuhan. Also, Syrian army says it's seized a key target in Idlib province, and we meet a Kenyan singer w\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p082m8lq",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-07T15:56:00Z",
+            "content": "Widespread grief after death of doctor who tried to warn about the coronavirus outbreak. Dr. Li died after contracting the virus while treating patients in Wuhan. Also, Syrian army says it's seized a key target in Idlib province, and we meet a Kenyan singer w\u2026 [+68 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "WHO warns of global shortage of protective medical equipment to tackle coronavirus outbreak",
+            "description": "The World Health Organisation has warned of a chronic global shortage of protective equipment, such as face masks, because of the coronavirus outbreak. The agency said it was working to identify bottlenecks in supplies of items. Also in the programme: Yemen A\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq55lfrnxqk",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p082lq3d.jpg",
+            "publishedAt": "2020-02-07T15:12:00Z",
+            "content": "The World Health Organisation has warned of a chronic global shortage of protective equipment, such as face masks, because of the coronavirus outbreak. The agency said it was working to identify bottlenecks in supplies of items.\r\nAlso in the programme: Yemen \u2026 [+438 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US job creation larger than expected",
+            "description": "The economy added 225,000 jobs last month, with hiring at construction firms helping to drive the gains.",
+            "url": "https://www.bbc.co.uk/news/business-51417460",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17A2B/production/_110811869_gettyimages-1201305294.jpg",
+            "publishedAt": "2020-02-07T13:51:21Z",
+            "content": "Image copyrightGetty Images\r\nThe US economy added 225,000 jobs in January, beating forecasts.\r\nHiring at construction firms helped drive the gains, as milder weather allowed for more building.\r\nEconomists polled by the Reuters news agency had forecast that pa\u2026 [+648 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "In pictures: South Korea mass wedding defies coronavirus fears",
+            "description": "Thousands of couples, many wearing masks, attend a church-organised ceremony near Seoul.",
+            "url": "https://www.bbc.co.uk/news/world-asia-51414560",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151D0/production/_110808468_hi059768060.jpg",
+            "publishedAt": "2020-02-07T12:36:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Eating sea urchins and Swiss rolls under quarantine",
+            "description": "Thousands under quarantine are staying in military and government facilities, and even resorts.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-51411830/coronavirus-eating-sea-urchins-and-swiss-rolls-under-quarantine",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10018/production/_110806556_p082kn7k.jpg",
+            "publishedAt": "2020-02-07T08:23:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: iPhone manufacturer Foxconn to make masks",
+            "description": "The world's biggest electronics maker aims to produce two million surgical masks a month.",
+            "url": "https://www.bbc.co.uk/news/business-51410700",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/123FE/production/_110805747_capture.png3.png",
+            "publishedAt": "2020-02-07T06:58:57Z",
+            "content": "Image copyrightFoxconnImage caption\r\n Foxconn has started test production of surgical masks as demand soars\r\nElectronics giant Foxconn, maker of the Apple iPhone, is taking the unusual step of switching part of its production to making surgical masks.\r\nThe fi\u2026 [+1981 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: Tate balcony attack claims and contraception shortage",
+            "description": "Your morning briefing for Friday 7 February 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51407591",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/113D7/production/_109051607_fb40408b-9fce-4405-8843-72165b73d5af.jpg",
+            "publishedAt": "2020-02-07T06:41:07Z",
+            "content": "If you want to get this briefing by email, sign up here\r\nImage copyrightJonty Bravery\r\nTate balcony attacker told carers of plan to kill\r\nThe autistic teenager who threw a six-year-old boy from the tenth floor of the Tate Modern in London had spoken about pla\u2026 [+5556 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Li Wenliang: Death of Wuhan doctor sparks outpouring of anger",
+            "description": "Dr Wenliang's death has sparked unprecedented levels of grief and mistrust on Chinese social media.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51409801",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10FFE/production/_110803696_drli1.jpg",
+            "publishedAt": "2020-02-07T06:12:19Z",
+            "content": "Image copyrightDr Li WenliangImage caption\r\n Dr Li had posted a picture of himself on social media from his hospital bed\r\nThe death of a Chinese doctor who tried to warn about the coronavirus outbreak has sparked an unprecedented level of public anger and gri\u2026 [+5788 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Another 41 catch virus on quarantined cruise ship",
+            "description": "The ship is under quarantine in Japan which now has the second-highest number of cases after China.",
+            "url": "https://www.bbc.co.uk/news/world-asia-51409800",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p082bxfd.jpg",
+            "publishedAt": "2020-02-07T01:48:39Z",
+            "content": "Media captionDavid Abel one of 3,700 people in quarantine aboard the Diamond Princess, speaking earlier this week\r\nAnother 41 people on a cruise ship off the coast of Japan have tested positive for the new coronavirus - bringing the total to 61.\r\nSome 3,700 p\u2026 [+1738 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Are African countries ready?",
+            "description": "Africa is one of only two continents with no confirmed cases of coronavirus.",
+            "url": "https://www.bbc.co.uk/news/world-africa-51403865",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F19/production/_110792704_gettyimages-1197721214.jpg",
+            "publishedAt": "2020-02-07T00:38:37Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Countries in Africa are on high alert as the coronavirus continues to spread\r\nAfrica is one of only two continents with no confirmed cases of coronavirus however experts have warned that it may not be long before the\u2026 [+8061 chars]"
+        }
+    ]
+}

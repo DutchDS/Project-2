@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Coronavirus Outbreak Prompts University of Michigan to Prohibit Undergrads From School-Related Travel to Hubei Province, China",
+            "description": "Students who wanted to travel to other areas of the country had to show they were prepared to shelter in place in case China imposed travel restrictions.",
+            "url": "https://www.newsweek.com/coronavirus-outbreak-prompts-university-michigan-prohibit-undergrads-school-related-travel-1484280",
+            "urlToImage": "https://d.newsweek.com/en/full/1562992/university-michigan-hubei-province-travel-coronavirus.jpg",
+            "publishedAt": "2020-01-27T21:54:18Z",
+            "content": "As cases of a new strain of coronavirus increase, the University of Michigan prohibited undergraduates from participating in school-related travel to the Chinese province where the virus originated.\r\nThousands of people have tested positive for the new strain\u2026 [+3364 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Tom O'Connor",
+            "title": "China Sends Military Aid to Help Fight Coronavirus Outbreak",
+            "description": "The Chinese People's Liberation Army sent three teams of military medical staff composed of 450 army, navy and air force personnel to help battle a virus that's infected thousands and has killed dozens.",
+            "url": "https://www.newsweek.com/china-military-help-fight-coronavirus-1484269",
+            "urlToImage": "https://d.newsweek.com/en/full/1562980/china-peoples-liberation-army-coronavirus-wuhan.jpg",
+            "publishedAt": "2020-01-27T21:08:08Z",
+            "content": "The Chinese armed forces have been mobilized to support the country's efforts to contain the spread of a new virus strain that has sickened thousands of people and killed dozens.\r\nThe official Chinese Military Online website reported Monday that the first bat\u2026 [+4097 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Where Are the Cases of Coronavirus in the U.S.? Five People in Four States Test Positive",
+            "description": "The Centers for Disease Control and Prevention expects additional cases will be found over the next days and weeks.",
+            "url": "https://www.newsweek.com/where-are-cases-coronavirus-us-five-people-four-states-test-positive-1484222",
+            "urlToImage": "https://d.newsweek.com/en/full/1562924/coronavirus-cases-us-illinois-california-arizona.jpg",
+            "publishedAt": "2020-01-27T16:42:00Z",
+            "content": "In the five days since the new coronavirus strain was found in a person in the United States, officials have identified the virus in four more people.\r\nOn Sunday, the Centers for Disease Control and Prevention (CDC) confirmed that two more cases of coronaviru\u2026 [+4615 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "U.S. Forces Korea Issues Travel Warning After Coronavirus Case Found in Man Living Near Two Military Bases",
+            "description": "South Korea says the country has four cases of the new coronavirus strain.",
+            "url": "https://www.newsweek.com/us-forces-korea-issues-travel-warning-after-coronavirus-case-found-man-living-near-two-military-1484192",
+            "urlToImage": "https://d.newsweek.com/en/full/1562892/coronavirus-south-korea-us-bases-military-warning.jpg",
+            "publishedAt": "2020-01-27T15:27:27Z",
+            "content": "United States Forces Korea is cautioning Americans in South Korea to take precautionary measures after a case of the new coronavirus strain was found near two military bases.\r\nOn Monday, U.S. Forces Korea posted on Facebook that the case, the country's fourth\u2026 [+3148 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "China Official Fighting Coronavirus Outbreak Warns of Emergency Medical Supplies Shortage as Death Toll Climbs",
+            "description": "Chinese authorities say on the mainland there have been at least 2,744 confirmed cases of the virus which causes severe acute respiratory infection.",
+            "url": "https://www.newsweek.com/china-coronavirus-outbreak-medical-supplies-shortage-1484133",
+            "urlToImage": "https://d.newsweek.com/en/full/1562816/china-coronavirus.jpg",
+            "publishedAt": "2020-01-27T10:19:24Z",
+            "content": "Authorities in China are struggling to meet the demand for emergency medical supplies to deal with the outbreak of the novel coronavirus.\r\nThe hardest-hit region of Hubei province requires 100,000 medical protective suits a daymore than three times the daily \u2026 [+2634 chars]"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Anna Palmer and Jake Sherman",
+            "title": "Inside Alfalfa",
+            "description": "And Sen. Josh Hawley readies subpoena votes for the Bidens and Rep. Adam Schiff.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/01/26/inside-alfalfa-488151",
+            "urlToImage": "https://static.politico.com/ec/f6/1b59137b498594d8a4194b41838f/200126-romney-getty-773.jpg",
+            "publishedAt": "2020-01-26T16:13:49Z",
+            "content": "\"Everyones worried about artificial intelligence and robots taking over the world. Thats not true or I would be president now,\" Sen. Mitt Romney said at the Alfalfa dinner. | Alex Wong/Getty Images\r\nDRIVING THE DAY\r\nSEN. MITT ROMNEY (R-Utah) was the keynote s\u2026 [+23699 chars]"
+        }
+    ]
+}

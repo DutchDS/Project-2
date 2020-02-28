@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Leah Asmelash, CNN",
+            "title": "UC Berkeley faces backlash after stating 'xenophobia' is 'common' or 'normal' reaction to coronavirus",
+            "description": "After the University of California at Berkeley listed \"xenophobia\" as a reaction to coronavirus, some said the school was normalizing racism.",
+            "url": "https://www.cnn.com/2020/02/01/us/uc-berkeley-coronavirus-xenophobia-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/150827133813-berkeley-university-campus-super-tease.jpg",
+            "publishedAt": "2020-02-01T22:35:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Shannon Liao, CNN Business",
+            "title": "Apple temporarily closes all 42 stores in China as coronavirus spreads",
+            "description": "Apple is temporarily closing all of its stores in China because of the coronavirus outbreak.",
+            "url": "https://www.cnn.com/2020/02/01/tech/apple-china-coronavirus-stores-closed/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200201150225-01-apple-closures-china-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-01T20:52:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Barbara Starr and Kevin Bohn, CNN",
+            "title": "Pentagon to provide housing for up to 1,000 people over coronavirus concerns",
+            "description": "The Pentagon said Saturday that Defense Secretary Mark Esper has approved a request to provide military housing for up to 1,000 people who may need to be quarantined upon arrival in the United States from overseas travel due to concerns about possible infecti\u2026",
+            "url": "https://www.cnn.com/2020/02/01/politics/defense-department-housing-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200107142255-mark-esper-pentagon-briefing-super-tease.jpg",
+            "publishedAt": "2020-02-01T20:12:51Z",
+            "content": "(CNN)The Pentagon said Saturday that Defense Secretary Mark Esper has approved a request to provide military housing for up to 1,000 people who may need to be quarantined upon arrival in the United States from overseas travel due to concerns about possible in\u2026 [+232 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jamie Gumbrecht, CNN",
+            "title": "8th US coronavirus case confirmed in Massachusetts",
+            "description": "US Coronovirus: Eighth case confirmed in the US in a Boston man.",
+            "url": "https://www.cnn.com/2020/02/01/us/coronavirus-us-massachusetts/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/150325082016-social-gfx-just-in-super-169.jpg",
+            "publishedAt": "2020-02-01T18:56:15Z",
+            "content": "(CNN)An eighth case of coronavirus in the United States has been confirmed in a Boston man in his 20s, health officials said Saturday.\r\nThe man recently returned from Wuhan, China, the epicenter of the outbreak, Boston and Massachusetts health officials said \u2026 [+691 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Shannon Liao, CNN Business",
+            "title": "Major US airlines expand flight cancellations to China and Hong Kong",
+            "description": "American Airlines and Delta Air Lines announced more flight cancellations to China on Saturday as coronavirus cases rise rapidly.",
+            "url": "https://www.cnn.com/2020/02/01/business/american-delta-airlines-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200201121610-delta-airlines-beijing-file-super-tease.jpg",
+            "publishedAt": "2020-02-01T18:45:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Bitcoin is soaring as investors panic about coronavirus",
+            "description": "Bitcoin is once again having a moment. The crypytocurrency has soared 30% this year as fears about the coronavirus outbreak send shock waves throughout global stock markets. The price of one bitcoin is hovering around $9,300. Can the rally continue?",
+            "url": "https://www.cnn.com/2020/02/01/investing/bitcoin-prices-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191115102307-01-bitcoin---stock-super-tease.jpg",
+            "publishedAt": "2020-02-01T17:49:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Watch China's 'talking drones' warning citizens",
+            "description": "Officials in China have started using drones equipped with speakers to warn citizens to wear masks as coronavirus continues to spread in the country.",
+            "url": "https://www.cnn.com/videos/health/2020/02/01/china-talking-drones-coronavirus-nr-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200201102714-china-talking-drone-super-tease.jpg",
+            "publishedAt": "2020-02-01T15:49:32Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, CNN",
+            "title": "A traditional Chinese remedy said to help fight Wuhan coronavirus sparks skepticism -- and panic buying",
+            "description": "Could a traditional Chinese medicine help fight the Wuhan coronavirus, or is one of the country's most influential state media outlets promoting pseudoscience and false hope?",
+            "url": "https://www.cnn.com/2020/02/01/asia/chinese-traditional-medicine-claims-coronavirus-intl-scli-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127232203-01-coronavirus-0125-wuhan-super-tease.jpg",
+            "publishedAt": "2020-02-01T07:56:21Z",
+            "content": "Hong Kong (CNN)Could a traditional Chinese medicine help fight the Wuhan coronavirus, or is one of the country's most influential state media outlets promoting pseudoscience and false hope? \r\nThose were the questions dominating Chinese social media after stat\u2026 [+4913 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths, CNN",
+            "title": "Cases of Wuhan coronavirus continue to rise rapidly as US bans travel from China",
+            "description": "The number of confirmed cases of the Wuhan coronavirus is nearing 12,000, as the epidemic continues to spread worldwide, sparking travel bans and outbreaks of ugly anti-Chinese xenophobia.",
+            "url": "https://www.cnn.com/2020/01/31/asia/wuhan-coronavirus-update-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200201102936-wuhan-virus-0131-beijing-masks-super-tease.jpg",
+            "publishedAt": "2020-02-01T02:55:38Z",
+            "content": "Hong Kong (CNN)The number of confirmed cases of the Wuhan coronavirus is nearing 12,000, as the epidemic continues to spread worldwide, sparking travel bans and outbreaks of ugly anti-Chinese xenophobia. \r\nAccording to Chinese health authorities, the number o\u2026 [+7151 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Kate Springer, CNN Travel",
+            "title": "Tourism industry hit hard as Chinese tourists stay home",
+            "description": "China is the world's largest market for outbound travel. With the country banning group trips and countries closing their borders, the absence of Chinese travelers will be felt around the world.",
+            "url": "https://www.cnn.com/travel/article/wuhan-coronavirus-tourism-impact/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131120016-bangkok-tourists-face-masks-super-tease.jpg",
+            "publishedAt": "2020-02-01T02:44:14Z",
+            "content": "Kate Springer, CNN TravelUpdated 1st February 2020\r\nHong Kong (CNN) At 6 p.m. on Saturday, Bill Egerton received an alarming email. \r\n\"All tours inbound from China that have been booked with me were all canceled -- I lost 15 tours for February,\" 77-year-old E\u2026 [+11380 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/jessie-yeung\">Jessie Yeung</a> and <a href=\"/profiles/steve-george\">Steve George</a>, CNN",
+            "title": "Nearly 12,000 cases of the coronavirus worldwide",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-01-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131111034-06-coronavirus-0130-beijing-airport-super-tease.jpg",
+            "publishedAt": "2020-02-01T01:42:11Z",
+            "content": "An estimated 75,815 people could be infected with the coronavirus in Wuhan, China -- far higher than reported numbers, said Hong Kong researchers in a study published Friday.\r\nUsing mathematical models, the authors estimated that the number of people affected\u2026 [+617 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by James Griffiths, CNN",
+            "title": "Anger over the Wuhan virus is sparking pushback against censorship",
+            "description": "The Great Firewall of China has always been annoying, but it's not usually this deadly.",
+            "url": "https://www.cnn.com/2020/01/31/asia/wuhan-virus-china-censorship-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200131113251-beijing-wuhan-virus-0128-police-super-tease.jpg",
+            "publishedAt": "2020-02-01T00:55:39Z",
+            "content": "James Griffiths is a Senior Producer for CNN International and author of \"The Great Firewall of China: How to Build and Control an Alternative Version of the Internet.\"\r\nHong Kong (CNN)The Great Firewall of China has always been annoying, but it's not usually\u2026 [+6532 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "This is life on lockdown in China",
+            "description": "Streets are empty and markets are closed in Chinese cities that are home to millions of people. See these first-hand accounts of life in China during the coronavirus outbreak.",
+            "url": "https://www.cnn.com/videos/world/2020/01/31/life-on-lockdown-wuhan-coronavirus-orig-mg.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130115955-10-china-coronavirus-lockdown-unfurled-super-tease.jpg",
+            "publishedAt": "2020-02-01T00:07:40Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sarah Westwood, CNN",
+            "title": "White House expected to ask Congress for coronavirus funds this week",
+            "description": "White House officials are expected to ask Congress for emergency funding this week to battle the coronavirus amid growing fears of a larger outbreak in the US, two officials familiar with the forthcoming request said.",
+            "url": "https://www.cnn.com/2020/02/23/politics/coronavirus-congress-white-house-funding/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213023804-donald-trump-lessons-impeachment-tapper-lead-sot-vpx-00011729-super-tease.jpg",
+            "publishedAt": "2020-02-23T21:37:05Z",
+            "content": "Washington (CNN)White House officials are expected to ask Congress for emergency funding this week to battle the coronavirus amid growing fears of a larger outbreak in the US, two officials familiar with the forthcoming request said.\r\nGovernment aides worked \u2026 [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/james-griffiths\">James Griffiths</a> and <a href=\"/profiles/jenni-marsh-profile\">Jenni Marsh</a>, CNN",
+            "title": "Coronavirus cases spike in South Korea and Italy",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-23-20-hnk-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200223085520-coronavirus-0221-beijing-01-super-tease.jpg",
+            "publishedAt": "2020-02-23T01:39:34Z",
+            "content": "The Hubei health authority reported that 96 more people died of the coronavirus in China's Hubei province on Saturday, February 22, raising the death toll in the outbreak's epicenter to 2,346.\r\nHubei authorities confirmed an additional 630 cases of the virus \u2026 [+919 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "From one-time Chinese capital to coronavirus epicenter, Wuhan has a long history that the world had forgotten",
+            "description": null,
+            "url": "https://www.cnn.com/collections/intl-coronavirus-0223/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-23T00:46:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Livia Borghese and Tara John, CNN",
+            "title": "Coronavirus cases soar in Italy as authorities scramble to find patient zero",
+            "description": "Italian authorities have announced sweeping closures in the country's north as they scramble to contain Europe's biggest outbreak of the novel coronavirus.",
+            "url": "https://www.cnn.com/2020/02/23/europe/italy-novel-coronavirus-spike-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200223120532-coronavirus-italy-casalpusterlengo-0222-super-tease.jpg",
+            "publishedAt": "2020-02-23T13:41:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi, CNN",
+            "title": "Judge blocks the transfer of coronavirus patients to a city in Southern California",
+            "description": "A federal judge has temporarily blocked the transfer of people infected with the coronavirus to a city in Southern California until a hearing set for this week.",
+            "url": "https://www.cnn.com/2020/02/23/us/costa-mesa-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200223000624-coronavirus-travis-air-force-base-california-0216-super-tease.jpg",
+            "publishedAt": "2020-02-23T06:33:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, Lily Lee and David Culver, CNN",
+            "title": "Healthy Wuhan residents say they were forced into mass coronavirus quarantine, risking infection",
+            "description": "Three weeks ago, Lisa Wang was fighting a high fever when she was turned away from an overflowing hospital in Wuhan, the central Chinese city mired in a deadly coronavirus crisis.",
+            "url": "https://www.cnn.com/2020/02/22/asia/china-coronavirus-roundup-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200221172428-wuhan-community-worker-super-tease.jpg",
+            "publishedAt": "2020-02-23T00:43:53Z",
+            "content": "They couldn't provide me with a hospital when I was sick. Now when I'm recovered, they forced me into one\r\nLisa Wang, a recovered patient"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths and Jenni Marsh, CNN",
+            "title": "Coronavirus cases spike in South Korea and Italy, as China outbreak continues to grow",
+            "description": null,
+            "url": "https://www.cnn.com/2020/02/22/asia/coronavirus-outbreak-02-23-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200223085520-coronavirus-0221-beijing-01-super-tease.jpg",
+            "publishedAt": "2020-02-23T01:13:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul French",
+            "title": "From one-time Chinese capital to coronavirus epicenter, Wuhan has a long history that the world had forgotten",
+            "description": "From the 19th century, Wuhan regularly appeared in the international press and, as a trading hub it impacted the lives of people in the West. But after the Second World War that history was forgotten.",
+            "url": "https://www.cnn.com/2020/02/22/asia/wuhan-history-hnk-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200221135733-01-historical-wuhan-super-tease.jpg",
+            "publishedAt": "2020-02-23T00:04:48Z",
+            "content": "Paul French is the author of \"Midnight in Peking\" and \"City of Devils: A Shanghai Noir,\" both currently being adapted for TV.\r\n (CNN)Before the novel coronavirus outbreak hit Wuhan in December, the exact whereabouts -- and even existence -- of the central Chi\u2026 [+10947 chars]"
+        }
+    ]
+}

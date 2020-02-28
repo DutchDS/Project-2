@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Infected South Korean Coronavirus Health Official Member of Secretive Religious Group Linked to Hundreds of Cases",
+            "description": "More than half of the country's total coronavirus cases have been reported in Daegu.",
+            "url": "https://www.newsweek.com/infected-south-korean-coronavirus-health-official-member-secretive-religious-group-linked-1488802",
+            "urlToImage": "https://d.newsweek.com/en/full/1569060/shincheonji-church-daegu-coronavirus-february-2020.jpg",
+            "publishedAt": "2020-02-24T17:48:48Z",
+            "content": "A South Korean health official, who has tested positive for coronavirus, is reportedly a member of the Shincheonji religious group linked to hundreds of confirmed cases in the country. South Korea has raised its virus level to \"red,\" the highest rating possib\u2026 [+4950 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Matt Keeley",
+            "title": "Homeland Security Deputy Secretary Cuccinelli Criticized for Asking Twitter Where to Find Coronavirus Information",
+            "description": "Acting Deputy Secretary Ken Cuccinelli came under fire Monday for asking Twitter for alternate sources for information after having trouble accessing Johns Hopkins University's coronavirus map.",
+            "url": "https://www.newsweek.com/homeland-security-deputy-secretary-cuccinelli-criticized-asking-twitter-where-find-coronavirus-1488863",
+            "urlToImage": "https://d.newsweek.com/en/full/1569124/ken-cuccinelli.jpg",
+            "publishedAt": "2020-02-24T23:01:15Z",
+            "content": "Homeland Security Acting Deputy Secretary Ken Cuccinelli came under fire for asking Twitter if others had trouble accessing Johns Hopkins University's COVID-19 coronavirus map Monday.\r\n\"Has the Johns Hopkins map of the coronavirus stopped working for other pe\u2026 [+3375 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Tom O'Connor",
+            "title": "U.S. Sanctions Hamper Iran's Battle to Contain Coronavirus",
+            "description": "Iran is racing to curb the coronavirus' spread, but these efforts are complicated by U.S. economic restrictions and frustrations among the population.",
+            "url": "https://www.newsweek.com/iran-war-coronavirus-us-sanctions-unrest-1488818",
+            "urlToImage": "https://d.newsweek.com/en/full/1569067/iran-mask-coronavirus-covid-19-tehran.jpg",
+            "publishedAt": "2020-02-24T19:45:17Z",
+            "content": "Iran is racing to curb the rapid, deadly spread of the new coronavirus, but these efforts are complicated by tight economic restrictions imposed by the United States and frustrations among an increasingly embattled population.\r\nIranian Deputy Health Minister \u2026 [+7674 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Coronavirus Italy Update: Europe's First Major Outbreak Sees Fourth Death From the Virus, More Than 150 Cases Confirmed",
+            "description": "More than 50,000 residents in the northern Italian regions of Lombardy and Veneto are on lockdown.",
+            "url": "https://www.newsweek.com/italy-coronavirus-update-4-deaths-150-infected-quarantine-lombardy-veneto-1488732",
+            "urlToImage": "https://d.newsweek.com/en/full/1568956/women-piazza-del-duomo-milan-feb-2020.jpg",
+            "publishedAt": "2020-02-24T12:49:33Z",
+            "content": "A fourth person has died after contracting the coronavirus in Italy. The country has seen more than 150 confirmed cases since Friday, with thousands remaining on lockdown in parts of northern Italy. The latest cases mark the first major outbreak in Europe, wh\u2026 [+5628 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Coronavirus Update: Cases Outside China Spike 26% in Single Day, Death Toll Rises to 17",
+            "description": "On Monday, the European Commission announced 232 million euros would be mobilized to help fight the virus.",
+            "url": "https://www.newsweek.com/coronavirus-update-cases-outside-china-spike-26-single-day-death-toll-rises-17-1488745",
+            "urlToImage": "https://d.newsweek.com/en/full/1568970/coronavirus-update-cases-spike-china-outside.jpg",
+            "publishedAt": "2020-02-24T14:01:19Z",
+            "content": "COVID-19 cases continue to rise in China where it originated and around the world, raising concerns among health officials that the opportunity to significantly fight the virus is waning.\r\n\"The window of opportunity is still there, but the window of opportuni\u2026 [+2840 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Outbreak Sees China Ban Trade and Consumption of Wild Animals",
+            "description": "COVID-19 has killed over 2,000 people since late last year.",
+            "url": "https://www.newsweek.com/coronavirus-outbreak-sees-china-ban-trade-consumption-wild-animals-1488742",
+            "urlToImage": "https://d.newsweek.com/en/full/1568962/coronavirus-covid19-2019ncov-china-beijing.jpg",
+            "publishedAt": "2020-02-24T15:13:46Z",
+            "content": "China has banned people from selling, buying and eating wild animals amid the outbreak of the deadly coronavirusCOVID-19, which has been linked to a wholesale food market in the central city of Wuhan, Hubei province.\r\nThe country's highest decision-making bod\u2026 [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Matthew Impelli",
+            "title": "South Korea Has Second Most Coronavirus Cases After China, President Says Country Faces 'Grave Turning Point'",
+            "description": "\"The next few days will be crucial. The government will raise the alert level to the highest level of 'grave' according to experts' recommendations and drastically strengthen our response system,\" South Korean President Moon Jae-in said.",
+            "url": "https://www.newsweek.com/south-korea-has-second-most-coronavirus-cases-after-china-president-says-country-faces-grave-1488824",
+            "urlToImage": "https://d.newsweek.com/en/full/1569075/coronavirus-map.jpg",
+            "publishedAt": "2020-02-24T19:35:35Z",
+            "content": "South Korea now has the second most coronavirus cases in the world behind China, and the country's president Moon Jae-in has recently stated the Asian nation faces a \"grave turning point.\"\r\n\"The COVID-19 incident faces a grave turning points,\" Moon said after\u2026 [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Seren Morris",
+            "title": "South Korea Professor Whose Kids Crashed TV Interview Disappoints Twitter After Latest Media Appearance: 'Where is the Baby?'",
+            "description": "The South Korea expert went viral in 2017 when his children interrupted his live interview with the BBC.",
+            "url": "https://www.newsweek.com/professor-robert-kelly-tv-interview-meme-viral-video-twitter-1488785",
+            "urlToImage": "https://d.newsweek.com/en/full/1569016/professor-robert-kelly.jpg",
+            "publishedAt": "2020-02-24T16:19:35Z",
+            "content": "Professor Robert Kelly, whose children famously interrupted his BBC interview in 2017, was recently interviewed for Sky News, but Twitter users were disappointed and left asking \"Where is the baby?\"\r\nAs an American political analyst based in South Korea, Kell\u2026 [+2604 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "#WeLoveYouBTS Trends As BTS Talk About Meaning of 'Map of the Soul: 7' in YouTube Press Conference Held Amid Coronavirus Fears",
+            "description": "The South Korean K-pop sensation opened up about overcoming the pressures and fears they have faced in their seven-year career so far and how it's captured in their latest album.",
+            "url": "https://www.newsweek.com/bts-map-soul-7-youtube-press-conference-coronavirus-1488700",
+            "urlToImage": "https://d.newsweek.com/en/full/1568911/bts-rockefeller-plaza-february-21-2020-new-york-city.jpg",
+            "publishedAt": "2020-02-24T10:09:31Z",
+            "content": "BTS held a press conference on February 24 at 2 p.m. (Korea Standard Time) for their latest album Map of the Soul: 7. The event was broadcast live from Seoul, South Korea via YouTube in the absence of mass media and fans amid coronavirus fears, the band's man\u2026 [+6396 chars]"
+        }
+    ]
+}
