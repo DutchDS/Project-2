@@ -4,6 +4,7 @@ var myMap = L.map("map", {
   zoom: 2
 });
 
+
 // Adding tile layer
 L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
@@ -11,10 +12,6 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   id: "mapbox.satellite",
   accessToken: API_KEY
 }).addTo(myMap);
-
-// Load in geojson data
-// var geoData = "static/geojsons/china.json";
-// var geoUrl = "static/geojsons/2020-02-19.json";
 
 var current_date = new Date('2020-01-22');
 
@@ -76,10 +73,6 @@ function chooseColor(x) {
 
 function get_new_layer(geoUrl) { 
 
-  ///////TEMPORARY GEOJSON FILE //////
-  // geoUrl = "static/world_geojsons/world.json"
-  // geoUrl = 'https://github.com/datasets/geo-countries/blob/master/data/countries.geojson'
-      // Grab data with d3
   d3.json(geoUrl).then(function(data) {
     
     console.log("GEOJSON ", data)
@@ -109,26 +102,38 @@ function get_new_layer(geoUrl) {
 }
 
 function create_legend() {
+    var legend = L.control({ position: "bottomleft" });
+    legend.onAdd = function(map) {
+      var div = L.DomUtil.create("div", "legend");
+      div.innerHTML += "<h4>Corona Cases</h4>";
+      div.innerHTML += '<i style="background: #fde8fc"></i><span>0</span><br>';
+      div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 5</span><br>';
+      div.innerHTML += '<i style="background: #f15be9"></i><span>6 - 10</span><br>';
+      div.innerHTML += '<i style="background: #eb14e0"></i><span>11 - 50</span><br>';
+      div.innerHTML += '<i style="background: #a40e9d"></i><span>51 - 500</span><br>';
+      div.innerHTML += '<i style="background: #5e085a"></i><span>> 500</span><br>';  
 
-var legend = L.control({ position: "bottomleft" });
-legend.onAdd = function(map) {
-  var div = L.DomUtil.create("div", "legend");
-  div.innerHTML += "<h4>Corona Cases</h4>";
-  div.innerHTML += '<i style="background: #fde8fc"></i><span>0</span><br>';
-  div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 5</span><br>';
-  div.innerHTML += '<i style="background: #f15be9"></i><span>6 - 10</span><br>';
-  div.innerHTML += '<i style="background: #eb14e0"></i><span>11 - 50</span><br>';
-  div.innerHTML += '<i style="background: #a40e9d"></i><span>51 - 500</span><br>';
-  div.innerHTML += '<i style="background: #5e085a"></i><span>> 500</span><br>';  
-
-  return div;
+      return div;
 };
 
 legend.addTo(myMap);
 }
 
+var today = new Date()
+var yesterday =  today.setDate(today.getDate() - 1);
+
+initgeoUrl = "static/world_geojsons/" + formatDate(yesterday) + ".json";
+console.log(initgeoUrl)
+
+get_new_layer(initgeoUrl);
 create_legend()
 
-for (var i = 0; i < 36; i++)  {  
-  task(i); 
-} 
+function reload() {
+  for (var i = 0; i < 36; i++)  {  
+    task(i); 
+    } 
+  }
+  
+// Initiate button listener
+var get_all = d3.select("#selectAll");
+get_all.on("click", function() {reload()});

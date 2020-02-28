@@ -51,7 +51,27 @@ def world():
 
 @app.route("/china")
 def china(): 
-    return render_template("china.html")
+    result_set = []
+    
+    query_str = open('static/sql/china_top_10.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
+
+    result_sum = []
+
+    query_str = open('static/sql/china_summary.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    result_sum = engine.execute(query_text)
+  
+    return render_template("china.html", china_facts=result_set, china_sum=result_sum)
 
 @app.route("/slider")
 def slider(): 
@@ -64,16 +84,16 @@ def news():
 @app.route("/api/bar_china")
 def bar_chart_china():
     
+    
     result_set = []
-    result_set = engine.execute("select date, \
-        sum(conf_count) confirmed, \
-        sum(cured_count) cured, \
-        sum(dead_count) dead, \
-        sum(susp_count) suspected \
-        from daily_stats \
-        group by date \
-        order by date")  
-
+    
+    query_str = open('static/sql/china_bar.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
     
     all_results = []
     for date, conf_count, cured_count, dead_count, susp_count in result_set:
@@ -101,9 +121,10 @@ def bar_chart_world():
     result_set = engine.execute(query_text)
     
     all_results = []
-    for date, conf_count, cured_count, dead_count in result_set:
+    for date, country, conf_count, cured_count, dead_count in result_set:
         results_dict = {}
         results_dict["date"] = date
+        results_dict["country"] = country
         results_dict["conf_count"] = conf_count
         results_dict["cured_count"] = cured_count
         results_dict["dead_count"] = dead_count

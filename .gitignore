@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# all geojson files
+aukjes_sandbox/static/world_geojsons/
+static/world_geojsons/
