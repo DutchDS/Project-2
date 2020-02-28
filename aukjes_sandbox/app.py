@@ -28,41 +28,50 @@ db = SQLAlchemy(app)
 @app.route("/")
 def world():
     result_set = []
-    result_set = engine.execute("select  \
-	    country, \
-	    max(date), \
-	    sum(conf_count) confirmed, \
-	    sum(cured_count) cured, \
-	    sum(dead_count) dead, \
-	    (sum(conf_count) + sum(cured_count) + sum(dead_count)) total \
-        from daily_stats_world \
-        where date = (select max(date ) from daily_stats_world) \
-        group by country \
-        order by total desc \
-        limit 10")
+    
+    query_str = open('static/sql/world_top_10.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
 
     result_sum = []
-    result_sum = engine.execute("select  max(date), \
-	    sum(conf_count) confirmed, \
-	    sum(cured_count) cured, \
-	    sum(dead_count) dead, \
-		(sum(conf_count) + sum(cured_count) + sum(dead_count)) total \
-        from daily_stats_world  \
-        where date = (select max(date ) from daily_stats_world)") 
 
-    # for i in result_sum:
-    #     pct_conf = round(i[1]/i[4]*100)
-    #     pct_cured = round(i[2]/i[4]*100)
-    #     pct_dead = round(i[3]/i[4]*100)
-    #     print(pct_conf)
-    #     print(pct_cured)
-    #     print(pct_dead)
+    query_str = open('static/sql/world_summary.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    result_sum = engine.execute(query_text)
   
     return render_template("world.html", world_facts=result_set, world_sum=result_sum)
 
 @app.route("/china")
 def china(): 
-    return render_template("china.html")
+    result_set = []
+    
+    query_str = open('static/sql/china_top_10.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
+
+    result_sum = []
+
+    query_str = open('static/sql/china_summary.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    result_sum = engine.execute(query_text)
+  
+    return render_template("china.html", china_facts=result_set, china_sum=result_sum)
 
 @app.route("/slider")
 def slider(): 
@@ -75,16 +84,16 @@ def news():
 @app.route("/api/bar_china")
 def bar_chart_china():
     
+    
     result_set = []
-    result_set = engine.execute("select date, \
-        sum(conf_count) confirmed, \
-        sum(cured_count) cured, \
-        sum(dead_count) dead, \
-        sum(susp_count) suspected \
-        from daily_stats \
-        group by date \
-        order by date")  
-
+    
+    query_str = open('static/sql/china_bar.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
     
     all_results = []
     for date, conf_count, cured_count, dead_count, susp_count in result_set:
@@ -102,15 +111,14 @@ def bar_chart_china():
 def bar_chart_world():
     
     result_set = []
-    result_set = engine.execute("select date, \
-	sum(conf_count) confirmed, \
-	sum(cured_count) cured, \
-	sum(dead_count) dead \
-    from daily_stats_world \
-    where country <> 'China' \
-    group by date\
-    order by date")  
-
+    
+    query_str = open('static/sql/world_bar.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
     
     all_results = []
     for date, conf_count, cured_count, dead_count in result_set:
@@ -125,28 +133,3 @@ def bar_chart_world():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
-
-
-    
-####################################
-# OLD WAY OF RETRIEVING JSON FILE
-#####################################
-# @app.route("/api/bar_china/file.json")
-# def bar_china():
-
-#     connection_string = "postgres:postgres@localhost:5432/corona_db"
-#     engine = create_engine(f'postgresql://{connection_string}')
-
-#     query_str = open('static/sql/test_query.sql')
-#     query_text = ""
-#     for text in query_str:
-#         query_text = query_text + text
-        
-#     print(query_text)
-
-#     df_query = pd.read_sql_query(query_text, con=engine)
-#     bar_data = df_query.to_json()
-#     return bar_data
-
-

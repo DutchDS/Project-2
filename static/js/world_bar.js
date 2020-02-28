@@ -42,22 +42,6 @@ function create_chart(bar_data) {
     y_trace2 = bar_cured;
     y_trace3 = bar_dead;
 
-// x_values = [];
-
-// y_trace1 = [];
-// y_trace2 = [];
-// y_trace3 = [];
-
-// for (var key in bar_dates) {
-//     x_values.push(bar_dates[key])
-// }
-// for (var key in bar_confirmed, bar_cured, bar_dead){
-//     y_trace1.push(bar_confirmed[key])
-//     y_trace2.push(bar_cured[key])
-//     y_trace3.push(bar_dead[key])
-// }
-
-
 console.log(x_values)
 console.log(y_trace1)
 

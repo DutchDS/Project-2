@@ -69,7 +69,11 @@
                 <div class="card" style="width: 100%">
                   <div class="card-body">
                     <div>{% for i in world_sum %}
-                      <strong>On: {{ i[0] }}</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;Total: </strong>{{ i[4] }}<strong>&nbsp;&nbsp;Confirmed: </strong>{{ i[1] }}<strong>&nbsp;&nbsp;Cured: </strong>{{ i[2] }}<strong>&nbsp;&nbsp;Dead: </strong>{{ i[3] }}
+                      <h4><strong>{{ i[0] }}:</strong>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<strong>Total: </strong>{{ i[1] }}
+                        &nbsp;&nbsp;<strong>Sick: </strong>{{ i[2] }}-({{ i[5] }}%)
+                        &nbsp;&nbsp;<strong>Cured: </strong>{{ i[3] }}-({{ i[6] }}%)
+                        &nbsp;&nbsp;<strong>Dead: </strong>{{ i[4] }}-({{ i[7] }}%)</h4>
                       {% endfor %}
                     <!-- On: {{world_sum[0]}} --- Total Cases: {{world_sum[4]}} --- Total Confirmed: {{world_sum[1]}} -->
                     </div>

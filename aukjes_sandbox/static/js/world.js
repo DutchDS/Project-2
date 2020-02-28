@@ -16,7 +16,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 // var geoData = "static/geojsons/china.json";
 // var geoUrl = "static/geojsons/2020-02-19.json";
 
-var current_date = new Date('2020-01-27');
+var current_date = new Date('2020-01-22');
 
 function formatDate(date) {
   var d = new Date(date),
@@ -48,7 +48,7 @@ function task(i) {
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 500 * i); 
+  , 700 * i); 
 } 
 
 var geojson;
@@ -59,11 +59,11 @@ function chooseColor(x) {
     if (x == 0)
       // color = "#fde8fc"
       color = "transparent"
-    else if (x <= 50)
+    else if (x <= 5)
       color = "#f7a1f3"
-    else if (x <= 100)
+    else if (x <= 10)
       color = "#f15be9"
-    else if (x <= 200)
+    else if (x <= 50)
       color = "#eb14e0"
     else if (x <= 500)
       color = "#a40e9d"
@@ -90,14 +90,14 @@ function get_new_layer(geoUrl) {
           color: "white",
           // fillColor: "red",
           fillColor: chooseColor(feature.properties.confirmedCount), 
-          fillOpacity: 0.8,
-          weight: 1
+          fillOpacity: 0.7,
+          weight: 0.5
         }
       },
 
     // Binding a pop-up to each layer
     onEachFeature: function(feature, layer) {
-      layer.bindPopup("<strong>Province:</strong> " + feature.properties.american_name 
+      layer.bindPopup("<strong> " + feature.properties.american_name + "</strong>"
                 + "<hr><strong>Confirmed Cases: </strong>" + feature.properties.confirmedCount 
                 // + "<br><strong>Suspected Cases: </strong>" + feature.properties.suspectedCount 
                 + "<br><strong>Cured Cases: </strong>" + feature.properties.curedCount 
@@ -115,10 +115,10 @@ legend.onAdd = function(map) {
   var div = L.DomUtil.create("div", "legend");
   div.innerHTML += "<h4>Corona Cases</h4>";
   div.innerHTML += '<i style="background: #fde8fc"></i><span>0</span><br>';
-  div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 50</span><br>';
-  div.innerHTML += '<i style="background: #f15be9"></i><span>51 - 100</span><br>';
-  div.innerHTML += '<i style="background: #eb14e0"></i><span>101 - 200</span><br>';
-  div.innerHTML += '<i style="background: #a40e9d"></i><span>201 - 500</span><br>';
+  div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 5</span><br>';
+  div.innerHTML += '<i style="background: #f15be9"></i><span>6 - 10</span><br>';
+  div.innerHTML += '<i style="background: #eb14e0"></i><span>11 - 50</span><br>';
+  div.innerHTML += '<i style="background: #a40e9d"></i><span>51 - 500</span><br>';
   div.innerHTML += '<i style="background: #5e085a"></i><span>> 500</span><br>';  
 
   return div;
