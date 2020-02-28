@@ -1,7 +1,7 @@
 // Creating map object
 var myMap = L.map("map", {
-  center: [36.8944, 104.1660],
-  zoom: 4
+  center: [34.5133, -10.1629],
+  zoom: 2
 });
 
 // Adding tile layer
@@ -37,7 +37,7 @@ function task(i) {
 
     script_date = formatDate(current_date)
      
-    geoUrl = "static/geojsons/" + script_date + ".json";
+    geoUrl = "static/world_geojsons/" + script_date + ".json";
     // get_new_layer()
     // console.log(current_date)
     console.log(geoUrl)
@@ -48,7 +48,7 @@ function task(i) {
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 300 * i); 
+  , 500 * i); 
 } 
 
 var geojson;
@@ -58,14 +58,14 @@ function chooseColor(x) {
   // console.log("--------------------------")
     if (x == 0)
       // color = "#fde8fc"
-      color = "white"
-      else if (x <= 50)
+      color = "transparent"
+    else if (x <= 50)
       color = "#f7a1f3"
     else if (x <= 100)
       color = "#f15be9"
-    else if (x <= 500)
+    else if (x <= 200)
       color = "#eb14e0"
-    else if (x <= 5000)
+    else if (x <= 500)
       color = "#a40e9d"
     else
       color = "#5e085a";
@@ -76,6 +76,9 @@ function chooseColor(x) {
 
 function get_new_layer(geoUrl) { 
 
+  ///////TEMPORARY GEOJSON FILE //////
+  // geoUrl = "static/world_geojsons/world.json"
+  // geoUrl = 'https://github.com/datasets/geo-countries/blob/master/data/countries.geojson'
       // Grab data with d3
   d3.json(geoUrl).then(function(data) {
     
@@ -89,7 +92,8 @@ function get_new_layer(geoUrl) {
           fillColor: chooseColor(feature.properties.confirmedCount), 
           fillOpacity: 0.8,
           weight: 1
-        }},
+        }
+      },
 
     // Binding a pop-up to each layer
     onEachFeature: function(feature, layer) {
@@ -113,9 +117,9 @@ legend.onAdd = function(map) {
   div.innerHTML += '<i style="background: #fde8fc"></i><span>0</span><br>';
   div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 50</span><br>';
   div.innerHTML += '<i style="background: #f15be9"></i><span>51 - 100</span><br>';
-  div.innerHTML += '<i style="background: #eb14e0"></i><span>101 - 500</span><br>';
-  div.innerHTML += '<i style="background: #a40e9d"></i><span>501 - 5000</span><br>';
-  div.innerHTML += '<i style="background: #5e085a"></i><span>> 5000</span><br>';  
+  div.innerHTML += '<i style="background: #eb14e0"></i><span>101 - 200</span><br>';
+  div.innerHTML += '<i style="background: #a40e9d"></i><span>201 - 500</span><br>';
+  div.innerHTML += '<i style="background: #5e085a"></i><span>> 500</span><br>';  
 
   return div;
 };
@@ -125,6 +129,6 @@ legend.addTo(myMap);
 
 create_legend()
 
-for (var i = 0; i < 30; i++)  {  
+for (var i = 0; i < 36; i++)  {  
   task(i); 
 } 
