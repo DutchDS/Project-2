@@ -1,29 +1,74 @@
 
+//
+function buildNewsTableBanner(dateStr, source) {
+  var banner = d3.select("#news-banner");
+  console.log("buildNewsTableBanner:", banner);
+  banner
+    .html("")
+    .text(`Coronavirus news from ${source} for ${dateStr}`);
+}
+
+function buildNewsTableHeader() {
+
+  var thead = d3.select("#news-header");
+  console.log("buildNewsTableHeader:", thead);
+
+  thead.html("");
+  var tr = thead.append("tr");
+
+  tr.append("th")
+    .attr("scope", "col")
+    .text("#"); 
+
+  tr.append("th")
+    .attr("scope", "col")
+    .text("Source");
+
+  tr.append("th")
+    .attr("scope", "col")
+    .text("Title");
+ 
+  tr.append("th")
+    .attr("scope", "col")  
+    .text("Image")
+}
+
+
 // function loop through each report and add to the table
-function buildNewsTable(articles) {
+function buildNewsTableBody(articles) {
   // Get a reference to the table body
   var tbody = d3.select("#news-body");
   // Clear table body
   tbody.html("")
 
   // loop through ech report and add to HTML table body
+  var i = 0;
   articles.forEach((article) => {
-    console.log(article)
+    // console.log(article)
     var row = tbody.append("tr");
+    
+    // <th> cell for row number
+    var th = row.append(th)
+    i = i+1;
+    th.attr("scope", "row")
+      .text(i);
+    // console.log(`appended a th ${i}`)
+
+    // <td> cell for news soruce (e.g. BBC News>
     var cell = row.append("td");
-    // cell.text(article.publishedAt);
-    // cell = row.append("td");
-    cell.text(article.source.name);
+    cell.attr('scope', 'row')
+      .text(article.source.name);
+
+    // <td> cell for Article Title </td>
     cell = row.append("td");
-    cell.html(`<a href=${article.url} target="_blank" > &nbsp${article.title}&nbsp </a>`)
-    // cell.html(`${article.urlToImage} style="width:500px;height:600px;/>`);
+    cell.attr('scope', 'row')
+      .html(`<a href=${article.url} target="_blank" > &nbsp${article.title}&nbsp </a>`)
+
+    // <td> cell for image
     if(article.urlToImage) {
       cell = row.append("td");
-      cell.html(`
-        <a href=${article.urlToImage} target="_blank" >
-          <img src=${article.urlToImage} target="_blank" alt="" border=2 width=100 height="auto"/>
-        </a>`);
-      // cell.html(`<img src="https://ichef.bbci.co.uk/news/624/cpsprodpb/5438/production/_111006512_060168457.jpg" alt="" border=2 width=100 height="auto"/>`);
+      cell.attr('scope', 'row')
+        .html(`<a href=${article.urlToImage} target="_blank" > <img src=${article.urlToImage} target="_blank" alt="" border=2 width=100 height="auto"/> </a>`);
     }
   });
 }
@@ -31,13 +76,64 @@ function buildNewsTable(articles) {
 // TEST Call to a newsapi json file to buils the HTML table for news.
 // This will be replaced by a Date change event listener and read of the right json file for the date
 // May also add selector for NEWS Source to listen for.
-d3.json("./static/newsdata/2020-02-24/bbc-news_2020-02-24.json").then(function(newsData) {
-// d3.json("./static/newsdata/2020-02-24/medical-news-today_2020-02-24.json").then(function(newsData) {
-  // if (err) throw err;
-  console.log(newsData);
-  buildNewsTable(newsData.articles);
+function renderNewsForDate(dateStr, newsSource) {
+  newsdirPath  = `/static/newsdata/${dateStr}/`;
+  newsfileName = `${newsSource}_${dateStr}.json`;
+  newsfilePath = newsdirPath + newsfileName
+  console.log("News File: ", newsfilePath);
+
+  d3.json(newsfilePath).then(function(newsData) {
+    console.log(newsData);
+    buildNewsTableBody(newsData.articles);
+  });
+}
+
+var newsSources = []
+function renderNewsBanner(dateStr, newsSourceId) {
+  newsapiSrcs = `/static/newsdata/newsapi_sources.json`;
+  console.log("News Source names file: ", newsapiSrcs);
+  var sourceName = newsSourceId;
+
+  //convert news source id to a readable name
+  if (!Array.isArray(newsSources) || !newsSources.length) {
+    // newsSources array does not exist, is not an array, or is empty then 
+    //  read json data for source metadata
+    d3.json(newsapiSrcs).then(function(newsSrcs) {
+      console.log(newsSrcs);
+      newsSources = newsSrcs.sources;
+      result = newsSources.find(source => source.id === newsSourceId);
+      if (result) { sourceName = result.name }
+    }); 
+  } else {
+    // newsSources has already been read in
+    result = newsSources.find(source => source.id === newsSourceId);
+  }
+
+  // build the table banner with the datestring and news source name
+  buildNewsTableBanner(dateStr, sourceName);
+}
+
+// =============================================
+// Main  Set up
+newsDate = "2020-02-27"
+newsSrc = "bbc-news"
+buildNewsTableHeader();
+
+// Wrap this with an on Date Input (or Date Change) listener
+renderNewsBanner(newsDate, newsSrc);
+renderNewsForDate(newsDate, newsSrc);
+
+d3.select("#corona-date").on("change", function() {
+  newsDate = this.value
+  renderNewsBanner(newsDate, newsSrc);
+  renderNewsForDate(newsDate, newsSrc);
 });
 
+d3.select("#news_source").on("change", function() {
+  newsSrc = this.value
+  renderNewsBanner(newsDate, newsSrc);
+  renderNewsForDate(newsDate, newsSrc);
+});
 
 // DELETE THE REST OF THIS CODE AFTER FIGURE OUT HOW TO listen for a date change
 

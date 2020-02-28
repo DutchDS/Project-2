@@ -1,0 +1,760 @@
+{
+    "status": "ok",
+    "totalResults": 58,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Reddit's Profane, Greedy Traders Are Shaking Up The Stock Market",
+            "description": "A band of Reddit users is hijacking stocks and defying even the coronavirus sell-off.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/reddit-s-profane-greedy-traders-are-shaking-up-the-stock-market?srnd=businessweek-v2",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T16:12:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus: Are African Countries Ready?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/sub-saharan-africa-is-biggest-coronavirus-risk-professor-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T11:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "How Coronavirus Purged The Market",
+            "description": "\u201cThis is definitely not a time to panic.\u201d\nMarkets are tumbling on coronavirus fears. Global markets editor Hilary Clark breaks it down.  (Source: QuickTake)",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/how-coronavirus-purged-the-market-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQKPqw562tLI/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-26T04:52:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Simone Preissler Iglesias, Fabiola Moura",
+            "title": "Brazil Confirms Coronavirus Case, the First in Latin America",
+            "description": "Brazil confirmed the first coronavirus case in Latin America.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/brazil-confirms-coronavirus-case-the-first-in-latin-america",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioEzxkPB6_uM/v1/1200x805.jpg",
+            "publishedAt": "2020-02-26T14:33:29Z",
+            "content": "Brazil confirmed the first coronavirus case in Latin America.\r\nA 61-year-old Brazilian male who lives in Sao Paulo was infected during a recent trip to Northern Italy and tested positive upon returning to the country, Health Minister Luiz Henrique Mandetta sa\u2026 [+1488 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Causing Ash Wednesday Fears",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/coronavirus-causing-ash-wednesday-fears-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T20:13:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Blackstone 'Still Bullish' on China Despite Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/blackstone-still-bullish-on-china-despite-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T12:03:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Norway Confirms Its First Case of Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/norway-confirms-its-first-case-of-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T20:42:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "",
+            "title": "Baystate Business: Coronavirus and the Markets (Radio)",
+            "description": "Bloomberg Baystate Business for Tuesday, February 25th, 2020",
+            "url": "https://www.bloomberg.com/news/audio/2020-02-26/baystate-business-coronavirus-and-the-markets-radio",
+            "urlToImage": "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+            "publishedAt": "2020-02-26T17:52:36Z",
+            "content": "Bloomberg Baystate Business for Tuesday, February 25th, 2020\r\n- Bloomberg News health care and medical science reporter Michelle Cortez talks about the latest news on the coronavirus (:56)\r\n- Bloomberg Radio stocks editor Dave Wilson on the sell-off in the ma\u2026 [+1089 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Cable Coronavirus, Tourism, Policy Response (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-26/the-cable-coronavirus-tourism-policy-response-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T18:01:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "New Coronavirus Cases in South Korea, Europe",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/new-coronavirus-cases-in-south-korea-europe-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T13:52:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Trump to Hold Press Conference on Coronavirus",
+            "description": "President Donald Trump and federal health officials plan to\u00a0brief\u00a0the public Wednesday on efforts to prevent the spread of the coronavirus.\u00a0Max Nisen of Bloomberg Opinion discusses how the White House is reacting to the outbreak on \"Bloomberg Markets.\" (Sourc\u2026",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/trump-to-hold-press-conference-on-coronavirus-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMJ3AOE8sZbA/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-26T17:25:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Chinese Steelmakers Feel Pain of Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/chinese-steelmakers-feel-pain-of-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T20:59:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jonathan Levin",
+            "title": "Rejected by Two Ports on Virus Fears, Cruise Heads to Mexico",
+            "description": "A ship operated by MSC Cruises is sailing for Cozumel, Mexico, on Wednesday after authorities in two Caribbean ports effectively denied it disembarkation over coronavirus fears.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/rejected-by-two-ports-on-virus-fears-cruise-heads-to-mexico",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqkc2yxpW7Lg/v0/1200x800.jpg",
+            "publishedAt": "2020-02-26T16:31:19Z",
+            "content": "Photographer: Horacio Villalobos/Corbis News via Getty Images\r\nA ship operated by \r\nMSC Cruises is sailing for Cozumel, Mexico, on Wednesday after authorities in two Caribbean ports effectively denied it disembarkation over coronavirus fears.\r\nOn Tuesday, Jam\u2026 [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mark Gurman",
+            "title": "Apple's Tim Cook Calls Coronavirus a 'Challenge' at Shareholder Talk",
+            "description": "Apple Inc. Chief Executive Officer Tim Cook called the coronavirus a \u201cchallenge\u201d for the iPhone maker during a pep talk for shareholders at the company\u2019s annual meeting.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/apple-s-cook-calls-coronavirus-a-challenge-at-shareholder-talk",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im_z69SOfBY4/v1/1200x800.jpg",
+            "publishedAt": "2020-02-26T18:37:59Z",
+            "content": "Tim Cook\r\nApple Inc. Chief Executive Officer Tim Cook called the coronavirus a \u201cchallenge\u201d for the iPhone maker during a pep talk for shareholders at the company\u2019s annual meeting.\r\nThe effects of the virus, which have closed factories and stores throughout Ch\u2026 [+2419 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Here's What Is Known About the Coronavirus So Far",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/here-s-what-is-known-about-the-coronavirus-so-far-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T18:06:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Elffie Chew",
+            "title": "Singapore Researchers Make Advances in Coronavirus Test Method",
+            "description": "A medical research team in Singapore has managed to establish links between cases in the city-state using a new testing method.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/singapore-researchers-make-breakthrough-in-coronavirus-testing",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imxQrnCEzZok/v1/1200x800.jpg",
+            "publishedAt": "2020-02-26T00:57:03Z",
+            "content": "A medical research team in Singapore has managed to establish links between cases in the city-state using a new testing method.\r\nUsing a serological test developed by researchers from the Duke-NUS Medical School, the team was able to confirm that two individu\u2026 [+1007 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Danone Says Coronavirus Weighs on Bottled Water Sales",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/danone-cuts-outlook-as-coronavirus-weighs-on-bottled-water-sales",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T06:31:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "What It Means If the Coronavirus Is Called a Pandemic",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/what-it-means-if-the-coronavirus-is-called-a-pandemic-quicktake",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T16:16:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Sound On: South Carolina Debate Preview, Coronavirus (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-26/sound-on-south-carolina-debate-preview-coronavirus-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T00:02:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Democratic Candidates Share Views on How They Would Handle Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/democratic-candidates-share-views-on-how-they-would-handle-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T03:50:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Allianz CEO Says Market Panic Over Coronavirus Isn't Warranted",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/allianz-ceo-says-market-panic-over-coronavirus-isn-t-warranted-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T10:35:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "South Korea Coronavirus Cases May Peak at 10,000, JPMorgan Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/south-korea-coronavirus-cases-may-peak-at-10-000-jpmorgan-says",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T04:38:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Europe Equities Seen to Be More Vulnerable to Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/europe-equities-seen-to-be-more-vulnerable-to-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T09:33:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "New Disney CEO's First Big Challenge Is the Coronavirus Crisis",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/new-disney-ceo-s-first-big-challenge-is-the-coronavirus-crisis",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T07:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "FDA Official Warns Coronavirus on Path to Becoming Pandemic",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/fda-official-warns-coronavirus-on-path-to-becoming-pandemic",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T17:04:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Balance of Power: South Carolina Primary, Coronavirus (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-26/balance-of-power-south-carolina-primary-coronavirus-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T19:16:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Marriott Issues Guidance That Doesn't Account for Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/marriott-issues-guidance-that-doesn-t-account-for-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T21:53:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Nestle Bans Travel by Employees in Radical Coronavirus Response",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/nestle-bans-travel-by-employees-in-radical-coronavirus-response",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T19:43:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "What Coronavirus Means For The Chinese Supply Chain (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-26/what-coronavirus-means-for-the-chinese-supply-chain-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T03:30:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Person Infected With Coronavirus Was at Shin Maru in Tokyo",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/person-infected-with-coronavirus-was-at-shin-maru-in-tokyo-k72ok4tu",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T02:08:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Worker at Japan's Biggest Bank Tests Positive for Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/worker-at-japan-s-biggest-bank-tests-positive-for-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T23:59:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Sound On: 2020, Congress Response to Coronavirus (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-26/sound-on-2020-congress-response-to-coronavirus-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T23:52:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trapped at Home by the Coronavirus, People Turn to Livestreaming",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/trapped-at-home-by-the-coronavirus-people-turn-to-livestreaming",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T21:00:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Iran's Viral Storm",
+            "description": "Iran is now one of the epicenters of the #coronavirus outbreak, with the second-highest death toll after China.\n@Ghoshworld explains why Iran might not have the ability to contained the outbreak (Source: QuickTake)",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/iran-s-viral-storm-video-k73efyvk",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijfZAZx95EWU/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-26T14:13:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Iranian virus official tests positive",
+            "description": "The official running Iran's task force to combat the new coronavirus has tested positive for the virus himself, according to authorities. Iraj Harirchi appeared coughing and wiping sweat while giving a news conference on Monday. (Source: QuickTake)",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/iranian-virus-official-tests-positive-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2suW9vzT1Zk/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-26T11:34:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Boston Children's Hospital Used Data to Create an AI Coronavirus Map",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/how-boston-children-s-hospital-used-data-to-create-an-ai-coronavirus-map-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T23:13:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "A Kiss Is Just a Kiss Except When It Spreads the Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/a-kiss-is-just-a-kiss-except-when-it-spreads-the-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T05:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "This Is What The Coronavirus Means For The Chinese Supply Chain",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/this-is-what-the-coronavirus-means-for-the-chinese-supply-chain",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T09:00:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Handshakes and Kisses Are Out at This Gathering in the Age of Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/handshakes-and-kisses-are-out-at-confab-in-age-of-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T17:54:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Gulf Economies to Suffer as Coronavirus Hurts Oil and Trade, StanChart Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/stanchart-cuts-gulf-2020-growth-as-coronavirus-hurts-oil-trade",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T09:39:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "War Rooms, Gloves and Beds: How U.S. Cities are Preparing for Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/how-to-prepare-for-coronavirus-cities-take-emergency-precautions",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T22:33:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Is Contained in the U.S. Why Are Public Health Officials Worried?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/virus-is-contained-in-the-u-s-why-are-officials-still-worried",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T21:16:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China's Coronavirus Cases Rise to 78,064, Death Toll Rises to 2,715",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-26/china-s-coronavirus-cases-rise-to-78-064-death-toll-rises-to-2-715-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T04:57:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "",
+            "title": "Bloomberg Westminster: Can Sunak Balance The Books?",
+            "description": "Flooding, coronavirus, Brexit. Bloomberg Opinion Columnist Therese Raphael joins to talk about the big issues alongside PMQs. She also tells Bloomberg Westminster\u2019s Roger Hearing and Sebastian Salek that it\u2019s not clear that freeports, a U.K. network of ports \u2026",
+            "url": "https://www.bloomberg.com/news/audio/2020-02-26/bloomberg-westminster-can-sunak-balance-the-books",
+            "urlToImage": "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+            "publishedAt": "2020-02-26T12:51:37Z",
+            "content": "Flooding, coronavirus, Brexit. Bloomberg Opinion Columnist Therese Raphael joins to talk about the big issues alongside PMQs. She also tells Bloomberg Westminsters Roger Hearing and Sebastian Salek that its not clear that freeports, a U.K. network of ports th\u2026 [+334 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Piles More Woes on Business in Italy\u2019s Economic Heartland - Bloomberg",
+            "description": "Coronavirus Piles More Woes on Business in Italy\u2019s Economic Heartland Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/virus-piles-more-woes-on-business-in-italy-s-economic-heartland",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T05:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "S&P 500 Futures Fall on U.S. Virus Case Without Outbreak Ties - Bloomberg",
+            "description": "S&P 500 Futures Fall on U.S. Virus Case Without Outbreak Ties Bloomberg Dow futures sink as US officials warn of coronavirus spread CNN Wall Street falls more slowly as investors parse coronavirus fears Investing.com Dow futures down over 300 points as spread\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b1b649d0-5979-11ea-a540-c3fa0de1390f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0yNi91LXMtc3RvY2stZnV0dXJlcy1mbHVjdHVhdGUtd2l0aC10cnVtcC1hZGRyZXNzaW5nLXZpcnVzLXRocmVhdA==",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T23:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "David Rovella",
+            "title": "Your Evening Briefing",
+            "description": "Get caught up.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/your-evening-briefing",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEytQbLt4B3E/v0/1200x832.jpg",
+            "publishedAt": "2020-02-26T22:46:18Z",
+            "content": "Want to receive this post in your inbox every afternoon? Sign up here\r\nThe coronavirus outbreak is on track to become a pandemic\u00a0with most new cases now arising outside China. Norway has its first case\u00a0as does Brazil. And while there are only 15 confirmed inf\u2026 [+2430 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Luke Kawa",
+            "title": "Volatility Market Signals the Stock Pain Isn't Going Away Soon",
+            "description": "The options market has a message for equity traders: Get used to the mayhem.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/volatility-traders-bet-turmoil-will-get-worse-as-virus-spreads",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irrMUB9IvE1A/v0/1200x900.jpg",
+            "publishedAt": "2020-02-26T21:07:31Z",
+            "content": "The options market has a message for equity traders: Get used to the mayhem.\r\nVolatility has surged to levels not seen in more than a year as investors try to gauge the risks to global growth from the coronavirus\u2019s spread. The VIX Index, which tracks the impl\u2026 [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Manhattan\u2019s Hotel Glut Spooked Buyers, Grinding Sales to a Halt",
+            "description": "There have been no hotels sold in New York City in the three months through January, according to Real Capital Analytics",
+            "url": "https://mercury.bloomberg.com/news/Q6BFAYDWRGG4",
+            "urlToImage": "https://www.nreionline.com/sites/nreionline.com/files/newyork-hotels.jpg",
+            "publishedAt": "2020-02-26T16:29:00Z",
+            "content": "(Bloomberg)Investors have checked out of the New York lodging market.\r\nNo Manhattan hotels changed hands in the three months through January, according to Real Capital Analytics, as a growing supply of the properties limited owners ability to raise room rates\u2026 [+1139 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Shoprite\u2019s Selling Property to Pay for Online, Store Upgrades",
+            "description": "The supermarket chain is conducting sale-leaseback and using the proceeds to invest in online sales.",
+            "url": "https://mercury.bloomberg.com/news/Q6B5D2T1UM11",
+            "urlToImage": "https://www.nreionline.com/sites/nreionline.com/files/shoprite-sa.jpg",
+            "publishedAt": "2020-02-26T16:13:00Z",
+            "content": "(Bloomberg)Sign up Shoprite Holdings Ltd.s decision to sell some properties and lease them back is to free up cash to invest in technology, growing online sales and upgrading supermarkets to offer more fresh food.\r\nThese are the kinds of investments that give\u2026 [+3391 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Ranjeetha Pakiam",
+            "title": "Coronavirus: Investors Pour More Into Gold",
+            "description": "Coronavirus: Investors Pour More Into Gold bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/investors-pour-more-and-more-assets-into-gold-on-virus-alarm",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T07:46:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Lucca De Paoli",
+            "title": "Allianz CEO Says Market Panic Over Coronavirus Isn\u2019t Warranted",
+            "description": "Allianz CEO Says Market Panic Over Coronavirus Isn\u2019t Warranted bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/allianz-ceo-says-market-panic-over-coronavirus-isn-t-warranted",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T11:10:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Takashi Nakamichi",
+            "title": "BOJ Contacts Banks on Preparedness for Coronavirus Outbreak",
+            "description": "BOJ Contacts Banks on Preparedness for Coronavirus Outbreak bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/boj-contacts-banks-on-preparedness-for-coronavirus-outbreak",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T08:59:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Anjani Trivedi",
+            "title": "Coronavirus: Supply-Chain Disruption Looks Like Natural Disasters",
+            "description": "Coronavirus: Supply-Chain Disruption Looks Like Natural Disasters bloomberg.com",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-02-25/coronavirus-supply-chain-disruption-looks-like-natural-disasters",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T01:38:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Spencer Soper",
+            "title": "Amazon Merchants Spooked by Coronavirus Fallout Curtail Ad Spending",
+            "description": "Amazon Merchants Spooked by Coronavirus Fallout Curtail Ad Spending bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/amazon-merchants-spooked-by-coronavirus-fallout-curtail-ad-spending",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T11:32:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "John Follain",
+            "title": "Salvini Demands Aid for Italians Hit by Coronavirus Lockdown",
+            "description": "Italian opposition leader Matteo Salvini accused Prime Minister Giuseppe Conte of underestimating the threat of the coronavirus outbreak and urged the government to earmark at least 10 billion euros ($11 billion) for emergency measures to help businesses and \u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/salvini-demands-aid-for-italians-hit-by-coronavirus-lockdown",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuTYUSJW87B4/v0/1200x800.jpg",
+            "publishedAt": "2020-02-26T15:24:01Z",
+            "content": "Italian opposition leader Matteo Salvini accused Prime Minister Giuseppe Conte of underestimating the threat of the coronavirus outbreak and urged the government to earmark at least 10 billion euros ($11 billion) for emergency measures to help businesses and \u2026 [+4571 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Heesu Lee",
+            "title": "Coronavirus Latest: One South Korean Made the Country's Epidemic",
+            "description": "Barely more than a week ago, South Korea\u2019s coronavirus outbreak appeared to be contained as the number of confirmed infections stabilized at 30. Sensing a turning tide, many Seoul residents took off their surgical masks and resumed riding the subways and shop\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/how-one-patient-turned-korea-s-virus-outbreak-into-an-epidemic",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8ZqHrvEYtyY/v0/1200x800.jpg",
+            "publishedAt": "2020-02-26T14:08:27Z",
+            "content": "Follow Bloomberg on \r\nTelegram for all the investment news and analysis you need.\r\nBarely more than a week ago, South Korea\u2019s coronavirus outbreak appeared to be contained as the number of confirmed infections stabilized at 30. Sensing a turning tide, many Se\u2026 [+6128 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Vivien Lou Chen",
+            "title": "Fed May Cut as Soon as March Based on Market History, BMO Says - Bloomberg",
+            "description": "Market pricing suggests that a Federal Reserve interest-rate cut could be in the cards as soon as March or April, even though the first quarter-point reduction isn\u2019t being fully priced in until around June.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-26/fed-may-cut-as-soon-as-march-based-on-market-history-bmo-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icdkqevNncTQ/v0/1200x900.jpg",
+            "publishedAt": "2020-02-26T20:54:00Z",
+            "content": "Photographer: Joshua Roberts/Bloomberg\r\nMarket pricing suggests that a Federal Reserve interest-rate cut could be in the cards as soon as March or April, even though the first quarter-point reduction isn\u2019t being fully priced in until around June.\r\nThat\u2019s the \u2026 [+2476 chars]"
+        }
+    ]
+}
