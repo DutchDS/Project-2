@@ -6,4 +6,4 @@ select date,
     from daily_stats_world 
     where country <> 'China' 
     group by date, country
-    order by date, country  
+    order by date, country
