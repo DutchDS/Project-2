@@ -121,9 +121,10 @@ def bar_chart_world():
     result_set = engine.execute(query_text)
     
     all_results = []
-    for date, conf_count, cured_count, dead_count in result_set:
+    for date, country, conf_count, cured_count, dead_count in result_set:
         results_dict = {}
         results_dict["date"] = date
+        results_dict["country"] = country
         results_dict["conf_count"] = conf_count
         results_dict["cured_count"] = cured_count
         results_dict["dead_count"] = dead_count

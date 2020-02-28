@@ -1,13 +1,36 @@
 // var url = "/api/bar_china/file.json";
 var url = "/api/bar_world";
+var get_shape = d3.select("#selectShape");
 
-function get_data() {d3.json(url).then(function(response) {
+function get_data(country) {d3.json(url).then(function(response) {
     console.log("in the d3.json NEW part")
     console.log(response);
-    create_chart(response)
+
+    var shortShapes = []
+    var today = new Date()
+    var yesterday =  formatDate(today.setDate(today.getDate() - 1));
+
+    for (var i in response) {
+        if (response[i].date == yesterday)
+            shortShapes.push(response[i].country)
+        }
+
+    var chart_data = []   
+
+    console.log(country)
+    if (country == "all")
+        chart_data = response
+    else
+        chart_data =  response.filter(response => {return response.country == country});
+
+    console.log(shortShapes)        
+    loadDropDowns("#selectShape",shortShapes,"Select Country");
+    create_chart(chart_data)
 })}
 
-get_data();
+
+var country = 'all'
+get_data(country);
 console.log("went through the world_bar script")
 
 // THIS WORKS WITH VERSION 4, BUT ISN'T USING FLASK
@@ -23,7 +46,7 @@ function create_chart(bar_data) {
     bar_dead = []
 
     for (var i in bar_data) {
-        console.log(bar_data[i])
+        // console.log(bar_data[i])
         bar_confirmed.push(bar_data[i].conf_count)
         bar_cured.push(bar_data[i].cured_count)
         bar_dates.push(bar_data[i].date)
@@ -100,3 +123,40 @@ var barLayout = {
     Plotly.newPlot("bar", barData, barLayout);
     console.log("Plot done")
 }
+
+function loadDropDowns(myId, myshortList, myText) {
+    // var tbody = d3.select("tbody");
+    var inputDate = d3.select(myId) 
+   
+    inputDate.html(" ");
+  
+    console.log(myshortList);
+    var cell = inputDate.append("option").text(myText);
+    
+    myshortList.forEach((f) => {
+      console.log(f);
+      var cell = inputDate.append("option")
+      cell.text(f);
+  
+      });
+    };
+
+function formatDate(date) {
+    var d = new Date(date),
+        month = '' + (d.getMonth() + 1),
+        day = '' + d.getDate(),
+        year = d.getFullYear();
+    
+    if (month.length < 2) 
+        month = '0' + month;
+    if (day.length < 2) 
+        day = '0' + day;
+    
+    return [year, month, day].join('-');
+    }
+
+    get_shape.on("change", function() {
+        let inputValueShape = d3.select("#selectShape").property("value");
+        country = inputValueShape
+        console.log(country)
+        get_data(country)});
