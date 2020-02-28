@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "James Crowley",
+            "title": "Massachusetts Reports First Confirmed Case of Coronavirus",
+            "description": "The Massachusetts Department of Public Health confirmed the first case of the coronavirus in the state, and the eighth in the United States.",
+            "url": "https://www.newsweek.com/coronavirus-confirmed-massachusetts-february-1-2020-1485247",
+            "urlToImage": "https://d.newsweek.com/en/full/1564380/coronavirus.jpg",
+            "publishedAt": "2020-02-01T20:50:26Z",
+            "content": "The Massachusetts Department of Public Health confirmed Saturday the first case of the coronavirus in the state.\r\nIn its press release, the DPH announced that a Boston man returning from Wuhan, China was diagnosed late on Friday night. The man sought medical \u2026 [+2307 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Khaleda Rahman",
+            "title": "Coronavirus Fears Cost Family $32,000 As Cruise Ship Company Won't Give Refund, Says Insurance Doesn't Cover Epidemics",
+            "description": "Pua Morrison said she and seven family members paid $4,000 each for a cruise with Norwegian Cruise Line that departs in the next couple of days and stops in Hong Kong.",
+            "url": "https://www.newsweek.com/hawaii-family-lose-thousands-cancel-cruise-china-coronavirus-1485228",
+            "urlToImage": "https://d.newsweek.com/en/full/1564347/norwegian.jpg",
+            "publishedAt": "2020-02-01T16:29:57Z",
+            "content": "A Hawaii family is losing the $32,000 they spent on a cruise to China after cancelling the trip due to their concerns over the coronavirus.\r\nPua Morrison, from Maui, said she and seven family members paid $4,000 each for a cruise with Norwegian Cruise Line th\u2026 [+3246 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Khaleda Rahman",
+            "title": "Coronavirus Fears Prompt U.S. to Block Travelers From China Over Public Health Emergency: What You Need to Know",
+            "description": "The U.S. will temporarily deny entry to foreign nationals, except the immediate family members of U.S. citizens and permanent residents, who have traveled in China in the past two weeks.",
+            "url": "https://www.newsweek.com/coronavirus-fears-promote-us-block-travelers-china-1485205",
+            "urlToImage": "https://d.newsweek.com/en/full/1564327/coronavirus-outbreak.jpg",
+            "publishedAt": "2020-02-01T12:57:39Z",
+            "content": "Fears over the spread of the coronavirus has prompted the U.S. to block foreign nationals entering the country from China and declare a public health emergency.\r\nPresident Donald Trump signed a presidential proclamation to temporarily deny entry to foreign na\u2026 [+3790 chars]"
+        }
+    ]
+}

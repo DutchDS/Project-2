@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: WHO concern at cases outside China",
+            "description": "The comments come as Iran confirms two more deaths and says the virus may have spread to \"all cities\".",
+            "url": "https://www.bbc.co.uk/news/world-asia-51591091",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/118EF/production/_110991917_mediaitem110991916.jpg",
+            "publishedAt": "2020-02-21T17:20:04Z",
+            "content": "Image copyrightEPAImage caption\r\n Lebanon has confirmed its first case - a woman returning from the Iranian city of Qom\r\nThe head of the World Health Organization (WHO) has expressed concern at the number of coronavirus cases with no clear link to China or ot\u2026 [+6964 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "South Korea Coronavirus: Concern in Daegu as cases rise",
+            "description": "More than 200 cases of coronavirus have been confirmed in South Korea, with many linked to a religious group.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-51587160/south-korea-coronavirus-concern-in-daegu-as-cases-rise",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2560/production/_110986590_p084631f.jpg",
+            "publishedAt": "2020-02-21T11:42:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Ukraine protesters attack buses carrying China evacuees",
+            "description": "President Volodymyr Zelensky urged people to show solidarity and remember \"we are all human\".",
+            "url": "https://www.bbc.co.uk/news/world-europe-51581805",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1A98/production/_110980860_d8f35f38-beb4-4153-99d8-7e57414799c4.jpg",
+            "publishedAt": "2020-02-21T00:44:25Z",
+            "content": "Image copyrightReutersImage caption\r\n Protesters in Novi Sanzhary hurled stones at the buses carrying evacuees\r\nDozens of protesters in a Ukrainian town have attacked buses carrying evacuees from coronavirus-hit China.\r\nThe evacuees were being brought to the \u2026 [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus outbreak to cost airlines almost $30bn",
+            "description": "Airline industry body IATA predicts global air travel demand will fall for the first time since 2009.",
+            "url": "https://www.bbc.co.uk/news/business-51499779",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/134E4/production/_110967097_gettyimages-1197653137.jpg",
+            "publishedAt": "2020-02-21T02:21:24Z",
+            "content": "Image copyrightGetty Images\r\nAirlines stand to lose $29.3bn (\u00a323.7bn) of revenue this year due to the coronavirus outbreak, the global airline industry body has warned.\r\nThe International Air Transport Association (IATA) predicts demand for air travel will fa\u2026 [+1637 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US business levels fall sharply amid coronavirus",
+            "description": "Activity fell last month for the first time since 2013, according to a closely watched survey.",
+            "url": "https://www.bbc.co.uk/news/business-51591070",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92F3/production/_110991673_barrista-us-services.jpg",
+            "publishedAt": "2020-02-21T16:58:01Z",
+            "content": "Image copyrightGetty Images\r\nBusiness activity in the US services sector fell last month for the first time since 2013, hurt by the coronavirus, according to a survey.\r\nThe drop came amid a \"notable worsening\" in the services sector, which includes finance an\u2026 [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Car sales in China fall 92% in February",
+            "description": "Car dealerships remain closed and buyers stay away as the coronavirus outbreak takes its toll on sales.",
+            "url": "https://www.bbc.co.uk/news/business-51583348",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10958/production/_110982976_chinacarshowroom_getty.jpg",
+            "publishedAt": "2020-02-21T08:27:13Z",
+            "content": "Image copyrightGetty Images\r\nCar sales in China fell 92% in the first half of February as the coronavirus shutdown took its toll, according to an industry trade body.\r\nCar dealerships have remained closed while buyers have stayed away to prevent the spread of\u2026 [+1024 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Britons on Diamond Princess cruise ship to disembark and fly home",
+            "description": "After 16 days of quarantine, more than 70 UK citizens can leave for a flight home from Japan.",
+            "url": "https://www.bbc.co.uk/news/uk-51581245",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27E0/production/_110980201_gettyimages-1207490741.jpg",
+            "publishedAt": "2020-02-21T00:43:50Z",
+            "content": "Image copyrightGetty Images\r\nBritons trapped on a coronavirus-hit cruise ship in Japan are preparing to disembark after 16 days of quarantine.\r\nAbout 70 UK nationals are expected to leave the ship and board a repatriation flight on Friday.\r\nThey are due to la\u2026 [+5385 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Evacuation flight for Britons on Diamond Princess takes off",
+            "description": "UK nationals who have been quarantined on the liner for 16 days are being flown out of Japan.",
+            "url": "https://www.bbc.co.uk/news/uk-51594507",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/297B/production/_110991601_060110873-1.jpg",
+            "publishedAt": "2020-02-21T23:40:22Z",
+            "content": "Image copyrightReutersImage caption\r\n British passengers were seen leaving the cruise ship by coach\r\nA plane carrying Britons who had been trapped on a coronavirus-hit cruise ship in Japan has taken off on its way to the UK, the Foreign Office has said.\r\nSome\u2026 [+1896 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Ethiopian student living in Wuhan",
+            "description": "Hanok Andamariam is an Ethiopian student in Wuhan, the city at the centre of the coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/news/av/world-africa-51588040/coronavirus-ethiopian-student-living-in-wuhan",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E04/production/_110988530_p0846lmy.jpg",
+            "publishedAt": "2020-02-21T11:56:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "SA pulls Olympic team out of Japan friendly over coronavirus fears",
+            "description": "South Africa will not send its Olympic football team to Japan for a friendly in March amid concerns over the coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/sport/africa/51585878",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/103F4/production/_110984566_gettyimages-1183188760.jpg",
+            "publishedAt": "2020-02-21T16:41:44Z",
+            "content": "South Africa were due to play Japan in a friendly in March.\r\nSouth Africa will not send its Olympic football team to Japan to play a friendly in March because of concerns over the coronavirus outbreak.\r\nThe two teams were due to play in Sanga on 27 March, fou\u2026 [+1034 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Pregnant nurse 'propaganda' sparks backlash",
+            "description": "The nine-month-pregnant nurse was portrayed as heroic for continuing to work on the frontlines.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51583186",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0080/production/_110982100_gettyimages-2866677.jpg",
+            "publishedAt": "2020-02-21T08:48:40Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Some have accused media outlets of using female medical workers as a \"propaganda tool\"\r\nA video featuring a pregnant nurse treating patients in a hospital in the virus epicentre of Wuhan has sparked a backlash across\u2026 [+3244 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: South Korea steps up measures as infections spike",
+            "description": "The PM calls the development an \"emergency\" situation, and two cities are declared \"special care zones\".",
+            "url": "https://www.bbc.co.uk/news/world-asia-51582186",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/013E/production/_110981300_752e2b0d-bd77-41d0-917c-89958115b75e.jpg",
+            "publishedAt": "2020-02-21T03:36:40Z",
+            "content": "Image copyrightReutersImage caption\r\n South Korea has seen its confirmed cases spike over the past two days\r\nSouth Korea has stepped up measures to contain the spread of the new coronavirus, as confirmed infections rose sharply for a second day. \r\nPrime Minis\u2026 [+3737 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: Millane killer jailed and coronavirus evacuees attacked",
+            "description": "Your morning briefing for Friday 21 February 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51570100",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4536/production/_110981771_hi060087979.jpg",
+            "publishedAt": "2020-02-21T06:20:53Z",
+            "content": "If you want to get this briefing by email, sign up here\r\nImage copyrightGetty Images\r\nGrace Millane's mum confronts killer\r\n\"You have ripped a hole in my heart, one that will never be repaired.\" The words of Gillian Millane, delivered via video-link to an Auc\u2026 [+4929 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: 'Narrowing window' to contain outbreak",
+            "description": "The head of the World Health Organisation is warning that the world is at a tipping point with respect to the coronavirus outbreak. Also in the programme: North Korean Defectors and how bee intelligence can help us in unpredictable ways. (Photo: A medical tea\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq569zd8254",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p084871v.jpg",
+            "publishedAt": "2020-02-21T22:02:00Z",
+            "content": "The head of the World Health Organisation is warning that the world is at a tipping point with respect to the coronavirus outbreak.Also in the programme: North Korean Defectors and how bee intelligence can help us in unpredictable ways.\r\n(Photo: A medical tea\u2026 [+87 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: South Korea 'emergency' measures as infections increase",
+            "description": "The country's army is on lockdown after several soldiers tested positive. After Hanau attacks, Germany boosts security amid far-right threat. Lesotho's Prime Minister fails to appear in court to face charges of murdering his estranged wife.",
+            "url": "https://www.bbc.co.uk/programmes/p084720x",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-21T15:14:00Z",
+            "content": "The country's army is on lockdown after several soldiers tested positive. After Hanau attacks, Germany boosts security amid far-right threat. Lesotho's Prime Minister fails to appear in court to face charges of murdering his estranged wife."
+        }
+    ]
+}

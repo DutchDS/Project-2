@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Adam Vaughan",
+            "title": "Coronavirus infections spike to 15,000 new Chinese cases in a day",
+            "description": "China has reported a massive increase in the number of its citizens infected by the new coronavirus, after Chinese officials changed how cases were defined to include people who are less seriously ill",
+            "url": "https://www.newscientist.com/article/2233533-coronavirus-infections-spike-to-15000-new-chinese-cases-in-a-day/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/13110140/pa-50289810_web.jpg",
+            "publishedAt": "2020-02-13T11:19:31Z",
+            "content": "By Adam Vaughan\r\nChinese nurses wearing protective clothing in Wuhan, China\r\nCostfoto/PA Images\r\nChina has reported a massive increase in the number of its citizens infected by the new coronavirus, after officials there changed how cases were defined. The num\u2026 [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Adam Kucharski",
+            "title": "How maths is revealing undetected cases of the new coronavirus",
+            "description": "Getting a full picture of the coronavirus outbreak is extremely difficult. Maths can help fill in some of the gaps, says Adam Kucharski",
+            "url": "https://www.newscientist.com/article/2233386-how-maths-is-revealing-undetected-cases-of-the-new-coronavirus/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/13105820/pa-50191395_web.jpg",
+            "publishedAt": "2020-02-13T11:10:12Z",
+            "content": "By Adam Kucharski\r\nMaths can help better understand the spread of the new corona virus\r\nXiao Yijiu/Xinhua News Agency/PA Images\r\nBack in mid-January, the current coronavirus outbreak was merely an unusual cluster of pneumonia cases. At least, that is what the\u2026 [+3800 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Adam Kucharski",
+            "title": "Coronavirus: How maths is helping to answer crucial covid-19 questions",
+            "description": "Getting a full picture of the coronavirus outbreak is extremely difficult. Maths can help fill in some of the gaps, says Adam Kucharski",
+            "url": "https://www.newscientist.com/article/2233386-coronavirus-how-maths-is-helping-to-answer-crucial-covid-19-questions/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/13105820/pa-50191395_web.jpg",
+            "publishedAt": "2020-02-13T11:10:12Z",
+            "content": "By Adam Kucharski\r\nMaths can help better understand the spread of the new corona virus\r\nXiao Yijiu/Xinhua News Agency/PA Images\r\nBack in mid-January, the current coronavirus outbreak was merely an unusual cluster of pneumonia cases. At least, that is what the\u2026 [+3800 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Alice Klein",
+            "title": "We'll soon know if covid-19 can be treated with HIV and Ebola drugs",
+            "description": "The results of clinical trials testing HIV and Ebola drugs in Chinese patients with covid-19, the disease caused by the new coronavirus, should be known in the next few weeks",
+            "url": "https://www.newscientist.com/article/2233510-well-soon-know-if-covid-19-can-be-treated-with-hiv-and-ebola-drugs/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/01/30175601/c0481648-pharmacy_during_coronavirus_outbreak_in_china_2020-spl.jpg",
+            "publishedAt": "2020-02-13T09:34:20Z",
+            "content": "By Alice Klein\r\nPharmacy employees in Shanghai, China during the coronavirus outbreak\r\nCredit EDWIN REMSBERG, VW PICS / SCIENCE PHOTO LIBRARY\r\nThe results of two clinical trials testing whether HIV and Ebola drugs are effective at treating the symptoms of cov\u2026 [+3080 chars]"
+        }
+    ]
+}

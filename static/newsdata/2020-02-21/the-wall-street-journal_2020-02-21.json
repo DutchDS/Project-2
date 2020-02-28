@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Reporting on Epidemic Under China's Watchful Eye...",
+            "description": "Reporting on Epidemic Under China's Watchful Eye... (Second column, 3rd story, link ) Related stories: Coronavirus-themed party stirs anger at college! Thousands of Americans in voluntary quarantine... Confusion mounts over counting methods... Another hotspot\u2026",
+            "url": "https://www.wsj.com/articles/quarantined-reporting-on-an-epidemic-under-chinas-watchful-eye-11582301786",
+            "urlToImage": "https://images.wsj.net/im-156410/social",
+            "publishedAt": "2020-02-21T18:22:38Z",
+            "content": "This article is based on the experiences of Wall Street Journal reporters Stephanie Yang, Shan Li and James T. Areddy, as recounted by Ms. Yang. \r\nArriving at a hotel on Jan. 26 in a city about 200 miles from Wuhan, our plan was set. My colleague Shan Li and \u2026 [+157 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Paul Hannon, Amara Omeokwe",
+            "title": "Coronavirus Hits US Business Activity - The Wall Street Journal",
+            "description": "Surveys indicate February U.S. output fell to lowest level in more than six years as global economies started to feel effects of China\u2019s virus outbreak",
+            "url": "https://www.wsj.com/articles/coronavirus-impact-on-global-economy-more-muted-than-expected-11582285372",
+            "urlToImage": "https://images.wsj.net/im-156477/social",
+            "publishedAt": "2020-02-21T16:12:00Z",
+            "content": "U.S. business activity in February fell to its lowest level in more than six years as companies pulled back on fears that Chinas coronavirus outbreak would slow global growth, according to private survey data released Friday.\r\nData firm IHS Markit said its U.\u2026 [+276 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jing Yang",
+            "title": "Why Many Businesses Will Be on the Hook for Coronavirus Losses - The Wall Street Journal",
+            "description": "Burned by SARS, insurers across the board now exclude epidemics in standard business-interruption policies",
+            "url": "https://www.wsj.com/articles/why-many-businesses-will-be-on-the-hook-for-coronavirus-losses-11582282802",
+            "urlToImage": "https://images.wsj.net/im-156460/social",
+            "publishedAt": "2020-02-21T11:00:00Z",
+            "content": "The coronavirus is proving costly for global businessand insurance wont be much help.\r\nWith large parts of China in lockdown and other Asian countries on high alert, the virus, which causes an acute respiratory disease called Covid-19, has disrupted shops, ho\u2026 [+135 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Akane Otani",
+            "title": "Tech and Utilities Stocks Both Rally in Polarized Market - The Wall Street Journal",
+            "description": "Two best-performing sectors in S&P 500 in 2020 typically move in opposite directions",
+            "url": "https://www.wsj.com/articles/tech-and-utilities-stocks-both-rally-in-polarized-market-11582308228",
+            "urlToImage": "https://images.wsj.net/im-156558/social",
+            "publishedAt": "2020-02-21T18:03:00Z",
+            "content": "Risky investments have rallied this year. So have safe ones.\r\nThe tug of war across financial markets shows just how divided the outlook among investors is as they struggle to assess the economic toll of the growing coronavirus epidemic.\r\nWithin the stock mar\u2026 [+86 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Matt Wirz",
+            "title": "U.S. Long-Bond Yield Hits All-Time Low - The Wall Street Journal",
+            "description": "U.S. Long-Bond Yield Hits All-Time Low The Wall Street Journal Here\u2019s three reasons why the 30-year Treasury yield plunged to a record low MarketWatch Stock market news live: Stocks fall, Treasury yields slump amid ongoing coronavirus fears Yahoo Finance US s\u2026",
+            "url": "https://www.wsj.com/articles/u-s-treasury-yields-drop-sharply-as-slowdown-fears-rise-11582302799",
+            "urlToImage": "https://images.wsj.net/im-156557/social",
+            "publishedAt": "2020-02-21T17:18:00Z",
+            "content": "U.S. Treasury yields fell sharply Friday as a flight to safety drove global investors into the government securities.\r\nThe intraday yield of the benchmark 30-year bond fell to a record of 1.889%, well below the previous all-time low of 1.905% in late August, \u2026 [+132 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Alastair Gale",
+            "title": "Japan Limits Large Gatherings to Thwart Coronavirus - The Wall Street Journal",
+            "description": "Japan Limits Large Gatherings to Thwart Coronavirus The Wall Street Journal China Virus: Supermarkets Fight to Stay Open Amid Coronavirus Outbreak QuickTake by Bloomberg China stocks rise as Beijing says work resumption is speeding up CNBC Stress, rumors, eve\u2026",
+            "url": "https://www.wsj.com/articles/coronavirus-hit-japan-limits-large-gatherings-11582282621",
+            "urlToImage": "https://images.wsj.net/im-156474/social",
+            "publishedAt": "2020-02-21T15:03:00Z",
+            "content": "TOKYOJapan has begun suspending major public gatherings to counter the spread of Covid-19 as the number of new cases rises quickly and makes the country one of the biggest sites of infection outside China.\r\nOn Friday, the Tokyo metropolitan government said it\u2026 [+200 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ Staff",
+            "title": "WSJ Wealth Adviser Briefing: Emerging Market Bonds, Energy Firms\u2019 Debt, High Garlic Prices",
+            "description": "Emerging-market companies sold a record amount of foreign-currency debt this year; energy companies amassed a looming debt burden, and garlic prices have risen because of the coronavirus-related supply chain disruptions.",
+            "url": "https://blogs.wsj.com/moneybeat/2020/02/21/wsj-wealth-adviser-briefing-emerging-market-bonds-energy-firms-debt-high-garlic-prices/",
+            "urlToImage": "https://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social",
+            "publishedAt": "2020-02-21T11:00:43Z",
+            "content": "Feb 21, 2020 6:00 am ET\r\n Banks, insurers and other financial companies say efforts to expand their use of artificial intelligence are being hampered by a scarcity of data and talent, according to a report from the University of Cambridge and the World Econom\u2026 [+104 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Coronavirus Hits Companies in China, But They Still Have Reason to Stay",
+            "description": "Coronavirus and trade tensions are testing the stability of global supply chains. While that\u2019s pushed some businesses to consider loosening their ties with China, WSJ explains why leaving the \u201cfactory of the world\u201d is easier said than done. Photo: China Daily\u2026",
+            "url": "https://www.wsj.com/video/coronavirus-hits-companies-in-china-but-they-still-have-reason-to-stay/8B2FC739-34DB-4147-9B5C-808B3BB03089.html",
+            "urlToImage": "http://m.wsj.net/video/20200221/022120globalsupply/022120globalsupply_1280x720.jpg",
+            "publishedAt": "2020-02-21T14:37:11Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Coronavirus Spreads in South Korea",
+            "description": "At least one person has died and the number of confirmed coronavirus cases has risen in South Korea, where authorities have decided to put in place special measures against the spread of the virus. Photo: Kim Jun-beom/Associated Press",
+            "url": "https://www.wsj.com/video/coronavirus-spreads-in-south-korea/BC1E2339-0D5C-4DFC-A5C7-AA2BA65114EA.html",
+            "urlToImage": "http://m.wsj.net/video/20200221/022120_koreacorona_v3/022120_koreacorona_v3_1280x720.jpg",
+            "publishedAt": "2020-02-21T14:22:41Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Chinese diasporas on edge over coronavirus",
+            "description": "Chinese overseas are concerned for their own health and that of their families back home.",
+            "url": "https://www.bbc.co.uk/news/51245373",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17B00/production/_110642079_gettyimages-1195417045.jpg",
+            "publishedAt": "2020-01-24T23:33:38Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n China marks lunar New Year in the shadow of virus outbreak\r\nHours after the first case of coronavirus was confirmed in the US, surgical masks began selling out at the pharmacies in Seattle, where a resident recently \u2026 [+4129 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Six maps and graphics to explain the outbreak",
+            "description": "Six maps and graphics explaining how the respiratory virus has spread and how it is being dealt with.",
+            "url": "https://www.bbc.co.uk/news/world-51235105",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E68F/production/_110632095_gettyimages-1195416978.jpg",
+            "publishedAt": "2020-01-24T22:13:18Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Residents in some areas, including this police officer standing in front of an advertising billboard, have been told to wear facemasks\r\nA new respiratory virus first detected in the Chinese city of Wuhan has infected\u2026 [+6746 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: How is the Chinese city under lockdown coping with the outbreak?",
+            "description": "There has been criticism that authorities were too slow to respond and contain the virus.",
+            "url": "https://www.bbc.co.uk/news/world-asia-51224504",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/185F9/production/_110633899_gettyimages-1195348191.jpg",
+            "publishedAt": "2020-01-24T16:27:09Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Outbound trains in Wuhan have been stopped\r\nThere have been widely-shared reports on social media and some state-run services that healthcare services in Wuhan - one of China's largest cities - are under strain follo\u2026 [+4481 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Second coronavirus case confirmed in the US",
+            "description": "The woman felt symptoms after returned home to Chicago from Wuhan, where the outbreak began.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-51213188",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/107FF/production/_110638576_gettyimages-1201641468.jpg",
+            "publishedAt": "2020-01-24T15:42:15Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n In China, the virus has put millions of people on mandatory lockdown\r\nA second person in the US has been diagnosed with the coronavirus, the US Centers for Disease Control and Prevention (CDC) has announced.\r\nThe pat\u2026 [+310 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China coronavirus: Five tested in Scotland given all-clear",
+            "description": "The patients were tested for coronavirus as a precaution after returning from China with respiratory problems.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51241245",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/695D/production/_110637962_mediaitem110637960.jpg",
+            "publishedAt": "2020-01-24T15:34:33Z",
+            "content": "Image copyrightEPAImage caption\r\n People are taking precautions against the virus around the world\r\nFive people being tested for coronavirus in Scotland have been given the all-clear.\r\nThe chief medical officer for England confirmed that all 14 people tested \u2026 [+398 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China coronavirus: Lunar New Year subdued as outbreak spreads",
+            "description": "Travel restrictions are being expanded in parts of China, as millions go home for the holidays.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51240355",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08197nl.png",
+            "publishedAt": "2020-01-24T15:19:33Z",
+            "content": "Media playback is unsupported on your device\r\nMedia captionWhat's life like in quarantined Wuhan?\r\nChina is marking the Lunar New Year, one of the most important dates in its calendar, while concerns grow about the coronavirus outbreak.\r\nAs millions go home f\u2026 [+4881 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "WHO says it's too early to declare a global epidemic",
+            "description": "Coronavirus in China has killed 26 people and infected more than 800; In Iraq, tens of thousands of people march to demand the removal of US troops; There are fears about huge swarms of locusts in East Africa which are destroying crops:",
+            "url": "https://www.bbc.co.uk/programmes/p0819kvr",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-01-24T15:16:00Z",
+            "content": "Coronavirus in China has killed 26 people and infected more than 800; In Iraq, tens of thousands of people march to demand the removal of US troops; There are fears about huge swarms of locusts in East Africa which are destroying crops:"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "'We've got enough food and water to last 10 days'",
+            "description": "Chinese nationals in Wuhan on the hopes and fears during life in a locked-down city of 11 million.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51236450",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11899/production/_110633817_059398759-1.jpg",
+            "publishedAt": "2020-01-24T12:39:10Z",
+            "content": "Image copyrightReutersImage caption\r\n Police have been inspecting vehicles at toll stations outside Wuhan, China\r\nWhat is life like for those from the Chinese city at the centre of the coronavirus outbreak?\r\nBBC Chinese has been talking to the locals still li\u2026 [+3029 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: World Health Organisation on China response",
+            "description": "The Western Pacific regional director says the country now has \u201cstronger capacity\u201d to deal with infectious outbreaks.",
+            "url": "https://www.bbc.co.uk/news/av/world-51237005/coronavirus-world-health-organisation-on-china-response",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C1D/production/_110633727_p0818nlw.jpg",
+            "publishedAt": "2020-01-24T11:44:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: British artist given all clear after China return",
+            "description": "Michael Hope developed \"a nasty cough\" on returning to Newcastle from Wuhan where he worked.",
+            "url": "https://www.bbc.co.uk/news/uk-england-51233915",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/490F/production/_110630781_be86d2ca-281f-43a4-83b6-717d0d7cd9d6.jpg",
+            "publishedAt": "2020-01-24T09:37:47Z",
+            "content": "Image copyrightMichael HopeImage caption\r\n Artist Michael Hope has been living in Wuhan for a year and a half\r\nA British artist who spent two days in quarantine with suspected coronavirus before being given the all clear has said he fears for his friends in C\u2026 [+4146 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Ramirez-Postol bout called off because of coronavirus in China",
+            "description": "Jose Ramirez's unified WBC and WBO light-welterweight title defence against Vikto Postol is postponed because of the coronavirus outbreak in China.",
+            "url": "https://www.bbc.co.uk/sport/boxing/51233823",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/E3BF/production/_110630385_gettyimages-935065672.jpg",
+            "publishedAt": "2020-01-24T09:28:33Z",
+            "content": "Jose Ramirez (pictured) could take on Britain's Josh Taylor in a unification fight if he beats Viktor Postol\r\nJose Ramirez's unified WBC and WBO light-welterweight title defence against Viktor Postol has been postponed because of the coronavirus outbreak in C\u2026 [+600 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Scotland's papers: Scotland on 'high alert' over 'snake flu'",
+            "description": "A health alert over patients being tested in Scotland for the coronavirus makes the front pages.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51233161",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7910/production/_110629903_sdm.jpg",
+            "publishedAt": "2020-01-24T07:01:24Z",
+            "content": "Virus death toll rises as more cities shut downAt least 10 cities have travel restrictions imposed, as authorities say 26 people have died so far."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: UK tests for China virus and US rejects Harry Dunn case extradition",
+            "description": "Your morning briefing for 24 January 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51219086",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14944/production/_110629248_hi059352016.jpg",
+            "publishedAt": "2020-01-24T06:34:24Z",
+            "content": "If you want to get this briefing by email, sign up here\r\nImage copyrightEPAImage caption\r\n The UK is monitoring direct flights arriving from China as a precaution\r\nUK tests 14 as China battles to contain virus\r\nAs China battles to contain a deadly coronavirus\u2026 [+5294 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "Bbc News",
+            "title": "Coronavirus: What's the difference between pandemic and epidemic?",
+            "description": "Concerns are growing that the recently-detected coronavirus may spread. Dr Rosalind Eggo explains.",
+            "url": "https://www.bbc.co.uk/news/av/health-51224894/coronavirus-what-s-the-difference-between-pandemic-and-epidemic",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DCF2/production/_110626565_p081762p.jpg",
+            "publishedAt": "2020-01-24T06:12:45Z",
+            "content": "VideoConcerns are growing that the recently-detected coronavirus may spread. Dr Rosalind Eggo explains."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China's travel industry counts cost of coronavirus",
+            "description": "Airlines and hotels are having to pay out refunds to tourists affected by the deadly outbreak.",
+            "url": "https://www.bbc.co.uk/news/business-51232374",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1674E/production/_110628919_gettyimages-1195418012.jpg",
+            "publishedAt": "2020-01-24T06:04:46Z",
+            "content": "Image copyrightGetty Images\r\nAs public health concerns rise over a new virus, the impact is being felt by China's travel and tourism sector.\r\nMore than 400m Chinese were expected to travel over the Lunar New Year which starts today, normally one of the busies\u2026 [+2729 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China coronavirus: 14 people in UK tested for new strain",
+            "description": "Five people tested negative while nine others are waiting for results, says Public Health England.",
+            "url": "https://www.bbc.co.uk/news/uk-51232163",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/177C0/production/_110629169_hi059351151.jpg",
+            "publishedAt": "2020-01-24T05:09:02Z",
+            "content": "Image copyrightEPAImage caption\r\n A health team are available at Heathrow Airport for travellers from China\r\nMore than a dozen people in the UK have been tested for the new strain of coronavirus, Public Health England has said.\r\nFive people have tested negati\u2026 [+4591 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Chinese embassy in Paris finds woman who 'cheated' checks",
+            "description": "The woman boasted about taking medicine to bring her temperature down in order to clear customs.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51231593",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1529A/production/_110628668_005uquosly1gb6dfhw8lwj30dt0ltjt9.jpg",
+            "publishedAt": "2020-01-24T03:09:52Z",
+            "content": "Image copyrightWeiboImage caption\r\n She posted pictures of her meal on social media platform WeChat\r\nThe Chinese embassy in Paris has tracked down a woman from Wuhan who said she took tablets to pass airport health checks.\r\nThe woman boasted on social media t\u2026 [+2609 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: 'I\u2019m terrified\u2026 it's way out of control'",
+            "description": "Lele should be getting ready for Lunar New Year. Instead she doesn't want to leave her house.",
+            "url": "https://www.bbc.co.uk/news/newsbeat-51227964",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/159F2/production/_110626588_corona2.png",
+            "publishedAt": "2020-01-24T00:55:55Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n A file photo of family in Wuhan - not Lele\r\nIt should have been a time for \"Lele\" and her family to have fun, and relax in each other's company. \r\nBut this year, for the upcoming Lunar New Year holiday in China, the \u2026 [+2946 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China coronavirus: The lessons learned from the Sars outbreak",
+            "description": "Almost two decades after Sars, a new mystery virus puts China back in the global spotlight.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51221394",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C05A/production/_110624294_gettyimages-157005234.jpg",
+            "publishedAt": "2020-01-24T00:45:57Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n China was accused of covering-up the Sars epidemic\r\nIn March 2003 it became clear a mysterious and previously unknown disease was starting to spread around the world. \r\nSevere Acute Respiratory Syndrome (Sars) went o\u2026 [+9640 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What's the difference between pandemic and epidemic?",
+            "description": "Concerns are growing that the recently-detected coronavirus may spread. Dr Rosalind Eggo explains.",
+            "url": "https://www.bbc.co.uk/news/av/health-51224894/what-s-the-difference-between-pandemic-and-epidemic",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DCF2/production/_110626565_p081762p.jpg",
+            "publishedAt": "2020-01-24T00:09:07Z",
+            "content": "VideoConcerns are growing that the recently-detected coronavirus may spread. Dr Rosalind Eggo explains."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Update: WHO Confirms over 2,000 COVID-19 Fatalities as Two Quarantined Cruise Ship Passengers Die",
+            "description": "The Diamond Princess passengers were taken to hospital after showing symptoms of the coronavirus.",
+            "url": "https://www.newsweek.com/coronavirus-update-death-toll-cruise-ship-1488169",
+            "urlToImage": "https://d.newsweek.com/en/full/1568238/coronavirus-covid19-2019ncov-china-wuhan-hubei.jpg",
+            "publishedAt": "2020-02-20T10:05:33Z",
+            "content": "Over 2,000 people have died of the new coronavirusincluding two former passengers of a quarantined cruise shipin more than 75,000 cases, according to health officials.\r\nIn its latest report on COVID-19 released Wednesday, the World Health Organization (WHO) s\u2026 [+3627 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Asia Flight Prices Drop as Coronavirus Fears Discourage People From Traveling",
+            "description": "Several airlines are offering lower prices for flights to Asia, while others have reduced their services to the region due to falling demand.",
+            "url": "https://www.newsweek.com/asia-flight-prices-drop-coronavirus-fears-discourage-people-traveling-1488230",
+            "urlToImage": "https://d.newsweek.com/en/full/1568280/statista-coronavirus-covid19-2019ncov.jpg",
+            "publishedAt": "2020-02-20T16:56:13Z",
+            "content": "Airlines have been struggling to fill plane seats for flights to Asia, with fears over the coronavirus deterring people from traveling. Some carriers are offering lower fares to various major cities in Japan, Thailand, Singapore, and South Korea.\r\nThe deadly \u2026 [+3550 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Is the Cruise Ship Coronavirus Quarantine Working? Scientist Says Close Confinement Is a 'Recipe for Transmission'",
+            "description": "More than half of those reported infected outside China were aboard the Diamond Princess cruise ship, which has been quarantined in Japan for over two weeks.",
+            "url": "https://www.newsweek.com/cruise-ship-coronavirus-quarantine-scientist-confinement-transmission-1488192",
+            "urlToImage": "https://d.newsweek.com/en/full/1568273/diamond-princess-cruise-ship-coronavirus-february-2020.jpg",
+            "publishedAt": "2020-02-20T13:41:30Z",
+            "content": "Quarantines in confined spaces, such as a cruise ship or hotel, may make people more prone to contracting the COVID-19 coronavirus. Concentrated levels of exposure, closer contact in shared spaces and the possible spreading of the virus through the air condit\u2026 [+8057 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "547 Additional Coronavirus Cases Confirmed, the Smallest Increase in 25 Days",
+            "description": "\"We're encouraged by this trend but it's no time for complacency,\" said WHO Director-General Dr. Tedros Adhanom Ghebreyesus.",
+            "url": "https://www.newsweek.com/coronavirus-update-case-increase-lowest-25-days-who-confirms-1488250",
+            "urlToImage": "https://d.newsweek.com/en/full/1568351/coronavirus-update-increase-cases-china.jpg",
+            "publishedAt": "2020-02-20T16:44:03Z",
+            "content": "The number of COVID-19 cases increased by 547 overnight, the lowest daily rise in cases of the potentially fatal virus in 25 days.\r\nWHO Director-General Dr. Tedros Adhanom Ghebreyesus acknowledged a slight slowing in the number of diagnoses in an update call \u2026 [+3696 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Chinese Scientists Raise Concerns Over Potential Link Between Coronavirus and Male Fertility",
+            "description": "Over 75,000 cases and 2,000 cases of COVID-19 have been confirmed since it emerged from China in late 2019.",
+            "url": "https://www.newsweek.com/chinese-scientists-coronavirus-male-fertility-1488235",
+            "urlToImage": "https://d.newsweek.com/en/full/1568333/covid19-coronavirus-china-shangai.jpg",
+            "publishedAt": "2020-02-20T16:07:27Z",
+            "content": "Scientists in China have raised concerns the new coronavirus, named COVID-19, may affect male fertility. However, an expert in the field has stressed to Newsweek that men should not be worried.\r\nChinese researchers were looking at existing data on a receptor \u2026 [+3776 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus May Be Spreading So Fast Because of Feacal Transmission, Scientists Say",
+            "description": "COVID-19 has killed over 2,000 people since it emerged from the Chinese city of Wuhan late last year.",
+            "url": "https://www.newsweek.com/coronavirus-may-spreading-so-fast-because-feacal-transmission-scientists-say-1488204",
+            "urlToImage": "https://d.newsweek.com/en/full/1568275/coronavirus-wuhan-hubei-china-getty.jpg",
+            "publishedAt": "2020-02-20T13:58:14Z",
+            "content": "COVID-19, the new coronavirus which has killed more than 2,000 people, may spread through feces, scientists believe.\r\nAs the virus is thought to have only come to the attention of health officials late last year, when workers at a market in the Chinese city o\u2026 [+4342 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Coronavirus Could Push Companies to Stop Relying on China, But It's Easier Said Than Done, Experts Say",
+            "description": "Moving supply chains out of China has been discussed for years, but removing China from the equation entirely is easier said than done.",
+            "url": "https://www.newsweek.com/coronavirus-supply-chain-disruptions-companies-diversify-away-china-1488333",
+            "urlToImage": "https://d.newsweek.com/en/full/1568475/coronavirus-supply-chain-business-china.jpg",
+            "publishedAt": "2020-02-20T21:45:25Z",
+            "content": "Fashion companies are already pulling away from China because of trade wars and tariffs, and experts predict the new coronavirus will be yet another reason for companies to cut some ties with the manufacturing hub.\r\n\"I do think there's an opportunity for cert\u2026 [+6066 chars]"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Where Are the Cases of Coronavirus? Virus Has Spread to Eight Countries on Three Continents",
+            "description": "Health officials are warning that more U.S. cases will likely be discovered, but the immediate risk to the American public is believed to be low.",
+            "url": "https://www.newsweek.com/where-are-cases-coronavirus-virus-has-spread-eight-countries-three-continents-1483943",
+            "urlToImage": "https://d.newsweek.com/en/full/1562660/coronavirus-spread-countries-cases-confirmed.jpg",
+            "publishedAt": "2020-01-25T12:00:01Z",
+            "content": "A novel strain of the coronavirus has been confirmed in at least eight countries, including the United States, and officials are warning that more cases will likely be discovered.\r\nThe virus, known as 2019-nCoV, originated in Wuhan, China, and was first repor\u2026 [+3240 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Lydia Smith",
+            "title": "Hong Kong Leader Declares Coronavirus Emergency And Halts Official Trips to China Mainland",
+            "description": "As of Friday, five confirmed cases of the coronavirus infection had been identified in Hong Kong.",
+            "url": "https://www.newsweek.com/coronavirus-hong-kong-emergency-mainland-china-1484003",
+            "urlToImage": "https://d.newsweek.com/en/full/1562678/coronavirus.jpg",
+            "publishedAt": "2020-01-25T11:11:35Z",
+            "content": "Hong Kong leader Carrie Lam has declared an emergency over the outbreak of coronavirus, a pneumonia-causing virus that has killed over a dozen people in mainland China.\r\nLam said all official visits to the mainland and official Chinese New Year celebrations w\u2026 [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jeffery Martin",
+            "title": "15 More Die From Coronavirus in China as Chicago Woman Treated for Disease, First Cases Found in Europe, Australia",
+            "description": "China's death toll from an outbreak of coronavirus rose to 41 Friday as 15 more were reported dead from the infection, while a Chicago woman was hospitalized with coronavirus becoming the second confirmed case in the U.S.",
+            "url": "https://www.newsweek.com/15-more-die-coronavirus-china-chicago-woman-treated-disease-first-cases-found-europe-1483985",
+            "urlToImage": "https://d.newsweek.com/en/full/1562703/coronavirus.jpg",
+            "publishedAt": "2020-01-25T02:27:54Z",
+            "content": "Health officials in Chicago confirmed Friday that a 60-year-old woman has been diagnosed with coronavirus. This is the second verified case of coronavirus in the U.S., a sickness that has caused the province of Wuhan, China to be placed under quarantine to pr\u2026 [+2804 chars]"
+        }
+    ]
+}

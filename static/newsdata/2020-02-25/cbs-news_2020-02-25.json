@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Coronavirus vaccine to be tested on humans",
+            "description": "A clinical trial is expected to begin in April, with results expected as early as July, according to a report.",
+            "url": "https://www.cbsnews.com/news/coronavirus-vaccine-moderna-human-testing/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/25/e42b35e5-fe87-4343-96e1-7522c6a2412f/thumbnail/1200x630/2632115dba6ce836a359fef53cb98159/gettyimages-1201544365.jpg",
+            "publishedAt": "2020-02-25T19:10:42Z",
+            "content": "Drugmaker Moderna said on Monday that the first batch of its vaccine against the coronavirus is ready for the government to start testing on humans.\u00a0\r\nThe therapeutics and vaccines company said it has shipped vials of the medicine, called mRNA-1273, to the Na\u2026 [+2639 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Italy hit hard by coronavirus outbreak",
+            "description": "Italy's Ministry of Health says nearly 300 people have been infected with the coronavirus, making it the hardest-hit country in Europe. CBS News senior foreign correspondent Mark Phillips joined CBSN AM with more.",
+            "url": "https://www.cbsnews.com/video/italy-hit-hard-by-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/25/4047e52f-ae63-40fc-bc38-d8aa2c29382e/thumbnail/1200x630/9c004009624b07c93c2a84da578ca078/0225-cbsnam-coronavirusineurope-2034815-640x360.jpg",
+            "publishedAt": "2020-02-25T15:14:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump administration's coronavirus response comes under fire",
+            "description": "The Trump administration has requested $2.5 billion in funding to fight the coronavirus outbreak, but Democrats and some Republicans say the government's response has been inadequate. CBSN political contributor Molly Hooper and Politico White House reporter N\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-trump-administration-epidemic-funding/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/25/cf4f63aa-ea03-4f1b-b395-eb9d4d8b9c12/thumbnail/1200x630/f50aa557a0271c048fe8f4a707b7062d/cbsn-fusion-coronavirus-trump-administration-epidemic-funding-thumbnail-450250-640x360.jpg",
+            "publishedAt": "2020-02-25T19:24:12Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Iran sees lowest voter turnout since 1979 amid coronavirus outbreak",
+            "description": "After violently quashed anti-government protests and amid fears that leaders are lying about coronavirus cases, less than 43% turned out to vote.",
+            "url": "https://www.cbsnews.com/news/iran-historically-low-election-turnout-shows-iranian-frustration-and-fear-over-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/25/ccf37807-2d2e-4c76-93a3-54c60a3876a9/thumbnail/1200x630/8fce064f624a51fcccc18ad9ef304f12/gettyimages-1202150189.jpg",
+            "publishedAt": "2020-02-25T14:07:54Z",
+            "content": "Last Friday's parliamentary elections saw the lowest voter turnout in Iran since the Islamic Revolution that brought the country's ruling clerics to power more than 40 years ago. The election \u2013 seen as a litmus test of public approval for the all-powerful cle\u2026 [+4099 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. economy takes hit in wake of coronavirus spread",
+            "description": "The CDC has issued a warning that the U.S. could see more cases as the coronavirus spreads outside of China. Kris Van Cleave reports.",
+            "url": "https://www.cbsnews.com/video/u-s-economy-takes-hit-in-wake-of-coronavirus-spread/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/dc00c431-0e43-4a9a-83de-1cfa6aa09561/thumbnail/1200x630/6d06194fb7d82fa33a4a588d71f947fd/0225-en-coronavirusinus-kvc-2035121-640x360.jpg",
+            "publishedAt": "2020-02-25T23:58:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Stocks plunge after CDC warns of coronavirus spread in U.S.",
+            "description": "Financial markets have lost more than $2 trillion in recent days amid growing concerns about the disease.",
+            "url": "https://www.cbsnews.com/news/stocks-down-dow-plunges-after-mondays-rout-on-coronavirus-fears/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/24/75afcdcb-5c35-474c-8ff9-35b8409dcfb0/thumbnail/1200x630/c78342f9bc75727836846e0a6b2b5894/cbsn-fusion-market-update-global-stocks-plunge-as-coronavirus-fears-grow-beyond-china-thumbnail-449857-640x360.jpg",
+            "publishedAt": "2020-02-25T22:18:00Z",
+            "content": "Stocks continued their slide on Tuesday, plunging after the Centers for Disease Control warned that the coronavirus was likely to spread in the U.S.\r\n\"We will see community spread in this country,\" Nancy Messonnier, a top official at the Centers for Disease C\u2026 [+3607 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Areas near Milan, Venice cordoned off as Italian coronavirus cases jump",
+            "description": "While the Dow dropped more than 1,000 points due to coronavirus fears, infections rose in Italy. The latest health report there says there have been more than 50 cases overnight, bringing the total close to 300. Mark Phillips reports.",
+            "url": "https://www.cbsnews.com/video/areas-near-milan-venice-cordoned-off-as-italian-coronavirus-cases-jump/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/25/c3f03665-3a7d-4c77-b74d-fab668cfe861/thumbnail/1200x630/c0c57bc88b6f4a4056b5e73809ca41c5/0225-ctm-conronavirusitaly-phillips-2034658-640x360.jpg",
+            "publishedAt": "2020-02-25T12:38:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus cases in Italy jump to more than 300",
+            "description": "There is an uptick in the number of coronavirus infections in Italy, despite efforts to quarantine the key infected regions of Northern Italy. Increases in infections have also been reported in countries like Austria, Croatia, Switzerland, France and Spain. M\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-cases-in-italy-jump-to-more-than-300/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/be897629-94b6-48b8-bd86-f51d83c9a338/thumbnail/1200x630/8dc1612f96bae6d4ed572bc67f8d176e/0225-en-worldcovid-phillips-2035127-640x360.jpg",
+            "publishedAt": "2020-02-25T23:59:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Stocks rebound after Monday's rout on coronavirus fears",
+            "description": "Wall Street regained its footing after the Dow plunged more than 1,000 points as the disease spread beyond China.",
+            "url": "https://www.cbsnews.com/news/stocks-rise-after-mondays-rout-on-coronavirus-fears/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/24/75afcdcb-5c35-474c-8ff9-35b8409dcfb0/thumbnail/1200x630/c78342f9bc75727836846e0a6b2b5894/cbsn-fusion-market-update-global-stocks-plunge-as-coronavirus-fears-grow-beyond-china-thumbnail-449857-640x360.jpg",
+            "publishedAt": "2020-02-25T14:55:44Z",
+            "content": "Stocks stabilized on Tuesday after a steep selloff yesterday sparked by fears that the widening coronavirus outbreak could dent the global economy.\u00a0\r\nInvestors were spooked after countries including South Korea and Italy reported more cases this week, includi\u2026 [+2516 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "White House unveils $2.5 billion plan to fight coronavirus",
+            "description": "The plan includes more than $1 billion to fund development of a vaccine.",
+            "url": "https://www.cbsnews.com/news/coronavirus-white-house-2-5-billion-plan-vaccine-congress-funding/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/25/4321e241-53f9-4a17-94ab-f13e4e2a87ec/thumbnail/1200x630/e1f8a671724e597addb81a89a6034f3d/korea-coronavirus-1208325102.jpg",
+            "publishedAt": "2020-02-25T16:32:27Z",
+            "content": "Washington \u2014\u00a0The Trump administration has unveiled a $2.5 billion plan to fight the coronavirus outbreak, asking Congress for $1.8 billion in new funding to boost the domestic and international response to the growing public health threat.\r\nIn a letter to Cap\u2026 [+3219 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "South Korea races to contain outbreak as virus fears slam stocks",
+            "description": "The spread of COVID-19 in China appears to be slowing, but with clusters growing elsewhere, the U.S. is mounting a multi-billion dollar battle against the disease.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-25/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/25/4321e241-53f9-4a17-94ab-f13e4e2a87ec/thumbnail/1200x630/e1f8a671724e597addb81a89a6034f3d/korea-coronavirus-1208325102.jpg",
+            "publishedAt": "2020-02-25T10:13:59Z",
+            "content": "A federal judge on Monday ordered U.S. and California officials to answer questions from local officials about plans to relocate former cruise ship passengers who test positive for a new coronavirus to a facility in Southern California.\r\nU.S. District Judge J\u2026 [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "Mortgage rates fall to lowest level in 8 years",
+            "description": "Thinking of buying a house or refinancing your home loan? Now may be a great time to do it, experts say.",
+            "url": "https://www.cbsnews.com/news/mortgage-rates-fall-to-8-year-low-as-coronavirus-fears-send-investors-into-bonds-safe-havens/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/11/ce6586d5-d8de-4cc8-bff0-946bb8f48611/thumbnail/1200x630/c864284245c0c982dee0290d93b7ccf9/gettyimages-1148695495.jpg",
+            "publishedAt": "2020-02-25T16:49:37Z",
+            "content": "Mortgage rates across the U.S. have fallen to an eight-year low, a boon for house-hunters and homeowners looking to refinance.\u00a0\r\nThe average 30-year mortgage is charging 3.34% interest, while 15-year home loans are at 3.09%, according to Mortgage News Daily. \u2026 [+1719 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Watch live: Trump holds press conference after whirlwind India trip",
+            "description": "President Trump's two-day India trip has been filled with pageantry.",
+            "url": "https://www.cbsnews.com/news/donald-trump-holds-press-conference-in-india-watch-live-stream-today-02-25-2020/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/24/b550f26e-4477-4c59-8379-4000d009bc15/thumbnail/1200x630/82b2244ecd23493917f315a2ba4dc098/2020-02-24t083524z-19692763-rc2w6f99q7ow-rtrmadp-3-india-usa-trump.jpg",
+            "publishedAt": "2020-02-25T11:24:14Z",
+            "content": "President Trump is capping off his whirlwind trip to India with a press conference Tuesday. While there, Mr. Trump has touted America's ties with the country and his relationship with its prime minister, Narendra Modi.\r\n\"In America and in India, we know that \u2026 [+1890 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Audrey McNamara",
+            "title": "India has 21 of the world's 30 most polluted cities, new report says",
+            "description": "According to IQAir, 90% of the global population breathes \"unsafe\" air.",
+            "url": "https://www.cbsnews.com/news/india-pollution-21-30-world/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/11/15/d8e3dcff-1794-4ab6-b856-efabf6639e55/thumbnail/1200x630/007fd11b656fb7984d8e86b64da576b1/delhi-india-air-pollution.jpg",
+            "publishedAt": "2020-02-25T17:46:30Z",
+            "content": "Twenty-one of the world's 30 most polluted cities are in India, according to IQAir's 2019 world air quality report. The company's ranking of the\u00a0most polluted cities\u00a0comes as President Trump is in India, and is working to potentially ink a new trade deal with\u2026 [+2800 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "Trump claims he wants \"no help\" from any country with election",
+            "description": "President Trump addressed election meddling, the coronavirus and trade in a New Delhi press conference.",
+            "url": "https://www.cbsnews.com/news/trump-election-interference-wants-no-help-russia/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/25/2ea169c2-51aa-4632-96c8-7e7d5fa85f62/thumbnail/1200x630/92dbead679a122ffc5eccae070629f0b/rts33j8b.jpg",
+            "publishedAt": "2020-02-25T15:27:00Z",
+            "content": "President Trump claimed Tuesday he wants \"no help from any country\" and has taken no help from any country ahead of the presidential election, as he capped off his\u00a0whirlwind two-day trip to India\u00a0with a press conference in New Delhi.\u00a0\r\n\"I want no help from an\u2026 [+3667 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS Radio News",
+            "title": "WORLD NEWS ROUNDUP: 02/25",
+            "description": "Fellow candidates attack Bernie Sanders ahead of tonight's South Carolina debate. President Trump wraps up his trip to India. Coronavirus fears spread. CBS News Correspondent Steve Kathan has today's World News Roundup.",
+            "url": "http://feeds.cbsnews.com/~r/podcast_icast_1/~3/tEom2vBsxIU/2744656.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Hotel locked down as Italian man brings new virus to Spanish island",
+            "description": "Infected doctor from epicenter of Europe's only major outbreak in northern Italy has been isolated on the island of Tenerife.",
+            "url": "https://www.cbsnews.com/news/tenerife-spain-hotel-coronavirus-lock-down-italian-doctor-spreads-europe-covid-19-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/25/168f6319-55e0-4c7f-a9b5-e0ecb810ae7c/thumbnail/1200x630/94e5061b159c4be17590f84f27ef47ab/tenerife-coronavirus-1203101483.jpg",
+            "publishedAt": "2020-02-25T15:28:43Z",
+            "content": "Madrid\u00a0\u2014 A tourist hotel in the Canary Islands was placed in quarantine Tuesday after an Italian doctor staying there tested positive for the new coronavirus, evidence that the epicenter of the outbreak in Europe is spreading with vacationing Italians.\r\nThe d\u2026 [+5322 chars]"
+        }
+    ]
+}

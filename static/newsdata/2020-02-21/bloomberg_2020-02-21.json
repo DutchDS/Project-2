@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Will the Coronavirus Cause a Recession? (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-21/will-the-coronavirus-cause-a-recession-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T22:26:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Hubei Reports 411 New Coronavirus Cases",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-21/hubei-reports-411-new-coronavirus-cases-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T02:44:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Cable- Europe PMIs, Coronavirus, Markets (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-21/the-cable-europe-pmis-coronavirus-markets-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T18:01:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "",
+            "title": "40-50% Of China's Economy Is Still Offline: BE's Orlik (Radio)",
+            "description": "Tom Orlik, Chief Economist for Bloomberg Economics, discusses how the coronavirus is threatening global growth. Hosted by Lisa Abramowicz and Paul Sweeney.",
+            "url": "https://www.bloomberg.com/news/audio/2020-02-21/40-50-of-china-s-economy-is-still-offline-be-s-orlik-radio",
+            "urlToImage": "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+            "publishedAt": "2020-02-21T17:21:04Z",
+            "content": "Tom Orlik, Chief Economist for Bloomberg Economics, discusses how the coronavirus is threatening global growth. Hosted by Lisa Abramowicz and Paul Sweeney.\r\nRunning time 07:49\r\nBefore it's here, it's on the Bloomberg Terminal.LEARN MORE"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Nomura to Restrict Travel to Countries With Coronavirus Cases",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-21/nomura-to-restrict-travel-to-countries-with-coronavirus-cases",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T09:52:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Caution Keeps High-Flying Deere's Feet on the Ground",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-21/coronavirus-caution-keeps-high-flying-deere-s-feet-on-the-ground",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T19:17:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "German Economy Faces Coronavirus Hit as Export Orders Sink",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-21/german-economy-faces-coronavirus-hit-as-export-orders-sink",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T08:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Poses Latest Threat to China's Debt-Fueled Boom",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-21/coronavirus-poses-latest-threat-to-china-s-debt-fueled-boom-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T22:46:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How the Novel Coronavirus Can (Maybe) Infect You",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-21/how-the-novel-coronavirus-can-maybe-infect-you-quicktake",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T00:36:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Rapid Surge in Iran Coronavirus Cases Is 'Very Worrisome': WHO",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-21/rapid-surge-in-iran-coronavirus-cases-is-very-worrisome-who",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T16:48:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Economic Effects of Coronavirus Are Spreading Says El-Erian",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-21/the-economic-effects-of-coronavirus-are-spreading-says-el-erian-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T18:06:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Milder Coronavirus Cases Raising New Transmission Concerns: Johns Hopkins",
+            "description": "Andrew Pekosz, co-director of the Johns Hopkins Center of Excellence in Influenza Research and Surveillance, discusses the efforts to track and limit and the spread of the deadly coronavirus on \"What'd You Miss?\" The Bloomberg School of Public Health is suppo\u2026",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-21/milder-coronavirus-cases-raise-new-concerns-johns-hopkins-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ige24ivC3gkI/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-21T22:04:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The World's Biggest Economies Get a Jolt of Government Spending",
+            "description": "Governments across the world are starting to use more fiscal firepower to boost economies, though the shift may not be happening fast enough to appease central bankers who say they\u2019re sick of carrying the burden of stimulus alone.In more than half of the worl\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-21/the-world-s-biggest-economies-get-a-jolt-of-government-spending",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i86p5SaolYTY/v0/1200x766.png",
+            "publishedAt": "2020-02-21T00:00:20Z",
+            "content": "Governments across the world are starting to use more fiscal firepower to boost economies, though the shift may not be happening fast enough to appease central bankers who say they\u2019re sick of carrying the burden of stimulus alone.\r\nIn more than half of the wo\u2026 [+12516 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Busy Fighting Coronavirus, China Has No Room for Other Patients",
+            "description": "Busy Fighting Coronavirus, China Has No Room for Other Patients bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-20/busy-fighting-coronavirus-china-has-no-room-for-other-patients",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T00:45:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Amy Thomson",
+            "title": "Artificial Intelligence Gears Up to Fight a Future Coronavirus",
+            "description": "Artificial Intelligence Gears Up to Fight a Future Coronavirus bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-21T05:48:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Vitol CEO on 2020 Outlook, Coronavirus Impact, Market Recovery, LNG Demand",
+            "description": "Russell Hardy, chief executive officer at Vitol Group, discusses his 2020 outlook, the impact of the coronavirus on the oil market, how he sees the market rebalancing and why the demand for liquefied natural gas should increase. He spoke with Bloomberg's Annm\u2026",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-21/vitol-ceo-on-2020-outlook-coronavirus-impact-market-recovery-lng-demand-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR8auOL_8Rqk/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-21T10:01:03Z",
+            "content": null
+        }
+    ]
+}

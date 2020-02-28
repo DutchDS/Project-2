@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 108,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China reports 397 new confirmed cases of coronavirus on mainland on Feb.21",
+            "description": "Mainland China had 397 new confirmed cases of coronavirus infections on Feb. 21, the country's National Health Commission said on Saturday, down from 889 cases a day earlier.",
+            "url": "https://www.reuters.com/article/us-china-health-nhc-idUSKBN20G01W",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T01:03:20Z",
+            "content": "BEIJING (Reuters) - Mainland China had 397 new confirmed cases of coronavirus infections on Feb. 21, the country\u2019s National Health Commission said on Saturday, down from 889 cases a day earlier. \r\nThat brings the total accumulated number of confirmed cases in\u2026 [+357 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Ten new cases of coronavirus in Iran, one dead: health ministry",
+            "description": "Ten new cases of coronavirus have been detected in Iran, one of whom has died, Health Ministry spokesman Kianush Jahanpur said on state TV on Saturday.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-idUSKCN20G0C4",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493674152&w=1200&r=LYNXNPEG1L07L",
+            "publishedAt": "2020-02-22T09:15:57Z",
+            "content": "DUBAI (Reuters) - Ten new cases of coronavirus have been detected in Iran, one of whom has died, Health Ministry spokesman Kianush Jahanpur said on state TV on Saturday. \r\nThe new numbers announced by the health ministry bring the total number of cases of the\u2026 [+136 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "South Korea reports 142 additional coronavirus cases, brings total to 346: KCDC",
+            "description": "South Korea reported 142 additional confirmed cases of the coronavirus, bringing the nation's total to 346, according to Korea's Centers for Disease Control and Prevention.",
+            "url": "https://www.reuters.com/article/us-china-health-southkorea-cases-idUSKBN20G02F",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493548995&w=1200&r=LYNXMPEG1L017",
+            "publishedAt": "2020-02-22T01:28:51Z",
+            "content": "SEOUL (Reuters) - South Korea reported 142 additional confirmed cases of the coronavirus, bringing the nation\u2019s total to 346, according to Korea\u2019s Centers for Disease Control and Prevention. \r\nOf the new cases, 91 have been traced to a hospital in Cheongdo Co\u2026 [+251 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "WHO concerned about coronavirus cases with no clear epidemiological link",
+            "description": "The World Health Organization (WHO) is concerned about the number of coronavirus cases with no clear epidemiological link, although the total number of cases outside China remains relatively small, its director general said on Saturday.",
+            "url": "https://www.reuters.com/article/us-china-health-who-idUSKCN20G0BU",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493671618&w=1200&r=LYNXNPEG1L07H",
+            "publishedAt": "2020-02-22T09:08:41Z",
+            "content": "VIENNA (Reuters) - The World Health Organization (WHO) is concerned about the number of coronavirus cases with no clear epidemiological link, although the total number of cases outside China remains relatively small, its director general said on Saturday. \r\nC\u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China's Hubei province reports 630 new coronavirus cases on February 22",
+            "description": "China's central Hubei province had 630 new confirmed cases of coronavirus infections on Saturday, the province's health commission said on Sunday, up from 366 new cases the previous day.",
+            "url": "https://www.reuters.com/article/us-china-health-hubei-idUSKCN20G0U7",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T23:31:49Z",
+            "content": "SHANGHAI (Reuters) - China\u2019s central Hubei province had 630 new confirmed cases of coronavirus infections on Saturday, the province\u2019s health commission said on Sunday, up from 366 new cases the previous day. \r\nThat brings the total accumulated number of confi\u2026 [+197 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Hubei's medical supply situation improving, but shortages remain - official",
+            "description": "The medical supply situation in China's Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday.",
+            "url": "https://www.reuters.com/article/us-china-health-hubei-idUSKCN20G0BQ",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493669928&w=1200&r=LYNXNPEG1L07G",
+            "publishedAt": "2020-02-22T09:02:29Z",
+            "content": "BEIJING (Reuters) - The medical supply situation in China\u2019s Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday. \r\nCao Guangjing, the \u2026 [+313 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus incubation could be as long as 27 days, Chinese provincial government says",
+            "description": "A 70-year-old man in China's Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus' incubation period could be much longer than the presumed 14 days.",
+            "url": "https://www.reuters.com/article/us-china-health-incubation-idUSKCN20G06W",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:44:10Z",
+            "content": "SHANGHAI (Reuters) - A 70-year-old man in China\u2019s Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus\u2019 incubation period could be much longer than the presumed 14\u2026 [+598 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Elaine Lies",
+            "title": "Japanese emperor, on birthday, expresses coronavirus concern, looks forward to Olympics",
+            "description": "Japanese Emperor Naruhito said on Sunday that he was looking forward to the Tokyo Olympics in summer but that he was concerned about the spread of the new coronavirus, which has killed three in Japan and is slowly spreading across the country.",
+            "url": "https://www.reuters.com/article/us-japan-emperor-birthday-idUSKCN20G0MH",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493789758&w=1200&r=LYNXNPEG1L0FM",
+            "publishedAt": "2020-02-22T16:01:39Z",
+            "content": "TOKYO (Reuters) - Japanese Emperor Naruhito said on Sunday that he was looking forward to the Tokyo Olympics in summer but that he was concerned about the spread of the new coronavirus, which has killed three in Japan and is slowly spreading across the countr\u2026 [+2119 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Julie Steenhuysen",
+            "title": "Wuhan woman with no symptoms infects five relatives with coronavirus: study",
+            "description": "A 20-year-old Chinese woman from Wuhan, the epicenter of the coronavirus outbreak, traveled 400 miles(675 km) north to Anyang where she infected five relatives, without ever showing signs of infection, Chinese scientists reported on Friday, offering new evide\u2026",
+            "url": "https://www.reuters.com/article/us-china-health-study-idUSKBN20G00J",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493533207&w=1200&r=LYNXMPEG1L00G",
+            "publishedAt": "2020-02-22T00:23:29Z",
+            "content": "(Reuters) - A 20-year-old Chinese woman from Wuhan, the epicenter of the coronavirus outbreak, traveled 400 miles(675 km) north to Anyang where she infected five relatives, without ever showing signs of infection, Chinese scientists reported on Friday, offeri\u2026 [+2150 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Samuel Shen",
+            "title": "China reports fall in coronavirus cases, says economy resilient, but infections rising elsewhere",
+            "description": "China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight against the epidemic.",
+            "url": "https://www.reuters.com/article/us-china-health-idUSKCN20G05W",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493602258&w=1200&r=LYNXNPEG1L03B",
+            "publishedAt": "2020-02-22T04:52:56Z",
+            "content": "SHANGHAI/BEIJING (Reuters) - China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight agai\u2026 [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Huizhong Wu",
+            "title": "Sealed in: Chinese trapped at home by coronavirus feel the strain",
+            "description": "During weeks holed up in her grandmother's apartment with 10 relatives and eating a restricted diet, Chinese teenager Li Yuxuan says tempers have frayed.",
+            "url": "https://www.reuters.com/article/us-china-health-quarantine-idUSKCN20G0AY",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493663649&w=1200&r=LYNXNPEG1L06S",
+            "publishedAt": "2020-02-22T08:38:25Z",
+            "content": "BEIJING (Reuters) - During weeks holed up in her grandmother\u2019s apartment with 10 relatives and eating a restricted diet, Chinese teenager Li Yuxuan says tempers have frayed. \r\nLi and her family are among the millions of people across China\u2019s Hubei province, e\u2026 [+5247 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andrea Shalal",
+            "title": "IMF chief, Argentina flag path to new debt deal after G20 meet in Riyadh",
+            "description": "Argentina on Saturday agreed to start consultations with the International Monetary Fund that could lead to a new financing program, days after the global lender said the country's debt situation had become \"unsustainable\".",
+            "url": "https://www.reuters.com/article/us-g20-argentina-imf-idUSKCN20G0NJ",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493897702&w=1200&r=LYNXNPEG1L0G7",
+            "publishedAt": "2020-02-22T22:36:32Z",
+            "content": "RIYADH/BUENOS AIRES (Reuters) - Argentina on Saturday agreed to start consultations with the International Monetary Fund that could lead to a new financing program, days after the global lender said the country\u2019s debt situation had become \u201cunsustainable\u201d. \r\nA\u2026 [+3813 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Iranian mayor tests positive for coronavirus: state TV",
+            "description": "An Iranian official has tested positive for coronavirus, state TV reported on Saturday.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-idUSKCN20G075",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:58:40Z",
+            "content": "DUBAI (Reuters) - An Iranian official has tested positive for coronavirus, state TV reported on Saturday. \r\nMorteza Rahmanzadeh, the mayor of district 13 of the capital Tehran, was hospitalized with coronavirus symptoms on Friday, according to state TV. \r\nThe\u2026 [+235 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Japan confirms four more virus cases, to close a school for two days",
+            "description": "Japanese officials confirmed four new coronavirus infections on Saturday as the number of cases outside of China continued to climb.",
+            "url": "https://www.reuters.com/article/us-china-health-japan-idUSKCN20G06M",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:28:24Z",
+            "content": "TOKYO (Reuters) - Japanese officials confirmed four new coronavirus infections on Saturday as the number of cases outside of China continued to climb. \r\nOne of the new cases is a woman in her 60s who is a junior high school teacher in Chiba prefecture, east o\u2026 [+1095 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Malaysia says American coronavirus case now tests negative for virus",
+            "description": "Malaysian health authorities on Saturday said an American passenger of a cruise liner docked in Cambodia has now tested negative for the novel coronavirus, a week after she had been declared the country's 22nd confirmed virus case.",
+            "url": "https://www.reuters.com/article/us-china-health-malaysia-cruiseship-idUSKCN20G097",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T07:21:21Z",
+            "content": "KUALA LUMPUR (Reuters) - Malaysian health authorities on Saturday said an American passenger of a cruise liner docked in Cambodia has now tested negative for the novel coronavirus, a week after she had been declared the country\u2019s 22nd confirmed virus case. \r\n\u2026 [+1480 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Second coronavirus patient dies in Italy: Ansa news agency",
+            "description": "A second patient infected with the new coronavirus has died in Italy, ANSA news agency reported citing healthcare sources, as an outbreak spreads in the north of the country with 30 cases reported so far.",
+            "url": "https://www.reuters.com/article/us-china-health-italy-idUSKCN20G0CQ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493681214&w=1200&r=LYNXNPEG1L07Z",
+            "publishedAt": "2020-02-22T09:39:32Z",
+            "content": "MILAN (Reuters) - A second patient infected with the new coronavirus has died in Italy, ANSA news agency reported citing healthcare sources, as an outbreak spreads in the north of the country with 30 cases reported so far. \r\nThe victim was a female resident i\u2026 [+199 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Factbox: Latest on coronavirus spreading in China and beyond",
+            "description": "China reported a sharp decrease in new deaths and cases of the coronavirus on Saturday but a doubling of infections in South Korea and 10 new cases in Iran added to unease about its rapid spread and global reach.",
+            "url": "https://www.reuters.com/article/us-china-health-latest-factbox-idUSKCN20G0PQ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493824730&w=1200&r=LYNXNPEG1L0HS",
+            "publishedAt": "2020-02-22T17:59:32Z",
+            "content": "(Reuters) - China reported a sharp decrease in new deaths and cases of the coronavirus on Saturday but a doubling of infections in South Korea and 10 new cases in Iran added to unease about its rapid spread and global reach. \r\n** China has reported a total of\u2026 [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lidia Kelly",
+            "title": "Australia reopens the door to some Chinese students after coronavirus ban",
+            "description": "The Australian government said on Saturday it will allow the return of some Chinese high school students who have been blocked from entering the country due coronavirus restrictions, reopening the door to a market that is key for the economy.",
+            "url": "https://www.reuters.com/article/us-china-health-australia-idUSKCN20G07S",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T06:18:29Z",
+            "content": "MELBOURNE (Reuters) - The Australian government said on Saturday it will allow the return of some Chinese high school students who have been blocked from entering the country due coronavirus restrictions, reopening the door to a market that is key for the eco\u2026 [+1622 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lidia Kelly",
+            "title": "Australia reopens the door to some Chinese students after coronavirus ban",
+            "description": "The Australian government said on Saturday it will allow the return of some Chinese high school students who have been blocked from entering the country due coronavirus restrictions, reopening the door to a market that is key for the economy.",
+            "url": "https://www.reuters.com/article/uk-china-health-australia-idUSKCN20G07M",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T06:11:46Z",
+            "content": "MELBOURNE (Reuters) - The Australian government said on Saturday it will allow the return of some Chinese high school students who have been blocked from entering the country due coronavirus restrictions, reopening the door to a market that is key for the eco\u2026 [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China brings in seven cruise ships to house Wuhan medical workers",
+            "description": "China is bringing in seven cruise ships to house medical workers in Wuhan, state media said on Saturday, at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted the coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-wuhan-cruise-idUSKCN20G091",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T07:13:20Z",
+            "content": "BEIJING (Reuters) - China is bringing in seven cruise ships to house medical workers in Wuhan, state media said on Saturday, at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted the corona\u2026 [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Chayut Setboonsarng",
+            "title": "Thai students to protest banning of popular opposition party",
+            "description": "Thai students are expected to stage a protest on Saturday against a court's decision that dissolved the country's second largest opposition party, less than a year after an election to end direct military rule.",
+            "url": "https://www.reuters.com/article/us-thailand-politics-idUSKCN20G0EW",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493696499&w=1200&r=LYNXNPEG1L09R",
+            "publishedAt": "2020-02-22T10:33:48Z",
+            "content": "BANGKOK (Reuters) - Thai students are expected to stage a protest on Saturday against a court\u2019s decision that dissolved the country\u2019s second largest opposition party, less than a year after an election to end direct military rule. \r\nThe Constitutional Court o\u2026 [+2808 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andrea Shalal",
+            "title": "IMF chief, Argentina flag path to new debt deal after G20 meet in Riyadh",
+            "description": "Argentina on Saturday agreed to start consultations with the International Monetary Fund that could lead to a new financing program, days after the global lender said the country's debt situation had become \"unsustainable\".",
+            "url": "https://www.reuters.com/article/us-g20-argentina-imf-idUSKCN20G0NJ",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493897702&w=1200&r=LYNXNPEG1L0G7",
+            "publishedAt": "2020-02-22T22:36:32Z",
+            "content": "RIYADH/BUENOS AIRES (Reuters) - Argentina on Saturday agreed to start consultations with the International Monetary Fund that could lead to a new financing program, days after the global lender said the country\u2019s debt situation had become \u201cunsustainable\u201d. \r\nA\u2026 [+3813 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Markets underprice coronavirus risk: UBS chairman on Bloomberg TV",
+            "description": "Markets are underpricing the risk that the coronavirus outbreak poses to the global economy, and central banks need to help business survive the impact of the virus, the chairman of Swiss lender UBS , Axel Weber, said.",
+            "url": "https://www.reuters.com/article/us-china-health-economy-ubs-group-idUSKCN20G0ID",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493733657&w=1200&r=LYNXNPEG1L0CG",
+            "publishedAt": "2020-02-22T12:37:33Z",
+            "content": "VIENNA (Reuters) - Markets are underpricing the risk that the coronavirus outbreak poses to the global economy, and central banks need to help business survive the impact of the virus, the chairman of Swiss lender UBS (UBSG.S), Axel Weber, said. \r\n\u201cThere is g\u2026 [+622 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Samsung Electronics confirms one coronavirus case at phone factory complex in South Korea",
+            "description": "Samsung Electronics <005930.KS> said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility there until Monday morning.",
+            "url": "https://www.reuters.com/article/us-china-health-southkorea-samsung-elec-idUSKCN20G0CG",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493682725&w=1200&r=LYNXNPEG1L07W",
+            "publishedAt": "2020-02-22T09:43:20Z",
+            "content": "SEOUL (Reuters) - Samsung Electronics (005930.KS) said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility there until Monday morning. \r\nSams\u2026 [+974 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Kalin",
+            "title": "Let's come together to tax tech giants, say G20 officials eying $100 bln boost - Reuters",
+            "description": "Leading world economies must show unity in dealing with aggressive \"tax optimization\" by global digital giants like Google , Amazon and Facebook , G20 officials said on Saturday.",
+            "url": "https://www.reuters.com/article/us-g20-tax-idUSKCN20G0DD",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493684664&w=1200&r=LYNXNPEG1L08D",
+            "publishedAt": "2020-02-22T09:28:00Z",
+            "content": "RIYADH (Reuters) - Leading world economies must show unity in dealing with aggressive \u201ctax optimization\u201d by global digital giants like Google (GOOGL.O), Amazon (AMZN.O) and Facebook (FB.O), G20 officials said on Saturday. \r\nGlobal rules are being developed by\u2026 [+2538 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "South Korea says coronavirus cases more than double, total now 433",
+            "description": "South Korea said on Saturday that the number of people infected with the coronavirus in the country had more than doubled to 433.",
+            "url": "https://www.reuters.com/article/us-china-health-southkorea-cases-idUSKCN20G0BK",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493668555&w=1200&r=LYNXNPEG1L07D",
+            "publishedAt": "2020-02-22T08:54:03Z",
+            "content": "SEOUL (Reuters) - South Korea said on Saturday that the number of people infected with the coronavirus in the country had more than doubled to 433. \r\nKorea\u2019s Centers for Disease Control and Prevention reported 142 new cases at a morning briefing and another 8\u2026 [+376 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Alarm in the holy land after visit by pilgrims with coronavirus",
+            "description": "Israeli and Palestinian authorities sought to quell fears of a potential local outbreak of the coronavirus after learning that South Korean pilgrims who had toured some of the holy land's most popular sites were later found to be carrying the virus.",
+            "url": "https://www.reuters.com/article/us-china-health-holyland-idUSKCN20G0OJ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T16:52:05Z",
+            "content": "JERUSALEM (Reuters) - Israeli and Palestinian authorities sought to quell fears of a potential local outbreak of the coronavirus after learning that South Korean pilgrims who had toured some of the holy land\u2019s most popular sites were later found to be carryin\u2026 [+1382 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Second batch of Diamond Princess passengers arrive in Hong Kong to face further quarantine",
+            "description": "A second plane with 82 Hong Kong residents who were quarantined on the Diamond Princess cruise in Japan for more than two weeks landed early on Saturday in the Asian financial hub, where they will face a further 14 days of quarantine.",
+            "url": "https://www.reuters.com/article/us-china-health-japan-hongkong-idUSKBN20G019",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T00:49:15Z",
+            "content": "HONG KONG (Reuters) - A second plane with 82 Hong Kong residents who were quarantined on the Diamond Princess cruise in Japan for more than two weeks landed early on Saturday in the Asian financial hub, where they will face a further 14 days of quarantine. \r\n\u2026 [+1633 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Julie Steenhuysen",
+            "title": "Wuhan woman with no symptoms infects five relatives with coronavirus - study - Reuters India",
+            "description": "A 20-year-old Chinese woman from Wuhan, the epicenter of the coronavirus outbreak, traveled 400 miles(675 km) north to Anyang where she infected five relatives, without ever showing signs of infection, Chinese scientists reported on Friday, offering new evide\u2026",
+            "url": "https://in.reuters.com/article/china-health-study-idINKCN20G043",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493601426&w=1200&r=LYNXNPEG1L01Y",
+            "publishedAt": "2020-02-22T03:00:00Z",
+            "content": "(Reuters) - A 20-year-old Chinese woman from Wuhan, the epicenter of the coronavirus outbreak, traveled 400 miles(675 km) north to Anyang where she infected five relatives, without ever showing signs of infection, Chinese scientists reported on Friday, offeri\u2026 [+2150 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Steve Gorman",
+            "title": "Despite horror stories, California cruise passengers won't let coronavirus spoil their fun",
+            "description": "With a white captain's hat perched on his head, Calvin Ballard seemed relaxed as he waited to depart on his first-ever cruise to Mexico, unfazed by the possibility of being trapped on a ship under siege by an outbreak of coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-cruise-idUSKCN20G0GA",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T11:00:00Z",
+            "content": "LONG BEACH, Calif. (Reuters) - With a white captain\u2019s hat perched on his head, Calvin Ballard seemed relaxed as he waited to depart on his first-ever cruise to Mexico, unfazed by the possibility of being trapped on a ship under siege by an outbreak of coronav\u2026 [+5354 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Malaysia says American coronavirus case now tests negative for virus",
+            "description": "Malaysian health authorities on Saturday said an American passenger of a cruise liner docked in Cambodia has now tested negative for the novel coronavirus, a week after she had been declared the country's 22nd confirmed virus case.",
+            "url": "https://www.reuters.com/article/china-health-malaysia-cruiseship-idUSL3N2AM02P",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T07:18:42Z",
+            "content": "KUALA LUMPUR, Feb 22 (Reuters) - Malaysian health authorities on Saturday said an American passenger of a cruise liner docked in Cambodia has now tested negative for the novel coronavirus, a week after she had been declared the country\u2019s 22nd confirmed virus \u2026 [+1480 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Samsung Electronics confirms one coronavirus case at phone factory complex in S.Korea",
+            "description": "Samsung Electronics said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility.",
+            "url": "https://www.reuters.com/article/china-health-southkorea-samsung-elec-idUSP8N29S00H",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T09:24:21Z",
+            "content": "SEOUL, Feb 22 (Reuters) - Samsung Electronics said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility. \r\nSamsung Electronics, the world\u2019s to\u2026 [+228 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ana Mano",
+            "title": "Brazil's BRF says meat shipments to China normal despite port woes",
+            "description": "Brazilian food processor BRF SA has not stopped shipping meat products to China even amid congestion at some of that nation's ports related to the new coronavirus outbreak, the company said late on Friday, answering a query from Reuters.",
+            "url": "https://www.reuters.com/article/brf-china-meat-idUSL2N2AM038",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T14:59:59Z",
+            "content": "SAO PAULO, Feb 22 (Reuters) - Brazilian food processor BRF SA has not stopped shipping meat products to China even amid congestion at some of that nation\u2019s ports related to the new coronavirus outbreak, the company said late on Friday, answering a query from \u2026 [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. blocking G20 mention of climate change in draft communique - sources",
+            "description": "The United States is against mentioning climate change in the communique of the world's financial leaders, G20 diplomats said, after a new draft of the joint statement showed the G20 are considering including it as a risk factor to growth.",
+            "url": "https://www.reuters.com/article/us-g20-draft-climate-idUSKCN20G0JU",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493754168&w=1200&r=LYNXNPEG1L0DS",
+            "publishedAt": "2020-02-22T13:44:34Z",
+            "content": "RIYADH (Reuters) - The United States is against mentioning climate change in the communique of the world\u2019s financial leaders, G20 diplomats said, after a new draft of the joint statement showed the G20 are considering including it as a risk factor to growth. \u2026 [+1208 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Kalin",
+            "title": "Let's come together to tax tech giants, say G20 officials eying $100 bln boost",
+            "description": "Leading world economies must show unity in dealing with aggressive \"tax optimisation\" by global digital giants like Google, Amazon and Facebook, G20 officials said on Saturday.",
+            "url": "https://www.reuters.com/article/g20-tax-idUSL2N2AM01K",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T09:28:21Z",
+            "content": "* G20 officials aim for deal on taxing digital firms by end 2020 \r\n* OECD close to deal on minimum level of tax for digital firms \r\n* OECD estimates new tax revenue from digital at $100 bln a year \r\nBy Stephen Kalin and Andrea Shalal \r\nRIYADH, Feb 22 (Reuters\u2026 [+2756 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Concerns grow over rising global spread of coronavirus",
+            "description": "China reported a sharp decrease in new deaths and cases of the coronavirus on Saturday but a doubling of infections in South Korea and 10 new cases in Iran added to unease about its rapid spread and global reach. Edward Baran reports.",
+            "url": "https://www.reuters.com/video/watch/idOVC1P9BOR",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20200222&i=OVC1P9BOR&r=OVC1P9BOR&t=2",
+            "publishedAt": "2020-02-22T14:56:19Z",
+            "content": "Posted \r\nChina reported a sharp decrease in new deaths and cases of the coronavirus on Saturday but a doubling of infections in South Korea and 10 new cases in Iran added to unease about its rapid spread and global reach. Edward Baran reports."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "California cruise passengers won't let coronavirus spoil their fun",
+            "description": "Passengers boarding a Carnival Cruise Line ship on a three-day voyage to the resort city of Ensenada on Mexico's Baja coast were unfazed by reports of the virus, but vowed to wash their hands.",
+            "url": "https://www.reuters.com/video/watch/idOVC1P9DCV",
+            "urlToImage": "https://static.reuters.com/resources/r/?d=20200222&i=OVC1P9DCV&r=OVC1P9DCV&t=2",
+            "publishedAt": "2020-02-22T17:40:19Z",
+            "content": "Posted \r\nPassengers boarding a Carnival Cruise Line ship on a three-day voyage to the resort city of Ensenada on Mexico's Baja coast were unfazed by reports of the virus, but vowed to wash their hands."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Samsung Electronics confirms coronavirus case at phone factory complex in S.Korea",
+            "description": "Samsung Electronics <005930.KS> said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility there until Monday morning.",
+            "url": "https://in.reuters.com/article/us-china-health-southkorea-samsung-elec-idINKCN20G0CG",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493699008&w=1200&r=LYNXNPEG1L07W",
+            "publishedAt": "2020-02-22T09:43:25Z",
+            "content": "SEOUL (Reuters) - Samsung Electronics (005930.KS) said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility there until Monday morning. \r\nSams\u2026 [+974 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Leika Kihara",
+            "title": "BOJ's Kuroda blames yen's fall on strong dollar, upbeat on economy",
+            "description": "Bank of Japan Governor Haruhiko Kuroda said on Saturday the yen's recent declines were largely driven by a strong dollar, shrugging off some market views that the widening coronavirus epidemic is triggering an outflow of funds from Asia.",
+            "url": "https://in.reuters.com/article/us-g20-saudi-boj-idINKCN20G09P",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493652408&w=1200&r=LYNXNPEG1L066",
+            "publishedAt": "2020-02-22T11:24:40Z",
+            "content": "RIYADH (Reuters) - Bank of Japan Governor Haruhiko Kuroda said on Saturday the yen\u2019s recent declines were largely driven by a strong dollar, shrugging off some market views that the widening coronavirus epidemic is triggering an outflow of funds from Asia. \r\n\u2026 [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Leika Kihara",
+            "title": "BOJ Kuroda blames yen's fall on strong dollar, upbeat on economy",
+            "description": "Bank of Japan Governor Haruhiko Kuroda said on Saturday the yen's recent declines were largely driven by a strong dollar, shrugging off some market views that the widening coronavirus epidemic is triggering an outflow of funds from Asia.",
+            "url": "https://in.reuters.com/article/g20-saudi-boj-idINKCN20G0A1",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493664139&w=1200&r=LYNXNPEG1L067",
+            "publishedAt": "2020-02-22T08:36:04Z",
+            "content": "RIYADH (Reuters) - Bank of Japan Governor Haruhiko Kuroda said on Saturday the yen\u2019s recent declines were largely driven by a strong dollar, shrugging off some market views that the widening coronavirus epidemic is triggering an outflow of funds from Asia. \r\n\u2026 [+1255 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Kalin",
+            "title": "IMF's Georgieva says coronavirus to shave 0.1 percentage points from global growth",
+            "description": "The fast-spreading coronavirus outbreak will likely lower China's economic growth this year to 5.6%, down 0.4 percentage points from its January outlook, and shave 0.1 percentage points from global growth, the IMF said on Saturday.",
+            "url": "https://in.reuters.com/article/g20-coronavirus-imf-idINKCN20G0MA",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493808570&w=1200&r=LYNXNPEG1L0H0",
+            "publishedAt": "2020-02-22T14:53:16Z",
+            "content": "RIYADH (Reuters) - The world\u2019s top economies called on Saturday for a coordinated response to the coronavirus outbreak, which the IMF predicted would lower China\u2019s growth this year to 5.6% and shave 0.1 percentage points from global growth. \r\nInternational Mo\u2026 [+3432 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yilei Sun",
+            "title": "China expects more companies to resume operations by late February, early March",
+            "description": "More companies in China are expected to resume operations by late February or March, a transport official said on Saturday, as officials try to get the economy up and running again while containing a coronavirus outbreak that has created massive business disr\u2026",
+            "url": "https://in.reuters.com/article/china-health-business-idINKCN20G09R",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493679001&w=1200&r=LYNXNPEG1L07Q",
+            "publishedAt": "2020-02-22T09:32:10Z",
+            "content": "BEIJING (Reuters) - More companies in China are expected to resume operations by late February or March, a transport official said on Saturday, as officials try to get the economy up and running again while containing a coronavirus outbreak that has created m\u2026 [+1856 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Marwa Rashad",
+            "title": "Saudi economy set to grow this year, driven by non-oil sector - central bank",
+            "description": "Saudi Arabia's economy is expected to grow this year, supported by the non-oil sector, despite a challenging global economic backdrop, the Saudi central bank governor said on Saturday as the kingdom hosts the G20 meeting.",
+            "url": "https://in.reuters.com/article/g20-saudi-cenbank-sama-idINKCN20G0AG",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493658620&w=1200&r=LYNXNPEG1L06J",
+            "publishedAt": "2020-02-22T08:16:15Z",
+            "content": "RIYADH (Reuters) - Saudi Arabia\u2019s economy is expected to grow this year, supported by the non-oil sector, despite a challenging global economic backdrop, the Saudi central bank governor said on Saturday as the kingdom hosts the G20 meeting. \r\nAhmed al-Kholife\u2026 [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Kalin",
+            "title": "Let's come together to tax tech giants, say G20 officials eying $100 billion boost",
+            "description": "Leading world economies must show unity in dealing with aggressive \"tax optimization\" by global digital giants like Google , Amazon and Facebook , G20 officials said on Saturday.",
+            "url": "https://in.reuters.com/article/us-g20-tax-idINKCN20G0DD",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493684664&w=1200&r=LYNXNPEG1L08D",
+            "publishedAt": "2020-02-22T09:35:06Z",
+            "content": "RIYADH (Reuters) - Leading world economies must show unity in dealing with aggressive \u201ctax optimization\u201d by global digital giants like Google (GOOGL.O), Amazon (AMZN.O) and Facebook (FB.O), G20 officials said on Saturday. \r\nGlobal rules are being developed by\u2026 [+2538 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Kalin",
+            "title": "Let's come together to tax tech giants, say G20 officials eyeing $100 billion boost",
+            "description": "Leading world economies must show unity in dealing with aggressive \"tax optimisation\" by global digital giants like Google, Amazon and Facebook, G20 officials said on Saturday.",
+            "url": "https://in.reuters.com/article/g20-tax-idINKCN20G0CM",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493678990&w=1200&r=LYNXNPEG1L07U",
+            "publishedAt": "2020-02-22T11:15:30Z",
+            "content": "RIYADH (Reuters) - Leading world economies must show unity in dealing with aggressive \u201ctax optimisation\u201d by global digital giants like Google, Amazon and Facebook, G20 officials said on Saturday. \r\nGlobal rules are being developed by the Organisation for Econ\u2026 [+4168 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Late Real fee request ended Bale's China move hopes, says Jiangsu boss",
+            "description": "Real Madrid's last minute decision to insist on a transfer fee ended the club's hopes of offloading Welsh winger Gareth Bale to Jiangsu Suning, the Chinese Super League side's head coach Cosmin Olaroiu said.",
+            "url": "https://af.reuters.com/article/sportsNews/idAFKCN20G0IX-OZASP",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493744249&w=1200&r=LYNXNPEG1L0D6-OZASP",
+            "publishedAt": "2020-02-22T13:12:58Z",
+            "content": "HONG KONG (Reuters) - Real Madrid\u2019s last minute decision to insist on a transfer fee ended the club\u2019s hopes of offloading Welsh winger Gareth Bale to Jiangsu Suning, the Chinese Super League side\u2019s head coach Cosmin Olaroiu said. \r\nBale, who joined Madrid fro\u2026 [+2094 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus incubation could be as long as 27 days, Chinese provincial government says",
+            "description": "A 70-year-old man in China's Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus' incubation period could be much longer than the presumed 14 days.",
+            "url": "https://www.reuters.com/article/uk-china-health-incubation-idUKKCN20G072",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493620200&w=1200&r=LYNXNPEG1L046",
+            "publishedAt": "2020-02-22T05:58:54Z",
+            "content": "SHANGHAI (Reuters) - A 70-year-old man in China\u2019s Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus\u2019 incubation period could be much longer than the presumed 14\u2026 [+598 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Julie Steenhuysen",
+            "title": "Wuhan woman with no symptoms infects five relatives with coronavirus - study",
+            "description": "A 20-year-old Chinese woman from Wuhan, the epicentre of the coronavirus outbreak, travelled 400 miles(675 km) north to Anyang where she infected five relatives, without ever showing signs of infection, Chinese scientists reported on Friday, offering new evid\u2026",
+            "url": "https://www.reuters.com/article/uk-china-health-study-idUKKBN20G00H",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493533550&w=1200&r=LYNXMPEG1L00F",
+            "publishedAt": "2020-02-22T01:01:20Z",
+            "content": "(Reuters) - A 20-year-old Chinese woman from Wuhan, the epicentre of the coronavirus outbreak, travelled 400 miles(675 km) north to Anyang where she infected five relatives, without ever showing signs of infection, Chinese scientists reported on Friday, offer\u2026 [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Ten new cases of coronavirus in Iran, one dead: health ministry",
+            "description": "Ten new cases of coronavirus have been detected in Iran, one of whom has died, Health Ministry spokesman Kianush Jahanpur said on state TV on Saturday.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-idUKKCN20G0C4",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493674152&w=1200&r=LYNXNPEG1L07L",
+            "publishedAt": "2020-02-22T09:57:10Z",
+            "content": "DUBAI (Reuters) - Ten new cases of coronavirus have been detected in Iran, one of whom has died, Health Ministry spokesman Kianush Jahanpur said on state TV on Saturday. \r\nThe new numbers announced by the health ministry bring the total number of cases of the\u2026 [+136 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Iranian mayor tests positive for coronavirus: state TV",
+            "description": "An Iranian official has tested positive for coronavirus, state TV reported on Saturday.",
+            "url": "https://uk.reuters.com/article/us-china-health-iran-idUKKCN20G075",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:58:40Z",
+            "content": "DUBAI (Reuters) - An Iranian official has tested positive for coronavirus, state TV reported on Saturday. \r\nMorteza Rahmanzadeh, the mayor of district 13 of the capital Tehran, was hospitalized with coronavirus symptoms on Friday, according to state TV. \r\nThe\u2026 [+235 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Iranian mayor tests positive for coronavirus - state TV",
+            "description": "An Iranian official has tested positive for coronavirus, state TV reported on Saturday.",
+            "url": "https://uk.reuters.com/article/china-health-iran-idUKL1N2AM01P",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:51:56Z",
+            "content": "DUBAI, Feb 22 (Reuters) - An Iranian official has tested positive for coronavirus, state TV reported on Saturday. \r\nMorteza Rahmanzadeh, the mayor of district 13 of the capital Tehran, was hospitalized with coronavirus symptoms on Friday, according to state T\u2026 [+243 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Japan confirms four more virus cases, to close a school for two days",
+            "description": "Japanese officials confirmed four new coronavirus infections on Saturday as the number of cases outside of China continued to climb.",
+            "url": "https://uk.reuters.com/article/us-china-health-japan-idUKKCN20G06M",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:28:24Z",
+            "content": "TOKYO (Reuters) - Japanese officials confirmed four new coronavirus infections on Saturday as the number of cases outside of China continued to climb. \r\nOne of the new cases is a woman in her 60s who is a junior high school teacher in Chiba prefecture, east o\u2026 [+1095 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Japan confirms four more virus cases, to close a school for two days",
+            "description": "Japanese officials confirmed four new coronavirus infections on Saturday as the number of cases outside of China continued to climb.",
+            "url": "https://uk.reuters.com/article/uk-china-health-japan-idUKKCN20G06O",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:30:06Z",
+            "content": "TOKYO (Reuters) - Japanese officials confirmed four new coronavirus infections on Saturday as the number of cases outside of China continued to climb. \r\nOne of the new cases is a woman in her 60s who is a junior high school teacher in Chiba prefecture, east o\u2026 [+1095 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "South Korea says coronavirus cases more than double, total now 433",
+            "description": "South Korea said on Saturday that the number of people infected with the coronavirus in the country had more than doubled to 433.",
+            "url": "https://uk.reuters.com/article/uk-china-health-southkorea-cases-toll-idUKKCN20G0BM",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T08:55:25Z",
+            "content": "SEOUL (Reuters) - South Korea said on Saturday that the number of people infected with the coronavirus in the country had more than doubled to 433. \r\nKorea\u2019s Centers for Disease Control and Prevention reported 142 new cases at a morning briefing and another 8\u2026 [+376 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China's central will guide interest rates lower to aid virus-hit economy: state media",
+            "description": "China will guide overall market interest rates lower and keep liquidity appropriately ample to help companies affected by the coronavirus epidemic, a senior central banker told state media.'",
+            "url": "https://www.reuters.com/article/us-china-health-economy-interestrates-idUSKCN20G03G",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493568732&w=1200&r=LYNXNPEG1L01O",
+            "publishedAt": "2020-02-22T02:38:06Z",
+            "content": "SHANGHAI/BEIJING (Reuters) - China will guide overall market interest rates lower and keep liquidity appropriately ample to help companies affected by the coronavirus epidemic, a senior central banker told state media. \r\nLiu Guoqiang, deputy governor of the P\u2026 [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Tokyo postpones training for Olympics volunteers over virus fears",
+            "description": "Organizers for the Tokyo 2020 Summer Olympics have postponed training for volunteers because of the spread of the coronavirus in Japan.'",
+            "url": "https://www.reuters.com/article/us-china-health-tokyo-idUSKCN20G03X",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493573208&w=1200&r=LYNXNPEG1L01W",
+            "publishedAt": "2020-02-22T02:54:07Z",
+            "content": "TOKYO (Reuters) - Organizers for the Tokyo 2020 Summer Olympics have postponed training for volunteers because of the spread of the coronavirus in Japan. \r\nTraining was scheduled to be held starting Saturday but will be rescheduled, the organizing committee s\u2026 [+1159 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Tokyo postpones training for Olympics volunteers over virus fears",
+            "description": "Organisers for the Tokyo 2020 Summer Olympics have postponed training for volunteers because of the spread of the coronavirus in Japan.'",
+            "url": "https://www.reuters.com/article/china-health-tokyo-idUSL3N2AM009",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T02:52:24Z",
+            "content": "TOKYO, Feb 22 (Reuters) - Organisers for the Tokyo 2020 Summer Olympics have postponed training for volunteers because of the spread of the coronavirus in Japan. \r\nTraining was scheduled to be held starting Saturday but will be rescheduled, the organising com\u2026 [+1167 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "South Korea says coronavirus cases more than double, total now 433",
+            "description": "South Korea said on Saturday that the number of people infected with the coronavirus in the country had more than doubled to 433.",
+            "url": "https://uk.reuters.com/article/us-china-health-southkorea-cases-idUKKCN20G0BK",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493668555&w=1200&r=LYNXNPEG1L07D",
+            "publishedAt": "2020-02-22T08:54:03Z",
+            "content": "SEOUL (Reuters) - South Korea said on Saturday that the number of people infected with the coronavirus in the country had more than doubled to 433. \r\nKorea\u2019s Centers for Disease Control and Prevention reported 142 new cases at a morning briefing and another 8\u2026 [+376 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Ten new cases of coronavirus in Iran, one dead- health ministry",
+            "description": "Ten new cases of coronavirus have been detected in Iran, one of whom has died, Health Ministry spokesman Kianush Jahanpur said on state TV on Saturday.",
+            "url": "https://uk.reuters.com/article/uk-china-health-iran-idUKKCN20G0C6",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493686438&w=1200&r=LYNXNPEG1L07M",
+            "publishedAt": "2020-02-22T09:59:46Z",
+            "content": "DUBAI (Reuters) - Ten new cases of coronavirus have been detected in Iran, one of whom has died, Health Ministry spokesman Kianush Jahanpur said on state TV on Saturday. \r\nThe new numbers bring the total number of cases of the new coronavirus in the country t\u2026 [+1195 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Tokyo postpones training for Olympics volunteers over virus fears",
+            "description": "Organisers for the Tokyo 2020 Summer Olympics have postponed training for volunteers because of the spread of the coronavirus in Japan.",
+            "url": "https://uk.reuters.com/article/uk-china-health-tokyo-idUKKCN20G03Z",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493573233&w=1200&r=LYNXNPEG1L01X",
+            "publishedAt": "2020-02-22T02:54:49Z",
+            "content": "TOKYO (Reuters) - Organisers for the Tokyo 2020 Summer Olympics have postponed training for volunteers because of the spread of the coronavirus in Japan. \r\nTraining was scheduled to be held starting Saturday but will be rescheduled, the organising committee s\u2026 [+1159 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-IMF's Georgieva says coronavirus to shave 0.1 percentage points from global growth",
+            "description": "The fast-spreading coronavirus outbreak will likely lower China's economic growth this year to 5.6%, down 0.4 percentage points from its January outlook, and shave 0.1 percentage points from global growth, the IMF said on Saturday.",
+            "url": "https://www.reuters.com/article/us-g20-coronavirus-imf-idUSKCN20G0KE",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493758487&w=1200&r=LYNXNPEG1L0E1",
+            "publishedAt": "2020-02-22T13:58:15Z",
+            "content": "RIYADH (Reuters) - The fast-spreading coronavirus outbreak will likely lower China\u2019s economic growth this year to 5.6%, down 0.4 percentage points from its January outlook, and shave 0.1 percentage points from global growth, the IMF said on Saturday. \r\nIntern\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-IMF's Georgieva says coronavirus to shave 0.1 percentage points from global growth",
+            "description": "The fast-spreading coronavirus outbreak will likely lower China's economic growth this year to 5.6%, down 0.4 percentage points from its January outlook, and shave 0.1 percentage points from global growth, the IMF said on Saturday.",
+            "url": "https://uk.reuters.com/article/us-g20-coronavirus-imf-idUKKCN20G0KE",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493758487&w=1200&r=LYNXNPEG1L0E1",
+            "publishedAt": "2020-02-22T13:58:15Z",
+            "content": "RIYADH (Reuters) - The fast-spreading coronavirus outbreak will likely lower China\u2019s economic growth this year to 5.6%, down 0.4 percentage points from its January outlook, and shave 0.1 percentage points from global growth, the IMF said on Saturday. \r\nIntern\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Babak Dehghanpisheh",
+            "title": "UPDATE 5-Ten new cases of coronavirus in Iran, two dead- officials",
+            "description": "Authorities in Iran on Saturday announced the detection of at least 10 new cases of coronavirus and two more deaths, deepening a sense of public unease over the handling of the spread of the disease.'",
+            "url": "https://www.reuters.com/article/china-health-iran-idUSL5N2AM0JT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T17:55:15Z",
+            "content": "(Adds Kuwait evacuating citizens from northeast Iran) \r\nBy Babak Dehghanpisheh \r\nDUBAI, Feb 22 (Reuters) - Authorities in Iran on Saturday announced the detection of at least 10 new cases of coronavirus and two more deaths, deepening a sense of public unease \u2026 [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Babak Dehghanpisheh",
+            "title": "UPDATE 5-Ten new cases of coronavirus in Iran, two dead- officials",
+            "description": "Authorities in Iran on Saturday announced the detection of at least 10 new cases of coronavirus and two more deaths, deepening a sense of public unease over the handling of the spread of the disease.",
+            "url": "https://uk.reuters.com/article/china-health-iran-idUKL5N2AM0JT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T17:55:15Z",
+            "content": "(Adds Kuwait evacuating citizens from northeast Iran) \r\nBy Babak Dehghanpisheh \r\nDUBAI, Feb 22 (Reuters) - Authorities in Iran on Saturday announced the detection of at least 10 new cases of coronavirus and two more deaths, deepening a sense of public unease \u2026 [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "WHO concerned about coronavirus cases with no clear link",
+            "description": "The World Health Organization (WHO) is concerned about the number of coronavirus cases with no clear epidemiological link, although the total number of cases outside China remains relatively small, its director general said on Saturday.",
+            "url": "https://af.reuters.com/article/topNews/idAFKCN20G0JC-OZATP",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493748023&w=1200&r=LYNXNPEG1L0DC-OZATP",
+            "publishedAt": "2020-02-22T13:29:59Z",
+            "content": "VIENNA (Reuters) - The World Health Organization (WHO) is concerned about the number of coronavirus cases with no clear epidemiological link, although the total number of cases outside China remains relatively small, its director general said on Saturday. \r\nC\u2026 [+2000 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "WHO concerned about coronavirus cases with no clear epidemiological link",
+            "description": "The World Health Organization (WHO) is concerned about the number of coronavirus cases with no clear epidemiological link, although the total number of cases outside China remains relatively small, its director general said on Saturday.",
+            "url": "https://uk.reuters.com/article/uk-china-health-who-idUKKCN20G0BY",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493672845&w=1200&r=LYNXNPEG1L07J",
+            "publishedAt": "2020-02-22T09:58:49Z",
+            "content": "VIENNA (Reuters) - The World Health Organization (WHO) is concerned about the number of coronavirus cases with no clear epidemiological link, although the total number of cases outside China remains relatively small, its director general said on Saturday. \r\nC\u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Markets underprice coronavirus risk: UBS chairman on Bloomberg TV",
+            "description": "Markets are underpricing the risk that the coronavirus outbreak poses to the global economy, and central banks need to help business survive the impact of the virus, the chairman of Swiss lender UBS , Axel Weber, said.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKCN20G0ID",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493733657&w=1200&r=LYNXNPEG1L0CG",
+            "publishedAt": "2020-02-22T12:37:33Z",
+            "content": "VIENNA (Reuters) - Markets are underpricing the risk that the coronavirus outbreak poses to the global economy, and central banks need to help business survive the impact of the virus, the chairman of Swiss lender UBS (UBSG.S), Axel Weber, said. \r\n\u201cThere is g\u2026 [+622 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Second coronavirus patient dies in Italy - Ansa news agency",
+            "description": "A second patient infected with the new coronavirus has died in Italy, ANSA news agency reported citing healthcare sources, as an outbreak spreads in the north of the country with 30 cases reported so far.",
+            "url": "https://uk.reuters.com/article/uk-china-health-italy-idUKKCN20G0CU",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493681589&w=1200&r=LYNXNPEG1L082",
+            "publishedAt": "2020-02-22T09:58:49Z",
+            "content": "MILAN (Reuters) - A second patient infected with the new coronavirus has died in Italy, ANSA news agency reported citing healthcare sources, as an outbreak spreads in the north of the country with 30 cases reported so far. \r\nThe victim was a female resident i\u2026 [+199 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Sangmi Cha",
+            "title": "South Korea coronavirus cases more than double in a day",
+            "description": "South Korea said on Saturday that the number of new coronavirus cases in the country had doubled to 433, and officials suggested that the tally could rise significantly as more than 1,000 people who attended a church at the centre of the outbreak reported flu\u2026",
+            "url": "https://uk.reuters.com/article/uk-china-health-southkorea-cases-idUKKCN20G04K",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493685184&w=1200&r=LYNXNPEG1L02C",
+            "publishedAt": "2020-02-22T09:57:19Z",
+            "content": "SEOUL (Reuters) - South Korea said on Saturday that the number of new coronavirus cases in the country had doubled to 433, and officials suggested that the tally could rise significantly as more than 1,000 people who attended a church at the centre of the out\u2026 [+3332 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Valentina Za",
+            "title": "Italy's coronavirus outbreak infects 51 people, kills two",
+            "description": "An outbreak of the new coronavirus has killed two people and infected another 51 in northern Italy, forcing authorities to ban public events and companies to tell workers in affected areas to stay at home.",
+            "url": "https://uk.reuters.com/article/us-china-health-italy-idUKKCN20G0CQ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493805848&w=1200&r=LYNXNPEG1L0CV",
+            "publishedAt": "2020-02-22T16:57:35Z",
+            "content": "MILAN (Reuters) - An outbreak of the new coronavirus has killed two people and infected another 51 in northern Italy, forcing authorities to ban public events and companies to tell workers in affected areas to stay at home. \r\nA 77-year-old woman who was found\u2026 [+2562 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Latest on coronavirus spreading in China and beyond",
+            "description": "China reported a sharp decrease in new deaths and cases of the coronavirus on Saturday but a doubling of infections in South Korea and 10 new cases in Iran added to unease about its rapid spread and global reach.",
+            "url": "https://uk.reuters.com/article/uk-china-health-latest-factbox-idUKKBN20F0JT",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493827870&w=1200&r=LYNXNPEG1L0C6",
+            "publishedAt": "2020-02-22T19:53:41Z",
+            "content": "(Reuters) - China reported a sharp decrease in new deaths and cases of the coronavirus on Saturday but a doubling of infections in South Korea and 10 new cases in Iran added to unease about its rapid spread and global reach. \r\n** China has reported a total of\u2026 [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Samsung Electronics confirms one coronavirus case at phone factory complex in South Korea",
+            "description": "Samsung Electronics <005930.KS> said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKCN20G0CG",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493678833&w=1200&r=LYNXNPEG1L07W",
+            "publishedAt": "2020-02-22T09:34:53Z",
+            "content": "SEOUL (Reuters) - Samsung Electronics (005930.KS) said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility. \r\nSamsung Electronics, the world\u2019\u2026 [+232 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Samsung Electronics confirms one coronavirus case at phone factory complex in South Korea",
+            "description": "Samsung Electronics <005930.KS> said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility.",
+            "url": "https://ca.reuters.com/article/technologyNews/idCAKCN20G0CG-OCATC",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493679242&w=1200&r=LYNXNPEG1L07W-OCATC",
+            "publishedAt": "2020-02-22T09:34:53Z",
+            "content": "SEOUL (Reuters) - Samsung Electronics (005930.KS) said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility. \r\nSamsung Electronics, the world\u2019\u2026 [+232 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Hubei's medical supply situation improving, but shortages remain - official",
+            "description": "The medical supply situation in China's Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday.",
+            "url": "https://uk.reuters.com/article/uk-china-health-hubei-idUKKCN20G0BS",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T09:00:15Z",
+            "content": "BEIJING (Reuters) - The medical supply situation in China\u2019s Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday. \r\nCao Guangjing, the \u2026 [+313 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Hubei's medical supply situation improving, but shortages remain - official",
+            "description": "The medical supply situation in China's Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday.'",
+            "url": "https://www.reuters.com/article/china-health-hubei-idUSB9N2A2079",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T08:58:04Z",
+            "content": "BEIJING, Feb 22 (Reuters) - The medical supply situation in China\u2019s Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday. \r\nCao Guangji\u2026 [+321 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Leika Kihara",
+            "title": "Japan urges G20 members with fiscal scope to boost spending",
+            "description": "Japan called on G20 countries with fiscal space to ramp up spending to help the global economy weather risks, including the fallout from the coronavirus outbreak, Finance Minister Taro Aso said on Saturday.'",
+            "url": "https://www.reuters.com/article/us-g20-saudi-japan-aso-idUSKCN20G0OL",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493804867&w=1200&r=LYNXNPEG1L0GY",
+            "publishedAt": "2020-02-22T16:54:47Z",
+            "content": "RIYADH (Reuters) - Japan called on G20 countries with fiscal space to ramp up spending to help the global economy weather risks, including the fallout from the coronavirus outbreak, Finance Minister Taro Aso said on Saturday. \r\nThe epidemic has cast a cloud o\u2026 [+2259 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Soccer-Select Serie A matches among fixtures cancelled in Italy after coronavirus outbreak",
+            "description": "Serie A soccer matches in the northern Italian regions of Lombardy and Veneto will not be played on Sunday because of an outbreak of the coronavirus, the government said in a statement.'",
+            "url": "https://www.reuters.com/article/china-health-italy-soccer-idUSL5N2AM0QZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T23:48:06Z",
+            "content": "ROME, Feb 22 (Reuters) - Serie A soccer matches in the northern Italian regions of Lombardy and Veneto will not be played on Sunday because of an outbreak of the coronavirus, the government said in a statement. \r\nThe three impacted fixtures are clashes betwee\u2026 [+1181 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Hubei's medical supply situation improving, but shortages remain - official",
+            "description": "The medical supply situation in China's Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday.",
+            "url": "https://uk.reuters.com/article/china-health-hubei-idUKB9N2A2079",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T08:58:04Z",
+            "content": "BEIJING, Feb 22 (Reuters) - The medical supply situation in China\u2019s Hubei, which has been hard hit by the coronavirus outbreak, has improved, but items such as protective suits remain scarce, a provincial official said at a briefing on Saturday. \r\nCao Guangji\u2026 [+321 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stephen Kalin and Andrea Shalal",
+            "title": "G20 sees need to coordinate coronavirus response as IMF trims growth forecasts",
+            "description": "The world's top economies called on Saturday for a coordinated response to the coronavirus outbreak, which the IMF predicted would lower China's growth this year to 5.6% and shave 0.1 percentage points from global growth.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKCN20G0KE",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493807952&w=1200&r=LYNXNPEG1L0E1",
+            "publishedAt": "2020-02-22T17:04:11Z",
+            "content": "RIYADH (Reuters) - The world\u2019s top economies called on Saturday for a coordinated response to the coronavirus outbreak, which the IMF predicted would lower China\u2019s growth this year to 5.6% and shave 0.1 percentage points from global growth. \r\nInternational Mo\u2026 [+3257 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "British passengers from virus-hit cruise ship due to arrive home",
+            "description": "Some 35 British passengers were due to arrive back home on Saturday after spending more than two weeks stuck on a quarantined cruise ship in a Japanese port due to the coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-britain-idUSKBN20G005",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T00:04:30Z",
+            "content": "LONDON (Reuters) - Some 35 British passengers were due to arrive back home on Saturday after spending more than two weeks stuck on a quarantined cruise ship in a Japanese port due to the coronavirus outbreak. \r\nThey were landing at a defense ministry airfield\u2026 [+907 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Leika Kihara",
+            "title": "Bank of Japan says it's ready to ease monetary policy, but economy recovering",
+            "description": "Bank of Japan Governor Haruhiko Kuroda said on Saturday the yen's recent declines were largely driven by a strong dollar, shrugging off some market views that the widening coronavirus epidemic is triggering an outflow of funds from Asia.",
+            "url": "https://uk.reuters.com/article/uk-g20-saudi-boj-idUKKCN20G09X",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493653221&w=1200&r=LYNXNPEG1L068",
+            "publishedAt": "2020-02-22T07:59:43Z",
+            "content": "RIYADH (Reuters) - Bank of Japan Governor Haruhiko Kuroda said on Saturday the yen\u2019s recent declines were largely driven by a strong dollar, shrugging off some market views that the widening coronavirus epidemic is triggering an outflow of funds from Asia. \r\n\u2026 [+1255 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Samsung Electronics confirms coronavirus case at phone factory complex in South Korea",
+            "description": "Samsung Electronics <005930.KS> said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility.",
+            "url": "https://uk.reuters.com/article/uk-china-health-southkorea-samsung-elec-idUKKCN20G0CO",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493681590&w=1200&r=LYNXNPEG1L07X",
+            "publishedAt": "2020-02-22T09:58:49Z",
+            "content": "SEOUL (Reuters) - Samsung Electronics (005930.KS) said on Saturday that one coronavirus case had been confirmed at its mobile device factory complex in the southeastern city of Gumi, causing a shutdown of its entire facility. \r\nSamsung Electronics, the world\u2019\u2026 [+232 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "British passengers from virus-hit cruise ship arrive home",
+            "description": "Some 30 British passengers arrived back home on Saturday after spending more than two weeks stuck on a quarantined cruise ship in a Japanese port due to the coronavirus outbreak.",
+            "url": "https://uk.reuters.com/article/uk-china-health-britain-idUKKBN20G009",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493772361&w=1200&r=LYNXNPEG1L0EG",
+            "publishedAt": "2020-02-22T14:55:51Z",
+            "content": "LONDON (Reuters) - Some 30 British passengers arrived back home on Saturday after spending more than two weeks stuck on a quarantined cruise ship in a Japanese port due to the coronavirus outbreak. \r\nThey landed at a defence ministry airfield in southwestern \u2026 [+894 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China c.bank vice governor: Coronavirus' impact on China's economy short-term, limited - state media",
+            "description": "A senior Chinese central banker said that coronavirus' impact on China's economy is short-term and limited, and the country is fully confident that it will win the war against the epidemic, state media reported on Saturday.",
+            "url": "https://uk.reuters.com/article/us-china-health-pboc-idUKKBN20G024",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493544350&w=1200&r=LYNXMPEG1L012",
+            "publishedAt": "2020-02-22T00:59:03Z",
+            "content": "SHANGHAI (Reuters) - A senior Chinese central banker said that coronavirus\u2019 impact on China\u2019s economy is short-term and limited, and the country is fully confident that it will win the war against the epidemic, state media reported on Saturday. \r\nChen Yulu, d\u2026 [+454 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lidia Kelly",
+            "title": "Australia reopens the door to some Chinese students after coronavirus ban",
+            "description": "The Australian government said on Saturday it will allow the return of some Chinese high school students who have been blocked from entering the country due coronavirus restrictions, reopening the door to a market that is key for the economy.",
+            "url": "https://af.reuters.com/article/worldNews/idAFKCN20G07M",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T06:12:41Z",
+            "content": "MELBOURNE (Reuters) - The Australian government said on Saturday it will allow the return of some Chinese high school students who have been blocked from entering the country due coronavirus restrictions, reopening the door to a market that is key for the eco\u2026 [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-British passengers from virus-hit cruise ship arrive home",
+            "description": "(updates after plane lands)'",
+            "url": "https://www.reuters.com/article/china-health-britain-idUSL5N2AM08Y",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T11:39:58Z",
+            "content": "(updates after plane lands) \r\nLONDON, Feb 22 (Reuters) - Some 30 British passengers arrived back home on Saturday after spending more than two weeks stuck on a quarantined cruise ship in a Japanese port due to the coronavirus outbreak. \r\nThey landed at a defe\u2026 [+932 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China brings in seven cruise ships to house Wuhan medical workers",
+            "description": "China is bringing in seven cruise ships to house medical workers in Wuhan, state media said on Saturday, at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted the coronavirus.'",
+            "url": "https://www.reuters.com/article/china-health-wuhan-cruise-idUSL3N2AM02H",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T06:55:10Z",
+            "content": "BEIJING, Feb 22 (Reuters) - China is bringing in seven cruise ships to house medical workers in Wuhan, state media said on Saturday, at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted th\u2026 [+1225 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China brings in seven cruise ships to house Wuhan medical workers",
+            "description": "China is bringing in seven cruise ships to house medical workers in Wuhan, state media said on Saturday, at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted the coronavirus.",
+            "url": "https://uk.reuters.com/article/china-health-wuhan-cruise-idUKL3N2AM02H",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T06:55:10Z",
+            "content": "BEIJING, Feb 22 (Reuters) - China is bringing in seven cruise ships to house medical workers in Wuhan, state media said on Saturday, at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted th\u2026 [+1225 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus incubation could be as long as 27 days, Chinese provincial government says",
+            "description": "A 70-year-old man in China's Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus' incubation period could be much longer than the presumed 14 days.",
+            "url": "https://uk.reuters.com/article/us-china-health-incubation-idUKKCN20G06W",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:44:10Z",
+            "content": "SHANGHAI (Reuters) - A 70-year-old man in China\u2019s Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus\u2019 incubation period could be much longer than the presumed 14\u2026 [+598 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus incubation could be as long as 27 days, Chinese provincial government says",
+            "description": "A 70-year-old man in China's Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus' incubation period could be much longer than the presumed 14 days.",
+            "url": "https://uk.reuters.com/article/uk-china-health-incubation-idUKKCN20G072",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493620200&w=1200&r=LYNXNPEG1L046",
+            "publishedAt": "2020-02-22T05:58:54Z",
+            "content": "SHANGHAI (Reuters) - A 70-year-old man in China\u2019s Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus\u2019 incubation period could be much longer than the presumed 14\u2026 [+598 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus incubation could be as long as 27 days, Chinese provincial government says",
+            "description": "A 70-year-old man in China's Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus' incubation period could be much longer than the presumed 14 days.",
+            "url": "https://uk.reuters.com/article/china-health-incubation-idUKL3N2AM01X",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T05:42:01Z",
+            "content": "SHANGHAI, Feb 22 (Reuters) - A 70-year-old man in China\u2019s Hubei Province was infected with coronavirus but did not show symptoms until 27 days later, the local government said on Saturday, meaning the virus\u2019 incubation period could be much longer than the pre\u2026 [+606 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. blocking G20 mention of climate change in draft communique, G20 diplomats say",
+            "description": "The United States is against mentioning climate change in the communique of the world's financial leaders, G20 diplomats said, after a new draft of the joint statement showed the G20 are considering including it as a risk factor to growth.",
+            "url": "https://ca.reuters.com/article/topNews/idCAKCN20G0JU",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493754168&w=1200&r=LYNXNPEG1L0DS",
+            "publishedAt": "2020-02-22T13:52:01Z",
+            "content": "RIYADH (Reuters) - The United States is against mentioning climate change in the communique of the world\u2019s financial leaders, G20 diplomats said, after a new draft of the joint statement showed the G20 are considering including it as a risk factor to growth. \u2026 [+1208 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. blocking G20 mention of climate change in draft communique - sources",
+            "description": "(widens distribution to include media clients)'",
+            "url": "https://www.reuters.com/article/g20-draft-climate-idUSL5N2AM0CC",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T13:48:05Z",
+            "content": "(widens distribution to include media clients) \r\nRIYADH, Feb 22 (Reuters) - The United States is against mentioning climate change in the communique of the world\u2019s financial leaders, G20 diplomats said, after a new draft of the joint statement showed the G20 \u2026 [+1265 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Samuel Shen and Cheng Leng",
+            "title": "China reports fall in coronavirus cases, says economy resilient, but infections rising elsewhere",
+            "description": "China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight against the epidemic.",
+            "url": "https://ca.reuters.com/article/topNews/idCAKCN20G05W",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493602258&w=1200&r=LYNXNPEG1L03B",
+            "publishedAt": "2020-02-22T04:52:56Z",
+            "content": "SHANGHAI/BEIJING (Reuters) - China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight agai\u2026 [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Cheng Leng",
+            "title": "China reports fall in new coronavirus cases but concerns grow over spread elsewhere",
+            "description": "China reported a sharp decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident of winning the fight against the epidemic.",
+            "url": "https://uk.reuters.com/article/us-china-health-idUKKCN20G05W",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493602258&w=1200&r=LYNXNPEG1L03B",
+            "publishedAt": "2020-02-22T07:57:59Z",
+            "content": "BEIJING (Reuters) - China reported a sharp decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident of winning the fight against\u2026 [+5822 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Samuel Shen",
+            "title": "China reports fall in coronavirus cases, says economy resilient, but infections rising elsewhere",
+            "description": "China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight against the epidemic.",
+            "url": "https://uk.reuters.com/article/uk-china-health-idUKKCN20G05Y",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493601232&w=1200&r=LYNXNPEG1L039",
+            "publishedAt": "2020-02-22T04:49:52Z",
+            "content": "SHANGHAI/BEIJING (Reuters) - China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight agai\u2026 [+5506 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Samuel Shen and Cheng Leng",
+            "title": "China reports fall in coronavirus cases, says economy resilient, but infections rising elsewhere",
+            "description": "China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight against the epidemic.",
+            "url": "https://af.reuters.com/article/worldNews/idAFKCN20G05Y",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493601232&w=1200&r=LYNXNPEG1L039",
+            "publishedAt": "2020-02-22T06:04:24Z",
+            "content": "SHANGHAI/BEIJING (Reuters) - China reported a decrease in the number of new deaths and new cases of the coronavirus on Saturday, while its central bank predicted a limited short-term economic impact and said the country was confident in winning the fight agai\u2026 [+5506 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Huizhong Wu",
+            "title": "Sealed in: Chinese trapped at home by coronavirus feel the strain",
+            "description": "During weeks holed up in her grandmother's apartment with 10 relatives and eating a restricted diet, Chinese teenager Li Yuxuan says tempers have frayed.",
+            "url": "https://af.reuters.com/article/worldNews/idAFKCN20G0AW",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493670132&w=1200&r=LYNXNPEG1L079",
+            "publishedAt": "2020-02-22T09:03:54Z",
+            "content": "BEIJING (Reuters) - During weeks holed up in her grandmother\u2019s apartment with 10 relatives and eating a restricted diet, Chinese teenager Li Yuxuan says tempers have frayed. \r\nLi and her family are among the millions of people across China\u2019s Hubei province, e\u2026 [+5330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Huizhong Wu",
+            "title": "Sealed in: Chinese trapped at home by coronavirus feel the strain",
+            "description": "During weeks holed up in her grandmother's apartment with 10 relatives and eating a restricted diet, Chinese teenager Li Yuxuan says tempers have frayed.",
+            "url": "https://uk.reuters.com/article/uk-china-health-quarantine-idUKKCN20G0AW",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493667458&w=1200&r=LYNXNPEG1L079",
+            "publishedAt": "2020-02-22T08:53:10Z",
+            "content": "BEIJING (Reuters) - During weeks holed up in her grandmother\u2019s apartment with 10 relatives and eating a restricted diet, Chinese teenager Li Yuxuan says tempers have frayed. \r\nLi and her family are among the millions of people across China\u2019s Hubei province, e\u2026 [+5330 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-South Korea coronavirus cases surge due to church, hospital outbreaks",
+            "description": "* National tally at 346, including 2 deaths",
+            "url": "https://uk.reuters.com/article/china-health-southkorea-cases-idUKL4N2AM02A",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-22T02:57:52Z",
+            "content": "* National tally at 346, including 2 deaths \r\n* Cheongdo hospital cases jump \r\n* Almost half of all cases linked to Daegu church \r\n* (Recasts and updates throughout with more detail) \r\nSEOUL, Feb 22 (Reuters) - South Korea reported 142 new confirmed cases of \u2026 [+1566 chars]"
+        }
+    ]
+}

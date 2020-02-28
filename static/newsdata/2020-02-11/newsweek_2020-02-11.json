@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Viruses Like Coronavirus Can Wreak More 'Havoc' Than a Terrorist Attack And Must be Addressed Now, Health Official Warns",
+            "description": "World Health Organization director-general Tedros Adhanom Ghebreyesus said countries should treat the new coronavirus from China as \"public enemy number one.\"",
+            "url": "https://www.newsweek.com/viruses-like-coronavirus-can-wreak-more-havoc-terrorist-attack-must-addressed-now-health-1486792",
+            "urlToImage": "https://d.newsweek.com/en/full/1566585/coronavirus-terrorism-who-window-opportunity.jpg",
+            "publishedAt": "2020-02-11T19:07:57Z",
+            "content": "World Health Organization Director-General Tedros Adhanom Ghebreyesus urged countries to respond strongly to the new coronavirus while it is relatively contained because not doing so could have significant consequences.\r\n\"To be honest, a virus is more powerfu\u2026 [+3197 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Father of Cruise Ship Passenger Stranded by Coronavirus Fears Begs Trump for Help, Says She 'Needs Medical Attention'",
+            "description": "A Holland America Line cruise ship has been unable to dock for almost two weeks, despite having no reported cases of the virus.",
+            "url": "https://www.newsweek.com/coronavirus-ms-westerdam-holland-america-stranded-thailand-trump-1486716",
+            "urlToImage": "https://d.newsweek.com/en/full/1566533/laem-chabang-port-thailand-2012.jpg",
+            "publishedAt": "2020-02-11T16:40:11Z",
+            "content": "A cruise ship with no confirmed coronavirus cases has been denied entry to Thailand on Tuesday and reportedly nearly every port since it left Hong Kong earlier this month.\r\nSeveral of the more than 2,200 passengers aboard, around 600 of whom are reported to b\u2026 [+9623 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Could Coronavirus Really Be Killed by Hot Weather? Scientists Weigh In",
+            "description": "The bug known as 2019-nCoV has killed over 1,000 people and spread to over 25 countries and territories.",
+            "url": "https://www.newsweek.com/could-coronavirus-really-killed-hot-weather-scientists-weigh-1486709",
+            "urlToImage": "https://d.newsweek.com/en/full/1566512/president-donald-trump-white-house.jpg",
+            "publishedAt": "2020-02-11T15:49:02Z",
+            "content": "Scientists have urged members of the public not to let their guard down against the deadly new coronavirus, after President Donald Trump claimed it could die off by the spring due to the heat.\r\nSpeaking at the White House on Monday, Trump said he had spoken w\u2026 [+4319 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Ewan Palmer",
+            "title": "Asian Pupil Sent to School Nurse's Office for Coughing Amid Coronavirus Fears, California Mother Says",
+            "description": "An investigation has been launched into the alleged incident, which took place at Walter Reed Middle School.",
+            "url": "https://www.newsweek.com/coronavirus-california-school-asian-student-coughed-1486689",
+            "urlToImage": "https://d.newsweek.com/en/full/1566485/coronavirus-countries-11-february-statista.jpg",
+            "publishedAt": "2020-02-11T12:08:26Z",
+            "content": "A student of Asian descent in California claims he was sent to his school nurse's office just for coughing amid the coronavirus pandemic.\r\nDylan Muriano, an 8th grader at Walter Reed Middle School, said he was sent out of class by one of his teachers after co\u2026 [+2522 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Russian Scientists Have Created a Material That Kills Flu Virus\u2014And They Hope It Could Protect Against Coronavirus",
+            "description": "More than 1,000 people have died of the new virus known as 2019-nCoV.",
+            "url": "https://www.newsweek.com/russian-scientists-have-created-material-that-kills-flu-virus-they-hope-it-could-protect-1486680",
+            "urlToImage": "https://d.newsweek.com/en/full/1566477/coronavirus-nanosilver-meltblown-mask.jpg",
+            "publishedAt": "2020-02-11T11:44:22Z",
+            "content": "Scientists hope a material which they say can kill bacteria and viruses could be used in face masks to help tackle the outbreak of the new coronavirus, which has killed over 1,000 people.\r\nThe material features nanosilver, which has antibacterial properties, \u2026 [+4218 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "American Woman Recovering From Coronavirus Is 'Feeling Good,' Says Symptoms No Worse than 'Mild Cold or Flu'",
+            "description": "Rebecca Frazier from Oregon was one of more than 130 people infected by 2019-nCoV on board the Diamond Princess, which has been quarantined in Yokahama, Japan.",
+            "url": "https://www.newsweek.com/coronavirus-japan-princess-cruises-rebecca-frazier-1486660",
+            "urlToImage": "https://d.newsweek.com/en/full/1566460/diamond-princess.jpg",
+            "publishedAt": "2020-02-11T10:51:42Z",
+            "content": "A woman who was among more than 130 people diagnosed with coronavirus on board a cruise ship quarantined in Japan has said her symptoms were no worse than those of a cold and that she is recovering well.\r\nRebecca Frazier from Oregon was aboard the Diamond Pri\u2026 [+3038 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Could Spread Through Pipes in Buildings, Officials Fear",
+            "description": "Over 1,000 people are known to have been killed by 2019-nCoV.",
+            "url": "https://www.newsweek.com/coronavirus-could-spread-through-pipes-buildings-officials-fear-1486646",
+            "urlToImage": "https://d.newsweek.com/en/full/1566451/coronavirus-hong-kong-cheung-hong-estatetsing-yi-hong-mei-house.jpg",
+            "publishedAt": "2020-02-11T09:41:22Z",
+            "content": "Over 100 residents have been evacuated from an apartment building in Hong Kong after two people fell ill with the deadly new coronavirus, stoking fears 2019-nCoV could be spread through pipes.\r\nHong Kong's Centre for Health Protection said the two sick people\u2026 [+2601 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Christina Zhao",
+            "title": "Official Coronavirus Death Toll Surpasses 1,000, More than 42,500 Infected",
+            "description": "China announced 108 deaths in the past day, with 103 in the Hubei province, one in Beijing, one in Tianjin and one in the Heilongjiang province.",
+            "url": "https://www.newsweek.com/official-coronavirus-death-toll-surpasses-1000-more-42500-infected-1486622",
+            "urlToImage": "https://d.newsweek.com/en/full/1566412/coronavirus.jpg",
+            "publishedAt": "2020-02-11T03:37:11Z",
+            "content": "The official worldwide coronavirus death toll has surpassed 1,016 since the outbreak began in Wuhan late last year, as governments around the globe work to contain the fast-spreading disease.\r\nThe Chinese National Health Commission on Monday announced that th\u2026 [+2905 chars]"
+        }
+    ]
+}

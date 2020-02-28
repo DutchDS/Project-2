@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Pope rules against married priests in the Amazon",
+            "description": "The Catholic church will not allow married men in the Amazon region to become priests, after Pope Francis rejected the recommendations of a synod. We'll hear reaction from the rainforest region. Also: as the head of the WHO says the coronavirus outbreak in Ch\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq55yq293r3",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0834nyd.jpg",
+            "publishedAt": "2020-02-12T22:06:00Z",
+            "content": "The Catholic church will not allow married men in the Amazon region to become priests, after Pope Francis rejected the recommendations of a synod. We'll hear reaction from the rainforest region.\r\nAlso: as the head of the WHO says the coronavirus outbreak in C\u2026 [+439 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: WHO urges 'extreme caution' over slowdown in China infections",
+            "description": "The coronavirus outbreak \"could still go in any direction\", WHO head Tedros Ghebreyesus says.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51482994",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/177F8/production/_110884269_5d0d0345-4c43-497f-af72-97a2ea1abe2e.jpg",
+            "publishedAt": "2020-02-12T21:05:32Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The number of new daily infections reported by Chinese authorities peaked last week\r\nThe apparent slowdown in the number of new coronavirus cases in China should be viewed with \"extreme caution\", the World Health Org\u2026 [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: The volunteers putting themselves at risk in Wuhan",
+            "description": "A volunteer in the locked down city tells the BBC why he is helping doctors respond to the outbreak.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51480926",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8FDC/production/_110882863_mediaitem110882862.jpg",
+            "publishedAt": "2020-02-12T19:12:00Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Many of Wuhan's streets are deserted\r\nAs Wuhan - the Chinese city at the centre of the coronavirus outbreak - remains under lockdown, groups of volunteers have stepped in to help by taking patients to hospital and ac\u2026 [+4436 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ninth coronavirus case found in UK",
+            "description": "A new UK case, believed to be a woman who flew into London from China, is confirmed to the BBC.",
+            "url": "https://www.bbc.co.uk/news/uk-51481469",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+            "publishedAt": "2020-02-12T18:50:27Z",
+            "content": "A new UK coronavirus case, believed to be a woman who flew into London from China, has been confirmed to the BBC.\r\nIt is understood she will be treated in St Thomas' Hospital, in central London, which has specialist infectious diseases facilities. \r\nIt comes \u2026 [+538 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: More big names pull out of MWC conference",
+            "description": "Nokia, BT, and Vodafone are the latest to withdraw, citing concerns about the new coronavirus.",
+            "url": "https://www.bbc.co.uk/news/technology-51474116",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BE57/production/_110872784_mwcsign2.gif",
+            "publishedAt": "2020-02-12T16:33:14Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The conference preparations are under way, with banners offering hygiene advice\r\nNokia, BT, Vodafone and Deutsche Telekom are the latest companies to pull out of the Mobile World Congress (MWC) trade show, citing con\u2026 [+1671 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Formula 1 calls off April's Chinese Grand Prix race",
+            "description": "Motor-racing officials cancel race due to fears over spread of virus. Meanwhile World Health Organisation holds summit on how to deal with outbreak. Also, Pope France rules against allowing married men to become Catholic priests in Amazon, and Syrian refugees\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p0833m5c",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-12T15:42:00Z",
+            "content": "Motor-racing officials cancel race due to fears over spread of virus. Meanwhile World Health Organisation holds summit on how to deal with outbreak.\r\nAlso, Pope France rules against allowing married men to become Catholic priests in Amazon, and Syrian refugee\u2026 [+72 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Life inside an isolation centre in Milton Keynes",
+            "description": "Lavender Au has been quarantined after arriving on a government rescue flight from China.",
+            "url": "https://www.bbc.co.uk/news/av/uk-england-beds-bucks-herts-51477829/coronavirus-life-inside-an-isolation-centre-in-milton-keynes",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A78/production/_110880467_p0833jvl.jpg",
+            "publishedAt": "2020-02-12T15:27:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Are cruise ships really 'floating petri dishes'?",
+            "description": "Millions go on cruise ships each year - but are they more likely to make people sick?",
+            "url": "https://www.bbc.co.uk/news/world-asia-51470603",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p082bxfd.jpg",
+            "publishedAt": "2020-02-12T09:54:04Z",
+            "content": "Media captionDavid Abel, one of 3,700 people in quarantine aboard the Diamond Princess, speaking soon after the quarantine began\r\nThe largest coronavirus outbreak outside mainland in China is not in a country, but on a cruise ship.\r\nIt's been more than a week\u2026 [+6727 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Chinese Grand Prix expected to be postponed over virus fears",
+            "description": "The Chinese Grand Prix - due to take place in Shanghai on 19 April - is expected to be postponed due to coronavirus fears.",
+            "url": "https://www.bbc.co.uk/sport/formula1/51471569",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/129A4/production/_110869167_chinesegp_gettty.jpg",
+            "publishedAt": "2020-02-12T07:19:30Z",
+            "content": "The Chinese Grand Prix was due to take place on 19 April\r\nThe Chinese Grand Prix is expected to be postponed as a result of the coronavirus outbreak.\r\nThe race is set to be held in Shanghai on 19 April and a decision is expected in the next few days.\r\nFormula\u2026 [+263 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Singapore bank evacuated after worker falls ill",
+            "description": "Some 300 people working on the same floor as the infected patient have been sent home.",
+            "url": "https://www.bbc.co.uk/news/world-asia-51470363",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0D9E/production/_110868430_522df4a2-22bb-4830-a8ff-05283fa8a7ae.jpg",
+            "publishedAt": "2020-02-12T07:15:19Z",
+            "content": "Image copyrightReuters\r\nAround 300 employees have been evacuated from Singapore's biggest bank, DBS, after one person fell ill with the new coronavirus. \r\nAll 300 had been working on the same floor, the 43rd, and were sent home on Wednesday.\r\n\"As a precaution\u2026 [+1091 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'They called me contagious once'",
+            "description": "Coronavirus has lots of nasty symptoms, but one unexpected symptom is racism...",
+            "url": "https://www.bbc.co.uk/newsround/51467978",
+            "urlToImage": "http://c.files.bbci.co.uk/EC28/production/_110865406_p0830dsn.jpg",
+            "publishedAt": "2020-02-12T06:29:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Thailand struggles to come to terms with first mass shooting",
+            "description": "The Nakhon Ratchasima shooting shakes the military's image as guarantor of safety and stability.",
+            "url": "https://www.bbc.co.uk/news/world-asia-51470359",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C536/production/_110868405_8c0370cf-7df0-4560-863f-8c79c11fa174.jpg",
+            "publishedAt": "2020-02-12T05:56:19Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n There is public anger towards the government in Thailand over the mass shooting\r\nWhen the news first broke of a man shooting randomly at bystanders in a provincial shopping mall, it was greeted with disbelief by many\u2026 [+7192 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: West Sussex A&E worker one of eight UK cases",
+            "description": "The unnamed staff member works at Worthing Hospital in West Sussex, the Department of Health said on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/uk-51470342",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0831myp.jpg",
+            "publishedAt": "2020-02-12T05:50:19Z",
+            "content": "Media captionCoronavirus in the UK: 5 things you need to know about Covid-19\r\nAn A&amp;E worker is among the eight people who have tested positive for coronavirus in the UK, it has emerged.\r\nThe unnamed staff member works at Worthing Hospital in West Sussex, \u2026 [+3226 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus in the UK: 5 things you need to know about Covid-19",
+            "description": "The BBC's Fergus Walsh assesses the chances of contracting Covid-19 in the UK and the best ways to avoid it.",
+            "url": "https://www.bbc.co.uk/news/av/health-51470859/coronavirus-in-the-uk-5-things-you-need-to-know-about-covid-19",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10C4E/production/_110868686_p0831myp.jpg",
+            "publishedAt": "2020-02-12T05:05:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Brighton reacts to the spread of the illness in the city",
+            "description": "Officials say not to panic over coronavirus, but some residents are ordering masks and keeping children at home.",
+            "url": "https://www.bbc.co.uk/news/uk-england-sussex-51468813",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/114D2/production/_110866807_hi059867443.jpg",
+            "publishedAt": "2020-02-12T01:24:27Z",
+            "content": "Image copyrightPA MediaImage caption\r\n A GP practice in Brighton is temporarily closed after a staff member tested positive for coronavirus\r\nFive of the eight confirmed coronavirus cases in the UK have been reported in Brighton. And while authorities have tol\u2026 [+3374 chars]"
+        }
+    ]
+}

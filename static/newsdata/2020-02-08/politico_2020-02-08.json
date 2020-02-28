@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Anna Gronewold",
+            "title": "Pompeo to governors: China is watching you",
+            "description": "The Secretary of State warns state officials that China \"is working you.\"",
+            "url": "https://www.politico.com/news/2020/02/08/mike-pompeo-governors-china-112539",
+            "urlToImage": "https://static.politico.com/f6/26/d161278f4aaaa11c8edb5c922f7c/20200105-mike-pompeo-gty-773.jpg",
+            "publishedAt": "2020-02-08T23:18:07Z",
+            "content": "Saying that China's efforts have become more methodical than ever, Pompeo told the governors to verify business inquiries and not to make separate individual deals with China that could undermine national policy.\r\n\"And, in fact, whether you are viewed by the \u2026 [+2500 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "POLITICO Playbook: Trump\u2019s revenge",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/08/trumps-revenge-488276",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-08T15:36:47Z",
+            "content": "Presented by Amazon\r\nPresident Donald Trump has spent the two days since his acquittal by the Senate railing against his perceived enemies. | Alex Wong/Getty Images\r\nDRIVING THE DAY\r\nTRUMPS REVENGE Republicans like Sen. SUSAN COLLINS (R-Maine) said they hoped\u2026 [+20580 chars]"
+        }
+    ]
+}

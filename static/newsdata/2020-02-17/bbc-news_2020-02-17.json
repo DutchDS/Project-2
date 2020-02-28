@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: More than 200 Australians flown home after 14-day quarantine",
+            "description": "Many of the returnees express relief after arriving from a remote island to mainland Australia.",
+            "url": "https://www.bbc.co.uk/news/world-australia-51538711",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/305F/production/_110938321_149b553b-5aab-48dd-a7de-a11029f85cd7.jpg",
+            "publishedAt": "2020-02-17T18:49:13Z",
+            "content": "Image copyrightEPAImage caption\r\n None of the returnees will be required to take any further tests\r\nMore than 200 Australians have been flown back home after 14 days in quarantine on remote Christmas Island amid coronavirus fears.\r\nThey were evacuated from Ch\u2026 [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Tokyo Marathon organisers restrict event to elite runners only",
+            "description": "Organisers of the Tokyo Marathon have announced it will no longer be a mass participation event due to the coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/sport/athletics/51531946",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/101D3/production/_110930066_tokyomarathon.jpg",
+            "publishedAt": "2020-02-17T11:58:11Z",
+            "content": "Only around 200 athletes will now compete in the Tokyo Marathon\r\nOrganisers of the Tokyo Marathon have announced it will no longer be a mass participation event due to the coronavirus outbreak.\r\nOnly elite runners and wheelchair athletes will compete in the e\u2026 [+822 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Apple warns coronavirus will hurt iPhones supplies",
+            "description": "The tech giant says it is \"experiencing a slower return to normal conditions\" in China than expected.",
+            "url": "https://www.bbc.co.uk/news/business-51539322",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_110685090_gettyimages-1078754638-1.jpg",
+            "publishedAt": "2020-02-17T22:47:23Z",
+            "content": "Image copyrightGetty Images\r\nApple has warned that disruption in China from the coronavirus will mean revenues falling short of forecasts.\r\nThe iPhone maker is the first major US company to say that the epidemic will hit its finances.\r\nThe tech giant said pro\u2026 [+2090 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Bicester Village 'having a tough time'",
+            "description": "Spending by visitors from China in the UK stood at \u00a3714m in September 2019.",
+            "url": "https://www.bbc.co.uk/news/business-51493192",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1B89/production/_110894070_xiayae-nc.png",
+            "publishedAt": "2020-02-17T00:03:59Z",
+            "content": "Image caption\r\n Fashion buyer Xia Yae purchases clothing in Bicester Village, Selfridges and Harrods for clients in South Korea\r\nOn a rainy weekday morning, the luxury shopping outlet Bicester Village feels deserted. \r\nWhile February is typically a quiet time\u2026 [+4680 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Japan's economy shrinks at fastest rate since 2014",
+            "description": "The world's third largest economy was hit by a sales tax rise, a destructive typhoon and weak global demand.",
+            "url": "https://www.bbc.co.uk/news/business-51499774",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2846/production/_110901301_gettyimages-1197638107.jpg",
+            "publishedAt": "2020-02-17T01:56:26Z",
+            "content": "Image copyrightGetty Images\r\nJapan's economy shrank at the fastest rate in five years at the end of 2019 as it was hit by a sales tax rise, a major typhoon and weak global demand.\r\nAnnualised gross domestic product (GDP) fell by a much steeper than expected 6\u2026 [+1181 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Armed robbers steal hundreds of toilet rolls in Hong Kong",
+            "description": "Toilet rolls have become hot property in the city due to a shortage from coronavirus panic-buying.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51527043",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D86/production/_110928358_gettyimages-1199290060.jpg",
+            "publishedAt": "2020-02-17T05:52:47Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Toilet rolls are currently in short supply in Hong Kong\r\nArmed robbers in Hong Kong made off with hundreds of toilet rolls worth more than HKD1,000 ($130; \u00a398).\r\nToilet rolls are currently in short supply in Hong Kon\u2026 [+1567 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: A Cameroon student on how he recovered",
+            "description": "China-based student Kem Senoua is the first African to contract the virus - he spoke to the BBC.",
+            "url": "https://www.bbc.co.uk/news/world-africa-51502711",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/262A/production/_110907790_img_0845.jpg",
+            "publishedAt": "2020-02-17T00:12:06Z",
+            "content": "Image copyrightPavel Daryl Kem SenouaImage caption\r\n Kem Senou Pavel Daryl is the first African to contract the virus in China\r\nWhen Kem Senou Pavel Daryl, a 21-year-old Cameroonian student living in the Chinese city of Jingzhou, contracted the coronavirus he\u2026 [+6711 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Is China in control of the coronavirus?",
+            "description": "The Chinese authorities have introduced further measures to deal with the spread of the outbreak. More than 70,500 people across China have been infected by the virus. A special report from inside an Indonesian prison de-radicalisation programme: a man whose \u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq569zcvm9v",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p083p3cq.jpg",
+            "publishedAt": "2020-02-17T15:38:00Z",
+            "content": "The Chinese authorities have introduced further measures to deal with the spread of the outbreak. More than 70,500 people across China have been infected by the virus.\r\nA special report from inside an Indonesian prison de-radicalisation programme: a man whose\u2026 [+299 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus threatens to push Japan into recession",
+            "description": "Analysts are concerned travel restrictions, which have led to a sharp drop in tourism from China, will cause Japan's economy to contract further. General Motors scraps the historic Holden car brand in Australia. A Spanish actor is being tried for insulting Go\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p083pbyb",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-17T15:05:00Z",
+            "content": "Analysts are concerned travel restrictions, which have led to a sharp drop in tourism from China, will cause Japan's economy to contract further. General Motors scraps the historic Holden car brand in Australia. A Spanish actor is being tried for insulting Go\u2026 [+1 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Schools to be advised not to close over suspected cases",
+            "description": "New guidance will tell schools not to close if there is a suspected case of coronavirus.",
+            "url": "https://www.bbc.co.uk/news/health-51526875",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32AC/production/_110927921_gettyimages-1047617544.jpg",
+            "publishedAt": "2020-02-17T07:57:54Z",
+            "content": "Image copyrightGetty Images\r\nSchools do not need to close or send staff and pupils home if there is a suspected case of coronavirus, new guidance is to recommend.\r\nPublic Health England will say no restrictions or special control measures are needed while tes\u2026 [+3823 chars]"
+        }
+    ]
+}

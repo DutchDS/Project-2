@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Tokyo Olympics face questions over coronavirus",
+            "description": "Concern has grown ahead of the summer Olympics in Japan as the number of global cases of coronavirus has climbed to over 76,000. CBS News foreign correspondent Debora Patta joined CBSN AM from Tokyo with how the outbreak might affect the Olympic Games.",
+            "url": "https://www.cbsnews.com/video/tokyo-olympics-face-questions-over-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/21/c5dfdd57-a303-4b63-b31b-16fb0c406426/thumbnail/1200x630/5d6227334b639a9096251ed5914096b1/0221-cbsnam-tokoyoolymipcs-2032192-640x360.jpg",
+            "publishedAt": "2020-02-21T14:12:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Latest group of Americans released from quarantine amid coronavirus outbreak",
+            "description": "More than 21 people have died from coronavirus, mostly in China. Now, a group of Americans evacuees, released from federal quarantine, were bussed to airports in California. Carter Evans has the latest.",
+            "url": "https://www.cbsnews.com/video/latest-group-of-americans-released-from-quarantine-amid-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/21/2a2d4665-8f1f-48ee-a729-45b67248377f/thumbnail/1200x630/38d8a0b976f0371bc274b8f1d638a451/0220-en-americansreleasedquarantine-evans-2031914-640x360.jpg",
+            "publishedAt": "2020-02-21T00:57:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Officials letting last uninfected passengers leave Diamond Princess",
+            "description": "The quarantined cruise ship docked at Yokohama, near Tokyo, had the biggest cluster of COVID-19 cases outside China. Two passengers died.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-21/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/21/b51ac2f3-c339-401c-ab5d-83179b70a507/thumbnail/1200x630/98ff7456eb08c40969a5dc801fe66c2c/2020-02-21t033600z-1497283308-rc2r4f9anvpj-rtrmadp-3-china-health-japan-ship.jpg",
+            "publishedAt": "2020-02-21T11:16:33Z",
+            "content": "Japan says a two-week quarantine of the Diamond Princess cruise ship is over, and the last passengers who tested negative for the new coronavirus are being allowed to disembark. The ship was the site of the largest outbreak of the disease outside China.\r\nThe \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus evacuees are protested in Ukraine",
+            "description": "Protesters in Ukraine set fires, put up barricades and threw rocks at a bus carrying newly arrived coronavirus evacuees from China. South Korea also confirmed dozens of new cases of the virus, and Japan is grappling with the crisis ahead of the 2020 Olympic G\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-evacuees-are-protested-in-ukraine/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/21/8f7d3b7b-7b0d-48a6-aa9a-8a436009f850/thumbnail/1200x630/893f6ee7096e8a84859aa19aa4265e60/0221-ctm-coronvirus-patta-2032115-640x360.jpg",
+            "publishedAt": "2020-02-21T12:56:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Ukraine protesters throw rocks at bus carrying coronavirus evacuees",
+            "description": "Protesters in Ukraine set fires, put up barricades and threw rocks at a bus carrying newly arrived coronavirus evacuees from China. South Korea also confirmed dozens of new cases of the virus, and Japan is grappling with the crisis ahead of the 2020 Olympic G\u2026",
+            "url": "https://www.cbsnews.com/video/ukraine-protesters-throw-rocks-at-bus-carrying-coronavirus-evacuees/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/21/8f7d3b7b-7b0d-48a6-aa9a-8a436009f850/thumbnail/1200x630/893f6ee7096e8a84859aa19aa4265e60/0221-ctm-coronvirus-patta-2032115-640x360.jpg",
+            "publishedAt": "2020-02-21T13:31:03Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Trump suggests more farm bailouts as China purchases fall short",
+            "description": "In an all-caps tweet, President Trump said more farm aid would be paid by tariffs, which are paid by U.S. consumers.",
+            "url": "https://www.cbsnews.com/news/trump-suggests-more-farm-bailouts-as-china-purchases-fall-short/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/20/9309d3e2-18fc-4969-ae90-12031cdc171c/thumbnail/1200x630/9e253094b8e3a1bd1cb9c710eb1cfb71/gettyimages-1201952550.jpg",
+            "publishedAt": "2020-02-21T19:21:06Z",
+            "content": "President Donald Trump hinted Friday that more farm bailouts could be on the way, \"PAID FOR OUT OF THE MASSIVE TARIFF MONEY COMING INTO THE USA.\"\u00a0\r\nTariffs on imports are paid by U.S. companies and consumers, however.\u00a0\r\nThe all-caps tweet comes after U.S. Dep\u2026 [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus affecting economies and businesses around the world",
+            "description": "The deadly outbreak of coronavirus, which has infected more than 75,000 people worldwide, is having an impact on the Chinese economy and markets around the world. Yahoo Finance anchor and reporter Akiko Fujita joined CBSN to discuss the economic fallout from \u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-affecting-economies-and-businesses-around-the-world/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/21/7a7d476c-cca4-4912-90ec-9542001accd6/thumbnail/1200x630/f25d201fc4369164c8e8e4c422758f66/0221-cbsn-coronaviruseconomy-2032394-640x360.jpg",
+            "publishedAt": "2020-02-21T20:16:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        }
+    ]
+}
