@@ -40,7 +40,8 @@
                 <div class="jumbotron text-center">
                   <h1>Corona Spread - Worldwide</h1>
                   <p><i>Let's see how this virus spreads</i></p>
-                  <p><a class="btn btn-primary btn-lg" href="/" role="button">World</a>
+                  <p>           
+                    <a type="submit" class="btn btn-primary btn-lg" id="selectAll" role="button">Show Spread</a>
                     <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
                     <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
                     <a class="btn btn-primary btn-lg" href="/news" role="button">news</a></p>
@@ -52,7 +53,7 @@
         <br>
     <!-- *********************SECOND ROW*********************************   -->    
         <div class="row">
-          <div class="col-lg-8 col-sm-12">
+          <div class="col-lg-12 col-sm-12">
             <div class="row">
               <div class="col-lg-12 col-sm-12">
               <!-- ############################################ -->
@@ -69,7 +70,11 @@
                 <div class="card" style="width: 100%">
                   <div class="card-body">
                     <div>{% for i in world_sum %}
-                      <strong>On: {{ i[0] }}</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;Total: </strong>{{ i[4] }}<strong>&nbsp;&nbsp;Confirmed: </strong>{{ i[1] }}<strong>&nbsp;&nbsp;Cured: </strong>{{ i[2] }}<strong>&nbsp;&nbsp;Dead: </strong>{{ i[3] }}
+                      <h4><strong>{{ i[0] }}:</strong>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<strong>Total: </strong>{{ i[1] }}
+                        &nbsp;&nbsp;<strong>Sick: </strong>{{ i[2] }}-({{ i[5] }}%)
+                        &nbsp;&nbsp;<strong>Cured: </strong>{{ i[3] }}-({{ i[6] }}%)
+                        &nbsp;&nbsp;<strong>Dead: </strong>{{ i[4] }}-({{ i[7] }}%)</h4>
                       {% endfor %}
                     <!-- On: {{world_sum[0]}} --- Total Cases: {{world_sum[4]}} --- Total Confirmed: {{world_sum[1]}} -->
                     </div>
@@ -78,7 +83,31 @@
               </div>
             </div>
           </div>
-
+        </div>
+        <br>
+        <div class="row">
+          <div class='col-lg-4 col-6'>
+            <div class="card">
+              <div class="card-body">
+                <select class="form-control" id="selectShape" name="select-shape-from-list">
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br>
+    <!-- *********************THRID ROW*********************************   -->
+        <div class="row">
+          <div class= "col-lg-8 col-sm-12">
+          <!-- ############################################ -->
+          <!-- ########## INSERT BAR CHART ################ -->
+          <!-- ############################################ -->
+            <div class="card" style="width: 100%">
+              <div class="card-body">
+                <div id="bar"></div>  
+              </div>
+            </div>
+          </div>
           <div class="col-lg-4 col-sm-12">
             <div class="card" style="width: 100%">
               <div class="card-body">
@@ -117,21 +146,6 @@
             <br>
           </div>
         </div>
-        <!-- <br> -->
-    <!-- *********************THRID ROW*********************************   -->
-        <div class="row">
-          <div class= "col-lg-12 col-sm-12">
-          <!-- ############################################ -->
-          <!-- ########## INSERT BAR CHART ################ -->
-          <!-- ############################################ -->
-            <div class="card" style="width: 100%">
-              <div class="card-body">
-                <div id="bar"></div>  
-              </div>
-            </div>
-          </div>
-        </div>
-        <br>
     <!-- *********************FOURTH ROW*********************************   -->
         <div class="row">
           <div class= "col-lg-12 col-sm-12">
@@ -160,8 +174,8 @@
     
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script type="text/javascript" src="static/js/config.js"></script>
-    <script type="text/javascript" src="static/js/china_bar.js"></script>
-    <script type="text/javascript" src="static/js/china.js"></script>
+    <!-- <script type="text/javascript" src="static/js/china_bar.js"></script>
+    <script type="text/javascript" src="static/js/china.js"></script> -->
     <script type="text/javascript" src="static/js/world_bar.js"></script>
     <script type="text/javascript" src="static/js/world.js"></script>
   </body>
