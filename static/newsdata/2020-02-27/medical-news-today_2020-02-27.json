@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Tim Newman",
+            "title": "Live updates: Coronavirus COVID-19 - Medical News Today",
+            "description": "This live article covers developments regarding the coronavirus COVID-19. We will update it regularly as the situation unfolds.",
+            "url": "https://www.medicalnewstoday.com/articles/live-updates-coronavirus-covid-19",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/Testing-man-for-fever-in-China-1200x628.jpg",
+            "publishedAt": "2020-02-27T17:15:00Z",
+            "content": "This article provides regularly updated information on the COVID-19 outbreak, with links to useful resources.\r\nThe recent coronavirus outbreak began in Wuhan, China, in December 2019. Now known as SARS-CoV-2, the virus has infected tens of thousands of people\u2026 [+2062 chars]"
+        }
+    ]
+}

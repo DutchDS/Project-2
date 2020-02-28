@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Joanne Kenen",
+            "title": "What the best public health minds know \u2014 and don\u2019t know \u2014 about Wuhan coronavirus",
+            "description": "Veterans of past outbreaks share what they're still trying to understand about the illness.",
+            "url": "https://www.politico.com/news/2020/01/28/wuhan-coronavirus-health-108197",
+            "urlToImage": "https://static.politico.com/63/ae/8fc968dc42fbbc402ab14c797944/200128-wuhan-ap-773.jpg",
+            "publishedAt": "2020-01-28T22:33:00Z",
+            "content": "How soon could there be a cure, diagnostic tests, or a vaccine?\r\nThe CDC has already created a diagnostic test, although public health officials are working on faster tests that can be widely disseminated to hospitalsso patients can be rapidly diagnosed. Fauc\u2026 [+3328 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jake Sherman, Anna Palmer, Garrett Ross and Eli Okun",
+            "title": "POLITICO Playbook PM: Impeachment latest, and Republicans sound the fundraising alarm",
+            "description": "And President Donald Trump and Israeli PM Benjamin Netanyahu detail the Middle East peace plan.",
+            "url": "https://www.politico.com/newsletters/playbook-pm/2020/01/28/impeachment-latest-and-republicans-sound-the-fundraising-alarm-488175",
+            "urlToImage": "https://static.politico.com/c0/c4/9f120cf84784b5fe4738f8f0f229/200128-graham-ap-773.jpg",
+            "publishedAt": "2020-01-28T18:09:02Z",
+            "content": "Sen. Lindsey Graham (R-S.C.) on Tuesday predicted Republicans would vote to call Hunter Biden, Joe Biden and the whistleblower as witnesses if there is a vote for John Bolton to testify. | Jose Luis Magana/AP Photo\r\nSEN. LINDSEY GRAHAMS WARNING AGAINST VOTING\u2026 [+20809 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Brianna Ehley",
+            "title": "Azar stops short of declaring public health emergency for Wuhan coronavirus",
+            "description": "HHS Secretary Alex Azar said the administration has offered assistance from the CDC to Chinese authorities either directly or in conjunction with the World Health Organization.",
+            "url": "https://www.politico.com/news/2020/01/28/alex-azar-wuhan-coronavirus-107722",
+            "urlToImage": "https://static.politico.com/97/7e/62b2f5414eef87a77b5c4a63f5a0/200128-alex-azar-ap-773.jpg",
+            "publishedAt": "2020-01-28T17:35:22Z",
+            "content": "Regarding an emergency declaration, which could unlock more resources for a response, Azar said experts are monitoring when such a designation may be needed. I wont hesitate at all to invoke any steps we need to take\" when appropriate, Azar said.\r\nThe outbrea\u2026 [+378 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Nicole Gaudiano",
+            "title": "Trump campaign taps DeVos as campaign surrogate",
+            "description": "DeVos: Title IX plan will fix Obama administration 'overreach' \u2014 ICivics offers resources for educators wrestling with teaching impeachment",
+            "url": "https://www.politico.com/newsletters/morning-education/2020/01/28/trump-campaign-taps-devos-as-campaign-surrogate-784718",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T15:00:45Z",
+            "content": "Presented by Educators for Excellence\r\nWith help from Juan Perez Jr. and Alexandra Levine\r\nEditor's Note: This edition of Morning Education is published weekdays at 10 a.m. POLITICO Pro Education subscribers hold exclusive early access to the newsletter each \u2026 [+12178 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Adam Behsudi",
+            "title": "Trump's steel tariffs spark war among U.S. producers",
+            "description": "Britain's big 5G decision \u2014 U.S.'s chief USMCA negotiator to retire",
+            "url": "https://www.politico.com/newsletters/morning-trade/2020/01/28/trumps-steel-tariffs-spark-war-among-us-producers-784731",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T15:00:27Z",
+            "content": "Presented by the American Italian Food Coalition\r\nWith help from Megan Cassella, Doug Palmer and Sabrina Rodriguez \r\nEditors Note: This edition of Morning Trade is published weekdays at 10 a.m. POLITICO Pro Trade subscribers hold exclusive early access to the\u2026 [+12358 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Sam Mintz",
+            "title": "Graves plugs VMT implementation",
+            "description": "Weather may have played a role in helicopter crash \u2014 ICAO\u2019s social media stir",
+            "url": "https://www.politico.com/newsletters/morning-transportation/2020/01/28/graves-plugs-vmt-implementation-784724",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T15:00:23Z",
+            "content": "Editors Note: This edition of Morning Transportation is published weekdays at 10 a.m. POLITICO Pro Transportation subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pros comprehensive policy intelligence\u2026 [+9121 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Ryan McCrimmon",
+            "title": "Dairy merger faces antitrust probe",
+            "description": "Perdue talks ag-trade in Europe \u2014 Swine fever nears EU\u2019s pork capital",
+            "url": "https://www.politico.com/newsletters/morning-agriculture/2020/01/28/dairy-merger-faces-antitrust-probe-784725",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T15:00:19Z",
+            "content": "Editor's Note: This edition of Morning Agriculture is published weekdays at 10 a.m. POLITICO Pro Agriculture subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pro's comprehensive policy intelligence cov\u2026 [+8877 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jeremy B. White, Carla Marinucci, Graph Massara and Aaron Leathley",
+            "title": "SCOTUS\u2019 big ruling \u2014 SMITH boosted by DCCC \u2014 BOUDIN faces COPS\u2019 heat \u2014 SB 50 to SENATE floor",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/01/28/scotus-big-ruling-smith-boosted-by-dccc-boudin-faces-cops-heat-sb-50-to-senate-floor-488168",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T14:18:24Z",
+            "content": "Presented by Common Ground California\r\nTHE BUZZ: Of all Californias courtroom clashes with the Trump administration, a Monday ruling in which the U.S. Supreme Court vindicated the feds is one of the most consequential.\r\nA divided court cleared the way for the\u2026 [+16282 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Melanie Zanona",
+            "title": "Bolton adds fuel to the impeachment fire",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/huddle/2020/01/28/bolton-adds-fuel-to-the-impeachment-fire-488173",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T12:51:16Z",
+            "content": "Presented by Uber\r\nwith help from Andrew Desiderio and Marianne LeVine\r\nTHE TRIAL FILES -- Pressure is building on the Senate GOP to haul in impeachment witnesses and theyre searching for a relief valve. During a closed-door lunch yesterday, Sen. Pat Toomey (\u2026 [+13864 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Erin Durkin, Anna Gronewold and Michelle Bocanegra",
+            "title": "Budget ultimatums begin with bail reform \u2014 Wuhan coronavirus inevitable \u2014 Jaywalking stats still raise ire",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-york-playbook/2020/01/28/budget-ultimatums-begin-with-bail-reform-wuhan-coronavirus-inevitable-jaywalking-stats-still-raise-ire-488172",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T12:15:37Z",
+            "content": "Presented by \u00d8rsted\r\nBudget negotiations have hardly started, but weve already got one public ultimatum.\r\nSen. Monica Martinez on Long Island announced Monday she will not vote for a state budget that does not include changes to the bail reform law passed las\u2026 [+20573 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Stephanie Murray",
+            "title": "MARKEY gets campaign boost \u2014 CHIPOTLE violated Mass. labor law \u2014 The IOWA caucus in HARVARD Square",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/massachusetts-playbook/2020/01/28/markey-could-get-campaign-boost-chipotle-violated-mass-labor-law-the-iowa-caucus-in-harvard-square-488169",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-01-28T12:14:20Z",
+            "content": "GOOD MORNING, MASSACHUSETTS. \r\nNEW: OPERATIVE RAMPING UP PRO-MARKEY PAC Sen. Ed Markey could soon get a boost from an environmentally-minded super PAC in his primary battle against Rep. Joe Kennedy III. \r\nAdvertisement\r\nGeorge Bachrach, the former president o\u2026 [+17525 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jake Sherman and Anna Palmer",
+            "title": "A story that shows how this White House rolls",
+            "description": "And the NYT obtains more details from John Bolton's book.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/01/28/a-story-that-shows-how-this-white-house-rolls-488170",
+            "urlToImage": "https://static.politico.com/47/5d/4c8c59e54333bf2877ddd9efd4d6/200128-trump-ap-773.jpg",
+            "publishedAt": "2020-01-28T11:03:39Z",
+            "content": "President Donald Trump has so far declined to invite key Democrats to a USCMA signing ceremony at the White House on Wednesday. | Evan Vucci/AP Photo\r\nDRIVING THE DAY\r\nHOW THE TRUMP ADMINISTRATION WORKS From Jake, Sarah Ferris and Heather Caygle: AS YOU MIGHT\u2026 [+23175 chars]"
+        }
+    ]
+}

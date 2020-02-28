@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "The EU's outsize influence on global tech - Politico",
+            "description": "UCLA caves on facial recognition \u2014 Bloomberg\u2019s next social media move",
+            "url": "https://www.politico.com/newsletters/morning-tech/2020/02/20/the-eus-outsize-influence-on-global-tech-785549",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-20T15:00:00Z",
+            "content": "With help from Steven Overly and John Hendel\r\nEditors Note: Morning Tech is a free version of POLITICO Pro Technologys morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with t\u2026 [+11960 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "Bloomberg\u2019s belly flop",
+            "description": "And President Donald Trump taps Richard Grenell as acting DNI.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/20/bloombergs-belly-flop-488368",
+            "urlToImage": "https://static.politico.com/3f/03/a5bce33f49df9496edeaff92f4c1/gettyimages-1207414505.jpg",
+            "publishedAt": "2020-02-20T10:55:23Z",
+            "content": "Mike Bloomberg was, by most accounts, trampled at the debate. | Mario Tama/Getty Images\r\nDRIVING THE DAY\r\nTHERE ARE TWO DISTINCT WAYS to look at last nights debate. The view from Manhattan -- shorthand for MIKE BLOOMBERGS staff andsupporters -- is that the fo\u2026 [+17578 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Sam Mintz",
+            "title": "How DOT employees spend their political bucks",
+            "description": "DOT\u2019s internal watchdog waiting for a new leader \u2014 NTSB\u2019s Homendy slams freight rail rule",
+            "url": "https://www.politico.com/newsletters/morning-transportation/2020/02/20/how-dot-employees-spend-their-political-bucks-785544",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-20T15:00:15Z",
+            "content": "Editors Note: Morning Transportation is a free version of POLITICO Pro Transportations morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tools you can use to take action \u2026 [+10027 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Ryan McCrimmon",
+            "title": "USDA\u2019s new blueprint for climate-friendly farming",
+            "description": "Ag mental health network gears up \u2014 Seattle\u2019s sugary drink tax is drying up sales",
+            "url": "https://www.politico.com/newsletters/morning-agriculture/2020/02/20/usdas-new-blueprint-for-climate-friendly-farming-785550",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-20T15:00:12Z",
+            "content": "Presented by POET Biofuels\r\nWith help from Liz Crampton, Adam Behsudi and Megan Cassella\r\nEditor's Note: Morning Agriculture is a free version of POLITICO Pro Agriculture's morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The P\u2026 [+10157 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By David Lim",
+            "title": "Problems with CDC coronavirus test delay expanded U.S. screening",
+            "description": "The delay could impede the U.S. government\u2019s ability to detect scattered cases before they snowball into larger outbreaks.",
+            "url": "https://www.politico.com/news/2020/02/20/cdc-coronavirus-116529",
+            "urlToImage": "https://static.politico.com/7c/60/3a00f05f4cb8807ea1af2c1de2c6/200220-cdc-getty-773.jpg",
+            "publishedAt": "2020-02-20T22:11:14Z",
+            "content": "CDC confirmed the problems with the coronavirus test, and with using its flu-surveillance network to screen for the virus. But the agency declined to answer further questions on the matter.\r\nThe delay in establishing additional screening capacity could impede\u2026 [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Adam Behsudi",
+            "title": "Baking the EU-U.S. deal",
+            "description": "Another unintended Huawei consequence \u2014 Bloomberg: Don\u2019t cut off relationships with China",
+            "url": "https://www.politico.com/newsletters/morning-trade/2020/02/20/baking-the-eu-us-deal-785551",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-20T15:00:10Z",
+            "content": "With help from Jakob Hanke, Doug Palmer and Megan Cassella\r\nEditors Note: Morning Trade is a free version of POLITICO Pro Trades morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you n\u2026 [+10527 chars]"
+        }
+    ]
+}

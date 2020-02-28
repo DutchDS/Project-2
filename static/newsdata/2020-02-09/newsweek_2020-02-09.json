@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Rosie McCall",
+            "title": "Authorities in China Warn 'Excessive and Disorderly' Protective Clothing May Increase Coronavirus Infections",
+            "description": "Chinese authorities have called for the reasonable use of protective suits amid a shortage, as cases of the new coronavirus continue to rise inside and outside the country.",
+            "url": "https://www.newsweek.com/authorities-china-excessive-disorderly-protective-clothing-increase-coronavirus-infections-1486418",
+            "urlToImage": "https://d.newsweek.com/en/full/1566003/volunteers-transport-medical-supplies-wuhan.jpg",
+            "publishedAt": "2020-02-09T13:12:53Z",
+            "content": "Chinese authorities have warned that \"excessive and disorderly\" use of protective clothing could increase infection and waste limited resources as cases of the new coronavirus continue to soar.\r\nAccording to Reuters, China's National Health Commission called \u2026 [+2577 chars]"
+        }
+    ]
+}

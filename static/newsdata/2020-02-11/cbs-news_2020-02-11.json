@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How the coronavirus is impacting cruises and passengers",
+            "description": "Thousands of passengers quarantined on ships in Asia over contagion fears could dampen enthusiasm for cruises.",
+            "url": "https://www.cbsnews.com/news/coronavirus-cruise-ships-passengers-quarantine/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/11/bfcb1b0b-e5cc-4ec5-bc8c-f4597296a464/thumbnail/1200x630/c515163a9bdd2701d99578198be372a7/gettyimages-1199972143.jpg",
+            "publishedAt": "2020-02-11T23:30:19Z",
+            "content": "The lethal\u00a0coronavirus is wreaking havoc on cruises in Asia, where some passengers are stranded aboard ships and others aren't permitted to leave China.\r\nJapan's health ministry has confirmed 135 cases of the virus aboard Carnival's Diamond Princess, which is\u2026 [+5862 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "Mortgage rates are at their lowest level in 3 years",
+            "description": "Thinking of refinancing your home loan? Now is a great time to do it, experts say.",
+            "url": "https://www.cbsnews.com/news/mortgage-rates-three-year-low-freddie-mac/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/11/ce6586d5-d8de-4cc8-bff0-946bb8f48611/thumbnail/1200x630/c864284245c0c982dee0290d93b7ccf9/gettyimages-1148695495.jpg",
+            "publishedAt": "2020-02-11T22:17:10Z",
+            "content": "Mortgage rates across the U.S. have fallen to a three-year low, a boon for house-hunters and homeowners looking to refinance.\u00a0\r\nThe average 30-year mortgage is charging 3.45%, while 15-year loans are at 2.97%, according to Freddie Mac. That's down from 4.41% \u2026 [+2369 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus disrupts flow of mail into China",
+            "description": "With most airlines halting China flights, the U.S. Postal Service is struggling to deliver mail sent to the country.",
+            "url": "https://www.cbsnews.com/news/coronavirus-mail-china-disruption/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/11/ed7ceb07-bb70-4b81-98c9-0c4225a7cee1/thumbnail/1200x630/b3006056f53b3cae2173e76e19cdcdfb/hk-rts31mby.jpg",
+            "publishedAt": "2020-02-11T20:33:24Z",
+            "content": "The suspension of flights to slow the spread of a deadly new virus is having a major impact on global flows of letters and parcels, say postal operators in the United States, China and elsewhere.\r\nIn a note seen by The Associated Press, the U.S. Postal Servic\u2026 [+2839 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus case confirmed in San Diego, bringing total to 13 U.S. cases",
+            "description": "The CDC has confirmed a case of the deadly coronavirus in San Diego. The patient was on a government-chartered flight last week from Wuhan, the Chinese city at the center of the outbreak. CBS News correspondent Carter Evans joined CBSN AM from California.",
+            "url": "https://www.cbsnews.com/video/coronavirus-case-confirmed-in-san-diego-bringing-total-to-13-u-s-cases/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/11/34c47e75-0994-414c-9727-f03a35e42169/thumbnail/1200x630/84051a381df2c9e339c8775606d132ba/0211-cbsn-coronavirus-2025293-640x360.jpg",
+            "publishedAt": "2020-02-11T14:52:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Under Armour slides amid warning about coronavirus impact",
+            "description": "Athletic gear company said its sales will fall this year as it takes a hit from the virus in China.",
+            "url": "https://www.cbsnews.com/news/under-armour-stock-down-earnings-coronavirus-sales-supply-chain/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2016/06/01/7d5d3e91-04c7-421c-a913-8d8ee7b61745/thumbnail/1200x630/884efdd029273e9b2828adfd26d99689/gettyimages-493775714.jpg",
+            "publishedAt": "2020-02-11T14:11:14Z",
+            "content": "Under Armour shares slumped in pre-market trading after the athletic gear maker said it expects a big financial hit from the viral outbreak in China. Separately, it also said it may need to restructure this year at a cost of hundreds of millions of dollars.\r\n\u2026 [+1638 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Powell: Economy looks resilient despite risk of China virus",
+            "description": "Fed chief say economic growth is holding up, bolstered by the lowest jobless rate in nearly 50 years.",
+            "url": "https://www.cbsnews.com/news/jerome-powell-federal-reserve-u-s-economy-looks-resilient-despite-risk-of-china-virus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/07/10/d79c237c-8cb2-4ea5-8c32-3d50d517631e/thumbnail/1200x630/1c6648ca0d5c6513d20d76b41a7a2d29/powell-gettyimages-1154919489.jpg",
+            "publishedAt": "2020-02-11T13:56:09Z",
+            "content": "Washington \u2014 Federal Reserve Chairman Jerome Powell said the U.S. economy appears durable with steady growth and unemployment near a half-century low, but faces risks from the deadly coronavirus in China.\r\nPowell, who is set to appear before the House Financi\u2026 [+4167 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener at 8: CDC testing nearly 70 patients in U.S. for coronavirus",
+            "description": "A look back at what we've been covering on \"CBS This Morning.\"",
+            "url": "https://www.cbsnews.com/video/eye-opener-at-8-cdc-testing-nearly-70-patients-in-u-s-for-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/11/b2366011-23c9-46b1-953f-890f91c9cd44/thumbnail/1200x630/91ff552e56b6465c7e4d60bede9469b0/ctm-eyeopener8-2025225-640x360.jpg",
+            "publishedAt": "2020-02-11T13:16:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS Radio News",
+            "title": "WORLD NEWS ROUNDUP: 02/11",
+            "description": "The polls are open in the first Presidential primary. Another American diagnosed with coronavirus. The case against Lori Laughlin. CBS News Correspondents Steven Portnoy in Manchester, NH and Steve Kathan in New York have today's World News Roundup.",
+            "url": "http://feeds.cbsnews.com/~r/podcast_icast_1/~3/FvlBbarcGSA/2737658.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-02-11T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. confirms 13th coronavirus case in San Diego",
+            "description": "The CDC is confirming the number of U.S. coronavirus cases has risen to 13, with the latest in San Diego. Meanwhile, China announced a single day death toll exceeding 100 for the first time, as worldwide deaths climb to over 1,000. WHO is now on the ground in\u2026",
+            "url": "https://www.cbsnews.com/video/us-confirms-13th-coronavirus-case/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/11/28442113-35ff-4d24-862d-d41b2002bbe9/thumbnail/1200x630/5d796e825ce20a2a074476a08cc2e293/0211-ctm-coronavirus-evans-2025178-640x360.jpg",
+            "publishedAt": "2020-02-11T12:31:03Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: New Hampshire votes in first primary",
+            "description": "Top Democratic candidates look for an edge in a close race in New Hampshire, while others try to stay in contention as voters head to the polls. Also, a U.S. patient mistakenly released from isolation is the latest case of coronavirus confirmed in the country\u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-new-hampshire-votes-in-first-primary/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/11/f2170bf6-b2f2-4038-80c1-120408e551e2/thumbnail/1200x630/03c5e4113ea19283df068333b6a49e9d/0211-ctm-7ameyeopener-2025145-640x360.jpg",
+            "publishedAt": "2020-02-11T12:16:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "WHO warns of \"grave threat\" to world as virus deaths top 1,000",
+            "description": "Head of the World Health Organization pleads for global unity to answer a raft of questions about the still-mysterious new cornavirus.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-death-toll-infections-outbreak-evacuations-cruise-ship-latest-updates-2020-02-11/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/11/d33448cd-d3d3-4fc3-b08f-8f58e8d49d3f/thumbnail/1200x630/934cea1e9f6966c78447935d09a6c292/hong-kong-coronavirus.jpg",
+            "publishedAt": "2020-02-11T10:46:59Z",
+            "content": "With the death toll from the coronavirus at 1,017, the head of the World Health Organization gathered top scientists in Geneva on Tuesday to try and answer a raft of questions about the new disease. Director-General Tedros Adhanom Ghebreyesus issued a plea fo\u2026 [+1303 chars]"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Aaron Lorenzo",
+            "title": "Tax Quarrels, Cont'd",
+            "description": "A common goal \u2014 Questionably reliable",
+            "url": "https://www.politico.com/newsletters/morning-tax/2020/02/13/tax-quarrels-contd-785356",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-13T15:00:50Z",
+            "content": "Presented by H&amp;R Block\r\nPROGRAMMING NOTE: Morning Tax will not be published on Monday, Feb. 17. We'll be back on our normal schedule on Tuesday, Feb. 18. \r\nEditors Note: This edition of Morning Tax is published weekdays at 10 a.m. POLITICO Pro Tax subscri\u2026 [+10347 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Sam Mintz",
+            "title": "New AV bill pieces show wide disagreement remains",
+            "description": "Cuomo, Trump sit down today over DHS spat \u2014 White House takes on navigation hacking fears",
+            "url": "https://www.politico.com/newsletters/morning-transportation/2020/02/13/new-av-bill-pieces-show-wide-disagreement-remains-785349",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-13T15:00:33Z",
+            "content": "With help from Eric Geller\r\nPROGRAMMING NOTE: Morning Transportation will not be published on Monday, Feb. 17. We'll be back on our normal schedule on Tuesday, Feb. 18. \r\nAdvertisement\r\nEditors Note: This edition of Morning Transportation is published weekday\u2026 [+8805 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Tim Starks",
+            "title": "EO seeks to secure services such as GPS",
+            "description": "Cyber companies\u2019 insights on Facebook fake account takedowns \u2014 House Homeland Security, Science panels pass cybersecurity bills",
+            "url": "https://www.politico.com/newsletters/morning-cybersecurity/2020/02/13/eo-seeks-to-secure-services-such-as-gps-785362",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-13T15:00:00Z",
+            "content": "With help from Eric Geller and Mary Lee\r\nPROGRAMMING NOTE: Morning Cybersecurity will not be published on Monday, Feb. 17. We'll be back on our normal schedule on Tuesday, Feb. 18.\r\nAdvertisement\r\nEditor's Note: This edition of Morning Cybersecurity is publis\u2026 [+11444 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Carla Marinucci, Jeremy B. White, Graph Massara and Aaron Leathley",
+            "title": "TRUMP to BAKERSFIELD, LA \u2014 OBERNOLTE gets the big nod \u2014 CA DEMS talk SMITH in CA-25 \u2014 new BIDEN endorsements \u2014 BULLET TRAIN price tag jumps $1B",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/02/13/trump-to-bakersfield-la-obernolte-gets-the-big-nod-ca-dems-talk-ca-25-bullet-train-price-tag-jumps-1b-calpers-cio-in-the-crosshairs-new-biden-endorsements-488318",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-13T14:16:10Z",
+            "content": "THE BUZZ TRUMPS RETURN TO CALIFORNIA: President Donald Trump has been lobbing harsh criticism at Californias sanctuary city policies from a coast away in recent weeks via Twitter and his State of the Union address. But next week, hell deliver the message in p\u2026 [+17259 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Erin Durkin, Anna Gronewold and Michelle Bocanegra",
+            "title": "Bail reform compromise proposal sparks uproar \u2014 Cuomo offers Trump concessions in Global Entry fight \u2014 Adams warns of 'dirty campaign'",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-york-playbook/2020/02/13/bail-reform-compromise-proposal-sparks-uproar-cuomo-offers-trump-concessions-in-global-entry-fight-adams-warns-of-dirty-campaign-488320",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-13T12:23:45Z",
+            "content": "Presented by the American Recyclable Plastic Bag Alliance\r\nBail reform temperature check? The thermometer has exploded. Mercury is leaking all over the Democratic conference.\r\nThe Senate announced Wednesday\r\n that after weeks of criticism from law enforcement\u2026 [+21619 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "POLITICO Playbook: Inside the Bloomberg machine",
+            "description": "And the Democratic Party's black donor class believes the candidates aren't doing enough to court the black community.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/13/inside-the-bloomberg-machine-488319",
+            "urlToImage": "https://static.politico.com/8a/77/9c740ac14052ae2aba373d1482ce/200213-bloomberg-getty-773.jpg",
+            "publishedAt": "2020-02-13T11:12:06Z",
+            "content": "Mike Bloomberg delivers remarks during a campaign rally in Nashville, Tenn., on Wednesday, Feb. 12. | Brett Carlsen/Getty Images\r\nDRIVING THE DAY\r\nG'morning from NASHVILLE. \r\nIF A FEW CAMPAIGN CONSULTANTS were sitting at a bar and dreamed up how theyd run a n\u2026 [+23059 chars]"
+        }
+    ]
+}

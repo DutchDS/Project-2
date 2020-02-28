@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "New Scientist staff and Press Association",
+            "title": "First cases of new coronavirus confirmed in the UK as disease spreads",
+            "description": "Two members of the same family have tested positive for coronavirus in England, the Department of Health has confirmed",
+            "url": "https://www.newscientist.com/article/2232098-first-cases-of-new-coronavirus-confirmed-in-the-uk-as-disease-spreads/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/01/31100226/gettyimages-1197636411-.jpg",
+            "publishedAt": "2020-01-31T10:16:10Z",
+            "content": "By New Scientist staff and Press Association\r\nThe first cases of the new coronavirus emerged in China\r\nNurPhoto/Getty\r\nThe first cases of the new coronavirus have been confirmed in the UK. Two members of the same family have tested positive for the infection \u2026 [+958 chars]"
+        }
+    ]
+}

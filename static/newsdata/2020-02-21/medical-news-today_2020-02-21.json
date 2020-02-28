@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Maria Cohut",
+            "title": "Experts condemn 'rumors and misinformation' about coronavirus - Medical News Today",
+            "description": "International public health experts have issued a statement expressing concerns over the spread of conspiracy theories about the new coronavirus.",
+            "url": "https://www.medicalnewstoday.com/articles/experts-condemn-rumors-and-misinformation-about-coronavirus",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/GettyImages-596568061-1200x628.jpg",
+            "publishedAt": "2020-02-21T18:11:15Z",
+            "content": "Scientists from nine countries have issued a joint statement strongly condemning conspiracy theories surrounding the origin of the new coronavirus (SARS-CoV-2) and urging those who cultivate the rumors to consider the harmful consequences of misinformation.\r\n\u2026 [+3353 chars]"
+        }
+    ]
+}

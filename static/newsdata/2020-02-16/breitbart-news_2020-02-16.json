@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Simon Kent",
+            "title": "World Health Organization (Again) Applauds China\u2019s Virus Outbreak Response, Urges World to Follow Suit",
+            "description": "The World Health Organization (WHO) warmly praised China on Saturday for its response to the deadly coronavirus outbreak, saying it has \u201cbought the world time\u201d and other nations should watch and learn before making the most of it. It is the second time in a m\u2026",
+            "url": "https://www.breitbart.com/asia/2020/02/16/world-health-organization-again-applauds-chinas-virus-outbreak-response-urges-world-to-follow-suit/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/wuhan-virus-china-640x335.jpg",
+            "publishedAt": "2020-02-16T15:28:49Z",
+            "content": "The World Health Organization (WHO) warmly praised China on Saturday for its response to the deadly coronavirus outbreak, saying it has bought the world time and other nations should watch and learn before making the most of it. It is the second time in a mat\u2026 [+3642 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Ap",
+            "title": "Silver: NBA to Consider Playing in China Despite Political, Health Concerns",
+            "description": "CHICAGO (AP) \u2014 The NBA and USA Basketball are still considering playing in China later this year, though the complexities of both the",
+            "url": "https://www.breitbart.com/sports/2020/02/16/silver-nba-to-consider-playing-in-china-despite-political-health-concerns/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/AP-Photo_David-Banks-640x335.jpg",
+            "publishedAt": "2020-02-16T16:40:07Z",
+            "content": "CHICAGO (AP) The NBA and USA Basketball are still considering playing in China later this year, though the complexities of both the political rift caused by a tweet last fall and the ongoing health concerns in the worlds most populous country are making those\u2026 [+5462 chars]"
+        }
+    ]
+}

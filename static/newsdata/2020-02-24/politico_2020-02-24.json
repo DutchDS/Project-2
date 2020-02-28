@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Associated Press",
+            "title": "Global markets fall sharply as virus cases spread past Asia",
+            "description": "The viral outbreak threatens to crimp global economic growth and hurt profits and revenue for a wide range of businesses.",
+            "url": "https://www.politico.com/news/2020/02/24/global-markets-fall-sharply-as-virus-cases-spread-past-asia-117122",
+            "urlToImage": "https://static.politico.com/c2/7a/89eb076341ec92865ea98a5e4a50/200224-us-stocks-ap-773.jpg",
+            "publishedAt": "2020-02-24T15:10:49Z",
+            "content": "South Korea is now on its highest alert for infectious diseases after cases there spiked. Italy reported a sharp rise in cases and a dozen towns in the northern part of that country are under quarantine. The nation now has the biggest outbreak in Europe, prom\u2026 [+1859 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "Playbookers suggest running mates for Bernie as D.C. Dems panic",
+            "description": "And President Donald Trump arrives in India and delivers a rally-style speech at the world\u2019s largest cricket stadium.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/24/playbookers-suggest-running-mates-for-bernie-as-dc-dems-panic-488395",
+            "urlToImage": "https://static.politico.com/1c/ba/bf9c519b4054be18e42ee977ea80/200224-bernie-sanders-ap-773.jpg",
+            "publishedAt": "2020-02-24T10:49:25Z",
+            "content": "DRIVING THE DAY\r\nWE ASKED readers Sunday to send in some suggestions for a running mate for Sen. BERNIE SANDERS (I-Vt.), the strong frontrunner for the Democratic presidential nomination. Weve kept these anonymous -- some people asked, others didnt, but we wa\u2026 [+14224 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Marianne LeVine",
+            "title": "Three-way gavel battle to lead Appropriations",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/huddle/2020/02/24/three-way-gavel-battle-boost-for-biden-barr-to-lunch-with-senate-republicans-488399",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-24T13:13:40Z",
+            "content": "With an assist from Sarah Ferris and Melanie Zanona \r\nTHREE-WAY GAVEL BATTLE House Democrats wont pick their appropriations chair until after the November elections, but the contest has already set off intense jockeying behind the scenes. Rep. Rosa DeLauro (D\u2026 [+12155 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Tim Starks",
+            "title": "What to watch for at RSAC",
+            "description": "EAC gets new leaders \u2014 What\u2019s the deal with Russia and Sanders?",
+            "url": "https://www.politico.com/newsletters/morning-cybersecurity/2020/02/24/what-to-watch-for-at-rsac-785617",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-24T15:00:47Z",
+            "content": "With help from Eric Geller and Martin Matishak\r\nEditor's Note: Morning Cybersecurity is a free version of POLITICO Pro Cybersecurity's morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news\u2026 [+10127 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Brianna Gurciullo",
+            "title": "Wolf to face appropriators in both chambers this week",
+            "description": "Senate Banking to hear from alphabet soup groups on surface reauthorization \u2014 What's on tap for the DAC",
+            "url": "https://www.politico.com/newsletters/morning-transportation/2020/02/24/wolf-to-face-appropriators-in-both-chambers-this-week-785597",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-24T15:00:21Z",
+            "content": "Presented by the American Public Transportation Association\r\nWith help from Stephanie Beasley and Sam Mintz\r\nEditors Note: Morning Transportation is a free version of POLITICO Pro Transportations morning newsletter, which is delivered to our subscribers each \u2026 [+10357 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Ryan McCrimmon",
+            "title": "From \u2018bigger tractors\u2019 to trade aid 3.0",
+            "description": "First fish farm in the Gulf awaits approval \u2014 Brazilian beef back on the menu",
+            "url": "https://www.politico.com/newsletters/morning-agriculture/2020/02/24/from-bigger-tractors-to-trade-aid-30-785614",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-24T15:00:03Z",
+            "content": "Presented by the Almond Board of California\r\nWith help from Catherine Boudreau\r\nEditor's Note: Morning Agriculture is a free version of POLITICO Pro Agriculture's morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pr\u2026 [+10807 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Darius Tahir",
+            "title": "Coronavirus fears weigh on White House",
+            "description": "Azar on deck this week \u2014 ONC delivers burden reduction work",
+            "url": "https://www.politico.com/newsletters/morning-ehealth/2020/02/24/coronavirus-fears-weigh-on-white-house-785603",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-24T15:00:24Z",
+            "content": "With help from Mohana Ravindranath (@ravindranize)\r\nEditor's Note: Morning eHealth is a free version of POLITICO Pro eHealth's morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you nee\u2026 [+7663 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Adam Behsudi",
+            "title": "Coronavirus continues to loom over China deal implementation",
+            "description": "\u2019America First\u2019 vs. \u2018Make in India\u2019 \u2014 Nail importers hammer away at new tariffs",
+            "url": "https://www.politico.com/newsletters/morning-trade/2020/02/24/coronavirus-continues-to-loom-over-china-deal-implementation-785599",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-24T15:00:16Z",
+            "content": "With help from Doug Palmer\r\nEditors Note: Morning Trade is a free version of POLITICO Pro Trades morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tools you can use to ta\u2026 [+11513 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jeremy B. White, Carla Marinucci, Graph Massara and Aaron Leathley",
+            "title": "CALIFORNIA voting as BERNIE pushes for NPPs \u2014 FBI arrests hacker from CA-25 race \u2014 OC fights feds on CORONAVIRUS \u2014 BECERRA defies TRUMP on ABORTION",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/02/24/california-voting-as-bernie-pushes-for-npps-fbi-charges-hacker-from-ca-25-race-oc-fights-feds-on-coronavirus-becerra-defies-trump-on-abortion-488394",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-24T14:14:38Z",
+            "content": "THE BUZZ: A week and a day out from Super Tuesday, Californias voting machinery has whirred fully into gear.\r\nYou may have already received and filled out one of 16 million-plus ballots that have been mailed out to voters in recent weeks. This weekend marked \u2026 [+17444 chars]"
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "WHO declares global public health emergency over coronavirus outbreak",
+            "description": "UN body hopes declaration will help countries with weaker healthcare systems cope, as the coronavirus spreads to more than a dozen countries. The confirmed number of cases of the virus has exceeded 7,000 \u2013 170 of which were fatal. Also in the programme: The C\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq5575ftqfj",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p081vjxh.jpg",
+            "publishedAt": "2020-01-30T22:13:00Z",
+            "content": "UN body hopes declaration will help countries with weaker healthcare systems cope, as the coronavirus spreads to more than a dozen countries. The confirmed number of cases of the virus has exceeded 7,000 170 of which were fatal. \r\nAlso in the programme: The C\u2026 [+507 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Leave or remain - who could be on the move on deadline day?",
+            "description": "It is deadline day on Friday but which players are likely to be on the move? BBC Sport looks at some of the potential candidates.",
+            "url": "https://www.bbc.co.uk/sport/football/51270867",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/C225/production/_110710794_tddvote_v3.png",
+            "publishedAt": "2020-01-30T20:03:47Z",
+            "content": "Salomon Rondon left Newcastle for an undisclosed fee in the summer\r\nWhen the clock strikes 23:00 GMT on Friday 31 January, it will signal the end of an all-encompassing debate that has been gripping the United Kingdom - will Manchester United actually sign a \u2026 [+5842 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus declared global health emergency",
+            "description": "Coronavirus is declared global emergency by World Health Organization as outbreak continues to spread outside China",
+            "url": "https://www.bbc.co.uk/news/world-51318246",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+            "publishedAt": "2020-01-30T19:44:24Z",
+            "content": "Coronavirus has been declared a global emergency by the World Health Organization, as the outbreak continues to spread outside China.\r\n\"The main reason is not what is happening in China but what is happening in other countries,\" said WHO chief Tedros Adhanom \u2026 [+433 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: US reports first person-to-person transmission",
+            "description": "Health officials in Chicago report the US\u2019s first person-to-person transmission of the deadly virus.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-51316915",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08121k8.jpg",
+            "publishedAt": "2020-01-30T18:51:22Z",
+            "content": "Media captionThe BBC's online health editor on what we know about the virus\r\nChicago health officials have reported the first US case of human-to-human transmission of the deadly coronavirus.\r\nThe new patient is the spouse of a Chicago woman who carried the i\u2026 [+2341 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Australia coronavirus: Dutton defends Christmas Island quarantine plan",
+            "description": "Officials want to send those evacuated from the epicentre of the coronavirus to a remote island.",
+            "url": "https://www.bbc.co.uk/news/world-australia-51317760",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11A8B/production/_110713327_ac24d42e-115b-4269-b9c7-98f5279539c6.jpg",
+            "publishedAt": "2020-01-30T18:31:32Z",
+            "content": "Image copyrightEPAImage caption\r\n The Australian government says Christmas Island has the best available facilities\r\nAustralia's government has defended its plan to send citizens evacuated from the region at the centre of China's coronavirus outbreak to a rem\u2026 [+2122 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Which countries are evacuating citizens?",
+            "description": "Hundreds of foreigners in the Chinese city of Wuhan are being put on flights home.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51312378",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11FEF/production/_110711737_hi059586148.jpg",
+            "publishedAt": "2020-01-30T17:05:34Z",
+            "content": "Image copyrightAFP\r\nAs the Chinese city at the heart of the coronavirus outbreak remains under lockdown, governments abroad are continuing efforts to bring their citizens home.\r\nThe death toll from the virus now stands at 170, with more than 7,700 confirmed c\u2026 [+5927 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Russia closes its border with China",
+            "description": "Russia orders the closure of its 4000-km long border and imposes visa restrictions to help prevent the spread of the virus, which has now known to have killed 170 people and infected thousands. Also, Mali launches an army recruitment drive to fight jihadists,\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p081ttlg",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-01-30T15:31:00Z",
+            "content": "Russia orders the closure of its 4,000km-long border and imposes visa restrictions to help prevent the spread of the virus, which has now known to have killed 170 people and infected thousands. Also, Mali launches an army recruitment drive to fight jihadists,\u2026 [+92 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Confirmed coronavirus cases in all China regions",
+            "description": "Russia says it is closing its border with China and imposing visa restrictions to help prevent the spread of the coronavirus - now known to have killed one-hundred-and-seventy people and infected thousands. Several major companies, including Google, Ikea, Sam\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq5575fsw6m",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p081t3sg.jpg",
+            "publishedAt": "2020-01-30T15:14:00Z",
+            "content": "Russia says it is closing its border with China and imposing visa restrictions to help prevent the spread of the coronavirus - now known to have killed one-hundred-and-seventy people and infected thousands. Several major companies, including Google, Ikea, Sam\u2026 [+478 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Thousands stuck on cruise ship after suspected case",
+            "description": "Passengers are told they must remain on board after a Chinese woman developed symptoms.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51314138",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/137FE/production/_110707897_68e9b526-7e1d-4f47-939f-6c564d8cff2e.jpg",
+            "publishedAt": "2020-01-30T14:32:30Z",
+            "content": "Image copyrightReutersImage caption\r\n The Costa Smeralda cruise ship, carrying 6,000 people, is stuck at port near Rome\r\nSix thousand people on board a cruise ship in Italy have been barred from disembarking, after a Chinese passenger developed symptoms of co\u2026 [+6244 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Nintendo Switch overtakes 1990s SNES console in sales",
+            "description": "The Switch is now Nintendo's third best-selling console after overtaking the SNES of the '90s.",
+            "url": "https://www.bbc.co.uk/news/technology-51312288",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0118/production/_110708200_9ca133e5-85a8-4ce3-a5f8-2c6f0b8fa381.jpg",
+            "publishedAt": "2020-01-30T14:12:17Z",
+            "content": "Image caption\r\n Nintendo Switch (l) and SNES (r)\r\nThe Nintendo Switch has become the company's third best-selling home console, overtaking the old Super Nintendo Entertainment System (SNES).\r\nIn total, more than 52 million Switch consoles have been sold since\u2026 [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Britons in Wuhan to fly home on Friday - Raab",
+            "description": "The foreign secretary says permission has been granted for the flight to leave the coronavirus-hit city.",
+            "url": "https://www.bbc.co.uk/news/uk-51314028",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11FD0/production/_110708637_gettyimages-1197578359.jpg",
+            "publishedAt": "2020-01-30T13:36:31Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Travel out of China has been severely restricted\r\nBritish nationals trapped in Wuhan will return home on Friday, Foreign Secretary Dominic Raab has said.\r\nChinese authorities have confirmed the evacuation flight will\u2026 [+3174 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: What it does to the body",
+            "description": "Chinese doctors detail the impact the new coronavirus has on patients.",
+            "url": "https://www.bbc.co.uk/news/health-51214864",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2364/production/_110706090_gettyimages-1195314045.jpg",
+            "publishedAt": "2020-01-30T13:11:22Z",
+            "content": "Image copyrightGetty Images\r\nFighting the new coronavirus has been a battle against the unknown for doctors.\r\nHow does it attack the body? What are the full range of symptoms? Who is more likely to be seriously ill or die? How do you treat it?\r\nNow, an accoun\u2026 [+3606 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: British mum 'hopeful' of leaving Wuhan with son",
+            "description": "Natalie Francis had initially been told she would have to leave her three-year-old son behind.",
+            "url": "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-51310486",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17AC0/production/_110706969_mediaitem110706968.jpg",
+            "publishedAt": "2020-01-30T13:01:20Z",
+            "content": "Image copyrightFamily pictureImage caption\r\n Natalie Francis has said she was worried about her son Jamie's health because he had pneumonia last year\r\nA mother who was told she could not leave Wuhan with her son amid the coronavirus outbreak is now hopeful he\u2026 [+2573 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Case likely to be found in Scotland in days",
+            "description": "A Scottish government source says health workers expect to confirm a case of the virus in the next few days.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51310956",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E9A2/production/_110701895_gettyimages-1201695766.jpg",
+            "publishedAt": "2020-01-30T11:40:01Z",
+            "content": "Image copyrightGetty Images\r\nA case of coronavirus is likely in Scotland in the coming days, according to a Scottish government source. \r\nSo far 7,700 cases of the virus have been confirmed in China and 170 deaths. \r\nThe Foreign Office has said it is \"working\u2026 [+376 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus delays start of China's Super League season",
+            "description": "China's domestic football season, including the Super League, is postponed because of the coronavirus outbreak in the country.",
+            "url": "https://www.bbc.co.uk/sport/football/51306776",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/13128/production/_110702187_marouane_fellaini.jpg",
+            "publishedAt": "2020-01-30T07:24:44Z",
+            "content": "Brazil forward Hulk, who plays for Shanghai SIPG, and ex-Everton and Manchester United midfielder Marouane Fellaini, now at Shandong Luneng Taishan, are two of the best-known players in the Chinese Super League\r\nChina has delayed the start of its domestic foo\u2026 [+2606 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Scotland's papers: Indyref2 and Morelos car 'tampering'",
+            "description": "MSPs backing indyref2 and the alleged interference with the car of a Rangers star make the front pages.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51307014",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13FF6/production/_110701918_thei.jpg",
+            "publishedAt": "2020-01-30T06:59:42Z",
+            "content": "Coronavirus cases confirmed in all Chinese regionsThe death toll now stands at 170 and there are 7,711 confirmed cases within China."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: UK flight 'unable to take off' as virus spreads, and chancellor backs HS2",
+            "description": "Your morning briefing for 30 January 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51301695",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/105AD/production/_110698966_epa3.jpg",
+            "publishedAt": "2020-01-30T06:28:05Z",
+            "content": "If you want to get this briefing by email, sign up here\r\nImage copyrightEPA\r\nUK evacuation flight 'unable to take off' as virus spreads\r\nThe death toll stands at 170. The number of confirmed cases at 7,711. And with one in Tibet, it now means the coronavirus \u2026 [+5421 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus Wuhan diary: Living alone in a city gone quiet",
+            "description": "Loneliness, emptiness, and hyper-hygiene - one woman describes life in a city gone quiet.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51276656",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151EE/production/_110701568_wuhan_diary_illustration_3.jpg",
+            "publishedAt": "2020-01-30T05:58:55Z",
+            "content": "Guo Jing lives in Wuhan, the Chinese city at the heart of the outbreak of a new virus which has got the world worried. \r\nWuhan has been under lockdown since 23 January, to try to contain the infection. Transport is shut down, most shops and businesses closed,\u2026 [+8118 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Technology giants join China shutdown",
+            "description": "Google, Microsoft, and Amazon among the global companies taking action as the deadly virus spreads.",
+            "url": "https://www.bbc.co.uk/news/business-51276322",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0814/production/_110686020_gettyimages-1014857708.jpg",
+            "publishedAt": "2020-01-30T05:46:55Z",
+            "content": "Image copyrightGetty Images\r\nGoogle is temporarily closing all of its offices in China, Hong Kong, and Taiwan as a result of the coronavirus.\r\nOther tech giants, including Amazon and Microsoft, have also taken action to protect staff from infection.\r\nThis wee\u2026 [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Scientists race to develop a vaccine",
+            "description": "US researchers are already working on a vaccine against the new virus that has emerged in China.",
+            "url": "https://www.bbc.co.uk/news/health-51299735",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p081rymr.jpg",
+            "publishedAt": "2020-01-30T05:04:30Z",
+            "content": "Media captionInside the US laboratory developing a coronavirus vaccine\r\nA deadly new virus. Thousands of people infected. No cure. No vaccine. \r\nWe've been here many times before. \r\nIn the past five years alone, the world has faced outbreaks of Ebola, Zika, a\u2026 [+5312 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: The US laboratory developing a vaccine",
+            "description": "US scientists have told the BBC they could have a vaccine ready for use before the end of the year.",
+            "url": "https://www.bbc.co.uk/news/av/health-51305193/coronavirus-the-us-laboratory-developing-a-vaccine",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17250/production/_110700849_p081rymr.jpg",
+            "publishedAt": "2020-01-30T05:02:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Man's concern over mask availability due to outbreak",
+            "description": "A man with cystic fibrosis is struggling to get hold of the face masks he needs to stay healthy.",
+            "url": "https://www.bbc.co.uk/news/uk-wales-51299570",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BBBB/production/_110695084_mask2.jpg",
+            "publishedAt": "2020-01-30T03:30:10Z",
+            "content": "Image caption\r\n Byron Wright uses a mask when he's in public to try protect against picking up an airborne virus\r\nA man with cystic fibrosis is concerned about the availability of respirator masks due to the coronavirus outbreak.\r\nByron Wright, 37, who has ha\u2026 [+4201 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Death toll rises as virus spreads to every Chinese region",
+            "description": "With one of the 7,711 confirmed cases reported in Tibet, the virus is now in every region of China.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51305526",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7B70/production/_110700613_hi059563853.jpg",
+            "publishedAt": "2020-01-30T02:41:44Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The WHO warns the virus holds the potential for a much larger outbreak\r\nThe death toll of the coronavirus has risen to 170 and with a confirmed case in Tibet, the virus has now spread to every region in mainland Chin\u2026 [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "What ancient Rome may teach on post-Brexit tourism",
+            "description": "As more Britons holiday at home and European visitor numbers fall, could we learn from ancient Rome?",
+            "url": "https://www.bbc.co.uk/news/business-51279876",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0062/production/_110689000_gettyimages-932671068.jpg",
+            "publishedAt": "2020-01-30T01:06:39Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The Romans developed tourism in Britain, with the baths they built in the city of Bath remaining popular with tourists to this day\r\nUK Culture Secretary Nicky Morgan has probably not previously been compared to ancie\u2026 [+6713 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "WHO says world 'must be alert' over China virus",
+            "description": "The World Health Organization will hold a further emergency meeting on the coronavirus on Thursday. Also: White House warns former advisor, John Bolton, not to publish book, and scientists say lungs \"magically\" heal damage from smoking.",
+            "url": "https://www.bbc.co.uk/programmes/p081rkb5",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-01-30T00:00:00Z",
+            "content": "The World Health Organization will hold a further emergency meeting on the coronavirus on Thursday. Also: White House warns former advisor, John Bolton, not to publish book, and scientists say lungs \"magically\" heal damage from smoking."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Evan Semones",
+            "title": "NIH official confirms \u2018more than 40 Americans\u2019 on cruise ship have coronavirus",
+            "description": "They will treated at hospitals in Japan.",
+            "url": "https://www.politico.com/news/2020/02/16/americans-cruise-ship-coronavirus-115586",
+            "urlToImage": "https://static.politico.com/ed/4c/8838ef664792a6224b2cbcdca8de/20200216-fauci-ap-773.jpg",
+            "publishedAt": "2020-02-16T18:00:11Z",
+            "content": "\"The reason for that is that the degree of transmissibility on that cruise ship is essentially akin to being in a hot spot,\" Fauci added. \"A lot of transmissibility on that cruise ship.\"\r\nFauci stated said that if passengers who have not yet shown any sign of\u2026 [+739 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "POLITICO Playbook: The Bloomberg Obsession",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/16/the-bloomberg-obsession-488339",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-16T15:47:35Z",
+            "content": "Michael Bloomberg has captivated the Democratic race since former Vice President Joe Biden's dismal performance in Iowa and New Hampshire. | Gerald Herbert/AP Photo\r\nDRIVING THE DAY\r\nMIKE BLOOMBERG isnt on the ballot in Nevada caucuses next week, but hes the \u2026 [+25749 chars]"
+        }
+    ]
+}

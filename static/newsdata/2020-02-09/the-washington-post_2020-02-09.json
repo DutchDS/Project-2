@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jeff Stein",
+            "title": "White House budget proposal keeps deficits for 15 years",
+            "description": "An overview of the White House's budget, obtained by The Washington Post, calls for eliminating the deficit in 15 years.",
+            "url": "https://www.washingtonpost.com/business/2020/02/09/trump-budget-plan-would-fail-eliminate-deficit-over-10-years-briefing-document-shows/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/t3T9PcF-LESmHAjpYszRutZ82Fc=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X6HREBXH5REYPN524I3W6POSSI",
+            "publishedAt": "2020-02-09T19:45:56Z",
+            "content": "Trump has shown little interest in dealing with the deficit and debt, though some GOP party leaders say it remains a priority. \r\nThe last budget of Trumps first term, expected to be publicly released on Monday, also calls for about $2 trillion in cuts to non-\u2026 [+3150 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Derek Hawkins",
+            "title": "He ducked Chinese authorities to report on coronavirus in Wuhan. Then he disappeared.",
+            "description": "The 34-year-old citizen journalist knew he would be a likely target for Chinese law enforcement in Wuhan.",
+            "url": "https://www.washingtonpost.com/world/2020/02/09/chen-qiushi-coronavirus-wuhan/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/03AaqLfXxe1PW-K-B9ylCH6nYFw=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JUXMAVSDEUI6VGOHDX6UEQNC7Y.jpg",
+            "publishedAt": "2020-02-09T15:51:24Z",
+            "content": "On Thursday, after several of his reports circulated around the world, Chen stopped responding to calls and messages, setting off an online campaign to track him down. The 34-year-old knew he would be a likely target for law enforcement, so he gave select fri\u2026 [+5331 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Miriam Berger",
+            "title": "Love in the time of coronavirus, quarantines and travel bans",
+            "description": "Mixed-nationality couples and families looking to leave China have found themselves divided by citizenship status.",
+            "url": "https://www.washingtonpost.com/world/2020/02/09/love-time-coronavirus-quarantines-travel-bans/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/WTs7CGe3avNeCpGzGk6I4tcpFxo=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZGTV2SGBQI6VENLZZBZVJOHYE.jpg",
+            "publishedAt": "2020-02-09T14:00:00Z",
+            "content": "But although Autry had the choice to leave because of her U.S. citizenship, she stayed. Her boyfriend, now effectively trapped along with many other Chinese nationals by travel restrictions, would otherwise have had to stay alone in their shared apartment.\r\nI\u2026 [+4926 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Max Bearak",
+            "title": "'In good and bad times': Africa's biggest airline, Ethiopian, sticks by China's side",
+            "description": "The airline flies to China 17 times a week, bringing thousands of people from China to Africa.",
+            "url": "https://www.washingtonpost.com/world/in-good-and-bad-times-africas-biggest-airline-ethiopian-sticks-by-chinas-side/2020/02/09/67155ffc-4762-11ea-91ab-ce439aa5c7c1_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-02-09T09:43:48Z",
+            "content": "Ethiopian Airlines serves countries in good and bad times, the airlines CEO, Tewolde Gebremariam, told local media in Ethi\u00ado\u00adpia this weekend. China has a strong trade and investment relationship with Africa, and Ethiopian Airlines is the major carrier that l\u2026 [+5246 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerry Shih",
+            "title": "China struggling to build up quarantine facilities in coronavirus outbreak epicenter",
+            "description": "The number of dead have surpassed the 2002 SARS outbreak but there are hopes the rate of infection is slowing.",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-updates/2020/02/09/eb9e683c-4aa4-11ea-8a1f-de1597be6cbc_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/YrZxlsULDNu9pvmwxyNpzfRJGRM=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ISPJDFSLBYI6VELE2MKUVWFFZU.jpg",
+            "publishedAt": "2020-02-09T07:34:44Z",
+            "content": "The global death toll from the novel coronavirus reached more than 810 on Sunday, surpassing the 774 fatalities attributed to the outbreak of the SARS coronavirus in 2002 and 2003. Among the dead was the first American, a 53-year-old citizen who died Thursday\u2026 [+4201 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Erika Kinetz\u2009|\u2009AP",
+            "title": "Mapping app location data shows how virus spread in China",
+            "description": "As a growing number of countries block travel from China, experts warn that the expanding net of restrictions may be too late to stop the spread of a new virus that has claimed over 800 lives",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/mapping-app-location-data-shows-how-virus-spread-in-china/2020/02/09/dc766f02-4b09-11ea-8a1f-de1597be6cbc_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-02-09T07:00:32Z",
+            "content": "Officials finally began to seal the borders on Jan. 23. But it was too late. Speaking to reporters a few days after the the city was put under quarantine, the mayor estimated that 5 million people had already left.\r\nWhere did they go?\r\nAn Associated Press ana\u2026 [+7752 chars]"
+        }
+    ]
+}

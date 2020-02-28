@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mohamed A. El-erian",
+            "title": "Coronavirus Also Poses a Longer-Term Economic Threat to China",
+            "description": "Coronavirus Also Poses a Longer-Term Economic Threat to China bloomberg.com",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-01-25/coronavirus-also-poses-a-longer-term-economic-threat-to-china",
+            "urlToImage": null,
+            "publishedAt": "2020-01-25T23:07:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Faye Flam",
+            "title": "Coronavirus Cures Are Already In Progress Thanks to NIH Funding",
+            "description": "Coronavirus Cures Are Already In Progress Thanks to NIH Funding bloomberg.com",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-01-25/coronavirus-cures-are-already-in-progress-thanks-to-nih-funding",
+            "urlToImage": null,
+            "publishedAt": "2020-01-25T14:23:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Malaysia Reports First Confirmed Cases of Novel Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-01-25/malaysia-reports-first-confirmed-cases-of-novel-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-01-25T04:14:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Michael Heath",
+            "title": "Australia Reports Its First Confirmed Case of New Coronavirus",
+            "description": "Australia Reports Its First Confirmed Case of New Coronavirus bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-01-25/australia-reports-its-first-confirmed-case-of-new-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-01-25T01:58:07Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "More Americans to be quarantined amid coronavirus outbreak",
+            "description": "Another group of Americans are heading home from the coronavirus outbreak zone in China. About 250 evacuees will be quarantined for two weeks. Ramy Inocencio has the latest.",
+            "url": "https://www.cbsnews.com/video/more-americans-to-be-quarantined-amid-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/07/93194972-ae1f-46da-b4ae-2a77592f1b83/thumbnail/1200x630/d5e948ffc0d68793b77c721a5918425c/0206-en-corona-inocencio-2022590-640x360.jpg",
+            "publishedAt": "2020-02-06T23:51:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "China's workers swamp chat and video conference tools",
+            "description": "Chinese version of WhatsApp crashed after millions of users tried to get work done during the coronavirus lockdown.",
+            "url": "https://www.cbsnews.com/news/coronavirus-zoom-wechat-conferencing-overwhelm-networks/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/06/ce328e8f-5a5d-4f5e-91d2-a3a4608f87f6/thumbnail/1200x630/650cec33861917aca29e7542a442fe93/gettyimages-1198600628.jpg",
+            "publishedAt": "2020-02-06T22:24:29Z",
+            "content": "The sheer number of people in China forced to work from home to avoid spreading the\u00a0deadly coronavirus\u00a0is crashing overburdened messaging and video-conferencing tools.\u00a0\r\nWith many offices closed, workers and businesses in China are flocking to platforms like \u2026 [+2538 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "jessica learish",
+            "title": "Deadliest infectious diseases in the world, ranked",
+            "description": "It's not yet clear how the new coronavirus outbreak will stack up against the world's deadliest infectious diseases.",
+            "url": "https://www.cbsnews.com/pictures/deadly-diseases-infectious-world-ranked/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/04/3dfa3570-54fb-4729-8cd7-a3ad8fc41a22/thumbnail/1200x630/b6568ed7f6fe8b02f12f8767dce2349a/gettyimages-1198658147.jpg",
+            "publishedAt": "2020-02-06T21:49:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "Doctor who sounded the alarm on coronavirus dies of illness",
+            "description": "Dr. Li Wenliang, who was threatened by Chinese officials after warning fellow clinicians of the virus in December, has died of the coronavirus.",
+            "url": "https://www.cbsnews.com/news/coronavirus-li-wenliang-chinese-doctor-whistleblower-coronavirus-dies-of-illness-wuhan/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/6eec5f9a-90a1-4d2b-8049-1531ddbdabd7/thumbnail/1200x630/32b556b70d5c5a7d2d8a34547c8a56a8/my-post-69.png",
+            "publishedAt": "2020-02-06T21:09:40Z",
+            "content": "A Chinese doctor who was threatened by the government after he voiced concerns about the new coronavirus died from the illness early Friday, officials said. Dr. Li Wenliang died at 2:58 a.m. on February 7, the Wuhan Central Hospital said in a statement.\u00a0\r\nThe\u2026 [+1342 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Scientists look to HIV medications for coronavirus treatment",
+            "description": "Scientists working to combat the global coronavirus outbreak are hoping to repurpose drugs used to treat other viruses such as HIV. Over 28,000 cases have been confirmed worldwide, including 12 in the U.S. Dr. David Agus joins \u201cCBS This Morning\u201d to explain ho\u2026",
+            "url": "https://www.cbsnews.com/video/scientists-look-to-hiv-medications-for-coronavirus-treatment/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/baea2438-0630-4909-af47-9344540a57c5/thumbnail/1200x630/d2eb3d71e751059093f2a249c8daa235/0206-ctm-morocoronavaccine-agus-2021930-640x360.jpg",
+            "publishedAt": "2020-02-06T20:52:11Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "Doctor who sounded the alarm on coronavirus in critical condition",
+            "description": "Dr. Li Wenliang, who was threatened by Chinese officials after warning fellow clinicians of the virus in December, died Thursday of coronavirus.",
+            "url": "https://www.cbsnews.com/news/coronavirus-li-wenliang-chinese-doctor-whistleblower-coronavirus-critical-illness-wuhan/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/6eec5f9a-90a1-4d2b-8049-1531ddbdabd7/thumbnail/1200x630/32b556b70d5c5a7d2d8a34547c8a56a8/my-post-69.png",
+            "publishedAt": "2020-02-06T18:03:00Z",
+            "content": "In December, Dr. Li Wenliang was threatened by the government after he publicly voiced concerns about the new coronavirus before it was identified. On Thursday, the illness had left him in critical condition, China's Global Times reported. Earlier, CBS News h\u2026 [+1966 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Hong Kong to quarantine visitors from mainland China amid coronavirus outbreak",
+            "description": "Hong Kong will impose a quarantine on all visitors from mainland China amid the coronavirus outbreak. CBS News Asia correspondent Ramy Inocencio joined CBSN AM from Hong Kong to talk about the latest.",
+            "url": "https://www.cbsnews.com/video/hong-kong-to-quarantine-visitors-from-mainland-china-amid-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/a59fbf7a-27c6-41d9-a593-ba4134dca57f/thumbnail/1200x630/ab55ea6bd91873c69a7e24b87c090140/0206-cbsn-hongkong-2022041-640x360.jpg",
+            "publishedAt": "2020-02-06T17:26:01Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "Doctor who sounded the alarm on coronavirus dies of illness",
+            "description": "Dr. Li Wenliang, who was threatened by Chinese officials after warning fellow clinicians of the virus in December, died Thursday of coronavirus.",
+            "url": "https://www.cbsnews.com/news/coronavirus-li-wenliang-chinese-doctor-whistleblower-coronavirus-dies-illness-wuhan/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/6eec5f9a-90a1-4d2b-8049-1531ddbdabd7/thumbnail/1200x630/32b556b70d5c5a7d2d8a34547c8a56a8/my-post-69.png",
+            "publishedAt": "2020-02-06T16:59:05Z",
+            "content": "In December, Dr. Li Wenliang was threatened by the government after he publicly voiced concerns about the new coronavirus before it was identified. He died Thursday of the illness,\u00a0according to China's state-run media.\u00a0\r\nWenliang, a 34-year-old ophthalmologis\u2026 [+1755 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Reporting from inside Wuhan, China \u2013 the center of the coronavirus outbreak",
+            "description": "New York Times China correspondent Amy Qin has been reporting from inside Wuhan, China for almost a week. The city is on lockdown amid the coronavirus outbreak. She joined CBSN AM to talk about her experience.",
+            "url": "https://www.cbsnews.com/video/reporting-from-inside-wuhan-china-the-center-of-the-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/06/d9fcda8f-6c76-4452-a0f8-7757b03f5bbd/thumbnail/1200x630/8f8379c81dbf73bd79dfbda82fb87eeb/0206-cbsn-wuhancoronavirus-2022024-640x360.jpg",
+            "publishedAt": "2020-02-06T16:42:28Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus could lead to drop in China's economic growth",
+            "description": "Analysts believe the coronavirus outbreak could lead to a drop in China's economic growth, which could hurt financial markets around the world. CBS News business analyst Jill Schlesinger joins CBSN AM to talk about the potential impact.",
+            "url": "https://www.cbsnews.com/video/coronavirus-economic-impact-drop-in-chinas-growth/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/656f0338-f126-4570-9264-6adb0eeb7e00/thumbnail/1200x630/21a5d0b00812cbb65d446dbecda922ad/cbsn-fusion-coronavirus-economic-impact-drop-in-chinas-growth-thumbnail-442870-640x360.jpg",
+            "publishedAt": "2020-02-06T16:26:57Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Scientists look to HIV, Ebola medications for coronavirus treatment",
+            "description": "Scientists working to combat the global coronavirus outbreak are hoping to repurpose drugs used to treat other viruses such as HIV and Ebola. Over 28,000 cases have been confirmed worldwide, including 12 in the U.S. Dr. David Agus joins \u201cCBS This Morning\u201d to \u2026",
+            "url": "https://www.cbsnews.com/video/scientists-look-to-hiv-ebola-medications-for-coronavirus-treatment/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/06/49997814-4be6-435b-8db8-a283eb1d6c7b/thumbnail/1200x630/3b86fc7f3bec9c0c7ccec10de6fc020f/0206-ctm-morocoronavaccine-agus-2021888-640x360.jpg",
+            "publishedAt": "2020-02-06T14:04:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Audrey McNamara",
+            "title": "What we don't know about the coronavirus",
+            "description": "After more than 500 deaths, there are still many unknowns.",
+            "url": "https://www.cbsnews.com/news/how-does-coronavirus-spread-five-things-we-dont-know-about-the-virus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/05/58075530-53d3-41a9-878f-04a01330a665/thumbnail/1200x630/b3f89d929e4f6608cebda49305c18ce5/gettyimages-1195126107.jpg",
+            "publishedAt": "2020-02-06T13:49:33Z",
+            "content": "China reported the first cases of a mysterious respiratory illness in the city of Wuhan to the World Health Organization in late December. There are now more than 28,000 coronavirus cases globally and at least 565 people have died from the new virus \u2014 part of\u2026 [+5177 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "More Princess cruise ship passengers have coronavirus",
+            "description": "Total of 3,700 passengers and crew are expected to be quarantined on the Diamond Princess for two weeks.",
+            "url": "https://www.cbsnews.com/news/coronavirus-diamond-princess-cruise-passengers-quarantined-in-japan/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/05/30186433-6cc7-4d1e-b2d1-68f01adba0f7/thumbnail/1200x630/3ff00af87d50ffb4084b9c6ed5b14574/rts30uf5.jpg",
+            "publishedAt": "2020-02-06T13:24:12Z",
+            "content": "Another 10 passengers on a Princess cruise ship in Japan have tested positive for the\u00a0coronavirus, bringing to 20 the number of people aboard the vessel who have been diagnosed with the illness.\r\nA total of 3,700 passengers and workers, including three Americ\u2026 [+6762 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "China cuts tariffs in half on $75 billion of U.S. imports",
+            "description": "As part of the trade truce, China said it will cut tariffs on U.S. imports including soybeans, pork and auto parts.",
+            "url": "https://www.cbsnews.com/news/china-tariff-us-imports-china-cuts-tariffs-on-75-billion-of-us-imports-in-trade-truce/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/08/23/1885d098-525f-4c54-976f-84bc64509376/thumbnail/1200x630/6a9b730971ead39889a1c5eebc4bb4a8/gettyimages-993064216.jpg",
+            "publishedAt": "2020-02-06T13:12:44Z",
+            "content": "China cut tariffs in half on $75 billion of U.S. imports including soybeans, pork and auto parts Thursday in a trade truce with Washington while Beijing struggles with a costly virus outbreak.\r\nThe tax rate on some 916 items including soybeans, pork and fish \u2026 [+1808 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "CDC quarantines 350 Americans over coronavirus",
+            "description": "The CDC implemented its first public health quarantine in 50 years as 350 people are isolated over coronavirus fears. At least four American evacuees from Wuhan are now showing signs of sickness after landing in California on Wednesday. In Japan, two U.S. cit\u2026",
+            "url": "https://www.cbsnews.com/video/cdc-quarantines-350-americans-over-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/e6c25f98-06d0-4279-a2a6-58451035cf0d/thumbnail/1200x630/470dc7b33deb171b4f0a62858d2fa6a8/0206-ctm-coronavirus-inconcenci-2021806-640x360.jpg",
+            "publishedAt": "2020-02-06T12:36:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus deaths mount as U.S. plans more evacuation flights",
+            "description": "More Americans expected to leave the city at the center of the outbreak in China on chartered flights as the death toll hits 565.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-usa-confirmed-cases-news-cruise-ship-death-toll-evacuations-latest-2020-02-06/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/06/512dc80f-5e48-40e8-a20b-3b1e2cbdebde/thumbnail/1200x630/34dbb4c5eb85b7eeff312ded89895260/japan-coronavirus-ship-1198879175.jpg",
+            "publishedAt": "2020-02-06T09:38:44Z",
+            "content": "Health officials confirmed Wednesday the first case of coronavirus in Wisconsin and the 12th in the U.S. The adult patient, who has a history of traveling to China, has been isolated at home. But state and local health officials would not say where or provide\u2026 [+737 chars]"
+        }
+    ]
+}
