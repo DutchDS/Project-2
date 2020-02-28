@@ -3,6 +3,9 @@ body {
   margin: 0;
 }
 
+td, th {
+    padding: 2px;
+} 
 #map,
 body,
 html {
