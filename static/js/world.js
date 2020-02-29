@@ -77,7 +77,7 @@ function get_new_layer(geoUrl) {
     
     // console.log("GEOJSON ", data)
     // Create a new choropleth layer
-    geojson = L.geoJson(data, {
+    geojson = new L.geoJson(data, {
       style: function(feature) {
         return {
           color: "white",
