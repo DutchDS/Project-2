@@ -300,11 +300,11 @@ function initializeNewsTable() {
   addListeners();
 
   newsSrcPromise.then(function(newsSrcs) {
-    console.log("initializeNewsTable() will on change event trigger? (1)");
+  // Set the corona date in newstable selector
     d3.select('#corona-date').property('value', initialDate);
-    console.log("initializeNewsTable() will on change event trigger? (2)");
+  // Set the news source in newstable selector
     d3.select('#news_source').property('value', initialSrc);
-    console.log("initializeNewsTable() will on change event trigger? (3)");
+  // trigger change event so on("change") listener will react
     d3.select('#news_source').dispatch('change');
   });
 
