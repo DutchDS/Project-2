@@ -111,19 +111,6 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
-            "author": "Jason Murdock",
-            "title": "China Pulls Plague Inc. From App Stores over 'Illegal Content' as Dev Team Reveals: 'Out of Our Control'",
-            "description": "\"It's not clear if this removal is linked to the ongoing coronavirus outbreak that China is facing. However, Plague Inc.'s educational importance has been repeatedly recognised,\" the team said.",
-            "url": "https://www.newsweek.com/china-plague-inc-app-coronavirus-1489531",
-            "urlToImage": "https://d.newsweek.com/en/full/1562139/plague-inc.jpg",
-            "publishedAt": "2020-02-27T17:01:38Z",
-            "content": "The developers of Plague Inc., a mobile game that lets players simulate outbreaks of deadly diseases, have confirmed the game was pulled from Chinese app stores.\r\nIn a statement published today, Ndemic Creations described the situation as being out of its con\u2026 [+3342 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
             "author": "Aila Slisco",
             "title": "Facebook Bans Coronavirus Cure, Prevention Ads to Stop Those Seeking to Profit Off Fears",
             "description": "Facebook announced that unscrupulous advertisers who hope to profit off panic over a possible coronavirus pandemic are banned from the platform, after earlier promising to nix other types of disinformation about the emerging health threat.",
@@ -131,6 +118,19 @@
             "urlToImage": "https://d.newsweek.com/en/full/1570117/facebook.jpg",
             "publishedAt": "2020-02-27T23:27:57Z",
             "content": "Social media giant Facebook has banned advertisements that seek to exploit fears over the emerging COVID-19 coronavirus threat.\r\nFacebook banned the unscrupulous ads Tuesday, after earlier taking measures to limit the spread of other types of misinformation c\u2026 [+2788 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Murdock",
+            "title": "China Pulls Plague Inc. From App Stores over 'Illegal Content' as Dev Team Reveals: 'Out of Our Control'",
+            "description": "\"It's not clear if this removal is linked to the ongoing coronavirus outbreak that China is facing. However, Plague Inc.'s educational importance has been repeatedly recognised,\" the team said.",
+            "url": "https://www.newsweek.com/china-plague-inc-app-coronavirus-1489531",
+            "urlToImage": "https://d.newsweek.com/en/full/1562139/plague-inc.jpg",
+            "publishedAt": "2020-02-27T17:01:38Z",
+            "content": "The developers of Plague Inc., a mobile game that lets players simulate outbreaks of deadly diseases, have confirmed the game was pulled from Chinese app stores.\r\nIn a statement published today, Ndemic Creations described the situation as being out of its con\u2026 [+3342 chars]"
         },
         {
             "source": {

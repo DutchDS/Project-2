@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
@@ -98,19 +98,6 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Pam Key",
-            "title": "Trump: \u2018Incompetent\u2019 Pelosi Is Trying to Create a Coronavirus \u2018Panic\u2019 for a Political Advantage",
-            "description": "President Donald Trump commented on Speaker Nancy Pelosi's (D-CA) criticisms of him at his coronavirus press conference Wednesday night. | Clips",
-            "url": "https://www.breitbart.com/clips/2020/02/26/trump-incompetent-pelosi-is-trying-to-create-a-coronavirus-panic-for-a-political-advantage/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1204088508-640x335.png",
-            "publishedAt": "2020-02-27T01:12:41Z",
-            "content": "President Donald Trump commented on Speaker Nancy Pelosi\u2019s (D-CA) criticisms of him at his coronavirus press conference Wednesday night.\r\nA reporter asked, \u201cWhat is your response to Speaker Pelosi, who said earlier today you don\u2019t know what you\u2019re talking abo\u2026 [+2093 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
             "author": "Dr. Susan Berry",
             "title": "CDC Confirms Potential Case of Community Spread Coronavirus in U.S.",
             "description": "The Centers for Disease Control and Prevention (CDC) confirmed Wednesday a potential case of community spread of coronavirus in the U.S.",
@@ -118,6 +105,32 @@
             "urlToImage": "https://media.breitbart.com/media/2017/09/doctor-stethoscope-health-care-getty-images.jpg",
             "publishedAt": "2020-02-27T02:28:26Z",
             "content": "The Centers for Disease Control and Prevention (CDC) confirmed Wednesday a potential case of infection with the novel coronavirus (COVID-19) in California in a person not associated with relevant travel history or exposure to another known infected patient.\r\n\u2026 [+1438 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward",
+            "title": "China Floats Theory the Coronavirus Had Foreign Origins",
+            "description": "Dr. Zhong Nanshan, China\u2019s \u201ctop respiratory specialist\u201d according to state-run media, on Thursday floated a completely unsubstantiated theory that the Wuhan coronavirus did not originate in China.",
+            "url": "https://www.breitbart.com/national-security/2020/02/27/china-floats-theory-coronavirus-had-foreign-origins/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1203669285-640x335.png",
+            "publishedAt": "2020-02-27T19:18:24Z",
+            "content": "Dr. Zhong Nanshan, Chinas top respiratory specialist according to state-run media, on Thursday floated a completely unsubstantiated theory that the Wuhan coronavirus did not originate in China.\u00a0\r\nChinas Global Timesamplified the spin by claiming some other ex\u2026 [+5490 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Pam Key",
+            "title": "Trump: \u2018Incompetent\u2019 Pelosi Is Trying to Create a Coronavirus \u2018Panic\u2019 for a Political Advantage",
+            "description": "President Donald Trump commented on Speaker Nancy Pelosi's (D-CA) criticisms of him at his coronavirus press conference Wednesday night. | Clips",
+            "url": "https://www.breitbart.com/clips/2020/02/26/trump-incompetent-pelosi-is-trying-to-create-a-coronavirus-panic-for-a-political-advantage/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1204088508-640x335.png",
+            "publishedAt": "2020-02-27T01:12:41Z",
+            "content": "President Donald Trump commented on Speaker Nancy Pelosi\u2019s (D-CA) criticisms of him at his coronavirus press conference Wednesday night.\r\nA reporter asked, \u201cWhat is your response to Speaker Pelosi, who said earlier today you don\u2019t know what you\u2019re talking abo\u2026 [+2093 chars]"
         },
         {
             "source": {
@@ -150,13 +163,13 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "John Hayward",
-            "title": "China Floats Theory the Coronavirus Had Foreign Origins",
-            "description": "Dr. Zhong Nanshan, China\u2019s \u201ctop respiratory specialist\u201d according to state-run media, on Thursday floated a completely unsubstantiated theory that the Wuhan coronavirus did not originate in China.",
-            "url": "https://www.breitbart.com/national-security/2020/02/27/china-floats-theory-coronavirus-had-foreign-origins/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1203669285-640x335.png",
-            "publishedAt": "2020-02-27T19:18:24Z",
-            "content": "Dr. Zhong Nanshan, Chinas top respiratory specialist according to state-run media, on Thursday floated a completely unsubstantiated theory that the Wuhan coronavirus did not originate in China.\u00a0\r\nChinas Global Timesamplified the spin by claiming some other ex\u2026 [+5490 chars]"
+            "author": "Hannah Bleau",
+            "title": "Bernie Sanders Outraged by President Trump\u2019s \u2018Disgusting\u2019 Response to Coronavirus",
+            "description": "Sen. Bernie Sanders (I-VT) on Wednesday expressed outrage over the Trump administration's \"disgusting\" coronavirus response, even taking a subtle jab at Vice President Mike Pence's faith.",
+            "url": "https://www.breitbart.com/politics/2020/02/27/bernie-sanders-outraged-by-president-trumps-disgusting-response-to-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1202654456-640x335.jpg",
+            "publishedAt": "2020-02-27T17:08:25Z",
+            "content": "Sen. Bernie Sanders (I-VT) on Wednesday expressed outrage over the Trump administration\u2019s \u201cdisgusting\u201d coronavirus response, even taking a subtle jab at Vice President Mike Pence\u2019s faith.\r\nPresident Trump, alongside members of his Coronavirus Task Force,\u00a0deli\u2026 [+3834 chars]"
         },
         {
             "source": {
@@ -189,45 +202,6 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "John Carney",
-            "title": "Coronavirus Carnage: Stock Fall Into Correction on Contagion Fears",
-            "description": "The only Dow stock that did not fall today was 3M, which makes surgical masks and respirators. All three major indexes plunged into correction territory. | Economy",
-            "url": "https://www.breitbart.com/economy/2020/02/27/coronavirus-carnage-stock-fall-into-correction-on-contagion-fears/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1203661486-e1582839164816-640x335.jpg",
-            "publishedAt": "2020-02-27T22:02:30Z",
-            "content": "U.S. stocks plummeted on Thursday in a day of chaotic trading as investors sought shelter from potential economic consequences of coronavirus.\r\nThe Dow Jones Industrial Average fell 4.4 percent, about 1,190 points. The Nasdaq Composite tumbled 4.6 percent. Th\u2026 [+2231 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "John Hayward",
-            "title": "China Blames \u2018Xenophobia\u2019 and \u2018White Supremacist Racism\u2019 for Coronavirus Fears",
-            "description": "Chinese state media continued their efforts this week to mitigate political damage from the coronavirus epidemic by claiming Western concerns about the spread of the disease, and complaints about China\u2019s lack of transparency, are founded in \u201cxenophobia\u201d and \u201c\u2026",
-            "url": "https://www.breitbart.com/national-security/2020/02/27/china-blames-xenophobia-and-white-supremacist-racism-for-coronavirus-fears/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/china-victim-coronavirus-640x335.jpg",
-            "publishedAt": "2020-02-27T12:58:26Z",
-            "content": "Chinese state media continued their efforts this week to mitigate political damage from the coronavirus epidemic by claiming Western concerns about the spread of the disease, and complaints about Chinas lack of transparency, are founded in xenophobia and whit\u2026 [+7873 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Joshua Caplan",
-            "title": "Ezekiel Emanuel: Trump\u2019s Coronavirus Response Is \u2018Ignorant,\u2019 \u2018Incoherent\u2019",
-            "description": "Dr. Ezekiel Emanuel, an architect of Obamacare and special advisor to the director-general of the World Health Organization, accused President Donald Trump of being \"ignorant\" and \"incoherent\" regarding his administration's response to the deadly Chinese coro\u2026",
-            "url": "https://www.breitbart.com/politics/2020/02/27/ezekiel-emanuel-trumps-coronavirus-response-is-ignorant-incoherent/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/ezekiel-emanuel-msnbc-640x335.jpg",
-            "publishedAt": "2020-02-27T16:13:03Z",
-            "content": "Dr. Ezekiel Emanuel, an architect of Obamacare and\u00a0special advisor to the director-general of the World Health Organization, accused President Donald Trump of being \u201cignorant\u201d and \u201cincoherent\u201d regarding his administration\u2019s response to the deadly Chinese coro\u2026 [+2163 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
             "author": "Ildefonso Ortiz",
             "title": "Mexico Welcomes Cruise Ship Rejected in Jamaica for Coronavirus Fears",
             "description": "Mexico\u2019s federal government welcomed an Italian cruise ship that was rejected in Jamaica and the Cayman Islands amid fears of a possible Coronavirus case. The ship docked in Cozumel where health officials are expected to check passengers before disembarking.",
@@ -248,6 +222,45 @@
             "urlToImage": "https://media.breitbart.com/media/2020/02/49554625818_7da8f8c048_6k-640x335.jpg",
             "publishedAt": "2020-02-27T17:52:45Z",
             "content": "Sen. Elizabeth Warren (D-MA) on Thursday unveiled legislation that would fund the United States\u2019 efforts to blunt the spread of the deadly coronavirus using money dedicated to President Donald Trump\u2019s U.S.-Mexico border wall, which the\u00a0presidential candidate \u2026 [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Carney",
+            "title": "Coronavirus Carnage: Stock Fall Into Correction on Contagion Fears",
+            "description": "The only Dow stock that did not fall today was 3M, which makes surgical masks and respirators. All three major indexes plunged into correction territory. | Economy",
+            "url": "https://www.breitbart.com/economy/2020/02/27/coronavirus-carnage-stock-fall-into-correction-on-contagion-fears/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1203661486-e1582839164816-640x335.jpg",
+            "publishedAt": "2020-02-27T22:02:30Z",
+            "content": "U.S. stocks plummeted on Thursday in a day of chaotic trading as investors sought shelter from potential economic consequences of coronavirus.\r\nThe Dow Jones Industrial Average fell 4.4 percent, about 1,190 points. The Nasdaq Composite tumbled 4.6 percent. Th\u2026 [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joshua Caplan",
+            "title": "Ezekiel Emanuel: Trump\u2019s Coronavirus Response Is \u2018Ignorant,\u2019 \u2018Incoherent\u2019",
+            "description": "Dr. Ezekiel Emanuel, an architect of Obamacare and special advisor to the director-general of the World Health Organization, accused President Donald Trump of being \"ignorant\" and \"incoherent\" regarding his administration's response to the deadly Chinese coro\u2026",
+            "url": "https://www.breitbart.com/politics/2020/02/27/ezekiel-emanuel-trumps-coronavirus-response-is-ignorant-incoherent/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/ezekiel-emanuel-msnbc-640x335.jpg",
+            "publishedAt": "2020-02-27T16:13:03Z",
+            "content": "Dr. Ezekiel Emanuel, an architect of Obamacare and\u00a0special advisor to the director-general of the World Health Organization, accused President Donald Trump of being \u201cignorant\u201d and \u201cincoherent\u201d regarding his administration\u2019s response to the deadly Chinese coro\u2026 [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward",
+            "title": "China Blames \u2018Xenophobia\u2019 and \u2018White Supremacist Racism\u2019 for Coronavirus Fears",
+            "description": "Chinese state media continued their efforts this week to mitigate political damage from the coronavirus epidemic by claiming Western concerns about the spread of the disease, and complaints about China\u2019s lack of transparency, are founded in \u201cxenophobia\u201d and \u201c\u2026",
+            "url": "https://www.breitbart.com/national-security/2020/02/27/china-blames-xenophobia-and-white-supremacist-racism-for-coronavirus-fears/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/china-victim-coronavirus-640x335.jpg",
+            "publishedAt": "2020-02-27T12:58:26Z",
+            "content": "Chinese state media continued their efforts this week to mitigate political damage from the coronavirus epidemic by claiming Western concerns about the spread of the disease, and complaints about Chinas lack of transparency, are founded in xenophobia and whit\u2026 [+7873 chars]"
         },
         {
             "source": {
@@ -280,19 +293,6 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Simon Kent",
-            "title": "Chinese City Orders Cats, Dogs off the Menu After Coronavirus Outbreak",
-            "description": "The southern Chinese city of Shenzhen wants local restaurants to take dogs and cats off their menus as the country clamps down on the wildlife trade scientists suspect led to the deadly coronavirus outbreak.",
-            "url": "https://www.breitbart.com/asia/2020/02/27/chinese-city-orders-cats-dogs-off-the-menu-after-coronavirus-outbreak/",
-            "urlToImage": "https://media.breitbart.com/media/2017/06/IMG_3443.jpg",
-            "publishedAt": "2020-02-27T12:25:46Z",
-            "content": "The southern Chinese city of Shenzhen wants local restaurants to take dogs and cats off their menus as the country clamps down on the wildlife trade scientists suspect led to the deadly coronavirus outbreak.\r\nReuters reports a new city regulation states only \u2026 [+2447 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
             "author": "John Hayward",
             "title": "Report: Chinese City Cheats on Coronavirus Count by Reporting Negative 107 Cases",
             "description": "According to Chinese state media reports, five officials in the city of Jingmen \u2013 located in Hubei province, the epicenter of the coronavirus outbreak \u2013 have been mildly disciplined for reporting a negative number of virus infections.",
@@ -300,6 +300,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/02/china-face-mask-coronavirus-health-feb2020-getty-640x335.jpg",
             "publishedAt": "2020-02-27T19:29:38Z",
             "content": "According to Chinese state media reports, five officials in the city of Jingmen located in Hubei province, the epicenter of the coronavirus outbreak have been mildly disciplined for reporting a negative number of virus infections. \r\nNine other cities have bee\u2026 [+2651 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Simon Kent",
+            "title": "Chinese City Orders Cats, Dogs off the Menu After Coronavirus Outbreak",
+            "description": "The southern Chinese city of Shenzhen wants local restaurants to take dogs and cats off their menus as the country clamps down on the wildlife trade scientists suspect led to the deadly coronavirus outbreak.",
+            "url": "https://www.breitbart.com/asia/2020/02/27/chinese-city-orders-cats-dogs-off-the-menu-after-coronavirus-outbreak/",
+            "urlToImage": "https://media.breitbart.com/media/2017/06/IMG_3443.jpg",
+            "publishedAt": "2020-02-27T12:25:46Z",
+            "content": "The southern Chinese city of Shenzhen wants local restaurants to take dogs and cats off their menus as the country clamps down on the wildlife trade scientists suspect led to the deadly coronavirus outbreak.\r\nReuters reports a new city regulation states only \u2026 [+2447 chars]"
         },
         {
             "source": {

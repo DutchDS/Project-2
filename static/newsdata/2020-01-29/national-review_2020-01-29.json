@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "Coronavirus Evacuation Flight from China Carrying Over 200 U.S. Citizens Heads to California",
+            "description": "A flight chartered by the State Dept. evacuated 210 U.S. citizens from China, the origin of the deadly coronavirus outbreak, and touched down in Alaska.",
+            "url": "https://www.nationalreview.com/news/coronavirus-evacuation-flight-from-china-carrying-over-200-u-s-citizens-heads-to-california/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/plane.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-01-29T16:01:14Z",
+            "content": null
+        }
+    ]
+}

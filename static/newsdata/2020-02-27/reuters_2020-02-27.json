@@ -34,19 +34,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Mainland China reports 433 new coronavirus cases, 29 deaths on February 26",
-            "description": "Mainland China reported 433 new cases of coronavirus infections on Feb. 26, the National Health Commission said on Thursday, up from 406 on the previous day.",
-            "url": "https://www.reuters.com/article/us-china-health-toll-idUSKCN20L06I",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495750041&w=1200&r=LYNXNPEG1Q05E",
-            "publishedAt": "2020-02-27T01:59:43Z",
-            "content": "SHANGHAI (Reuters) - Mainland China reported 433 new cases of coronavirus infections on Feb. 26, the National Health Commission said on Thursday, up from 406 on the previous day. \r\nThe total number of confirmed cases on mainland China has now reached 78,497, \u2026 [+489 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "Iraq reports sixth case of coronavirus in man who had been to Iran",
             "description": "Iraq has confirmed its sixth case of coronavirus, in a young Iraqi man in Baghdad who had traveled from Iran, the health ministry said on Thursday.",
             "url": "https://www.reuters.com/article/us-china-health-iraq-idUSKCN20L0J9",
@@ -66,6 +53,19 @@
             "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495863830&w=1200&r=LYNXNPEG1Q0HM",
             "publishedAt": "2020-02-27T07:46:34Z",
             "content": "DUBAI (Reuters) - Twenty two people have died so far from the new coronavirus in Iran, the official Iranian news agency IRNA reported in a chart it published on Thursday. \r\nThe number of people diagnosed with the disease is 141, the chart showed. It did not s\u2026 [+226 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Mainland China reports 433 new coronavirus cases, 29 deaths on February 26",
+            "description": "Mainland China reported 433 new cases of coronavirus infections on Feb. 26, the National Health Commission said on Thursday, up from 406 on the previous day.",
+            "url": "https://www.reuters.com/article/us-china-health-toll-idUSKCN20L06I",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495750041&w=1200&r=LYNXNPEG1Q05E",
+            "publishedAt": "2020-02-27T01:59:43Z",
+            "content": "SHANGHAI (Reuters) - Mainland China reported 433 new cases of coronavirus infections on Feb. 26, the National Health Commission said on Thursday, up from 406 on the previous day. \r\nThe total number of confirmed cases on mainland China has now reached 78,497, \u2026 [+489 chars]"
         },
         {
             "source": {
@@ -255,19 +255,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Shanghai trying to find people who crossed coronavirus patient from Iran",
-            "description": "Shanghai is taking action to try to identify anyone who came into contact with a coronavirus patient who arrived in the city from Iran, the local government said on Thursday.",
-            "url": "https://www.reuters.com/article/us-china-health-iran-idUSKCN20L00L",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-27T00:08:33Z",
-            "content": "SHANGHAI (Reuters) - Shanghai is taking action to try to identify anyone who came into contact with a coronavirus patient who arrived in the city from Iran, the local government said on Thursday. \r\nThe patient, who has not been identified, was diagnosed in Zh\u2026 [+332 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "Head of Italy's Lombardy region in isolation after aide gets coronavirus",
             "description": "The governor of the region of Lombardy, at the epicenter of Italy's coronavirus outbreak, has placed himself in quarantine after one of his staff came down with the disease.",
             "url": "https://www.reuters.com/article/us-china-health-italy-idUSKCN20L13W",
@@ -287,19 +274,6 @@
             "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
             "publishedAt": "2020-02-27T10:11:14Z",
             "content": "DUBAI (Reuters) - Emirates airline said it would no longer carry to Saudi Arabia passengers with Umrah pilgrimage visas or tourists from nearly two dozen countries until further notice, in compliance with a Saudi government directive to contain the coronaviru\u2026 [+368 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Iran bans Chinese citizens from entering the country: IRNA",
-            "description": "Iran has banned Chinese citizens from entering the country, Iranian state news agency IRNA reported on Thursday, amid the spread of the new coronavirus across the Islamic Republic that had killed 26 Iranians.",
-            "url": "https://www.reuters.com/article/us-china-health-iran-ban-idUSKCN20L1V7",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-27T13:14:14Z",
-            "content": "DUBAI (Reuters) - Iran has banned Chinese citizens from entering the country, Iranian state news agency IRNA reported on Thursday, amid the spread of the new coronavirus across the Islamic Republic that had killed 26 Iranians. \r\nIran, which has the highest nu\u2026 [+174 chars]"
         },
         {
             "source": {
@@ -333,12 +307,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "China asks low-risk coronavirus areas to resume visa, passport services",
-            "description": "Regions in China at low risk for the coronavirus should resume visa and passport services for both Chinese and foreign travelers to help the nation get back to work, immigration authorities said on Thursday.",
-            "url": "https://www.reuters.com/article/us-china-health-immigration-idUSKCN20L0JI",
+            "title": "Shanghai trying to find people who crossed coronavirus patient from Iran",
+            "description": "Shanghai is taking action to try to identify anyone who came into contact with a coronavirus patient who arrived in the city from Iran, the local government said on Thursday.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-idUSKCN20L00L",
             "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-27T06:09:03Z",
-            "content": "SHANGHAI (Reuters) - Regions in China at low risk for the coronavirus should resume visa and passport services for both Chinese and foreign travelers to help the nation get back to work, immigration authorities said on Thursday. \r\nMedium-risk areas should do \u2026 [+336 chars]"
+            "publishedAt": "2020-02-27T00:08:33Z",
+            "content": "SHANGHAI (Reuters) - Shanghai is taking action to try to identify anyone who came into contact with a coronavirus patient who arrived in the city from Iran, the local government said on Thursday. \r\nThe patient, who has not been identified, was diagnosed in Zh\u2026 [+332 chars]"
         },
         {
             "source": {
@@ -346,25 +320,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Two more people die from coronavirus in Italy: civil protection agency",
-            "description": "Two more people have died in Italy from coronavirus, bringing the death toll from the worst outbreak of the disease yet seen in Europe to 14, the Civil Protection agency said in a statement on Thursday.",
-            "url": "https://www.reuters.com/article/us-china-health-italy-death-idUSKCN20L1NC",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495960003&w=1200&r=LYNXNPEG1Q0WU",
-            "publishedAt": "2020-02-27T12:02:09Z",
-            "content": "ROME (Reuters) - Two more people have died in Italy from coronavirus, bringing the death toll from the worst outbreak of the disease yet seen in Europe to 14, the Civil Protection agency said in a statement on Thursday. \r\nThe agency chief, Angelo Borrelli, ha\u2026 [+309 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.N. asks world to fight virus-spawned discrimination",
-            "description": "United Nations human rights guardian Michelle Bachelet urged the global community on Thursday to show solidarity with people of ethnic Asian origin subject to discrimination amid an outbreak of a novel coronavirus that started in China.",
-            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/VIFpDwsMHa4/u-n-asks-world-to-fight-virus-spawned-discrimination-idUSKCN20L16B",
-            "urlToImage": null,
-            "publishedAt": "2020-02-27T09:47:50Z",
-            "content": null
+            "title": "Iran bans Chinese citizens from entering the country: IRNA",
+            "description": "Iran has banned Chinese citizens from entering the country, Iranian state news agency IRNA reported on Thursday, amid the spread of the new coronavirus across the Islamic Republic that had killed 26 Iranians.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-ban-idUSKCN20L1V7",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-27T13:14:14Z",
+            "content": "DUBAI (Reuters) - Iran has banned Chinese citizens from entering the country, Iranian state news agency IRNA reported on Thursday, amid the spread of the new coronavirus across the Islamic Republic that had killed 26 Iranians. \r\nIran, which has the highest nu\u2026 [+174 chars]"
         },
         {
             "source": {
@@ -398,12 +359,51 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
+            "title": "China asks low-risk coronavirus areas to resume visa, passport services",
+            "description": "Regions in China at low risk for the coronavirus should resume visa and passport services for both Chinese and foreign travelers to help the nation get back to work, immigration authorities said on Thursday.",
+            "url": "https://www.reuters.com/article/us-china-health-immigration-idUSKCN20L0JI",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-27T06:09:03Z",
+            "content": "SHANGHAI (Reuters) - Regions in China at low risk for the coronavirus should resume visa and passport services for both Chinese and foreign travelers to help the nation get back to work, immigration authorities said on Thursday. \r\nMedium-risk areas should do \u2026 [+336 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
             "title": "U.S. health secretary says at least 40 labs can currently test for coronavirus",
             "description": "U.S. Health and Human Services (HHS) Secretary Alex Azar on Thursday said that at least 40 public health labs can currently test specimens for coronavirus and that could more than double as soon as tomorrow.",
             "url": "https://www.reuters.com/article/us-china-health-usa-idUSKCN20L2BD",
             "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1496043687&w=1200&r=LYNXNPEG1Q1EQ",
             "publishedAt": "2020-02-27T15:45:44Z",
             "content": "NEW YORK (Reuters) - U.S. Health and Human Services (HHS) Secretary Alex Azar on Thursday said that at least 40 public health labs can currently test specimens for coronavirus and that could more than double as soon as tomorrow. \r\nAzar, speaking before the Ho\u2026 [+582 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.N. asks world to fight virus-spawned discrimination",
+            "description": "United Nations human rights guardian Michelle Bachelet urged the global community on Thursday to show solidarity with people of ethnic Asian origin subject to discrimination amid an outbreak of a novel coronavirus that started in China.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/VIFpDwsMHa4/u-n-asks-world-to-fight-virus-spawned-discrimination-idUSKCN20L16B",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T09:47:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Two more people die from coronavirus in Italy: civil protection agency",
+            "description": "Two more people have died in Italy from coronavirus, bringing the death toll from the worst outbreak of the disease yet seen in Europe to 14, the Civil Protection agency said in a statement on Thursday.",
+            "url": "https://www.reuters.com/article/us-china-health-italy-death-idUSKCN20L1NC",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495960003&w=1200&r=LYNXNPEG1Q0WU",
+            "publishedAt": "2020-02-27T12:02:09Z",
+            "content": "ROME (Reuters) - Two more people have died in Italy from coronavirus, bringing the death toll from the worst outbreak of the disease yet seen in Europe to 14, the Civil Protection agency said in a statement on Thursday. \r\nThe agency chief, Angelo Borrelli, ha\u2026 [+309 chars]"
         },
         {
             "source": {
@@ -580,19 +580,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Iran's death toll from coronavirus reaches 26: health ministry",
-            "description": "Iran said on Thursday its death toll from coronavirus had risen to 26 and the total number of infected people now stood at 245.",
-            "url": "https://www.reuters.com/article/us-china-health-iran-toll-idUSKCN20L1E5",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495933544&w=1200&r=LYNXNPEG1Q0QZ",
-            "publishedAt": "2020-02-27T10:54:41Z",
-            "content": "DUBAI (Reuters) - Iran said on Thursday its death toll from coronavirus had risen to 26 and the total number of infected people now stood at 245. \r\n\u201cIn the last 24 hours, we have had 106 (new) confirmed cases ... The death toll has reached 26,\u201d Health Ministr\u2026 [+297 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "Russia urges tour operators to avoid Italy, South Korea, Iran over coronavirus",
             "description": "Russia's Federal Tourism Agency on Thursday recommended national tour operators suspend tours to Italy, South Korea and Iran until the outbreaks of coronavirus there are brought under control.",
             "url": "https://www.reuters.com/article/us-china-health-russia-tours-idUSKCN20L0XS",
@@ -606,12 +593,25 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Moscow rounds up stray animals, kills rats over coronavirus fears",
-            "description": "Moscow authorities are rounding up stray animals and exterminating rats as a precaution against the new coronavirus, actions that animal rights campaigners decried as cruel and scientifically groundless.",
-            "url": "https://www.reuters.com/article/us-china-health-russia-animals-idUSKCN20L1LV",
-            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495970101&w=1200&r=LYNXNPEG1Q0X2",
-            "publishedAt": "2020-02-27T12:27:39Z",
-            "content": "MOSCOW (Reuters) - Moscow authorities are rounding up stray animals and exterminating rats as a precaution against the new coronavirus, actions that animal rights campaigners decried as cruel and scientifically groundless. \r\nRussia has imposed an array of mea\u2026 [+1695 chars]"
+            "title": "Iran's death toll from coronavirus reaches 26: health ministry",
+            "description": "Iran said on Thursday its death toll from coronavirus had risen to 26 and the total number of infected people now stood at 245.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-toll-idUSKCN20L1E5",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495933544&w=1200&r=LYNXNPEG1Q0QZ",
+            "publishedAt": "2020-02-27T10:54:41Z",
+            "content": "DUBAI (Reuters) - Iran said on Thursday its death toll from coronavirus had risen to 26 and the total number of infected people now stood at 245. \r\n\u201cIn the last 24 hours, we have had 106 (new) confirmed cases ... The death toll has reached 26,\u201d Health Ministr\u2026 [+297 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Cycling: UAE Tour canceled over coronavirus, say teams",
+            "description": "The UAE Tour featuring some of the world's leading riders has been canceled with two stages remaining due to the coronavirus outbreak, according to several teams on Thursday.",
+            "url": "https://www.reuters.com/article/us-china-health-cycling-idUSKCN20L333",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-27T21:16:56Z",
+            "content": "BERLIN (Reuters) - The UAE Tour featuring some of the world\u2019s leading riders has been canceled with two stages remaining due to the coronavirus outbreak, according to several teams on Thursday. \r\n\u201cWe have taken note of the cancellation of the UAE Tour due to \u2026 [+503 chars]"
         },
         {
             "source": {
@@ -632,12 +632,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Cycling: UAE Tour canceled over coronavirus, say teams",
-            "description": "The UAE Tour featuring some of the world's leading riders has been canceled with two stages remaining due to the coronavirus outbreak, according to several teams on Thursday.",
-            "url": "https://www.reuters.com/article/us-china-health-cycling-idUSKCN20L333",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-27T21:16:56Z",
-            "content": "BERLIN (Reuters) - The UAE Tour featuring some of the world\u2019s leading riders has been canceled with two stages remaining due to the coronavirus outbreak, according to several teams on Thursday. \r\n\u201cWe have taken note of the cancellation of the UAE Tour due to \u2026 [+503 chars]"
+            "title": "Moscow rounds up stray animals, kills rats over coronavirus fears",
+            "description": "Moscow authorities are rounding up stray animals and exterminating rats as a precaution against the new coronavirus, actions that animal rights campaigners decried as cruel and scientifically groundless.",
+            "url": "https://www.reuters.com/article/us-china-health-russia-animals-idUSKCN20L1LV",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495970101&w=1200&r=LYNXNPEG1Q0X2",
+            "publishedAt": "2020-02-27T12:27:39Z",
+            "content": "MOSCOW (Reuters) - Moscow authorities are rounding up stray animals and exterminating rats as a precaution against the new coronavirus, actions that animal rights campaigners decried as cruel and scientifically groundless. \r\nRussia has imposed an array of mea\u2026 [+1695 chars]"
         },
         {
             "source": {
@@ -891,19 +891,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "AB InBev fourth quarter profit below expectations, sees muted 2020 growth",
-            "description": "Anheuser-Busch InBev ABI.BR, the world's largest beer maker, suffered a greater than expected fall in core profit in the fourth quarter last year and forecast muted growth in 2020 due in part to the coronavirus outbreak in China.",
-            "url": "https://www.reuters.com/article/us-ab-inbev-results-idUSKCN20L0LE",
-            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495836650&w=1200&r=LYNXNPEG1Q0EA",
-            "publishedAt": "2020-02-27T06:27:06Z",
-            "content": "BRUSSELS (Reuters) - Anheuser-Busch InBev ABI.BR, the world\u2019s largest beer maker, suffered a greater than expected fall in core profit in the fourth quarter last year and forecast muted growth in 2020 due in part to the coronavirus outbreak in China. \r\nThe ma\u2026 [+261 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": null,
             "title": "AB InBev flags lower first-quarter profit on virus impact",
             "description": "Anheuser-Busch InBev on Thursday forecast a 10% decline in its first-quarter profit after a weaker-than-expected finish to 2019, as the world's largest beer maker expects the coronavirus outbreak to dent its earnings.",
@@ -930,13 +917,13 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Megan Davies",
-            "title": "Investment advisors worry U.S. response to coronavirus is too little too late",
-            "description": "Investment-advisors are increasingly worried that U.S. authorities are not be doing enough to prevent a widespread outbreak of coronavirus in the country, potentially adding further downside to already-battered markets.",
-            "url": "https://www.reuters.com/article/us-china-health-investors-response-idUSKCN20L31F",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1496152465&w=1200&r=LYNXNPEG1Q1XQ",
-            "publishedAt": "2020-02-27T21:01:06Z",
-            "content": "NEW YORK (Reuters) - Investment-advisors are increasingly worried that U.S. authorities are not be doing enough to prevent a widespread outbreak of coronavirus in the country, potentially adding further downside to already-battered markets.\u00a0 \r\nTheir criticism\u2026 [+4702 chars]"
+            "author": "Reuters Editorial",
+            "title": "AB InBev fourth quarter profit below expectations, sees muted 2020 growth",
+            "description": "Anheuser-Busch InBev ABI.BR, the world's largest beer maker, suffered a greater than expected fall in core profit in the fourth quarter last year and forecast muted growth in 2020 due in part to the coronavirus outbreak in China.",
+            "url": "https://www.reuters.com/article/us-ab-inbev-results-idUSKCN20L0LE",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495836650&w=1200&r=LYNXNPEG1Q0EA",
+            "publishedAt": "2020-02-27T06:27:06Z",
+            "content": "BRUSSELS (Reuters) - Anheuser-Busch InBev ABI.BR, the world\u2019s largest beer maker, suffered a greater than expected fall in core profit in the fourth quarter last year and forecast muted growth in 2020 due in part to the coronavirus outbreak in China. \r\nThe ma\u2026 [+261 chars]"
         },
         {
             "source": {
@@ -956,6 +943,19 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
+            "author": "Megan Davies",
+            "title": "Investment advisors worry U.S. response to coronavirus is too little too late",
+            "description": "Investment-advisors are increasingly worried that U.S. authorities are not be doing enough to prevent a widespread outbreak of coronavirus in the country, potentially adding further downside to already-battered markets.",
+            "url": "https://www.reuters.com/article/us-china-health-investors-response-idUSKCN20L31F",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1496152465&w=1200&r=LYNXNPEG1Q1XQ",
+            "publishedAt": "2020-02-27T21:01:06Z",
+            "content": "NEW YORK (Reuters) - Investment-advisors are increasingly worried that U.S. authorities are not be doing enough to prevent a widespread outbreak of coronavirus in the country, potentially adding further downside to already-battered markets.\u00a0 \r\nTheir criticism\u2026 [+4702 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
             "author": "Olga Cotaga",
             "title": "Blowout fear for forex markets as coronavirus stirs dormant vol trades",
             "description": "With this week's coronavirus-driven rout having shaken awake previously slumbering euro-dollar markets, the spotlight is back on the \"short volatility\" trades that some regulators fear could trigger a blowup on world markets.",
@@ -969,19 +969,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Tom Westbrook",
-            "title": "Asian stocks extend losses as pandemic fears grow",
-            "description": "Oil and Asian share markets slipped on Thursday, struggling to find a footing as the rapid global spread of the coronavirus left investors on edge and seeking safety in gold and bonds.",
-            "url": "https://www.reuters.com/article/us-global-markets-idUSKCN20L05A",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495737859&w=1200&r=LYNXNPEG1Q04L",
-            "publishedAt": "2020-02-27T01:19:22Z",
-            "content": "SINGAPORE (Reuters) - Oil and Asian share markets slipped on Thursday, struggling to find a footing as the rapid global spread of the coronavirus left investors on edge and seeking safety in gold and bonds. \r\nMost new virus cases are now being reported outsid\u2026 [+2901 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": null,
             "title": "Virus-hit stocks shed $3 trillion; safe havens thrive",
             "description": "Stocks resumed their plunge, wiping out more than $3 trillion in value this week alone, and U.S. Treasuries yields hit record lows on Thursday as the coronavirus spread faster outside China and investors fled to safe havens.",
@@ -989,6 +976,19 @@
             "urlToImage": null,
             "publishedAt": "2020-02-27T09:54:50Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Westbrook",
+            "title": "Asian stocks extend losses as pandemic fears grow",
+            "description": "Oil and Asian share markets slipped on Thursday, struggling to find a footing as the rapid global spread of the coronavirus left investors on edge and seeking safety in gold and bonds.",
+            "url": "https://www.reuters.com/article/us-global-markets-idUSKCN20L05A",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200227&t=2&i=1495737859&w=1200&r=LYNXNPEG1Q04L",
+            "publishedAt": "2020-02-27T01:19:22Z",
+            "content": "SINGAPORE (Reuters) - Oil and Asian share markets slipped on Thursday, struggling to find a footing as the rapid global spread of the coronavirus left investors on edge and seeking safety in gold and bonds. \r\nMost new virus cases are now being reported outsid\u2026 [+2901 chars]"
         },
         {
             "source": {
@@ -1138,19 +1138,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": null,
-            "title": "Saudi Arabia bars pilgrims and tourists amid coronavirus",
-            "description": "Saudi Arabia on Thursday closed its borders to foreign \"umrah\" pilgrims and to tourists from at least 25 countries where the new coronavirus has been found.",
-            "url": "http://feeds.reuters.com/~r/reuters/healthNews/~3/epY72SZGSx4/saudi-arabia-bars-pilgrims-and-tourists-amid-coronavirus-idUSKCN20K3CQ",
-            "urlToImage": null,
-            "publishedAt": "2020-02-27T18:51:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": "Reuters Editorial",
             "title": "Cycling: UAE Tour canceled over coronavirus, say teams",
             "description": "The UAE Tour featuring some of the world's leading riders has been canceled with two stages remaining due to the coronavirus outbreak, according to several teams on Thursday.",
@@ -1158,6 +1145,19 @@
             "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
             "publishedAt": "2020-02-27T21:16:56Z",
             "content": "BERLIN (Reuters) - The UAE Tour featuring some of the world\u2019s leading riders has been canceled with two stages remaining due to the coronavirus outbreak, according to several teams on Thursday. \r\n\u201cWe have taken note of the cancellation of the UAE Tour due to \u2026 [+503 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Saudi Arabia bars pilgrims and tourists amid coronavirus",
+            "description": "Saudi Arabia on Thursday closed its borders to foreign \"umrah\" pilgrims and to tourists from at least 25 countries where the new coronavirus has been found.",
+            "url": "http://feeds.reuters.com/~r/reuters/healthNews/~3/epY72SZGSx4/saudi-arabia-bars-pilgrims-and-tourists-amid-coronavirus-idUSKCN20K3CQ",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T18:51:37Z",
+            "content": null
         },
         {
             "source": {

@@ -177,12 +177,12 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Coronavirus 'highly likely' to hit Northern Ireland",
-            "description": "A virologist says it would be a surprise if the virus did not affect NI, but people should not panic.",
-            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51661571",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56D1/production/_111052222_01letter2.jpg",
-            "publishedAt": "2020-02-27T13:25:46Z",
-            "content": "Image caption\r\n People with infectious diseases can be treated at an isolation ward at the Royal Victoria Hospital\r\nCoronavirus is \"highly likely\" to reach Northern Ireland, but people should not panic, a virologist at Queen's University Belfast has said.\r\nFi\u2026 [+3097 chars]"
+            "title": "Coronavirus traps Scots in Tenerife hotel",
+            "description": "Stephen Diamond and his wife Lynn are among a group of 10 from Scotland who should have come home on Monday.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-51662491",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/114FA/production/_111060907_tenerife_frame_3414.jpg",
+            "publishedAt": "2020-02-27T14:09:38Z",
+            "content": "Image caption\r\n Stephen Diamond thought he would be at the hotel for just one night\r\nA group of 10 Scots who should have left Tenerife on Monday have been trapped in a hotel because of coronavirus.\r\nStephen Diamond and his wife Lynn were with a group, which a\u2026 [+2590 chars]"
         },
         {
             "source": {
@@ -190,12 +190,12 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Coronavirus traps Scots in Tenerife hotel",
-            "description": "Stephen Diamond and his wife Lynn are among a group of 10 from Scotland who should have come home on Monday.",
-            "url": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-51662491",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/114FA/production/_111060907_tenerife_frame_3414.jpg",
-            "publishedAt": "2020-02-27T14:09:38Z",
-            "content": "Image caption\r\n Stephen Diamond thought he would be at the hotel for just one night\r\nA group of 10 Scots who should have left Tenerife on Monday have been trapped in a hotel because of coronavirus.\r\nStephen Diamond and his wife Lynn were with a group, which a\u2026 [+2590 chars]"
+            "title": "Coronavirus 'highly likely' to hit Northern Ireland",
+            "description": "A virologist says it would be a surprise if the virus did not affect NI, but people should not panic.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51661571",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56D1/production/_111052222_01letter2.jpg",
+            "publishedAt": "2020-02-27T13:25:46Z",
+            "content": "Image caption\r\n People with infectious diseases can be treated at an isolation ward at the Royal Victoria Hospital\r\nCoronavirus is \"highly likely\" to reach Northern Ireland, but people should not panic, a virologist at Queen's University Belfast has said.\r\nFi\u2026 [+3097 chars]"
         },
         {
             "source": {
@@ -281,11 +281,11 @@
                 "name": "BBC News"
             },
             "author": "BBC News",
-            "title": "Coronavirus 'risk to the American people remains very low'",
-            "description": "President Trump said the success in dealing with the virus so far is because of early decisions to contain it.",
-            "url": "https://www.bbc.co.uk/news/av/world-us-canada-51652777/coronavirus-risk-to-the-american-people-remains-very-low",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15315/production/_111050868_p084wpmh.jpg",
-            "publishedAt": "2020-02-27T01:01:32Z",
+            "title": "Coronavirus in US: 'We're not over-reacting nor under-reacting'",
+            "description": "What has been the reaction from authorities to the person who contracted the virus in California?",
+            "url": "https://www.bbc.co.uk/news/av/world-us-canada-51652781/coronavirus-in-us-we-re-not-over-reacting-nor-under-reacting",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7FDF/production/_111053723_p0850mhp.jpg",
+            "publishedAt": "2020-02-27T21:11:39Z",
             "content": null
         },
         {
@@ -294,11 +294,11 @@
                 "name": "BBC News"
             },
             "author": "BBC News",
-            "title": "Coronavirus in US: 'We're not over-reacting nor under-reacting'",
-            "description": "What has been the reaction from authorities to the person who contracted the virus in California?",
-            "url": "https://www.bbc.co.uk/news/av/world-us-canada-51652781/coronavirus-in-us-we-re-not-over-reacting-nor-under-reacting",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7FDF/production/_111053723_p0850mhp.jpg",
-            "publishedAt": "2020-02-27T21:11:39Z",
+            "title": "Coronavirus 'risk to the American people remains very low'",
+            "description": "President Trump said the success in dealing with the virus so far is because of early decisions to contain it.",
+            "url": "https://www.bbc.co.uk/news/av/world-us-canada-51652777/coronavirus-risk-to-the-american-people-remains-very-low",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15315/production/_111050868_p084wpmh.jpg",
+            "publishedAt": "2020-02-27T01:01:32Z",
             "content": null
         },
         {
@@ -423,19 +423,6 @@
                 "id": "bbc-news",
                 "name": "BBC News"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Coronavirus: Outbreak at 'decisive point' as WHO urges action",
-            "description": "The organisation's head Dr Tedros says new cases outside China are now the \"greatest concern\".",
-            "url": "https://www.bbc.co.uk/news/world-51665631",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AF38/production/_111065844_mediaitem111065843.jpg",
-            "publishedAt": "2020-02-27T17:57:36Z",
-            "content": "Image copyrightEPAImage caption\r\n Italy and Iran have become hotbeds of coronavirus infections\r\nThe coronavirus outbreak has reached a \"decisive point\" and has \"pandemic potential\", World Health Organization head Dr Tedros Ghebreyesus says.\r\nHis comments come\u2026 [+6999 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
             "author": "BBC News",
             "title": "Coronavirus: How a 'drive-through' testing facility in London works",
             "description": "A new scheme is being introduced by to ease pressure on health services, as experts expect more cases to emerge.",
@@ -443,6 +430,19 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0A23/production/_111059520_p084yj1w.jpg",
             "publishedAt": "2020-02-27T11:57:19Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Outbreak at 'decisive point' as WHO urges action",
+            "description": "The organisation's head Dr Tedros says new cases outside China are now the \"greatest concern\".",
+            "url": "https://www.bbc.co.uk/news/world-51665631",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AF38/production/_111065844_mediaitem111065843.jpg",
+            "publishedAt": "2020-02-27T17:57:36Z",
+            "content": "Image copyrightEPAImage caption\r\n Italy and Iran have become hotbeds of coronavirus infections\r\nThe coronavirus outbreak has reached a \"decisive point\" and has \"pandemic potential\", World Health Organization head Dr Tedros Ghebreyesus says.\r\nHis comments come\u2026 [+6999 chars]"
         },
         {
             "source": {

@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 50,
+    "totalResults": 52,
     "articles": [
         {
             "source": {
@@ -137,6 +137,19 @@
                 "id": "cnn",
                 "name": "CNN"
             },
+            "author": null,
+            "title": "Dow drops over 1,000 points as world reacts to coronavirus - CNN",
+            "description": "Dow drops over 1,000 points as world reacts to coronavirus CNN Dow Futures Extend Slump Amid Worst Stock Market Slide Since Global Financial Crisis TheStreet US STOCKS-Futures slump on alarm over fast-spreading virus Yahoo Finance Dow falls 1,191 points -- th\u2026",
+            "url": "https://www.cnn.com/videos/business/2020/02/27/coronavirus-dow-drops-kosik-tapper-lead-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227122729-nyse-0228-super-tease.jpg",
+            "publishedAt": "2020-02-27T23:48:42Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
             "author": "Anneken Tappe, CNN Business",
             "title": "Dow plunges 600 points",
             "description": "The Dow and S&P 500 fell into correction territory on Thursday amid a continued selloff of US stocks. Investors continue to fret over the coronavirus outbreak.",
@@ -150,19 +163,6 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": null,
-            "title": "Trump puts Pence in charge of coronavirus efforts",
-            "description": "President Donald Trump holds a press conference to discuss the coronavirus with officials from the Center for Disease Control and Prevention.",
-            "url": "https://www.cnn.com/videos/politics/2020/02/27/trump-coronavirus-pence-lead-team-presser-sot-vpx.cnn",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226172016-01-trump-coronavirus-presser-0226-super-tease.jpg",
-            "publishedAt": "2020-02-27T00:11:45Z",
-            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
             "author": "Gregory Wallace and Tara Subramaniam, CNN",
             "title": "White House's attempts to reduce government by slashing health programs could hurt response to coronavirus",
             "description": "The Trump administration's efforts and ambitions to reduce the size of government could hamper agencies integral to responding to the coronavirus.",
@@ -170,6 +170,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226110932-coronavirus-doctors-wuhan-china-0224-super-tease.jpg",
             "publishedAt": "2020-02-27T23:01:44Z",
             "content": "Washington (CNN)The Trump administration's efforts and ambitions to reduce the size of government could hamper agencies integral to responding to the coronavirus.\r\nReductions at the Centers for Disease Control and Prevention and the National Security Council,\u2026 [+7431 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Trump puts Pence in charge of coronavirus efforts",
+            "description": "President Donald Trump holds a press conference to discuss the coronavirus with officials from the Center for Disease Control and Prevention.",
+            "url": "https://www.cnn.com/videos/politics/2020/02/27/trump-coronavirus-pence-lead-team-presser-sot-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226172016-01-trump-coronavirus-presser-0226-super-tease.jpg",
+            "publishedAt": "2020-02-27T00:11:45Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
         },
         {
             "source": {
@@ -215,6 +228,19 @@
                 "id": "cnn",
                 "name": "CNN"
             },
+            "author": null,
+            "title": "Trump downplays threat of coronavirus in the US",
+            "description": "President Trump appeared to downplay the threat of coronavirus spreading in the US during a White House press conference, but CDC experts warned it will only get worse before it gets better. CNN's Joe Johns has more.",
+            "url": "https://www.cnn.com/videos/politics/2020/02/27/trump-downplays-threat-of-coronavirus-in-us-joe-johns-newday-dnt-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227073536-trump-downplays-coronavirus-threat-super-tease.jpg",
+            "publishedAt": "2020-02-27T13:17:49Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
             "author": "Paul R. La Monica, CNN Business",
             "title": "Drug companies race to test coronavirus vaccines",
             "description": "Gilead Sciences stock was up slightly on Thursday, even as the Dow plunged into correction status.",
@@ -254,6 +280,19 @@
                 "id": "cnn",
                 "name": "CNN"
             },
+            "author": "Nikki Carvajal and Kaitlan Collins, CNN",
+            "title": "Health expert tapped for coronavirus task force will report to Pence",
+            "description": "Vice President Mike Pence's office announced on Thursday that Ambassador Deborah Birx will serve as the White House's \"coronavirus response coordinator.\"",
+            "url": "https://www.cnn.com/2020/02/27/politics/mike-pence-coronavirus-deborah-birx/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
+            "publishedAt": "2020-02-27T16:58:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
             "author": "Hanna Ziady, CNN Business",
             "title": "Big European companies ban business travel as coronavirus outbreak escalates",
             "description": "Big European companies have started to ban or restrict business travel for hundreds of thousands of employees as the coronavirus outbreak accelerates.",
@@ -273,19 +312,6 @@
             "url": "https://www.cnn.com/2020/02/27/tech/coronavirus-electronics-supplies/index.html",
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226082335-apple-store-beijing-0222-super-tease.jpg",
             "publishedAt": "2020-02-27T19:12:59Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nikki Carvajal and Kaitlan Collins, CNN",
-            "title": "Health expert tapped for coronavirus task force will report to Pence",
-            "description": "Vice President Mike Pence's office announced on Thursday that Ambassador Deborah Birx will serve as the White House's \"coronavirus response coordinator.\"",
-            "url": "https://www.cnn.com/2020/02/27/politics/mike-pence-coronavirus-deborah-birx/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
-            "publishedAt": "2020-02-27T16:58:55Z",
             "content": null
         },
         {
@@ -410,39 +436,13 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Caroline Kelly, CNN",
-            "title": "HHS Secretary Azar: 'I'm still chairman of the task force' on coronavirus after Trump says Pence is leading response",
-            "description": "Health and Human Services Secretary Alexander Azar stressed that he was still in charge of the task force addressing the novel coronavirus following President Donald Trump's announcement that Vice President Mike Pence would lead US efforts to battle the outbr\u2026",
-            "url": "https://www.cnn.com/2020/02/26/politics/alexander-azar-coronavirus-chairman-task-force/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226205844-01-hhs-anzar-0226-super-tease.jpg",
-            "publishedAt": "2020-02-27T02:42:19Z",
-            "content": "(CNN)Health and Human Services Secretary Alexander Azar stressed that he was still in charge of the task force addressing the novel coronavirus following President Donald Trump's announcement that Vice President Mike Pence would lead US efforts to battle the \u2026 [+2028 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Paul LeBlanc and Maegan Vazquez, CNN",
-            "title": "Trump claims coronavirus is only partially responsible for stock market plummet",
-            "description": "President Donald Trump claimed Wednesday that concerns over the novel coronavirus are only partially responsible for the US stock market plunge this week, insisting that the dive is also related to the Democratic presidential debate that took place after mark\u2026",
-            "url": "https://www.cnn.com/2020/02/26/politics/trump-stock-market-coronavirus/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226145549-111-trump-lead-image-super-tease.jpg",
-            "publishedAt": "2020-02-27T02:03:03Z",
-            "content": "Washington (CNN)President Donald Trump claimed Wednesday that concerns over the novel coronavirus are only partially responsible for the US stock market plunge this week, insisting that the dive is also related to the Democratic presidential debate that took \u2026 [+2392 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Analysis by Stephen Collinson, CNN",
-            "title": "Trump takes a victory lap early on in the coronavirus fight",
-            "description": "President Donald Trump wants America to know he's doing a great job in keeping out the novel coronavirus, in a victory lap that could look premature if his own experts are correct in their more somber forecasts.",
-            "url": "https://www.cnn.com/2020/02/27/politics/coronavirus-donald-trump-politics-mike-pence-democrats/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
-            "publishedAt": "2020-02-27T05:01:14Z",
-            "content": null
+            "author": "Clare Foran and Haley Byrd, CNN",
+            "title": "Pelosi says Congress 'close' to reaching bipartisan agreement on coronavirus funding",
+            "description": "House Speaker Nancy Pelosi said Thursday that lawmakers are \"close to a bipartisan agreement\" on emergency funding to respond to the coronavirus outbreak, as concerns about the spread of the disease mount worldwide.",
+            "url": "https://www.cnn.com/2020/02/27/politics/coronavirus-funding-congress-bipartisan-agreement-close/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200217140950-nancy-pelosi-0213-super-tease.jpg",
+            "publishedAt": "2020-02-27T18:56:44Z",
+            "content": "Washington (CNN)House Speaker Nancy Pelosi said Thursday that lawmakers are \"close to a bipartisan agreement\" on emergency funding to respond to the coronavirus outbreak, as concerns about the spread of the disease mount worldwide. \r\n\"We're coming close to a \u2026 [+4311 chars]"
         },
         {
             "source": {
@@ -462,12 +462,12 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Paul R. La Monica, CNN Business",
-            "title": "Earnings may not grow at all this year due to coronavirus outbreak",
-            "description": "This was supposed to be the year that the bottom line of Corporate America rebounded after lackluster profit reports for most of 2019. But the coronavirus outbreak is threatening to end the earnings recovery before it even begins.",
-            "url": "https://www.cnn.com/2020/02/27/investing/earnings-coronavirus/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227091055-wall-street-0203-super-tease.jpg",
-            "publishedAt": "2020-02-27T14:42:39Z",
+            "author": "Analysis by Stephen Collinson, CNN",
+            "title": "Trump takes a victory lap early on in the coronavirus fight",
+            "description": "President Donald Trump wants America to know he's doing a great job in keeping out the novel coronavirus, in a victory lap that could look premature if his own experts are correct in their more somber forecasts.",
+            "url": "https://www.cnn.com/2020/02/27/politics/coronavirus-donald-trump-politics-mike-pence-democrats/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
+            "publishedAt": "2020-02-27T05:01:14Z",
             "content": null
         },
         {
@@ -475,13 +475,13 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Clare Foran and Haley Byrd, CNN",
-            "title": "Pelosi says Congress 'close' to reaching bipartisan agreement on coronavirus funding",
-            "description": "House Speaker Nancy Pelosi said Thursday that lawmakers are \"close to a bipartisan agreement\" on emergency funding to respond to the coronavirus outbreak, as concerns about the spread of the disease mount worldwide.",
-            "url": "https://www.cnn.com/2020/02/27/politics/coronavirus-funding-congress-bipartisan-agreement-close/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200217140950-nancy-pelosi-0213-super-tease.jpg",
-            "publishedAt": "2020-02-27T18:56:44Z",
-            "content": "Washington (CNN)House Speaker Nancy Pelosi said Thursday that lawmakers are \"close to a bipartisan agreement\" on emergency funding to respond to the coronavirus outbreak, as concerns about the spread of the disease mount worldwide. \r\n\"We're coming close to a \u2026 [+4311 chars]"
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Earnings may not grow at all this year due to coronavirus outbreak",
+            "description": "This was supposed to be the year that the bottom line of Corporate America rebounded after lackluster profit reports for most of 2019. But the coronavirus outbreak is threatening to end the earnings recovery before it even begins.",
+            "url": "https://www.cnn.com/2020/02/27/investing/earnings-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227091055-wall-street-0203-super-tease.jpg",
+            "publishedAt": "2020-02-27T14:42:39Z",
+            "content": null
         },
         {
             "source": {
@@ -527,6 +527,19 @@
                 "id": "cnn",
                 "name": "CNN"
             },
+            "author": "Caroline Kelly, CNN",
+            "title": "HHS Secretary Azar: 'I'm still chairman of the task force' on coronavirus after Trump says Pence is leading response",
+            "description": "Health and Human Services Secretary Alexander Azar stressed that he was still in charge of the task force addressing the novel coronavirus following President Donald Trump's announcement that Vice President Mike Pence would lead US efforts to battle the outbr\u2026",
+            "url": "https://www.cnn.com/2020/02/26/politics/alexander-azar-coronavirus-chairman-task-force/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226205844-01-hhs-anzar-0226-super-tease.jpg",
+            "publishedAt": "2020-02-27T02:42:19Z",
+            "content": "(CNN)Health and Human Services Secretary Alexander Azar stressed that he was still in charge of the task force addressing the novel coronavirus following President Donald Trump's announcement that Vice President Mike Pence would lead US efforts to battle the \u2026 [+2028 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
             "author": "Sara Ashley O'Brien, CNN Business",
             "title": "DoorDash prepares to go public as stock market plunges",
             "description": "The food delivery market remains fiercely competitive, a broader reckoning is underway among high-flying tech startups, and stocks have been rattled in recent days by coronavirus fears. But none of that is stopping DoorDash from preparing to go public.",
@@ -534,6 +547,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190904033451-doordash-delivery-super-tease.jpeg",
             "publishedAt": "2020-02-27T17:27:38Z",
             "content": "(CNN)The food delivery market remains fiercely competitive, a broader reckoning is underway among high-flying tech startups, and stocks have been rattled in recent days by coronavirus fears. But none of that is stopping DoorDash from preparing to go public.\r\n\u2026 [+2861 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul LeBlanc and Maegan Vazquez, CNN",
+            "title": "Trump claims coronavirus is only partially responsible for stock market plummet",
+            "description": "President Donald Trump claimed Wednesday that concerns over the novel coronavirus are only partially responsible for the US stock market plunge this week, insisting that the dive is also related to the Democratic presidential debate that took place after mark\u2026",
+            "url": "https://www.cnn.com/2020/02/26/politics/trump-stock-market-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226145549-111-trump-lead-image-super-tease.jpg",
+            "publishedAt": "2020-02-27T02:03:03Z",
+            "content": "Washington (CNN)President Donald Trump claimed Wednesday that concerns over the novel coronavirus are only partially responsible for the US stock market plunge this week, insisting that the dive is also related to the Democratic presidential debate that took \u2026 [+2392 chars]"
         },
         {
             "source": {

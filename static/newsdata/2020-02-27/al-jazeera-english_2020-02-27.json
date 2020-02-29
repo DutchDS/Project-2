@@ -72,19 +72,6 @@
                 "id": "al-jazeera-english",
                 "name": "Al Jazeera English"
             },
-            "author": "Kelly Kasulis",
-            "title": "Diplomacy stalled a year after Trump-Kim Summit collapse",
-            "description": "Little indication talks will revive as leaders turn attention to economy, the coronavirus outbreak and US elections.",
-            "url": "https://www.aljazeera.com/news/2020/02/diplomacy-stalled-year-trump-kim-summit-collapse-200227015554627.html",
-            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/27/c3cd1fa04012423fa0f57807dfa7a8ab_18.jpg",
-            "publishedAt": "2020-02-27T03:17:07Z",
-            "content": "Seoul, South Korea - It seemed like a night between two friends: US President Donald Trump and North Korean leader Kim Jong Un dined over a four-course spread of prawn cocktails, marinated sirloin steak, chocolate lava cake, dried persimmons and kimchi luxuri\u2026 [+6909 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
             "author": "Al Jazeera",
             "title": "US reports worrisome new coronavirus case as Trump urges calm",
             "description": "Democrats slam Trump for his response as new coronavirus case in California could be first community transmission in US.",
@@ -92,6 +79,19 @@
             "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/27/689ac88ad8c544119912d7d23d65358d_18.jpg",
             "publishedAt": "2020-02-27T16:42:24Z",
             "content": "US President Donald Trump declared that a widespread US outbreak of the new respiratory virus sweeping the globe is not inevitable even as top health authorities at his side warned Americans that more infections are coming.\r\nShortly after Trump spoke on Wedne\u2026 [+6545 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kelly Kasulis",
+            "title": "Diplomacy stalled a year after Trump-Kim Summit collapse",
+            "description": "Little indication talks will revive as leaders turn attention to economy, the coronavirus outbreak and US elections.",
+            "url": "https://www.aljazeera.com/news/2020/02/diplomacy-stalled-year-trump-kim-summit-collapse-200227015554627.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/27/c3cd1fa04012423fa0f57807dfa7a8ab_18.jpg",
+            "publishedAt": "2020-02-27T03:17:07Z",
+            "content": "Seoul, South Korea - It seemed like a night between two friends: US President Donald Trump and North Korean leader Kim Jong Un dined over a four-course spread of prawn cocktails, marinated sirloin steak, chocolate lava cake, dried persimmons and kimchi luxuri\u2026 [+6909 chars]"
         },
         {
             "source": {

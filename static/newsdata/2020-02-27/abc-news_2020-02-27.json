@@ -1,0 +1,578 @@
+{
+    "status": "ok",
+    "totalResults": 44,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Sony Salzman",
+            "title": "Coronavirus could lead to drug shortages in US",
+            "description": "The recent coronavirus outbreak has revealed vulnerabilities in supply chains that deliver drugs to the U.S.",
+            "url": "https://abcnews.go.com/Health/coronavirus-lead-drug-shortages-us/story?id=69243037",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-korea-ap-aa-200226_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-27T10:14:57Z",
+            "content": "As the novel coronavirus paralyzes large chunks of China's economy, another possible result from the outbreak could strike closer to home for many Americans: shortages of lifesaving medication.\r\nThe U.S. relies on China for electronics, clothes, toys and, inc\u2026 [+2998 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "John Parkinson",
+            "title": "Efforts to strike coronavirus funding agreement undermined by partisanship",
+            "description": "As urgent as the coronavirus crisis might seem, Congress might not take up emergency funding for two weeks.",
+            "url": "https://abcnews.go.com/Politics/congressional-efforts-strike-coronavirus-funding-agreement-plagued-partisanship/story?id=69262987",
+            "urlToImage": "https://s.abcnews.com/images/Politics/speaker-pelosi-presser-ap-jc-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-27T21:29:44Z",
+            "content": "Republicans and Democrats on Thursday expressed a shared desire to avoid partisan bickering and congressional dysfunction in efforts to pass emergency funding to address the coronavirus crisis, but lawmakers have yet to demonstrate much urgency or progress to\u2026 [+6576 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Libby Cathey",
+            "title": "Pence criticized for response to HIV outbreak as Indiana governor",
+            "description": "The announcement that Vice President Mike Pence will lead the response to coronavirus has raised questions around his handling of an HIV epidemic while Indiana Governor.",
+            "url": "https://abcnews.go.com/Politics/leads-coronavirus-response-pence-criticized-handling-hiv-outbreak/story?id=69255588",
+            "urlToImage": "https://s.abcnews.com/images/Politics/pence-1-rt-er-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-27T17:20:06Z",
+            "content": "President Donald Trump's announcement that Vice President Mike Pence has the experience to lead the administration's coronavirus response has raised questions around Pence's handling of a major health crisis when he was governor of Indiana.\r\n\"Hes got a certai\u2026 [+5008 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "South Korean and U.S. militaries postpone annual drills due to coronavirus outbreak",
+            "description": "South Korean and U.S. militaries postpone annual drills due to coronavirus outbreak",
+            "url": "https://abcnews.go.com/International/wireStory/south-korean-us-militaries-postpone-annual-drills-due-69245398",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T01:13:32Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korean and U.S. militaries postpone annual drills due to coronavirus outbreak."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran's state-run IRNA news agency gives latest figures: 22 dead amid 141 confirmed cases of the new coronavirus",
+            "description": "Iran's state-run IRNA news agency gives latest figures: 22 dead amid 141 confirmed cases of the new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/irans-state-run-irna-news-agency-latest-figures-69250934",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T07:35:17Z",
+            "content": "TEHRAN, Iran -- \r\nIran's state-run IRNA news agency gives latest figures: 22 dead amid 141 confirmed cases of the new coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran's Health Ministry spokesman says the new coronavirus has killed 26 people amid 245 confirmed cases in Iran",
+            "description": "Iran's Health Ministry spokesman says the new coronavirus has killed 26 people amid 245 confirmed cases in Iran",
+            "url": "https://abcnews.go.com/International/wireStory/irans-health-ministry-spokesman-coronavirus-killed-26-people-69251790",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T10:35:32Z",
+            "content": "TEHRAN, Iran -- \r\nIran's Health Ministry spokesman says the new coronavirus has killed 26 people amid 245 confirmed cases in Iran."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "US economy grew at 2.1% annual rate last quarter but coronavirus could jeopardize future growth",
+            "description": "US economy grew at 2.1% annual rate last quarter but coronavirus could jeopardize future growth",
+            "url": "https://abcnews.go.com/US/wireStory/us-economy-grew-21-annual-rate-quarter-coronavirus-69254341",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T13:32:47Z",
+            "content": "WASHINGTON -- \r\nUS economy grew at 2.1% annual rate last quarter but coronavirus could jeopardize future growth."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "US economy grew at 2.1% rate in Q4 but virus threat looms",
+            "description": "US economy grows at 2.1% in Q4 but spreading coronavirus could jeopardize future growth",
+            "url": "https://abcnews.go.com/US/wireStory/us-economy-grew-21-rate-q4-virus-threat-69254653",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_0f0812707eb647ad90bde66570bf389f_16x9_992.jpg",
+            "publishedAt": "2020-02-27T13:42:01Z",
+            "content": "WASHINGTON -- \r\nThe U.S. economy grew at an annual rate of 2.1% in the final quarter of last year, but damage from the spreading coronavirus is likely depressing growth in the current quarter and for 2020 as a whole.\r\nThe Commerce Department said Thursday tha\u2026 [+3135 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BARBARA ORTUTAY AP Technology Writer",
+            "title": "Facebook bans ads with false claims about new virus",
+            "description": "Facebook says it is banning ads that make false claims about products tied to the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/facebook-bans-ads-false-claims-virus-69245116",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_f7f4efd8095140b58003f677f23e9375_16x9_992.jpg",
+            "publishedAt": "2020-02-27T00:50:53Z",
+            "content": "SAN FRANCISCO -- \r\nFacebook said Wednesday that it is banning ads that make false claims about products tied to the new coronavirus. \r\nThe social network said it is removing ads that feature a product and imply a limited supply, seeking create a sense of urge\u2026 [+761 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD and RICARDO ALONSO-ZALDIVAR Associated Press",
+            "title": "Trump names Pence to lead US response to coronavirus threat",
+            "description": "President Donald Trump says the U.S. is \u201cvery, very ready\u201d for whatever the new coronavirus threat brings",
+            "url": "https://abcnews.go.com/Health/wireStory/trump-names-pence-lead-us-response-coronavirus-threat-69244081",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_73f8130ea5ee4316a413039e4a79b7d9_16x9_992.jpg",
+            "publishedAt": "2020-02-27T00:07:10Z",
+            "content": "WASHINGTON -- \r\nPresident Donald Trump declared Wednesday that the U.S. is very, very ready for whatever the coronavirus threat brings, and he put his vice president in charge of overseeing the nation's response.\r\nTrump sought to minimize fears of the virus s\u2026 [+5933 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAVID A. LIEB Associated Press",
+            "title": "States ramp up virus preparations, try to reassure public",
+            "description": "State officials across the U.S. are ramping up efforts to prepare for a possible outbreak of the new coronavirus",
+            "url": "https://abcnews.go.com/US/wireStory/states-ramp-virus-preparations-reassure-public-69262989",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T19:54:32Z",
+            "content": "With worries growing about the new coronavirus in the U.S., state officials are ramping up efforts to prepare for a possible outbreak while simultaneously trying to assure the public that they are well-positioned to handle it.\r\nGovernors and legislators in se\u2026 [+5901 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Canceled travel, revenue losses: Virus hits businesses hard",
+            "description": "The spread of the new coronavirus around the world is jamming up business as companies suspend production, meetings, events and business travel",
+            "url": "https://abcnews.go.com/Travel/wireStory/canceled-travel-revenue-losses-virus-hits-businesses-hard-69257831",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_aaa731fba06f48e3956d9b60a125faeb_16x9_992.jpg",
+            "publishedAt": "2020-02-27T16:40:04Z",
+            "content": "LONDON -- \r\nThe spread of the new coronavirus around the world is hitting companies hard as they suspend production, meetings, events and business travel. Here's a look at the latest developments:\r\nMARKETS: Markets are down sharply again. The Dow and S&amp;P \u2026 [+2054 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD and RICARDO ALONSO-ZALDIVAR Associated Press",
+            "title": "Trump urges calm even as US reports worrisome new virus case",
+            "description": "President Donald Trump says the U.S. is \u201cvery, very ready\u201d for whatever the new coronavirus threat brings, even as health authorities warn Americans that more infections are coming",
+            "url": "https://abcnews.go.com/Health/wireStory/trump-urges-calm-us-reports-worrisome-virus-case-69250000",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_d64dd6b4b01a4b769f93630171649f0a_16x9_992.jpg",
+            "publishedAt": "2020-02-27T05:24:33Z",
+            "content": "WASHINGTON -- \r\nPresident Donald Trump declared Wednesday that a widespread U.S. outbreak of the new respiratory virus sweeping the globe isn't inevitable even as top health authorities at his side warned Americans that more infections are coming.\r\nShortly af\u2026 [+5876 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MAURICIO SAVARESE and MARCELO DE SOUSA Associated Press",
+            "title": "Brazil: coronavirus worry emerges with new suspected cases",
+            "description": "Signs of anxiety are appearing among Brazilians after Latin America's first case of the new coronavirus was confirmed in Sao Paulo",
+            "url": "https://abcnews.go.com/Health/wireStory/brazil-coronavirus-worry-emerges-suspected-cases-69267680",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_6913f01ea42e4580910c1273c2fe7801_16x9_992.jpg",
+            "publishedAt": "2020-02-27T23:13:48Z",
+            "content": "SAO PAULO -- \r\nSigns of anxiety appeared Thursday among Brazilians after Latin America's first case of the new coronavirus was confirmed in Sao Paulo, and the number of suspected cases skyrocketed, even as the government sought to reassure the population abou\u2026 [+3171 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DON THOMPSON and MIKE STOBBE",
+            "title": "New US coronavirus case may be 1st from unknown origin",
+            "description": "Health officials say new coronavirus case in California could be the first in the U.S. that has no known connection to travel abroad or another known case",
+            "url": "https://abcnews.go.com/Health/wireStory/us-coronavirus-case-1st-unknown-origin-69259539",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_046192c4cbc24670835a62a1f365230f_16x9_992.jpg",
+            "publishedAt": "2020-02-27T17:46:33Z",
+            "content": "SACRAMENTO, Calif. -- \r\nA new coronavirus case in California could be the first in the U.S. that has no known connection to travel abroad or another known case, a possible sign the virus is spreading in a U.S. community, health officials said.\r\nCalifornia off\u2026 [+4095 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE AP Medical Writer",
+            "title": "New US coronavirus case may be 1st from unknown origin",
+            "description": "Health officials have confirmed a new case of coronavirus infection in California that could be a sign that the virus is spreading in a U.S. community",
+            "url": "https://abcnews.go.com/US/wireStory/us-coronavirus-case-1st-unknown-origin-69245656",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T01:53:53Z",
+            "content": "NEW YORK -- \r\nHealth officials have confirmed a new case of coronavirus infection in California that could be a sign that the virus is spreading in a U.S. community.\r\nThe Centers for Disease Control and Prevention reported the case Wednesday night. It is a pe\u2026 [+1418 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "WHAT\u2019S HAPPENING? Virus forges on, as world hunts solutions",
+            "description": "The world is scrambling to get on top of the new coronavirus outbreak that has spread from its epicenter in China to most corners of the planet",
+            "url": "https://abcnews.go.com/US/wireStory/whats-happening-virus-forges-world-hunts-solutions-69256915",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_eebace395c484b439a923d04be52f7ee_16x9_992.jpg",
+            "publishedAt": "2020-02-27T15:34:17Z",
+            "content": "One by one, more and more countries are reporting cases of the new coronavirus. Governments and doctors on the front lines are scrambling for solutions and everyday life around the globe is being disrupted in a manner that's not been seen in recent times. \r\nT\u2026 [+3969 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "A Week in Pictures, Middle East",
+            "description": "This photo gallery highlights some of the most compelling images made or published by Associated Press photographers in the Middle East, Afghanistan & Pakistan region Feb. 20-26, 2020. This week\u2019s selection includes the funeral of Egypt\u2019s ousted autocratic Pr\u2026",
+            "url": "https://abcnews.go.com/International/wireStory/week-pictures-middle-east-69253042",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_c38eae58d90e454aa12872daaaf51c24_16x9_992.jpg",
+            "publishedAt": "2020-02-27T12:20:01Z",
+            "content": "This photo gallery highlights some of the most compelling images made or published by Associated Press photographers in the Middle East, Afghanistan &amp; Pakistan region Feb. 20-26, 2020.\r\nThis weeks selection includes the funeral of Egypts ousted autocratic\u2026 [+562 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associated Press",
+            "title": "With first case, Latin America prepares for COVID-19 virus",
+            "description": "With Brazil reporting the first case of the COVID-19 virus, neighboring countries and other nations around Latin America are attempting to block the possible arrival of the virus",
+            "url": "https://abcnews.go.com/International/wireStory/case-latin-america-prepares-covid-19-virus-69249561",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_583ae8a4409d48ad89467cd6be432853_16x9_992.jpg",
+            "publishedAt": "2020-02-27T05:00:33Z",
+            "content": "With Brazil reporting the first case of the COVID-19 virus, neighboring countries and other nations around Latin America were attempting to block the possible arrival of the virus. \r\nA glance at efforts across the region: \r\nPeru was maintaining a team of spec\u2026 [+5197 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Editorial Roundup: US",
+            "description": "Excerpts from recent editorials in the United States and abroad: \u2014\u2014\u2014 Feb. 26 The Minnesota Star Tribune on the coronavirus: As fears mount over coronavirus, perspective is in order. If you\u2019re reading this editorial, chances are you\u2019ve already survived a pande\u2026",
+            "url": "https://abcnews.go.com/US/wireStory/editorial-roundup-us-69244264",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T00:11:18Z",
+            "content": "Excerpts from recent editorials in the United States and abroad:\r\nFeb. 26\r\nThe Minnesota Star Tribune on the coronavirus:\r\nAs fears mount over coronavirus, perspective is in order. If youre reading this editorial, chances are youve already survived a pandemic\u2026 [+19705 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ALEXANDRA JAFFE Associated Press",
+            "title": "White House hopefuls target Trump on coronavirus response",
+            "description": "Democratic White House hopefuls are seizing on President Donald Trump\u2019s delayed response to the coronavirus outbreak, calling it the latest evidence of his incompetence and warning that the crisis may only deepen as a result",
+            "url": "https://abcnews.go.com/Health/wireStory/white-house-hopefuls-target-trump-coronavirus-response-69267256",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_59aa4437459e42f7b7cd5a6b1d639107_16x9_992.jpg",
+            "publishedAt": "2020-02-27T22:54:51Z",
+            "content": "CHARLESTON, S.C. -- \r\nDemocratic White House hopefuls are seizing on President Donald Trumps delayed response to the coronavirus outbreak, calling it the latest evidence of his incompetence and warning that the crisis may only deepen as a result.\r\nBut some ex\u2026 [+6737 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "US economy grew at 2.1% rate in Q4 but virus threat looms",
+            "description": "US economy grows at 2.1% in Q4 but spreading coronavirus could jeopardize future growth",
+            "url": "https://abcnews.go.com/Business/wireStory/us-economy-grew-21-rate-q4-virus-threat-69254654",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_0f0812707eb647ad90bde66570bf389f_16x9_992.jpg",
+            "publishedAt": "2020-02-27T13:42:07Z",
+            "content": "WASHINGTON -- \r\nThe U.S. economy grew at an annual rate of 2.1% in the final quarter of last year, but damage from the spreading coronavirus is likely depressing growth in the current quarter and for 2020 as a whole.\r\nThe Commerce Department said Thursday tha\u2026 [+3135 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE and ADAM GELLER Associated Press",
+            "title": "In scramble to stop virus, testing raises tough questions",
+            "description": "Health officials are confronting tough questions about testing to intercept the fast-spreading coronavirus, with scrutiny focused on a four-day delay in screening an infected California woman despite her doctors\u2019 early calls to do so",
+            "url": "https://abcnews.go.com/Health/wireStory/scramble-stop-virus-testing-raises-tough-questions-69266705",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_6f0c3468979b4818a27080bda8b8419a_16x9_992.jpg",
+            "publishedAt": "2020-02-27T22:23:06Z",
+            "content": "NEW YORK -- \r\nHealth officials confronted tough questions and doubts Thursday about testing to intercept the fast-spreading virus, with scrutiny focused on a four-day delay in screening an infected California woman despite her doctors early calls to do so. \r\n\u2026 [+8373 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FRANCES D'EMILIO and NICOLE WINFIELD Associated Press",
+            "title": "Italy changes virus count methods at UN agency's urging",
+            "description": "Italy is changing how it reports coronavirus cases and who will get tested in ways that could lower the country's caseload even as an outbreak centered in northern Italy spreads in Europe",
+            "url": "https://abcnews.go.com/Health/wireStory/italy-virus-count-methods-agencys-urging-69254949",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_15d5625699724600a61d4d8f18a49233_16x9_992.jpg",
+            "publishedAt": "2020-02-27T13:58:04Z",
+            "content": "ROME -- \r\nWith tourism tanking and panic rising, Italy is changing how it reports coronavirus cases and who will get tested in ways that could lower the country's caseload even as an outbreak centered in northern Italy spreads in Europe, officials said Thursd\u2026 [+2075 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BARBARA ORTUTAY AP Technology Writer",
+            "title": "Facebook bans ads with false claims about new virus",
+            "description": "Facebook says it is banning ads that make false claims about products tied to the new coronavirus",
+            "url": "https://abcnews.go.com/Business/wireStory/facebook-bans-ads-false-claims-virus-69247263",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_f7f4efd8095140b58003f677f23e9375_16x9_992.jpg",
+            "publishedAt": "2020-02-27T02:43:20Z",
+            "content": "SAN FRANCISCO -- \r\nFacebook said Wednesday that it is banning ads that make false claims about products tied to the new coronavirus. \r\nThe social network said it is removing ads that feature a product and imply a limited supply, seeking create a sense of urge\u2026 [+761 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "South Korea, US postpone annual military drills due to virus",
+            "description": "The South Korean and U.S. militaries have postponed their annual drills out of concerns over a virus outbreak",
+            "url": "https://abcnews.go.com/US/wireStory/south-korea-us-postpone-annual-military-drills-due-69245451",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_127228fd0e244cc79a0cd44583ecd206_16x9_992.jpg",
+            "publishedAt": "2020-02-27T01:23:27Z",
+            "content": "SEOUL, South Korea -- \r\nThe South Korean and U.S. militaries have postponed their annual joint drills out of concerns over a virus outbreak.\r\nThursdays announcement came after South Korea reported 21 cases of a new coronavirus in its military and the U.S. mil\u2026 [+932 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ALEX VEIGA AP Business Writer",
+            "title": "Investors shy away from risk as coronavirus rattles markets",
+            "description": "This week\u2019s big sell-off on Wall Street suggests stocks have finally caught up to the bond market, where fear of an economic slowdown has been evident for months",
+            "url": "https://abcnews.go.com/Business/wireStory/investors-shy-risk-coronavirus-rattles-markets-69261108",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T18:34:17Z",
+            "content": "LOS ANGELES -- \r\nThis weeks big sell-off on Wall Street suggests stocks have finally caught up to the bond market, where fear of an economic slowdown has been evident for months.\r\nSigns that the new coronavirus that originated in China is now spreading to oth\u2026 [+3008 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE and ADAM GELLER Associated Press",
+            "title": "In scramble to stop virus, testing raises tough questions",
+            "description": "Health officials are confronting tough questions about testing to intercept the fast-spreading coronavirus, with scrutiny focused on a four-day delay in screening an infected California woman despite her doctors\u2019 early calls to do so",
+            "url": "https://abcnews.go.com/Business/wireStory/scramble-stop-virus-testing-raises-tough-questions-69266723",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_6f0c3468979b4818a27080bda8b8419a_16x9_992.jpg",
+            "publishedAt": "2020-02-27T22:23:26Z",
+            "content": "NEW YORK -- \r\nHealth officials confronted tough questions and doubts Thursday about testing to intercept the fast-spreading virus, with scrutiny focused on a four-day delay in screening an infected California woman despite her doctors early calls to do so. \r\n\u2026 [+8373 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "10 Things to Know for Today",
+            "description": "Get ready for Thursday, Feb. 27 with a few things to know about the day\u2019s news from The Associated Press",
+            "url": "https://abcnews.go.com/US/wireStory/10-things-today-69252280",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_5cc37bea28444861907dbee3e9d3f8ff_16x9_992.jpg",
+            "publishedAt": "2020-02-27T10:57:18Z",
+            "content": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about today:\r\n1. CORONAVIRUS CASES CONTINUE TO SPIKE IN ASIA As the worst-hit areas in China and South Korea continue to struggle with the viral epidemic, worries about\u2026 [+1743 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BRADY McCOMBS Associated Press",
+            "title": "New virus prompts Mormons to cancel key leadership event",
+            "description": "The Church of Jesus Christ of Latter-day Saints is postponing a key April meeting of its top global leaders because of the spread of the new virus that originated in China",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-prompts-mormons-cancel-key-leadership-event-69266741",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T22:24:32Z",
+            "content": "SALT LAKE CITY -- \r\nThe Church of Jesus Christ of Latter-day Saints announced Thursday that it has postponed a key April meeting of its top global leaders because of the spread of the coronavirus, and said it is discouraging its many members who live outside \u2026 [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KIM TONG-HYUNG and MATT SEDENSKY Associated Press",
+            "title": "World battles virus epidemic as cases multiply outside China",
+            "description": "The fight against the new virus is continuing around the world",
+            "url": "https://abcnews.go.com/Health/wireStory/world-battles-virus-epidemic-cases-multiply-china-69245605",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_593c4d693f0f42858535eed83ccc98e8_16x9_992.jpg",
+            "publishedAt": "2020-02-27T01:36:40Z",
+            "content": "SEOUL, South Korea -- \r\nCrews scrubbed everything from money to buses, military bases were on high alert and quarantines were enforced Wednesday from a beachfront resort in the Atlantic to a remote island in the Pacific, as the world worked to halt the fast-s\u2026 [+7788 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected 82,000 globally, caused 2,800 deaths",
+            "description": "A new virus that emerged in China has infected more than 82,000 people and caused more than 2,800 deaths",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-82000-globally-caused-2800-deaths-69249360",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_df962f52f47a40c8ac5dae9f34bc9218_16x9_992.jpg",
+            "publishedAt": "2020-02-27T04:43:01Z",
+            "content": "A viral outbreak that began in China has infected more than 82,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+956 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Pope cancels visit with Rome priests for 'slight' illness",
+            "description": "Officials say Pope Francis is sick and he skipped a planned Mass with Rome clergy across town on Thursday",
+            "url": "https://abcnews.go.com/Health/wireStory/pope-cancels-visit-rome-priests-slight-illness-69251789",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_1acc709e04634756951db7df1c99e0ed_16x9_992.jpg",
+            "publishedAt": "2020-02-27T10:33:25Z",
+            "content": "VATICAN CITY -- \r\nPope Francis is sick and he skipped a planned Mass with Rome clergy across town on Thursday, officials said.\r\nThe Vatican said the 83-year-old pontiff had a slight indisposition\" and would proceed with the rest of his planned work on Thursda\u2026 [+1012 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAUL WISEMAN AP Economics Writer",
+            "title": "US orders for durable goods slip 0.2% in January",
+            "description": "US orders for durable goods slip 0.2% in January on weaker demand for cars, military aircraft",
+            "url": "https://abcnews.go.com/US/wireStory/us-orders-durable-goods-slip-02-january-69254499",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_24653b2a526847c6a3b6384de814bcd7_16x9_992.jpg",
+            "publishedAt": "2020-02-27T13:34:07Z",
+            "content": "WASHINGTON -- \r\nOrders to U.S. factories for big-ticket manufactured goods dipped in January, pulled down by decreased demand for cars, auto parts and military aircraft.\r\nThe Commerce Department said Thursday that orders for durable goods slipped 0.2% last mo\u2026 [+1280 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Saudi Arabia halts travel to Islam's holiest site over virus",
+            "description": "Saudi Arabia has halted travel to Islam's holiest sites over fears about a new viral epidemic months ahead of the hajj pilgrimage",
+            "url": "https://abcnews.go.com/Health/wireStory/saudi-arabia-halts-travel-islams-holiest-site-virus-69249224",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3073567b99d3450da9ebb7db48bce0f1_16x9_992.jpg",
+            "publishedAt": "2020-02-27T04:24:43Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nSaudi Arabia on Thursday halted travel to the holiest sites in Islam over fears about a new viral epidemic just months ahead of the annual hajj pilgrimage, a move coming as the Mideast has over 220 confirmed cases of the illne\u2026 [+3043 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "How major stock indexes fared Thursday",
+            "description": "Stocks nosedived on Wall Street Thursday, sending the Dow Jones Industrial Average down by nearly 1,200 points and deepening a weeklong global market rout",
+            "url": "https://abcnews.go.com/Business/wireStory/major-stock-indexes-fared-thursday-69266507",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-27T22:12:18Z",
+            "content": "Stocks nosedived on Wall Street Thursday, sending the Dow Jones Industrial Average down by nearly 1,200 points and deepening a weeklong global market rout. \r\nBond prices soared again, sending the yield on the 10-year Treasury to another record low. Iinvestors\u2026 [+934 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Markets down, Facebook cancels show: Virus hits businesses",
+            "description": "Facebook says it is canceling its annual conference for developers because of concerns about the virus outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/markets-facebook-cancels-show-virus-hits-businesses-69261962",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_aaa731fba06f48e3956d9b60a125faeb_16x9_992.jpg",
+            "publishedAt": "2020-02-27T19:17:04Z",
+            "content": "The spread of the new coronavirus around the world is hitting companies hard as they suspend production, meetings, events and business travel. Here's a look at the latest developments:\r\nMARKETS: Markets are down sharply again. The Dow and S&amp;P were down ov\u2026 [+3164 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ZEKE MILLER and DARLENE SUPERVILLE Associated Press",
+            "title": "Pence tries to project calm as virus response coordinator",
+            "description": "Vice President Mike Pence is moving to project calm in the role of chief coordinator of the government's response to the new coronovirus, as the Trump administration tries to contain mounting public concerns and steep stock market declines",
+            "url": "https://abcnews.go.com/Health/wireStory/pence-project-calm-virus-response-coordinator-69264260",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_eeaf9caf71634d0cb89d3012c1cb3687_16x9_992.jpg",
+            "publishedAt": "2020-02-27T20:54:35Z",
+            "content": "WASHINGTON -- \r\nVice President Mike Pence moved Thursday to project calm in the role of chief coordinator of the government's response to the new coronovirus, as the Trump administration rushed to contain mounting public concerns and steep stock market declin\u2026 [+3755 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAMIAN J. TROISE AP Business Writer",
+            "title": "Stocks open sharply lower; Dow 10% below recent record high",
+            "description": "Stocks are opening sharply lower on Wall Street, extending a weeklong rout and bringing the Dow Jones Industrial Average 10% below the record high it hit two weeks ago",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-open-sharply-lower-dow-10-recent-record-69255910",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_979b5c9abc6549faa900708319030807_16x9_992.jpg",
+            "publishedAt": "2020-02-27T14:44:06Z",
+            "content": "NEW YORK -- \r\nStocks are opening sharply lower, extending a weeklong rout and bringing the Dow Jones Industrial Average 10% below the record high it hit two weeks ago. \r\nMicrosoft became the latest large company to warn investors about the virus potential hit\u2026 [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Dow Jones plummets more than 1,000 points amid coronavirus uncertainty",
+            "description": "Dow Jones plummets more than 1,000 points amid coronavirus uncertainty go.com",
+            "url": "https://abcnews.go.com/Business/dow-jones-plummets-1000-points-amid-coronavirus-uncertainty/story?id=69264423",
+            "urlToImage": "https://s.abcnews.com/images/Business/new-york-stock-exchange-ap-jc-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-27T21:14:08Z",
+            "content": "The Dow Jones Industrial Average plummeted 1,190 points, more than 4%, on Thursday as economic uncertainty over the spread of the novel coronavirus continued to rattle markets.\r\nThe losses mark the worse week for U.S. stocks since the financial crash of 2008.\u2026 [+1385 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Michelle Stoddart",
+            "title": "Trump impersonator interrupts Vice President Mike Pence's CPAC speech",
+            "description": "Trump impersonator interrupts Vice President Mike Pence's CPAC speech go.com",
+            "url": "https://abcnews.go.com/Politics/trump-impersonator-interrupts-vice-president-mike-pences-cpac/story?id=69261891",
+            "urlToImage": "https://s.abcnews.com/images/Politics/cpac-trump-impersonator-rt-jef-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-27T23:59:33Z",
+            "content": "A person impersonating President Donald Trump was escorted out of the Conservative Political Action Conference on Thursday, according to a police spokesperson.\r\nVice President Mike Pence was speaking to the gathering at the Gaylord National Resort &amp; Conve\u2026 [+955 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ZEINA KARAM Associated Press",
+            "title": "Virus response in Mideast tainted by political views of Iran",
+            "description": "As the coronavirus spreads across the Middle East, so is the scrutiny and criticism of Iran",
+            "url": "https://abcnews.go.com/International/wireStory/virus-response-mideast-tainted-political-views-iran-69256320",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_57d9e716fa0c4d9fae052b04b03d2517_16x9_992.jpg",
+            "publishedAt": "2020-02-27T15:15:48Z",
+            "content": "BEIRUT -- \r\nIn the Middle East, even virus outbreaks are political. \r\nThe coronavirus has killed 26 people in Iran -- the highest toll outside of China where it originated. Many of the over 240 confirmed cases in the region have links to Iran, including dozen\u2026 [+5682 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "Latest American infected could be 1st coronavirus case of community spread within US",
+            "description": "The latest patient being treated for the novel coronavirus in the U.S. is being investigated as possibly the first case of community spread on American soil.",
+            "url": "https://abcnews.go.com/International/latest-american-infected-coronavirus-1st-case-community-spread/story?id=69251035",
+            "urlToImage": "https://s.abcnews.com/images/International/san-francisco-chinatown-masks-coronavirus-getty-20_hpMain_20200227-041603_16x9_992.jpg",
+            "publishedAt": "2020-02-27T09:52:15Z",
+            "content": "The latest patient being treated for the novel coronavirus in the United States is being investigated by health officials as possibly the first case of community spread on American soil.\r\nThe U.S. Centers for Disease Control and Prevention confirmed the diagn\u2026 [+3006 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARCELO DE SOUSA and MAURICIO SAVARESE Associated Press",
+            "title": "New coronavirus reaches Latin America, first case in Brazil",
+            "description": "Latin America saw its first confirmed case of the new coronavirus spreading worldwide when Brazil's government announced that a 61-year-old man who traveled to Italy this month had the virus",
+            "url": "https://abcnews.go.com/Health/wireStory/coronavirus-reaches-latin-america-case-brazil-69249606",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3a2e37d0396341ada989f86806b3b4a0_16x9_992.jpg",
+            "publishedAt": "2020-02-27T05:08:49Z",
+            "content": "RIO DE JANEIRO -- \r\nLatin America saw its first confirmed case of the new coronavirus spreading worldwide when Brazil's government announced that a 61-year-old man who traveled to Italy this month had the virus. \r\nThe Brazilian man had spent two weeks in nort\u2026 [+3985 chars]"
+        }
+    ]
+}
