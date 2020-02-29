@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Rosie McCall",
+            "title": "COVID-19: How Fake News Could Help Spread the Coronavirus",
+            "description": "A new study links the spread of fake news and misinformaiton to the spread of infectious disease. Scientists say it could encourage dangerous behaviors.",
+            "url": "https://www.newsweek.com/covid-19-how-fake-news-could-help-spread-coronavirus-1487402",
+            "urlToImage": "https://d.newsweek.com/en/full/1567376/passenger-wears-mask-subway.jpg",
+            "publishedAt": "2020-02-14T17:24:27Z",
+            "content": "The proliferation of fake news could be exacerbating disease outbreaks like the new coronavirus, say scientistswhile efforts to tackle the spread of misinformation has the potential to save lives.\r\nFake news is \"manufactured with no respect for accuracy,\" exp\u2026 [+5558 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Coronavirus Map Shows Nearly 47,000 Confirmed Cases in 25 Countries",
+            "description": "\"The spectrum of this illness is much broader than was originally presented,\" Dr. Robert Redfield, director of the CDC, said.",
+            "url": "https://www.newsweek.com/coronavirus-case-map-update-china-international-1487386",
+            "urlToImage": "https://d.newsweek.com/en/full/1567362/coronavirus-case-map-update.jpg",
+            "publishedAt": "2020-02-14T17:15:27Z",
+            "content": "In less than two months, a new coronavirus infected nearly 47,000 people in 25 countries, killing more than 1,360 people.\r\nOn Thursday, the World Health Organization (WHO) confirmed an additional 1,826 cases and 254 more people lost their lives to COVID-19, t\u2026 [+2575 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "K Thor Jensen",
+            "title": "Florist Selling Anti-Coronavirus Bouquets for Valentine's Day",
+            "description": "A florist in the Philippines is capitalizing on the virus by selling Valentine's Day bouquets containing hand sanitizer, face masks and surgical gloves.",
+            "url": "https://www.newsweek.com/florist-anti-coronavirus-bouquets-valentines-day-1487368",
+            "urlToImage": "https://d.newsweek.com/en/full/1567354/florist-arranging-bouquet.jpg",
+            "publishedAt": "2020-02-14T16:39:25Z",
+            "content": "A florist in the Philippines is capitalizing on the new coronavirus by selling Valentine's Day bouquets containing hand sanitizer, face masks and surgical gloves.\r\nThe New York Post reported that the Manila flower shop owned by Mary Jane Villegas debuted the \u2026 [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Face Mask Shortages Amid Coronavirus Outbreak Mean Dentists in U.K. May Need to Stop Working",
+            "description": "More than 1,300 have died of COVID-19 since it emerged late last year.",
+            "url": "https://www.newsweek.com/face-mask-shortages-amid-coronavirus-outbreak-mean-dentists-uk-may-need-stop-working-1487305",
+            "urlToImage": "https://d.newsweek.com/en/full/1567256/dentist-getty-stock.jpg",
+            "publishedAt": "2020-02-14T11:47:26Z",
+            "content": "Dentists in the U.K. may have to stop working due to a shortage of face masks amid the outbreak of the deadly new coronavirusCOVID-19, according to a body representing the profession. The warning comes after the World Health Organization (WHO) highlighted glo\u2026 [+4669 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Coronavirus Travel Advice: How to Minimize Exposure While Traveling, Including at Airports, on Planes and Cruises",
+            "description": "Wearing a mask isn't an effective way to protect yourself from the deadly virus but there are more basic health practices that are.",
+            "url": "https://www.newsweek.com/coronavirus-travel-advice-how-minimize-exposure-risks-airports-planes-cruises-1487311",
+            "urlToImage": "https://d.newsweek.com/en/full/1567269/tourist-internatioanal-boryspil-airport-ukraine-january-2020.jpg",
+            "publishedAt": "2020-02-14T11:25:45Z",
+            "content": "The most effective way to protect yourself while traveling during the ongoing coronavirus outbreak is to minimize your exposure to it. This is best achieved with basic hygiene practices including cleaning your hands with soap for at least 30 seconds, using ha\u2026 [+10481 chars]"
+        }
+    ]
+}

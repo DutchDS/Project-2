@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Number of coronavirus cases skyrockets in China",
+            "description": "Health officials in China are now reporting more than 100 deaths and more than 4,500 cases -- up nearly 60% from yesterday.",
+            "url": "https://www.nbcnews.com/nightly-news/video/number-of-coronavirus-cases-skyrockets-in-china-77725253811",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202001/nn_ggu_coronavirus_200128_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T23:46:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David K. Li, Erika Edwards",
+            "title": "United cancels flights to and from China as CDC steps up coronavirus screenings",
+            "description": "United Airlines canceled 24 U.S. flights to and from China, and the U.S. Department of Health & Human Services announced it would increase the number of American ports of entry with screening for coronavirus.",
+            "url": "https://www.nbcnews.com/news/us-news/united-cancels-flights-china-cdc-steps-coronavirus-screenings-n1125046",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_04/3200616/200124-coronavirus-mn-0940_d72d4c8df5ca217277ac296e06917399.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T22:41:00Z",
+            "content": "United Airlines canceled two dozen U.S. flights to and from China, the carrier announced Tuesday, as American health authorities stepped up efforts to battle the fast-spreading coronavirus.\r\nThe 24 round trips involved routes originating in San Francisco, New\u2026 [+1856 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Kamisar",
+            "title": "Candidates have already begun spending on TV in Super Tuesday states",
+            "description": "A handful of other Democratic candidates have already spent significant dollars on TV and radio ads in Super Tuesday states.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1124886",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T21:04:44Z",
+            "content": "Candidates have already begun spending on TV in Super Tuesday states\r\nWASHINGTON The early-state sprint is less than a week away, but while candidates have to survive (or thrive in) Iowa, New Hampshire, Nevada and South Carolina, those states dole out just a \u2026 [+22477 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Coronavirus risk in U.S. 'remains low' even as federal officials take steps to protect public",
+            "description": "The risk of coronavirus cases spreading in the U.S. remains low. Asymptomatic transmission may be possible but symptomatic transmission is what causes outbreaks.",
+            "url": "https://www.nbcnews.com/health/health-news/coronavirus-risk-u-s-remains-low-even-federal-officials-take-n1124571",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_05/3205891/200128-alex-azar-cs-118p_6871e87c17661e471774289bf75de3a5.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T18:48:53Z",
+            "content": "The United States must remain on alert as the new coronavirus spreads globally, public health officials said Tuesday, though the risk for spread in the country still remains low.\r\n\"This is a very fast moving, constantly changing situation,\" Health and Human S\u2026 [+4343 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Health secretary on coronavirus: 'Americans should not worry for their own safety'",
+            "description": "Top U.S. health officials held a press conference on the coronavirus outbreak. The U.S. will expand screening of passengers from China to 20 airports while a vaccine is in the works.",
+            "url": "https://www.nbcnews.com/video/health-secretary-azar-assures-americans-not-to-worry-about-safety-with-coronavirus-outbreak-77711941790",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202001/coronavirus__190239.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T18:40:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Martha C. White",
+            "title": "'Bolton bombshell' could shake up Wall Street, investing experts say",
+            "description": "Although the combination of coronavirus and earnings season are top-of-mind for Wall Street this week, the impeachment narrative could have an impact on markets if witnesses are introduced and the trial drags on.",
+            "url": "https://www.nbcnews.com/business/business-news/bolton-bombshell-could-shake-wall-street-investing-experts-say-n1124731",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_05/3205796/200128-john-bolton-ew-1210p_3d7d30cdbf1df0ea3c4b9ace45aa6c67.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T18:09:22Z",
+            "content": "The odds of a lengthy impeachment trial in the Senate are still very much in play, but new revelations from former national security adviser John Boltons forthcoming book about President Donald Trumps involvement in holding up military aid to Ukraine in excha\u2026 [+4464 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Kamisar",
+            "title": "Klobuchar: Voters should 'evaluate' Bloomberg on debate stage",
+            "description": "Bloomberg has spent more than $200 million of his personal wealth on campaign ads blanketing the country, but his decision not to take individual donations means he can't meet the Democratic Party's debate thresholds.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1124621",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T17:36:24Z",
+            "content": "Klobuchar: Voters should 'evaluate' Bloomberg on debate stage\r\nWASHINGTON Sen. Amy Klobuchar, D-Minn., said Tuesday that she's open to seeing former New York City Mayor Michael Bloomberg join the Democratic Party's presidential debate stage so that voters wil\u2026 [+23020 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Marianna Sotomayor",
+            "title": "Bidens ask to 'imagine' a world without Trump",
+            "description": "With less than one week until the Iowa caucuses, Joe Biden is asking Iowans to imagine the progress they can make together if President Donald Trump is removed from office.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1124616",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T17:21:32Z",
+            "content": "IOWA CITY, Iowa Just days ahead of the Iowa caucuses, former Vice President Joe Biden is asking voters here to imagine the progress they can make together if President Donald Trump is removed from office in his latest television ad.\r\nIn the 30-second ad title\u2026 [+24055 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Beginning to look 'pretty intense': Former CDC head who led U.S. SARS response speaks about coronavirus",
+            "description": "Former CDC head Julie Gerberding, who led the nation's public health response during the SARS outbreak, speaks out about coronavirus.",
+            "url": "https://www.nbcnews.com/health/health-news/beginning-look-pretty-intense-former-cdc-head-who-led-u-n1124531",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_05/3205511/200128-julie-gerberding-cs-908a_1f948bd3f6d34ed0b659632e91372f1b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T16:23:49Z",
+            "content": "We just don't understand yet whether the case count is due to accelerating spread, or is that just kind of an artificial understanding because of the way the tests are being deployed and the diagnoses are coming in.\r\nA public health response impacts national \u2026 [+5108 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sara G. Miller, Jiachuan Wu",
+            "title": "Coronavirus in the U.S.: Map of where the virus has been confirmed across the country",
+            "description": "As of Jan. 28, there are five confirmed coronavirus cases in the U.S.: Two in California, one in Illinois, one in Arizona and one in Washington state.",
+            "url": "https://www.nbcnews.com/health/health-news/coronavirus-u-s-map-where-virus-has-been-confirmed-across-n1124546",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_05/3205671/200128-coronavirus-cover-jw_fe6c683132043b2283ac2774a3abbabd.nbcnews-fp-1200-630.png",
+            "publishedAt": "2020-01-28T16:03:00Z",
+            "content": "Coronavirus cases have also been confirmed in China, Thailand, Taiwan, Japan, Singapore, South Korea, Vietnam, France, Australia, Malaysia, Nepal, Germany, Sri Lanka, Cambodia and Canada. More than 4,500 people have been sickened, mostly in China, and 106 hav\u2026 [+390 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Deepa Shivaram",
+            "title": "Warren releases plan to combat epidemics like coronavirus",
+            "description": "As focus on the coronavirus intensifies, Elizabeth Warren is releasing a new plan on how to prevent the transmission of infectious diseases and better prepare for global outbreaks.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1124511",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T14:00:41Z",
+            "content": "WASHINGTON As focus on the coronavirus intensifies, Massachusetts Sen. Elizabeth Warren is releasing a new plan on how to prevent the transmission of infectious diseases and better prepare for global outbreaks.\u00a0\r\nHer in-depth agenda focuses on fully funding g\u2026 [+23417 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "U.S. plans to evacuate citizens from coronavirus epicenter as deaths spike",
+            "description": "The State Department said it was sending a chartered flight to Wuhan to evacuate U.S. government personnel stationed in the epicenter of the outbreak.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-death-toll-spikes-china-u-s-plans-evacuate-citizens-n1124476",
+            "urlToImage": "https://static.euronews.com/articles/4467666/1000x563_nbc-200128-wuhan-coronavirus-mc-944_6069710f8da4c155993fdffe2ea28b57.jpg",
+            "publishedAt": "2020-01-28T11:43:00Z",
+            "content": "The number of people known to have died from the new coronavirus in China jumped over 24 hours as U.S. officials prepared to evacuate Americans from the locked-down epicenter of the epidemic.On Tuesday, the death toll stood at 106 \u2014 up from 80 a day earlier \u2014\u2026 [+2934 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "This American teacher chose to stay behind in Wuhan. Here\u2019s why.",
+            "description": "Doug Perez, 28, chose to remain in Wuhan, China, where the novel coronavirus originated, rather than be evacuated from the city along with other U.S. nationals.",
+            "url": "https://www.nbcnews.com/video/american-teacher-stays-in-wuhan-despite-coronavirus-threat-77690437932",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202001/China_Wuhan_American.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-01-28T10:45:53Z",
+            "content": null
+        }
+    ]
+}

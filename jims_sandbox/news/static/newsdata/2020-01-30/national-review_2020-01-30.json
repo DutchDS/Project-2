@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Matthew Continetti, Matthew Continetti",
+            "title": "Coronavirus and Xi Jinping\u2019s Crisis of Legitimacy",
+            "description": "China is isolated, losing face,  and has given the world a public-health emergency.",
+            "url": "https://www.nationalreview.com/corner/coronavirus-and-xi-jinpings-crisis-of-legitimacy/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/12/china-president-1.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-01-30T20:31:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "World Health Organization Declares Spread of Coronavirus a Global Health Emergency",
+            "description": "The World Health Organization on Thursday declared the outbreak of the coronavirus a 'public health emergency of international concern.'",
+            "url": "https://www.nationalreview.com/news/world-health-organization-declares-spread-of-coronavirus-a-global-health-emergency/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/World-Health-Organization.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-01-30T20:16:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "CDC Confirms First U.S. Human Transmission of Coronavirus",
+            "description": "The Center for Disease Control on Thursday confirmed the first U.S. case of human-to-human transmission of the coronavirus involving a Chicago woman.",
+            "url": "https://www.nationalreview.com/news/cdc-confirms-first-u-s-human-transmission-of-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/11/cdc-sign-atlanta.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-01-30T19:33:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Tom Cotton Claims Coronavirus Epidemic \u2018Much Worse\u2019 than China Admits",
+            "description": "Cotton has repeatedly pushed for a travel ban to China due to concerns over the spread of the virus.",
+            "url": "https://www.nationalreview.com/news/tom-cotton-claims-coronavirus-epidemic-much-worse-than-china-admits/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/Coronavirus-.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-01-30T15:52:53Z",
+            "content": null
+        }
+    ]
+}

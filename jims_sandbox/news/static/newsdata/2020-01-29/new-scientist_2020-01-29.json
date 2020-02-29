@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Jessica Hamzelou",
+            "title": "New coronavirus may be much more contagious than initially thought",
+            "description": "The new coronavirus is spreading faster than SARS - and it may be because it can be passed on before a person shows any sign of symptoms",
+            "url": "https://www.newscientist.com/article/mg24532673-700-new-coronavirus-may-be-much-more-contagious-than-initially-thought/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/01/29120549/pa-49811555.jpg",
+            "publishedAt": "2020-01-29T18:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "",
+            "title": "Fast action will be key to containing new coronavirus from China",
+            "description": "As the new virus that emerged in China spreads rapidly around the world, the reaction of national and international health agencies will be key to stopping it",
+            "url": "https://www.newscientist.com/article/mg24532673-400-fast-action-will-be-key-to-containing-new-coronavirus-from-china/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/01/29120053/gettyimages-1195620083.jpg",
+            "publishedAt": "2020-01-29T18:00:00Z",
+            "content": "STR/AFP via Getty\r\nA DEADLY new virus is spreading rapidly around the world. In a matter of weeks, we have seen almost 3000 people infected across at least 12 countries, and more than 80 deaths. But epidemiologists are warning that it has the potential to spr\u2026 [+1974 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Debora MacKenzie",
+            "title": "New coronavirus looks set to cause a pandemic \u2013 how do we control it?",
+            "description": "The new coronavirus looks set to go global as case numbers rise, but the variable way it seems to be spreading offers hope for keeping it under control",
+            "url": "https://www.newscientist.com/article/2231864-new-coronavirus-looks-set-to-cause-a-pandemic-how-do-we-control-it/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/01/29133853/nejmoa2001017_f3_web.jpg",
+            "publishedAt": "2020-01-29T13:47:43Z",
+            "content": "By Debora MacKenzie\r\nThe new coronavirus, as imaged by an electron microscope\r\nZhu et al/NEJM \u00a9 2020, Massachusetts Medical Society\r\nThe new coronavirus may be about to go global. Speaking at a press conference earlier this week, Gabriel Leung of the Universi\u2026 [+3672 chars]"
+        }
+    ]
+}

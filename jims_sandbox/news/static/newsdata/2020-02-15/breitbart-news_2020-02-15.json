@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Breitbart London",
+            "title": "France Confirms First Coronavirus Death Beyond Asia",
+            "description": "Patient \"deteriorated rapidly\" after several days in a critical condition. Six people with the virus remain in hospital in France.",
+            "url": "https://www.breitbart.com/europe/2020/02/15/france-confirms-first-coronavirus-death-beyond-asia/",
+            "urlToImage": "https://media.breitbart.com/media/2017/09/Operation-Sentinel.png",
+            "publishedAt": "2020-02-15T17:26:25Z",
+            "content": "(AFP) \u2014 An 80-year-old Chinese tourist has died from the new coronavirus in France, the first death confirmed outside of Asia, French Health Minister Agnes Buzyn said on Saturday.\r\nBuzyn said she had been told about the death of the patient \u2014 in hospital in P\u2026 [+2188 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Ben Kew",
+            "title": "Face Masks, Hand Sanitizer Become Hong Kong\u2019s Most Wanted Valentine\u2019s Day Gifts",
+            "description": "Many couples around China and other parts of Asia were forced on Friday to get creative with their Valentine's Day after being separated by efforts to contain the ongoing outbreak of coronavirus.",
+            "url": "https://www.breitbart.com/national-security/2020/02/15/valentines-day-creative-ideas-china-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1200669301-640x335.jpg",
+            "publishedAt": "2020-02-15T17:06:58Z",
+            "content": "Many couples around China and other parts of Asia were forced on Friday to get creative with their Valentine\u2019s Day after being separated by efforts to contain the ongoing outbreak of coronavirus.\r\nThe South China Morning Postreported that on the Chinese socia\u2026 [+2716 chars]"
+        }
+    ]
+}

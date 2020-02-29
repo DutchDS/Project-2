@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Sony Drops PAX East Over Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-19/sony-drops-pax-east-over-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T23:15:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China's Coronavirus Death Toll Hits 2,000",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-19/china-s-coronavirus-death-toll-hits-2-000-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T00:27:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus: Its Similarities and Differences to SARS",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-19/coronavirus-its-similarities-and-differences-to-sars-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T19:31:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Markets May Panic When Reality Of Coronavirus Hits Home (Radio)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-19/markets-may-panic-when-reality-of-coronavirus-hits-home-radio",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T16:19:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Uncertainty Not Risk for Markets, Says Legal & General's Roe",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-19/coronavirus-uncertainty-not-risk-for-markets-says-legal-general-s-roe-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T19:50:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Says Coronavirus Death Toll Rises to 2,004",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-19/china-says-coronavirus-death-toll-rises-to-2-004-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T01:55:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Iran Says Two Test Positive in First Coronavirus Cases",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-19/iran-says-two-test-positive-in-first-coronavirus-cases",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T10:47:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China's Coronavirus Death Toll Hits 2,000, New Infections Stabilizing",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-19/china-s-coronavirus-death-toll-hits-2-000-new-infections-stabilizing-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T09:32:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Chinese Companies Struggle to Pay Workers Amid Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-19/chinese-companies-struggle-to-pay-workers-amid-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T14:29:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Gearoid Reidy",
+            "title": "As Cases Mount, Japan Is Rapidly Becoming a Coronavirus Hotbed",
+            "description": "As Cases Mount, Japan Is Rapidly Becoming a Coronavirus Hotbed bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-19/as-cases-mount-japan-is-rapidly-becoming-a-coronavirus-hotbed",
+            "urlToImage": null,
+            "publishedAt": "2020-02-19T11:06:17Z",
+            "content": null
+        }
+    ]
+}

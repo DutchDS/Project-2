@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Debora MacKenzie",
+            "title": "Why coronavirus superspreaders may mean we avoid a deadly pandemic",
+            "description": "The covid-19 virus may mostly be transmitted by superspreaders, which means it might be easier to contain the outbreak and prevent it going pandemic",
+            "url": "https://www.newscientist.com/article/2234388-why-coronavirus-superspreaders-may-mean-we-avoid-a-deadly-pandemic/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/18175744/pa-50385449.jpg",
+            "publishedAt": "2020-02-18T18:01:59Z",
+            "content": "By Debora MacKenzie\r\nMedical imaging is being used to\u00a0work out how the coronavirus affects the body\r\nFeng Dapeng/Xinhua News Agency/PA Images\r\nFor yet another week, covid-19, the disease caused by the new coronavirus, has remained poised\u00a0just short of becomin\u2026 [+381 chars]"
+        }
+    ]
+}

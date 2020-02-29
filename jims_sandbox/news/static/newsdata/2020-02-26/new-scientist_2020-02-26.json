@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Debora MacKenzie",
+            "title": "Covid-19: Why won't the WHO officially declare a coronavirus pandemic?",
+            "description": "With outbreaks in multiple countries, the new coronavirus looks like a pandemic, but the World Health Organization won't declare one because governments may react in the wrong way",
+            "url": "https://www.newscientist.com/article/2235342-covid-19-why-wont-the-who-officially-declare-a-coronavirus-pandemic/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/26123046/gettyimages-1203052760_web.jpg",
+            "publishedAt": "2020-02-26T12:42:44Z",
+            "content": "By Debora MacKenzie\r\nPassengers arriving from Italy at Debrecen International Airport, Hungary, are being screened for signs of covid-19\r\nAkos Stiller/Bloomberg via Getty Images\r\nPrepare for a pandemic, says the World Health Organization, as the global spread\u2026 [+4613 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "",
+            "title": "Coronavirus is a pandemic in all but name as the infection goes global",
+            "description": "With outbreaks of covid-19 hitting Italy, Iran and South Korea, the World Health Organization's reluctance to label the spread of the virus a pandemic seems odd",
+            "url": "https://www.newscientist.com/article/mg24532713-000-coronavirus-is-a-pandemic-in-all-but-name-as-the-infection-goes-global/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/26172811/gettyimages-1203050590_web.jpg",
+            "publishedAt": "2020-02-26T18:00:00Z",
+            "content": "Akos Stiller/Bloomberg via Getty Images\r\nWILL the coronavirus outbreak become a pandemic? It is increasingly looking like it won\u2019t but only in name. At a press briefing on 25 February, the head of the World Health Organization (WHO), Tedros Ghebreyesus, expre\u2026 [+323 chars]"
+        }
+    ]
+}

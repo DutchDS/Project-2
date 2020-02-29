@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus update: U.S. health officials prepare for spread at home",
+            "description": "Health officials appear to think the coronavirus will soon spread through communities in the United States.The Centers for Disease Control and Prevention says it's preparing medical personnel on how to contain the spread of the flu-like illness. So far, 34 co\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-update-us-health-officials-prepare-for-spread-at-home/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/22/8e16f51f-606d-4e9f-8061-657b65b47402/thumbnail/1200x630/756526122801e97e0044589951613766/0222-satmo-coronaviruslatest-patta-2032928-640x360.jpg",
+            "publishedAt": "2020-02-22T12:51:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Battle against coronavirus in the U.S. intensifies",
+            "description": "The CDC said it's working with state and local health officials on how to respond to coronavirus. It has already infected thousands. Carter Evans has the latest.",
+            "url": "https://www.cbsnews.com/video/battle-against-coronavirus-in-the-u-s-intensifies/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/22/35bee98a-cf00-457c-8ee6-84094c7d4155/thumbnail/1200x630/4f4da4a015dd8eae2f4d82b7133ef4df/0221-en-coronavirus-evans-2032530-640x360.jpg",
+            "publishedAt": "2020-02-22T00:17:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Battle against coronavirus in the U.S. intensifies",
+            "description": "The CDC said it's working with state and local health officials on how to respond to coronavirus. It has already infected thousands. Carter Evans has the latest.",
+            "url": "https://www.cbsnews.com/video/battle-against-coronavirus-in-the-us-intensifies/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/22/35bee98a-cf00-457c-8ee6-84094c7d4155/thumbnail/1200x630/4f4da4a015dd8eae2f4d82b7133ef4df/0221-en-coronavirus-evans-2032530-640x360.jpg",
+            "publishedAt": "2020-02-22T00:32:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "South Korea reports an eight-fold jump in viral infections",
+            "description": "Most of them are linked to a church and a hospital in and around the nation's fourth-largest city.",
+            "url": "https://www.cbsnews.com/news/south-korea-reports-an-eight-fold-jump-in-viral-infections-2020-02-22/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/22/7e01775b-204f-429c-bb13-66bef397d918/thumbnail/1200x630g6/cb5754a3ca74110011a60773af033a55/gettyimages-1207951667.jpg",
+            "publishedAt": "2020-02-22T14:52:58Z",
+            "content": "South Korea on Saturday reported an eight-fold jump in viral infections in four days to 433, most of them linked to a church and a hospital in and around the nation's fourth-largest city, where health workers scrambled to screen thousands of worshippers. \r\nTh\u2026 [+3466 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Judge allows California city to block transfer of coronavirus patients",
+            "description": "The biggest concern was the lack of information, said Costa Mesa fire chief Dan Stefano.",
+            "url": "https://www.cbsnews.com/news/coronavirus-judge-allows-costa-mesa-to-block-transfer-of-patients-to-the-california-city-2020-02-22/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/22/1bbe7abe-05f2-40c8-90a2-775177e304b1/thumbnail/1200x630/a95225496ef9b2c6de209cbbc7eff5d8/costamesa.png",
+            "publishedAt": "2020-02-22T16:05:15Z",
+            "content": "Costa Mesa, California\u00a0\u2013 A federal judge on Friday allowed Costa Mesa to block the transfer of coronavirus patients to the California city,\u00a0CBS Los Angeles reports. The judge granted the city's temporary restraining order requesting to block as many as 50 con\u2026 [+2404 chars]"
+        }
+    ]
+}

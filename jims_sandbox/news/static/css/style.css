@@ -1,0 +1,25 @@
+/* html {opacity: 70%} */
+body { 
+    background-image: url("https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/322/322223/herpesvirus-in-purple.jpg?w=1155&h=1541");
+    background-color: rgba(255,255,255,0.4);
+    background-blend-mode: lighten;
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;   */
+    background-size: cover;
+    /* background-blend-mode: soft-light; */
+}
+
+
+.card { 
+    background-color: rgb(14, 23, 61); 
+    color:whitesmoke; 
+    border: 2px solid whitesmoke;}
+
+.jumbotron { background-color: rgb(14, 23, 61); padding: 5px; }
+
+.text-center {padding: 2px; margin: 2px;}
+
+h1, h2, h3, h4, h5, h6, tr {color: whitesmoke;}
+
+i {color: whitesmoke;}

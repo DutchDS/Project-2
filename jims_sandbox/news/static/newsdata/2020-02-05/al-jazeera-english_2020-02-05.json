@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "How dangerous is the new coronavirus?",
+            "description": "Global alarm is mounting over a new type of coronavirus outbreak in China - how worried should you be?",
+            "url": "https://www.aljazeera.com/news/2020/02/dangerous-coronavirus-200205205234883.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/4/ac55203c5e35478db3714dce8e7f0b44_18.jpg",
+            "publishedAt": "2020-02-05T21:30:05Z",
+            "content": "The rapid spread of a new coronavirus in China has prompted global alarm, with Beijing's neighbours closing their borders, global airlines suspending flights, and some governments even barring entry to foreign nationals who have recently been in China.\u00a0\r\nThe \u2026 [+3602 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Deadly viral outbreaks that originated from animals",
+            "description": "How does the new coronavirus epidemic compare to other viral outbreaks from animal sources?",
+            "url": "https://www.aljazeera.com/indepth/interactive/2020/02/deadly-viral-outbreaks-originated-animals-200205173647803.html",
+            "urlToImage": null,
+            "publishedAt": "2020-02-05T20:53:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Adrian Brown",
+            "title": "Hong Kong prepares to quarantine people arriving from China",
+            "description": "Mandatory 14-day quarantine of all people arriving, over the coronavirus threat, will not begin until Saturday.",
+            "url": "https://www.aljazeera.com/news/2020/02/hong-kong-prepares-quarantine-arriving-china-200205164330432.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/5/image-20200205164332478.jpg",
+            "publishedAt": "2020-02-05T16:43:30Z",
+            "content": "A mandatory 14-day quarantine of all people arriving in Hong Kong, including its own citizens, from across the border, will not begin until Saturday.\r\nIt followed public pressure for authorities to close the border with China over the new coronavirus epidemic\u2026 [+60 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus hits Thai tourist industry as Chinese stay away",
+            "description": "Chinese tour groups have been banned from travelling abroad due to outbreak - and this has decimated Thailand's tourism industry.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-hits-thai-tourist-industry-chinese-stay-200205083452254.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/5/image-20200205083454052.jpg",
+            "publishedAt": "2020-02-05T08:34:52Z",
+            "content": "Since the coronavirus outbreak started, the number of visitors from China travelling to Thailand has plummeted, hitting its tourism-dependent economy badly.\r\nChina accounts for the bulk of Thailand's visitors and Chinese tour groups have been banned from goin\u2026 [+155 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Samira Sawlani",
+            "title": "African students trapped in coronavirus-hit Wuhan plead for help",
+            "description": "Stuck in epicentre of viral outbreak, young people from Africa urge their governments to evacuate them.",
+            "url": "https://www.aljazeera.com/news/2020/02/african-students-trapped-coronavirus-hit-wuhan-plead-200204082319647.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/4/0faeaaa361e343cfa28fcea758202e55_18.jpg",
+            "publishedAt": "2020-02-05T07:39:31Z",
+            "content": "Getting out of bed is hard for Thomas Kanzira.\r\n\"You wake up every morning and realise you are trapped,\" he says. \"You keep checking your temperature - you can't help but wonder if you are infected but just have not started showing symptoms.\"\r\nMore:\r\nKanzira,\u2026 [+6478 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Michael Standaert",
+            "title": "China races to build more hospitals as coronavirus outbreak grows",
+            "description": "Construction is taking place away from media glare for fear of alarming nearby residents who fear spread of infection.",
+            "url": "https://www.aljazeera.com/news/2020/02/china-races-build-hospitals-coronavirus-outbreak-grows-200205033913557.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/5/734843d4e8cc430f988f499f1bc8eb26_18.jpg",
+            "publishedAt": "2020-02-05T06:40:25Z",
+            "content": "Authorities in China have glorified the rush to build two infectious disease hospitals in a matter of days at the epicentre of the coronavirus outbreak that has now claimed at least 490 lives on the mainland, with live streams showing the construction and the\u2026 [+5916 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "10 people on quarantined ship in Japan confirmed with coronavirus",
+            "description": "Thousands are quarantined on board the Diamond Princess off Yokohama as officials carry out tests for the deadly virus.",
+            "url": "https://www.aljazeera.com/news/2020/02/10-people-quarantined-ship-japan-confirmed-coronavirus-200205024647309.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/5/2bb54a63270d474597c2c81ce9411fe7_18.jpg",
+            "publishedAt": "2020-02-05T03:36:15Z",
+            "content": "Ten people on a cruise ship moored in Japan's port of Yokohama have tested positive for coronavirus, authorities in Tokyo announced on Wednesday, a figure that could rise as more results come in from the 3,700 passengers and crew.\r\nThe 10 infected people will\u2026 [+2323 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kate Walton",
+            "title": "'Overreaction': China students stuck as Australia closes border",
+            "description": "A ban on non-citizens travelling from or through China is leading to chaos in Australia\u00e2\u20ac\u2122s university sector.",
+            "url": "https://www.aljazeera.com/news/2020/02/china-students-stuck-australia-closes-border-200205012909404.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/5/57ea944c61f64fc393aa3f3c47c3488f_18.jpg",
+            "publishedAt": "2020-02-05T02:40:21Z",
+            "content": "Canberra, Australia - More than half the Chinese students enrolled in Australian universities have found themselves stranded in their home country with a new academic year looming after the Australian government imposed a travel ban in response to the coronav\u2026 [+6579 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China coronavirus outbreak: All the latest updates",
+            "description": "Tuesday's deaths were all in Hubei, but new infections are being confirmed across China and overseas.",
+            "url": "https://www.aljazeera.com/news/2020/02/china-coronavirus-outbreak-latest-updates-200204233943034.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/4/2f90aef15c6d41489f854f7bc566dac6_18.jpg",
+            "publishedAt": "2020-02-05T01:15:42Z",
+            "content": "The death toll from the\u00a0coronavirus\u00a0outbreak in\u00a0China\u00a0rose to 490 as of Tuesday, after Hubei, the province where the virus is thought to have originated, reported 65 people had died from the\u00a0flu-like infection.\r\nChina's National Health Commission said on Wedn\u2026 [+2650 chars]"
+        }
+    ]
+}

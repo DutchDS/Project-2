@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Brianna Abbott",
+            "title": "Cities Stretching to Monitor Thousands of Self-Quarantined Americans...",
+            "description": "Cities Stretching to Monitor Thousands of Self-Quarantined Americans... (Second column, 11th story, link ) Related stories: VIRUS: World Closes Doors to China... Russia bans citizens... Beijing Turns to Health Apps for Tracking... 'I Was So Scared': Infectiou\u2026",
+            "url": "https://www.wsj.com/articles/coronavirus-has-u-s-cities-stretching-to-monitor-self-quarantined-americans-11582108203",
+            "urlToImage": "https://images.wsj.net/im-155326/social",
+            "publishedAt": "2020-02-19T12:10:38Z",
+            "content": "Public-health officials in the U.S. are striving to keep tabs on thousands of Americans who have quarantined themselves at home after returning from mainland China to curtail the new coronavirus, adding to an epidemic response that is straining already-stretc\u2026 [+279 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Suryatapa Bhattacharya",
+            "title": "'I Was So Scared': Infectious Disease Doctor's Day on Coronavirus Cruise Ship...",
+            "description": "'I Was So Scared': Infectious Disease Doctor's Day on Coronavirus Cruise Ship... (Second column, 12th story, link ) Related stories: VIRUS: World Closes Doors to China... Russia bans citizens... Beijing Detains Activist Who Accused Xi of Cover-Up... Turns to \u2026",
+            "url": "https://www.wsj.com/articles/coronavirus-quarantine-on-cruise-ship-ends-healthy-passengers-cleared-to-leave-11582088083",
+            "urlToImage": "https://images.wsj.net/im-155611/social",
+            "publishedAt": "2020-02-19T11:52:38Z",
+            "content": "TOKYOA Kobe University doctor touched off a furor with a firsthand account of a virus-stricken cruise ship in which he accused Japan of doing a worse job protecting people than African nations and China.\r\nKentaro Iwata, who made the allegations in widely circ\u2026 [+243 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Liza Lin",
+            "title": "Turns to Health Apps for Tracking...",
+            "description": "Turns to Health Apps for Tracking... (Second column, 11th story, link ) Related stories: VIRUS: World Closes Doors to China... Russia bans citizens... Beijing Detains Activist Who Accused Xi of Cover-Up... Senior doctor dies as authorities 'round up' patients\u2026",
+            "url": "https://www.wsj.com/articles/china-turns-to-health-rating-apps-to-control-movements-during-coronavirus-outbreak-11582046508",
+            "urlToImage": "https://images.wsj.net/im-155193/social",
+            "publishedAt": "2020-02-19T02:19:39Z",
+            "content": "Chinas technology titans are deploying health-rating systems to help authorities track the movement of millions of Chinese who are preparing to resume work at factories and other businesses, adding a new and controversial tool in the countrys battle to contai\u2026 [+268 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Joe Wallace",
+            "title": "Global Stocks Rise as China Pledges to Support Businesses - The Wall Street Journal",
+            "description": "Global Stocks Rise as China Pledges to Support Businesses The Wall Street Journal Stock market news live: Dow falls again after Apple warns of coronavirus, Nasdaq closes barely in the green Yahoo Finance Five Things You Need to Know to Start Your Day Bloomber\u2026",
+            "url": "https://www.wsj.com/articles/global-stocks-rise-as-china-pledges-to-support-businesses-11582108262",
+            "urlToImage": "https://images.wsj.net/im-155612/social",
+            "publishedAt": "2020-02-19T11:50:00Z",
+            "content": "Global stocks rose on Wednesday after China launched fresh measures to support local businesses that are struggling because of the coronavirus outbreak.\r\nFutures tied to the Dow Jones Industrial Average edged 0.2% higher, signaling an end to three consecutive\u2026 [+179 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "China revokes press credentials of three Wall Street Journal reporters",
+            "description": "China has ordered Deputy Bureau Chief Josh Chin and reporter Chao Deng, both U.S. nationals, as well as reporter Philip Wen, an Australian national, have been to leave the country in five days.",
+            "url": "https://www.wsj.com/articles/china-expels-three-wall-street-journal-reporters-11582100355?mod=djemalertNEWS",
+            "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-IA447_beijin_ZG_20200218124919.jpg",
+            "publishedAt": "2020-02-19T09:16:50Z",
+            "content": "China revoked the press credentials of three Wall Street Journal journalists based in Beijing, a rare expulsion of multiple reporters with the same international news organization at the same time.\r\nChinas Foreign Ministry said the move was punishment for a r\u2026 [+516 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Doug Cameron , Andy Pasztor",
+            "title": "Debris found in fuel tanks of some undelivered Boeing 737 Max jets",
+            "description": "Boeing Co. said Tuesday that it had found debris in the fuel tanks of undelivered 737 Max jetliners, the latest setback in the plane maker\u2019s efforts to address quality control problems.",
+            "url": "https://www.wsj.com/articles/boeing-finds-debris-in-fuel-tanks-of-undelivered-max-jets-11582069784",
+            "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-HG347_boeing_ZG_20190325172114.jpg",
+            "publishedAt": "2020-02-19T02:15:49Z",
+            "content": "Boeing Co. said Tuesday that it had found debris in the fuel tanks of undelivered 737 Max jetliners, the latest setback in the plane makers efforts to address quality control problems.\r\nThe debris was found in an undisclosed number of jets parked at facilitie\u2026 [+911 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "How Doctors Stay Safe Battling Coronavirus",
+            "description": "Healthcare workers who treat the new coronavirus wear personal protective equipment, or PPE, designed to prevent exposure to infectious materials. Here\u2019s how the equipment works, and why it's crucial in the battle against the epidemic. Photo: Getty Images",
+            "url": "https://www.wsj.com/video/how-doctors-stay-safe-battling-coronavirus/1EC32937-00FA-497E-ABB8-8A72B4FBED20.html",
+            "urlToImage": "http://m.wsj.net/video/20200219/021920coronagear/021920coronagear_1280x720.jpg",
+            "publishedAt": "2020-02-19T13:30:20Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Passengers Disembark From Quarantined Diamond Princess Cruise Ship",
+            "description": "After a two-week quarantine, some passengers on the Diamond Princess cruise ship in Yokohama, Japan, have disembarked. Passengers who tested negative for coronavirus but shared cabins with infected patients have to remain on board. Photo: Kyodo/Reuters",
+            "url": "https://www.wsj.com/video/passengers-disembark-from-quarantined-diamond-princess-cruise-ship/958D7D98-86DA-493D-A672-7293B04C5578.html",
+            "urlToImage": "http://m.wsj.net/video/20200219/190220cruisedisembark1/190220cruisedisembark1_1280x720.jpg",
+            "publishedAt": "2020-02-19T11:18:50Z",
+            "content": "Buttigieg on Investing in Climate Change Solutions\r\n2/16/2020At the Moving America Forward forum in Las Vegas on Sunday, Pete Buttigieg, the former mayor of South Bend, Ind., said local governments cannot be expected to deal with the effects of climate change\u2026 [+105 chars]"
+        }
+    ]
+}

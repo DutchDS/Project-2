@@ -1,0 +1,435 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Officials investigate mysterious coronavirus case",
+            "description": "Health officials are urgently trying to track down everyone who came in contact with the most recent U.S. coronavirus patient in California. Carter Evans reports.",
+            "url": "https://www.cbsnews.com/video/officials-investigate-mysterious-coronavirus-case/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/27/3d49a6e2-9260-4ebc-97b4-e561e5ddc88b/thumbnail/1200x630/d44ad0ffd06e121adebc56ac28b75192/0227-en-coronacali-evans-2036561-640x360.jpg",
+            "publishedAt": "2020-02-27T23:48:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. stock market drops amid coronavirus fears",
+            "description": "As Coronavirus cases spread throughout the world, the fear and uncertainty is taking a drastic toll on the financial markets. Meg Oliver reports.",
+            "url": "https://www.cbsnews.com/video/u-s-stock-market-drops-amid-coronavirus-fears/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/f950eb04-5d00-40fc-88f4-42aff3dc65fd/thumbnail/1200x630/303d727b3178d829ad6a69951e8a2106/0227-en-coronawallstreet-oliver-2036552-640x360.jpg",
+            "publishedAt": "2020-02-27T23:48:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Answering common questions about the coronavirus",
+            "description": "CBS Chief Medical Correspondent Dr. Jon LaPook joined the \"CBS Evening News\" to answer frequently asked questions regarding the coronavirus.",
+            "url": "https://www.cbsnews.com/video/answering-common-questions-about-the-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/46736bab-e8e5-4233-8cef-a1f067da6c8c/thumbnail/1200x630/1b480dc06462689b14f616304cf49aaa/0227-en-coronafaq-lapook-2036568-640x360.jpg",
+            "publishedAt": "2020-02-27T23:49:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "christina capatides",
+            "title": "The No. 1 way to prevent coronavirus isn't wearing a face mask",
+            "description": "Coronavirus masks are expensive, they only last a few hours \u2013 and they may not even help.",
+            "url": "https://www.cbsnews.com/news/coronavirus-prevention-face-mask-not-helpful-wash-hands/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/f0f844dd-54e3-4644-92ee-987d18154cdb/thumbnail/1200x630g2/6559cfd89d04ac2297c1d039f791744a/gettyimages-1203705302.jpg",
+            "publishedAt": "2020-02-27T21:47:27Z",
+            "content": "As fears over the coronavirus outbreak spread, thousands of Americans are clamoring to buy face masks in an effort to protect themselves, sending prices soaring and leading manufacturers like 3M to ramp up production. However, experts say stocking up on face \u2026 [+6138 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/26/20: Red and Blue",
+            "description": "Pres. Trump addresses nation on coronavirus fears; Getting 2020 candidate emails in your inbox",
+            "url": "https://www.cbsnews.com/video/cbsn-live-streaming-video-red-and-blue-coronavirus-outbreak-president-trump-race-to-2020-2020-candidates-nation-fears/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/27/82389e41-2f43-4b5f-84c7-1fd562c06014/thumbnail/1200x630/60f0327e25d243db018ab651387663dd/0115-red-and-blue-full-2035990-640x360.jpg",
+            "publishedAt": "2020-02-27T03:17:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/26/20: CBSN Evening News",
+            "description": "Pres. Trump: Coronavirus risk to U.S. remains low; Female wrestlers make history in Kansas",
+            "url": "https://www.cbsnews.com/video/22620-cbsn-evening-news/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/b656d2d1-5e96-410c-b927-4dc14864971a/thumbnail/1200x630/6f41c5e735004b3b0f72e89dae3a409d/0226-cbsn-full-2036006-640x360.jpg",
+            "publishedAt": "2020-02-27T03:29:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump addresses coronavirus threat to U.S.",
+            "description": "President Trump is outlining plans for dealing with the coronavirus threat after his administration sent mixed signals this week. Cases worldwide are now top 80,000 with more than 2,700 deaths. Paula Reid reports.",
+            "url": "https://www.cbsnews.com/video/trump-addresses-coronavirus-threat-to-u-s/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/68b0c47e-bfce-418d-920d-d9a49e5092e3/thumbnail/1200x630/9f3bc16800d2bd0e68affb6e6ed77c79/0226-en-trumpadresscoronavirus-reid-7pm-2035903-640x360.jpg",
+            "publishedAt": "2020-02-27T00:26:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Whistleblower: U.S. workers on coronavirus lacked training",
+            "description": "A senior staffer at Health and Human Services said a government team sent to help process American coronavirus evacuees didn't have the training or equipment for the assignment, the Washington Post reported.",
+            "url": "https://www.cbsnews.com/news/coronavirus-whistleblower-us-health-workers-who-had-contact-quarantined-americans-lacked-training-and-gear/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/400f3d66-bcb6-49bc-ad1e-6e3ba4381c18/thumbnail/1200x630/0957b857dce0e860e5d54895c68e6778/0227-cbsn-coronavirus-2036202-640x360.jpg",
+            "publishedAt": "2020-02-27T23:56:53Z",
+            "content": "Health and Human Services Secretary Alex Azar denied a whistleblower's accusation that agency employees detailed to aid with the handling of quarantined American evacuees from Wuhan, China, where the coronavirus originated, lacked both training and protective\u2026 [+2873 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Latest California coronavirus case raises alarm bells",
+            "description": "California health officials are raising alarm over the first possible U.S. coronavirus case with no links to worldwide travel. The case is one of 60 known cases in the U.S. and over 82,000 cases worldwide. Across the world, Saudi Arabia closed all its major I\u2026",
+            "url": "https://www.cbsnews.com/video/latest-california-coronavirus-case-raises-alarm-bells/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/27/f9d40bbc-9575-4eb5-aa8f-24ff340f35f8/thumbnail/1200x630/dcd093f5c3881050fea6de3f8480f8a6/0227-ctm-coronavirususspread-evans-2036117-640x360.jpg",
+            "publishedAt": "2020-02-27T12:56:57Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump frustrated by CDC's coronavirus severity warning",
+            "description": "President Trump\u2019s Wednesday coronavirus press conference marked his second-ever appearance in the White House briefing room. Flanked by administration health and CDC officials, he tried to reassure Americans that the situation was contained even as the CDC wa\u2026",
+            "url": "https://www.cbsnews.com/video/trump-frustrated-by-cdcs-coronavirus-severity-warning/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/27/9fd5254c-9447-46a5-961d-37b772c3dcf8/thumbnail/1200x630/eed3153bbe0d2b39d5d6fb912e57da16/0227-ctm-coronavirustrump-reid-2036059-640x360.jpg",
+            "publishedAt": "2020-02-27T12:22:59Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Separating fact vs. fiction during global coronavirus outbreak",
+            "description": "As the coronavirus spreads worldwide, there is a lot of misinformation surrounding the outbreak. Dr. Max Gomez offers his insights to CBSN New York.",
+            "url": "https://www.cbsnews.com/video/fact-fiction-debunking-myths-about-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/5ca3a351-43c4-43ea-a7ef-653a013271ed/thumbnail/1200x630/5aa4c5cd3d4418a5c215c0d2fde4e3cf/cbsn-fusion-fact-fiction-debunking-myths-about-coronavirus-thumbnail-450945-640x360.jpg",
+            "publishedAt": "2020-02-27T03:56:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "Who's in charge of the White House's coronavirus response?",
+            "description": "Three people are tasked with leading the administration's response, and their exact roles are unclear.",
+            "url": "https://www.cbsnews.com/news/whos-in-charge-of-the-trump-administrations-coronavirus-response-2020-02-27/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/07/01/47b9efa4-c0eb-403b-9adb-66d0ab75ae43/thumbnail/1200x630g2/3add7b7bb15a057331c50b399a732144/ap-19182768057124.jpg",
+            "publishedAt": "2020-02-27T21:09:23Z",
+            "content": "President Trump tapped Health and Human Services Secretary Alex Azar in January to head up the coronavirus response task force. \u00a0Then, after the White House repeatedly denied reporting that he might select a coronavirus \"czar,\" the president announced in a We\u2026 [+3188 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Dow falls more than 500 points on coronavirus concerns",
+            "description": "Investors fear broader impact from the disease, with some economists warning of a possible recession.",
+            "url": "https://www.cbsnews.com/news/coronavirus-stocks-down-for-sixth-day-amid-new-coronavirus-case-in-california/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/26/4a2e83b9-728d-4630-bd43-83ad3d95adde/thumbnail/1200x630/a7e9c714b485a6de254ec591a39cc13a/mask-coronavirus-2020-02-13t210013z.jpg",
+            "publishedAt": "2020-02-27T15:02:06Z",
+            "content": "<ul><li>Stocks are poised for a sixth day of losses amid fears of the widening coronavirus outbreak.</li><li>If the disease becomes a pandemic, the U.S. faces a higher risk of recession, economists say.</li><li>Microsoft became the second big tech company fol\u2026 [+2534 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "Trump taps Pence to head up coronavirus outbreak response",
+            "description": "The president said the $2.5 billion his administration has requested is a \"lot,\" but they'll spend \"whatever's appropriate.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-trump-pence-outbreak-epidemic-press-conference/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/637a1a45-5c39-44b2-984c-0d056b4918db/thumbnail/1200x630/e2447973dfdb28522c0b6183cc1e095f/gettyimages-1203531103.jpg",
+            "publishedAt": "2020-02-27T15:45:00Z",
+            "content": "Washington \u2014 President Trump announced Wednesday night that he's placing Vice President Mike Pence in charge of efforts to tackle the coronavirus, as the administration seeks to reassure the public and the markets amid the global\u00a0coronavirus outbreak. The pre\u2026 [+5132 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How the White House is responding to coronavirus concerns",
+            "description": "The CDC confirms the first possible U.S. case of coronavirus that may not be linked to global travel or close contact with another known infected person. The news came shortly after President Trump insisted that the risk to Americans is \"low\" and that his adm\u2026",
+            "url": "https://www.cbsnews.com/video/how-the-white-house-is-responding-to-coronavirus-concerns/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/27/f8cd5ef0-7cc1-4e0f-80a6-2acc68fa1ff6/thumbnail/1200x630/ef907522569fc69f11a97f187b11a196/0227-cbsn-trumpaddressescoronavirusconcerns-2036212-640x360.jpg",
+            "publishedAt": "2020-02-27T15:29:43Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Vice President Pence to lead U.S. coronavirus response",
+            "description": "President Trump appointed Vice President Mike Pence to oversee the U.S. response to the coronavirus. This comes as health officials warn Americans to prepare for the virus to spread in the U.S. CBS News White House correspondent Paula Reid joined CBSN AM with\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-pence-task-force-lead-us-response/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/8310c914-4aff-46c2-822d-c5d461f74320/thumbnail/1200x630/a99c16f640e46f7dfeeb5589134bc427/cbsn-fusion-stock-markets-tumble-as-president-trump-downplays-threat-of-coronavirus-thumbnail-451087-640x360.jpg",
+            "publishedAt": "2020-02-27T17:03:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "As coronavirus spreads, how to protect yourself from the outbreak",
+            "description": "Officials in California are pushing for more testing after a patient with no known travel connections tested positive for coronavirus. Johns Hopkins University professor of public health Dr. Marty Makary speaks with CBSN about why this virus seems more seriou\u2026",
+            "url": "https://www.cbsnews.com/video/as-coronavirus-spreads-how-to-protect-yourself-from-the-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/3cecfd5c-57b4-455a-a068-ae09aeb0b87d/thumbnail/1200x630/6345d42dd6ed90d5938fab9d7eff3992/0227-cbsn-rnb-cacoronaviruscase-2036547-640x360.jpg",
+            "publishedAt": "2020-02-27T23:48:18Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "The right way to wash your hands",
+            "description": "People around the world are clamoring to buy face masks amidst fears that the coronavirus will continue spreading, but washing your hands is actually the best way to prevent the spread of disease.",
+            "url": "https://www.cbsnews.com/video/the-right-way-to-wash-your-hands/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/3a6f2448-d4ff-4178-b9cb-1e6d1053faa9/thumbnail/1200x630/21bb77902eae5597f75c795edc0919f7/0227-cbsn-washyourhands-lapook-2036465-640x360.jpg",
+            "publishedAt": "2020-02-27T20:24:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus case with potential unknown origin in California",
+            "description": "The Centers for Disease Control and Prevention says a patient in California is the first U.S. case that apparently did not involve travel or close contact with a traveler. CBS News' Elise Preston joined CBSN AM with the latest on what President Trump and fede\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-case-with-potential-unknown-origin-in-california/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/400f3d66-bcb6-49bc-ad1e-6e3ba4381c18/thumbnail/1200x630/0957b857dce0e860e5d54895c68e6778/0227-cbsn-coronavirus-2036202-640x360.jpg",
+            "publishedAt": "2020-02-27T14:59:53Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: Trump taps Pence to lead U.S. coronavirus response",
+            "description": "President Trump announced that he will be appointing Vice President Mike Pence to lead the country\u2019s coronavirus response as a patient in California may be the first to contract the disease from unknown origins. Also, a mass shooting at a Molson Coors complex\u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-trump-taps-pence-to-lead-us-coronavirus-response/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/3e0a334c-1f6b-44d7-b568-3141966ddde2/thumbnail/1200x630/2ea2629ae4cc0dec5752a6defe70c463/0227-ctm-7ameyeopener-2036056-640x360.jpg",
+            "publishedAt": "2020-02-27T12:13:31Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Audrey McNamara",
+            "title": "CDC says to prepare for the coronavirus. How?",
+            "description": "\"We should plan as if a big storm was coming,\" said CBS News medical contributor Dr. David Agus.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-prepare-united-states/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/26/d6d37cd9-2667-415e-9433-658f8bf1748d/thumbnail/1200x630/d858f8c82ccfd12ae3ece7cd4eab1c16/gettyimages-1203461726.jpg",
+            "publishedAt": "2020-02-27T16:36:04Z",
+            "content": "The Centers for Disease Control and Prevention has said it is not a question of if but when the coronavirus\u00a0outbreak spreads in the United States. CDC officials urged Americans to \"prepare in the expectation that this could be bad.\"\r\nBut what exactly should y\u2026 [+4103 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sarah Lynch Baldwin",
+            "title": "How deadly is coronavirus and what are the symptoms?",
+            "description": "The CDC says COVID-19 symptoms can appear in as little as two days or as long as two weeks after initial exposure.",
+            "url": "https://www.cbsnews.com/news/coronavirus-symptoms-mortality-rate/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/5ca3a351-43c4-43ea-a7ef-653a013271ed/thumbnail/1200x630/5aa4c5cd3d4418a5c215c0d2fde4e3cf/cbsn-fusion-fact-fiction-debunking-myths-about-coronavirus-thumbnail-450945-640x360.jpg",
+            "publishedAt": "2020-02-27T19:28:45Z",
+            "content": "The new coronavirus that originated in China and spread to dozens of countries around the world has prompted a warning from health officials for Americans to prepare\u00a0for the possibility of a domestic outbreak. So far, there are only a handful of cases in the \u2026 [+5144 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Former Homeland Security official on U.S. coronavirus response",
+            "description": "As Homeland Security adviser to President George W. Bush, Fran Townsend helped create his administration\u2019s strategy to handle a potential flu pandemic. She joins \u201cCBS This Morning\u201d to weigh in on the current state of coronavirus preparations both at home and \u2026",
+            "url": "https://www.cbsnews.com/video/former-homeland-security-official-on-us-coronavirus-response/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/0302f920-7f8f-4821-be6b-2d551989f034/thumbnail/1200x630/f2cb2468010d0f73a373d99c41e94f2e/0227-ctm-townsendcvchat-townsend-2036069-640x360.jpg",
+            "publishedAt": "2020-02-27T12:23:36Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus quarantines could be \"new normal\" in U.S., medical expert says",
+            "description": "\"We're going to see a significant increase in the number of cases\" of coronavirus in the United States, says CBS News medical contributor Dr. David Agus. He joined CBSN's Vladimir Duthiers with more on the impact of the outbreak.",
+            "url": "https://www.cbsnews.com/video/coronavirus-quarantines-will-be-new-normal-in-us-cbs-news-medical-consultant-says/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/97767923-a603-4206-99d9-adadbbd128d3/thumbnail/1200x630/bb924bcbe575996fc796e706e9f225c6/cbsn-fusion-coronavirus-quarantines-will-be-new-normal-in-us-cbs-news-medical-consultant-says-thumbnail-451071.jpg",
+            "publishedAt": "2020-02-27T16:46:17Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump insists U.S. \"very ready\" as virus cases surge outside China",
+            "description": "President appeals for calm and puts Pence in charge of America's response as the WHO chief worries about mushrooming outbreaks in South Korea, Italy and Iran.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-27/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/0cfe932d-90de-4500-b599-170e15661315/thumbnail/1200x630/28b2070154313680289b69172fff7943/coronavirus-us-1208892068.jpg",
+            "publishedAt": "2020-02-27T10:32:26Z",
+            "content": "President Donald Trump has appealed for calm and put Vice President Mike Pence in charge of America's coronavirus response, insisting the country is \"very, very ready\" to tackle the deadly disease even if it starts to spread more widely inside the U.S.\u00a0 \r\nMr.\u2026 [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Danielle Garrand",
+            "title": "\"Contagion\" star Gwyneth Paltrow posts photo in face mask",
+            "description": "\"Paltrow's just going to go ahead and sleep with this thing on the plane,\" the actress said.",
+            "url": "https://www.cbsnews.com/news/gwyneth-paltrow-face-mask-on-plane-amid-coronavirus-outbreak-contagion-instagram/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/bfa34f86-b30d-46b2-b0b3-74012819aaed/thumbnail/1200x630/dad62520564f803b43741ffa52723e28/screen-shot-2020-02-26-at-5-54-46-pm.png",
+            "publishedAt": "2020-02-27T01:00:46Z",
+            "content": "Gwyneth Paltrow warned her followers about the new coronavirus on Instagram on Wednesday alongside a photo of her wearing a face mask while on a plane. She also made an apparent reference to her ill-fated character in the 2011 film \"Contagion.\"\r\n\"En route to \u2026 [+3554 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "As coronavirus spreads, U.S.-Korean military exercises are suspended and Japanese schools close",
+            "description": "As coronavirus continues to spread across Asia and elsewhere, public schools in Japan will be closed for more than a month and this summer's Tokyo Olympics are called into question. The U.S. and South Korea are also suspending military exercises indefinitely.\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-outbreak-continues-to-roil-asia-as-us-korean-military-exercises-are-suspended-and-japanese-schools-close/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/08/10/3102a9a6-d90c-4086-a984-1abe061746ba/thumbnail/1200x630/cb16e63b818055ab94b94871817dbcd6/news2.jpg",
+            "publishedAt": "2020-02-27T17:13:34Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump downplays coronavirus threat in U.S. while talking up administration's response",
+            "description": "In a press briefing Wednesday night, President Trump downplayed the threat of coronavirus in the U.S. amid growing fears. However, health officials said Americans should prepare for more cases. CBS News White House correspondent Paula Reid joined CBSN with th\u2026",
+            "url": "https://www.cbsnews.com/video/trump-downplays-coronavirus-threat-in-u-s-while-talking-up-administrations-response/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/cc361558-692d-40fe-8716-365ef435d597/thumbnail/1200x630/bf3b13a7388e12ddab3bb15a284ff83e/0227-cbsn-prestrumcorona-2036230-640x360.jpg",
+            "publishedAt": "2020-02-27T15:29:43Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Melissa Quinn",
+            "title": "Pelosi hits back at Trump over coronavirus response: \"Not a time for name-calling or playing politics\"",
+            "description": "House Leaders Nancy Pelosi and Kevin McCarthy called for bipartisanship...then quickly pivoted to attack their respective opposing parties.",
+            "url": "https://www.cbsnews.com/news/coronavirus-pelosi-trump-response/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/27/0e7e6dc9-17ca-4e56-b778-fe9fbc6b6ca6/thumbnail/1200x630/16f1d6bb1456b3f1067dfb02b3337ddb/gettyimages-1209062947.jpg",
+            "publishedAt": "2020-02-27T17:45:35Z",
+            "content": "House Speaker Nancy Pelosi fired back at President Trump on Thursday after he called her \"incompetent,\" urging bipartisanship before calling his administration's response to the coronavirus outbreak \"opaque and often chaotic.\"\r\n\"Lives are at stake,\" Pelosi sa\u2026 [+4197 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump downplays coronavirus threat in U.S. while talking up administration's response",
+            "description": "In a press briefing Wednesday night, President Trump downplayed the threat of coronavirus in the U.S. amid growing fears. However, health officials said Americans should prepare for more cases. CBS News White House correspondent Paula Reid joins CBSN with the\u2026",
+            "url": "https://www.cbsnews.com/video/trump-downplays-coronavirus-threat-in-america/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/27/cc361558-692d-40fe-8716-365ef435d597/thumbnail/1200x630/bf3b13a7388e12ddab3bb15a284ff83e/0227-cbsn-prestrumcorona-2036230-640x360.jpg",
+            "publishedAt": "2020-02-27T22:19:42Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "This week on \"Sunday Morning\" (March 1)",
+            "description": "A look at the features for this week's broadcast of the #1 Sunday morning news program",
+            "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-march-1-2020/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/27/ce631b76-f1d9-4ce6-be01-a9e981a04e3d/thumbnail/1200x630/607f65ef13b5840c883bf468f988ec16/paulina-porizkova-on-photo-shoot-for-harpers-bazaar-promo.jpg",
+            "publishedAt": "2020-02-27T19:26:13Z",
+            "content": "COVER STORY: Full disclosure \u2013 The complicated truth about secret settlementsIn the wake of widespread revelations about sexual harassment that have brought down dozens of powerful men (including Hollywood mogul Harvey Weinstein), the role of non-disclosure a\u2026 [+4496 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "Trump taps Pence to head up coronavirus outbreak response",
+            "description": "The president said the $2.5 billion his administration has requested is a \"lot,\" but they'll spend \"whatever's appropriate.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-trump-pence-outbreak-epidemic-press-conference/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/637a1a45-5c39-44b2-984c-0d056b4918db/thumbnail/1200x630/e2447973dfdb28522c0b6183cc1e095f/gettyimages-1203531103.jpg",
+            "publishedAt": "2020-02-27T15:45:00Z",
+            "content": "Washington \u2014 President Trump announced Wednesday night that he's placing Vice President Mike Pence in charge of efforts to tackle the coronavirus, as the administration seeks to reassure the public and the markets amid the global\u00a0coronavirus outbreak. The pre\u2026 [+5132 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS Radio News",
+            "title": "WORLD NEWS ROUNDUP: 02/27",
+            "description": "The first US case of coronavirus not directly linked to travel. Deadly brewery shooting in Milwaukee. Lori Laughlin's new legal maneuver. CBS News Correspondent Steve Kathan has today's World News Roundup.",
+            "url": "http://feeds.cbsnews.com/~r/podcast_icast_1/~3/243D4Jn6DPY/2746009.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T13:00:00Z",
+            "content": null
+        }
+    ]
+}

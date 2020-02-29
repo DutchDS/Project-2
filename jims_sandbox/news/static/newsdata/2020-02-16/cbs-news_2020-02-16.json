@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Melissa Quinn",
+            "title": "Dozens of Americans on cruise ship test positive for coronavirus",
+            "description": "American passengers on the Diamond Princess who do not test positive for the coronavirus will be evacuated to the United States.",
+            "url": "https://www.cbsnews.com/news/anthony-fauci-says-more-than-40-americans-on-quarantined-cruise-ship-test-positive-for-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/16/175043e2-cdf3-49d8-aaa4-86f6069be2fa/thumbnail/1200x630/6dd828e5d24d37a4f97923675b41f92d/2020-02-16t162151z-243937302-rc2s1f9iq2qj-rtrmadp-3-china-health-japan.jpg",
+            "publishedAt": "2020-02-16T16:34:14Z",
+            "content": "Washington \u2014 A top U.S. health official said Sunday that more than 40 Americans aboard a quarantined cruise ship in Japan have tested positive for the coronavirus.\"Forty of them have gotten infected,\" Dr. Anthony Fauci, director of the National Institute of A\u2026 [+2224 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/15: CBS Evening News",
+            "description": "U.S. to evacuate Americans quarantined on Japan cruise ship due to coronavirus; WWII vet surprised with thousands of Valentine's Day cards.",
+            "url": "https://www.cbsnews.com/video/021520-cbs-evening-news/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/16/2e615545-61cd-42ce-9895-42413a002aaf/thumbnail/1200x630/ac76991911fb283c479375a74febebb6/0215-en-full-2028122-640x360.jpg",
+            "publishedAt": "2020-02-16T00:54:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "More than 40 Americans on quarantined cruise ship test positive for coronavirus",
+            "description": "The National Institutes of Health's Dr. Anthony Fauci talks about the impact of coronavirus on the United States and the evacuation of Americans from a quarantined cruise ship in Japan.",
+            "url": "https://www.cbsnews.com/video/more-than-40-americans-on-quarantined-cruise-ship-test-positive-for-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/16/7693a6f5-466b-4556-aa1c-11189106eef3/thumbnail/1200x630/375a834e5194e04b16cf3e206011ebb2/0216-ftn-anthonyfucci-2028364-640x360.jpg",
+            "publishedAt": "2020-02-16T16:05:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/16: Face The Nation",
+            "description": "This week on \"Face the Nation,\" Senator Amy Klobuchar on her surprise finish in New Hampshire, and the latest on U.S. efforts to evacuate Americans from a quarantined cruise ship amid global fears of coronavirus.",
+            "url": "https://www.cbsnews.com/video/216-face-the-nation/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/16/4ce2bd84-67c0-4c0d-970e-a0ef008e85cf/thumbnail/1200x630/59c8eabf4f2e9a92db9839d28454e79e/0216-ftn-open-2028475-640x360.jpg",
+            "publishedAt": "2020-02-16T19:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. to evacuate Americans quarantined on Japan cruise ship due to coronavirus",
+            "description": "Aircraft will be used to evacuate Americans quarantined by the coronavirus on a cruise ship in Japan. The voluntary evacuations begin Sunday, even as the virus continues to spread on board. Worldwide, tens of thousands of cases have been confirmed and more th\u2026",
+            "url": "https://www.cbsnews.com/video/us-to-evacuate-americans-quarantined-on-japan-cruise-ship-due-to-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/15/19b7c2d7-3268-4ac3-b96e-4a112d9a8a7e/thumbnail/1200x630/cdc53c16ca3c23b36299803f493cea00/0215-en-outbreak-patta-2028048-640x360.jpg",
+            "publishedAt": "2020-02-16T00:21:03Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Americans quarantined on cruise ship in Japan begin returning home",
+            "description": "Dozens of Americans quarantined on a cruise ship in Japan who have not tested positive for the coronavirus are on their way home Sunday. They boarded two planes headed to Air Force bases in California and Florida. However, the situation on board the Diamond P\u2026",
+            "url": "https://www.cbsnews.com/video/americans-quarantined-on-cruise-ship-in-japan-begin-returning-home/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/16/306f36b5-22ca-4f3a-92e2-d5786c6ad8e6/thumbnail/1200x630/e760c55178979bd85ba113be6bd81ea3/0216-en-americansevacuated-patta-2028602-640x360.jpg",
+            "publishedAt": "2020-02-16T23:17:50Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Open: This is \"Face the Nation,\" February 16",
+            "description": "Today on \"Face the Nation,\" Senator Amy Klobuchar on her surprise finish in New Hampshire, and the latest on U.S. efforts to evacuate Americans from a quarantined cruise ship amid global fears of coronavirus.",
+            "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-february-16-1/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/16/ddcb1b61-c0f9-40ab-bc2c-ec634100cfe8/thumbnail/1200x630/04adb1b492d7aa796f8207eb81ac8f24/0216-ftn-open-2028353-640x360.jpg",
+            "publishedAt": "2020-02-16T15:50:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "\"Parasite\" director greeted by applause in return to South Korea",
+            "description": "Bong Joon Ho, who directed the first non-English-language\u200b film to win Best Picture, smiled and waved at a crowd as he arrived at Incheon International Airport.",
+            "url": "https://www.cbsnews.com/news/parasite-director-bong-joon-ho-greeted-by-applause-return-to-south-korea-2020-02-16/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/16/1f5369b8-0dd0-476a-84aa-dcf9c8771d71/thumbnail/1200x630/877de8677a10400c6f86ee3994f63b52/gettyimages-1201231714.jpg",
+            "publishedAt": "2020-02-16T23:21:10Z",
+            "content": "South Korean director Bong Joon Ho speaks to the media upon his arrival at Incheon airport, west of Seoul, on February 16, 2020, after his film \"Parasite\" won the Oscar for Best Picture.\r\nGetty\r\nDirector Bong Joon Ho smiled and waved at a waiting crowd Sunday\u2026 [+1499 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus quarantines sparks global fears over international impacts",
+            "description": "CBS News foreign correspondent Deborah Patta provides the latest on the deadly impacts of coronavirus overseas.",
+            "url": "https://www.cbsnews.com/video/coronavirus-quarantines-sparks-global-fears-over-international-impacts/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/16/af2b168c-688f-43ee-a743-292cc66bc0f2/thumbnail/1200x630/aad5ff1ca2b27aa240f9d3afd06e51b2/0216-ftn-patta-2028416-640x360.jpg",
+            "publishedAt": "2020-02-16T17:08:24Z",
+            "content": null
+        }
+    ]
+}

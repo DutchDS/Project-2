@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "As coronavirus death toll rises, China\u2019s Hubei province combines Western and traditional Chinese medicine - The Globe and Mail",
+            "description": "As coronavirus death toll rises, China\u2019s Hubei province combines Western and traditional Chinese medicine The Globe and Mail B.C., Ontario on \u2018high alert,\u2019 as first Vancouver-area case of coronavirus confirmed Toronto Star Coronavirus: Foreign Office warns ag\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-as-coronavirus-death-toll-rises-china-combines-western-and/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/u5_szaMMbCXoLrvsVybLYwO_oSc=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/RO2Z4JJ5M5G2ZCVB66CQCSFZWM.jpg",
+            "publishedAt": "2020-01-28T20:27:36Z",
+            "content": "Pharmacy workers wearing protective clothes and masks serve customers in Wuhan on Jan. 25, 2020.\r\nHECTOR RETAMAL/AFP/Getty Images\r\nAt the Liutianbao Pharmacy, one of the biggest dispensaries of traditional Chinese medicines in virus-stricken Wuhan, the shelve\u2026 [+7152 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "B.C. man presumed to have coronavirus recovering at home, health official says - The Globe and Mail",
+            "description": "B.C. man presumed to have coronavirus recovering at home, health official says The Globe and Mail View full coverage on Google News",
+            "url": "https://www.theglobeandmail.com/canada/article-bc-reports-first-presumptive-case-of-coronavirus-man-recovering-at/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/rmlwdhs8Zz4aqMF_qGgcvQ_UppM=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/TZ44YOQBVRGVHER34QY4S6PBVE.jpg",
+            "publishedAt": "2020-01-28T18:36:33Z",
+            "content": "B.C. Provincial health officer Dr. Bonnie Henry at a press conference in Victoria, Feb. 7, 2019. \r\nCHAD HIPOLITO/The Canadian Press\r\nBritish Columbia has recorded its first case of the novel coronavirus after a resident of the Vancouver region began developin\u2026 [+2356 chars]"
+        }
+    ]
+}

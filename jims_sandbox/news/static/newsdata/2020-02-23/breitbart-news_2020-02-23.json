@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Dr. Susan Berry",
+            "title": "Study: Two-Thirds of Coronavirus Cases from China Undetected Worldwide - Breitbart",
+            "description": "Results of a new study has found that approximately two-thirds of coronavirus cases from China continue to be undetected worldwide.",
+            "url": "https://www.breitbart.com/politics/2020/02/22/study-two-thirds-of-coronavirus-cases-from-china-undetected-worldwide/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/Coronavirus-in-China-640x335.jpg",
+            "publishedAt": "2020-02-23T03:54:00Z",
+            "content": "Results of a new study from the Imperial College London has found that approximately two-thirds of coronavirus cases from China continue to be undetected worldwide.\r\nThe study was led by researchers who collaborated with the U.N.s World Health Organization (W\u2026 [+2066 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Breitbart London",
+            "title": "Italy: Lockdowns Fail to Stop Surge in Coronavirus Cases.",
+            "description": "ROME (AP) - Italy's number of cases of the new coronavirus leapt upward, with dozens of new confirmed cases reported in Lombardy, the northern region which includes the country's financial capital, Milan.",
+            "url": "https://www.breitbart.com/europe/2020/02/23/italy-lockdowns-fail-stop-surge-coronavirus-cases/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/italy-coronavirus-640x335.png",
+            "publishedAt": "2020-02-23T11:21:26Z",
+            "content": "ROME (AP) \u2013 Italy\u2019s number of cases of the new coronavirus leapt upward, with dozens of new confirmed cases reported in Lombardy, the northern region which includes the country\u2019s financial capital, Milan.\r\nThe total number of confirmed COVID-19 cases in Italy\u2026 [+2215 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Breitbart London",
+            "title": "Coronavirus: Police Raids Across Moscow to Track Down Chinese Nationals",
+            "description": "MOSCOW (AP) -- Bus drivers in Moscow kept their WhatsApp group chat buzzing with questions this week about what to do if they spotted passengers who might be from China riding with them in the Russian capital.",
+            "url": "https://www.breitbart.com/europe/2020/02/23/coronavirus-police-raids-across-moscow-track-down-chinese-nationals/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/kremlin-640x335.png",
+            "publishedAt": "2020-02-23T10:14:58Z",
+            "content": "MOSCOW (AP) \u2014 Bus drivers in Moscow kept their WhatsApp group chat buzzing with questions this week about what to do if they spotted passengers who might be from China riding with them in the Russian capital.\r\n\u201cSome Asian-looking [people] have just got on. Pr\u2026 [+7693 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Breitbart Jerusalem",
+            "title": "Iran Reports Highest Coronavirus Death Toll Outside of China",
+            "description": "Iran's health ministry raised Sunday the death toll from the new virus to 8 people in the Middle Eastern country, amid concerns that...",
+            "url": "https://www.breitbart.com/middle-east/2020/02/23/iran-reports-highest-coronavirus-death-toll-outside-of-china/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1201967000-640x335.png",
+            "publishedAt": "2020-02-23T12:43:30Z",
+            "content": "(AP) \u2014 Irans health ministry raised Sunday the death toll from the new virus to 8 people in the Middle Eastern country, amid concerns that clusters there, as well as in Italy and South Korea, could signal a serious new stage in its global spread.\r\nHealth mini\u2026 [+2653 chars]"
+        }
+    ]
+}

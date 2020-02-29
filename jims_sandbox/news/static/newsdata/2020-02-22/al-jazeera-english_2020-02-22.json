@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus in Europe: Two deaths confirmed in Italy",
+            "description": "The coronavirus has now spread to eight countries in Europe, including Germany, France and the UK.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-europe-deaths-confirmed-italy-200222175859455.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/22/image-20200222175901525.jpg",
+            "publishedAt": "2020-02-22T17:58:59Z",
+            "content": "A second person in northern Italy has died after catching coronavirus.\r\nDoctors there are struggling to contain the spread.\r\nAl Jazeera's Catherine Stancl reports."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus outbreak: Ethiopia steps up prevention measures",
+            "description": "Ethiopia is bolstering preparedness to contain a possible outbreak of coronavirus.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-outbreak-ethiopia-steps-prevention-measures-200222105638378.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/22/image-20200222105640166.jpg",
+            "publishedAt": "2020-02-22T10:56:38Z",
+            "content": "Ethiopia has stepped up prevention measures to combat any potential outbreak of coronavirus.\r\nIts airline, the largest in Africa, is continuing daily flights to five destinations in China.\r\nAl Jazeera's Mohamed Vall reports from Addis Ababa, Ethiopia."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Is WHO mishandling the coronavirus response?",
+            "description": "Global health agency warns of 'narrowing' window to contain outbreak.",
+            "url": "https://www.aljazeera.com/programmes/insidestory/2020/02/mishandling-coronavirus-response-200222190201457.html",
+            "urlToImage": null,
+            "publishedAt": "2020-02-22T19:13:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus in South Korea: Nationwide cases of infection double",
+            "description": "The spread of the new coronavirus has intensified around the world, with the number of cases more than doubling to 433 in South Korea.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-south-korea-nationwide-cases-infection-double-200222170044227.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/22/image-20200222170046251.jpg",
+            "publishedAt": "2020-02-22T17:00:44Z",
+            "content": "The South Korean government is urgently sending medical support to its south, where much of those infected can be traced back to a church service.\r\nAl Jazeera's Rob McBride reports from Daegu, which has been declared a \"special care zone\"."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus epidemic: Wuhan residents ordered to remain indoors",
+            "description": "One month after Wuhan sealed off its borders. The city\u00e2\u20ac\u2122s millions of residents have been ordered to stay indoors.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-epidemic-wuhan-residents-ordered-remain-indoors-200222050246687.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/22/image-20200222050248571.jpg",
+            "publishedAt": "2020-02-22T05:02:46Z",
+            "content": "It has been nearly four weeks since Hubei province, the epicentre of the coronavirus outbreak, sealed its borders.\r\nStricter measures have now been\u00a0imposed by the Chinese government, which is determined to control the crisis that has brought the country to a \u2026 [+202 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus: International fears rise with deaths in Italy, Korea",
+            "description": "Five people have died in Iran while in South Korea a spike in new cases took the total number of infections to 433.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-international-fears-rise-deaths-italy-korea-200222071533301.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/22/0155d1395c394541af79e46d7c4a060a_18.jpg",
+            "publishedAt": "2020-02-22T11:06:10Z",
+            "content": "Fears have mounted over the rise of new cases and fatalities outside China from the new coronavirus outbreak, as the World Health Organization (WHO) warned of a shrinking window to stem the spread of the deadly disease.\r\nThe warning came as the first deaths\u00a0f\u2026 [+3772 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Andrew Nachemson",
+            "title": "Confusion in Cambodia amid questions over virus on cruise ship",
+            "description": "Malaysia declares woman from ship docked in Cambodia virus free amid anger over Hun Sen decision to welcome passengers.",
+            "url": "https://www.aljazeera.com/news/2020/02/confusion-cambodia-questions-virus-cruise-ship-200220122842242.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/14/2e2fcff0a48f40e4be70a027b77f0ad3_18.jpg",
+            "publishedAt": "2020-02-22T03:23:55Z",
+            "content": "Phnom Penh, Cambodia - Cambodia's Prime Minister Hun Sen is accustomed to scathing criticism from the international community for his human rights record.\r\nBut last week, he was widely praised when he welcomed a cruise liner that had been stranded at sea for \u2026 [+6381 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Conservatives make early gains in Iran parliamentary election",
+            "description": "Partial results announced by the interior ministry indicate conservative hardliners ahead in parliamentary race.",
+            "url": "https://www.aljazeera.com/news/2020/02/conservatives-early-gains-iran-parliamentary-election-200222103305599.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/22/8cf813a436a247dcbd66fca595c979bb_18.jpg",
+            "publishedAt": "2020-02-22T12:17:18Z",
+            "content": "Iran has started counting votes a day after its parliamentary election in which conservative allies of Supreme Leader Ayatollah Ali Khamenei are likely to gain a sizeable majority based on partial results.\r\nIranian authorities have yet to announce the turnout\u2026 [+3606 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China coronavirus outbreak: All the latest updates",
+            "description": "Iran confirms sixth death as Italy cancels sports events and shuts schools in some regions in a bid to stem outbreak.",
+            "url": "https://www.aljazeera.com/news/2020/02/china-coronavirus-outbreak-latest-updates-200222222743195.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/22/3dfd78dd50c8456791a1d38a02420bdf_18.jpg",
+            "publishedAt": "2020-02-22T23:37:18Z",
+            "content": "Fears are mounting over the rise of coronavirus cases outside mainland China, with Iran recording a sixth death from COVID-19, as the disease is known, and South Korea reporting a surge in new infections.\u00a0\r\nThe World Health Organization (WHO) said it was conc\u2026 [+4431 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Sofia Barbarani",
+            "title": "Iraq extends ban on Iran arrivals amid coronavirus fears",
+            "description": "As authorities take preventive measures to avoid infections from neighbouring Iran, healthcare workers remain sceptical.",
+            "url": "https://www.aljazeera.com/news/2020/02/iraq-extends-ban-iran-arrivals-coronavirus-fears-200222190721462.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/22/bc47958957f346478a4157c72acfde1e_18.jpg",
+            "publishedAt": "2020-02-22T23:29:03Z",
+            "content": "Baghdad, Iraq - Authorities in\u00a0Iraq have extended a ban on all arrivals from neighbouring Iran, except of Iraqi citizens, as the country grapples with the possibility of an outbreak of the new coronavirus.\r\nThe extension was announced in a statement issued by\u2026 [+4049 chars]"
+        }
+    ]
+}

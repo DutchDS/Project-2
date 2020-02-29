@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Miho Inada, Erin Mendell",
+            "title": "Japan Defends Handling of Coronavirus-Struck Cruise Ship - The Wall Street Journal",
+            "description": "Japan Defends Handling of Coronavirus-Struck Cruise Ship The Wall Street Journal Coronavirus: How does Covid-19 spread? These new studies offer clues. Vox.com Coronavirus live updates: Inspectors in Wuhan go door-to-door searching for every coronavirus case C\u2026",
+            "url": "https://www.wsj.com/articles/japan-defends-handling-of-coronavirus-struck-cruise-ship-11582213391",
+            "urlToImage": "https://images.wsj.net/im-156108/social",
+            "publishedAt": "2020-02-20T15:43:00Z",
+            "content": "TOKYOJapanese officials defended their handling of cruise-ship virus victims after the first two passenger deaths were reportedone a woman in her 80s who had a fever for a week before getting to a hospital.\r\nSouth Korea, meanwhile, reported its first death fr\u2026 [+242 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "How Coronavirus Test Kits Work",
+            "description": "Test kits have been one of the main ways to determine if a patient has coronavirus, but results from throat-swab tests can be inaccurate. WSJ visited a lab in Singapore to see how the kits work and find out why there are questions over accuracy.",
+            "url": "https://www.wsj.com/video/how-coronavirus-test-kits-work/1FB97E01-334E-416A-B1EE-E62DB492560C.html",
+            "urlToImage": "http://m.wsj.net/video/20200220/022020viruskit20/022020viruskit20_1280x720.jpg",
+            "publishedAt": "2020-02-20T10:19:37Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Two Coronavirus Patients From Cruise Ship Die",
+            "description": "As the end of a quarantine allowed people to begin leaving the coronavirus-stricken Diamond Princess, Japanese health officials said two passengers hospitalized earlier had died. Photo: TAKASHI AOYAMA/GETTY IMAGES",
+            "url": "https://www.wsj.com/video/two-coronavirus-patients-from-cruise-ship-die/49DC734E-10D5-4167-BDC1-CA2082100BE5.html",
+            "urlToImage": "http://m.wsj.net/video/20200220/022020cruisedeath3/022020cruisedeath3_1280x720.jpg",
+            "publishedAt": "2020-02-20T10:31:30Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
+        }
+    ]
+}

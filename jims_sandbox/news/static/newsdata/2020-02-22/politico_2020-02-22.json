@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "POLITICO Playbook: It\u2019s caucus day",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/22/its-caucus-day-488388",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-22T13:56:59Z",
+            "content": "Nevada voters sign in on tablet computers at an early voting location on Feb 15. in Las Vegas. | John Locher, File/AP Photo\r\nDRIVING THE DAY\r\nITS CAUCUS DAY IN NEVADA This, to us, is fascinating. The biggest story on the front page of the LAS VEGAS SUN is a s\u2026 [+18698 chars]"
+        }
+    ]
+}

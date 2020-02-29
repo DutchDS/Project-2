@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Alice Miranda Ollstein",
+            "title": "Coronavirus quarantine, travel ban could backfire, experts fear",
+            "description": "The government has broad legal authority to detain people in the name of public health. But politically and diplomatically, it\u2019s more complicated.",
+            "url": "https://www.politico.com/news/2020/02/04/coronavirus-quaratine-travel-110750",
+            "urlToImage": "https://static.politico.com/32/9b/053de8c8454bbad45da607dc0e2e/200204-wuhan-gty-773.jpg",
+            "publishedAt": "2020-02-04T21:42:15Z",
+            "content": "The administration on Sunday ordered recent U.S. travelers to Chinas Hubei province the epicenter of the outbreak to be held in a mandatory quarantine for two weeks. The last time the government took such a step was in the late 1960s, when it held people on t\u2026 [+6057 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Adam Behsudi",
+            "title": "Larry Kudlow: Coronavirus will slow U.S. farm exports to China",
+            "description": "The White House economic adviser also said the coronavirus could spur business investment in the U.S.",
+            "url": "https://www.politico.com/news/2020/02/04/kudlow-coronavirus-will-slow-us-farm-exports-to-china-110666",
+            "urlToImage": "https://static.politico.com/e3/0d/c4091c3b4dfab45d9c43d9cb628c/200204-larry-kudlow-ap-773.jpg",
+            "publishedAt": "2020-02-04T15:13:09Z",
+            "content": "White House chief economic adviser Larry Kudlow. | Alex Brandon/AP Photo\r\nWhite House economic adviser Larry Kudlow conceded today the spread of the Wuhan coronavirus in China will affect its ability to purchase massive amounts of U.S. goods and services as p\u2026 [+447 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Sam Mintz",
+            "title": "Infrastructure in no man\u2019s land ahead of SOTU",
+            "description": "The argument for a zero-crew rail law \u2014 FAA launching ODA survey",
+            "url": "https://www.politico.com/newsletters/morning-transportation/2020/02/04/infrastructure-in-no-mans-land-ahead-of-sotu-785014",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-04T15:00:44Z",
+            "content": "Presented by Freight Rail Works\r\nEditors Note: This edition of Morning Transportation is published weekdays at 10 a.m. POLITICO Pro Transportation subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pros \u2026 [+9459 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Ryan McCrimmon",
+            "title": "The trade aid train keeps chugging",
+            "description": "Spring floods cost crop insurance $6.4B \u2014 No coronavirus fallout for U.S.-China deal (yet)",
+            "url": "https://www.politico.com/newsletters/morning-agriculture/2020/02/04/the-trade-aid-train-keeps-chugging-785021",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-04T15:00:40Z",
+            "content": "With help from Catherine Boudreau\r\nEditor's Note: This edition of Morning Agriculture is published weekdays at 10 a.m. POLITICO Pro Agriculture subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pro's co\u2026 [+8556 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Carla Marinucci, Jeremy B. White, Graph Massara and Aaron Leathley",
+            "title": "NEWSOM: Ban mandatory PE tests \u2014 BLOOMBERG\u2019S bet on California \u2014 ALEX PADILLA backs Biden \u2014 FIONA MA for BLOOMBERG \u2014 CA: \u2018best state for dating\u2019 \u2014 WIENER intros PG&E takeover plan",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/02/04/newsom-ban-mandatory-pe-tests-bloombergs-bet-on-california-alex-padilla-backs-biden-fiona-ma-for-bloomberg-ca-best-state-for-dating-wiener-intros-pg-e-takeover-plan-488236",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-04T14:13:37Z",
+            "content": "THE BUZZ IOWAS BIG NIGHT, CALIFORNIAS BIG VOTE: The eyes of the nation and the pundits and the cable stations were on Iowa Monday. That gave billionaire Mike Bloomberg the run of California on a day in which 15 million voters here started getting their presid\u2026 [+17281 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Shia Kapos and Adrienne Hurst",
+            "title": "WILL IOWA\u2019S FALL BE ILLINOIS\u2019 GAIN? \u2014 TABLES TURN ON IG \u2014 IT\u2019S FOXX v. CONWAY in the money race",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/illinois-playbook/2020/02/04/will-iowas-fall-be-illinois-gain-tables-turn-on-ig-its-foxx-v-conway-in-the-money-race-488235",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-04T13:28:41Z",
+            "content": "Happy Tuesday, Illinois! An official champion has not yet emerged from the Iowa melodrama but the Twitterverse has declared a winner: Mike Bloomberg, who has leapfrogged the early states, for not getting involved in this hot mess. \r\nTOP TALKER\r\nA TECHNICAL ME\u2026 [+14060 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Melanie Zanona",
+            "title": "Will anyone cross party lines in the final impeachment vote?",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/huddle/2020/02/04/will-anyone-cross-party-lines-in-the-final-impeachment-vote-488237",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-04T13:21:08Z",
+            "content": "THE TRIAL FILES -- President Donald Trumps acquittal is all but certain. Now the only question on Capitol Hill is: will any senators cross party lines on the final impeachment vote? For Democrats, their hopes dimmed Monday evening when Sen. Lisa Murkowski of \u2026 [+12893 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Matt Friedman",
+            "title": "Murphy advisers who ran DNC host committee suspended over alleged 'toxic' workplace",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-jersey-playbook/2020/02/04/murphy-advisers-who-ran-dnc-host-committee-suspended-over-alleged-toxic-workplace-488228",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-04T12:20:17Z",
+            "content": "Milwaukee may translate to the good land, but right now its not a good look for Gov. Phil Murphy. Or New Jersey politics in general.\r\nTwo New Jersey political consultants who were leading the host committee for this summers Democratic National Convention in M\u2026 [+14348 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Shannon Young",
+            "title": "Iowa caucus results delayed \u2014 Rozas joins Markey campaign \u2014 Pressley to respond to SOTU",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/massachusetts-playbook/2020/02/04/iowa-caucus-rozas-joins-markey-campaign-pressley-to-respond-to-sotu-488229",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-04T12:10:03Z",
+            "content": "GOOD MORNING, MASSACHUSETTS. \r\nPROGRAMMING NOTE: Stephanie Murray is in New Hampshire this week to help with POLITICOs 2020 primary coverage, so Im jumping back across the New York border to report on all things Massachusetts. Have a tip, story, suggestion, b\u2026 [+16351 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Anna Palmer and Jake Sherman",
+            "title": "POLITICO Playbook: Election chaos: There\u2019s an app for that, apparently",
+            "description": "And the White House prepares for the State of the Union tonight.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/04/election-chaos-theres-an-app-for-that-apparently-488233",
+            "urlToImage": "https://static.politico.com/cf/e4/cc787aca43ca92f4109dcbe1dc38/gettyimages-1198465636.jpg",
+            "publishedAt": "2020-02-04T10:58:30Z",
+            "content": "Presented by Amazon\r\nAfter a technical snafu, the results of the Iowa caucus are supposed to come out at some point today, officials in Iowa say. | Joshua Lott/Getty Images\r\nDRIVING THE DAY\r\nWAIT, YOU MEAN TO tell us that you have trouble certifying the resul\u2026 [+21395 chars]"
+        }
+    ]
+}

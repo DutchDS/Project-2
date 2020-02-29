@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward",
+            "title": "Singapore Battles Coronavirus with Children\u2019s Rap Song About Hand Washing",
+            "description": "Singapore\u2019s latest gambit to defeat the Wuhan coronavirus is \u201cBye Bye Virus,\u201d a so-bad-it\u2019s-irresistible rap song and dance video intended to remind people to wash their hands.",
+            "url": "https://www.breitbart.com/national-security/2020/02/14/singapore-battles-coronavirus-childrens-rap-song-about-hand-washing/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1196095155-640x335.png",
+            "publishedAt": "2020-02-14T22:26:36Z",
+            "content": "Singapores latest gambit to defeat the Wuhan coronavirus is Bye Bye Virus, a so-bad-its-irresistible rap song and dance video intended to remind people to wash their hands.\r\nThe gobsmacked writers at Coconuts Singaporesaluted the Ministry of Education video f\u2026 [+3220 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Robert Kraychik",
+            "title": "Expert: China Has \u2018Global Chokehold\u2019 on Medicine, Can Shut Down Our Pharmacies, Hospitals in Months",
+            "description": "China could shut down the U.S. healthcare system within months with its \"global chokehold\" on medical manufacturing, said Rosemary Gibson.",
+            "url": "https://www.breitbart.com/radio/2020/02/14/expert-china-has-global-chokehold-on-medicine-can-shut-down-our-pharmacies-hospitals-in-months/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/Chinese-Drug-Manufacturing-640x335.jpg",
+            "publishedAt": "2020-02-14T22:12:45Z",
+            "content": "China could effectively shut down America\u2019s healthcare system within months given the one-party state\u2019s \u201cglobal chokehold\u201d on the manufacturing of medicines and medical supplies, explained Rosemary Gibson, author of\u00a0China Rx: Exposing the Risks of America\u2019s D\u2026 [+12326 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Carney",
+            "title": "Facebook Cancels Global Marketing Summit in San Francisco Over Coronavirus Fears",
+            "description": "There are no confirmed coronavirus cases in San Francisco but Facebook just canceled a big event anyway. | Economy",
+            "url": "https://www.breitbart.com/economy/2020/02/14/facebook-cancels-global-marketing-summit-in-san-francisco-over-coronavirus-fears/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1193196005-e1581716060158-640x335.jpg",
+            "publishedAt": "2020-02-14T21:35:36Z",
+            "content": "Concern over the coronavirus prompted Facebook to cancel a global marketing summit that was set to take place next month in San Francisco, a sign that the economic fallout from the outbreak could be spreading outside of China.\r\nOut of an abundance of caution,\u2026 [+1002 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward",
+            "title": "Vietnam Quarantines 10,000 Villagers for Coronavirus",
+            "description": "The first mass quarantine outside of China for the Wuhan coronavirus was reported in Vietnam on Thursday, with over 10,000 people living in farming communities near Hanoi locked down for 20 days after six virus infections were discovered.",
+            "url": "https://www.breitbart.com/national-security/2020/02/14/vietnam-quarantines-10000-villagers-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1200517295-640x335.png",
+            "publishedAt": "2020-02-14T18:24:22Z",
+            "content": "The first mass quarantine outside of China for the Wuhan coronavirus was reported in Vietnam on Thursday, with over 10,000 people living in farming communities near Hanoi locked down for 20 days after six virus infections were discovered.\r\nAFPreported on Thur\u2026 [+2255 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Carney, John Carney",
+            "title": "Consumer Sentiment Soars on Improved Optimism and Best Income Gains Since 1960",
+            "description": "Consumer sentiment climbed again in early February, moving toward the highest level in 15 years. | Economy",
+            "url": "https://www.breitbart.com/economy/2020/02/14/consumer-sentiment-soars-on-improved-optimism-and-best-income-gains-since-1960/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1199946423-e1581693934440-638x335.jpg",
+            "publishedAt": "2020-02-14T15:26:10Z",
+            "content": "American households are beginning the new year full of hope for the future, satisfaction with personal finances, improved outlooks for the economy, and rising incomes and wealth.\r\nThe University of Michigan\u2019s consumer sentiment index rose to 100.9 in early Fe\u2026 [+1066 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Rebecca Mansour",
+            "title": "Coronavirus Outbreak Exposes China\u2019s Monopoly on U.S. Drug, Medical Supplies",
+            "description": "The coronavirus outbreak has exposed the United States\u2019 dangerous dependence on China for pharmaceutical and medical supplies, including an estimated 97 percent of all antibiotics and 80 percent of the active pharmaceutical ingredients needed to produce drugs\u2026",
+            "url": "https://www.breitbart.com/asia/2020/02/13/coronavirus-outbreak-exposes-chinas-monopoly-on-u-s-drug-medical-supplies/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/china-face-mask-factory-getty-640x335.jpg",
+            "publishedAt": "2020-02-14T01:52:08Z",
+            "content": "The coronavirus outbreak has exposed the United States dangerous dependence on China for pharmaceutical and medical supplies, including an estimated 97 percent of all antibiotics and 80 percent of the active pharmaceutical ingredients needed to produce drugs \u2026 [+13946 chars]"
+        }
+    ]
+}

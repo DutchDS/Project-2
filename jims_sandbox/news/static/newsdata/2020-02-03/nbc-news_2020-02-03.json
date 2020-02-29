@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Fears rise of coronavirus pandemic as death toll climbs in China",
+            "description": "China has built a 1,000 bed pop-up hospital at the center of the coronavirus outbreak in just ten days -- now accepting its first patients.",
+            "url": "https://www.nbcnews.com/nightly-news/video/fears-rise-of-coronavirus-pandemic-as-death-toll-climbs-in-china-78045765909",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_tco_coronavirus_pandemic_fears_200203_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T23:48:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "1st patient diagnosed with coronavirus in U.S. released from hospital",
+            "description": "The first USA coronavirus patient has been released from the hospital. The coronavirus case in Washington will continue to recover in isolation at home.",
+            "url": "https://www.nbcnews.com/health/health-news/1st-patient-diagnosed-coronavirus-u-s-released-hospital-n1129201",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3214396/200203-person-mask-coronavirus-washington-ew-523p_40aeb3d9f213961dcab8f5d40ac666d0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T22:41:09Z",
+            "content": "The first patient to be diagnosed with coronavirus in the United States is out of the hospital.\r\nThe man, who'd been hospitalized at Providence Regional Medical Center in Everett, Washington, will remain in isolation while he continues to recover at home, acc\u2026 [+1029 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Chinese citizens turn to virus tracker apps to avoid infected neighborhoods",
+            "description": "Two companies have created platforms that take official information on the neighborhoods where confirmed cases live and map it geographically so that users can gauge how close they are to infection sites.",
+            "url": "https://www.nbcnews.com/tech/social-media/chinese-citizens-turn-virus-tracker-apps-avoid-infected-neighborhoods-n1129111",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_06/3214241/200203-coronavirus-man-mask-china-ew-322p_bf7cf4e4533098820f251a66ad1e0630.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T21:17:00Z",
+            "content": "Chinese citizens are using mapping programs and travel trackers in a bid to avoid neighborhoods with infections of the coronavirus and to better prepare for the dangers they face.\r\nBoth data mapping company QuantUrban and a third-party Wechat mini-program dev\u2026 [+2260 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Aggressive action necessary to counter the 'unprecedented threat' of coronavirus, CDC says",
+            "description": "CDC says the way to stop coronavirus spreading in the U.S. is through aggressive measures, such as mandatory quarantine for some travelers.",
+            "url": "https://www.nbcnews.com/health/health-news/aggressive-action-necessary-counter-unprecedented-threat-coronavirus-cdc-says-n1128671",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3213711/200203-coronavirus-beijing-cs-1026a_df48c01c673909bc98f6cc2d7d525e3a.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T20:34:23Z",
+            "content": "U.S. citizens returning from other parts of China will be given health screenings, and if they have coronavirus symptoms, they'll also be placed under quarantine, in isolation. Those who don't have any symptoms and have not been in Hubei province in the past \u2026 [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Martha C. White",
+            "title": "Coronavirus hammers Chinese stocks as economic toll mounts",
+            "description": "In China, the Shanghai composite dropped by more than 7 percent on its first trading day following the Chinese Lunar New Year, and the Shenzen composite fell by more than 8 percent.",
+            "url": "https://www.nbcnews.com/business/economy/coronavirus-hammers-chinese-stocks-economic-tolls-mounts-n1128981",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_06/3214151/200203-china-stock-market-coronavirus-cs-200p_414cd1afaabe83d1ba9cbbc04941a3a2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T19:32:00Z",
+            "content": "Most Asian indices plunged on Monday as worry about economic impact of the coronavirus escalated.\r\nIn China, the Shanghai composite dropped by more than 7 percent on its first trading day following the Chinese Lunar New Year, and the Shenzen composite fell by\u2026 [+3428 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Claire Atkinson",
+            "title": "Why some Super Bowl commercials fell flat while others won the night",
+            "description": "From Mr. Peanut's revival spot to Bill Murray's Groundhog Day Jeep commercial, here are the best and worst Super Bowl ads.",
+            "url": "https://www.nbcnews.com/news/us-news/why-some-super-bowl-commercials-fell-flat-while-others-won-n1128611",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_06/3213541/200203-baby-nut-super-bowl-cs-809a_72be6cb5f001949ef5ade0268f6b7c78.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T15:59:00Z",
+            "content": "Super Bowl LIV was full of surprises both on and off the field. The Kansas City Chiefs won the trophy for the first time in half a century and despite rumors, Tom Brady did not retire. Instead, photos on social media teasing that the New England Patriots quar\u2026 [+4644 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Yuliya Talmazan, Michelle Gooden-Jones",
+            "title": "Coronavirus updates: The latest news on the outbreak and the global response",
+            "description": "As the death toll from the novel coronavirus reaches 361 in China, here is the latest you need to know about the outbreak.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-latest-news-outbreak-global-response-n1128546",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3213381/china_outbreak_75410-jpg-a6ce1_906f1249e308be64abd6de17566c79f7.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T11:42:00Z",
+            "content": "Death toll rises to 361 as confirmed cases reach 17,205 in China\r\n U.S. will send more flights to bring back citizens from Hubei province\r\n China accuses U.S. of spreading fear over virus outbreak\r\n Hospital constructed in 10 days welcomes first patients in W\u2026 [+3619 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "China\u2019s new virus hospital ready for patients ten days after construction began",
+            "description": "The 1,000-bed Huoshenshan hospital in Wuhan, China, will be staffed by 1,400 military medics. It is the first of two hospitals specially built in the city to provide diagnosis and care for coronavirus patients.",
+            "url": "https://www.nbcnews.com/video/wuhan-s-huoshenshan-hospital-ready-for-coronavirus-patients-78004805509",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/lon_wuhospital2_200203.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T10:59:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "China's coronavirus hospital built in 10 days welcomes patients",
+            "description": "Construction of the hospital began on Jan. 24 with a crew of 7,000 people working around the clock.",
+            "url": "https://www.nbcnews.com/news/world/china-s-coronavirus-hospital-built-10-days-opens-its-doors-n1128531",
+            "urlToImage": "https://static.euronews.com/articles/4475912/1000x563_nbc-aptopix_china_outbreak_83345-jpg-8a1de_7319324451ab55b91dd4f2748ac78e98.jpg",
+            "publishedAt": "2020-02-03T10:38:55Z",
+            "content": "A 1,000-bed hospital built in just 10 days to handle the coronavirus epidemic in Wuhan, China, welcomed its first patients Monday.Built specifically to handle patients infected with the novel coronavirus that has sickened thousands of people and left more tha\u2026 [+2181 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Amid coronavirus concerns U.S. plans more evacuation flights from China, Pompeo says",
+            "description": "Secretary of State Mike Pompeo said arrangements were being finalized for \u201ca handful more\u201d flights to bring Americans out of China\u2019s Hubei province as the coronavirus spreads.",
+            "url": "https://www.nbcnews.com/video/u-s-will-evacuate-more-americans-from-china-in-wake-of-coronavirus-78001733593",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/AFP_1ON7CA.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T08:10:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Chinese markets plunge as rising coronavirus death toll fuels fears",
+            "description": "Chinese stock and commodity markets fell heavily on Monday as the death toll from a coronavirus epidemic in China rose to 361 over the weekend.",
+            "url": "https://www.nbcnews.com/business/markets/chinese-markets-plunge-rising-coronavirus-death-toll-fuels-fears-n1128516",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3213346/020320-china-markets-coronavirus-rd-0155a_1839503358bcc3e9e9d6bf9c27f57b6d.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T07:13:05Z",
+            "content": "BEIJING/SHANGHAI - Chinese stock and commodity markets fell heavily on Monday as the death toll from a coronavirus epidemic in China rose to 361 and investors retreated into safe-haven assets in the first trading session after an extended Lunar New Year break\u2026 [+2716 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Nightly News Full Broadcast (February 2nd)",
+            "description": "New travel U.S. restrictions go into effect amid coronavirus outbreak, three injured in London stabbing \u2018terrorist incident,\u2019 and Democratic candidates make final pitches ahead of Iowa caucus.",
+            "url": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-february-2nd-77996613984",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/masksN3B4.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-03T02:50:14Z",
+            "content": null
+        }
+    ]
+}
