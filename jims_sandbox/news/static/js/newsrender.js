@@ -136,14 +136,14 @@ function buildNewsTableSelectors() {
 //  function to build the news table banner
 //  
 function buildNewsTableBanner(dateStr, source) {
-  console.log(`------ Enter buildNewsBanner datStr=${dateStr}, source=${source} -----`)
+  // console.log(`------ Enter buildNewsBanner datStr=${dateStr}, source=${source} -----`)
   var banner = d3.select("#news-banner");
-  console.log("buildNewsTableBanner:", banner);
+  // console.log("buildNewsTableBanner:", banner);
   banner
     .html("")
     .text(`Coronavirus news from ${source} for ${dateStr}`);
 
-    console.log(`------ Exit buildNewsBanner datStr=${dateStr}, source=${source} -----`)
+    // console.log(`------ Exit buildNewsBanner datStr=${dateStr}, source=${source} -----`)
 }
 
 // =============================================
@@ -227,12 +227,13 @@ function renderNewsForDate(dateStr, newsSourceId) {
 
   d3.json(newsfilePath).then(function(newsData) {
 
-    console.log(newsData);
+    console.log("renderNewsForDate(): ", newsData);
     buildNewsTableBody(newsData.articles);
 
   }).catch(function(error) {
 
-    console.log(error);
+    console.log("renderNewsForDate() caught json fetch exception: ", error);
+    console.log("-- to handle: building empty news table")
     buildNewsTableBody([]);
 
   });
@@ -242,10 +243,10 @@ function renderNewsForDate(dateStr, newsSourceId) {
 // render the news banner with dateStr and news source name info
 function renderNewsBanner(dateStr, newsSourceId) {
   // newsapi_source_json = `/static/newsdata/newsapi_sources.json`;
-  console.log("NEW WAY OF USING THE PROMISE")
+  // console.log("NEW WAY OF USING THE PROMISE")
     var sourceName = "";
     newsSrcPromise.then(function(newsSrcs) {
-      console.log("renderNewsBanner newsSources: ", newsSrcs);
+      // console.log("renderNewsBanner newsSources: ", newsSrcs);
       var newsSources = newsSrcs.sources;
 
       result = newsSources.find(source => source.id === newsSourceId);
@@ -265,9 +266,9 @@ function addListeners() {
     newsSrc = d3.select('#news_source').property('value');
     
     var selector = d3.select('#corona-date');
-    console.log("#corona-date selector value change, this.value: ", this.value);
-    // console.log("#corona-date selector value change, node.value: ", d3.select('#corona-date').node.value);
-    console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
+    // console.log("#corona-date selector value change, this.value: ", this.value);
+    // // console.log("#corona-date selector value change, node.value: ", d3.select('#corona-date').node.value);
+    // console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
   
     renderNewsBanner(newsDate, newsSrc);
     renderNewsForDate(newsDate, newsSrc);
@@ -277,9 +278,9 @@ function addListeners() {
     newsSrc = this.value
     newsDate = d3.select('#corona-date').property('value')
   
-    console.log("#news_source selector value change, this.value: ", this.value);
-    // console.log("#news_source selector value change, node.value: ", d3.select('#news_source').node.value);
-    console.log("#news_source selector value change, property(value): ", d3.select('#news_source').property('value'));
+    // console.log("#news_source selector value change, this.value: ", this.value);
+    // // console.log("#news_source selector value change, node.value: ", d3.select('#news_source').node.value);
+    // console.log("#news_source selector value change, property(value): ", d3.select('#news_source').property('value'));
   
     renderNewsBanner(newsDate, newsSrc);
     renderNewsForDate(newsDate, newsSrc);
