@@ -138,7 +138,7 @@ function buildNewsTableSelectors() {
 function buildNewsTableBanner(dateStr, source) {
   // console.log(`------ Enter buildNewsBanner datStr=${dateStr}, source=${source} -----`)
   var banner = d3.select("#news-banner");
-  console.log("buildNewsTableBanner:", banner);
+  // console.log("buildNewsTableBanner:", banner);
   banner
     .html("")
     .text(`Coronavirus news from ${source} for ${dateStr}`);
@@ -227,12 +227,13 @@ function renderNewsForDate(dateStr, newsSourceId) {
 
   d3.json(newsfilePath).then(function(newsData) {
 
-    console.log(newsData);
+    console.log("renderNewsForDate(): ", newsData);
     buildNewsTableBody(newsData.articles);
 
   }).catch(function(error) {
 
-    console.log(error);
+    console.log("renderNewsForDate() caught json fetch exception: ", error);
+    console.log("-- to handle: building empty news table")
     buildNewsTableBody([]);
 
   });
@@ -242,10 +243,10 @@ function renderNewsForDate(dateStr, newsSourceId) {
 // render the news banner with dateStr and news source name info
 function renderNewsBanner(dateStr, newsSourceId) {
   // newsapi_source_json = `/static/newsdata/newsapi_sources.json`;
-  console.log("NEW WAY OF USING THE PROMISE")
+  // console.log("NEW WAY OF USING THE PROMISE")
     var sourceName = "";
     newsSrcPromise.then(function(newsSrcs) {
-      console.log("renderNewsBanner newsSources: ", newsSrcs);
+      // console.log("renderNewsBanner newsSources: ", newsSrcs);
       var newsSources = newsSrcs.sources;
 
       result = newsSources.find(source => source.id === newsSourceId);
