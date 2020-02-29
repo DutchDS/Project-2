@@ -22,7 +22,9 @@
 
     <!-- d3 JavaScript -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
-
+    <!-- Moment Javascript-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+      
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
@@ -39,8 +41,10 @@
               <div class="card-body">
                 <div class="jumbotron text-center">
                   <h1>Corona Spread - Worldwide</h1>
-                  <p><i>Let's see how this virus spreads</i></p>
-                  <p>           
+                  <p><i>Slider<div class="range">
+                    <input type="range" min="1" max="36" steps="1" value="1" id="slider"><br>
+                    <output></output>
+                  </div></i></p>         
                     <a type="submit" class="btn btn-primary btn-lg" id="selectAll" role="button">Show Spread</a>
                     <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
                     <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
@@ -243,5 +247,6 @@
     <script type="text/javascript" src="static/js/world_bar.js"></script>
     <script type="text/javascript" src="static/js/world.js"></script>
     <script type="text/javascript" src="static/js/newsrender.js"></script>
+    <script type="text/javascript" src="static/js/slider_world.js"></script>
   </body>
 </html>
