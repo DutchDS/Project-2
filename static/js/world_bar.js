@@ -149,8 +149,8 @@ function formatDate(date) {
     return [year, month, day].join('-');
     }
 
-    get_shape.on("change", function() {
-        let inputValueShape = d3.select("#selectShape").property("value");
-        country = inputValueShape
-        console.log(country)
-        get_data(country)});
+get_shape.on("change", function() {
+    let inputValueShape = d3.select("#selectShape").property("value");
+    country = inputValueShape
+    console.log(country)
+    get_data(country)});
