@@ -6,9 +6,4 @@ select date,
     from daily_stats_world 
     where country <> 'China' 
     group by date, country
-<<<<<<< HEAD
-    order by date, country  
-=======
     order by date, country
-
->>>>>>> 048c19ce61a33734c8ff51b94659356f179cd91f
