@@ -189,19 +189,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Gina Heeb",
-            "title": "Trump says coronavirus could affect economic growth in the US",
-            "description": "President Donald Trump said Wednesday evening that disruptions from the coronavirus could affect the US gross domestic product. The comments were a departure from a string of rosier economic forecasts that have come from the White House in recent days. \"This \u2026",
-            "url": "https://markets.businessinsider.com/news/stocks/trump-says-coronavirus-could-affect-economic-growth-in-the-us-2020-2-1028943508",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5e570366fee23d6a622adef3-2400/ap20057852896127.jpg",
-            "publishedAt": "2020-02-27T01:30:33Z",
-            "content": "AP Photo/Evan Vucci\r\n<ul><li>President Donald Trump said Wednesday evening that disruptions from the coronavirus could affect the US gross domestic product.</li><li>The comments were a departure from a string of rosier economic forecasts that have come from t\u2026 [+1960 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Aaron Holmes",
             "title": "Uber drivers scared of coronavirus are avoiding airport pickups (UBER)",
             "description": "Some Uber drivers, anxious about the coronavirus outbreak, say they've taking matters into their own hands to avoid exposure to the illness. On web forums and in interviews with Business Insider, drivers said they're avoiding picking up passengers from airpor\u2026",
@@ -209,6 +196,19 @@
             "urlToImage": "https://i.insider.com/5e5827effee23d322607a935?width=1200&format=jpeg",
             "publishedAt": "2020-02-27T22:02:42Z",
             "content": "For Uber drivers, letting dozens of travelers into their personal vehicles every day is routine. Coronavirus may be changing that.\r\nUS experts and government agencies have warned that an outbreak of COVID-19, the coronavirus disease, could be imminent, but Ub\u2026 [+2476 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Gina Heeb",
+            "title": "Trump says coronavirus could affect economic growth in the US",
+            "description": "President Donald Trump said Wednesday evening that disruptions from the coronavirus could affect the US gross domestic product. The comments were a departure from a string of rosier economic forecasts that have come from the White House in recent days. \"This \u2026",
+            "url": "https://markets.businessinsider.com/news/stocks/trump-says-coronavirus-could-affect-economic-growth-in-the-us-2020-2-1028943508",
+            "urlToImage": "https://images.markets.businessinsider.com/image/5e570366fee23d6a622adef3-2400/ap20057852896127.jpg",
+            "publishedAt": "2020-02-27T01:30:33Z",
+            "content": "AP Photo/Evan Vucci\r\n<ul><li>President Donald Trump said Wednesday evening that disruptions from the coronavirus could affect the US gross domestic product.</li><li>The comments were a departure from a string of rosier economic forecasts that have come from t\u2026 [+1960 chars]"
         },
         {
             "source": {
@@ -293,13 +293,13 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Theron Mohamed",
-            "title": "Coronavirus could drive the US economy into recession, ex-Fed chief Janet Yellen warns",
-            "description": "Ex-Federal Reserve Chair Janet Yellen warned coronavirus could cause the US economy to shrink, according to Bloomberg. \"It's just conceivable that it could throw the United States into a recession,\" the former central-bank boss said. The Fed will shore up con\u2026",
-            "url": "https://www.businessinsider.com/ex-fed-chief-janet-yellen-coronavirus-spark-us-economy-recession-2020-2",
-            "urlToImage": "https://i.insider.com/5e578f7bfee23d242329d872?width=1200&format=jpeg",
-            "publishedAt": "2020-02-27T10:03:30Z",
-            "content": "<ul><li>Ex-Federal Reserve Chair Janet Yellen warned coronavirus could cause the US economy to shrink, according to Bloomberg.</li><li>\"It's just conceivable that it could throw the United States into a recession,\" the former central-bank boss said.</li><li>T\u2026 [+2872 chars]"
+            "author": "Sonam Sheth",
+            "title": "A government whistleblower alleges US health workers treated coronavirus evacuees without proper protective gear or training",
+            "description": "A government whistleblower alleges that the Department of Health and Human Services sent workers to help evacuees from Wuhan, China \u2014 the center of the coronavirus \u2014 without giving them proper protective gear or training. According to The Washington Post and \u2026",
+            "url": "https://www.businessinsider.com/whistleblower-us-workers-treated-coronavirus-without-gear-training-2020-2",
+            "urlToImage": "https://i.insider.com/5cbf785eb14bf428016a8fc7?width=1200&format=jpeg",
+            "publishedAt": "2020-02-27T21:57:37Z",
+            "content": "A whistleblower from the Department of Health and Human Services has alleged that the US sent more than a dozen government workers to assist Americans who were evacuated from Wuhan, China without giving them proper training or protective gear, The Washington \u2026 [+3764 chars]"
         },
         {
             "source": {
@@ -319,13 +319,13 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Sonam Sheth",
-            "title": "A government whistleblower alleges US health workers treated coronavirus evacuees without proper protective gear or training",
-            "description": "A government whistleblower alleges that the Department of Health and Human Services sent workers to help evacuees from Wuhan, China \u2014 the center of the coronavirus \u2014 without giving them proper protective gear or training. According to The Washington Post and \u2026",
-            "url": "https://www.businessinsider.com/whistleblower-us-workers-treated-coronavirus-without-gear-training-2020-2",
-            "urlToImage": "https://i.insider.com/5cbf785eb14bf428016a8fc7?width=1200&format=jpeg",
-            "publishedAt": "2020-02-27T21:57:37Z",
-            "content": "A whistleblower from the Department of Health and Human Services has alleged that the US sent more than a dozen government workers to assist Americans who were evacuated from Wuhan, China without giving them proper training or protective gear, The Washington \u2026 [+3764 chars]"
+            "author": "Theron Mohamed",
+            "title": "Coronavirus could drive the US economy into recession, ex-Fed chief Janet Yellen warns",
+            "description": "Ex-Federal Reserve Chair Janet Yellen warned coronavirus could cause the US economy to shrink, according to Bloomberg. \"It's just conceivable that it could throw the United States into a recession,\" the former central-bank boss said. The Fed will shore up con\u2026",
+            "url": "https://www.businessinsider.com/ex-fed-chief-janet-yellen-coronavirus-spark-us-economy-recession-2020-2",
+            "urlToImage": "https://i.insider.com/5e578f7bfee23d242329d872?width=1200&format=jpeg",
+            "publishedAt": "2020-02-27T10:03:30Z",
+            "content": "<ul><li>Ex-Federal Reserve Chair Janet Yellen warned coronavirus could cause the US economy to shrink, according to Bloomberg.</li><li>\"It's just conceivable that it could throw the United States into a recession,\" the former central-bank boss said.</li><li>T\u2026 [+2872 chars]"
         },
         {
             "source": {
@@ -475,19 +475,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Andrew Dunn",
-            "title": "How the buzzy biotech upstart Moderna sped past Big Pharma to develop the first potential coronavirus vaccine in just 42 days",
-            "description": "In the sprint to develop vaccines for the coronavirus outbreak, the world's largest drugmakers have been lapped by a startup biotech. It took 42 days for Moderna to turn the genomic sequence of the virus into a vaccine candidate and ship it to US health offic\u2026",
-            "url": "https://www.businessinsider.com/moderna-coronavirus-mrna-vaccine-candidate-development-timeline-2020-2",
-            "urlToImage": "https://i.insider.com/5e581f99fee23d1b3b4934c8?width=1200&format=jpeg",
-            "publishedAt": "2020-02-27T19:59:00Z",
-            "content": "Scrambling to respond to the growing coronavirus outbreak, some of the world's largest drugmakers have begun researching vaccines to prevent the deadly virus.\r\nBut a small, startup biotech has sped past them, becoming the first company to produce a potential \u2026 [+8863 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Aria Bendix",
             "title": "Americans are being told to prepare for a coronavirus outbreak \u2014 but US health agencies lack funding, and disease testing lags behind",
             "description": "CDC officials warned on Tuesday that the coronavirus could spread in the US. Health experts say the US is already lagging behind other countries in terms of testing for the virus. The nation is also 270 million masks short of the total it needs to protect hea\u2026",
@@ -495,6 +482,19 @@
             "urlToImage": "https://i.insider.com/5e55a1f2fee23d73297ae8d4?width=1200&format=jpeg",
             "publishedAt": "2020-02-27T02:56:00Z",
             "content": "US health officials issued a dire warning to American citizens on Tuesday: Prepare for a coronavirus outbreak.\r\n\"It's not so much of a question of if this will happen anymore, but rather more of a question of exactly when this will happen,\" Nancy Messonnier, \u2026 [+8201 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Andrew Dunn",
+            "title": "How the buzzy biotech upstart Moderna sped past Big Pharma to develop the first potential coronavirus vaccine in just 42 days",
+            "description": "In the sprint to develop vaccines for the coronavirus outbreak, the world's largest drugmakers have been lapped by a startup biotech. It took 42 days for Moderna to turn the genomic sequence of the virus into a vaccine candidate and ship it to US health offic\u2026",
+            "url": "https://www.businessinsider.com/moderna-coronavirus-mrna-vaccine-candidate-development-timeline-2020-2",
+            "urlToImage": "https://i.insider.com/5e581f99fee23d1b3b4934c8?width=1200&format=jpeg",
+            "publishedAt": "2020-02-27T19:59:00Z",
+            "content": "Scrambling to respond to the growing coronavirus outbreak, some of the world's largest drugmakers have begun researching vaccines to prevent the deadly virus.\r\nBut a small, startup biotech has sped past them, becoming the first company to produce a potential \u2026 [+8863 chars]"
         },
         {
             "source": {
@@ -645,12 +645,12 @@
                 "name": "Business Insider"
             },
             "author": "Katie Canales",
-            "title": "A Southern California city is banning people who were on the coronavirus-stricken Diamond Princess cruise ship from entering their town",
-            "description": "Leaders of Costa Mesa, California, are blocking COVID-19 patients from being transferred to a nearly-empty hospital in the Southern California city. A US district judge issued the restraining order last week and extended it until Monday, during which time sta\u2026",
-            "url": "https://www.businessinsider.com/coronavirus-california-town-bans-diamond-princess-passengers-2020-2",
-            "urlToImage": "https://i.insider.com/5e56eaa3fee23d5d687a5f89?width=1200&format=jpeg",
-            "publishedAt": "2020-02-27T18:52:45Z",
-            "content": "City officials in Costa Mesa, California, are blocking patients being tested for the coronavirus disease COVID-19 from being transferred to a nearly empty hospital within the Orange County city from a Bay Area air force base.\r\nOn February 21, US District Judg\u2026 [+1330 chars]"
+            "title": "A coronavirus patient and Diamond Princess cruise ship passenger being treated in a San Francisco hospital says he feels perfectly fine",
+            "description": "A Diamond Princess cruise ship passenger who tested positive for the coronavirus disease is being treated at a San Francisco hospital. He said he feels perfectly fine and isn't experiencing any of the typical symptoms of the virus. He eats three meals a day, \u2026",
+            "url": "https://www.businessinsider.com/coronavirus-san-francisco-diamond-princess-cruise-ship-2020-2",
+            "urlToImage": "https://i.insider.com/5e580e46fee23d1332509fb4?width=1200&format=jpeg",
+            "publishedAt": "2020-02-27T19:21:10Z",
+            "content": "An evacuee from the Diamond Princess cruise ship has tested positive for the coronavirus disease, known as COVID-19, and is being treated in a San Francisco hospital.\r\nBut the patient, 62-year-old Rick Wright, told the San Francisco Chronicle that he feels pe\u2026 [+1060 chars]"
         },
         {
             "source": {
@@ -658,12 +658,12 @@
                 "name": "Business Insider"
             },
             "author": "Katie Canales",
-            "title": "A coronavirus patient and Diamond Princess cruise ship passenger being treated in a San Francisco hospital says he feels perfectly fine",
-            "description": "A Diamond Princess cruise ship passenger who tested positive for the coronavirus disease is being treated at a San Francisco hospital. He said he feels perfectly fine and isn't experiencing any of the typical symptoms of the virus. He eats three meals a day, \u2026",
-            "url": "https://www.businessinsider.com/coronavirus-san-francisco-diamond-princess-cruise-ship-2020-2",
-            "urlToImage": "https://i.insider.com/5e580e46fee23d1332509fb4?width=1200&format=jpeg",
-            "publishedAt": "2020-02-27T19:21:10Z",
-            "content": "An evacuee from the Diamond Princess cruise ship has tested positive for the coronavirus disease, known as COVID-19, and is being treated in a San Francisco hospital.\r\nBut the patient, 62-year-old Rick Wright, told the San Francisco Chronicle that he feels pe\u2026 [+1060 chars]"
+            "title": "A Southern California city is banning people who were on the coronavirus-stricken Diamond Princess cruise ship from entering their town",
+            "description": "Leaders of Costa Mesa, California, are blocking COVID-19 patients from being transferred to a nearly-empty hospital in the Southern California city. A US district judge issued the restraining order last week and extended it until Monday, during which time sta\u2026",
+            "url": "https://www.businessinsider.com/coronavirus-california-town-bans-diamond-princess-passengers-2020-2",
+            "urlToImage": "https://i.insider.com/5e56eaa3fee23d5d687a5f89?width=1200&format=jpeg",
+            "publishedAt": "2020-02-27T18:52:45Z",
+            "content": "City officials in Costa Mesa, California, are blocking patients being tested for the coronavirus disease COVID-19 from being transferred to a nearly empty hospital within the Orange County city from a Bay Area air force base.\r\nOn February 21, US District Judg\u2026 [+1330 chars]"
         },
         {
             "source": {
@@ -800,19 +800,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Ben Winck",
-            "title": "Goldman Sachs says the S&P 500 could quickly fall another 7% on coronavirus fears \u2014 and warns US firms won't generate any profit growth in 2020",
-            "description": "The S&P 500 is down 8% since February 21, and Goldman Sachs says the key index will continue dropping in the first half of the year. The bank estimates the S&P 500 will plummet to 2,900 \u2014 an additional 7% from Wednesday's close \u2014 before recovering through the\u2026",
-            "url": "https://www.businessinsider.com/stock-market-outlook-lower-no-profit-growth-coronavirus-goldman-sachs-2020-2",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5e57c1acfee23d34c417fc52-2400/2016-09-26t000000z2145649855s1beudlhrdabrtrmadp3goldman-sachs-asia-jobs.jpg",
-            "publishedAt": "2020-02-27T14:18:17Z",
-            "content": "Brendan McDermid/Reuters\r\n<ul><li>The S&amp;P 500 is down 8% since February 21, and Goldman Sachs says the key index will continue dropping in the first half of the year.</li><li>The bank estimates the S&amp;P 500 will plummet to 2,900 \u2014 an additional 7% from\u2026 [+3100 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Gina Heeb",
             "title": "Republican officials are privately bracing for the possibility that a virus-hit US economy could hurt Trump in the election",
             "description": "The White House has attempted in recent days to downplay the effects the novel coronavirus could have on US growth. But behind closed doors, Republican officials have started to worry a faltering economy could undermine President Donald Trump's strongest case\u2026",
@@ -820,6 +807,19 @@
             "urlToImage": "https://i.insider.com/5bb48df998a18029946c4dd6?width=1200&format=jpeg",
             "publishedAt": "2020-02-27T22:08:41Z",
             "content": "<ul><li>The White House has attempted in recent days to downplay the effects the novel coronavirus could have on US growth.</li><li>But behind closed doors, Republican officials have started to worry a faltering economy could undermine President Donald Trump'\u2026 [+2994 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ben Winck",
+            "title": "Goldman Sachs says the S&P 500 could quickly fall another 7% on coronavirus fears \u2014 and warns US firms won't generate any profit growth in 2020",
+            "description": "The S&P 500 is down 8% since February 21, and Goldman Sachs says the key index will continue dropping in the first half of the year. The bank estimates the S&P 500 will plummet to 2,900 \u2014 an additional 7% from Wednesday's close \u2014 before recovering through the\u2026",
+            "url": "https://www.businessinsider.com/stock-market-outlook-lower-no-profit-growth-coronavirus-goldman-sachs-2020-2",
+            "urlToImage": "https://images.markets.businessinsider.com/image/5e57c1acfee23d34c417fc52-2400/2016-09-26t000000z2145649855s1beudlhrdabrtrmadp3goldman-sachs-asia-jobs.jpg",
+            "publishedAt": "2020-02-27T14:18:17Z",
+            "content": "Brendan McDermid/Reuters\r\n<ul><li>The S&amp;P 500 is down 8% since February 21, and Goldman Sachs says the key index will continue dropping in the first half of the year.</li><li>The bank estimates the S&amp;P 500 will plummet to 2,900 \u2014 an additional 7% from\u2026 [+3100 chars]"
         },
         {
             "source": {
@@ -957,12 +957,12 @@
                 "name": "Business Insider"
             },
             "author": "Gwen Everett",
-            "title": "US stocks plummet into correction territory on coronavirus fears \u2014 and the S&P 500 is headed for its worst week since the 2008 financial crisis",
-            "description": "All major US equity indices plunged Thursday, with the S&P 500 and Dow Jones industrial average entering correction territory. That means they've both fallen more than 10% from recent highs. A Stoxx Europe 600 also entered correction territory. The sell-off c\u2026",
-            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-us-index-correction-selloff-crash-coronavirus-2020-2-1028946774",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5c0a8ad71486fd18a723b89a-2000/2018-12-04t193843z488599386rc1d47333100rtrmadp3usa-stocks.jpg",
-            "publishedAt": "2020-02-27T16:31:14Z",
-            "content": "Reuters / Brendan McDermid\r\n<ul><li>All major US equity indices plunged Thursday, with the S&amp;P 500 and Dow Jones industrial average entering correction territory. That means they've both fallen more than 10% from recent highs.</li><li>A Stoxx Europe 600 a\u2026 [+2245 chars]"
+            "title": "Dow plunges 1,191 points on coronavirus fears, while S&P 500 posts its worst day since 2011",
+            "description": "All major US equity indexes plunged more than 4.4% on Thursday, with each entering correction territory. That means they've both fallen more than 10% from recent highs. The Stoxx Europe 600 also entered correction territory. The S&P 500's 4.4% decline marked \u2026",
+            "url": "https://www.businessinsider.com/stock-market-news-today-coronavirus-correction-worst-day-since-2011-2020-2",
+            "urlToImage": "https://images.markets.businessinsider.com/image/5dd84ffafd9db24c643ce225-2000/2005-07-01t120000z838843380rp6drnaqufaartrmadp3philippines-arroyo.jpg",
+            "publishedAt": "2020-02-27T21:18:03Z",
+            "content": "Reuters / Erik de Castro\r\n<ul><li>All major US equity indexes plunged more than 4.4% on Thursday, with each entering correction territory.</li><li>That means they've both fallen more than 10% from recent highs.</li><li>The Stoxx Europe 600 also entered correc\u2026 [+2399 chars]"
         },
         {
             "source": {
@@ -970,12 +970,12 @@
                 "name": "Business Insider"
             },
             "author": "Gwen Everett",
-            "title": "Dow plunges 1,191 points on coronavirus fears, while S&P 500 posts its worst day since 2011",
-            "description": "All major US equity indexes plunged more than 4.4% on Thursday, with each entering correction territory. That means they've both fallen more than 10% from recent highs. The Stoxx Europe 600 also entered correction territory. The S&P 500's 4.4% decline marked \u2026",
-            "url": "https://www.businessinsider.com/stock-market-news-today-coronavirus-correction-worst-day-since-2011-2020-2",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5dd84ffafd9db24c643ce225-2000/2005-07-01t120000z838843380rp6drnaqufaartrmadp3philippines-arroyo.jpg",
-            "publishedAt": "2020-02-27T21:18:03Z",
-            "content": "Reuters / Erik de Castro\r\n<ul><li>All major US equity indexes plunged more than 4.4% on Thursday, with each entering correction territory.</li><li>That means they've both fallen more than 10% from recent highs.</li><li>The Stoxx Europe 600 also entered correc\u2026 [+2399 chars]"
+            "title": "US stocks plummet into correction territory on coronavirus fears \u2014 and the S&P 500 is headed for its worst week since the 2008 financial crisis",
+            "description": "All major US equity indices plunged Thursday, with the S&P 500 and Dow Jones industrial average entering correction territory. That means they've both fallen more than 10% from recent highs. A Stoxx Europe 600 also entered correction territory. The sell-off c\u2026",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-us-index-correction-selloff-crash-coronavirus-2020-2-1028946774",
+            "urlToImage": "https://images.markets.businessinsider.com/image/5c0a8ad71486fd18a723b89a-2000/2018-12-04t193843z488599386rc1d47333100rtrmadp3usa-stocks.jpg",
+            "publishedAt": "2020-02-27T16:31:14Z",
+            "content": "Reuters / Brendan McDermid\r\n<ul><li>All major US equity indices plunged Thursday, with the S&amp;P 500 and Dow Jones industrial average entering correction territory. That means they've both fallen more than 10% from recent highs.</li><li>A Stoxx Europe 600 a\u2026 [+2245 chars]"
         },
         {
             "source": {

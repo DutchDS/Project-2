@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Anne Sraders",
+            "title": "Coronavirus fears send markets plunging, erasing the Dow\u2019s gains for the year",
+            "description": "Even as the virus rattles investors, one analyst predicts it could actually be \"a healthy correction.\"",
+            "url": "https://fortune.com/2020/01/31/coronavirus-fears-send-markets-plunging-erasing-the-dows-gains-for-the-year/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1196649998.jpg?resize=1200,600",
+            "publishedAt": "2020-01-31T21:05:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ellen McGirt",
+            "title": "The racist response to the coronavirus",
+            "description": "Asian people of all nationalities are being targeted, isolated, and harassed in familiar ways.",
+            "url": "https://fortune.com/2020/01/31/the-racist-response-to-the-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/coronavirus-outbreak-for-ra.jpg?resize=1200,600",
+            "publishedAt": "2020-01-31T18:13:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "China is keeping two thirds of its economy shut next week to curb coronavirus spread",
+            "description": "More than a dozen Chinese provinces announced an extension of the current Lunar New Year holiday by more than a week as the nation attempts to halt the spread of the novel coronavirus.",
+            "url": "https://fortune.com/2020/01/31/china-two-thirds-economy-shut-coronavirus-spread/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1197635309.jpg?resize=1200,600",
+            "publishedAt": "2020-01-31T13:11:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "As coronavirus spreads, facemasks become a \u2018symbol of protection\u2019\u2014and a lighting rod for fear",
+            "description": "The coronavirus outbreak is sparking global shortages of facemasks and in some countries, xenophobic backlash.",
+            "url": "https://fortune.com/2020/01/31/coronavirus-spread-facemasks-cultural-symbol-health/",
+            "urlToImage": null,
+            "publishedAt": "2020-01-31T12:35:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "Coronavirus: The economic effects are looking scarier by the day",
+            "description": "China's economy looks set to take a significant hit, and the timing is really not good.",
+            "url": "https://fortune.com/2020/01/31/coronavirus-economic-effects-recession-ceo-daily/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1197653180.jpg?resize=1200,600",
+            "publishedAt": "2020-01-31T11:19:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "The coronavirus is already disrupting the global supply chain, starting with these commodities",
+            "description": "The short-term impact of coronavirus on the global supply chain can be measured in commodity prices, which are down across the board in the past two weeks.",
+            "url": "https://fortune.com/2020/01/31/coronavirus-global-supply-chain-commodities/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1197084309.jpg?resize=1200,600",
+            "publishedAt": "2020-01-31T10:38:55Z",
+            "content": null
+        }
+    ]
+}

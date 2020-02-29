@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 47,
+    "totalResults": 50,
     "articles": [
         {
             "source": {
@@ -86,6 +86,45 @@
                 "name": "Bloomberg"
             },
             "author": null,
+            "title": "India's Fragile Economic Rebound Faces New Risk From Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-27/india-s-fragile-economic-rebound-faces-new-risk-from-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T22:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Singtel Counting on Budget Stimulus to Soften Coronavirus Blow",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-27/singtel-counting-on-budget-stimulus-to-soften-coronavirus-blow",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T22:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Spread Puts Densely Populated India on High Alert",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-27/coronavirus-spread-puts-densely-populated-india-on-high-alert",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T18:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
             "title": "Denmark Confirms Its First Case of Coronavirus, Ritzau Says",
             "description": null,
             "url": "https://www.bloomberg.com/news/articles/2020-02-27/denmark-confirms-its-first-case-of-coronavirus-ritzau-says-k74c0kx4",
@@ -112,11 +151,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Coronavirus Spread Puts Densely Populated India on High Alert",
+            "title": "Piraeus Bank Says Employee Tests Positive for Coronavirus",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-27/coronavirus-spread-puts-densely-populated-india-on-high-alert",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-27/piraeus-bank-says-employee-tests-positive-for-coronavirus",
             "urlToImage": null,
-            "publishedAt": "2020-02-27T18:30:00Z",
+            "publishedAt": "2020-02-27T15:51:47Z",
             "content": null
         },
         {
@@ -125,11 +164,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "India's Fragile Economic Rebound Faces New Risk From Coronavirus",
+            "title": "Coronavirus Shows Scale of Task to Fix China's Flawed Healthcare",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-27/india-s-fragile-economic-rebound-faces-new-risk-from-coronavirus",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-27/coronavirus-shows-scale-of-task-to-fix-china-s-flawed-healthcare",
             "urlToImage": null,
-            "publishedAt": "2020-02-27T22:00:00Z",
+            "publishedAt": "2020-02-27T21:00:00Z",
             "content": null
         },
         {
@@ -138,11 +177,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Singtel Counting on Budget Stimulus to Soften Coronavirus Blow",
+            "title": "Sound On: Coronavirus Market Fears, 2020 Campaign (Podcast)",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-27/singtel-counting-on-budget-stimulus-to-soften-coronavirus-blow",
+            "url": "https://www.bloomberg.com/news/audio/2020-02-27/sound-on-coronavirus-market-fears-2020-campaign-podcast",
             "urlToImage": null,
-            "publishedAt": "2020-02-27T22:00:00Z",
+            "publishedAt": "2020-02-27T23:15:41Z",
             "content": null
         },
         {
@@ -216,37 +255,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Piraeus Bank Says Employee Tests Positive for Coronavirus",
+            "title": "New York Is Preparing for Possible Coronavirus Outbreak",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-27/piraeus-bank-says-employee-tests-positive-for-coronavirus",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-27/new-york-is-preparing-for-possible-coronavirus-outbreak-video",
             "urlToImage": null,
-            "publishedAt": "2020-02-27T15:51:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Coronavirus Shows Scale of Task to Fix China's Flawed Healthcare",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-27/coronavirus-shows-scale-of-task-to-fix-china-s-flawed-healthcare",
-            "urlToImage": null,
-            "publishedAt": "2020-02-27T21:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Sound On: Coronavirus Market Fears, 2020 Campaign (Podcast)",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/audio/2020-02-27/sound-on-coronavirus-market-fears-2020-campaign-podcast",
-            "urlToImage": null,
-            "publishedAt": "2020-02-27T23:15:41Z",
+            "publishedAt": "2020-02-27T20:01:34Z",
             "content": null
         },
         {
@@ -299,19 +312,6 @@
             "url": "https://www.bloomberg.com/news/articles/2020-02-27/coronavirus-test-kits-will-be-modified-to-speed-u-s-detection",
             "urlToImage": null,
             "publishedAt": "2020-02-27T16:06:49Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "New York Is Preparing for Possible Coronavirus Outbreak",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-02-27/new-york-is-preparing-for-possible-coronavirus-outbreak-video",
-            "urlToImage": null,
-            "publishedAt": "2020-02-27T20:01:34Z",
             "content": null
         },
         {
@@ -385,11 +385,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "U.S. 'As Prepared as Any Country Can Be' on Coronavirus: Senator Braun",
+            "title": "The Unknown End to the Coronavirus Is What's Concerning, Says Jay Jacobs",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-02-27/u-s-as-prepared-as-any-country-can-be-on-coronavirus-senator-braun-video",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-27/the-unknown-end-to-the-coronavirus-is-what-s-concerning-says-jay-jacobs-video",
             "urlToImage": null,
-            "publishedAt": "2020-02-27T17:54:24Z",
+            "publishedAt": "2020-02-27T23:03:09Z",
             "content": null
         },
         {
@@ -398,11 +398,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "The Unknown End to the Coronavirus Is What's Concerning, Says Jay Jacobs",
+            "title": "U.S. 'As Prepared as Any Country Can Be' on Coronavirus: Senator Braun",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-02-27/the-unknown-end-to-the-coronavirus-is-what-s-concerning-says-jay-jacobs-video",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-27/u-s-as-prepared-as-any-country-can-be-on-coronavirus-senator-braun-video",
             "urlToImage": null,
-            "publishedAt": "2020-02-27T23:03:09Z",
+            "publishedAt": "2020-02-27T17:54:24Z",
             "content": null
         },
         {
@@ -481,6 +481,19 @@
             "url": "https://www.bloomberg.com/news/articles/2020-02-27/zoom-confusion-strikes-again-as-investors-hunt-coronavirus-plays",
             "urlToImage": null,
             "publishedAt": "2020-02-27T19:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Why the WHO Won't Call the Coronavirus a Pandemic - Bloomberg",
+            "description": "Why the WHO Won't Call the Coronavirus a Pandemic Bloomberg",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-02-27/coronoavirus-why-the-who-won-t-call-covid-19-a-pandemic",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T07:30:00Z",
             "content": null
         },
         {
@@ -599,6 +612,32 @@
             "urlToImage": null,
             "publishedAt": "2020-02-27T23:49:14Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Kamaron Leach",
+            "title": "Booking (BKNG) Stock Falls As Analysts Warn on 2020 Coronavirus",
+            "description": "Booking (BKNG) Stock Falls As Analysts Warn on 2020 Coronavirus bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-27/booking-analyst-warns-2020-may-be-lost-year-due-to-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-27T14:37:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Sam Potter, Anchalee Worrachate",
+            "title": "World Stock Rout Deepens and Treasuries Jump Again: Markets Wrap - Bloomberg",
+            "description": "Fear over the spreading coronavirus tightened its grip on global markets Friday, with stocks plunging across Europe and Asia a day after the worst rout on Wall Street since 2011. U.S. equity futures pointed to another drop at the New York open while investors\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-27/stock-slump-to-extend-in-asia-on-virus-fears-markets-wrap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4zlXwzMttzQ/v1/1200x800.jpg",
+            "publishedAt": "2020-02-27T21:51:00Z",
+            "content": "Fear over the spreading coronavirus tightened its grip on global markets Friday, with stocks plunging across Europe and Asia a day after the worst rout on Wall Street since 2011. U.S. equity futures pointed to another drop at the New York open while investors\u2026 [+4268 chars]"
         },
         {
             "source": {

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Margaret Rhodes",
+            "title": "The coronavirus problem could be solved by design thinking",
+            "description": "Data visualization, better infrastructure, and a reimagined health care system could change the course of the outbreak.",
+            "url": "https://fortune.com/2020/01/28/the-coronavirus-problem-could-be-solved-by-design-thinking/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/Wuhan-China-Coronavirus-Hospital.jpg?resize=1200,600",
+            "publishedAt": "2020-01-28T18:07:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Defne Gencler",
+            "title": "Americans Should Avoid Travel to China During Outbreak, CDC Says",
+            "description": "Travelers have been advised to avoid China as the coronavirus has claimed more than 100 lives.",
+            "url": "https://fortune.com/2020/01/28/cdc-warning-china-virus-outbreak/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/Coronavirus-China-Airport.jpg?resize=1200,600",
+            "publishedAt": "2020-01-28T15:22:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "Companies respond to the coronavirus outbreak",
+            "description": "The intensifying spread of the virus is roiling markets and leading companies to suspend employee travel.",
+            "url": "https://fortune.com/2020/01/28/companies-respond-coronavirus-outbreak-china-ceo-daily/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1196943562.jpg?resize=1200,600",
+            "publishedAt": "2020-01-28T11:16:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Hong Kong clamps down on travelers from China as coronavirus infections spike",
+            "description": "The latest moves are aimed at protecting an Asian financial hub that has already been reeling from months of anti-Beijing protests.",
+            "url": "https://fortune.com/2020/01/28/hong-kong-clamps-down-border-travelers-from-china-coronavirus-infections-spike/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1196684248.jpg?resize=1200,600",
+            "publishedAt": "2020-01-28T11:16:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "Big Tech vs. coronavirus: can Apple, Amazon and Microsoft restore calm to the global markets?",
+            "description": "Apple and Ebay are the first up to report earnings today.",
+            "url": "https://fortune.com/2020/01/28/big-tech-vs-coronavirus-can-apple-amazon-and-microsoft-restore-calm-to-the-global-markets/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1196692233.jpg?resize=1200,600",
+            "publishedAt": "2020-01-28T10:58:33Z",
+            "content": null
+        }
+    ]
+}

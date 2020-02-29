@@ -1,0 +1,734 @@
+{
+    "status": "ok",
+    "totalResults": 56,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Erin Schumaker",
+            "title": "How Americans can prepare for coronavirus if it spreads here",
+            "description": "While scientists are working to contain coronavirus and come up with effective treatments, health experts say people can still prepare and guard against infection.",
+            "url": "https://abcnews.go.com/Health/americans-prepare-coronavirus-spreads/story?id=69186419",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-travelers-03-gty-jef-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-28T01:32:54Z",
+            "content": "The coronavirus, or COVID-19, has infected dozens of Americans and thousands more across the world.\r\nWhile scientists are working to contain the outbreak and come up with effective treatments, health experts say people can still prepare and guard against infe\u2026 [+9449 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Libby Cathey",
+            "title": "As stock market dives, White House officials defend Trump's response to CoVID-19",
+            "description": "As the stock market continues on track for the sharpest weekly decline since 2008, President Donald Trump said \"like a miracle\" the new coronavirus \"will disappear.\"",
+            "url": "https://abcnews.go.com/Politics/stock-market-dives-white-house-defends-trumps-response/story?id=69281750",
+            "urlToImage": "https://s.abcnews.com/images/US/trump-black-history-2-sh-rc-200228_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-28T17:01:24Z",
+            "content": "As the stock market on Friday continued to nosedive over CoVID-19 fears, the White House defended President Donald Trump's response to the new coronavirus as he and his supporters continued to downplay the threat and accuse Democrats and the news media of hyp\u2026 [+9862 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Dow Jones continues to plunge amid coronavirus uncertainty",
+            "description": "The Dow is suffering its worst week since the financial crash of 2008.",
+            "url": "https://abcnews.go.com/Business/dow-jones-plunges-financial-crisis-coronavirus-continues/story?id=69281411",
+            "urlToImage": "https://s.abcnews.com/images/Business/new-york-stock-exchange-01-ap-jc-200228_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-28T15:02:20Z",
+            "content": "The Dow Jones Industrial Average plummeted more than 900 points on Friday, as financial markets continue to plummet on uncertainty over the spread of the novel coronavirus.\r\nThe Dow suffered its worst week since the financial crash of 2008.\r\nThe S&amp;P 500 a\u2026 [+527 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "FDA reports 1st drug shortage due to coronavirus outbreak",
+            "description": "The FDA announced it's been alerted to the first manufacturing shortage of an unnamed drug, due to a viral outbreak that began in China and has now reached American soil.",
+            "url": "https://abcnews.go.com/International/fda-reports-1st-drug-shortage-due-coronavirus-outbreak/story?id=69276490",
+            "urlToImage": "https://s.abcnews.com/images/US/nyc-pharmacy-face-masks-reuters-200228_hpMain_20200228-044245_16x9_992.jpg",
+            "publishedAt": "2020-02-28T10:35:34Z",
+            "content": "The U.S. Food and Drug Administration announced it's been alerted to the first manufacturing shortage of an unnamed drug, due to a viral coronavirus outbreak that began in China and has now reached American soil.\r\nFDA Commissioner Stephen Hahn said the agency\u2026 [+4876 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Dr. Angela N. Baldwin",
+            "title": "Growth of new coronavirus fuels questions over definition of pandemic - ABC News",
+            "description": "Growth of new coronavirus fuels questions over definition of pandemic ABC News If coronavirus spreads within the US, here's how daily life might change CNN China gets back to work \u2014 sort of \u2014 as number of new COVID-19 cases wanes MarketWatch Is The US Prepare\u2026",
+            "url": "https://abcnews.go.com/Health/growth-coronavirus-fuels-questions-definition-pandemic/story?id=69270738",
+            "urlToImage": "https://s.abcnews.com/images/International/brazil-coronavirus-mo_hpMain_20200227-214518_16x9_992.jpg",
+            "publishedAt": "2020-02-28T10:10:39Z",
+            "content": "As the coronavirus continues its spread around the globe, a single word is coming from the mouths of experts at an alarmingly growing rate: pandemic. But what exactly is a pandemic and does this qualify?\r\nFirst, it's important to realize coronaviruses are act\u2026 [+5342 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Nigeria announces first confirmed case of new coronavirus in sub-Saharan Africa",
+            "description": "Nigeria announces first confirmed case of new coronavirus in sub-Saharan Africa",
+            "url": "https://abcnews.go.com/International/wireStory/nigeria-announces-confirmed-case-coronavirus-saharan-africa-69273989",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T05:14:17Z",
+            "content": "ABUJA, Nigeria -- \r\nNigeria announces first confirmed case of new coronavirus in sub-Saharan Africa."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran's Health Ministry spokesman says the new coronavirus has killed 34 people amid 388 confirmed cases in Iran",
+            "description": "Iran's Health Ministry spokesman says the new coronavirus has killed 34 people amid 388 confirmed cases in Iran",
+            "url": "https://abcnews.go.com/International/wireStory/irans-health-ministry-spokesman-coronavirus-killed-34-people-69277262",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T10:28:03Z",
+            "content": "TEHRAN, Iran -- \r\nIran's Health Ministry spokesman says the new coronavirus has killed 34 people amid 388 confirmed cases in Iran."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Nigeria confirms coronavirus, first in sub-Saharan Africa",
+            "description": "Nigeria's health authorities have reported the country's first case of a new coronavirus in Lagos, the first confirmed case of the disease in sub-Saharan Africa",
+            "url": "https://abcnews.go.com/International/wireStory/nigeria-confirms-coronavirus-saharan-africa-69274261",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T05:23:36Z",
+            "content": "ABUJA, Nigeria -- \r\nNigeria's health authorities have reported the country's first case of a new coronavirus in Lagos, the first confirmed case of the disease in sub-Saharan Africa. \r\nThe Commissioner for Health for Lagos, Nigeria's largest city, said Friday \u2026 [+361 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Swiss government bans all events over 1,000 people",
+            "description": "The Swiss government says it is banning all \"public and private\" events in the country as a measure against the spread of the coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/swiss-government-bans-events-1000-people-69276865",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T09:32:04Z",
+            "content": "GENEVA -- \r\nThe Swiss government announced an immediate ban Friday on all \"public and private\" events in the country involving more than 1,000 people as a measure to halt the spread of COVID-19.\r\nThe measure announced Friday comes will last until at least Mar\u2026 [+1016 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Italy tries a return to some normalcy after virus closures",
+            "description": "Authorities have decided to re-open schools and museums in some of the less areas less hard-hit by the coronavirus outbreak, in which Italy has the most cases outside of Asia",
+            "url": "https://abcnews.go.com/International/wireStory/italy-return-normalcy-virus-closures-69277932",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_6588f7f02e65453e82efee4b1fadb836_16x9_992.jpg",
+            "publishedAt": "2020-02-28T11:16:36Z",
+            "content": "ROME -- \r\nAuthorities in Italy have decided to re-open schools and museums in some of the areas less hard-hit by the coronavirus outbreak in which the country has the most cases outside of Asia, as Italians yearn to go back to normal.\r\nIn the more heavily aff\u2026 [+3068 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "South Korea reports 256 additional cases of new coronavirus, raising its total to 2,022",
+            "description": "South Korea reports 256 additional cases of new coronavirus, raising its total to 2,022",
+            "url": "https://abcnews.go.com/Health/wireStory/south-korea-reports-256-additional-cases-coronavirus-raising-69270394",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T01:22:26Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korea reports 256 additional cases of new coronavirus, raising its total to 2,022."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Fed Chair Powell pledges to 'use our tools' to support economy from coronavirus outbreak that poses 'risks'",
+            "description": "Fed Chair Powell pledges to 'use our tools' to support economy from coronavirus outbreak that poses 'risks'",
+            "url": "https://abcnews.go.com/US/wireStory/fed-chair-powell-pledges-tools-support-economy-coronavirus-69289622",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T19:31:03Z",
+            "content": "WASHINGTON -- \r\nFed Chair Powell pledges to 'use our tools' to support economy from coronavirus outbreak that poses 'risks.'"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "TERRY SPENCER Associated Press",
+            "title": "Pence says states will receive help if coronavirus spreads",
+            "description": "Vice President Mike Pence says the federal government is ready to help the states if the coronavirus spreads",
+            "url": "https://abcnews.go.com/US/wireStory/pence-states-receive-coronavirus-spreads-69294012",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T22:19:27Z",
+            "content": "WEST PALM BEACH, Fla. -- \r\nVice President Mike Pence said Friday that the federal government is prepared to assist the states if the coronavirus spreads significantly across the country an eventuality he called unlikely.\r\nPence told a brief press conference i\u2026 [+3806 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DON THOMPSON and ADAM BEAM Associated Press",
+            "title": "Another case of coronavirus confirmed in Northern California",
+            "description": "Health officials announced another case of the new coronavirus in Silicon Valley, adding to the more than 30 who've had the virus in California",
+            "url": "https://abcnews.go.com/Health/wireStory/case-coronavirus-confirmed-northern-california-69294933",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_018b7cd7f21a4a5abcd1f4fce870ebe8_16x9_992.jpg",
+            "publishedAt": "2020-02-28T23:12:18Z",
+            "content": "VACAVILLE, Calif. -- \r\nCalifornia health officials on Friday confirmed a third case of the novel coronavirus in the heart of Silicon Valley, adding to the more than 30 already confirmed in California. \r\nSanta Clara County Public Health Department spokesman Ma\u2026 [+6487 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICK PERRY Associated Press",
+            "title": "New Zealand reports first virus patient; case linked to Iran",
+            "description": "New Zealand has it's first confirmed case of the new coronavirus after it was contracted by a person in their 60s who recently returned from Iran",
+            "url": "https://abcnews.go.com/Health/wireStory/zealand-reports-virus-patient-case-linked-iran-69274528",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T05:33:47Z",
+            "content": "WELLINGTON, New Zealand -- \r\nNew Zealand health officials on Friday said the country had its first case of the new coronavirus, a person in their 60s who recently returned from Iran.\r\nHealth officials said the results of a test came through positive on Friday\u2026 [+641 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHRISTOPHER RUGABER AP Economics Writer",
+            "title": "US consumer spending slowed in January while incomes jumped",
+            "description": "Americans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose",
+            "url": "https://abcnews.go.com/US/wireStory/us-consumer-spending-slowed-january-incomes-jumped-69280882",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_b633a04fa8734f6dbc92208a25e18f12_16x9_992.jpg",
+            "publishedAt": "2020-02-28T13:54:33Z",
+            "content": "WASHINGTON -- \r\nAmericans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose. \r\nThe Commerce Department said Friday that consumer spending increased 0.2% last \u2026 [+1717 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Pope sick a 2nd day with apparent cold, cancels audiences",
+            "description": "Pope Francis has canceled his official audiences.",
+            "url": "https://abcnews.go.com/International/wireStory/pope-sick-2nd-day-apparent-cold-cancels-audiences-69276863",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_aac4f6e986dd42f6b8584d4f8ae0a8e5_16x9_992.jpg",
+            "publishedAt": "2020-02-28T09:24:04Z",
+            "content": "VATICAN CITY -- \r\nPope Francis canceled his official audiences Friday after apparently coming down with a cold.\r\nThe Vatican said the 83-year-old pontiff celebrated morning Mass as usual and greeted participants at the end. He planned to keep his private meet\u2026 [+694 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DEE-ANN DURBIN, ANNE D'INNOCENZIO and JOSEPH PISANI AP Business Writers",
+            "title": "Coronavirus fear touches off a global run on face masks",
+            "description": "Fear of the spreading coronavirus is causing a global run on sales of face masks despite medical experts' advice that most people who aren't sick don't need to wear them",
+            "url": "https://abcnews.go.com/Health/wireStory/coronavirus-fear-touches-off-global-run-face-masks-69273953",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c1e3ab6e0652478fb5ebfe11cb9c8da7_16x9_992.jpg",
+            "publishedAt": "2020-02-28T05:02:03Z",
+            "content": "Fear of the spreading coronavirus has led to a global run on sales of face masks despite medical experts' advice that most people who aren't sick don't need to wear them.\r\nMany businesses are sold out, while others are limiting how many a customer can buy. Am\u2026 [+6629 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLIN BINKLEY AP Education Writer",
+            "title": "US schools start planning for possible spread of coronavirus",
+            "description": "Schools across the United States are canceling trips abroad, preparing online lessons and even rethinking \u201cperfect attendance\u201d awards as they brace for the possibility that the new coronavirus could begin spreading in their communities",
+            "url": "https://abcnews.go.com/Health/wireStory/us-schools-start-planning-spread-coronavirus-69293522",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_d7b940e0d8cf46f29b1bb6377eef8653_16x9_992.jpg",
+            "publishedAt": "2020-02-28T21:52:23Z",
+            "content": "Schools across the United States are canceling trips abroad, preparing online lessons and even rethinking perfect attendance awards as they brace for the possibility that the new coronavirus could begin spreading in their communities.\r\nDistricts have been rus\u2026 [+6965 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ADRIANA GOMEZ LICON and TAMARA LUSH Associated Press",
+            "title": "Cruise lines, passengers scramble to respond to coronavirus",
+            "description": "The spread of a new virus from China is disrupting the cruise industry in the midst of its busiest season for bookings",
+            "url": "https://abcnews.go.com/Health/wireStory/cruise-lines-passengers-scramble-respond-coronavirus-69290531",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_b1f54925cee140b2b08fe865f9cb99ab_16x9_992.jpg",
+            "publishedAt": "2020-02-28T20:11:34Z",
+            "content": "MIAMI -- \r\nBeing trapped aboard a ship with thousands of people as the new coronavirus spreads around the world isnt the kind of serene vacation envisioned by most travelers, many of whom are delaying or canceling planned cruises at a time when bookings shoul\u2026 [+5334 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RICARDO ALONSO-ZALDIVAR and DARLENE SUPERVILLE Associated Press",
+            "title": "States to get virus testing kits as White House urges calm",
+            "description": "Federal health officials say they're scrambling to get coronavirus testing up and running in every state, and President Donald Trump's chief economic adviser is urging Americans not to overreact to plunging financial markets",
+            "url": "https://abcnews.go.com/Health/wireStory/states-virus-testing-kits-white-house-urges-calm-69293246",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_5bfa01d7051f4a199b0153aa81338fe7_16x9_992.jpg",
+            "publishedAt": "2020-02-28T21:42:56Z",
+            "content": "WASHINGTON -- \r\nFederal health officials said Friday they're scrambling to get coronavirus testing up and running in every state, as President Donald Trump's chief economic adviser urged Americans not to overreact to plunging financial markets.\r\nThe Centers f\u2026 [+5272 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RICARDO ALONSO-ZALDIVAR Associated Press",
+            "title": "Whistleblower: Feds helping evacuees lacked virus protection",
+            "description": "A government whistleblower has filed a complaint alleging that federal workers did not have the necessary protective gear or training when they were deployed to help victims of the coronavirus evacuated from China",
+            "url": "https://abcnews.go.com/Health/wireStory/whistleblower-feds-helping-evacuees-lacked-virus-protection-69268385",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_be43003bd1cf42bc97088d6584d0f60d_16x9_992.jpg",
+            "publishedAt": "2020-02-28T00:05:50Z",
+            "content": "WASHINGTON -- \r\nA government whistleblower has filed a complaint alleging that some federal workers did not have the necessary protective gear or training when they were deployed to help Americans evacuated from China during the coronavirus outbreak.\r\nThe com\u2026 [+2491 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RICK CALLAHAN and TOM DAVIES Associated Press",
+            "title": "Pence's handling of 2015 HIV outbreak gets new scrutiny",
+            "description": "Vice President Mike Pence's handling of an HIV outbreak in southern Indiana when he was governor is getting new scrutiny now that President Donald Trump has tasked him with overseeing the U.S. response to the new coronavirus threat",
+            "url": "https://abcnews.go.com/Health/wireStory/pences-handling-2015-hiv-outbreak-scrutiny-69270494",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_0b92bf0a53124e0384681d2374f5af5b_16x9_992.jpg",
+            "publishedAt": "2020-02-28T01:31:05Z",
+            "content": "INDIANAPOLIS -- \r\nPresident Donald Trump's choice of Vice President Mike Pence to oversee the nation's response to the new coronavirus threat is bringing renewed scrutiny to the former governor's handling of an HIV outbreak in southern Indiana when he was gov\u2026 [+6551 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JONATHAN LEMIRE and JOSH BOAK Associated Press",
+            "title": "Trump tries to shift blame as virus outbreak rattles markets",
+            "description": "As global markets plunge amid growing fears about the coronavirus outbreak, President Donald Trump and his allies are returning to a familiar playbook and blaming others for the slide",
+            "url": "https://abcnews.go.com/Health/wireStory/trump-shift-blame-virus-outbreak-rattles-markets-69293137",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3aa52cb1e4e1466ea426fb58c1d0b3e2_16x9_992.jpg",
+            "publishedAt": "2020-02-28T21:37:55Z",
+            "content": "WASHINGTON -- \r\nAs global markets plunged amid growing fears about the coronavirus outbreak, President Donald Trump and his allies pulled from a familiar playbook Friday and blamed others for the slide. It's a challenging sell for a president who has lashed h\u2026 [+5899 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Markets slide, auto show canceled as virus impact spreads",
+            "description": "Concerns about the economic impact of the new coronavirus are intensifying, disrupting business events, production and travel",
+            "url": "https://abcnews.go.com/Business/wireStory/markets-slide-auto-show-canceled-virus-impact-spreads-69279820",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_31e8fb9f10b94a1f902242a4952ff309_16x9_992.jpg",
+            "publishedAt": "2020-02-28T12:52:58Z",
+            "content": "LONDON -- \r\nStock markets are heading for their worst week since 2008, Europe's top auto show has been canceled and companies keep lowering their earnings estimates. Here's a look at the latest developments:\r\nMARKETS: Share indexes are down sharply again, wit\u2026 [+1819 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHRISTOPHER RUGABER AP Economics Writer",
+            "title": "US consumer spending slowed in January while incomes jumped",
+            "description": "Americans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose",
+            "url": "https://abcnews.go.com/Business/wireStory/us-consumer-spending-slowed-january-incomes-jumped-69280916",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_b633a04fa8734f6dbc92208a25e18f12_16x9_992.jpg",
+            "publishedAt": "2020-02-28T13:43:45Z",
+            "content": "WASHINGTON -- \r\nAmericans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose. \r\nThe Commerce Department said Friday that consumer spending increased 0.2% last \u2026 [+642 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOAN MATEU Associated Press",
+            "title": "First virus-free guests abandon blocked Spanish island hotel",
+            "description": "Some guests have started to leave a locked-down hotel in Spain\u2019s Tenerife island after undergoing screening for the new virus that is infecting hundreds worldwide",
+            "url": "https://abcnews.go.com/International/wireStory/virus-free-guests-abandon-blocked-spanish-island-hotel-69277096",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_9b13544cae394b6883392343ecfb1ec6_16x9_992.jpg",
+            "publishedAt": "2020-02-28T10:06:02Z",
+            "content": "ADEJE, Spain -- \r\nSome guests have started to leave a locked-down hotel in Spains Tenerife island after undergoing screening for a new virus that is infecting hundreds worldwide.\r\nReporters at the scene saw several families and couples being screened for thei\u2026 [+1290 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Fire kills 5 in residential building in Iranian city of Qom",
+            "description": "A fire that erupted in a residential building in the Iranian city of Qom has killed at least five people, including a 2-year-old, and injured 38",
+            "url": "https://abcnews.go.com/International/wireStory/fire-kills-residential-building-iranian-city-qom-69277061",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T09:57:32Z",
+            "content": "TEHRAN, Iran -- \r\nA fire erupted in a residential building in the Iranian city of Qom before dawn on Friday, killing at least five people, including a 2-year-old, and injuring 38, Irans state TV reported.\r\nThe report did not say what caused the blaze at the 2\u2026 [+828 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "German unemployment steady at 5% in February",
+            "description": "Germany's Federal Labor Agency is reporting that unemployment remained steady in February in the country, despite overall weakness in Europe's largest economy",
+            "url": "https://abcnews.go.com/International/wireStory/german-unemployment-steady-february-69280915",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_082dd7ebfbf441849637f750ca99726e_16x9_992.jpg",
+            "publishedAt": "2020-02-28T13:43:43Z",
+            "content": "BERLIN -- \r\nUnemployment remained steady in February in Germany, despite overall weakness in Europe's largest economy, the Federal Labor Agency said Friday.\r\nThe rate sat at 5%, when adjusted for seasonal factors the figure used by most economists where it ha\u2026 [+1011 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DEE-ANN DURBIN, ANNE D'INNOCENZIO and JOSEPH PISANI AP Business Writers",
+            "title": "Coronavirus fear touches off a global run on face masks",
+            "description": "Fear of the spreading coronavirus is causing a global run on sales of face masks despite medical experts' advice that most people who aren't sick don't need to wear them",
+            "url": "https://abcnews.go.com/Business/wireStory/coronavirus-fear-touches-off-global-run-face-masks-69274596",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c1e3ab6e0652478fb5ebfe11cb9c8da7_16x9_992.jpg",
+            "publishedAt": "2020-02-28T05:40:49Z",
+            "content": "Fear of the spreading coronavirus has led to a global run on sales of face masks despite medical experts' advice that most people who aren't sick don't need to wear them.\r\nMany businesses are sold out, while others are limiting how many a customer can buy. Am\u2026 [+6629 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ADRIANA GOMEZ LICON and TAMARA LUSH Associated Press",
+            "title": "Cruise lines, passengers scramble to respond to coronavirus",
+            "description": "The spread of a new virus from China is disrupting the cruise industry in the midst of its busiest season for bookings",
+            "url": "https://abcnews.go.com/Business/wireStory/cruise-lines-passengers-scramble-respond-coronavirus-69290606",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_b1f54925cee140b2b08fe865f9cb99ab_16x9_992.jpg",
+            "publishedAt": "2020-02-28T20:12:32Z",
+            "content": "MIAMI -- \r\nBeing trapped aboard a ship with thousands of people as the new coronavirus spreads around the world isnt the kind of serene vacation envisioned by most travelers, many of whom are delaying or canceling planned cruises at a time when bookings shoul\u2026 [+5334 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MICHAEL WEISSENSTEIN Associated Press",
+            "title": "Cruise ship sails to St. Maarten after COVID-19 scare",
+            "description": "A British cruise ship turned away by the Dominican Republic after passengers suffered flu-like symptoms is awaiting approval to dock on the Dutch island of St. Maarten",
+            "url": "https://abcnews.go.com/International/wireStory/cruise-ship-sails-st-maarten-covid-19-scare-69285552",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_b1f54925cee140b2b08fe865f9cb99ab_16x9_992.jpg",
+            "publishedAt": "2020-02-28T17:10:33Z",
+            "content": "HAVANA -- \r\nA British cruise ship turned away by the Dominican Republic after passengers suffered flu-like symptoms was awaiting approval to dock on the island of St. Maarten on Friday, officials said. \r\nDominican officials said they barred the Braemar from t\u2026 [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHRISTOPHER RUGABER AP Economics Writer",
+            "title": "Fed chair Powell: Will 'use our tools' to support economy",
+            "description": "Federal Reserve Chairman Jerome Powell pledged that the Fed will \u201cuse our tools\" to support the economy, a strong signal of a likely rate cut, perhaps at its next meeting March 17-18",
+            "url": "https://abcnews.go.com/US/wireStory/fed-chair-powell-tools-support-economy-69289843",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T19:39:47Z",
+            "content": "WASHINGTON -- \r\nFederal Reserve Chairman Jerome Powell pledged Friday that the Fed will use our tools\" to support the economy, an effort to ease fears and a strong signal of a likely rate cut, perhaps at its next meeting March 17-18. \r\nThe statement said the \u2026 [+278 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "BTS cancels concerts in South Korean capital due to virus",
+            "description": "K-pop superstar group BTS has canceled a series of planned concerts in Seoul in April due to concerns about a soaring viral outbreak in South Korea",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/bts-cancels-concerts-south-korean-capital-due-virus-69271677",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_78d8a51fd6ab4227812f15b17bb584ea_16x9_992.jpg",
+            "publishedAt": "2020-02-28T02:48:37Z",
+            "content": "SEOUL, South Korea -- \r\nK-pop superstar group BTS has canceled a series of planned concerts in Seoul in April due to concerns about a soaring viral outbreak in South Korea.\r\nThe bands management agency said Friday: We regret to announce that the BTS MAP OF TH\u2026 [+482 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHRISTOPHER RUGABER AP Economics Writer",
+            "title": "Fed chair Powell: Will 'use our tools' to support economy",
+            "description": "Federal Reserve Chairman Jerome Powell pledged that the Fed will \u201cuse our tools\" to support the economy, a strong signal of a likely rate cut, perhaps at its next meeting March 17-18",
+            "url": "https://abcnews.go.com/Business/wireStory/fed-chair-powell-tools-support-economy-69289844",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T19:40:03Z",
+            "content": "WASHINGTON -- \r\nFederal Reserve Chairman Jerome Powell pledged Friday that the Fed will use our tools\" to support the economy, an effort to ease fears and a strong signal of a likely rate cut, perhaps at its next meeting March 17-18. \r\nThe statement said the \u2026 [+278 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected 83,000 globally, caused 2,800 deaths",
+            "description": "A new virus that emerged in China has infected more than 83,000 people and caused more than 2,800 deaths",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-83000-globally-caused-2800-deaths-69273119",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T04:07:47Z",
+            "content": "A viral outbreak that began in China has infected more than 83,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+994 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FOSTER KLUG and MATT SEDENSKY Associated Press",
+            "title": "Financial pain deepens as nearly 60 countries report virus",
+            "description": "A deepening health crisis from the worldwide virus outbreak is hitting finances too",
+            "url": "https://abcnews.go.com/Business/wireStory/financial-pain-deepens-60-countries-report-virus-69285981",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c1e3ab6e0652478fb5ebfe11cb9c8da7_16x9_992.jpg",
+            "publishedAt": "2020-02-28T17:26:26Z",
+            "content": "TOKYO -- \r\nA deepening health crisis became an economic one too Friday as the coronavirus outbreak sapped financial markets, emptied shops and businesses and put major sites and events off limits. \r\nThe list of countries hit by the illness edged toward 60 as \u2026 [+5868 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "'Amazing Race' suspends filming as virus precaution",
+            "description": "The globe-trotting reality series \u201cThe Amazing Race\u201d is taking a breather as a precaution due to the virus outbreak affecting several countries",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/amazing-race-suspends-filming-virus-precaution-69292185",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_dbf38007c6ae4fc3b2f81cc25ec86a01_16x9_992.jpg",
+            "publishedAt": "2020-02-28T21:03:19Z",
+            "content": "LOS ANGELES -- \r\nThe globe-trotting reality series The Amazing Race is taking a breather as a precaution due to the virus outbreak affecting several countries.\r\nCBS said in a statement Friday that it had temporarily suspended production and was sending contes\u2026 [+872 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "National Symphony cancels Japan concerts due to virus",
+            "description": "The National Symphony Orchestra canceled the five remaining performances in Japan of its Asian tour because of a new virus epidemic",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/national-symphony-cancels-japan-concerts-due-virus-69271891",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T03:14:06Z",
+            "content": "WASHINGTON -- \r\nThe National Symphony Orchestra canceled the five remaining performances in Japan of its Asian tour because of a new virus epidemic.\r\nThe orchestra originally was to play eight concerts in its first international tour with music director Giana\u2026 [+1137 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Thai prime minister and colleagues survive censure vote",
+            "description": "Thailand's prime minister and five of his fellow Cabinet members have defeated non-confidence motions filed against them in Parliament",
+            "url": "https://abcnews.go.com/International/wireStory/thai-prime-minister-colleagues-survive-censure-vote-69277655",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T10:53:20Z",
+            "content": "BANGKOK -- \r\nThailand's prime minister and five of his fellow Cabinet members on Friday defeated non-confidence motions filed against them in Parliament.\r\nAll six managed to gain votes of approval from more than half the 500 members of the House of Representa\u2026 [+3034 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "How major US stock indexes fared Friday",
+            "description": "Wall Street closed out the worst week for stocks since October 2008 Friday with more heavy selling, though a last-minute flurry of buying kept the market from another steep plunge",
+            "url": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-friday-69293454",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T21:51:17Z",
+            "content": "Wall Street closed out the worst week for stocks since October 2008 Friday with more heavy selling, though a last-minute flurry of buying kept the market from another steep plunge.\r\nBond prices soared as investors sought safety, pushing yields to record lows.\u2026 [+776 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Beyond Meat, Dell fall; 3M, Forty Seven rise",
+            "description": "Stocks that moved heavily or traded substantially on Friday: Beyond Meat, Dell fall; 3M, Forty Seven rise",
+            "url": "https://abcnews.go.com/Business/wireStory/meat-dell-fall-3m-forty-rise-69292654",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T21:21:53Z",
+            "content": "NEW YORK -- \r\nStocks that moved heavily or traded substantially on Friday:\r\nVMware Inc., down $15.11 to $120.52.\r\nThe cloud computing company's fourth-quarter profit fell short of Wall Street forecasts.\r\nBaidu Inc., up 7 cents to $119.98.\r\nThe Chinese web sea\u2026 [+928 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAMEY KEATEN and FRANK JORDANS Associated Press",
+            "title": "Geneva auto show canceled as Switzerland bans large events",
+            "description": "The Geneva auto show is being canceled after the Swiss government announced an immediate ban on all public and private events involving more than 1,000 people",
+            "url": "https://abcnews.go.com/Business/wireStory/geneva-auto-show-canceled-switzerland-bans-large-events-69280086",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_31e8fb9f10b94a1f902242a4952ff309_16x9_992.jpg",
+            "publishedAt": "2020-02-28T13:06:18Z",
+            "content": "GENEVA -- \r\nThe Geneva auto show was canceled after the Swiss government put an immediate ban Friday on all public and private events involving more than 1,000 people in order to halt the spread of the new coronavirus.\r\nThe ban on big events will last until a\u2026 [+3182 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stocks open sharply lower on Wall Street; Dow sinks 1.8%",
+            "description": "Stocks are opening sharply lower on Wall Street, putting the market on track for its worst week since October 2008 during the global financial crisis",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-open-sharply-lower-wall-street-dow-sinks-69282157",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_980ef677cd8f43a099f98df5cf8f00f1_16x9_992.jpg",
+            "publishedAt": "2020-02-28T14:45:06Z",
+            "content": "NEW YORK -- \r\nStocks are opening sharply lower on Wall Street, putting the market on track for its worst week since October 2008 during the global financial crisis. U.S. indexes fell 1.8% following steep losses in Europe and Asia. The rout is driven by fear t\u2026 [+5935 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOE McDONALD AP Business Writers",
+            "title": "Asia stocks tumble on virus fears after Wall Street plunge",
+            "description": "Asian stock markets have fallen further on virus fears after Wall Street endured its biggest one-day drop in nine years",
+            "url": "https://abcnews.go.com/Business/wireStory/asia-stocks-tumble-virus-fears-wall-street-plunge-69275297",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_2fd3c8e13f2945a5a2d6399a8c0ec8ec_16x9_992.jpg",
+            "publishedAt": "2020-02-28T06:22:48Z",
+            "content": "Asian stock markets plunged further Friday on spreading virus fears, deepening an global rout after Wall Street endured its biggest one-day drop in nine years.\r\nTokyo's benchmark plummeted by an unusually wide margin of 3.7% and Seoul and Sydney dropped by mo\u2026 [+5647 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATTHEW PERRONE and LINDA A. JOHNSON Associated Press",
+            "title": "US reports first drug shortage tied to virus outbreak",
+            "description": "The Food and Drug Administration is reporting the first U.S. drug shortage tied to the viral outbreak that began in China",
+            "url": "https://abcnews.go.com/Health/wireStory/us-reports-drug-shortage-tied-virus-outbreak-69286448",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_314094ad4151419f8f5b9be027ebd947_16x9_992.jpg",
+            "publishedAt": "2020-02-28T17:47:35Z",
+            "content": "WASHINGTON -- \r\nHealth officials reported the first U.S. drug shortage tied to the viral outbreak that is disrupting production in China, but they declined to identify the manufacturer or the product.\r\nThe Food and Drug Administration said late Thursday that \u2026 [+2882 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATTHEW PERRONE and LINDA A. JOHNSON Associated Press",
+            "title": "US reports first drug shortage tied to virus outbreak",
+            "description": "The Food and Drug Administration is reporting the first U.S. drug shortage tied to the viral outbreak that began in China",
+            "url": "https://abcnews.go.com/Business/wireStory/us-reports-drug-shortage-tied-virus-outbreak-69286449",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_314094ad4151419f8f5b9be027ebd947_16x9_992.jpg",
+            "publishedAt": "2020-02-28T17:43:41Z",
+            "content": "WASHINGTON -- \r\nHealth officials reported the first U.S. drug shortage tied to the viral outbreak that is disrupting production in China, but they declined to identify the manufacturer or the product.\r\nThe Food and Drug Administration said late Thursday that \u2026 [+2882 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Carnage on Wall Street, but some companies thrive or recover",
+            "description": "US markets are heading for their worst week since the financial crisis with the final tally of economic damage from a spreading virus still unknown",
+            "url": "https://abcnews.go.com/Business/wireStory/carnage-wall-street-companies-thrive-recover-69287395",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_71e8cd9300b04f9294a2434a3048053f_16x9_992.jpg",
+            "publishedAt": "2020-02-28T18:25:35Z",
+            "content": "U.S. markets are heading for their worst week since the financial crisis with the final tally of economic damage from a spreading virus still unknown. \r\nThat doesn't mean there isn't potential promise in a select group of companies, either because their stock\u2026 [+3021 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATT SEDENSKY and JON GAMBRELL Associated Press",
+            "title": "World harshens its virus response as epidemic worsens by day",
+            "description": "Saudi Arabia cut travel to Islam\u2019s holiest sites, South Korea toughened penalties for those breaking quarantines and airports looked for signs of sick passengers as a new virus troubled more places",
+            "url": "https://abcnews.go.com/Health/wireStory/world-harshens-virus-response-epidemic-worsens-day-69271005",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_6af1a41426d74394958f82d12935917b_16x9_992.jpg",
+            "publishedAt": "2020-02-28T01:56:36Z",
+            "content": "BANGKOK -- \r\nSaudi Arabia cut travel to Islams holiest sites, South Korea toughened penalties for those breaking quarantines and airports across Latin America looked for signs of sick passengers as a new virus troubled places around the globe.\r\nWith the numbe\u2026 [+5101 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FOSTER KLUG and KIM TONG-HYUNG Associated Press",
+            "title": "Virus epidemic growing by day hits schools, concerts, parks",
+            "description": "Japan's schools prepared to close for almost a month and entertainers, topped by K-pop superstars BTS, canceled events as a virus epidemic extended its spread through Asia into Europe and now into sub-Saharan Africa",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-epidemic-growing-day-hits-schools-concerts-parks-69275364",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c1e3ab6e0652478fb5ebfe11cb9c8da7_16x9_992.jpg",
+            "publishedAt": "2020-02-28T06:29:57Z",
+            "content": "TOKYO -- \r\nJapan's schools prepared to close for almost a month and entertainers, topped by K-pop superstars BTS, canceled events as a virus epidemic extended its spread through Asia into Europe and on Friday, into sub-Saharan Africa.\r\nThe expectation that Ja\u2026 [+4326 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CARLA K. JOHNSON AP Medical Writer",
+            "title": "Q&A: Emerging picture of virus shows world at critical stage",
+            "description": "The global spread of infection from the new virus reached a critical stage this week with the number of new cases reported in the rest of the world surpassing the number of new cases in China",
+            "url": "https://abcnews.go.com/Health/wireStory/qa-emerging-picture-virus-shows-world-critical-stage-69293875",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_16b8243d446c4add9c4a04e393501f92_16x9_992.jpg",
+            "publishedAt": "2020-02-28T22:05:18Z",
+            "content": "The global spread of infection from the new virus reached a critical stage this week with the number of new cases reported in the rest of the world surpassing the number of new cases in China, where the emergency began.\r\nReflecting how tourism and business tr\u2026 [+5314 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "STAN CHOE AP Business Writer",
+            "title": "Stocks just 'corrected,' a regular but still scary event",
+            "description": "The stock market's current slide hit a big milestone Thursday",
+            "url": "https://abcnews.go.com/US/wireStory/stocks-corrected-regular-scary-event-69274091",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T05:16:34Z",
+            "content": "NEW YORK -- \r\nThe stock market's current slide hit a big milestone Thursday after indexes got pounded for a sixth straight day.\r\nThe S&amp;P 500 has dropped more than 10% from its record high, set just over a week ago, as worries have increased that a fast-sp\u2026 [+4786 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "STAN CHOE AP Business Writer",
+            "title": "Stocks just 'corrected,' a regular but still scary event",
+            "description": "The stock market's current slide hit a big milestone Thursday",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-corrected-regular-scary-event-69273952",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T05:01:38Z",
+            "content": "NEW YORK -- \r\nThe stock market's current slide hit a big milestone Thursday after indexes got pounded for a sixth straight day.\r\nThe S&amp;P 500 has dropped more than 10% from its record high, set just over a week ago, as worries have increased that a fast-sp\u2026 [+4786 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Canceled flights, quarantined cruises and $30B losses: How coronavirus has upended the travel industry",
+            "description": "Canceled flights, quarantined cruises and $30B losses: How coronavirus has upended the travel industry go.com",
+            "url": "https://abcnews.go.com/Business/canceled-flights-quarantined-cruises-30b-losses-coronavirus-upended/story?id=69185054",
+            "urlToImage": "https://s.abcnews.com/images/Business/spain-virus-ap-jc-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-28T10:45:34Z",
+            "content": "The novel coronavirus outbreak has already upended an entire industry, resulting in canceled flights, resorts on lockdown, and a deadly cruise ship quarantine. With the world bracing for a pandemic, experts say the travel sector should prepare for even more u\u2026 [+6984 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Mexico confirms first 2 cases of coronavirus",
+            "description": "Mexico's assistant health secretary says the country now has two confirmed cases of the new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/mexico-confirms-cases-coronavirus-69280468",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T13:42:38Z",
+            "content": "MEXICO CITY -- \r\nMexico's assistant health secretary announced Friday that the country now has two confirmed cases of the new coronavirus. \r\nHugo Lopez-Gatell said one of the patients is in Mexico City and the other in the northern state of Sinaloa, and neith\u2026 [+368 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stephanie Ebbs, Anne Flaherty",
+            "title": "CDC moves to rapidly expand COVID-19 testing capabilities in US",
+            "description": "Health and Human Services Secretary Alex Azar said Friday that testing for the COVID-19 virus would",
+            "url": "https://abcnews.go.com/Politics/cdc-moves-rapidly-expand-covid-19-testing-capabilities/story?id=69286537",
+            "urlToImage": "https://s.abcnews.com/images/US/coronavirus-testkit-sample-5_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-28T22:09:46Z",
+            "content": "Health and Human Services Secretary Alex Azar said Friday that capabilities for testing for the COVID-19 virus would \"rapidly expand\" nationwide in the next several weeks as well as the criteria for who gets tested and when.\r\nThat announcement came as the Cen\u2026 [+3977 chars]"
+        }
+    ]
+}

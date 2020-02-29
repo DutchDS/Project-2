@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 11,
     "articles": [
         {
             "source": {
@@ -72,19 +72,6 @@
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": "Jeffrey Sparshott",
-            "title": "Newsletter: Revenue Losses, Travel Restrictions",
-            "description": "Your daily economics newsletter from The Wall Street Journal.",
-            "url": "https://blogs.wsj.com/economics/2020/02/27/newsletter-revenue-losses-travel-restrictions/",
-            "urlToImage": "https://images.wsj.net/im-158177",
-            "publishedAt": "2020-02-27T11:40:12Z",
-            "content": "Feb 27, 2020 6:40 am ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. Profit Warning Some American companies say they could lose as much as half their annual revenue from China if the coronavirus epi\u2026 [+85 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
             "author": "Chun Han Wong",
             "title": "South Korea Reports Faster Coronavirus Spread Than in China - The Wall Street Journal",
             "description": "South Korea Reports Faster Coronavirus Spread Than in China The Wall Street Journal Live updates: Fears grow of a coronavirus pandemic as markets stumble again; Japan shuts schools The Washington Post Hospitals preparing for coronavirus outbreak in U.S. CBS E\u2026",
@@ -92,6 +79,19 @@
             "urlToImage": "https://images.wsj.net/im-158376/social",
             "publishedAt": "2020-02-27T15:05:00Z",
             "content": "HONG KONGThe coronavirus outbreak in South Korea is now spreading faster than the epidemic in China, where the virus first emerged, daily government data indicated, underscoring the difficulties in containing the spread of a disease that some observers alread\u2026 [+271 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jeffrey Sparshott",
+            "title": "Newsletter: Revenue Losses, Travel Restrictions",
+            "description": "Your daily economics newsletter from The Wall Street Journal.",
+            "url": "https://blogs.wsj.com/economics/2020/02/27/newsletter-revenue-losses-travel-restrictions/",
+            "urlToImage": "https://images.wsj.net/im-158177",
+            "publishedAt": "2020-02-27T11:40:12Z",
+            "content": "Feb 27, 2020 6:40 am ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. Profit Warning Some American companies say they could lose as much as half their annual revenue from China if the coronavirus epi\u2026 [+85 chars]"
         },
         {
             "source": {
@@ -131,6 +131,19 @@
             "urlToImage": "http://m.wsj.net/video/20200226/022620opvidwl2/022620opvidwl2_1280x720.jpg",
             "publishedAt": "2020-02-27T01:20:59Z",
             "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sumathi Reddy",
+            "title": "How to Prepare For the Coronavirus",
+            "description": "Public health officials say a U.S. outbreak is inevitable. What precautions should you take?",
+            "url": "https://www.wsj.com/articles/how-to-prepare-for-the-coronavirus-11582834561",
+            "urlToImage": "https://images.wsj.net/im-158561/social",
+            "publishedAt": "2020-02-27T20:52:15Z",
+            "content": "Face masks? Zinc? Gloves? Americans are grasping for ways to brace for what public health experts say is inevitable: an outbreak of the new coronavirus.\r\nPublic health experts advise staying calm and following the same precautions recommended for preventing f\u2026 [+163 chars]"
         }
     ]
 }
