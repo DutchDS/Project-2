@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Americans exposed to coronavirus back in the U.S.",
+            "description": "Hundreds of Americans exposed to the coronavirus are back in the U.S., evacuated by the State Department from a cruise ship in Japan. Fourteen of those Americans tested positive for coronavirus. Carter Evans reports.",
+            "url": "https://www.cbsnews.com/video/americans-exposed-to-coronavirus-back-in-the-u-s/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/18/e6d6c192-78bf-4a76-8e91-c731df4cf200/thumbnail/1200x630/de33023c53539b0763a7e68e0de22aca/0217-en-coronavirus-evans-2029141-640x360.jpg",
+            "publishedAt": "2020-02-18T00:19:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/17: CBS Evening News",
+            "description": "Americans exposed to coronavirus back in the U.S.; Oldest newspaper in California saved by an unexpected new owner",
+            "url": "https://www.cbsnews.com/video/021720-cbs-evening-news/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/18/1a0d963e-7c1b-4083-90da-a773af051090/thumbnail/1200x630/03ec6250ada904fbee2d684588ac8de5/0217-en-full-2029225-640x360.jpg",
+            "publishedAt": "2020-02-18T04:18:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kate Gibson",
+            "title": "Wall Street's fear: Coronavirus \"to get worse before it gets better\"",
+            "description": "Analysts sounding alarm about over-priced stocks, saying investors underestimate extent of outbreak's potential impact.",
+            "url": "https://www.cbsnews.com/news/coronavirus-many-wall-street-analysts-fear-bleaker-outcomes-from-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/08/16/69dc1d2e-0002-47ec-9671-b70e8dd90e5a/thumbnail/1200x630/21fe3cc469d7ceb33deb0725f8daeaaf/nyse-gettyimages-1161831955.jpg",
+            "publishedAt": "2020-02-18T23:01:07Z",
+            "content": "Concerns are growing on Wall Street that the coronavirus\u00a0could cause serious economic damage beyond China, with analysts warning that the deadly outbreak is unlikely to recede anytime soon.\r\n\"Consensus is that this coronavirus outbreak (COVID-19) is going to \u2026 [+4808 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "Hospital director in Wuhan, China dies of coronavirus",
+            "description": "Wuchang Hospital director Liu Zhiming had worked tirelessly to contain the outbreak since the beginning.",
+            "url": "https://www.cbsnews.com/news/coronavirus-hospital-director-liu-zhiming-wuhan-china-dies/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/18/01459dcc-ed47-4447-86b5-06676f4e2fa5/thumbnail/1200x630/08f07370f5aa87671f806019d1c4b4ca/doctor.jpg",
+            "publishedAt": "2020-02-18T18:00:39Z",
+            "content": "Since the outbreak of the deadly coronavirus\u00a0first emerged in Wuhan, China, hospital director Liu Zhiming dedicated his life to treating the thousands of sick patients that poured into his hospital every day. Liu's tireless efforts led him to contract the vir\u2026 [+2029 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Americans set to be released after coronavirus quarantine",
+            "description": "Hundreds of Americans have returned to the U.S. after being quarantined on a cruise ship over the coronavirus outbreak. Of the evacuees, 14 began showing symptoms of the disease on the journey back home. Carter Evans breaks down the latest information from Tr\u2026",
+            "url": "https://www.cbsnews.com/video/americans-set-to-be-released-after-coronavirus-quarantine/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/18/d22c0935-1543-44c6-bae2-496ed240c8ce/thumbnail/1200x630/81692dbc58d34c6248e266a73caeb3e3/0218-ctm-coronaviruspatients-evans-2029295-640x360.jpg",
+            "publishedAt": "2020-02-18T12:37:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How U.S. stock market is reacting to coronavirus",
+            "description": "The spread of the new virus is starting to impact the U.S. stock market even though most cases are in China.",
+            "url": "https://www.cbsnews.com/news/stock-market-down-apple-coronavirus-financial-performance/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/10/03/8af07f76-39fa-4de3-b408-8b24742141db/thumbnail/1200x630/f9554ac37b7f1f91f5883f3cf8e429e8/stocks-gettyimages-1173331866.jpg",
+            "publishedAt": "2020-02-18T17:28:09Z",
+            "content": "Apple's stock fell almost 3% in trading Tuesday, a day after the technology giant warned shareholders of a coming financial hit due to the coronavirus outbreak in China.\u00a0\r\nThe maker of iPhones said it will fall short of its revenue forecasts in the quarter en\u2026 [+1481 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Hundreds of Americans released from two-week coronavirus quarantine",
+            "description": "Hundreds of American evacuees from China boarded buses on military bases in both Northern and Southern California after an exhausting two weeks in federal quarantine. Meanwhile, more cases were reported today as the infection count tops 73,000 worldwide with \u2026",
+            "url": "https://www.cbsnews.com/video/hundreds-of-americans-released-from-two-week-coronavirus-quarantine/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/19/b7317138-2619-436d-9d09-9893f0c629d5/thumbnail/1200x630/9cf268c9f186efa792d7b04edcffeb82/0218-en-releasedamericanscoronavirus-evans-2029763-640x360.jpg",
+            "publishedAt": "2020-02-18T23:52:03Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "China says infection rate slowing, but new virus still holds mystery",
+            "description": "World Health Organization hesitant to declare disease in decline as experts warn there could be thousands of mild cases lurking around the globe.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-china-outbreak-death-toll-infections-latest-updates-2020-02-18/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/18/5b80ff32-96dd-4be7-920b-9abf71f62a37/thumbnail/1200x630/84263415df7486171f85160081adbeaa/china-coronavirus-wuhan-1201569880.jpg",
+            "publishedAt": "2020-02-18T10:27:39Z",
+            "content": "Global health officials have met seemingly hopeful news on the coronavirus infection rate in China with a note of caution, as experts warn the relatively mild symptoms usually caused by the disease could mean thousands more cases have gone undetected.\r\nChina \u2026 [+1653 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "HSBC cuts headcount by 35,000, shed $100 billion in assets",
+            "description": "The moves are designed to refocus on high-growth markets in Asia, while cutting workers in other regions.",
+            "url": "https://www.cbsnews.com/news/hsbc-cuts-headcount-by-35000-shed-100-billion-in-assets/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/18/ecb48ccd-8823-47e1-939b-43c7106bbb79/thumbnail/1200x630/771f8378d43927c777895e11a365436b/rts32a9u.jpg",
+            "publishedAt": "2020-02-18T13:22:08Z",
+            "content": "HSBC will shed some 35,000 jobs as part of a deep overhaul to focus on faster-growing markets in Asia and as it tries to cope with a slew of global uncertainties, from Brexit to the trade wars to the new coronavirus.\r\nThe interim chief executive, Noel Quinn, \u2026 [+3090 chars]"
+        }
+    ]
+}

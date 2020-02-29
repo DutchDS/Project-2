@@ -3,8 +3,6 @@ var myMap = L.map("map", {
   center: [34.5133, -10.1629],
   zoom: 2
 });
-
-
 // Adding tile layer
 L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
@@ -33,7 +31,9 @@ function task(i) {
   setTimeout(function() {
 
     script_date = formatDate(current_date)
-     
+    document.getElementById('selectDate').innerHTML = ""
+    document.getElementById('selectDate').innerHTML = script_date 
+    console.log(script_date)
     geoUrl = "static/world_geojsons/" + script_date + ".json";
     // get_new_layer()
     // console.log(current_date)
@@ -41,11 +41,11 @@ function task(i) {
   // call run
     get_new_layer(geoUrl);
   
-    current_date.setDate(current_date.getDate() + 1);
+    current_date.setDate(current_date.getDate() + 3);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 700 * i); 
+  , 1000); 
 } 
 
 var geojson;
@@ -75,7 +75,7 @@ function get_new_layer(geoUrl) {
 
   d3.json(geoUrl).then(function(data) {
     
-    console.log("GEOJSON ", data)
+    // console.log("GEOJSON ", data)
     // Create a new choropleth layer
     geojson = L.geoJson(data, {
       style: function(feature) {
@@ -129,7 +129,9 @@ get_new_layer(initgeoUrl);
 create_legend()
 
 function reload() {
-  for (var i = 0; i < 36; i++)  {  
+  day_count = today - current_date
+  counter = Math.ceil((day_count/24/60/60/1000/ + 1)/3)
+  for (var i = 0; i < counter; i++)  {  
     task(i); 
     } 
   }

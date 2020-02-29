@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="static/css/reset.css" type="text/css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="static/css/style_china.css" type="text/css">
+   
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  
+  
+    <!-- Leaflet CSS & JS-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
+
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
+
+    <!-- Leaflet-Choropleth JavaScript -->
+    <!-- <script type="text/javascript" src="static/js/choropleth.js"></script> -->
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  </head>
+  <body>
+
+    <!-- The div where we will inject our map -->
+    <div class='container'>
+      <br>
+  <!-- *********************FIRST ROW*********************************   -->
+      <div class="row">
+        <div class= "col-12">
+          <div class="card" style="width: 100%">
+            <div class="card-body">
+              <div class="jumbotron text-center">
+                <h1>Corona Spread - China</h1>
+                <p><i>Let's see how this virus spreads</i></p>
+                <p><a class="btn btn-primary btn-lg" href="/" role="button">World</a>
+                  <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
+                  <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
+                  <a class="btn btn-primary btn-lg" href="/news" role="button">news</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br>
+  <!-- *********************SECOND ROW*********************************   -->    
+  <div class="row">
+    <div class="col-lg-12 col-sm-12">
+      <div class="row">
+        <div class="col-lg-12 col-sm-12">
+        <!-- ############################################ -->
+        <!-- ########## INSERT MAP HERE ################# -->
+        <!-- ############################################ -->
+          <div class="card" style="width: 100%">
+            <div class="card-body">
+              <div id="map"></div>      
+            </div>
+          </div>
+          <br>
+        </div>
+        <div class="col-lg-12 col-sm-12">
+          <div class="card" style="width: 100%">
+            <div class="card-body">
+              <div>{% for i in china_sum %}
+                <h4><strong>{{ i[0] }}:</strong>
+                  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Total: </strong>{{ i[1] }}
+                  &nbsp;&nbsp;<strong>Sick: </strong>{{ i[2] }}-({{ i[5] }}%)
+                  &nbsp;&nbsp;<strong>Cured: </strong>{{ i[3] }}-({{ i[6] }}%)
+                  &nbsp;&nbsp;<strong>Dead: </strong>{{ i[4] }}-({{ i[7] }}%)</h4>
+                {% endfor %}
+              </div>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+<!-- *********************THRID ROW*********************************   -->
+  <div class="row">
+    <div class= "col-lg-8 col-sm-12">
+    <!-- ############################################ -->
+    <!-- ########## INSERT BAR CHART ################ -->
+    <!-- ############################################ -->
+      <div class="card" style="width: 100%">
+        <div class="card-body">
+          <div id="bar"></div>  
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-sm-12">
+      <div class="card" style="width: 100%">
+        <div class="card-body">
+          
+    <!-- ############################################ -->
+    <!-- ########## News Facts Here ################# -->
+    <!-- ############################################ -->
+
+            <div id="facts" style="text-align: center"><h5>Top 10 affected Provinces:</h5>  
+              <br>
+              <!-- <table border="2" class="dataframe"> -->
+                <font size="2" line-height=1>
+                  <table class="table table-striped" >
+                <thead>
+                  <tr style="text-align: left;">
+                    <th><strong>Country</strong></th>
+                    <th><strong>Confirmed</strong></th>
+                    <th><strong>Cured</strong></th>
+                    <th><strong>Dead</strong></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for i in china_facts %}
+                  <tr>
+                    <td style="text-align: left">{{ i[0] }}</td>
+                    <td style="text-align: right">{{ i[2] }}</td>
+                    <td style="text-align: right">{{ i[3] }}</td>
+                    <td style="text-align: right">{{ i[4] }}</td>
+                  </tr>     
+                {% endfor %}
+              </tbody>
+            </table>
+            </div>
+        </div>
+      </div>
+      <br>
+    </div>
+  </div>
+  <br>
+<!-- *********************FOURTH ROW*********************************   -->
+  <div class="row">
+    <div class= "col-lg-12 col-sm-12">
+    <!-- ############################################ -->
+    <!-- ########## NEWS GOES HERE ################### -->
+    <!-- ############################################ -->
+      <div class="card" style="width: 100%">
+        <div class="card-body">
+          <h2 class="text-left">News links go here</h2>
+          <table id="news-table" class="table-striped">
+            <thead>
+                <tr>
+                    <!-- <th class="table-head">Date</th> -->
+                    <th class="table-head">Source</th>
+                    <th class="table-head">Headline</th>
+                    <th class="table-head">Image</th>
+                </tr>
+            </thead>
+            <tbody id="news-body"></tbody>
+          </table>
+        </div>
+      </div> 
+    </div>
+  </div>
+  </div>
+    
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="text/javascript" src="static/js/config.js"></script>
+    <script type="text/javascript" src="static/js/china_bar.js"></script>
+    <script type="text/javascript" src="static/js/china.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Shipping Is Getting Smashed by Coronavirus in More Ways Than One",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-10/shipping-is-getting-smashed-by-coronavirus-in-more-ways-than-one",
+            "urlToImage": null,
+            "publishedAt": "2020-02-10T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Death Toll Hits 904",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-09/coronavirus-death-toll-hits-904-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-09T23:58:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "03:24 Coronavirus Death Toll Hits 904 - Bloomberg",
+            "description": "03:24 Coronavirus Death Toll Hits 904 Bloomberg Coronavirus Death Toll Now Exceeds SARS Outbreak | Sunday TODAY TODAY Coronavirus symptoms: what to look for, who to contact and how to treat it Telegraph.co.uk Global coronavirus deaths equal Sars, while new in\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c1d98990-4c08-11ea-af71-25103077c414&url=L25ld3MvdmlkZW9zLzIwMjAtMDItMDkvY29yb25hdmlydXMtZGVhdGgtdG9sbC1oaXRzLTkwNC12aWRlbw==",
+            "urlToImage": null,
+            "publishedAt": "2020-02-09T23:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Latest: China\u2019s Battered Banks Brace for Worst",
+            "description": "Coronavirus Latest: China\u2019s Battered Banks Brace for Worst bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-09/china-s-battered-banks-brace-for-worst-case-economic-scenario",
+            "urlToImage": null,
+            "publishedAt": "2020-02-09T22:15:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Death Toll Hits 904 as China Sets $10 Billion Plan: Virus Update - Bloomberg",
+            "description": "Death Toll Hits 904 as China Sets $10 Billion Plan: Virus Update Bloomberg Coronavirus: China under pressure as toll exceeds SARS Al Jazeera English Mainland China reports virus death toll rises to 811, surpassing SARS fatalities in 2002-2003; total cases up \u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=c313ddc0-4b99-11ea-bedc-a53feca82e3e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0wOS9jaGluYS10by1zcGVuZC0xMC1iaWxsaW9uLXdoby1zZW5kcy10ZWFtLXRvLWFzaWEtdmlydXMtdXBkYXRl",
+            "urlToImage": null,
+            "publishedAt": "2020-02-09T21:34:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Shuts Down Economy the Size of Sweden for Third Week",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-09/coronavirus-shuts-down-economy-the-size-of-sweden-for-third-week",
+            "urlToImage": null,
+            "publishedAt": "2020-02-09T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mohamed A. El-erian",
+            "title": "Don\u2019t Expect China to Rebound Quickly From Coronavirus",
+            "description": "Don\u2019t Expect China to Rebound Quickly From Coronavirus bloomberg.com",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-02-08/don-t-expect-china-to-rebound-quickly-from-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-09T08:33:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Chikafumi Hodo",
+            "title": "Japan Finds 6 More Coronavirus Cases on Cruise Ship: TV Asahi",
+            "description": "Another six passengers on a cruise ship quarantined in Japan have been infected with the new coronavirus, TV Asahi reported, without saying where it got the information.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-09/japan-finds-6-more-coronavirus-cases-on-cruise-ship-tv-asahi",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2SgKjVL52HU/v1/1200x800.jpg",
+            "publishedAt": "2020-02-09T06:49:55Z",
+            "content": "An ambulance sits parked next to the Diamond Princess cruise ship docked in Yokohama\u00a0on Feb. 7.\r\nAnother six passengers on a cruise ship quarantined in Japan have been infected with the new coronavirus, TV Asahi reported, without saying where it got the infor\u2026 [+732 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Clara Ferreira Marques",
+            "title": "Coronavirus: Hong Kong Shows Symptoms of a Failed State",
+            "description": "Coronavirus: Hong Kong Shows Symptoms of a Failed State bloomberg.com",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-02-09/coronavirus-hong-kong-shows-symptoms-of-a-failed-state",
+            "urlToImage": null,
+            "publishedAt": "2020-02-09T01:17:19Z",
+            "content": null
+        }
+    ]
+}

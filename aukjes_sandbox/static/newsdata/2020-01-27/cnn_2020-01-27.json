@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alicia Lee, CNN",
+            "title": "Chinese officials crack down on wildlife markets as coronavirus outbreak nears 3,000 cases",
+            "description": "In western markets, shoppers can buy beef, chicken and pork -- the standard grocery store meat offerings. But the markets in China are a bit more exotic and dangerous.",
+            "url": "https://www.cnn.com/2020/01/27/world/coronavirus-china-bans-wildlife-trade-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127141601-china-bans-wildlife-011520-super-tease.jpg",
+            "publishedAt": "2020-01-27T23:25:02Z",
+            "content": "(CNN)In western markets, shoppers can buy beef, chicken, pork, and, if they're lucky, perhaps some duck or bison. \r\nBut the options in China can be a bit more exotic. \r\nVendors in small city markets often sell wild animals including rodents, yak, snakes and e\u2026 [+3552 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler, CNN",
+            "title": "US advises citizens to reconsider travel to China after coronavirus outbreak",
+            "description": "The United States is cautioning travelers to reconsider visiting China due the threat from the coronavirus virus outbreak that has killed more than 80 and sickened thousands across that country and has spread globally.",
+            "url": "https://www.cnn.com/2020/01/27/politics/us-travel-advisory-china-novel-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125175435-03-coronavirus-0125-super-tease.jpg",
+            "publishedAt": "2020-01-27T22:18:25Z",
+            "content": "Washington (CNN)The United States is cautioning travelers to reconsider visiting China due the threat from the coronavirus virus outbreak that has killed more than 80 and sickened thousands across that country and has spread globally. \r\nOn Monday, the US Stat\u2026 [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Parija Kavilanz, CNN Business",
+            "title": "FDA to Purell: Stop claiming your hand sanitizers eliminate Ebola, MRSA & flu",
+            "description": "The US Food and Drug Administration is giving the maker of Purell products a stern warning: Stop making unproven claims that over-the-counter hand sanitizers help eliminate Ebola, MRSA or the flu.",
+            "url": "https://www.cnn.com/2020/01/27/business/fda-purell/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127123626-purell-hand-sanitizer---stock-super-tease.jpg",
+            "publishedAt": "2020-01-27T21:26:39Z",
+            "content": "New York (CNN Business)The US Food and Drug Administration is giving the maker of Purell products a stern warning: Stop making unproven claims that over-the-counter hand sanitizers help eliminate Ebola, MRSA or the flu.\r\nIn a \"warning letter\" to Purell's pare\u2026 [+3185 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Gold heading to $2,000? Prices surge on global fear",
+            "description": "Gold was one of the few investments heading higher Monday as worries about the coronavirus outbreak led to a steep market slide.",
+            "url": "https://www.cnn.com/2020/01/27/investing/gold-prices-fear/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190916101236-gold-bar-precious-metal-stock-super-tease.jpg",
+            "publishedAt": "2020-01-27T19:16:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathaniel Meyersohn, CNN Business",
+            "title": "Stocks are tanking on coronavirus. But cleaning product companies are getting a boost",
+            "description": "Stocks are falling on the spread of coronavirus, but the companies that make your cleaning products are rallying.",
+            "url": "https://www.cnn.com/2020/01/27/investing/clorox-cleaning-products-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127112809-clorox-wipes-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-01-27T17:49:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Radina Gigova and Bukola Adebayo",
+            "title": "Ivory Coast tests first person in Africa for coronavirus",
+            "description": "Health authorities in Cote d'Ivoire are investigating a suspected case of Wuhan coronavirus in a female student who arrived from China, officials have said.",
+            "url": "https://www.cnn.com/2020/01/27/health/ivory-coast-suspected-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200108214800-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-01-27T15:10:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "Dow falls more than 400 points as the coronavirus outbreak worsens",
+            "description": "The Dow tumbled Monday morning, as US stock nosedived on the continuing global spread of coronavirus.",
+            "url": "https://www.cnn.com/2020/01/27/investing/dow-stock-market-today-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127080813-coronavirus-0127-super-tease.jpg",
+            "publishedAt": "2020-01-27T14:48:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Scottie Andrew, CNN",
+            "title": "What we know about the coronavirus cases in the US",
+            "description": "There are at least five confirmed cases of the Wuhan coronavirus in the US, the CDC said. All of them had recently returned from Wuhan in China.",
+            "url": "https://www.cnn.com/2020/01/27/health/coronavirus-in-the-us-what-we-know-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127093559-05-wuhan-coronavirus-0126-super-tease.jpg",
+            "publishedAt": "2020-01-27T14:47:00Z",
+            "content": "(CNN)There are at least five confirmed cases of the Wuhan coronavirus in the US, a number the Centers for Disease Control and Prevention predicts will continue to climb. \r\nThe novel coronavirus, which has sickened thousands and killed at least 80 people in Ch\u2026 [+4508 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady, CNN Business",
+            "title": "Oil prices have fallen 10% as coronavirus raises fears for global growth",
+            "description": "China's coronavirus outbreak has rattled oil markets, sending prices sharply lower as investors worry that efforts to prevent it spreading will harm the country's economy and reduce demand for crude.",
+            "url": "https://www.cnn.com/2020/01/27/business/oil-prices-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127055636-05-coronavirus-0125-super-tease.jpg",
+            "publishedAt": "2020-01-27T13:52:00Z",
+            "content": "London (CNN Business)China's coronavirus outbreak has rattled oil markets, sending prices sharply lower as investors worry that efforts to prevent it spreading will harm the country's economy and reduce demand for crude. \r\nBrent crude futures traded around 3%\u2026 [+3049 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for January 27: Impeachment, Kobe Bryant, coronavirus, Iraq, North Korea",
+            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
+            "url": "https://www.cnn.com/2020/01/27/us/five-things-january-27-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190910121227-04-john-bolton-super-tease.jpg",
+            "publishedAt": "2020-01-27T11:08:49Z",
+            "content": "(CNN)It's National News Literacy Week, a time to think critically about the news you read, and learn how to spot the signs of misinformation. Here's what you need to know to Get Up to Speed and Out the Door. \r\n(You can also get \"5 Things You Need to Know Toda\u2026 [+5953 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Viral hoaxes are spreading lies about Coronavirus",
+            "description": "As the Coronavirus spreads, so does medical misinformation about the virus. Oliver Darcy says fact-checkers are \"flagging\" false information for Facebook, \"and Facebook is taking some action, but it's something journalists should look into a lot more.\"",
+            "url": "https://www.cnn.com/videos/business/2020/01/26/viral-hoaxes-are-spreading-lies-about-coronavirus.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200126142336-rs-e-block-oliver-1-super-tease.jpg",
+            "publishedAt": "2020-01-27T09:42:26Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sherisse Pham, CNN Business",
+            "title": "How the coronavirus is already hurting global business",
+            "description": "Major shops, restaurants and tourist destinations are shuttering their doors across China, as global businesses begin to feel the effects of the deadly Wuhan virus outbreak.",
+            "url": "https://www.cnn.com/2020/01/27/business/coronavirus-business-closures/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127011431-coronavirus-business-closures-restricted-super-tease.jpg",
+            "publishedAt": "2020-01-27T09:40:28Z",
+            "content": "Hong Kong (CNN Business)Major shops, restaurants and tourist destinations are shuttering their doors across China, as global businesses begin to feel the effects of the deadly Wuhan virus outbreak. \r\nChinese officials on Monday announced that the death toll f\u2026 [+4856 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by James Griffiths, CNN",
+            "title": "China's unprecedented Wuhan reaction probably couldn't be pulled off anywhere else",
+            "description": "As the world watches the developing crisis around the deadly Wuhan coronavirus, it's difficult to know how worried to be. One thing is clear, however: China is treating the matter extremely seriously.",
+            "url": "https://www.cnn.com/2020/01/27/asia/china-wuhan-coronavirus-reaction-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127132437-wuhan-0124-police-super-tease.jpg",
+            "publishedAt": "2020-01-27T07:20:44Z",
+            "content": "Hong Kong (CNN)As the world watches the developing crisis around the deadly Wuhan coronavirus, it's difficult to know how worried to be. One thing is clear, however: China is treating the matter extremely seriously.\r\nWith the number of confirmed cases in the \u2026 [+6696 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths, CNN",
+            "title": "China goes into emergency mode as number of confirmed Wuhan coronavirus cases reaches 2,700",
+            "description": "The death toll from the Wuhan coronavirus now stands at 80, with almost 2,800 cases confirmed across China, as the country initiates emergency procedures to try and rein in the pathogen's global spread.",
+            "url": "https://www.cnn.com/2020/01/26/asia/wuhan-coronavirus-update-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200127100729-wuhan-0126-beijing-mask-super-tease.jpg",
+            "publishedAt": "2020-01-27T03:38:36Z",
+            "content": "Hong Kong (CNN)The death toll from the Wuhan coronavirus now stands at 80, with almost 2,800 cases confirmed across China, as the country initiates emergency procedures to try and rein in the pathogen's global spread. \r\nMaking that task more difficult is the \u2026 [+5820 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a> and <a href=\"/profiles/steve-george\">Steve George</a>, CNN",
+            "title": "China warns coronavirus can spread before symptoms show",
+            "description": "More than 80 people are dead in China as the coronavirus continues to spread. Follow here for the latest",
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-01-27-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200126193730-corona-virus-screening-los-angeles-super-tease.jpg",
+            "publishedAt": "2020-01-27T02:15:55Z",
+            "content": "There are more than 2,700 confirmed cases of the coronavirus and 80 deaths in China. Worldwide concern is mounting about the rate of its spread. Here's what you need to know:\r\n<ul><li>Outbreak in China:\u00a02,744 cases have been confirmed in mainland China, and 8\u2026 [+1056 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob McLean, CNN Business",
+            "title": "Dow futures tumble 300 points on fifth US case of coronavirus",
+            "description": "US stock futures dropped sharply Sunday night as fears of the coronavirus grew.",
+            "url": "https://www.cnn.com/2020/01/26/business/coronavirus-stock-futures/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200115065754-01-wall-street-0113-super-tease.jpg",
+            "publishedAt": "2020-01-27T00:38:05Z",
+            "content": null
+        }
+    ]
+}

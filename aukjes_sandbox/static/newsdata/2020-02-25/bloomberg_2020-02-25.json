@@ -1,0 +1,344 @@
+{
+    "status": "ok",
+    "totalResults": 26,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Race For Coronavirus Treatment",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/race-for-coronavirus-treatment-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T15:07:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Angus Whitley",
+            "title": "Company Profit Warnings Signal Virus Is Already a Global Crisis",
+            "description": "For big business, the impact of the new coronavirus epidemic is already being felt worldwide.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/company-profit-warnings-signal-virus-is-already-a-global-crisis",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUD.l7s.PlfE/v0/1200x800.jpg",
+            "publishedAt": "2020-02-25T04:43:24Z",
+            "content": "For big business, the impact of the new coronavirus epidemic is already being felt worldwide.\r\nMastercard Inc. and \r\nUnited Airlines Holdings Inc. emerged as the latest companies to warn that sales and profit are getting hurt as the epidemic spreads meaningfu\u2026 [+2549 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Developers Offer Bargains Amid Coronavirus (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-25/china-developers-offer-bargains-amid-coronavirus-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T23:29:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mary Schlangenstein, Jennifer Jacobs",
+            "title": "U.S. Airline Rout Worsens With American Tumbling to Record Low",
+            "description": "U.S. airlines posted the biggest two-day drop in 17 months on worsening fears that the spread of the coronavirus will further stymie travel.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/u-s-airline-rout-worsens-with-american-tumbling-to-record-low",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igFhvz8LvqAY/v0/1200x800.jpg",
+            "publishedAt": "2020-02-25T20:40:51Z",
+            "content": "U.S. airlines posted the biggest two-day drop in 17 months on worsening fears that the spread of the coronavirus will further stymie travel.\r\nAmerican Airlines Group Inc. led the decline, tumbling to the lowest since its 2013 merger with US Airways. President\u2026 [+1819 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Chinatowns Worldwide Face Virus Fallout",
+            "description": "Businesses in Chinatowns around the world are taking a hit because of coronavirus panic. Panic-buying of sanitizers, face masks however sees some firms thrive. (Source: QuickTake)",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/chinatowns-worldwide-face-virus-fallout-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibF_SXmCLfWQ/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-25T17:12:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Will Eventually Impact U.S. Retail, Stacey Widlitz Warns",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/coronavirus-will-eventually-impact-u-s-retail-stacey-widlitz-warns-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T14:25:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Luxury Retail Feels the Strain as Coronavirus Spreads Globally",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/luxury-retail-feels-the-strain-as-coronavirus-spreads-globally-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T10:50:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Dims the Spotlight on Fashion Industry's Big Month",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/coronavirus-dims-the-spotlight-on-fashion-industry-s-big-month",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T00:00:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Top Iranian Health Official Tests Positive for Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/top-iranian-health-official-tests-positive-for-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T12:34:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trump Says Coronavirus Is 'Very Well Under Control' in U.S.",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/trump-says-coronavirus-is-very-well-under-control-in-u-s-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T14:33:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pompeo Says Iran May Have Suppressed Details About Coronavirus Outbreak",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/pompeo-says-iran-may-have-suppressed-details-about-coronavirus-outbreak-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T16:50:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "'Mission: Impossible' Filming Halted in Italy Due to Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/-mission-impossible-filming-halted-in-italy-due-to-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T01:35:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Is the Coronavirus Outbreak Affecting Middle East Markets?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/how-is-the-coronavirus-outbreak-affecting-middle-east-markets-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T06:43:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "California City Gets 7-Day Reprieve in Coronavirus Standoff",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/california-city-gets-7-day-reprieve-in-coronavirus-standoff",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T02:20:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Gilead's Drug Leads Global Race to Find Coronavirus Treatment",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/gilead-s-drug-leads-global-race-to-find-coronavirus-treatment",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T07:40:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Testing Faith in a V-Shaped Recovery",
+            "description": "Bob Michele of JPMorgan Asset Management, Mike Wilson of Morgan Stanley and Peter Tchir of Academy Securities discuss the outlook for a market recovery from the coronavirus outbreak. They speak on \"Bloomberg The Open.\" (Source: Bloomberg)",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/testing-faith-in-a-v-shaped-recovery-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWTC6CgomER8/v5/-1x-1.jpg",
+            "publishedAt": "2020-02-25T14:33:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Which Asian Stocks to Sell and Buy Amid the Coronavirus Outbreak?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/which-asian-stocks-to-sell-and-buy-amid-the-coronavirus-outbreak-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T02:40:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Biggest U.S. Port Sees Drag From Coronavirus Though Most of 2020",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/biggest-u-s-port-sees-drag-from-coronavirus-though-most-of-2020",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T00:43:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Global Coronavirus Cases Top 80,000; China Death Toll Rises to 2,663",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/global-coronavirus-cases-top-80-000-china-death-toll-rises-to-2-663-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T02:32:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Akzo Nobel CEO Says Coronavirus Impact on 2020 Sales 'Very Limited'",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-25/akzo-nobel-ceo-says-coronavirus-impact-on-sales-very-limited-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T17:15:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Canary Islands Hotel Quarantined After Virus Confirmed",
+            "description": "A tourist hotel on the Canary Island of Tenerife was placed in quarantine Tuesday after an Italian doctor staying there tested positive for the new virus from China that has infected thousands worldwide.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/canary-islands-hotel-quarantined-virus-confirmed-in-italian",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyJNGzMEDWN8/v1/1200x900.jpg",
+            "publishedAt": "2020-02-25T10:18:18Z",
+            "content": "The\u00a0H10 Adeje Palace hotel\u00a0\r\nSource: Google Maps\r\nMadrid (AP) -- A tourist hotel on the Canary Island hotel of Tenerife was placed in quarantine Tuesday after an Italian doctor staying there tested positive for the new virus from China that has infected thous\u2026 [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Latest: Cat Bonds Signal Global Pandemic Is Here - Bloomberg",
+            "description": "Coronavirus Latest: Cat Bonds Signal Global Pandemic Is Here Bloomberg View Full Coverage on Google News",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=627b8150-5884-11ea-9eaa-214f70edcac2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0yNS9jYXRhc3Ryb3BoZS1ib25kcy1zaWduYWwtY29yb25hdmlydXMtbmVhcmluZy1wYW5kZW1pYy1zdGF0dXM=",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T12:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Olivia Carville",
+            "title": "Expedia will cut 3,000 jbs to simplify \u2018bloated\u2019 business",
+            "description": "The staff reductions will affect about 3,000 employees, including 500 people in Expedia's Seattle-based headquarters. The workers will begin to be notified this week.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/expedia-will-cut-3-000-jobs-to-simplify-bloated-business",
+            "urlToImage": "https://static.seattletimes.com/wp-content/uploads/2019/10/10022019_expedia_tzr_174859-780x501.jpg",
+            "publishedAt": "2020-02-25T01:31:52Z",
+            "content": "Expedia said it\u2019s cutting thousands of jobs, striving to simplify the \u201cbloated organization\u201d and return the online travel giant to more disciplined growth.\r\nThe staff reductions will affect about 3,000 employees, including 500 people in Expedia\u2019s Seattle-base\u2026 [+2631 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Kevin Crowley",
+            "title": "Chevron Sends Its London Traders Home on Coronavirus Concern",
+            "description": "Chevron Sends Its London Traders Home on Coronavirus Concern bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/chevron-sends-its-london-traders-home-on-coronavirus-concern",
+            "urlToImage": null,
+            "publishedAt": "2020-02-25T21:15:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Elizabeth Stanton",
+            "title": "Treasury 10-Year Yield Tumbles to Record Low on Haven Demand - Bloomberg",
+            "description": "The 10-year U.S. Treasury yield fell to a record low on Tuesday as investors sought shelter amid concern that the global spread of the coronavirus is threatening supply chains critical to economic growth.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/treasury-10-year-yield-tumbles-to-record-low-on-haven-demand",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3zrjBrXw6SI/v0/1200x800.jpg",
+            "publishedAt": "2020-02-25T18:38:00Z",
+            "content": "The 10-year U.S. Treasury yield fell to a record low on Tuesday as investors sought shelter amid concern that the global spread of the coronavirus is threatening supply chains critical to economic growth.\r\nThe benchmark rate for global borrowing fell as much \u2026 [+1824 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Matthew Martin",
+            "title": "No OPEC Decision Yet on Oil Cuts, Saudi Energy Minister Says",
+            "description": "OPEC hasn\u2019t decided yet to extend or modify its agreement to cut oil output, Saudi Arabia\u2019s energy minister said, as the coronavirus batters the global economy and threatens demand for crude.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-25/no-opec-decision-yet-on-oil-cuts-saudi-energy-minister-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOI_6LjN3GqI/v0/1200x800.jpg",
+            "publishedAt": "2020-02-25T07:06:36Z",
+            "content": "OPEC hasn\u2019t decided yet to extend or modify its agreement to cut oil output, Saudi Arabia\u2019s energy minister said, as the coronavirus batters the global economy and threatens demand for crude.\r\nThe Organization of Petroleum Exporting Countries and its allies a\u2026 [+1949 chars]"
+        }
+    ]
+}

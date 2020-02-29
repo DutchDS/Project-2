@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Suryatapa Bhattacharya, Peter Landers",
+            "title": "Last Coronavirus Cruise Passenger Departs Ship, but Infection Concerns Linger - Wall Street Journal",
+            "description": "Last Coronavirus Cruise Passenger Departs Ship, but Infection Concerns Linger Wall Street Journal Third Diamond Princess passenger, 80-year-old Japanese man, dies after coronavirus quarantine USA TODAY Third passenger of ship quarantined for coronavirus dies \u2026",
+            "url": "https://www.wsj.com/articles/last-coronavirus-cruise-passenger-departs-ship-but-infection-concerns-linger-11582465570",
+            "urlToImage": "https://images.wsj.net/im-156828/social",
+            "publishedAt": "2020-02-23T15:27:00Z",
+            "content": "TOKYOThe last passenger on the coronavirus-hit Diamond Princess cruise ship disembarked Sunday, the cruise-ship operator said, leaving hundreds of crew members on board and concerns about whether passengers who tested negative could turn positive.\r\nJapan repo\u2026 [+263 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Newley Purnell",
+            "title": "Coronavirus Spreads Outside China as Officials' Worries Mount - The Wall Street Journal",
+            "description": "Coronavirus Spreads Outside China as Officials' Worries Mount The Wall Street Journal Coronavirus infections surge in Italy, South Korea as virus kills at least 8 in Iran Fox News South Korean cases surge past 600 as global epidemic grows CNN Virus spread bey\u2026",
+            "url": "https://www.wsj.com/articles/coronavirus-spreads-outside-china-as-officials-worries-mount-11582473370",
+            "urlToImage": "https://images.wsj.net/im-156845/social",
+            "publishedAt": "2020-02-23T16:44:00Z",
+            "content": "HONG KONGNew cases of coronavirus flared outside China, adding to global health officials worries about the spread of the disease in dangerous new pockets of infection.\r\nIrans health ministry on Sunday confirmed the eighth coronavirus-related death in the cou\u2026 [+146 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Eric Sylvers",
+            "title": "Italy Grapples With Worst Coronavirus Outbreak Outside Asia - The Wall Street Journal",
+            "description": "Italy Grapples With Worst Coronavirus Outbreak Outside Asia The Wall Street Journal Italy hit by largest coronavirus outbreak outside Asia Guardian News Virus News: Venice Carnival, Milan Fashion Week Cut Short Bloomberg A dozen towns in northern Italy are lo\u2026",
+            "url": "https://www.wsj.com/articles/italy-grapples-with-worst-coronavirus-outbreak-outside-asia-11582466716",
+            "urlToImage": "https://images.wsj.net/im-156833/social",
+            "publishedAt": "2020-02-23T15:13:00Z",
+            "content": "MILANPart of Italys economic heartland woke up under a quarantine on Sunday with more than 50,000 people not allowed to leave their towns, as the country began to grapple with the worst coronavirus outbreak outside of Asia.\r\nThe first economic effects hit Mil\u2026 [+267 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Chuin-Wei Yap, Jon Emont",
+            "title": "World Economy Shudders as Coronavirus Threatens Global Supply Chains - The Wall Street Journal",
+            "description": "World Economy Shudders as Coronavirus Threatens Global Supply Chains The Wall Street Journal Coronavirus infections surge in Italy, South Korea as virus kills at least 8 in Iran Fox News Coronavirus Live Updates: Italy Locks Down Region After Spike in Infecti\u2026",
+            "url": "https://www.wsj.com/articles/world-economy-shudders-as-coronavirus-threatens-global-supply-chains-11582474608",
+            "urlToImage": "https://images.wsj.net/im-156846/social",
+            "publishedAt": "2020-02-23T17:22:00Z",
+            "content": "HONG KONGThe last time a coronavirus outbreak hit China in 2003, the global economy emerged relatively unscathed. Now, nearly two decades later, the growth-damping effects of a similar pathogen threaten to ripple around a world transformed by Chinas boom.\r\nCh\u2026 [+258 chars]"
+        }
+    ]
+}

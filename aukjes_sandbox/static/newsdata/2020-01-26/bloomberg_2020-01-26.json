@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China's Coronavirus Death Toll Rises to at Least 80 From 56",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-01-26/china-s-coronavirus-death-toll-rises-to-at-least-80-from-56",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T23:29:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus and the Asian Real Estate Market (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-01-26/coronavirus-and-the-asian-real-estate-market-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T21:23:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Latest on Coronavirus: France asks to repatriate nationals - Bloomberg",
+            "description": "Latest on Coronavirus: France asks to repatriate nationals Bloomberg China says coronavirus can spread before symptoms show -- calling into question US containment strategy CNN As Coronavirus Fears Intensify, Effectiveness of Quarantines Is Questioned The New\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=acf48760-40e0-11ea-bb92-9d219f11e950&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMS0yNi9jaGluYS13YXJucy12aXJ1cy1zcHJlYWQtaW5jcmVhc2luZy1tb3JlLWNhc2VzLXZpcnVzLXVwZGF0ZQ==",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T19:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Latest on Coronavirus: France asks to repatriate nationals - Bloomberg",
+            "description": "Latest on Coronavirus: France asks to repatriate nationals Bloomberg China says coronavirus can spread before symptoms show -- calling into question US containment strategy CNN As Coronavirus Fears Intensify, Effectiveness of Quarantines Is Questioned The New\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-01-26/china-warns-virus-spread-increasing-more-cases-virus-update",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T19:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Liam Denning",
+            "title": "Oil Prices Were Vulnerable to Coronavirus Fears",
+            "description": "Oil Prices Were Vulnerable to Coronavirus Fears bloomberg.com",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-01-26/oil-prices-were-vulnerable-to-coronavirus-fears",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T14:54:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus News Updates: Latest Reports on Deadly Virus - Bloomberg",
+            "description": "Coronavirus News Updates: Latest Reports on Deadly Virus Bloomberg Paris cancels Lunar New Year parade over coronavirus Reuters Chinese Lunar New Year celebrations from around the world USA TODAY Coronavirus outbreak spurs Paris to cancel Lunar New Year parad\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=371e61f0-4054-11ea-a3d7-8160c5a9f28e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMS0yNi9jaGluYS13YXJucy12aXJ1cy1zcHJlYWRpbmctZmFzdC1hcy1jYWxpZm9ybmlhLXJlcG9ydHMtaW5mZWN0aW9u",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T09:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pakistan Health Official Denies Report of Coronavirus Infection",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-01-26/pakistan-health-official-denies-report-of-coronavirus-infection",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T03:21:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Coronavirus Death Toll Rises to at Least 54: CCTV",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-01-26/china-coronavirus-death-toll-rises-to-at-least-54-cctv",
+            "urlToImage": null,
+            "publishedAt": "2020-01-26T00:09:58Z",
+            "content": null
+        }
+    ]
+}

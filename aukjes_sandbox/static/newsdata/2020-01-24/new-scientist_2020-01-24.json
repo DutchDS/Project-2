@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Jessica Hamzelou",
+            "title": "What are the symptoms of the new coronavirus and how deadly is it?",
+            "description": "Everything you need to know about the Wuhan coronavirus that emerged in China and has caused over 600 cases so far",
+            "url": "https://www.newscientist.com/article/2231333-what-are-the-symptoms-of-the-new-coronavirus-and-how-deadly-is-it/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/01/24114145/gettyimages-1195582515.jpg",
+            "publishedAt": "2020-01-24T11:59:44Z",
+            "content": "By Jessica Hamzelou\r\nHECTOR RETAMAL/AFP via Getty Images\r\nAt the end of 2019, health authorities in China alerted the world of a potentially new virus that had caused pneumonia in a handful of people in Wuhan since mid-December. Since then, the number of case\u2026 [+3892 chars]"
+        }
+    ]
+}

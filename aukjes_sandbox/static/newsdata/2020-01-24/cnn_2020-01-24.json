@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "US stocks dive as fears over coronavirus spread",
+            "description": "The Dow and the broader stock market ended deep in the red on Friday as fears over the spread of the Wuhan coronavirus tainted investor sentiment.",
+            "url": "https://www.cnn.com/2020/01/24/investing/dow-stock-market-today/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124143336-coronavirus-fears-0124-super-tease.jpg",
+            "publishedAt": "2020-01-24T21:35:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Cohen and John Bonifield, CNN",
+            "title": "CDC confirms second US Wuhan coronavirus case",
+            "description": "A second case of Wuhan coronavirus in the United States has been identified in Chicago, the US Centers for Disease Control and Prevention said Friday in a press briefing.",
+            "url": "https://www.cnn.com/2020/01/24/health/wuhan-coronavirus-chicago-cdc/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/171216062512-cdc-banned-words-washington-post-newday-00000000-super-tease.jpg",
+            "publishedAt": "2020-01-24T15:27:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Danielle Wiener-Bronner, CNN Business",
+            "title": "McDonald's closes restaurants in five Chinese cities because of the coronavirus",
+            "description": "McDonald's has closed restaurants in five Chinese cities and is implementing new health protocols in the region as the deadly coronavirus continues to spread.",
+            "url": "https://www.cnn.com/2020/01/24/business/mcdonalds-coronavirus-closures/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124093351-mcdonalds-wuhan-china-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-01-24T15:26:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "What you need to know about coronavirus",
+            "description": "CNN's Dr. Sanjay Gupta looks at what you need to know about the Wuhan virus and coronaviruses like MERS and SARS - from what they are, to how you can treat them.",
+            "url": "https://www.cnn.com/videos/business/2020/01/24/coronavirus-outbreak-china.cnn-business",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123110153-01-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-01-24T15:07:06Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for January 24: Impeachment, coronavirus, immigration, Iraq, Myanmar",
+            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
+            "url": "https://www.cnn.com/2020/01/24/us/five-things-january-24-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123143027-01-impeachment-managers-0123-super-tease.jpg",
+            "publishedAt": "2020-01-24T11:04:36Z",
+            "content": "Get '5 things' in your inbox\r\nIf your day doesn't start until you've gotten up to speed on the latest headlines, then let us introduce you to your new favorite morning fix. Sign up here for the '5 Things' newsletter."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sherisse Pham, CNN Business",
+            "title": "Disney closes Shanghai park as virus spreads",
+            "description": "Disney is closing down its Shanghai resort over the lucrative Lunar New Year holiday, amid growing fears over the deadly Wuhan coronavirus.",
+            "url": "https://www.cnn.com/2020/01/24/business/disneyland-china-wuhan-virus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124025455-shanghai-disneyland-super-tease.jpg",
+            "publishedAt": "2020-01-24T09:49:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Hollingsworth, CNN",
+            "title": "China canceling Lunar New Year festivities is a massive deal",
+            "description": "It's the most celebratory time of the year in China -- but in many cities, festivities have been called off.",
+            "url": "https://www.cnn.com/2020/01/24/china/virus-lunar-new-year-intl-hnk-scli/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124151619-spring-festival-2-super-tease.jpg",
+            "publishedAt": "2020-01-24T09:13:33Z",
+            "content": "Hong Kong (CNN)It's the most celebratory time of the year in China -- but in many cities, festivities have been called off.\r\nSaturday marks the first day of the Lunar New Year, also known in China as Spring Festival. It's a time when families gather, often tr\u2026 [+3188 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Helen Regan, CNN",
+            "title": "Tens of millions under lockdown in at least 7 cities",
+            "description": "Authorities in China have imposed indefinite travel restrictions on tens of millions of people across seven cities in an unprecedented effort to contain the spread of a deadly new coronavirus, as hospitals at the epicenter of the outbreak struggle to handle a\u2026",
+            "url": "https://www.cnn.com/2020/01/24/china/wuhan-coronavirus-update-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124122708-wuhan-hospital-staff-super-tease.jpg",
+            "publishedAt": "2020-01-24T08:34:59Z",
+            "content": "Hong Kong (CNN)Authorities in China have imposed indefinite travel restrictions on tens of millions of people across sevencities in an unprecedented effort to contain the spread of a deadly new coronavirus, as hospitals at the epicenter of the outbreak strugg\u2026 [+7219 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Social media videos appear to show patients overcrowd hospitals",
+            "description": "Social media videos appear to show patients overcrowd hospitals in Wuhan -- a city under partial lockdown -- due to the Wuhan coronavirus outbreak. CNN's David Culver reports.",
+            "url": "https://www.cnn.com/videos/world/2020/01/24/china-wuhan-coronavirus-hospital-overcrowd-culver-nr-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124153923-wuhan-overcrowd-hospital2-super-tease.jpg",
+            "publishedAt": "2020-01-24T08:07:45Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh, CNN Business",
+            "title": "Asian markets are quiet after a turbulent week",
+            "description": "Asian markets were mostly muted Friday morning on the eve of Lunar New Year celebrations, signaling a cautious approach after a broad sell-off the previous day over growing coronavirus fears.",
+            "url": "https://www.cnn.com/2020/01/23/investing/asian-market-latest/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191208223550-hong-kong-stock-exchange-2-super-tease.jpg",
+            "publishedAt": "2020-01-24T02:49:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady, CNN Business",
+            "title": "Global carmakers and luxury brands hit as virus shuts down China's 'motor city'",
+            "description": "Renault, Honda and Peugeot owner PSA Group are among the global companies that have large manufacturing plants in Wuhan, China, the center of a coronavirus outbreak that has claimed dozens of lives.",
+            "url": "https://www.cnn.com/2020/01/23/business/coronavirus-carmakers-luxury/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123102311-wuhan-china-renault-car-factory-file-super-tease.jpg",
+            "publishedAt": "2020-01-24T02:02:41Z",
+            "content": "London (CNN Business)Renault(RNLSY), Honda(HMC) and Peugeot owner PSA Group(PUGOY) are among the global companies that have large manufacturing plants in Wuhan, China, the center of a coronavirus outbreak that has claimed dozens of lives.\r\nThe three automaker\u2026 [+3814 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/james-griffiths\">James Griffiths</a> and <a href=\"/profiles/steve-george\">Steve George</a>, CNN",
+            "title": "Three cities under lockdown as coronavirus outbreak kills dozens in China",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124094829-wuhan-0123-virus-check-super-tease.jpg",
+            "publishedAt": "2020-01-24T01:57:31Z",
+            "content": "Washington state health officials confirmed Thursday that they have been reaching out to 43 people considered \"close contacts\" of the 30-year-old man who was the first confirmed case of coronavirus diagnosed in the United States. \r\nThe Snohomish County reside\u2026 [+1472 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicole Chavez And Nadia Kounang",
+            "title": "A man diagnosed with Wuhan coronavirus near Seattle is being treated largely by a robot",
+            "description": "The first person diagnosed with the Wuhan coronavirus in the United States is being treated by a few medical workers and a robot.",
+            "url": "https://www.cnn.com/2020/01/23/health/us-wuhan-coronavirus-doctor-interview/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123200457-02-us-wuhan-coronavirus-doctor-super-tease.jpg",
+            "publishedAt": "2020-01-24T01:35:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Marnie Hunter, CNN",
+            "title": "Wuhan coronavirus: Is it safe to travel?",
+            "description": "Much is still unknown about the Wuhan coronavirus outbreak and health officials are urging vigilance.",
+            "url": "https://www.cnn.com/travel/article/coronavirus-travel-advice/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123112351-12-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-01-24T00:51:09Z",
+            "content": "Marnie Hunter, CNNPublished 24th January 2020\r\n(CNN) Much is still unknown about the Wuhan coronavirus outbreak and health officials are urging vigilance. \r\nThat means travelers crisscrossing the globe should be aware of the virus, steer clear of heavily impa\u2026 [+5933 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by James Griffiths, CNN",
+            "title": "Wuhan is the latest crisis to face China's Xi, and it's exposing major flaws in his model of control",
+            "description": "Speaking on the tenth anniversary of the 2003 SARS crisis, Zhong Nanshan, one of the heroes in China's fight against that disease, described its as a \"turning point\" for the nation.",
+            "url": "https://www.cnn.com/2020/01/23/asia/wuhan-china-coronavirus-sars-response-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123155815-xi-jinping-1220-macau-01-super-tease.jpg",
+            "publishedAt": "2020-01-24T00:43:28Z",
+            "content": "Hong Kong (CNN)Speaking on the tenth anniversary of the 2003 SARS crisis, Zhong Nanshan, one of the heroes in China's fight against that disease, described its as a \"turning point\" for the nation. \r\n\"SARS forced the whole country to pay attention to the livel\u2026 [+9824 chars]"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "EndXA",
+            "title": "New coronavirus can spread between humans\u2013but it started in a wildlife market",
+            "description": "Article URL: https://www.nationalgeographic.com/science/2020/01/new-coronavirus-spreading-between-humans-how-it-started/ Comments URL: https://news.ycombinator.com/item?id=22146446 Points: 5 # Comments: 0",
+            "url": "https://www.nationalgeographic.com/science/2020/01/new-coronavirus-spreading-between-humans-how-it-started/",
+            "urlToImage": "https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/homepage/hero-crops/01_coronavirus_rts2z4b8.ngsversion.1579702558875.adapt.1900.1.jpg",
+            "publishedAt": "2020-01-25T14:50:38Z",
+            "content": null
+        }
+    ]
+}

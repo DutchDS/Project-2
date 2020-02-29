@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Adam Vaughan",
+            "title": "UN biodiversity summit could move from China due to coronavirus",
+            "description": "A major United Nations biodiversity summit to negotiate plans to stop the loss of species around the world could be moved from China because of the coronavirus outbreak",
+            "url": "https://www.newscientist.com/article/2235771-un-biodiversity-summit-could-move-from-china-due-to-coronavirus/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/28180738/gettyimages-914503662.jpg",
+            "publishedAt": "2020-02-28T18:11:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Adam Vaughan",
+            "title": "Coronavirus pandemic threatens to knock $1 trillion off global economy",
+            "description": "Financial markets around the world have suffered their worst week since the 2008 financial crash, as the economic impact of the coronavirus edging towards a pandemic becomes clearer",
+            "url": "https://www.newscientist.com/article/2235697-coronavirus-pandemic-threatens-to-knock-1-trillion-off-global-economy/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/28121706/gettyimages-1208536317.jpg",
+            "publishedAt": "2020-02-28T15:43:59Z",
+            "content": "By Adam Vaughan\r\nMarkets are falling around the world\r\nTomohiro Ohsumi/Getty Images\r\nFinancial markets around the world have suffered their worst week since the 2008 financial crash, as the economic impact of the covid-19coronavirus edging towards a pandemic \u2026 [+4758 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Michael Le Page",
+            "title": "Binge-watching TV isn't as bad for the climate as some reports suggest",
+            "description": "Two analyses suggest earlier studies have overestimated CO2 emissions due to the massive growth in internet traffic and video streaming, but they are still substantial",
+            "url": "https://www.newscientist.com/article/2235713-binge-watching-tv-isnt-as-bad-for-the-climate-as-some-reports-suggest/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/02/28164031/gettyimages-1006512090.jpg",
+            "publishedAt": "2020-02-28T16:43:02Z",
+            "content": "By Michael Le Page\r\nWell, that\u2019s a relief\r\nDigitalVision/Getty\r\nEvery time you search the internet or stream a video, a computer in a data centre somewhere in the world spins into action. With internet use ever on the rise, there have been fears that this is \u2026 [+3693 chars]"
+        }
+    ]
+}

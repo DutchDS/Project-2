@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "CDC ramps up response to coronavirus",
+            "description": "There are new cases of coronavirus being reported. The CDC is ramping up its response to the epidemic by setting up five labs around the country. Carter Evans has the latest.",
+            "url": "https://www.cbsnews.com/video/cdc-ramps-up-response-to-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/15/4a960e90-1713-41a9-bf83-a0f8c6896742/thumbnail/1200x630/fcd9956d4a580b31ad6c72bfa6213eab/0214-en-coronavirus-evans-2027666-640x360.jpg",
+            "publishedAt": "2020-02-14T23:54:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "christina capatides",
+            "title": "Bullies attack Asian American teen, citing coronavirus",
+            "description": "Because the coronavirus outbreak started in China, some misguided individuals are targeting Asians with discriminatory behavior or worse.",
+            "url": "https://www.cbsnews.com/news/coronavirus-bullies-attack-asian-teen-los-angeles-accusing-him-of-having-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/14/9f5367dd-e18e-4295-915a-7e3b3b3c88e4/thumbnail/1200x630/1b7ab229889b3adc28a2d6b7f1ea3921/gettyimages-1133586898.jpg",
+            "publishedAt": "2020-02-14T18:53:04Z",
+            "content": "A 16-year-old boy in California's San Fernando Valley was physically attacked this week by bullies in his high school who accused him of having the coronavirus \u2014 simply because he is Asian American. It is just the latest episode in a spree of racist incidents\u2026 [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "U.S. couple celebrates Valentine's Day on coronavirus ship",
+            "description": "Matthew Smith and his wife Katherine Codekas have lived onboard Carnival's Diamond Princess Cruise ship for nearly a month \u2014 but that hasn't stopped them from partaking in some Valentine's Day activities.",
+            "url": "https://www.cbsnews.com/news/coronavirus-american-couple-quarantined-carnival-diamond-princess-cruise-ship-valentines-day/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/14/74e4d30f-76fb-4dcf-b3f1-9ef8e3337bfa/thumbnail/1200x630/2592345afcc8a7ea3634595e241685a8/image003.jpg",
+            "publishedAt": "2020-02-14T18:13:11Z",
+            "content": "For almost a month, Matthew Smith and his wife Katherine Codekas have been aboard Carnival's Diamond Princess Cruise ship. But they haven't been enjoying a romantic extended vacation \u2014 they've been quarantined because of a coronavirus outbreak on the vessel.\u00a0\u2026 [+3692 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus raises concerns at Tokyo Olympics; clashes in Afghanistan amid U.S. peace talks",
+            "description": "Some of the athletes and coaches participating in the Summer Olympics in Tokyo are concerned what will happen if the coronavirus keeps spreading. Also, there have been clashes between the Taliban and Afghan government forces despite word from U.S. officials t\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-raises-concerns-at-tokyo-olympics-clashes-in-afghanistan-amid-us-peace-talks/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/14/ca3d7199-8a2d-47aa-a4f4-f966e83160c6/thumbnail/1200x630/c6cb2500273a5a96108a1c488af3a9fb/cbsn-fusion-coronavirus-raises-concerns-at-tokyo-olympics-clashes-in-afghanistan-amid-us-peace-talks-thumbnail.jpg",
+            "publishedAt": "2020-02-14T16:11:29Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "CDC confirms 15th coronavirus case in U.S. as number of cases in China skyrockets",
+            "description": "The Centers for Disease Control and Prevention has confirmed another coronavirus infection in the U.S. as the number of cases in mainland China has skyrocketed. Companies around the world are racing to find a vaccine. CBS News correspondent Carter Evans joine\u2026",
+            "url": "https://www.cbsnews.com/video/cdc-confirms-15th-coronavirus-case-in-us-as-number-of-cases-in-china-skyrockets/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/14/bce81259-1af4-4cb7-a9d3-8ff8a5d1e12e/thumbnail/1200x630/a5f2d25337739d65488e971dfbc44434/cbsn-fusion-cdc-confirms-15th-case-of-coronavirus-infection-in-us-at-number-of-sick-in-china-skyrockets-thumbnail.jpg",
+            "publishedAt": "2020-02-14T15:36:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Texas resident becomes 15th U.S. coronavirus case",
+            "description": "The CDC announced the U.S.\u2019s 15th coronavirus case found in Texas as Chinese officials confirm 64,000 sick with 1,400 dead from the virus. Japan also recently confirmed its first coronavirus death, as President Shinzo Abe vowed to ensure the safety of summer \u2026",
+            "url": "https://www.cbsnews.com/video/texas-resident-becomes-15th-us-coronavirus-case/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/14/d33ecff9-899e-4533-8bfa-277b07f31176/thumbnail/1200x630/df5fd7cd963bb81282d6e62f1b564a37/0214-ctm-coronavirus-evans-2027231-640x360.jpg",
+            "publishedAt": "2020-02-14T12:46:17Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: Barr calls out Trump's Twitter habits",
+            "description": "Attorney General William Barr said President Trump is making it \u201cimpossible\u201d for him to do his job in an extraordinary rebuke of Mr. Trump\u2019s Twitter habits. Also, coronavirus cases skyrocket in China as a person in Texas becomes the U.S.\u2019s 15th case. All that\u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-barr-calls-out-trumps-twitter-habits/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/14/064ad0e8-7b3a-4143-add1-01feb0066ecd/thumbnail/1200x630/314468014e57fb4508b83b1c846dfcfa/0214-ctm-7ameyeopener-2027204-640x360.jpg",
+            "publishedAt": "2020-02-14T12:22:57Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "CDC braces for a long fight as coronavirus toll mounts in China",
+            "description": "The death toll is nearing 1,400, but global health officials say a massive spike in Chinese cases isn't necessarily the \"tip of an iceberg.\"",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-china-outbreak-death-toll-infections-cruise-ship-latest-updates-2020-02-14/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/14/5018c927-0b1c-4092-8827-4a2f9f3952b9/thumbnail/1200x630/b6c1f72a73c9d22d386ffecd19ff8513/coronavirus-hong-kong-valentines.jpg",
+            "publishedAt": "2020-02-14T11:10:04Z",
+            "content": "The head of the U.S. Centers for Disease Control and Prevention says the new coronavirus, which has killed almost 1,400 people and is still spreading in China, could be around for at least another year. With the Chinese government reporting 121 more deaths an\u2026 [+1542 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "University student from California stuck in China during coronavirus outbreak",
+            "description": "A Cal State University Northridge student is still in China on Thursday night, near the epicenter of the coronavirus outbreak -- his semester studying abroad turning into a nightmare. Samson Adame, 24, has been stuck in the Shandong Province of China since th\u2026",
+            "url": "https://www.cbsnews.com/video/cal-state-northridge-student-stuck-china-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/14/4a94b3b5-c30e-472a-ac5d-84bc0595e82e/thumbnail/1200x630/cc210f987c7ecea28f8795c6a39b5677/cbsn-fusion-cal-state-northridge-student-stuck-china-coronavirus-outbreak-thumbnail-445309-640x360.jpg",
+            "publishedAt": "2020-02-14T04:52:03Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "California student stuck in China during coronavirus outbreak",
+            "description": "Samson Adame, a 24-year-old Cal State Northridge student, has been in the Shandong Province of China since the coronavirus epidemic broke out.",
+            "url": "https://www.cbsnews.com/news/california-university-student-stuck-shandong-province-china-coronavirus-outbreak-2020-02-13/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/14/7e5996db-1154-4c3e-9ac6-458eba01b91a/thumbnail/1200x630/b9f1aff90e61d72d1be8e87cd6d248a5/student-stuck-in-china-coronavirus.png",
+            "publishedAt": "2020-02-14T04:50:42Z",
+            "content": "A Cal State University Northridge student is still in China on Thursday night, near the epicenter of the coronavirus outbreak \u2014 his semester studying abroad turning into a health care nightmare, CBS Los Angeles\u00a0reported.\r\n\"I never cry,\" Nancy Krank, the stude\u2026 [+2144 chars]"
+        }
+    ]
+}

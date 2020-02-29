@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Michael Brendan Dougherty, Michael Brendan Dougherty",
+            "title": "The Coronavirus Plague and Social Media",
+            "description": "Navigating the outbreak in a world of endless unverified information",
+            "url": "https://www.nationalreview.com/2020/01/coronavirus-outbreak-social-media-world-endless-unverified-information/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/coronavirus-masks-hong-kong.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-01-31T22:19:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "U.S. Temporarily Bars Foreigners Who Have Recently Visited China from Entering U.S. to Prevent Coronavirus Outbreak",
+            "description": "The White House coronavirus task force announced Friday that it was enacting a public health emergency in the wake of the virus\u2019s outbreak, which so far has resulted in six confirmed cases in the U.S.",
+            "url": "https://www.nationalreview.com/news/coronavirus-outbreak-us-temporarily-bars-foreigners-who-have-recently-visited-china-from-entering-us/",
+            "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/coronavirus-alex-azar.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-01-31T21:32:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Delta and American Airlines Suspend All Flights to China amid Coronavirus Outbreak",
+            "description": "Delta and American Airlines announced on Friday they would suspend all flights between the U.S. and China, following the outbreak of the Wuhan coronavirus.",
+            "url": "https://www.nationalreview.com/news/delta-and-american-airlines-suspend-all-flights-to-china-amid-coronavirus-outbreak/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/PLane-delta.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-01-31T17:30:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "State Dept. Raises China Travel Advisory to Highest Threat Level over Coronavirus",
+            "description": "\"Travelers should be prepared for travel restrictions to be put into effect with little or no advance notice,\" the State Department said.",
+            "url": "https://www.nationalreview.com/news/state-dept-raises-china-travel-advisory-to-highest-threat-level-over-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/china-coronavirus-9.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-01-31T13:10:14Z",
+            "content": null
+        }
+    ]
+}

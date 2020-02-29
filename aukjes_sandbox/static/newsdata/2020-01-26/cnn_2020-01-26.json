@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dakin Andone, CNN",
+            "title": "China's unprecedented quarantines could have wider consequences, experts say",
+            "description": "With Chinese authorities warning the coronavirus outbreak is accelerating, placing millions of people in more than a dozen Chinese cities under intense travel restrictions might seem like a good idea.",
+            "url": "https://www.cnn.com/2020/01/26/health/quarantine-china-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125175435-03-coronavirus-0125-super-tease.jpg",
+            "publishedAt": "2020-01-26T20:59:18Z",
+            "content": "(CNN)With Chinese authorities warning the coronavirus outbreak is accelerating, placing millions of people in more than a dozen Chinese cities under intense travel restrictions might seem like a good idea.\r\nBut historically a mass quarantine is an aggressive \u2026 [+5561 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy Business",
+            "title": "Video game company urges users to seek information about coronavirus from official sources, not its game",
+            "description": "The popularity of a video game that teaches players about how diseases spread has grown sharply amid concerns about the spread of coronavirus. Now, the company is warning people to seek information on the disease from official sources, rather than relying on \u2026",
+            "url": "https://www.cnn.com/2020/01/26/tech/plague-coronavirus-game-warning/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200126135815-01-coronavirus-beijing-0126-super-tease.jpg",
+            "publishedAt": "2020-01-26T20:34:29Z",
+            "content": "New York (CNN Business)The popularity of a video game that teaches players about how diseases spread has grown sharply amid concerns about the spread of coronavirus. Now, the company is warning people to seek information on the disease from official sources, \u2026 [+1103 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Fourth case of coronavirus confirmed in US",
+            "description": "The US has confirmed a 4th case of coronavirus as the death toll rises to over 50 in China. CNN's Elizabeth Cohen reports.",
+            "url": "https://www.cnn.com/videos/health/2020/01/26/coronavirus-us-new-reported-case-cohen-nr-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200108214800-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-01-26T19:46:11Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Cohen, Senior Medical Correspondent",
+            "title": "China says coronavirus can spread before symptoms show -- calling into question US containment strategy",
+            "description": "China's health minister Ma Xiaowei had some very bad news Sunday about the Wuhan coronavirus: He said people can spread it before they have symptoms.",
+            "url": "https://www.cnn.com/2020/01/26/health/coronavirus-spread-symptoms-chinese-officials/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125175435-03-coronavirus-0125-super-tease.jpg",
+            "publishedAt": "2020-01-26T15:59:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Richard Galant, CNN",
+            "title": "Worlds collide over Trump",
+            "description": "In 2020 America, members of the two political tribes can largely go their own ways without having to pay attention to the other side. Except for last week: The Republican controlled Senate had to sit silently and listen to the Democrats as they methodically m\u2026",
+            "url": "https://www.cnn.com/2020/01/26/opinions/worlds-collide-over-trump-opinion-wrap-galant/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123203145-06-day-3-impeachment-trial-sketch-0123-02-burr-spinner-191050-super-tease.jpg",
+            "publishedAt": "2020-01-26T13:14:32Z",
+            "content": "Sign up to get our new weekly column as a newsletter. We're looking back at the strongest, smartest opinion takes of the week from CNN and other outlets.\r\n (CNN)In 2020 America, members of the two political tribes can largely go their own ways without having \u2026 [+9726 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "Will the coronavirus outbreak knock global growth?",
+            "description": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.",
+            "url": "https://www.cnn.com/2020/01/26/investing/stocks-week-ahead/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200124161911-coronavirus-fears-0124-restricted-super-tease.jpg",
+            "publishedAt": "2020-01-26T13:00:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi, CNN",
+            "title": "A third case of coronavirus is confirmed in the US as China struggles to contain outbreak",
+            "description": "A new case of coronavirus has been confirmed in Southern California, making it the third person to test positive in the United States as the fast-moving virus spreads worldwide.",
+            "url": "https://www.cnn.com/2020/01/26/us/coronavirus-orange-county/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125221600-04b-coronavirus-0125-wuhan-copy-super-tease.jpg",
+            "publishedAt": "2020-01-26T09:03:22Z",
+            "content": "(CNN)A new case of coronavirus has been confirmed in Southern California, making it the third person to test positive in the United States as the fast-moving virus spreads worldwide.\r\nThe Centers for Disease Control and Prevention notified Orange County healt\u2026 [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "David Culver and Faith Karimi, CNN",
+            "title": "US citizen trapped at the epicenter of the coronavirus outbreak says she's angry and scared",
+            "description": "A US citizen trapped at the epicenter of the coronavirus outbreak in China described her fear of living in a city that's cut off from the rest of the country by transport restrictions.",
+            "url": "https://www.cnn.com/2020/01/26/us/us-citizen-wuhan-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125102149-01-coronavirus-0125-super-tease.jpg",
+            "publishedAt": "2020-01-26T06:28:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michael Bociurkiw",
+            "title": "The WHO should sound the alarm on Wuhan coronavirus",
+            "description": "As the Wuhan coronavirus continues to spread around the world, the World Health Organization's decision to hold off on declaring the outbreak \"a public health emergency of international concern\" is baffling.",
+            "url": "https://www.cnn.com/2020/01/25/opinions/who-should-sound-alarm-on-coronavirus-bociurkiw/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125175435-03-coronavirus-0125-super-tease.jpg",
+            "publishedAt": "2020-01-26T03:16:02Z",
+            "content": "Michael Bociurkiw is a global affairs analyst and a former spokesman for both the Organization for Security and Cooperation in Europe and UNICEF. He is also a former contractor for WHO. Follow him on Twitter @WorldAffairsPro. The opinions expressed in this co\u2026 [+6447 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/joshua-berlinger\">Joshua Berlinger</a> and <a href=\"/profiles/brett-mckeehan\">Brett McKeehan</a>, CNN",
+            "title": "China's Xi warns of grave situation as coronavirus death toll continues to rise",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-26-20/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200125175435-03-coronavirus-0125-super-tease.jpg",
+            "publishedAt": "2020-01-26T01:55:48Z",
+            "content": "Healthcare workers in the Chinese city of Wuhan say\u00a0hospitals are running low\u00a0on supplies as they treat an increasing number of patients.\r\nThe Chinese central government announced it would send more than 1,200 health workers as well as 135 People's Liberation\u2026 [+1276 chars]"
+        }
+    ]
+}

@@ -1,0 +1,409 @@
+{
+    "status": "ok",
+    "totalResults": 31,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Jeff Yang",
+            "title": "A new virus stirs up ancient hatred",
+            "description": "As the Wuhan coronavirus is spreading, it's activating a familiar and toxic strain of racism against Asians, writes Jeff Yang.",
+            "url": "https://www.cnn.com/2020/01/30/opinions/wuhan-coronavirus-is-fueling-racism-xenophobia-yang/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129150318-wuhan-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-01-30T22:42:58Z",
+            "content": "Jeff Yang is a frequent contributor to CNN Opinion, a featured writer for Quartz and other publications, and the co-host of the podcast \"They Call Us Bruce.\" He co-wrote Jackie Chan's best-selling autobiography, \"I Am Jackie Chan\" and is the editor of three g\u2026 [+5404 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Wuhan streets described as 'eerie.' See what they look like now.",
+            "description": "The Wuhan coronavirus leaves the streets of Wuhan, China, virtually empty. CNN's David Culver speaks with an American college student in Shanghai who says finding food has gotten increasingly difficult.",
+            "url": "https://www.cnn.com/videos/world/2020/01/30/wuhan-empty-streets-lockdown-american-student-residents-culver-pkg-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-super-tease.jpg",
+            "publishedAt": "2020-01-30T22:02:25Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Shannon Liao, CNN Business",
+            "title": "American Airlines pilots sue to halt US-China flights amid coronavirus epidemic",
+            "description": "The Allied Pilots Association, a union representing 15,000 American Airlines pilots, has sued the company to halt the carrier's U.S.-China service, citing \"serious, and in many ways still unknown, health threats posed by the coronavirus.\"",
+            "url": "https://www.cnn.com/2020/01/30/business/american-airlines-pilots-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130160240-american-airlines-0524-file-super-tease.jpg",
+            "publishedAt": "2020-01-30T21:13:08Z",
+            "content": "New York (CNN Business)The Allied Pilots Association, a union representing 15,000 American Airlines pilots, has sued the company to halt the carrier's U.S.-China service, citing \"serious, and in many ways still unknown, health threats posed by the coronavirus\u2026 [+510 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michael Nedelman, CNN",
+            "title": "World Health Organization declares coronavirus a public health emergency of international concern",
+            "description": "The World Health Organization has declared the novel coronavirus outbreak a public health emergency of international concern, after an emergency committee reconvened Thursday in Geneva.",
+            "url": "https://www.cnn.com/2020/01/30/health/coronavirus-who-public-health-emergency-international-concern-declaration/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130120619-17-china-coronavirus-lockdown-unfurled-super-tease.jpg",
+            "publishedAt": "2020-01-30T19:45:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Sten Vermund",
+            "title": "Coronavirus shows disease prevention needs to be a policy priority",
+            "description": "Sten Vermund writes that the Coronavirus's spread has demonstrated the need for preemptive disease prevention policy and not just containment when outbreaks occur.",
+            "url": "https://www.cnn.com/2020/01/30/opinions/epidemic-public-policy-coronavirus-vermund/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130095104-coronavirus-wuhan-worker-super-tease.jpg",
+            "publishedAt": "2020-01-30T18:50:42Z",
+            "content": "Dr. Sten Vermund is dean of the Yale School of Public Health, the Anna M.R. Lauder Professor of Public Health and professor of pediatrics at the Yale School of Medicine. He has founded two non-governmental organizations fighting the HIV epidemic in Africa. Th\u2026 [+5140 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Brandon Tensley, CNN",
+            "title": "Coronavirus task force another example of Trump administration's lack of diversity",
+            "description": "It's a statement that's as predictable as it is infuriating: President Donald Trump's administration lacks diversity.",
+            "url": "https://www.cnn.com/2020/01/30/politics/donald-trump-coronavirus-diversity-obama/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130051233-trump-obama-sit-room-split-super-tease.jpg",
+            "publishedAt": "2020-01-30T18:42:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Brandon Tensley, CNN",
+            "title": "Coronavirus task force another example of Trump administration's lack of diversity",
+            "description": "It's a statement that's as predictable as it is infuriating: President Donald Trump's administration lacks diversity.",
+            "url": "https://www.cnn.com/2020/01/30/politics/donald-trump-coronavirus-diversity-obama/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130051233-trump-obama-sit-room-split-super-tease.jpg",
+            "publishedAt": "2020-01-30T18:42:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacqueline Howard, CNN",
+            "title": "First case of person-to-person transmission of Wuhan virus in the US confirmed",
+            "description": "The United States reported its first confirmed case of person-to-person spread of the Wuhan coronavirus, the US Centers for Disease Control and Prevention announced on Thursday. This is the second confirmed case of the virus in Illinois.",
+            "url": "https://www.cnn.com/2020/01/30/health/coronavirus-illinois-person-to-person-cdc/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/171216062512-cdc-banned-words-washington-post-newday-00000000-super-tease.jpg",
+            "publishedAt": "2020-01-30T17:59:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Daniela Sirtori-Cortina, CNN Business",
+            "title": "Cruise stocks drop as 7,000 guests held on ship in Italy",
+            "description": "Cruise stocks fell Thursday amid revelations that 7,000 people are being held on a cruise in Italy after a passenger showed symptoms of the Wuhan coronavirus.",
+            "url": "https://www.cnn.com/2020/01/30/business/coronavirus-cruise-stock-drop/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130143954-03-coronavirus-italy-cruise-ship-0130-super-tease.jpg",
+            "publishedAt": "2020-01-30T17:50:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Brian Lowry, CNN",
+            "title": "'Contagion' demonstrates the long fear in movies of coronavirus-like pandemics",
+            "description": "Amid fears stoked by the coronavirus, \"Contagion\" -- a 2011 movie about a pandemic with potentially eerie similarities to recent events -- has been climbing up the iTunes rental charts, reflecting how people often use fiction as a means to process reality.",
+            "url": "https://www.cnn.com/2020/01/30/entertainment/contagion-and-pandemics-in-movies/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129132109-cnne-showbiz-contagion-film-super-tease.jpg",
+            "publishedAt": "2020-01-30T17:30:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy, CNN Business",
+            "title": "Apple, more than most, stands to lose from the coronavirus outbreak",
+            "description": "Dozens of American companies are scrambling to combat the spread of coronavirus and stem losses from the outbreak.",
+            "url": "https://www.cnn.com/2020/01/30/tech/apple-coronavirus-response/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129122317-apple-store-hong-kong-file-super-tease.jpg",
+            "publishedAt": "2020-01-30T17:23:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Hollingsworth, Yuli Yang and Natalie Thomas, CNN",
+            "title": "'We'll admit them if they're dying': Virus outbreak pushes China's stretched health care workers to breaking point",
+            "description": "All Shi Muying wanted was to spend one last Lunar New Year holiday with her terminally ill mother.",
+            "url": "https://www.cnn.com/2020/01/30/asia/chinese-health-care-virus-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129031800-03-wuhan-china-medical-system-super-tease.jpg",
+            "publishedAt": "2020-01-30T16:17:15Z",
+            "content": "January 1: Market in Wuhan where outbreak is believed to have originated closed for disinfection\r\nJanuary 7: Chinese scientists identify pathogen involved as new strain of coronavirus\r\nJanuary 9: First death linked to virus\r\nJanuary 20: Cases reported in Beij\u2026 [+253 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eliza Mackintosh, CNN",
+            "title": "European Union task force holds its first summit on fighting Russian disinformation",
+            "description": "A European Union task force created to combat Russian disinformation is holding its first-ever summit on hostile foreign influence, as the bloc continues to try and tackle meddling from its eastern neighbor.",
+            "url": "https://www.cnn.com/2020/01/30/europe/european-union-task-force-russian-disinformation-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130071723-01-eu-flags-super-tease.jpg",
+            "publishedAt": "2020-01-30T14:04:39Z",
+            "content": "Brussels (CNN)A European Union task force created to combat Russian disinformation is holding its first-ever summit on hostile foreign influence, as the bloc continues to try and tackle meddling from its eastern neighbor. \r\nInternational experts gathered in B\u2026 [+6220 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Scottie Andrew, CNN",
+            "title": "A deadly virus is spreading from state to state and has infected 15 million Americans so far. It's influenza",
+            "description": "The coronavirus is prompting Americans to buy up surgical masks. Another virus, the flu, has killed more than 8,200 this season alone. Because the flu is a constant in Americans' lives, the familiarity makes it more dangerous to underestimate.",
+            "url": "https://www.cnn.com/2020/01/30/health/flu-deadly-virus-15-million-infected-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-super-tease.jpg",
+            "publishedAt": "2020-01-30T13:48:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Richard Davis, CNN",
+            "title": "Commerce secretary says coronavirus will help bring jobs to North America",
+            "description": "Commerce Secretary Wilbur Ross said Thursday he believed the coronavirus outbreak in Wuhan, China, will help return jobs to the US and Mexico.",
+            "url": "https://www.cnn.com/2020/01/30/politics/wilbur-ross-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191103141537-wilbur-ross-file-super-tease.jpg",
+            "publishedAt": "2020-01-30T13:45:59Z",
+            "content": "(CNN)Commerce Secretary Wilbur Ross said Thursday he believed the coronavirus outbreak in Wuhan, China, will help return jobs to the US and Mexico.\r\n\"I think it will help to accelerate the return of jobs to North America -- some to US, probably some to Mexico\u2026 [+780 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "George Magnus for CNN Business Perspectives",
+            "title": "China's economy was supposed to get a boost this year. The coronavirus makes that unlikely",
+            "description": "We shall have to see, once the public health scare is over, how the economy bounces back and whether the government tries to give it some additional help.",
+            "url": "https://www.cnn.com/2020/01/30/perspectives/coronavirus-economic-impact/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129142940-03-beijing-china-coronavirus-0128-super-tease.jpg",
+            "publishedAt": "2020-01-30T13:42:10Z",
+            "content": "George Magnus is an associate at the China Centre at Oxford University, a research associate at the School of Oriental and African Studies, and former chief economist of UBS. The opinions expressed in this commentary are his own.\r\nThe coronavirus epidemic tha\u2026 [+3684 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths, Nectar Gan and David Culver, CNN",
+            "title": "Virus outbreak locks down Chinese cities",
+            "description": "China is on lockdown. The Wuhan coronavirus has killed 170 people and infected around 8,000 across the country. In an attempt to halt the outbreak, many Chinese cities have been placed under severe travel restrictions, affecting some 60 million people.",
+            "url": "https://www.cnn.com/2020/01/30/asia/gallery/chinese-cities-lockdown-coronavirus-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130120311-15-china-coronavirus-lockdown-unfurled-super-tease.jpg",
+            "publishedAt": "2020-01-30T13:37:09Z",
+            "content": "Chinese health workers standby to check the temperature of travelers entering a subway station in Beijing, China, on January 25.\r\nChina is on lockdown. The Wuhan coronavirus has killed 170 people and infected around 8,000 across the country. In an attempt to \u2026 [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Coronavirus evacuee: When plane landed, we cheered",
+            "description": "CNN's Kyung Lah spoke to American Jarred Evans who was evacuated from Wuhan, China back to the US following the outbreak of the novel coronavirus. Evans described his experience on the plane and how everyone cheered when it landed.",
+            "url": "https://www.cnn.com/videos/world/2020/01/30/americans-evacuated-epicenter-wuhan-china-coronavirus-plane-lah-dnt-newday-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130072638-coronavirus-evacuation-plane-super-tease.jpg",
+            "publishedAt": "2020-01-30T12:41:55Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Calum Trenaman, CNN",
+            "title": "China delays start of football season as Wuhan coronavirus cases top 7,000",
+            "description": "All football matches in mainland China will be postponed because of the Wuhan coronavirus outbreak, according to the country's governing football body.",
+            "url": "https://edition.cnn.com/2020/01/30/football/coronavirus-china-football-league-postponed-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129150742-wuhan-coronavirus-military-super-tease.jpg",
+            "publishedAt": "2020-01-30T12:13:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for January 30: Impeachment, Iraq, coronavirus, 2020 Dems, Tanzania",
+            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
+            "url": "https://www.cnn.com/2020/01/30/us/five-things-january-30-trnd-duplicate-2/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129141218-01-dershowitz-impeachment-qa-0129-super-tease.jpg",
+            "publishedAt": "2020-01-30T11:01:31Z",
+            "content": "(CNN)Parents, listen up: Four companies have recalled more than 165,000 infant incline sleepers due to suffocation risks.\u00a0\r\nHere's what you need to know to Get Up to Speed and Out the Door. \r\n(You can also get \"5 Things You Need to Know Today\" delivered to yo\u2026 [+5513 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Wuhan holds light show to offer encouragement to citizens on lockdown",
+            "description": "Residents of Wuhan, China, describe what life is like under lockdown in the city at the center of the novel coronavirus outbreak. The virus has killed 170 people and infected nearly 8,000 others in China. CNN's Isa Soares reports.",
+            "url": "https://www.cnn.com/videos/world/2020/01/30/life-in-wuhan-china-coronavirus-outbreak-residents-soares-pkg-intl-ldn-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130095104-coronavirus-wuhan-worker-super-tease.jpg",
+            "publishedAt": "2020-01-30T10:49:54Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Bukola Adebayo and David McKenzie, CNN",
+            "title": "South Africans in Wuhan lockdown call for evacuation from coronavirus outbreak epicenter",
+            "description": "South Africans in Wuhan, the epicenter of the novel coronavirus outbreak, have expressed frustration about their government's lack of evacuation plans from the city.",
+            "url": "https://www.cnn.com/2020/01/30/africa/south-africans-stranded-wuhan-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129164521-wuhan-lockdown-0130-super-tease.jpg",
+            "publishedAt": "2020-01-30T08:23:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kyung Lah and Faith Karimi, CNN",
+            "title": "US evacuees from China to be held at California military base for 3 days as coronavirus outbreak grows",
+            "description": "The nearly 200 Americans flown out of China on a chartered flight will stay at a military base in Southern California for at least three days so they can be monitored for coronavirus symptoms.",
+            "url": "https://www.cnn.com/2020/01/30/health/us-coronavirus-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130095104-coronavirus-wuhan-worker-super-tease.jpg",
+            "publishedAt": "2020-01-30T08:14:06Z",
+            "content": "(CNN)The nearly 200 Americans flown out of China on a chartered flight will stay at a military base in Southern California for at least three days so they can be monitored for coronavirus symptoms.\r\nUS health officials will not set up a blanket quarantine for\u2026 [+5153 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Steven Jiang, CNN",
+            "title": "The coronavirus is Chinese President Xi's ultimate test. Will he pass?",
+            "description": "Unlike in the United States and elsewhere, it's unusual for a Chinese leader to personally proclaim his involvement in countrywide matters. Not only is it considered self-evident, but he also doesn't need to -- state-run media produces fawning coverage of his\u2026",
+            "url": "https://www.cnn.com/2020/01/30/asia/xi-jinping-reputation-wuhan-coronavirus-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200123155717-xi-jinping-0117-01-myanmar-super-tease.jpg",
+            "publishedAt": "2020-01-30T06:01:32Z",
+            "content": "Beijing (CNN)Unlike in the United States and elsewhere, it's unusual for a Chinese leader to personally proclaim his involvement in countrywide matters. Not only is it considered self-evident, but he also doesn't need to -- state-run media produces fawning co\u2026 [+5709 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sherisse Pham, CNN Business",
+            "title": "Ikea shuts down all mainland China stores over coronavirus",
+            "description": "Ikea is shutting down dozens of stores across China as the deadly Wuhan coronavirus outbreak escalates.",
+            "url": "https://www.cnn.com/2020/01/30/business/ikea-china-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129232024-ikea-china-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-01-30T05:43:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "James Griffiths, CNN",
+            "title": "Wuhan coronavirus infections continue to spread as countries evacuate citizens from China",
+            "description": "The number of confirmed cases of the Wuhan coronavirus continues to grow worldwide, as the city at the heart of the outbreak marks a week since it was first placed under lockdown.",
+            "url": "https://www.cnn.com/2020/01/30/asia/wuhan-coronavirus-update-china-spread-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130103155-wuhan-virus-0129-hong-kong-train-super-tease.jpg",
+            "publishedAt": "2020-01-30T05:16:47Z",
+            "content": "Hong Kong (CNN)The number of confirmed cases of the Wuhan coronavirus continues to grow worldwide, as the city at the heart of the outbreak marks a week since it was first placed under lockdown.\r\nMore than 7,700 cases of the virus have been confirmed in China\u2026 [+5876 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, CNN",
+            "title": "Wuhan residents are trying to make the best of the coronavirus lockdown",
+            "description": "For the millions of residents trapped in an unprecedented lockdown in Wuhan, the epicenter of China's deadly coronavirus outbreak, life has not been easy -- but some are trying to make the best of a bad situation.",
+            "url": "https://www.cnn.com/2020/01/29/asia/coronavirus-wuhan-life-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200128171417-china-wuhan-empty-streets-super-tease.jpg",
+            "publishedAt": "2020-01-30T03:39:50Z",
+            "content": "Hong Kong (CNN)For the millions of residents trapped in an unprecedented lockdown in Wuhan, the epicenter of China's deadly coronavirus outbreak, life has not been easy -- but some are trying to make the best of a bad situation.\r\nThe city of 11 million people\u2026 [+6357 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sherisse Pham, CNN Business",
+            "title": "Tesla Model 3 production delayed in Shanghai because of coronavirus outbreak",
+            "description": "Elon Musk's Tesla factory in China just got up and running. Now its vehicle production there will be delayed because of the deadly Wuhan virus outbreak.",
+            "url": "https://www.cnn.com/2020/01/29/tech/tesla-china-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129204200-tesla-model-3-shanghai-super-tease.jpg",
+            "publishedAt": "2020-01-30T03:31:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a> and <a href=\"/profiles/steve-george\">Steve George</a>, CNN",
+            "title": "Wuhan coronavirus cases top 7,000: Live updates - CNN International",
+            "description": "Wuhan coronavirus cases top 7,000: Live updates CNN International Coronavirus: Britons on Wuhan flights to be quarantined - BBC News BBC News Coronavirus Cases Grow as Airlines Suspend Flights to China The Wall Street Journal Coronavirus outbreak: Travelers c\u2026",
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-01-30-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200130095104-coronavirus-wuhan-worker-super-tease.jpg",
+            "publishedAt": "2020-01-30T02:43:00Z",
+            "content": "International rights group Human Rights Watch has said the Chinese government should ensure that human rights are protected while responding to the coronavirus outbreak.\r\nIn a statement, the rights group said that the government's initial response to the outb\u2026 [+1048 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, CNN Business",
+            "title": "Asian markets fall as the coronavirus creates more economic uncertainty",
+            "description": "Asian markets slumped Thursday as the number of coronavirus cases continue to mount, creating uncertainty for the global economy.",
+            "url": "https://www.cnn.com/2020/01/29/investing/asian-market-latest/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129205811-hong-kong-coronavirus-masks-super-tease.jpg",
+            "publishedAt": "2020-01-30T02:18:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allen Kim, CNN",
+            "title": "A student has started a petition to cancel classes at Arizona State University over coronavirus fears",
+            "description": "A student at Arizona State University has started a petition to cancel classes after someone from the university was confirmed to be infected with the coronavirus.",
+            "url": "https://www.cnn.com/2020/01/29/health/asu-coronavirus-petition-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200129194542-arizona-state-university-tempe-file-super-tease.jpg",
+            "publishedAt": "2020-01-30T00:54:13Z",
+            "content": null
+        }
+    ]
+}

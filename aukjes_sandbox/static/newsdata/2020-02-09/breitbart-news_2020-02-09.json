@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Carney",
+            "title": "Kyle Bass Calls Editor of China\u2019s Global Times \u2018A Disgrace to Humanity\u2019",
+            "description": "The hedge fund manager is the most prominent American so far to speak up against China's claims that U.S. aid on virus was lacking. | Economy",
+            "url": "https://www.breitbart.com/economy/2020/02/09/kyle-bass-hu-xinjin-disgrace/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-615653656-e1581292167420-639x335.jpg",
+            "publishedAt": "2020-02-09T23:56:21Z",
+            "content": "Hedge fund manager Kyle Bass counterpunched after the editor of China\u2019s communist party mouthpiece\u00a0Global Times\u00a0suggested that U.S. aid in fighting the coronavirus outbreak as \u201cbelated.\u201d\r\nBass has become in recent years one of the U.S.\u2019s\u00a0most stalwart private\u2026 [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Kurt Zindulka",
+            "title": "Scientist Who Discovered Ebola: Britain Faces \u2018Major\u2019 Coronavirus Outbreak",
+            "description": "The United Kingdom is facing a \"major outbreak\" of the deadly coronavirus, warns the scientist who co-discovered the Ebola virus in Africa.",
+            "url": "https://www.breitbart.com/europe/2020/02/09/britain-facing-major-outbreak-of-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/tropical-medicine-640x335.png",
+            "publishedAt": "2020-02-09T15:50:42Z",
+            "content": "The United Kingdom is facing a \u201cmajor outbreak\u201d of the deadly coronavirus, warns the scientist who co-discovered the Ebola virus in Africa.\r\nAs the death toll for the coronavirus officially surpasses that of the SARS outbreak in 2003, the director of the Lond\u2026 [+2597 chars]"
+        }
+    ]
+}

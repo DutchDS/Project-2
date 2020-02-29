@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Suryatapa Bhattacharya",
+            "title": "Fear and Boredom Aboard the Quarantined Coronavirus Cruise Ship - The Wall Street Journal",
+            "description": "Fear and Boredom Aboard the Quarantined Coronavirus Cruise Ship The Wall Street Journal Passengers finally begin to leave coronavirus-hit cruise ship in Japan AOL As Passenger Angst Grows, Japan to Let Some Off Ship, but Fewer Than Hoped The New York Times Wh\u2026",
+            "url": "https://www.wsj.com/articles/fear-and-boredom-aboard-the-quarantined-coronavirus-cruise-ship-11581705677",
+            "urlToImage": "https://images.wsj.net/im-154503/social",
+            "publishedAt": "2020-02-14T18:41:00Z",
+            "content": "TOKYOThe pools, hot tubs and bars of the Diamond Princess emptied out on Feb. 5, when authorities quarantined the luxury cruise ship at a Yokohama dock. Instead of overflowing buffets, staff in surgical masks deliver boxed meals and snacks, about 11,000 a day\u2026 [+174 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Ben Foldy",
+            "title": "Coronavirus Outbreak Could Affect Production at 2 GM Plants, Union Officials Say",
+            "description": "Coronavirus Outbreak Could Affect Production at 2 GM Plants, Union Officials Say wsj.com",
+            "url": "https://www.wsj.com/articles/coronavirus-outbreak-could-affect-production-at-2-gm-plants-union-officials-say-11581697246",
+            "urlToImage": "https://images.wsj.net/im-154680/social",
+            "publishedAt": "2020-02-14T18:13:53Z",
+            "content": "Union officials at two major General Motors Co. factories in the U.S. are warning of parts shortages related to the coronavirus outbreak in China, a sign that fallout for the auto industrys global supply chain could soon touch U.S. shores..\r\nA GM factory in F\u2026 [+271 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Avantika Chilkoti, Gunjan Banerji",
+            "title": "U.S. Stocks Little Changed as Virus Fears Abate Again - The Wall Street Journal",
+            "description": "U.S. Stocks Little Changed as Virus Fears Abate Again The Wall Street Journal",
+            "url": "https://www.wsj.com/articles/global-stocks-drift-as-coronavirus-huawei-concerns-dominate-11581676018",
+            "urlToImage": "https://images.wsj.net/im-154615/social",
+            "publishedAt": "2020-02-14T16:55:00Z",
+            "content": "U.S. stocks drifted higher Friday as investors concerns about a sharp rise in coronavirus cases from earlier in the week faded. \r\nThe S&amp;P 500 edged 0.2% higher, and the Nasdaq Composite added 0.3%. The Dow Jones Industrial Average was little changed. \r\nIn\u2026 [+87 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Stu Woo",
+            "title": "China Sees Second Straight Jump in Coronavirus Infections - The Wall Street Journal",
+            "description": "China Sees Second Straight Jump in Coronavirus Infections The Wall Street Journal They Documented the Coronavirus Crisis in Wuhan. Then They Vanished. The New York Times Coronavirus live updates: China tries to get back to work; Beijing sets a 14-day quaranti\u2026",
+            "url": "https://www.wsj.com/articles/1-716-chinese-health-workers-infected-by-coronavirus-six-health-workers-dead-11581668705",
+            "urlToImage": "https://images.wsj.net/im-154633/social",
+            "publishedAt": "2020-02-14T14:52:00Z",
+            "content": "BEIJINGChinese authorities identified 5,090 new coronavirus cases, a new jump in their daily tally that has stirred concerns over the trajectory of the disease and has raised fresh worries over whether China is offering an accurate appraisal of the epidemics \u2026 [+260 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Akane Otani",
+            "title": "Markets Hover Near Records Despite Growing Coronavirus Outbreak - The Wall Street Journal",
+            "description": "Markets Hover Near Records Despite Growing Coronavirus Outbreak The Wall Street Journal China's coronavirus numbers highlight the challenges of an evolving epidemic CNN Global shares rise despite worries over coronavirus outbreak Fox Business Coronavirus outb\u2026",
+            "url": "https://www.wsj.com/articles/markets-hover-near-records-despite-growing-coronavirus-outbreak-11581681603",
+            "urlToImage": "https://images.wsj.net/im-154269/social",
+            "publishedAt": "2020-02-14T12:00:00Z",
+            "content": "The coronavirus outbreak has closed factories, curbed spending and disrupted supply chains in the worlds second-largest economy. But U.S. stocks have held close to records.\r\nThe markets resilience has surprised many money managers, especially given how quickl\u2026 [+131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Chun Han Wong",
+            "title": "Fighting Outbreak, China Urged Open Borders. Even Allies Are Resisting. - The Wall Street Journal",
+            "description": "Fighting Outbreak, China Urged Open Borders. Even Allies Are Resisting. The Wall Street Journal Exclusive: Senior China diplomat concedes challenge of coronavirus, slams 'overreaction' Reuters China Says Appreciates India's Offer To Help Deal With Coronavirus\u2026",
+            "url": "https://www.wsj.com/articles/fighting-outbreak-china-urged-open-borders-even-allies-are-resisting-11581681602",
+            "urlToImage": "https://images.wsj.net/im-153987/social",
+            "publishedAt": "2020-02-14T12:00:00Z",
+            "content": "Chinas coronavirus outbreak has sparked fears of a global pandemicand sent Beijings diplomats into overdrive in a bid to keep other countries from adopting measures that imply shortcomings in Chinese efforts to contain the crisis.\r\nWhile Chinese President Xi \u2026 [+266 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jeffrey Sparshott",
+            "title": "Newsletter: Tame Inflation, Surging Coronavirus, German Stagnation",
+            "description": "Your daily economics newsletter from The Wall Street Journal.",
+            "url": "https://blogs.wsj.com/economics/2020/02/14/newsletter-tame-inflation-surging-coronavirus-german-stagnation/",
+            "urlToImage": "https://images.wsj.net/im-154242",
+            "publishedAt": "2020-02-14T11:41:22Z",
+            "content": "Feb 14, 2020 6:41 am ET\r\n This is the web version of the WSJs newsletter on the economy. You can sign up for daily delivery here. The Price Is Right U.S. inflation remains subdued. A key gauge of consumer priceswhich excludes volatile food and energy componen\u2026 [+93 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jo Craven McGinty",
+            "title": "How Many People Might One Person With Coronavirus Infect? - The Wall Street Journal",
+            "description": "How Many People Might One Person With Coronavirus Infect? The Wall Street Journal How Patients Die After Contracting COVID-19, The New Coronavirus Disease : Goats and Soda NPR Coronavirus: The life-and-death consequences of naming the disease Vox.com Nigeria \u2026",
+            "url": "https://www.wsj.com/articles/how-many-people-might-one-person-with-coronavirus-infect-11581676200",
+            "urlToImage": "https://images.wsj.net/im-153762/social",
+            "publishedAt": "2020-02-14T10:30:00Z",
+            "content": "When an infection erupts the way coronavirus has exploded in Wuhan, China, and elsewhere in the world, public-health experts try to gauge the potential for an epidemicor, worse, a pandemicby calculating the pathogens basic reproduction number.\r\nThe figure, ge\u2026 [+269 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sam Goldfarb",
+            "title": "Treasurys Sold at Record Low Yield...",
+            "description": "Fear that the coronavirus will slow global growth has helped push down Treasury yields in recent weeks",
+            "url": "https://www.wsj.com/articles/treasury-to-sell-30-year-bonds-at-record-low-yield-11581614475",
+            "urlToImage": "https://images.wsj.net/im-154249/social",
+            "publishedAt": "2020-02-14T02:31:37Z",
+            "content": "The U.S. Treasury Department sold 30-year bonds at a record low yield on Thursday, highlighting investors demand for longer-term debt and its benefits to the government.\r\nThe Treasury sold $19 billion of 30-year bonds on Thursday afternoon at a 2.061% yield. \u2026 [+108 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sam Goldfarb",
+            "title": "Treasurys Sold at Record Low Yield...",
+            "description": "Fear that the coronavirus will slow global growth has helped push down Treasury yields in recent weeks",
+            "url": "https://www.wsj.com/articles/treasury-to-sell-30-year-bonds-at-record-low-yield-11581614475",
+            "urlToImage": "https://images.wsj.net/im-154249/social",
+            "publishedAt": "2020-02-14T02:22:37Z",
+            "content": "The U.S. Treasury Department sold 30-year bonds at a record low yield on Thursday, highlighting investors demand for longer-term debt and its benefits to the government.\r\nThe Treasury sold $19 billion of 30-year bonds on Thursday afternoon at a 2.061% yield. \u2026 [+108 chars]"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Dan Diamond",
+            "title": "White House to ask Congress for emergency coronavirus funding",
+            "description": "However, the amount could be significantly lower than some public health officials have argued is necessary.",
+            "url": "https://www.politico.com/news/2020/02/22/emergency-coronavirus-funding-116761",
+            "urlToImage": "https://static.politico.com/b0/32/059a607848f2922f4ea3e3501bb7/190515-white-house-gty-773.jpg",
+            "publishedAt": "2020-02-23T04:19:30Z",
+            "content": "The outbreak, which began about three months ago and has spread to 28 countries, has sickened more than 75,000 people in China and killed more than 2,200 there. While there are about three dozen confirmed cases of coronavirus in the United States, almost two-\u2026 [+1493 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "William Zheng | South China Morning Post",
+            "title": "Coronavirus is China\u2019s fastest-spreading health crisis, Xi Jinping says",
+            "description": "China\u2019s president said the epidemic was one of a historic magnitude.",
+            "url": "https://www.politico.com/news/2020/02/23/coronavirus-china-health-crisis-116957",
+            "urlToImage": "https://static.politico.com/db/49/0074da234c0497aa7c356adfc0d9/20200223-coronavirus-china-ap-773.jpg",
+            "publishedAt": "2020-02-23T19:56:07Z",
+            "content": "He said the epidemic was the fastest spreading, with the most infected and was the most difficult to prevent and control since the founding of the Peoples Republic.\r\nThis is a crisis for us and it is also a major test, he said, acknowledging that the country \u2026 [+4345 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "POLITICO Playbook: It\u2019s Sanders\u2019 party",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/23/its-sanders-party-488389",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-23T16:15:36Z",
+            "content": "At this point, based on what we know, Bernie Sanders is the clear, perhaps unstoppable, favorite to be the Democratic nominee. | Eric Gay/AP Photo\r\nDRIVING THE DAY\r\nNYT: In show of might, Sanders wins NevadaWAPO: Sanders dominates in Nevada LAS VEGAS SUN: FIR\u2026 [+19375 chars]"
+        }
+    ]
+}

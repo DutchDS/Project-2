@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By David Beavers",
+            "title": "Chinese diplomat pushes back against coronavirus 'rumors' from GOP senator",
+            "description": "Ambassador Cui Tiankai slammed comments from Arkansas Sen. Tom Cotton.",
+            "url": "https://www.politico.com/news/2020/02/09/chinese-diplomat-coronavirus-gop-senator-112820",
+            "urlToImage": "https://static.politico.com/af/99/7c7753a2456d9e4dfc773ae765ed/20200209-tiankai-ap-773.jpg",
+            "publishedAt": "2020-02-09T18:43:52Z",
+            "content": "It's very harmful, its very dangerous to stir up suspicion, rumors and spread them among the people, he said Sunday. For one thing, this will create panic. Another thing is that it will fan up racial discrimination, xenophobia, all these things that will real\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "Biden unleashed",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/playbook/2020/02/09/biden-unleashed-488277",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-02-09T16:11:37Z",
+            "content": "Presented by Amazon\r\nFormer Vice President Joe Bidenwent on the offensive, but the question remains: Will it make a difference in New Hampshire and beyond, or is it too little too late? | Pablo Martinez Monsivais/AP Photo\r\nDRIVING THE DAY\r\nBIDEN UNLEASHED -- \u2026 [+21078 chars]"
+        }
+    ]
+}

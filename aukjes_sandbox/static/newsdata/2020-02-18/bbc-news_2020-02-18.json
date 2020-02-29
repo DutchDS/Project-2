@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus triggers boom in private jet inquiries",
+            "description": "Private jet firms have seen a huge rise in people hoping to hire planes but they can't meet demand.",
+            "url": "https://www.bbc.co.uk/news/business-51527042",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1034E/production/_110928366_gettyimages-114219298.jpg",
+            "publishedAt": "2020-02-18T02:11:36Z",
+            "content": "Image copyrightGetty Images\r\nPrivate jet operators have seen a big spike in requests from passengers wanting to charter their own planes during the coronavirus outbreak.\r\nWith airlines scaling back flights in and out of China, some travellers are stuck inside\u2026 [+2528 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "The noted victims of the coronavirus",
+            "description": "A bodybuilder, a watercolour artist and a film director are amongst those who have died in Wuhan.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51541801",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/903C/production/_110942963_gettyimages-1201428156.jpg",
+            "publishedAt": "2020-02-18T11:37:11Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Almost 2,000 people have now died from the coronavirus outbreak\r\nA bodybuilder. An artist. A scientist. Senior doctors. \r\nAcross China, more than 1,800 people who lost their lives to Covid-19 are being mourned - the \u2026 [+6115 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Largest study suggests elderly and sick are most at risk",
+            "description": "The research finds that more than 80% of cases are mild and the sick and elderly are most at risk.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51540981",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E14/production/_110940630_22f8968a-e06a-42f5-8f4f-56eeda6a4671.jpg",
+            "publishedAt": "2020-02-18T04:02:58Z",
+            "content": "Image copyrightAFPImage caption\r\n The highest fatality rate - 14.8% - is for people aged 80 and older\r\nHealth officials in China have published the first details of more than 70,000 cases of Covid-19, in the biggest study since the outbreak began.\r\nResearch f\u2026 [+3507 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "North Carolina Facebook page labelled fake news",
+            "description": "The North Carolina Breaking News page accumulated more than 50,000 followers in less than a month.",
+            "url": "https://www.bbc.co.uk/news/technology-51545600",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CDAE/production/_110945625_northcarolina.gif",
+            "publishedAt": "2020-02-18T17:30:05Z",
+            "content": "Image copyrightFacebookImage caption\r\n The North Carolina Breaking News page looked innocent but is a textbook example of disinformation, according to one expert\r\nA Facebook page that seemed to be sharing local news in North Carolina is a textbook example of \u2026 [+2444 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: What could it mean for the 2020 Olympics in Tokyo",
+            "description": "BBC Sport assesses what steps are being taken to guard against coronavirus affecting the 2020 Olympic Games in Tokyo.",
+            "url": "https://www.bbc.co.uk/sport/olympics/51543742",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/184A6/production/_110949499_coronavirus.jpg",
+            "publishedAt": "2020-02-18T15:36:22Z",
+            "content": "The Tokyo 2020 Olympics run from 24 July to 9 August\r\nWith the 2020 Olympic Games in Tokyo just over five months away, and coronavirus continuing to cause havoc for the sporting calendar, attention has turned to how the Olympics might be impacted.\r\nBBC Sport'\u2026 [+6102 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus forces JLR to ship parts in suitcases",
+            "description": "The UK's largest carmaker has said it could run out of some parts in two weeks over supply chain issues.",
+            "url": "https://www.bbc.co.uk/news/business-51548976",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/737C/production/_110946592_gettyimages-116663285.jpg",
+            "publishedAt": "2020-02-18T17:55:15Z",
+            "content": "Image copyrightGetty Images\r\nJaguar Land Rover has flown in parts in suitcases as the effects of coronavirus take a toll on the carmaker's supply chain.\r\nIt said it could start to run out of Chinese parts for its UK factories after two weeks.\r\nThe virus has k\u2026 [+1295 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus cruise quarantine passengers 'in the dark'",
+            "description": "The son of Sally and David Abel, who have been held in quarantine on a ship off Japan, criticises the government response.",
+            "url": "https://www.bbc.co.uk/news/av/uk-51545371/coronavirus-cruise-quarantine-passengers-in-the-dark",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15D46/production/_110941498_p083s4lj.jpg",
+            "publishedAt": "2020-02-18T11:38:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus forces Sport Relief celebrities to switch from ice to desert",
+            "description": "A celebrity charity challenge is relocated from freezing Mongolia to the Namibian desert.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-51546393",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C0F2/production/_110949394_sport_relief_comp_getty.jpg",
+            "publishedAt": "2020-02-18T16:19:31Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Frankie Bridge, Nick Grimshaw and Samantha Womack are some of the celebrities taking part\r\nA Sport Relief celebrity challenge has been moved from Mongolia to Namibia because of concerns about coronavirus in neighbour\u2026 [+2198 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Two Irish people on cruise ship treated in Japan",
+            "description": "Ireland's foreign minister Simon Coveney says the two Irish citizens are being treated in Japan.",
+            "url": "https://www.bbc.co.uk/news/world-europe-51546491",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A8/production/_110944550_01polls.jpg",
+            "publishedAt": "2020-02-18T16:44:43Z",
+            "content": "Image copyrightEPAImage caption\r\n The Diamond Princess has been in quarantine since the start of this month\r\nTwo Irish citizens on board the Diamond Princess cruise ship have tested positive for coronavirus, the Department of Foreign Affairs has said.\r\nIt sai\u2026 [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: Storm Dennis, coronavirus latest and Brexit positioning",
+            "description": "Your morning briefing for Tuesday 18 February 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51538921",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/59E6/production/_110941032_hi060001884.jpg",
+            "publishedAt": "2020-02-18T06:13:28Z",
+            "content": "If you want to get this briefing by email, sign up here\r\nFlood evacuations\r\nImage copyrightPA Media\r\nStorm Dennis is still causing problems, with dozens of people forced to leave their homes overnight due to fears of further flooding. More than 400 homes and \u2026 [+5711 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Foreign Office working to rescue Britons stranded on cruise ship",
+            "description": "The Foreign Office is \"working to organise a flight\" to bring back 74 Britons from the Diamond Princess.",
+            "url": "https://www.bbc.co.uk/news/uk-51541352",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ACD2/production/_110924244_2e9f851f-855a-49cd-a930-3b5a781d28e2.jpg",
+            "publishedAt": "2020-02-18T04:15:31Z",
+            "content": "Image copyrightEPAImage caption\r\n About 3,700 people are quarantined on board the Diamond Princess\r\nThe government is working to rescue British nationals from a cruise ship in Japan that has been quarantined due to coronavirus fears.\r\nThere are 74 British pas\u2026 [+2237 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Asian economies hit by coronavirus",
+            "description": "As the coronavirus continues to spread, we'll find out what impact it's having on economies around Asia and further afield. Also in the programme: the senior civil servant in Denmark who quietly stole $17 million from the welfare agency where she worked for d\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq569zcyj6y",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p083sc4r.jpg",
+            "publishedAt": "2020-02-18T15:15:00Z",
+            "content": "As the coronavirus continues to spread, we'll find out what impact it's having on economies around Asia and further afield. \r\nAlso in the programme: the senior civil servant in Denmark who quietly stole $17 million from the welfare agency where she worked for\u2026 [+230 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Fresh Chinese data on Covid-19 fatality rates",
+            "description": "Health officials in China say Coronavirus shows a fatality rate of two point three per cent; Europe's biggest bank, HSBC, says it will axe 35.000 jobs, after pre- tax profits fell by a third last year; We hear what it's like to get caught up in a swarm of loc\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p083sttk",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-18T14:51:00Z",
+            "content": "Health officials in China say Coronavirus shows a fatality rate of two point three per cent; Europe's biggest bank, HSBC, says it will axe 35.000 jobs, after pre- tax profits fell by a third last year; We hear what it's like to get caught up in a swarm of loc\u2026 [+57 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Air strikes hit hospitals and camps in northwest Syria - U.N.",
+            "description": "Government air strikes have hit hospitals and camps for displaced people in northwest Syria and killed about 300 civilians as President Bashar al-Assad\u2019s forces press an assault against the last rebel stronghold, the United Nations said on Tuesday. Also in th\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq569zczcfv",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p083tqx1.jpg",
+            "publishedAt": "2020-02-18T23:14:00Z",
+            "content": "Government air strikes have hit hospitals and camps for displaced people in northwest Syria and killed about 300 civilians as President Bashar al-Assads forces press an assault against the last rebel stronghold, the United Nations said on Tuesday.\r\nAlso in th\u2026 [+445 chars]"
+        }
+    ]
+}

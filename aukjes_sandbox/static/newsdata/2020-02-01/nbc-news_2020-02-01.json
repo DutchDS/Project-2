@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "8th coronavirus case confirmed in U.S. in Massachusetts",
+            "description": "A student in his 20s who visited Wuhan, China is the first confirmed case of coronavirus in Massachusetts and the eighth in the United States so far. The Department of Defense has approved quarantine centers for Americans stuck in Wuhan, and the government wi\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/8th-coronavirus-case-confirmed-in-u-s-in-massachusetts-77965893934",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_sha_coronavirus_new_restrictions_200201_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-01T23:34:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke",
+            "title": "Coronavirus case in Boston is 1st in Massachusetts; 8th in the U.S.",
+            "description": "Health officials in Massachusetts confirmed the first case of coronavirus in the state after a man returning from Wuhan, China, tested positive for the deadly infection.",
+            "url": "https://www.nbcnews.com/news/us-news/coronavirus-case-boston-1st-massachusetts-8th-u-s-n1123096",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_05/3212366/200201-coronavirus-al-1313_52fd95d71764b0d122a18efde988cf8a.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-01T18:39:21Z",
+            "content": "Health officials in Massachusetts confirmed the first case of coronavirus in the state after a man returning from Wuhan, China, tested positive for the virus.\r\nThe man is in his 20s and lives in Boston, the state's Department of Health said in a press release\u2026 [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Yuliya Talmazan, Kate Brannelly, Reuters, Associated Press",
+            "title": "China criticizes U.S. border closure as coronavirus death toll rises",
+            "description": "The U.S.'s decision ban foreign nationals who have traveled to the country in the last 14 days because of the coronavirus, has been criticized by China.",
+            "url": "https://www.nbcnews.com/news/world/china-criticizes-u-s-border-closure-coronavirus-death-toll-rises-n1128161",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_05/3212151/2020-02-01t081146z_1292256447_rc2kre9jlz5r_rtrmadp_3_china-health_a95c2b3dc5b15a8d3ff0b20c66d6fb69.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-01T14:01:44Z",
+            "content": "A U.S. ban on foreign nationals traveling into the country if they have visited China in the last two weeks is \"neither based on facts, nor helpful,\" Chinese officials said Saturday.\r\nThe White House announced Friday they would temporarily suspend the entry i\u2026 [+3265 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: The latest news on the outbreak and the global response",
+            "description": "Coronavirus updates: The latest news on the outbreak and the global response",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-latest-news-outbreak-global-response-n1128156",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_05/3211406/200131-coronavirus-china-se-455p_1fcbb1efccc010bbda27cc1ab1900a86.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-01T10:38:22Z",
+            "content": "The U.S. declares public health emergency\r\n 7th case confirmed in the U.S. \r\n Confirmed cases in China grow to 11,791 with 259 deaths\r\n Qantas becomes the latest airline to suspend flights to mainland China\r\nQantas to suspend flights to mainland China amid ou\u2026 [+5469 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Isobel van Hagen",
+            "title": "Fashion magazines, influencers weigh in on coronavirus outbreak",
+            "description": "How to remain safe and stylish in the midst of the rapidly widening coronavirus epidemic? Fashion magazines and influencers say they have you covered.",
+            "url": "https://www.nbcnews.com/news/world/fashion-magazines-influencers-weigh-coronavirus-outbreak-n1127236",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_05/3210266/200131-fashion-virus-mc-921_6e70a36475f3acc47f7aa7a81dac99c4.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-01T09:34:19Z",
+            "content": "LONDON How to remain safe and stylish in the midst of the rapidly widening coronavirus epidemic? Fashion magazines and influencers say they have you covered.\r\nBritain's Tatler a Cond\u00e9 Nast publication posted a story with the startling headline: How to style a\u2026 [+5096 chars]"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Tokyo Disneyland closes down over coronavirus",
+            "description": "Universal Studios Japan and Legoland Japan also shut their gates.",
+            "url": "https://fortune.com/2020/02/28/tokyo-disneyland-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203849551-1.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T17:37:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "First coronavirus-related drug shortage hits U.S.",
+            "description": "The manufacturing shortage likely won\u2019t be the last.",
+            "url": "https://fortune.com/2020/02/28/coronavirus-drug-shortage-covid-19-fda-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-496532228.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T17:05:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "A dog in Hong Kong has tested \u2018weak positive\u2019 for coronavirus",
+            "description": "If confirmed, the dog would be the first case of a pet catching the coronavirus amid a global outbreak.",
+            "url": "https://fortune.com/2020/02/27/coronavirus-dog-hong-kong/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201780935.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T03:07:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jenna Schnuer",
+            "title": "Google cancels major Las Vegas conference over coronavirus concerns",
+            "description": "The sales and marketing conference would have brought 1000s of company employees together in Las Vegas.",
+            "url": "https://fortune.com/2020/02/28/google-cancels-las-vegas-conference-coronavirus-concerns/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200825328-e1582930752460.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T23:01:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "kdunn6",
+            "title": "Switzerland cancels events and Germany puts town under quarantine as coronavirus spreads across Europe",
+            "description": "Switzerland canceled large events as Europe steps up measures to contain the spread of the coronavirus. Public and private gatherings with more than 1,000 people won\u2019t be allowed until March 15, the Swiss government said on Friday. The next big event in the c\u2026",
+            "url": "https://fortune.com/2020/02/28/coronavirus-spreads-europe-switzerland-germany/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T10:34:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Singapore\u2019s coronavirus response has contained the outbreak\u2014but its strategy is hard to replicate",
+            "description": "The Asian city-state is emerging as a litmus test of whether the deadly pathogen can be, if not contained, then neutralized.",
+            "url": "https://fortune.com/2020/02/28/singapore-coronavirus-contained-response/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203633024.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T08:02:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "As coronavirus goes global, China defends its \u2018strong\u2019 leadership and challenges the West to match its resolve",
+            "description": "The outbreak script has suddenly flipped, and some in China appear vindicated by the moment.",
+            "url": "https://fortune.com/2020/02/28/china-coronavirus-response-global/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198876097.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T11:38:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jenna Schnuer",
+            "title": "Apple\u2019s Tim Cook says coronavirus-driven supply chain changes are temporary",
+            "description": "But Cook added that he's also tracking the coronavirus situation in Korea and Italy since Apple has suppliers and businesses in those countries too.",
+            "url": "https://fortune.com/2020/02/28/apple-coronavirus-iphone-supply-chain/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202430221-e1582923134130.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T20:54:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lucinda Shen",
+            "title": "Amidst coronavirus panic, the stock of this hazmat suit-maker is up 88%",
+            "description": "Investors are taking a renewed interest in companies that specialize in keeping people protected\u2014from other people.",
+            "url": "https://fortune.com/2020/02/27/coronavirus-panic-stock-lakeland-industries/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Lakeland-Industries-Protective-Suit-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Anne Sraders",
+            "title": "Coronavirus crackdown: How companies like Ernst & Young are going to extremes to avoid infections",
+            "description": "Ernst & Young is requiring employees to request to attend \"client-critical\" meetings of over 100 attendees, according to an email viewed by Fortune.",
+            "url": "https://fortune.com/2020/02/28/coronavirus-crackdown-companies-meetings-travel-bans/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1044488904.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T15:52:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "How to think about COVID-19",
+            "description": "A reflection on scapegoating and discrimination in the time of coronavirus.",
+            "url": "https://fortune.com/2020/02/28/how-to-think-about-covid-19-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-scapegoating.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T19:20:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Defne Gencler",
+            "title": "U.S. stocks tumble 11% in worst week since 2008 crisis",
+            "description": "The spread of the coronavirus rattled global financial markets, wiping out almost $3 trillion in value from American equities.",
+            "url": "https://fortune.com/2020/02/28/us-stock-market-down-2008-crisis-recession-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/NYSE-february-2020.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T21:45:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "We haven\u2019t reached the bottom yet",
+            "description": "With coronavirus pandemic fears continuing to hammer markets around the world, this is set to be the worst week since 2008.",
+            "url": "https://fortune.com/2020/02/28/coronavirus-markets-no-bottom-yet-ceo-daily/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203890554.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T11:27:32Z",
+            "content": null
+        }
+    ]
+}

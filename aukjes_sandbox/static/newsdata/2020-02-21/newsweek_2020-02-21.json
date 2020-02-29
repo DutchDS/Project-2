@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "Angry Mob in Ukraine Throws Stones at Buses Carrying Evacuees from Coronavirus Epicenter",
+            "description": "Buses under police escort took more than 70 people evacuated from China to a hospital in the central Poltava region. Authorities said none of them are sick.",
+            "url": "https://www.newsweek.com/ukraine-coronavirus-zelenskiy-zoryana-skaletska-1488405",
+            "urlToImage": "https://d.newsweek.com/en/full/1568575/buses-novi-sanzhary-ukraine.jpg",
+            "publishedAt": "2020-02-21T12:03:37Z",
+            "content": "Protesters in Ukraine attacked a convoy of buses carrying dozens of people evacuated from the Chinese city of Wuhan, amid fears over the spread of coronavirus.\r\nUnder police escort, the vehicles transported more than 70 people who had flown from China to a me\u2026 [+2309 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "China Changed How It Defines 'Confirmed' Coronavirus Cases\u2014Here's Why That's a Problem",
+            "description": "If they don't stick to one definition of what constitutes a case, officials may not be able to accurately assess the situation.",
+            "url": "https://www.newsweek.com/china-coronavirus-definition-change-problems-assessing-situation-1488474",
+            "urlToImage": "https://d.newsweek.com/en/full/1568658/china-coronavirus-case-definition-change.jpg",
+            "publishedAt": "2020-02-21T16:17:41Z",
+            "content": "By changing the definition of what constitutes a confirmed case of the new coronavirus, China is making it difficult to understand the situation and evaluate response measures, according to a former U.S. Centers for Disease Control and Control (CDC) \"disease \u2026 [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Update: Over 500 Chinese Prisoners Infected, While South Korean 'cult' Deals with Super-spreading Event",
+            "description": "The deadly virus has spread to over 25 countries and territories, including the U.S.",
+            "url": "https://www.newsweek.com/coronavirus-china-prison-south-korea-cult-1488383",
+            "urlToImage": "https://d.newsweek.com/en/full/1568547/coronavirus-cases-countries-china-seoul-south-korea.jpg",
+            "publishedAt": "2020-02-21T10:22:13Z",
+            "content": "Hundreds of prisoners in China are among the almost 76,000 people who have been infected by the new coronavirusCOVID-19, according officials. \r\nAccording to the latest report from the World Health Organization (WHO) published on Thursday, the virus has killed\u2026 [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Recovered Coronavirus Patients Who Have Traces of COVID-19 in Their Bodies Could Infect Others, Doctor Warns",
+            "description": "Over 2,000 people have been killed by the virus officially named COVID-19.",
+            "url": "https://www.newsweek.com/coronavirus-recovered-patients-traces-virus-1488410",
+            "urlToImage": "https://d.newsweek.com/en/full/1568577/coronavirus-covid19-2019ncov-china-henan-hengyang.jpg",
+            "publishedAt": "2020-02-21T12:43:37Z",
+            "content": "Traces of COVID-19the new coronavirus that has been diagnosed in tens of thousands of peoplehave been detected in recovered patients, leading a Chinese expert to raise concerns they could still be contagious even after their symptoms have passed.\r\nZhaoJianpin\u2026 [+4032 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "YouTube Bans Anti-Semitic Channel TruNews After Founder Calls Trump Impeachment 'Jew Coup'",
+            "description": "YouTube permanently banned anti-Semitic conspiracy news outlet TruNews Thursday, months after the organization deemed the impeachment of President Donald Trump a \"Jew coup.\"",
+            "url": "https://www.newsweek.com/youtube-bans-anti-semitic-channel-trunews-after-founder-calls-trump-impeachment-jew-coup-1488375",
+            "urlToImage": "https://d.newsweek.com/en/full/1568527/youtube-google.jpg",
+            "publishedAt": "2020-02-21T04:23:47Z",
+            "content": "Anti-Semitic conspiracy news outlet TruNews was permanently banned from YouTube Thursday, after repeatedly violating the website's rules regarding hate speech.\r\nTruNews was founded by right-wing pastor Rick Wiles, who also leads the Flowing Springs Church in \u2026 [+2820 chars]"
+        }
+    ]
+}
