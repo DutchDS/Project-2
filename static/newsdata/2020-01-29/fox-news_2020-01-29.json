@@ -1,0 +1,370 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Coronavirus: Delta Airlines reduces flights between U.S. and China amid outbreak",
+            "description": "Delta Airlines announced that it is reducing the number of flights between the U.S. and China.",
+            "url": "https://www.foxnews.com/travel/delta-coronavirus-reduced-flights-us-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Delta-airlines.jpg",
+            "publishedAt": "2020-01-29T23:32:42Z",
+            "content": "Delta Airlines announced that it is\u00a0reducing the number of flights between the U.S. and China.\r\nThe company stated that the reduction\u00a0was due to reduced customer demand amid the current coronavirus outbreak. Unlike other airlines, however, they are not cancel\u2026 [+1941 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christopher Carbone",
+            "title": "Coronavirus forces Apple, Google and other tech giants to take precautionary measures",
+            "description": "Silicon Valley is bracing for the coronavirus outbreak to impact its bottom line as Google closed its offices in China and Apple said its production will be affected.",
+            "url": "https://www.foxnews.com/tech/coronavirus-apple-google-tech-precautionary-measures",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Coronavirus012620.jpg",
+            "publishedAt": "2020-01-29T23:21:40Z",
+            "content": "Silicon Valley is bracing for the coronavirus outbreak to impact its bottom line as Google closed its offices in China and Apple said its production will be affected.\r\nGoogle, which has 10 offices spread between mainland China and Taiwan, confirmed on Wednesd\u2026 [+1733 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Gutfeld",
+            "title": "Gutfeld on Trump\u2019s achievements vs. impeachment",
+            "description": "It\u2019s safe to say much of the disconnect between Trump's results and the \"polls\" is largely media-driven.",
+            "url": "https://www.foxnews.com/opinion/gutfeld-on-trumps-achievements-vs-impeachment",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe8aace9-5dfe-4f6f-baa4-292b92b92f21/21720d64-59ac-45a5-8477-97891cd4d4a7/1280x720/match/image.jpg",
+            "publishedAt": "2020-01-29T23:10:40Z",
+            "content": "As President Trump signs yet another trade deal and reveals a Middle East peace plan amid an economic boom, it raises a key question.\r\nHow can a president do so many effective things, yet still face such hateful opposition?\r\nIf you ask people to grade his wor\u2026 [+1679 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Sick passenger at Boston's Logan airport taken from flight from Beijing, officials say",
+            "description": "A sick passenger was met by fire and emergency medical crews when a flight landed Wednesday at Logan International Airport in Boston, officials said.",
+            "url": "https://www.foxnews.com/travel/sick-passenger-beijing-boston-logan-airport",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Boston-Logan-airport.jpg",
+            "publishedAt": "2020-01-29T22:49:30Z",
+            "content": "A sick passenger was met by fire and emergency medical crews when a flight landed Wednesday at Logan International Airport in Boston, officials said.\r\nIt has not been confirmed what symptoms the passenger was displaying or if the incident is related to the co\u2026 [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "As coronavirus spreads, Beijing suburbs close themselves off",
+            "description": "Wary residents on the outskirts of Beijing have taken their own measures to prevent the spread of the coronavirus from outsiders by effectively closing off their towns from the rest of the world.",
+            "url": "https://www.foxnews.com/health/coronavirus-beijing-suburbs-close",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20029373814227.jpg",
+            "publishedAt": "2020-01-29T22:49:05Z",
+            "content": "Wary residents on the outskirts of Beijing have taken their own measures to prevent the spread of the coronavirus from outsiders by effectively closing off their towns\u00a0from the rest of the world.\r\nVillagers wearing masks and armbands stand guard and roads are\u2026 [+2917 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "James Rogers",
+            "title": "Coronavirus sparks Google search spike in 'Corona beer virus' and 'beer virus'",
+            "description": "Google search data suggests that some people are getting confused by the deadly coronavirus.",
+            "url": "https://www.foxnews.com/tech/coronavirus-sparks-google-search-spike-in-corona-beer-virus-and-beer-virus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/CoronaBeerGetty2019.jpg",
+            "publishedAt": "2020-01-29T20:50:03Z",
+            "content": "Google search data suggests that some people are getting confused by the deadly coronavirus.\r\nSearches for \u201cbeer virus\u201d and \u201cCorona beer virus\u201d have both spiked in the U.S. over the past month, according to Google Trends data. New Mexico led the searches for \u2026 [+1317 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus case at ASU prompts petition for university to cancel classes",
+            "description": "Students at Arizona State University are demanding the cancellation of classes after the nation\u2019s fifth and most recent case of the novel coronavirus was confirmed in Arizona.",
+            "url": "https://www.foxnews.com/health/coronavirus-case-asu-petition-cancel-classes",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da50cf43-5b6e-482d-b47d-9f40ca79ea60/1eb7e810-0879-4a2f-934e-ff086b1e7cce/1280x720/match/image.jpg",
+            "publishedAt": "2020-01-29T19:51:20Z",
+            "content": "Students at Arizona State University are demanding the cancellation of classes after the nation\u2019s fifth and most recent case of the novel coronavirus was confirmed in Arizona.\r\nThe patient involved in the fifth case is a part of the ASU community, according t\u2026 [+2567 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brian Flood",
+            "title": "News Corp launches Knewz, a 'generous aggregation' news platform",
+            "description": "Knewz, an innovative news platform from News Corp that launched on Wednesday, aims to transform the way content is consumed by allowing readers to find information from multiple publishers that in turn are properly credited for their reporting.",
+            "url": "https://www.foxnews.com/media/news-corp-knewz-aggregation-platform",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/knewz.jpg",
+            "publishedAt": "2020-01-29T19:40:30Z",
+            "content": "Knewz, an innovative news platform from News Corp that launched on Wednesday, aims to transform the way content is consumed by allowing readers to find information from multiple publishers that in turn are properly credited for their reporting.\r\nWhile Knewz i\u2026 [+2762 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Perry Chiaramonte, Angela Bertorelli",
+            "title": "Coronavirus vaccine to be developed from digital DNA sequencing",
+            "description": "A Philadelphia-based pharmaceutical company is helping to fast-track a vaccine to help quell the deadly coronavirus outbreak.",
+            "url": "https://www.foxnews.com/health/coronavirus-vaccine-be-developed-digital-dna-sequencing",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20027784795555.jpg",
+            "publishedAt": "2020-01-29T19:39:16Z",
+            "content": "A Philadelphia-based pharmaceutical company is helping to fast-track a vaccine to help quell the deadly coronavirus outbreak.\r\nBacked by a fresh $9 million grant from the Coalition for Epidemic Preparedness Innovations (CEPI), which receives money from public\u2026 [+3491 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Footage shows cruise ship colliding with pier in Norway",
+            "description": "This probably wasn\u2019t great weather for a cruise.",
+            "url": "https://www.foxnews.com/travel/footage-shows-cruise-ship-colliding-with-pier-in-norway",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Nordnorge-cruise.jpg",
+            "publishedAt": "2020-01-29T19:26:13Z",
+            "content": "This probably wasn\u2019t great weather for a cruise.\r\nStrong winds recently battered a cruise ship in Norway, sending the ship on a collision course with a pier. A bystander was able to film the accident, which shows the boat struggling in the chaotic weather.\r\nW\u2026 [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus outbreak: What to do if you think you've contracted the novel virus - Fox News",
+            "description": "Coronavirus outbreak: What to do if you think you've contracted the novel virus Fox News UPDATE: No local confirmed cases of coronavirus at this time KTNV Las Vegas Northeast Ohio colleges warn students, faculty to look for Coronavirus symptoms WJW FOX 8 News\u2026",
+            "url": "https://www.foxnews.com/health/coronavirus-outbreak-what-to-do-sick",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e517b27d-3fec-4372-85b0-c6a18519dfd7/b76bdbb2-4847-4956-86a4-6b89f65dfb70/1280x720/match/image.jpg",
+            "publishedAt": "2020-01-29T19:03:49Z",
+            "content": "An outbreak of the\u00a0novel coronavirus, a deadly pneumonia-like illness that\u2019s killed some 132 people and sickened nearly 6,000 people across the world, has sparked fears that Americans may be at risk \u2014 especially after\u00a0five cases of the disease have been confi\u2026 [+2990 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus cases in US should not cause mass panic, experts warn: 'You are more at risk for the flu'",
+            "description": "As the coronavirus outbreak continues to spread, how concerned should you be?",
+            "url": "https://www.foxnews.com/health/coronavirus-cases-us-should-not-cause-panic-flu-more-likely",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/002dabdb-ec14-48d6-97a5-fd5f74b897c4/461f3b6f-591f-4ba1-a642-5deee60f405e/1280x720/match/image.jpg",
+            "publishedAt": "2020-01-29T18:51:00Z",
+            "content": "A deadly coronavirus\u00a0that's killed at least 132 and sickened nearly 6,000 people worldwide has reached the U.S. with five cases confirmed across the nation. As the outbreak continues to spread, how concerned should you be?\r\nFederal health officials have maint\u2026 [+3930 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandra Deabler",
+            "title": "Coronavirus outbreak: Window seat safest place to avoid potential transmission on flight: study",
+            "description": "The safest place to sit on an airplane while the coronavirus outbreak continues to expand may be the window seat, according to new research.",
+            "url": "https://www.foxnews.com/travel/coronavirus-window-seat-safest-research",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/istock-524908082.jpg",
+            "publishedAt": "2020-01-29T16:18:07Z",
+            "content": "The safest place to sit on an airplane while the coronavirus outbreak continues to expand may be the window seat, according to new research from Emory University.\r\nCRUISE LINES CONTINUE TO CANCEL DEPARTURES FROM CHINA AMID CORONAVIRUS OUTBREAK\r\nAccording to a\u2026 [+2991 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Roger Marshall",
+            "title": "Rep. Roger Marshall: Coronavirus has reached the heartland",
+            "description": "Diseases do not respect borders and our government must work hand in hand with our citizens and do everything we can to keep ourselves safe.",
+            "url": "https://www.foxnews.com/opinion/coronavirus-has-reached-the-heartland-rep-roger-marshall",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e517b27d-3fec-4372-85b0-c6a18519dfd7/b76bdbb2-4847-4956-86a4-6b89f65dfb70/1280x720/match/image.jpg",
+            "publishedAt": "2020-01-29T16:13:52Z",
+            "content": "Five cases of the\u00a02019 Novel Coronavirus(2019-nCoV) have been confirmed in four states here at home. All are linked to recent travel from the endemic area of China. A sixth possible case \u2013 in my home state of Kansas \u2013 heightens serious concerns about the impa\u2026 [+5011 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Flight with Americans evacuated from China over coronavirus lands at military base in California",
+            "description": "Flight with Americans evacuated from China over coronavirus lands at military base in California foxnews.com",
+            "url": "https://www.foxnews.com/health/flight-americans-evacuated-china-coronavirus-lands-california",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/plane_landed_1.jpg",
+            "publishedAt": "2020-01-29T16:13:37Z",
+            "content": "A plane carrying 201 U.S. citizens evacuated from Wuhan, China \u2013 the epicenter of a deadly coronavirus outbreak \u2013 has landed at a military base in California after briefly stopping in Alaska on Tuesday night to refuel.\r\nUS AIRLINES EXTENDING TRAVEL WAIVERS FO\u2026 [+2571 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Lufthansa Group suspends flights to mainland China 'with immediate effect' in response to coronavirus",
+            "description": "Concerns surrounding the ongoing coronavirus have prompted more airlines to suspend its service to China.",
+            "url": "https://www.foxnews.com/travel/lufthansa-group-suspends-its-airlines-flights-to-mainland-china-with-immediate-effect-in-response-to-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/iStock-955663892.jpg",
+            "publishedAt": "2020-01-29T16:08:13Z",
+            "content": "Concerns surrounding the ongoing coronavirus have prompted yet another group of airlines to suspend its service to China.\r\nOn Wednesday, the Lufthansa Group suspended its flights to mainland China \u201cwith immediate effect,\u201d citing the safety of its guests and s\u2026 [+2113 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "American Airlines suspending flights between Los Angeles and mainland China amid coronavirus outbreak",
+            "description": "American Airlines has canceled some of its scheduled flights to China amid concerns over the ongoing coronavirus outbreak.",
+            "url": "https://www.foxnews.com/travel/american-airlines-suspending-flights-lax-china-coronavirus-outbreak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AmericanAirlinesIstock.jpg",
+            "publishedAt": "2020-01-29T15:35:11Z",
+            "content": "American Airlines has canceled some of its scheduled flights to China amid concerns over the ongoing coronavirus outbreak.\r\nOn Wednesday, the airline temporarily suspended flights between Los Angeles International Airport (LAX) and Shanghai Pudong Airport (PV\u2026 [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tucker Carlson",
+            "title": "Tucker Carlson: Impeachment is all that matters in the media and important stories are being ignored. Why?",
+            "description": "There are at least three news stories more compelling and more inherently important than the impeachment farce.",
+            "url": "https://www.foxnews.com/opinion/tucker-carlson-impeachment-media-ignored-stories",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26f9a62d-1347-448b-9ea6-c31c39421f36/64fe690f-dd74-4c67-9118-0834aeaf8e4a/1280x720/match/image.jpg",
+            "publishedAt": "2020-01-29T15:00:04Z",
+            "content": "As of now,\u00a0impeachment has received many times the news coverage of everything else that has happened in the past couple of weeks combined. In America's newsrooms, impeachment is all that matters and that should tell you something. In fact, it ought to make y\u2026 [+6299 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Social media-fueled coronavirus rumor at USC prompts response from school",
+            "description": "The University of Southern California (USC) was forced to respond following an erroneous social media-fueled claim that a student was diagnosed with the novel coronavirus that has now killed some 132 people and sickened nearly 6,000 others across the world.",
+            "url": "https://www.foxnews.com/health/social-media-coronavirus-rumor-usc",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/iStock-910200360.jpg",
+            "publishedAt": "2020-01-29T14:52:07Z",
+            "content": "The University of Southern California (USC) was forced to respond following an erroneous social media-fueled claim that a student was diagnosed with the novel coronavirus that has now killed some 132 people and sickened nearly 6,000 others across the world.\r\n\u2026 [+2035 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Global airlines scaling back service to China amid coronavirus outbreak",
+            "description": "A growing number of airlines across the globe are scaling back \u2014 or completely suspending \u2014 their scheduled flights to China amid concerns over the ongoing coronavirus outbreak.",
+            "url": "https://www.foxnews.com/travel/global-airlines-scaling-back-coronavirus-outbreak",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/28/694940094001_6127246601001_6127250285001-vs.jpg",
+            "publishedAt": "2020-01-29T14:44:41Z",
+            "content": "A growing number of airlines across the globe are scaling back \u2014 or completely suspending \u2014 their scheduled flights to China amid concerns over the ongoing coronavirus outbreak that\u2019s already claimed the lives of more than\u00a0130 people and sickened thousands of\u2026 [+3820 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "China's women's Olympic soccer team quarantined in Australia",
+            "description": "China's national women's soccer team has been quarantined in Australia ahead of an Olympic qualifying tournament as fears spread about the outbreak of a new virus that has killed more than 130 people.",
+            "url": "https://www.foxnews.com/sports/chinas-womens-olympic-soccer-team-quarantined-in-australia",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/photo_1374752685645-1-HD-1.jpg",
+            "publishedAt": "2020-01-29T12:18:30Z",
+            "content": "China's national women's soccer team has been quarantined in Australia ahead of an Olympic qualifying tournament as fears spread about the outbreak of a new virus that has killed more than 130 people.\r\nHealth officials in Queensland state said on Wednesday th\u2026 [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Australian scientists grow copy of coronavirus in lab, called 'significant breakthrough'",
+            "description": "In a development described as a \"significant breakthrough,\" scientists in Australia have become the first outside of China to develop a lab-grown version of the coronavirus.",
+            "url": "https://www.foxnews.com/health/australian-scientists-first-grow-copy-coronavirus-outside-china-called-significant-breakthrough",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20027535020561.jpg",
+            "publishedAt": "2020-01-29T11:25:35Z",
+            "content": "Australian scientists said Tuesday that they successfully developed a lab-grown version of the coronavirus-- the first to create a version\u00a0outside of China--\u00a0which is seen as a \"significant breakthrough.\"\r\nResearchers from the Peter Doherty Institute for Infe\u2026 [+2454 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "GOP develops 'Plan B' on Trump impeachment trial witnesses as several Dems appear to support acquittal: source",
+            "description": "",
+            "url": "https://www.foxnews.com/us/gop-plan-b-trump-impeachment-trial-witnesses",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/McConnell012920.jpg",
+            "publishedAt": "2020-01-29T09:44:54Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your day ...\r\nGOP develops aggressive 'Plan B' on\u00a0witnesses in impeachment trial, as several Dems appear to support acquittal: sourceWith several Democrats openly floating t\u2026 [+5725 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "British Airways suspends all flights to China amid coronavirus fears",
+            "description": "British Airways has currently ceased all of its direct flights to and from mainland China amid the coronavirus outbreak -- with the decision coming after the United Kingdom advised against \"all but essential\" travel to the rest of the country on Tuesday.",
+            "url": "https://www.foxnews.com/travel/british-airways-suspends-all-flights-to-china-amid-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/BritishAirwaysIstock2.jpg",
+            "publishedAt": "2020-01-29T08:33:55Z",
+            "content": "British Airways\u00a0ceased all of its\u00a0direct flights to and from mainland China amid the coronavirus outbreak --\u00a0with the decision coming after the United Kingdom advised against \"all but essential\" travel to the rest of the country on Tuesday.\r\nWhen logging into\u2026 [+2273 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Plane carrying US evacuees from China amid coronavirus outbreak diverted to California air base",
+            "description": "An airplane bound for Ontario International Airport in California and carrying over 100 U.S. citizens evacuated from China has been diverted to March Air Force Base amid fears of the coronavirus.",
+            "url": "https://www.foxnews.com/health/plane-with-u-s-evacuees-from-china-diverted-from-california-to-air-force-base-curt-hagman-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20022434749667-1-1.jpg",
+            "publishedAt": "2020-01-29T06:36:54Z",
+            "content": "A plane carrying about 210 U.S. citizens evacuated from Wuhan, China\u2014the epicenter of the deadly coronavirus\u2014was diverted Tuesday to California\u2019s March Air Reserve Base \"for the logistics that they have,\"\u00a0an official said.\r\nThe plane was initially\u00a0headed to\u00a0O\u2026 [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Sen. Tom Cotton: China is not close to having control over coronavirus situation",
+            "description": "Sen. Tom Cotton, R-Ark., told \"Tucker Carlson Tonight\" Tuesday that stopping commercial airline flights to China is the solution to shielding the United States from more cases of the deadly coronavirus.",
+            "url": "https://www.foxnews.com/media/sen-cotton-china-not-close-to-having-control-over-coronavirus-situation",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/CarlsonCotton270.jpg",
+            "publishedAt": "2020-01-29T04:08:52Z",
+            "content": "Sen. Tom Cotton, R-Ark., told \"Tucker Carlson Tonight\" Tuesday that\u00a0stopping commercial airline flights to China is the solution to\u00a0shielding the United States from more cases of the deadly coronavirus.\r\n\"There's a very simple way to stop this virus from comi\u2026 [+1467 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Tucker Carlson asks why the media is ignoring more important stories for impeachment",
+            "description": "Tucker Carlson opened up his television program Tuesday by calling President Trump's Senate impeachment trial \"history's most intensely covered head cold\" and saying it was \"suspicious\" that news outlets are ignoring other stories happening in the world.",
+            "url": "https://www.foxnews.com/media/tucker-carlson-asks-why-the-media-is-ignoring-more-important-stories-for-impeachment",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/TUCKER-CARLSON-WALMART.jpg",
+            "publishedAt": "2020-01-29T02:03:16Z",
+            "content": "Tucker Carlson opened up his television program Tuesday by calling President Trump's Senate impeachment trial \"history's most intensely covered head cold\" and saying it was\u00a0\"suspicious\" that news outlets are ignoring other stories happening in the world.\r\n\"In\u2026 [+2051 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "Coronavirus outbreak: Chartered jet flies Americans from China to US, report says",
+            "description": "Nearly 240 Americans were evacuated from the Chinese city of Wuhan early Wednesday morning, and are now on their way back to the United States where they'll be screened by health officials for any signs of the coronavirus.",
+            "url": "https://www.foxnews.com/health/coronavirus-outbreak-chartered-jet-americans-china-to-us",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20027185331400.jpg",
+            "publishedAt": "2020-01-29T01:14:55Z",
+            "content": "Nearly 240 Americans were evacuated from the Chinese city of Wuhan early Wednesday morning, and are now on their way back to the United States where they'll be screened by health officials for any signs of the coronavirus.\r\nA State Department official confirm\u2026 [+2188 chars]"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erik Sherman",
+            "title": "As the coronavirus spreads, these stocks are the most exposed",
+            "description": "Companies like United and Starbucks have taken the biggest hits so far, but there is plenty of pain to go around.",
+            "url": "https://fortune.com/2020/01/29/coronavirus-stock-market-exposed-companies-sars/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1197380006.jpg?resize=1200,600",
+            "publishedAt": "2020-01-30T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Trump\u2019s Phase One trade deal with China suffers from coronavirus spread",
+            "description": "Two weeks ago, the U.S. and China completed a phase-one trade deal amid almost\u00a0immediate doubts\u00a0that Beijing\u2019s commodity purchase pledges were achievable. That was before a health crisis gripped the world\u2019s second-largest economy, making it even tougher to se\u2026",
+            "url": "https://fortune.com/2020/01/29/trumps-phase-one-trade-deal-with-china-suffers-from-coronavirus-spread/",
+            "urlToImage": null,
+            "publishedAt": "2020-01-29T13:18:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "This surprising sector is beating the S&P 500, and it seems impervious to coronavirus",
+            "description": "REITs are out-performing the broader market, even during the coronavirus outbreak.",
+            "url": "https://fortune.com/2020/01/29/reit-real-estate-beats-sp-500/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1159766328.jpg?resize=1200,600",
+            "publishedAt": "2020-01-29T10:39:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Scientists are racing to develop a coronavirus vaccine, but it could take years to reach the market",
+            "description": "Scientists across the globe are working to develop a vaccine for the novel coronavirus that originated in Wuhan, China and has infected over 6,000 people globally.",
+            "url": "https://fortune.com/2020/01/29/china-scientists-coronavirus-vaccine-time-to-market/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1197301454.jpg?resize=1200,600",
+            "publishedAt": "2020-01-29T10:07:29Z",
+            "content": null
+        }
+    ]
+}

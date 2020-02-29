@@ -1,0 +1,500 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Asia stocks set to trade higher as investors await official Chinese manufacturing data",
+            "description": "The release of China's official Purchasing Managers' Index for January is set to be around 9:00 a.m. HK/SIN, amid Beijing's efforts to contain an ongoing virus outbreak in the country that has sent jitters across global markets in recent days.",
+            "url": "https://www.cnbc.com/2020/01/31/asia-markets-coronavirus-china-pmi-currencies-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105429996-1536015814871gettyimages-1025189456.jpeg?v=1580427012",
+            "publishedAt": "2020-01-30T23:38:36Z",
+            "content": "Asia markets were set to rise at the open as investors await the\u00a0release of Chinese official manufacturing data for January amid coronavirus fears.\r\nThe\u00a0 World Health Organization has\u00a0declared a global health emergency over the the coronavirus outbreak that h\u2026 [+1397 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Trump says coronavirus outbreak is 'all under control' and a 'very small problem' in US",
+            "description": "Trump said the federal government was working closely with China to contain the coronavirus outbreak, predicting \"a very good ending\" for the U.S.",
+            "url": "https://www.cnbc.com/2020/01/30/trump-says-coronavirus-outbreak-is-all-under-control-and-is-a-very-small-problem-in-us.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106365339-1580421599050preview-1.jpg?v=1580421609",
+            "publishedAt": "2020-01-30T22:18:35Z",
+            "content": "President Donald Trump said the U.S. government was working closely with China to contain the coronavirus outbreak that has killed at least 171 people, predicting \"a very good ending\" for the United States.\u00a0\r\n\"We are working very closely with China and other \u2026 [+660 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Pilots union files suit to halt American Airlines flights to China",
+            "description": "APA President Capt. Eric Ferguson is calling for American Airlines pilots to refuse to fly to China.",
+            "url": "https://www.cnbc.com/2020/01/30/pilots-union-files-suit-to-halt-american-airlines-flights-to-china.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105924612-1558439136348ap_19114771036771.jpg?v=1567010795",
+            "publishedAt": "2020-01-30T21:17:49Z",
+            "content": "The union that represents American Airlines' pilots said Thursday it's suing\u00a0American Airlines to halt service to China amid the coronavirus outbreak, which has killed more than 170 people in China and infected more than 8,000 around the world.\r\nThe\u00a0Allied Pi\u2026 [+1056 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Oreo Maker Mondelez says coronavirus could hurt sales in first quarter",
+            "description": "Mondelez has closed two factories near the epicenter of the coronavirus outbreak for 10 days to combat the risk of infection.",
+            "url": "https://www.cnbc.com/2020/01/30/oreo-maker-mondelez-says-coronavirus-could-hurt-sales-in-first-quarter.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105880274-1556567835939rtx6toog.jpg?v=1556567890",
+            "publishedAt": "2020-01-30T21:15:36Z",
+            "content": "Mondelez Chief Executive Dirk Van de Put said on Thursday that he expects first-quarter revenue to be affected by the spread of the coronavirus, which has killed at least 171 people in China and infected more than 8,200 since emerging less than a month ago.\r\n\u2026 [+1971 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Here's what happened to the stock market on Thursday",
+            "description": "Stocks closed little changed as investors assessed the potential economic impact of the deadly coronavirus.",
+            "url": "https://www.cnbc.com/2020/01/30/what-happened-to-the-stock-market-thursday-wall-street-assesses-coronavirus-impact.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106335627-1579008169227gettyimages-1193458550.jpeg?v=1580415950",
+            "publishedAt": "2020-01-30T21:09:40Z",
+            "content": "Traders work during the opening bell at the New York Stock Exchange (NYSE) on January 13, 2020 on Wall Street in New York City.\r\nDow Jones Industrial Average rises 124 points\r\nThe Dow climbed 124.99 points, or 0.43%, to end the day at 28,859.44. The S&amp;P 5\u2026 [+1145 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yelena Dzhanova",
+            "title": "State Department lets non-emergency employees leave embassy in Beijing as coronavirus spreads",
+            "description": "The State Department on Thursday authorized a departure of all non-emergency government employees from the U.S. Embassy in Beijing, along with their family members, as the deadly coronavirus continues to spread.",
+            "url": "https://www.cnbc.com/2020/01/30/coronavirus-state-dept-lets-non-emergency-employees-leave-beijing-embassy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106363752-1580379752405gettyimages-1197535431.jpeg?v=1580379812",
+            "publishedAt": "2020-01-30T20:51:55Z",
+            "content": "The State Department on Thursday authorized a departure of all non-emergency government employees from the U.S. Embassy in Beijing, along with their family members, as the deadly coronavirus continues to spread.\r\nThe authorization also extends to U.S. consula\u2026 [+1139 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lizzy Gurdus",
+            "title": "If Amazon issues this warning in earnings, 'watch out below,' trader warns",
+            "description": "Amazon's earnings report speaks to the state of the broader technology sector and its budding rivalries, says Neel Shah, senior trader at Peak6 Capital Management.",
+            "url": "https://www.cnbc.com/2020/01/30/if-amazon-earnings-have-this-warning-watch-out-below-trader.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105981365-1561120926627rts2iu76.jpg?v=1580412088",
+            "publishedAt": "2020-01-30T20:42:04Z",
+            "content": "Amazon is primed for earnings.\r\nMajor Wall Street analysts largely expect the e-commerce giant to continue to impress in its fourth-quarter earnings report, scheduled for after Thursday's closing bell, following what the company called a \"record\" holiday sale\u2026 [+2855 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Caterpillar earnings, Brexit, economic data: 3 things to watch for in the markets on Friday",
+            "description": "Friday marks the official Brexit, and investors will monitor Caterpillar and a slew of economic data.",
+            "url": "https://www.cnbc.com/2020/01/30/caterpillar-earnings-brexit-economic-data-3-things-to-watch-friday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105762747-1551220190056gettyimages-1016153070.jpeg?v=1571400934",
+            "publishedAt": "2020-01-30T20:09:26Z",
+            "content": "An employee assembles an excavator at the Caterpillar Inc. manufacturing facility in Victoria, Texas.\r\nHere are the most important things to know about Friday before you hit the door.\r\n1. Caterpillar earnings\r\nIndustrial giant Caterpillar is set to report qua\u2026 [+2894 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "WHO declares China coronavirus that's killed 171 a global health emergency",
+            "description": "The last time WHO declared a global health emergency was in 2019 for the Ebola outbreak.",
+            "url": "https://www.cnbc.com/2020/01/30/who-declares-china-coronavirus-a-global-health-emergency.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106361744-1580311223475gettyimages-1197353206.jpeg?v=1580387739",
+            "publishedAt": "2020-01-30T19:50:22Z",
+            "content": "The World Health Organization said the fast-spreading coronavirus that's infected more than 8,200 across the world is a global health emergency a rare designation that helps the international agency mobilize financial and political support to contain the outb\u2026 [+4315 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Watch: WHO officials announce whether coronavirus outbreak is a global health emergency",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/01/30/watch-who-officials-announce-whether-coronavirus-is-a-global-health-emergency.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106358802-1580214915333gettyimages-1195327837.jpeg?v=1580214960",
+            "publishedAt": "2020-01-30T19:15:21Z",
+            "content": "[The stream is slated to start at 2:30 p.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nThe World Health Organization on Thursday is holding its fourth news briefing to announce whether the flu-like coronavirus that has killed\u2026 [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Founder of investment club for ultra wealthy sees value in cash despite Dalio calling it 'trash'",
+            "description": "Michael Sonnenfeldt told CNBC that Tiger 21's members are sitting on piles of cash to protect against an economic downturn.",
+            "url": "https://www.cnbc.com/2020/01/30/tiger-21-michael-sonnenfeld-sees-value-in-cash-despite-dalio-calling-it-trash.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105449637-1536863319256img_5612r.jpg?v=1536863387",
+            "publishedAt": "2020-01-30T18:11:12Z",
+            "content": "The founder of an exclusive investment club for the ultra wealthy told CNBC on Thursday that his members are sitting on piles of cash to protect against an economic downturn.\r\nMichael Sonnenfeldt, the founder and chairman of Tiger 21, said on \"Squawk on the S\u2026 [+1552 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "Stocks making the biggest moves midday: Tesla, Penn National Gaming, Facebook, Microsoft & more",
+            "description": "Check out the companies making headlines in midday trading on Thursday.",
+            "url": "https://www.cnbc.com/2020/01/30/stocks-making-the-biggest-moves-midday-tesla-penn-facebook-microsoft.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106091313-1566464545515gettyimages-510540918.jpeg?v=1566464620",
+            "publishedAt": "2020-01-30T18:09:36Z",
+            "content": "Check out the companies making headlines in midday trading on Thursday:\r\nTesla Shares of Elon Musk's automaker jumped as much as 11% after Tesla handily beat analyst estimates for its fourth-quarter earnings. Tesla delivered a profit for the second consecutiv\u2026 [+3546 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Patti Domm",
+            "title": "Here's the investment strategy Bridgewater's Ray Dalio is using to deal with coronavirus",
+            "description": "Bridgewater's Ray Dalio said he believes diversifying is the best investment strategy to protect against the coronavirus.",
+            "url": "https://www.cnbc.com/2020/01/30/heres-the-strategy-bridgewaters-ray-dalio-is-using-to-deal-with-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106346457-1579619487331dsc00315r.jpg?v=1579619573",
+            "publishedAt": "2020-01-30T17:55:56Z",
+            "content": "Bridgewater's Ray Dalio said he has no idea what the extent of the coronavirus will be, but for now he believes the best investment strategy is to diversify across geographic locations, asset class and currencies to protect against the unknowns.\r\n\"Terrible, u\u2026 [+2766 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "CDC confirms first human-to-human transmission of coronavirus in US",
+            "description": "The transmission makes the U.S. at least the fifth country where the infection is now spreading through human-to-human contact.",
+            "url": "https://www.cnbc.com/2020/01/30/cdc-confirms-first-human-to-human-transmission-of-coronavirus-in-us.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106361766-1580311792933gettyimages-1197353211.jpeg?v=1580312440",
+            "publishedAt": "2020-01-30T17:48:23Z",
+            "content": "The Centers for Disease Control and Prevention and Illinois public health officials confirmed Thursday the nation's first person-to-person transmission of the coronavirus that has already killed at least 171 people in China and infected more than 8,200 since \u2026 [+3777 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Patti Domm",
+            "title": "Economic growth looks even weaker this quarter, with virus now a wild card",
+            "description": "Economic growth was expected to slow in the first quarter, due to Boeing's shutdown, but now the coronavirus threatens it even more.",
+            "url": "https://www.cnbc.com/2020/01/30/economic-growth-looks-even-weaker-this-quarter-with-virus-now-a-wild-card.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106347096-15796395762812019-12-06t204340z_1271760707_rc2wpd9edm7h_rtrmadp_3_united-arlns-results.jpg?v=1579639640",
+            "publishedAt": "2020-01-30T16:20:00Z",
+            "content": "Coming off the slowest year of growth in three, the economy in the first quarter of 2020 is expected to slow down even more due to the impact of Boeing and now the potential wild card of the coronavirus.\r\nFourth quarter GDP growth was 2.1%, in line with econo\u2026 [+4188 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Coronavirus cases top 8,200 \u2014 surpassing 2003 SARS outbreak in less than a month",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/01/30/coronavirus-cases-top-8200-surpassing-2003-sars-outbreak-in-less-than-a-month.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106361259-1580300661841gettyimages-1197308539.jpeg?v=1580316207",
+            "publishedAt": "2020-01-30T15:24:53Z",
+            "content": "There are now more than 8,200 confirmed coronavirus cases across the world, outpacing the total number of infections over the nine-month SARS outbreak in less than a month.\r\nAs of Thursday morning, there were 8,121 confirmed cases in mainland China alone, acc\u2026 [+676 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jessica Bursztynsky",
+            "title": "Ex-Obama health advisor: US needs to 'stop panicking and being hysterical' about coronavirus",
+            "description": "\"I'm actually pretty confident that we're going to restrict the spread in the United States and people should remember not to panic,\" said Dr. Ezekiel Emanuel.",
+            "url": "https://www.cnbc.com/2020/01/30/ezekiel-emanuel-on-coronavirus-americans-need-to-stop-panicking.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103186480-GettyImages-479939222.jpg?v=1529470067",
+            "publishedAt": "2020-01-30T15:17:21Z",
+            "content": "Americans are too worried about the new coronavirus that's spreading rapidly across China, former White House health advisor Ezekiel Emanuel told CNBC on Thursday\r\n\"Everyone in America should take a very big breath, slow down and stop panicking and being hyst\u2026 [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger",
+            "title": "China's coronavirus could bring jobs, manufacturing back to the US, Trump Commerce Secretary Wilbur Ross says",
+            "description": "\"The fact is, it does give businesses another thing to consider when they go through their review of their supply chain,\" Trump Commerce Secretary Wilbur Ross said of the deadly coronavirus.",
+            "url": "https://www.cnbc.com/2020/01/30/wilbur-ross-coronavirus-could-bring-jobs-manufacturing-back-to-us.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105175094-RTS1PFIY.jpg?v=1580390565",
+            "publishedAt": "2020-01-30T14:20:08Z",
+            "content": "The fast-spreading coronavirus has infected thousands of people in China and raised fears about a global pandemic and that could have a positive impact on the U.S. economy, Secretary of Commerce Wilbur Ross said Thursday.\r\nRoss said in a Fox Business Network \u2026 [+2390 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Chloe Taylor",
+            "title": "6,000 people in lockdown on Italian cruise ship over coronavirus fears",
+            "description": "Six thousand people are being held on a cruise ship in Italy over fears that one of the passengers could be infected with the Chinese coronavirus.",
+            "url": "https://www.cnbc.com/2020/01/30/6000-people-in-lockdown-on-italian-cruise-ship-over-coronavirus-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106364324-1580393097774gettyimages-1197607896.jpeg?v=1580393202",
+            "publishedAt": "2020-01-30T14:16:00Z",
+            "content": "Six thousand people are being held on a cruise ship in Italy over fears that one of the passengers could be infected with the Chinese coronavirus.\r\n\"Sanitary protocol\" has been activated amid concerns over the health of an individual traveling on the ship ope\u2026 [+825 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "Coronavirus live updates: Russia closes China border as outbreak tops 7,900 cases with 170 deaths",
+            "description": "The total number of cases of the coronavirus reached more than 7,900 worldwide with 170 deaths in China as of Thursday morning.",
+            "url": "https://www.cnbc.com/2020/01/30/coronavirus-latest-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106364023-1580387158612gettyimages-1197395290.jpeg?v=1580387255",
+            "publishedAt": "2020-01-30T13:14:51Z",
+            "content": "Passengers wear face masks to protect against the spread of the Coronavirus as they arrive on a flight from Asia at Los Angeles International Airport, California, on January 29, 2020.\r\nAll times below are in Eastern time.\r\n7:48 am: Russia closes border with C\u2026 [+2020 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Stock market live updates: Dow futures off 200, Facebook plunges, waiting for GDP",
+            "description": "Live updates of what's moving the market, including GDP and earnings reports.",
+            "url": "https://www.cnbc.com/2020/01/30/stock-market-today-live.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106361815-1580312962978rts2zzdg.jpg?v=1580313043",
+            "publishedAt": "2020-01-30T13:04:24Z",
+            "content": "A worker in protective suit disinfects the Dongxinzhuang village, as the country is hit by the new coronavirus, in Qingdao, Shandong province, China January 29, 2020.\r\nThis is a live blog. Check back for updates.\r\n8:08 am: Microsoft set for gains after strong\u2026 [+3688 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Thursday",
+            "description": "U.S. stock futures were sharply lower Thursday, as world markets were under pressure on concerns about the widening coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/01/30/5-things-to-know-before-the-stock-market-opens-thursday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357116-1580141240544gettyimages-1202297155.jpeg?v=1580141324",
+            "publishedAt": "2020-01-30T13:04:06Z",
+            "content": "1. Dow set to give up nearly all its 2020 gains at open\r\nTraders work on the floor of the New York Stock Exchange, January 27, 2020.\r\nU.S. stock futures were sharply lower Thursday, as world markets were under pressure on concerns about the widening coronavir\u2026 [+2839 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "Russia closes border crossings with China to prevent spread of the coronavirus",
+            "description": "Russia is to close its border with China as a measure to prevent the spread of the coronavirus, according to the country's state media.",
+            "url": "https://www.cnbc.com/2020/01/30/coronavirus-russia-closes-border-with-china-to-prevent-spread.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106182097-1571143728697rtx73qtq.jpg?v=1571143892",
+            "publishedAt": "2020-01-30T12:48:32Z",
+            "content": "Russia is to close its border with China as a measure to prevent the spread of the coronavirus, according to the country's state media.\r\nRussian Prime Minister Mikhail Mishustin said Thursday morning that he had signed an instruction to close the state border\u2026 [+1363 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Peter Schacknow",
+            "title": "Stocks making the biggest moves premarket: Verizon, Coca-Cola, Altria, DuPont, UPS & more",
+            "description": "These are the stocks posting the largest moves before the bell, including Verizon, Coca-Cola, Altria, DuPont, UPS, and more.",
+            "url": "https://www.cnbc.com/2020/01/30/stocks-making-the-biggest-moves-premarket-verizon-coca-cola-altria-dupont-ups-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357160-1580142688534gettyimages-1202297736.jpeg?v=1580142724",
+            "publishedAt": "2020-01-30T12:44:00Z",
+            "content": "Check out the companies making headlines before the bell:\r\nCoca-Cola (KO) The beverage giant matched estimates with quarterly earnings of 44 cents per share, with revenue above Street forecasts. Coca-Cola also said it had its largest market share gain as meas\u2026 [+3536 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Stephanie Landsman",
+            "title": "A quiet Fed may be one of the best things for stocks. Here's why",
+            "description": "Bespoke's Paul Hickey tracks how stocks typically perform in the month after Federal Reserve decisions.",
+            "url": "https://www.cnbc.com/2020/01/30/a-quiet-fed-may-be-one-of-the-best-things-for-stocks-heres-why.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103334544-RTX243I9.jpg?v=1580334627",
+            "publishedAt": "2020-01-30T12:27:05Z",
+            "content": "It appears the Federal Reserve just did one of the best things it could for stocks: doing nothing.\r\nBespoke Investment Group's Paul Hickey finds that the S&amp;P 500 rises an average of about 1 percent in the month after a Fed decision to hold interest rates \u2026 [+1762 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jessica Bursztynsky",
+            "title": "What to watch today: Dow to fall, Tesla's rally and coronavirus concerns",
+            "description": "Worries over the spreading coronavirus are weighing on investor sentiment once again, with U.S. stock futures lower and world stock indexes falling this morning.",
+            "url": "https://www.cnbc.com/2020/01/30/dow-to-fall-teslas-rally-and-coronavirus-concerns.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106324700-1578412845249rts2xgj9.jpg?v=1578412924",
+            "publishedAt": "2020-01-30T11:45:00Z",
+            "content": "BY THE NUMBERS\r\nWorries over the spreading coronavirus are weighing on investor sentiment once again, with U.S. stock futures lower and world stock markets falling this morning. The Dow and S&amp;P 500 are on track to post their second straight weekly losses \u2026 [+6214 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Europe's biggest oil company warns of 'tough and uncertain' market as coronavirus fears intensify",
+            "description": "The chief executive of Royal Dutch Shell is preparing for a tough and uncertain energy market, amid heightened fears China's fast-spreading coronavirus could suppress oil demand growth.",
+            "url": "https://www.cnbc.com/2020/01/30/oil-shell-ceo-warns-of-tough-energy-market-amid-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106363843-1580383585740gettyimages-1091611440.jpeg?v=1580383665",
+            "publishedAt": "2020-01-30T11:42:35Z",
+            "content": "The chief executive of\u00a0Royal Dutch Shell\u00a0is preparing for a tough and uncertain energy market, amid heightened fears China's fast-spreading coronavirus could suppress oil demand growth.\r\nIt comes amid speculation that OPEC and allied non-OPEC producers could \u2026 [+2870 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Here's what to expect from Coca-Cola earnings",
+            "description": "Coca-Cola is expected to report its fourth-quarter earnings before the bell Thursday.",
+            "url": "https://www.cnbc.com/2020/01/30/coca-cola-ko-earnings-q4-2019.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106228583-1573067455485rtx77mhg.jpg?v=1573067541",
+            "publishedAt": "2020-01-30T11:31:27Z",
+            "content": "Coca-Cola is expected to report its fourth-quarter earnings before the bell Thursday.\r\nHere's what Wall Street analysts surveyed by Refinitiv are expecting:\r\n<ul><li>Earnings per share: 44 cents expected</li><li>Revenue: $8.9 billion expected</li></ul>As U.S.\u2026 [+1215 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "Apple becomes biggest smartphone player for the first time in two years, beating Samsung",
+            "description": "Apple shipped 72.9 million iPhones in the fourth quarter, beating the 70 million Galaxy phones sold by Samsung.",
+            "url": "https://www.cnbc.com/2020/01/30/apple-iphone-beats-samsung-for-smartphone-shipments-in-q4-2019.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106295923-1576268576211gettyimages-1167255506.jpeg?v=1576268611",
+            "publishedAt": "2020-01-30T10:55:20Z",
+            "content": "Apple has beaten Samsung on quarterly smartphone shipments for the first time in two years, according to figures from several industry analysts.\r\nThe iPhone maker saw shipments surge to 72.9 million units in the fourth quarter of 2019, according to Counterpoi\u2026 [+2660 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "David Reid",
+            "title": "India confirms first case of the coronavirus",
+            "description": "The country's health ministry said the virus had been found in a patient in Kerala.",
+            "url": "https://www.cnbc.com/2020/01/30/india-confirms-first-case-of-the-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106348790-1579701068470gettyimages-1195294869.jpeg?v=1580379950",
+            "publishedAt": "2020-01-30T10:31:07Z",
+            "content": "India has officially confirmed that at least one case of the coronavirus has reached the country.\r\nThe Ministry of Health and Family Welfare confirmed the country's first case in Kerala, a southwestern coastal state.\r\nThe government body said in a statement t\u2026 [+1849 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "10-year Treasury yield falls to lowest level since early October as coronavirus fuels anxiety",
+            "description": "U.S. government debt prices were higher Thursday morning, as investors monitored the economic impact of China's fast-spreading coronavirus.",
+            "url": "https://www.cnbc.com/2020/01/30/us-bonds-10-year-treasury-yield-dips-to-lowest-level-since-october.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357163-1580142757084gettyimages-1202297184.jpeg?v=1580142901",
+            "publishedAt": "2020-01-30T08:53:45Z",
+            "content": "U.S. government debt prices\u00a0were higher Thursday morning, as investors closely monitored the potential economic impact of China's fast-spreading coronavirus.\r\nAt 3:45 a.m. ET, the benchmark 10-year Treasury note, which moves inversely to price, was lower at a\u2026 [+1327 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "How the coronavirus outbreak in China could hit manufacturing",
+            "description": "Expect supply disruptions as China takes measures to contain an ongoing coronavirus outbreak, says REYL Singapore's Daryl Liew.",
+            "url": "https://www.cnbc.com/2020/01/30/how-the-coronavirus-outbreak-in-china-could-hit-manufacturing.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106363279-1580364298825gettyimages-1197523082.jpeg?v=1580364368",
+            "publishedAt": "2020-01-30T07:30:38Z",
+            "content": "Expect supply disruptions as China takes measures to contain an ongoing coronavirus outbreak, says REYL Singapore's Daryl Liew.\r\n\"The sharp action taken by the Chinese government to basically delay workers going back to work is definitely going to cause some \u2026 [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "US futures point to sharply lower open on Wall Street",
+            "description": "U.S. stock index futures fell sharply on Thursday morning.",
+            "url": "https://www.cnbc.com/2020/01/30/us-futures-point-to-sharply-lower-open-on-wall-street.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357163-1580142757084gettyimages-1202297184.jpeg?v=1580142901",
+            "publishedAt": "2020-01-30T07:22:49Z",
+            "content": "U.S. stock index futures\u00a0fell sharply on Thursday morning.\r\nAt around 3:40 a.m. ET, Dow futures were down 203 points and implied a negative open of more than 176 points, while futures on the S&amp;P 500 and Nasdaq were also lower.\r\nMarket focus is largely att\u2026 [+1358 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Shell earnings: full-year net profit comes in at $16.4 billion vs. $17.7 billion expected",
+            "description": "Oil giant Royal Dutch Shell reported weaker-than-expected full-year net profit on Thursday, citing challenging macroeconomic conditions.",
+            "url": "https://www.cnbc.com/2020/01/30/royal-dutch-shell-earnings-q4-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103779448-GettyImages-513285404.jpg?v=1532564075",
+            "publishedAt": "2020-01-30T07:08:08Z",
+            "content": "Oil giant Royal Dutch Shell reported a sharp fall in full-year net profit on Thursday, citing challenging macroeconomic conditions and lower oil and gas prices.\r\nNet income attributable to shareholders on a current cost of supplies (CCS) basis and excluding i\u2026 [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Three Japanese evacuees from Wuhan test positive for virus, two had no symptoms",
+            "description": "Asked about concerns over the possible transmission of the virus from people who have not shown symptoms, the official said it was not clear whether that had happened.",
+            "url": "https://www.cnbc.com/2020/01/30/japanese-evacuees-from-wuhan-test-positive-for-virus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106358972-1580218876430gettyimages-1197018468.jpeg?v=1580218929",
+            "publishedAt": "2020-01-30T06:23:00Z",
+            "content": "Three Japanese evacuated from Wuhan on a government-chartered flight have been confirmed to be infected with the coronavirus including two who had not shown any symptoms, the health ministry said on Thursday.\r\nThe two were the first cases in Japan of people w\u2026 [+2605 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "European markets set for lower open as coronavirus death toll rises",
+            "description": "European markets are expected to open lower Thursday, weighed on by a rising coronavirus death toll and reacting to the U.S. Federal Reserve's decision to keep interest rates on hold.",
+            "url": "https://www.cnbc.com/2020/01/30/european-markets-focus-on-rising-coronavirus-death-toll.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106361766-1580311792933gettyimages-1197353211.jpeg?v=1580312440",
+            "publishedAt": "2020-01-30T04:31:05Z",
+            "content": "European markets are expected to open lower Thursday, weighed on by a rising coronavirus death toll and reacting to the U.S. Federal Reserve's decision to keep interest rates on hold.\r\nLondon's FTSE index is seen opening 49 points lower at 7,441, the German D\u2026 [+1340 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Oil falls as virus death toll in China climbs",
+            "description": "Oil prices fell on Thursday as the death toll from the new virus in China climbed to 170 and more airlines cancelled flights to the country's major cities, while rising U.S. crude inventories added to the negative tone.",
+            "url": "https://www.cnbc.com/2020/01/30/oil-markets-brent-crude-futures-coronavirus-us-inventories-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102966171-GettyImages-458127986.jpg?v=1441283769",
+            "publishedAt": "2020-01-30T03:18:42Z",
+            "content": "Oil prices fell on Thursday as the death toll from the new virus in China climbed to 170 and more airlines cancelled flights to the country's major cities, while rising U.S. crude inventories added to the negative tone.\r\nBrent was down 35 cents, or 0.6%, at $\u2026 [+1644 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Christine Wang",
+            "title": "Coronavirus live updates: China says death toll rises to 170 as cases rise beyond 7,700",
+            "description": "The number of coronavirus cases in China has exceeded the total number of SARS cases in that country during the 2003 epidemic.",
+            "url": "https://www.cnbc.com/2020/01/30/coronavirus-live-updates-china-says-death-toll-rises.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106358828-1580216100840preview.jpg?v=1580216112",
+            "publishedAt": "2020-01-30T00:07:31Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below in Beijing time.\r\n7:50 pm: Chinese officials confirm death toll rises to 170\r\nChina's National Health Commission confirmed an additional 38 deaths and 1,737 new cases. Officials said that br\u2026 [+2162 chars]"
+        }
+    ]
+}

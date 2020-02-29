@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 18,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DAVID KOENIG AP Airlines Writer",
+            "title": "American Airlines pilots sue to halt flights to China",
+            "description": "DALLAS (AP) \u2014 The pilots' union at American Airlines sued to block the carrier from flying to China and told members not to operate flight there because of the spreading coronavirus outbreak.",
+            "url": "https://apnews.com/797bd4f8e6569a8579a37c7546e5f0ce",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-01-30T22:01:39Z",
+            "content": "DALLAS (AP) The pilots' union at American Airlines sued to block the carrier from flying to China and told members not to operate flight there because of the spreading coronavirus outbreak.\r\nThe Allied Pilots Association, which represents Americans 15,000 pil\u2026 [+762 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By PAUL WISEMAN AP Economics Writer",
+            "title": "Commerce secretary: China virus could bring jobs back to US",
+            "description": "WASHINGTON (AP) \u2014 Commerce Secretary Wilbur Ross suggested Thursday that the viral outbreak in China might offer an unexpected benefit for the U.S. economy: It could encourage American manufacturers in China to return to the United States.",
+            "url": "https://apnews.com/7d370c6197d3d9cbac643ae5a20c62e8",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/6/41/641f0484-a02b-5f3b-8c31-a23b653170d2/5e332f662b545.image.jpg?crop=1762%2C991%2C0%2C92&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T19:18:23Z",
+            "content": "WASHINGTON (AP) Commerce Secretary Wilbur Ross suggested Thursday that the viral outbreak in China might offer an unexpected benefit for the U.S. economy: It could encourage American manufacturers in China to return to the United States.\r\nI think it will help\u2026 [+3599 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "World Cup ski races canceled in China now move to Austria",
+            "description": "OBERHOFEN, Switzerland (AP) \u2014 Two World Cup ski races that were cancelled in China because of the ongoing virus outbreak have been moved to Austria.",
+            "url": "https://apnews.com/83127511e79ebb582502f1b20fd20e70",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/50/050a2517-a468-5048-ac30-59a48fe98456/5e32e235999b6.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T19:12:25Z",
+            "content": "Doctors look at a CT scan of a patient at a hospital in Wuhan in central China's Hubei Province, Thursday, Jan. 30, 2020. China counted 170 deaths from a new virus Thursday and more countries reported infections, including some spread locally, as foreign evac\u2026 [+1325 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By The Associated Press",
+            "title": "How well new China virus spreads is focus of control efforts",
+            "description": "Scientists are starting to fill in some key gaps in what's known about the new virus from China. New research suggests it spreads a little easier than regular flu but not as well as some other respiratory diseases like whooping\u2026",
+            "url": "https://apnews.com/4acd883e3f81e6116ca3522a1ed467fa",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/1/00/100a78f8-9368-55c4-adf0-65073beb9eee/5e332bd3e668c.image.jpg?crop=1765%2C993%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T18:55:16Z",
+            "content": "SARS initially was traced to civet cats sold in a live animal market, but later scientists decided it probably originated in bats that infected the civets. People can catch MERS from infected camels, although again, bats likely first spread that coronavirus t\u2026 [+1023 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MIKE STOBBE AP Medical Writer",
+            "title": "US reports 1st case of person-to-person spread of new virus",
+            "description": "NEW YORK (AP) \u2014 Health officials Thursday reported the first U.S. case of person-to-person spread of the new virus from China.",
+            "url": "https://apnews.com/9713a99abb7a582351e09e1711344c6c",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/b/ac/bac5b086-8276-5c1b-aa90-38b71c7af95c/5e3316b188efd.image.jpg?crop=1900%2C1069%2C18%2C0&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T17:44:10Z",
+            "content": "NEW YORK (AP) Health officials Thursday reported the first U.S. case of person-to-person spread of the new virus from China.\r\nThe individual is married to the Chicago woman who got sick from the virus after she returned from a trip to Wuhan, China, the epicen\u2026 [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By TIM REYNOLDS AP Sports Writer",
+            "title": "Virus delaying China's Olympic sliding track certification",
+            "description": "Plans to have bobsled, skeleton and luge athletes from around the world visit China in March to help certify the track that will be used for the 2022 Beijing Olympics have been delayed over concerns about a virus that has\u2026",
+            "url": "https://apnews.com/62269cd39aadacb39c9658bff1e2b056",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517",
+            "publishedAt": "2020-01-30T17:22:01Z",
+            "content": "Qualifiers that were to have taken place in China for women's basketball, women's soccer and boxing for this summer's Tokyo Olympics have been moved to other nations. The indoor world athletics championships in Nanjing were postponed by a year on Wednesday, w\u2026 [+1407 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By PHILIP MARCELO Associated Press",
+            "title": "Boston Symphony cancels Asia tour amid China virus outbreak",
+            "description": "BOSTON (AP) \u2014 The Boston Symphony Orchestra has cancelled its coming tour of Asia amid concerns about the deadly virus in China.",
+            "url": "https://apnews.com/1a5f228a09908f8724bec65383b6662b",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
+            "publishedAt": "2020-01-30T16:39:30Z",
+            "content": "BOSTON (AP) The Boston Symphony Orchestra has cancelled its coming tour of Asia amid concerns about the deadly virus in China.\r\nAndris Nelsons, the orchestra's music director, said Thursday that the decision was made out of concern for the health and well-bei\u2026 [+1866 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By The Associated Press",
+            "title": "What's new in the China virus outbreak",
+            "description": "More than 7,800 cases of a viral outbreak have been confirmed worldwide, most of them in central China. The virus has caused 170 deaths, mostly in Hubei province. Experts are especially concerned that new cases outside China may be spreading\u2026",
+            "url": "https://apnews.com/c0ec3f30833bfb9cd0c8bd815af8e553",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/27/0278d99c-3a81-5dca-a49c-37f0a29f3d52/5e32effb73ac7.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T14:58:05Z",
+            "content": "More than 7,800 cases of a viral outbreak have been confirmed worldwide, most of them in central China. The virus has caused 170 deaths, mostly in Hubei province. Experts are especially concerned that new cases outside China may be spreading person-to-person.\u2026 [+1294 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Pakistan: No immediate plans to evacuate citizens from China",
+            "description": "ISLAMABAD (AP) \u2014 A top Pakistani health official said Thursday that Islamabad had no immediate plan to evacuate any of some 30,000 nationals living in China to study and work, despite the new coronavirus that surfaced there.",
+            "url": "https://apnews.com/d5502354b783ad00aa3613f2fade34e1",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/6d/96d7c8a7-6343-5837-8782-354275f486f3/5e32e937aa594.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T14:26:44Z",
+            "content": "ISLAMABAD (AP) A top Pakistani health official said Thursday that Islamabad had no immediate plan to evacuate any of some 30,000 nationals living in China to study and work, despite the new coronavirus that surfaced there.\r\nZafar Mirza, who advises Prime Mini\u2026 [+1125 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MARTIN CRUTSINGER AP Economics Writer",
+            "title": "US economy grew at moderate 2.1% rate in fourth quarter",
+            "description": "WASHINGTON (AP) \u2014 The U.S. economy grew at a moderate 2.1% rate in the final three months of 2019, capping a year when growth slowed significantly due to a weaker global economy and trade war uncertainties.",
+            "url": "https://apnews.com/08a2f1de2b72497eea5c63241afea73f",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/f4/4f41f929-67c4-5a2b-a313-81008dde5d9a/5e32de3899332.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T13:39:16Z",
+            "content": "WASHINGTON (AP) The U.S. economy grew at a moderate 2.1% rate in the final three months of 2019, capping a year when growth slowed significantly due to a weaker global economy and trade war uncertainties.\r\nThe Commerce Department reported Thursday that the fo\u2026 [+1088 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Associated Press",
+            "title": "School group possibly exposed to virus confined to home",
+            "description": "PALM BEACH GARDENS, Fla. (AP) \u2014 Thirty students and three teachers from a Florida school are confined to their homes as they await word on whether they were exposed to coronavirus while they attended a four-day conference at Yale University\u2026",
+            "url": "https://apnews.com/07ec63ae8f078cae9b350ede028030a4",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-01-30T12:35:24Z",
+            "content": "PALM BEACH GARDENS, Fla. (AP) Thirty students and three teachers from a Florida school are confined to their homes as they await word on whether they were exposed to coronavirus while they attended a four-day conference at Yale University last weekend.\r\nThe g\u2026 [+1236 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By The Associated Press",
+            "title": "New virus infects 7,700 in China, dozens in other countries",
+            "description": "A viral outbreak that began in China has infected more than 7,700 people on the mainland and dozens in other countries.",
+            "url": "https://apnews.com/d0b3deb173b723aa14f6f3d6d1187de5",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/dd/3dd3a3e4-9ffc-580d-b8be-2385fb996c15/5e32d0058f736.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T12:17:48Z",
+            "content": "A viral outbreak that began in China has infected more than 7,700 people on the mainland and dozens in other countries.\r\nSome details on cases confirmed as of Thursday evening in Beijing:\r\n China: 7,711 cases on the mainland. In addition, Hong Kong has eight \u2026 [+584 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By BARRY HATTON Associated Press",
+            "title": "Europe sends evacuation flight to China to bring 350 home",
+            "description": "LISBON, Portugal (AP) \u2014 An A380 passenger plane left southern Portugal on Thursday en route to China where it will pick up hundreds of Europeans who want to escape the new virus that has put a large swath of central\u2026",
+            "url": "https://apnews.com/9e2536bf7c7a3cd03b80688e476ed822",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/d/c3/dc38990a-c889-5dbe-97a6-7710181a9594/5e31e109493d6.image.jpg?crop=1762%2C991%2C0%2C92&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T11:38:13Z",
+            "content": "LISBON, Portugal (AP) An A380 passenger plane left southern Portugal on Thursday en route to China where it will pick up hundreds of Europeans who want to escape the new virus that has put a large swath of central China in a lockdown.\r\nThe plane took off from\u2026 [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Formula 1 will alter calendar for coronavirus if needed",
+            "description": "PARIS (AP) \u2014 Formula One is closely monitoring the coronavirus outbreak in China and will modify its race calendar if necessary.",
+            "url": "https://apnews.com/87e931d23cb7c4e2402333e243a63e01",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517",
+            "publishedAt": "2020-01-30T11:35:07Z",
+            "content": "PARIS (AP) Formula One is closely monitoring the coronavirus outbreak in China and will modify its race calendar if necessary.\r\nAmid growing concern about the spread of the virus, international sports have been postponed and Olympic qualifying tournaments hav\u2026 [+943 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By The Associated Press",
+            "title": "North Korea says it has intensified efforts to block virus",
+            "description": "North Korea is intensifying efforts to prevent the spread of a new virus from China into the isolated country by blocking tourists, reducing flights and mobilizing more screening efforts, a health official said Thursday.",
+            "url": "https://apnews.com/8d3e51c3939ed7bf62b3bda8c337a949",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/8/9b/89b0f7eb-9538-55d6-be04-7b46ee084123/5e32badb7bf53.image.jpg?crop=1853%2C1042%2C0%2C37&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T10:47:29Z",
+            "content": "North Korea is intensifying efforts to prevent the spread of a new virus from China into the isolated country by blocking tourists, reducing flights and mobilizing more screening efforts, a health official said Thursday.\r\nKim Dong Gun, a director from the Nor\u2026 [+1207 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By ROD McGUIRK Associated Press",
+            "title": "Australia defends plan to create island quarantine camp",
+            "description": "CANBERRA, Australia (AP) \u2014 Australia\u2019s government on Thursday defended its plan to send citizens evacuated from the epicenter of China\u2019s novel coronavirus emergency to a remote island used to banish asylum seekers and convicted criminals, despite warnings tha\u2026",
+            "url": "https://apnews.com/c129280f6ab2a832908b8dcf4888364b",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/6/07/60772daa-0092-58d0-ac1a-9c29c06d4fa5/5e32b0ae74a1f.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T09:59:15Z",
+            "content": "CANBERRA, Australia (AP) Australias government on Thursday defended its plan to send citizens evacuated from the epicenter of Chinas novel coronavirus emergency to a remote island used to banish asylum seekers and convicted criminals, despite warnings that th\u2026 [+3465 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DARLENE SUPERVILLE, AAMER MADHANI and JONATHAN LEMIRE Associated Press",
+            "title": "Wary of irking China, Trump offers rosy take on virus threat",
+            "description": "WASHINGTON (AP) \u2014 President Donald Trump had plenty to talk about during his latest big campaign rally, regaling a friendly crowd in New Jersey with his thoughts about impeachment, the economy, the border wall, local politics and much more.",
+            "url": "https://apnews.com/1c2b286be3024aa6781035dc5e56491d",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/4/21/42116aca-728e-52d6-9aa4-9391d20d83e3/5e326e09cfb8b.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T05:29:14Z",
+            "content": "WASHINGTON (AP) President Donald Trump had plenty to talk about during his latest big campaign rally, regaling a friendly crowd in New Jersey with his thoughts about impeachment, the economy, the border wall, local politics and much more.\r\nBut the president w\u2026 [+5868 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "KEN MORITSUGU Associated Press",
+            "title": "China virus death toll rises to 170, transmission a concern",
+            "description": "BEIJING (AP) \u2014 The death toll rose to 170 in the new virus outbreak in China on Thursday as foreign evacuees from the worst-hit region begin returning home under close observation and world health officials expressed \u201cgreat concern\u201d that the\u2026",
+            "url": "https://apnews.com/0f0f07b30c8cdd2b0f30c6081acc7599",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/3/f9/3f9037d4-06b4-5cb5-8eb5-f37dfd8f28da/5e32080c63296.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-01-30T01:20:02Z",
+            "content": "BEIJING (AP) The death toll rose to 170 in the new virus outbreak in China on Thursday as foreign evacuees from the worst-hit region begin returning home under close observation and world health officials expressed great concern that the disease is starting t\u2026 [+3296 chars]"
+        }
+    ]
+}

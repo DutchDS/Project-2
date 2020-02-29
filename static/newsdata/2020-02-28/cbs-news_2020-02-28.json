@@ -1,0 +1,474 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Sanders: \"Hey Mr. Trump, why don't you worry about the coronavirus rather than disrupting the Democratic primary right here in South Carolina?\"",
+            "description": "Ahead of the pivotal primary in South Carolina, Bernie Sanders slammed President Trump's response to coronavirus.",
+            "url": "https://www.cbsnews.com/video/sanders-hey-mr-trump-why-dont-you-worry-about-the-coronavirus-rather-than-disrupting-the-democratic-primary-right-here/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/5eb1f7a3-e0bf-4df2-8cea-99a3da313e4a/thumbnail/1200x630/8f09221a2a2ec02c51b305d60d4bde37/0228-sandersbashestrumponcorona-2037630-640x360.jpg",
+            "publishedAt": "2020-02-28T22:50:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Wall Street bloodbath continues as stocks open sharply lower",
+            "description": "Stocks on track for biggest weekly drop since the 2008 financial crisis as coronavirus fears mount.",
+            "url": "https://www.cbsnews.com/news/coronavirus-stocks-down-worst-since-financial-crisis-friday-2020-02-28/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/d41d9be2-27cf-4dab-ac2b-72c1af0c62d0/thumbnail/1200x630/7106666787df5849d28e44578bda49bc/rts33z5z.jpg",
+            "publishedAt": "2020-02-28T14:48:22Z",
+            "content": "Financial markets opened sharply lower on Friday, putting stocks on track for a seventh straight day of losses as investors brace for the economic fallout from the widening coronavirus outbreak.\u00a0\r\nThe Dow plunged 722 points, or 2.8%, to 25,044 shortly after t\u2026 [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/27/20: CBSN Evening News",
+            "description": "Investors pull funds over coronavirus fears; University of Denver preserves music from slavery",
+            "url": "https://www.cbsnews.com/video/22720-cbsn-evening-news/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/10146537-e664-439b-b823-b627c55aaf5d/thumbnail/1200x630/89e9c769a8719539b6eca0723a22dc2e/0227-cbsn-full-2036661-640x360.jpg",
+            "publishedAt": "2020-02-28T02:35:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/27: CBS Evening News",
+            "description": "U.S. stock market drops amid coronavirus fears; Group wants to preserve African American \"spirituals\"",
+            "url": "https://www.cbsnews.com/video/022720-cbs-evening-news/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/bef525b3-97cb-480f-8622-547aad1b6013/thumbnail/1200x630/2574ecc22da39ef09bd897a164d1eee9/0227-en-full-2036679-640x360.jpg",
+            "publishedAt": "2020-02-28T04:00:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "White House responds to coronavirus whistleblower claims",
+            "description": "Coronavirus fears are taking a toll worldwide. Now a whistleblower is sounding the alarm over a lack of training and protective gear for U.S. health workers. CBS News correspondents Carter Evans and Paula Reid joined CBSN with the latest.",
+            "url": "https://www.cbsnews.com/video/white-house-responds-to-coronavirus-whistleblower-claims/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/7d638022-7b59-4ef3-9c21-92c9b6a941b2/thumbnail/1200x630/b584936b7086d4b62b54ca8c8a8c523f/0228-cbsn-whcoronavirusresponse-nsqnsr-2036950-640x360.jpg",
+            "publishedAt": "2020-02-28T15:03:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Christopher Brito",
+            "title": "Patient's dog tests positive for coronavirus",
+            "description": "Dogs, cats and other mammals owned as pets by confirmed coronavirus patients must now undergo a 14-day quarantine.",
+            "url": "https://www.cbsnews.com/news/coronavirus-dog-hong-kong-tests-positive/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/e74e54a7-e74a-4740-9f54-60d86ddeaab9/thumbnail/1200x630/38d9572dee0f179abc7ab7f7a2aaa1f7/gettyimages-1199162438.jpg",
+            "publishedAt": "2020-02-28T16:18:00Z",
+            "content": "As humans throughout the world grapple with the widespread outbreak of the novel coronavirus, a pet dog has been found to have a \"low level\" of the virus, a spokesperson for the Hong Kong's agriculture, fisheries and conservation department said in a statemen\u2026 [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "California monitoring 8,400 people for coronavirus",
+            "description": "New measures are in place in California this morning after the first apparent U.S. case with unknown origin. The female patient is battling the virus despite no recent foreign travel or known contact with another infected person. CBS News correspondent Carter\u2026",
+            "url": "https://www.cbsnews.com/video/california-monitoring-8400-people-for-coronavirus-1/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/3e679f87-f7ca-41e8-97b2-68cdfcba312c/thumbnail/1200x630/21874aa6dab98b878fd9f4c91b768b5c/0228-cbsnam-californiamonitoring-2036934-640x360.jpg",
+            "publishedAt": "2020-02-28T14:38:27Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "House lawmakers to get briefing on coronavirus",
+            "description": "New measures are in place in California this morning after the first apparent U.S. case with unknown origin. The female patient is battling the virus despite no recent foreign travel or known contact with another infected person. CBS News correspondent Carter\u2026",
+            "url": "https://www.cbsnews.com/video/house-lawmakers-to-get-briefing-on-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/9fcb3c2f-d987-4cfa-9633-ca4b74724e81/thumbnail/1200x630/a946997a9814ab1cc1e669da373cca96/0228-cbsnam-coronavirusbriefing-2036936-640x360.jpg",
+            "publishedAt": "2020-02-28T14:43:26Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin O'Kane",
+            "title": "BTS cancels tour dates over coronavirus",
+            "description": "The band's world tour will no longer start in South Korea \u2013 the first show will be weeks later in California.",
+            "url": "https://www.cbsnews.com/news/bts-on-tour-south-korea-concert-tour-dates-cancelled-over-coronavirus-outbreak-in-korea-kpop-band-announces/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/18/9dd6362f-f380-4fe4-a71f-6396e073c3fb/thumbnail/1200x630/fbd18eb5a6c7cbc720e5dacf41f547dd/k-pop-boy-band-bts-interview-620.jpg",
+            "publishedAt": "2020-02-28T16:35:34Z",
+            "content": "One of the most popular boybands in the world, BTS, has cancelled tour dates due to coronavirus, the band announced on Twitter via its fan site Thursday. BTS isn't the only group to cancel upcoming performances, with more than 83,000 confirmed cases of the CO\u2026 [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Finance expert explains markets' coronavirus dip",
+            "description": "Panic over a coronavirus outbreak could send the stock market into its worst week since the 2008 financial crisis. The Dow Jones industrial average saw its worst one-day point drop in history on Thursday as it lost an entire year\u2019s worth of gains over the cou\u2026",
+            "url": "https://www.cbsnews.com/video/finance-expert-explains-markets-coronavirus-dip/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/8d829f0c-4d5d-4bf4-b008-8932fc713d22/thumbnail/1200x630/dee8f94784ea2625184795014097e4f4/0228-ctm-coronviruseconomy-schlesinger-2036836-640x360.jpg",
+            "publishedAt": "2020-02-28T13:18:56Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "HHS watchdog to review agency's coronavirus response",
+            "description": "The decision comes as the Trump administration's response to the virus is under scrutiny.",
+            "url": "https://www.cbsnews.com/news/coronavirus-health-human-services-inspector-general-response/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/637a1a45-5c39-44b2-984c-0d056b4918db/thumbnail/1200x630/e2447973dfdb28522c0b6183cc1e095f/gettyimages-1203531103.jpg",
+            "publishedAt": "2020-02-28T16:08:08Z",
+            "content": "The Health and Human Services' Office of Inspector General will conduct a comprehensive review of the agency's coronavirus response efforts, CBS News reports.\u00a0\r\nThe news comes after an HHS official filed a complaint alleging U.S. workers aided coronavirus eva\u2026 [+1533 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "CBS suspends \"The Amazing Race\" amid coronavirus fears",
+            "description": "Contestants are being sent home from Scotland immediately as the coronavirus outbreak spreads around the world.",
+            "url": "https://www.cbsnews.com/news/cbs-suspends-filming-the-amazing-race-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/cf388890-4f43-4f41-baeb-37ac33762293/thumbnail/1200x630/274b651c25922383e90bd946ca72b440/ar3111-phil-still3-london.jpg",
+            "publishedAt": "2020-02-28T21:20:55Z",
+            "content": "As the new coronavirus continues its spread around the globe, CBS has shut down production of Season 33 of \"The Amazing Race.\" The cautionary shutdown is temporary, but it's unclear when filming will resume.\u00a0\r\n\"Due to increased concerns and uncertainty regard\u2026 [+2062 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "2/27/20: Red and Blue",
+            "description": "World grappling with coronavirus response; The House honors late Rep. Elijah Cummings.",
+            "url": "https://www.cbsnews.com/video/22720-red-and-blue/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/79fb9747-7565-419f-abef-d4cad5ca6814/thumbnail/1200x630/3d6d51c923e133e1cb3be4020ea288af/rnb-full-2036648-640x360.jpg",
+            "publishedAt": "2020-02-28T01:08:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How coronavirus spreads and what you can do to prevent it",
+            "description": "Health officials have warned that it's not a question of if, but when the coronavirus will spread in the U.S. The World Health Organization says the virus has reached a \"decisive point\" and has \"pandemic potential.\" Dr. James Hamblin, who has written an artic\u2026",
+            "url": "https://www.cbsnews.com/video/how-coronavirus-spreads-and-what-you-can-do-to-prevent-it/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/0e97ee19-09f0-4460-98f4-dccac06899f4/thumbnail/1200x630/e9ee56ede2d397c452ddaa6f6db29701/0228-cbsncoronavirusoubreak-hamblin-2037216-640x360.jpg",
+            "publishedAt": "2020-02-28T18:02:57Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. stock market drops amid coronavirus fears",
+            "description": "As Coronavirus cases spread throughout the world, the fear and uncertainty is taking a drastic toll on the financial markets. Meg Oliver reports.",
+            "url": "https://www.cbsnews.com/video/us-stock-market-drops-amid-coronavirus-fears/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/f950eb04-5d00-40fc-88f4-42aff3dc65fd/thumbnail/1200x630/303d727b3178d829ad6a69951e8a2106/0227-en-coronawallstreet-oliver-2036552-640x360.jpg",
+            "publishedAt": "2020-02-28T00:40:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Cara Korte",
+            "title": "Sanders and Bloomberg slam Trump over coronavirus",
+            "description": "This was the first time Sanders has mentioned coronavirus on the campaign trail. Bloomberg questioned the choice of Pence to lead the response.",
+            "url": "https://www.cbsnews.com/news/bernie-sanders-and-mike-bloomberg-slam-trump-over-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/9212f857-1c70-4a05-8083-0d4b740d8976/thumbnail/1200x630/d8ee8f095f2e0dfd763ec8a4d6ad8656/gettyimages-1204058707.jpg",
+            "publishedAt": "2020-02-28T23:16:55Z",
+            "content": "Bernie Sanders is shaming President Trump Friday for rallying in South Carolina on the eve of the Democratic primary, rather than addressing the burgeoning crisis caused by coronavirus.\r\n\"Everybody knows there is a coronavirus spreading all over the world,\" S\u2026 [+2255 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "California monitoring 8,400 people for coronavirus",
+            "description": "California is currently monitoring 8,400 people for the coronavirus as doctors try and work out how a woman in the state contracted the illness without any connection to a likely origin. Multiple health care personnel who were exposed to the patient in the da\u2026",
+            "url": "https://www.cbsnews.com/video/california-monitoring-8400-people-for-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/74e56403-f740-4b8d-a44a-451ac3b02156/thumbnail/1200x630/3fae7c3b533bbdb64d5b3340b29b3e3d/0228-ctm-coronaviruslatest-evans-2036756-640x360.jpg",
+            "publishedAt": "2020-02-28T12:40:11Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Mike Pompeo faces skeptical lawmakers about coronavirus response",
+            "description": "The secretary of state testified that he was \"confident\" the administration has taken actions that have \"significantly reduced risk.\"",
+            "url": "https://www.cbsnews.com/news/mike-pompeo-testifies-before-house-foreign-affairs-committee-coronavirus-2020-02-28/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/82ff8d43-46e5-4183-8816-e29f8696f73e/thumbnail/1200x630g2/9a2839627d47bb009d8b189733db33de/gettyimages-1209277444.jpg",
+            "publishedAt": "2020-02-28T16:27:38Z",
+            "content": "Secretary of State Mike Pompeo faced questions from lawmakers skeptical about the administration's response to the coronavirus threat in a hearing before the House Foreign Affairs Committee. The hearing was ostensibly about the strike that killed Iranian mili\u2026 [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kate Gibson",
+            "title": "Because of coronavirus, some people aren't drinking Corona beer",
+            "description": "While the illness has nothing to do with the beer, poll suggests the suds brand could suffer from public misperception.",
+            "url": "https://www.cbsnews.com/news/cornavirus-corona-beer-they-have-nothing-to-do-with-each-other/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/94cb424d-c673-4588-9d29-52158f5dbecf/thumbnail/1200x630/aa374f30723217baf76b2fa8fd1437c3/143457-con-corona-homepage-bannerupdates-4.jpg",
+            "publishedAt": "2020-02-28T19:24:03Z",
+            "content": "Amid the ongoing havoc being wrought on people and industries by the coronavirus, Corona beer stands out as one unlikely casualty.\r\nAs the toll from the fast-moving and deadly virus expands around the globe, the Mexican beer is drawing attention on social med\u2026 [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Stephen Gandel",
+            "title": "Wall Street thinks coronavirus meltdown could get worse",
+            "description": "The contagion's rapid spread exposes a flaw in U.S. stock prices, and investors are running for cover.",
+            "url": "https://www.cbsnews.com/news/coronavirus-wall-street-stocks-could-get-worse/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/25/5890e4a8-1a67-4695-806f-724e4492c67c/thumbnail/1200x630/fcebb1c31d443a7804380523ac5b3a5e/gettyimages-1203051259.jpg",
+            "publishedAt": "2020-02-28T12:56:12Z",
+            "content": "Now that the market has fallen nearly 14% in roughly a week \u2014 putting U.S. stocks into a correction for the first time since late 2018 \u2014 what happens next is less clear, even by Wall Street's famously foggy standards.\r\nJust a few weeks ago, most\u00a0Wall Street s\u2026 [+5873 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Irina Ivanova",
+            "title": "As coronavirus spreads, here's what's been canceled or closed",
+            "description": "Geneva Auto Show is the latest mass gathering to be called off as governments try to stem the spread of disease.",
+            "url": "https://www.cbsnews.com/news/coronavirus-fears-lead-to-mass-cancellations-and-closures/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/ebf09a3a-c3b1-4446-9543-5a2897322b0c/thumbnail/1200x630/79841b1e6a559d01b33fce625089a6ba/coronavirus-2020-02-28t125421z-710675402-rc2l9f9pbp1a-rtrmadp-3-china-health.jpg",
+            "publishedAt": "2020-02-28T19:43:35Z",
+            "content": "The global coronavirus continues to spread, already sickening more than 83,000 people and killing more than 2,800. In the U.S., at least 60 people were being treated for COVID-19, and a case in California has led the Centers for Disease Control to warn the U.\u2026 [+3643 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Coronavirus causes first U.S. drug shortage, FDA says",
+            "description": "Antibiotics and anesthetics especially at risk, agency warns, as up to 90% of their ingredients come from China.",
+            "url": "https://www.cbsnews.com/news/coronavirus-human-drug-shortage-food-drug-administration/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/19/3318304e-e646-4554-8342-203822a22a05/thumbnail/1200x630/710784242dbae21c2181db10d50612a4/screen-shot-2020-02-19-at-5-16-59-pm.png",
+            "publishedAt": "2020-02-28T16:30:43Z",
+            "content": "The U.S. Food and Drug Administration is warning of shortages of at least one drug as the spread of the coronavirus\u00a0disrupts the pharmaceutical industry's global supply chain.\u00a0\r\nThe agency on Thursday said that, for the first time since the outbreak, a drugma\u2026 [+8242 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Elizabeth Elkind",
+            "title": "Coronavirus quarantines in U.S. appear inevitable, doctor says",
+            "description": "Agus said that making preparations would be simple, such as asking companies what their work from home policy would be, and being aware that children in the household may have to take school from home.",
+            "url": "https://www.cbsnews.com/news/coronavirus-quarantines-in-us-likely-doctor-says/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/988d501c-0693-4dcf-a0d4-bf55f38888ca/thumbnail/1200x630/acf21f113ccff0fcfd3ac652384bf72d/0228-ctm-coronvirusmed-agus-2036798-640x360.jpg",
+            "publishedAt": "2020-02-28T16:53:37Z",
+            "content": "Amid fears of a coronavirus outbreak, one doctor suggested that Americans worried about quarantines should begin preparing. CBS News medical consultant Dr. David Agus predicted the question would be \"not if but when and where\" quarantines will be occurring du\u2026 [+1502 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "How companies in the U.S. should prepare for the coronavirus",
+            "description": "Experts say the spread of the disease could lead to an unprecedented work-from-home experiment in America.",
+            "url": "https://www.cbsnews.com/news/coronavirus-us-business-preparation-work-from-home/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/80aaf40b-e838-483c-a160-73e9be83e4fd/thumbnail/1200x630/68bf16e08d8db876b648c860764bea46/gettyimages-1144539387.jpg",
+            "publishedAt": "2020-02-28T21:18:12Z",
+            "content": "The Centers for Disease Control and Prevention this week called on Americans to start preparing for a potential coronavirus outbreak in the U.S., raising questions about what measures employers large and small may need to deploy to protect their workers while\u2026 [+6975 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Doctor warns of likely coronavirus quarantines in U.S.",
+            "description": "As the federal government scrambles to roll out preparations to attempt to contain the coronavirus, the stock market plummeted over fears of how the disease is affecting trade. Across the country, people are preparing for the CDC\u2019s warning of a possibly sever\u2026",
+            "url": "https://www.cbsnews.com/video/doctor-warns-of-likely-coronavirus-quarantines-in-us/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/988d501c-0693-4dcf-a0d4-bf55f38888ca/thumbnail/1200x630/acf21f113ccff0fcfd3ac652384bf72d/0228-ctm-coronvirusmed-agus-2036798-640x360.jpg",
+            "publishedAt": "2020-02-28T13:13:14Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus reaches 50 countries, including 1st in sub-Saharan Africa",
+            "description": "With the death toll from the COVID-19 disease nearing 3,000, global health officials say no country can hope to be spared, and all must be ready to combat domestic outbreaks.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-infections-latest-news-updates-2020-02-28/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/16a28274-fbab-4985-8066-4f2ba0621177/thumbnail/1200x630/e854cfcfbebe13bbb75d0d6bde47991c/nigeria-coronavirus-1196865608.jpg",
+            "publishedAt": "2020-02-28T10:32:08Z",
+            "content": "The new coronavirus continued to spread apace Friday, disrupting plans for everything from major sports tournaments and concerts to planned U.S. military exercises. The global death toll was over 2,800 and the disease made its first worrying appearance in sub\u2026 [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Cancel that flight? Here are your rights with coronavirus",
+            "description": "Americans are weighing their travel plans amid the outbreak. Here's what you need to know about insurance and planning.",
+            "url": "https://www.cbsnews.com/news/coronavirus-flight-cancel-travel-insurance-consumer-rights/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/26/db4a41a1-2f2b-4277-a23e-98c15b676f51/thumbnail/1200x630g4/58dd0e118a60c4dfea6709146a41b425/ap-20055226221212.jpg",
+            "publishedAt": "2020-02-28T21:47:16Z",
+            "content": "Americans are considering their travel plans as the coronavirus spreads across the globe, with the World Health Organization on Friday upgrading the global risk from the disease to \"very high.\"\u00a0Travelers are weighing what happens if they decide to cancel flig\u2026 [+4193 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: Global markets dive amid coronavirus panic",
+            "description": "Stock markets around the world take a nosedive as governments scramble to take urgent steps to contain the spread of the coronavirus. Also, 33 Turkish soldiers were killed in an Assad air raid in Idlib, the last Syrian province held by opposition forces. All \u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-global-markets-dive-amid-coronavirus-panic/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/62b31d2b-ca2c-4cd3-8974-476d286ed3f1/thumbnail/1200x630/6fee7cc39be94253f25748db1ab49d8d/0228-ctm-7ameyeopener-2036743-640x360.jpg",
+            "publishedAt": "2020-02-28T12:17:15Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Schools nationwide trying to stay ahead of any coronavirus arrival",
+            "description": "Online lessons being prepared, trips overseas being scrapped, \"perfect attendance\" awards even being rethought",
+            "url": "https://www.cbsnews.com/news/coronavirus-arrival-schools-nationwide-trying-to-stay-ahead/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/37387ead-4cae-4b83-9cf1-fc8035e1faff/thumbnail/1200x630/feab91efe4d1b14cd10656ef470dda75/bothell-high-school.jpg",
+            "publishedAt": "2020-02-28T11:47:49Z",
+            "content": "Schools across the United States are canceling trips abroad, preparing online lessons and even rethinking \"perfect attendance\" awards as they brace for the possibility that the new coronavirus could begin spreading in their communities.Districts have been rus\u2026 [+7006 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kate Gibson",
+            "title": "Demand for hand sanitizers is up 1,400% amid coronavirus",
+            "description": "The makers of popular household cleaning products such as Lysol and Clorox are stepping up production.",
+            "url": "https://www.cbsnews.com/news/coronavirus-stokes-demand-for-household-cleaners-disinfectants-lysol-clorox-purell-sanitizers/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/e7311e53-79f5-4a0c-a547-19b812128b10/thumbnail/1200x630/47d56cb6958f3e13c2fbac983b652838/gettyimages-951997036.jpg",
+            "publishedAt": "2020-02-28T21:34:00Z",
+            "content": "Makers of household cleaning supplies like Lysol wipes and hand sanitizers such as Purell are ramping up production due to the rapid spread of the coronavirus. According to market researchers at Adobe Analytics, demand for hand sanitizers spiked 1,400% from D\u2026 [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Watch live: Trump holds rally in South Carolina ahead of Democratic primary",
+            "description": "The South Carolina Democratic primary is taking place on Saturday.",
+            "url": "https://www.cbsnews.com/news/trump-rally-north-charleston-today-2020-campaign-coliseum-performing-arts-center-live-stream-updates-2020-02-28/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/25/2ea169c2-51aa-4632-96c8-7e7d5fa85f62/thumbnail/1200x630/92dbead679a122ffc5eccae070629f0b/rts33j8b.jpg",
+            "publishedAt": "2020-02-28T14:23:21Z",
+            "content": "President Trump is holding a rally in South Carolina Friday, the night before Democratic voters participate in the state's primary.\u00a0\r\nThe rally comes amid growing concerns about the new coronavirus. The president announced this week that Vice President Mike P\u2026 [+527 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "What you need to know as coronavirus outbreak reaches \"decisive point\"",
+            "description": "Many people are still unsure what exactly they should do to protect themselves from the coronavirus outbreak and how concerned they should be about the situation. CBS News medical contributor Dr. David Agus joined CBSN to help us understand the latest develop\u2026",
+            "url": "https://www.cbsnews.com/video/what-you-need-to-know-as-coronavirus-outbreak-reaches-decisive-point/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/cb4f5ede-beac-4fcc-a76a-be719dc5fdd8/thumbnail/1200x630/010189f9ccb5d0ab64e1c632052092bc/0228-cbsn-whcoronavirusresponse-nsqnsr-2037033-640x360.jpg",
+            "publishedAt": "2020-02-28T16:57:18Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "New South Carolina poll shows Biden with favorable lead",
+            "description": "A new poll shows Joe Biden with a commanding lead in South Carolina with 36% support, 20% above national front-runner Bernie Sanders. As the primary candidates make their last minute pitches for support, they are taking jabs at each other with questions of el\u2026",
+            "url": "https://www.cbsnews.com/video/new-south-carolina-poll-shows-biden-with-favorable-lead/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/8f89c1c5-2492-4c5d-95e1-4bf5d6612140/thumbnail/1200x630/bb4b5bc7990508b3ae90ec568dde69b8/0228-ctm-scprimary-okeefe-2036792-640x360.jpg",
+            "publishedAt": "2020-02-28T12:46:32Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS Radio News",
+            "title": "WORLD NEWS ROUNDUP: 02/28",
+            "description": "Wall Street set for more losses over coronavirus. A final push before tomorrow's South Carolina primary. A Harvey Weinstein juror speaks out. CBS News Correspondent Steve Kathan has today's World News Roundup.",
+            "url": "http://feeds.cbsnews.com/~r/podcast_icast_1/~3/0PxuH3ok9uQ/2746717.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Conant",
+            "title": "2020 Daily Trail Markers: South Carolina Dems say \"we don't know her\" about Klobuchar",
+            "description": "\"I know you\" may be one of Klobuchar's signature lines, but a number of South Carolinians aren't feeling the same way about her in the runup to the state's primary on Saturday.",
+            "url": "https://www.cbsnews.com/news/2020-daily-trail-markers-south-carolina-dems-say-we-dont-know-her-about-klobuchar-2020-02-27/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg",
+            "publishedAt": "2020-02-28T01:13:02Z",
+            "content": "When\u00a0Amy Klobuchar\u00a0took the stage at the\u00a0South Carolina\u00a0Democratic Party's \"First in the South Dinner\" Monday evening, it was just her ninth time in the state since launching her presidential campaign more than a year ago.\u00a0CBS News campaign reporter LaCrai Mi\u2026 [+16029 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jason Silverstein",
+            "title": "A checkup on Mike Pence's public health record",
+            "description": "Pence has espoused false beliefs that are disproven with data easily found on U.S. government webpages.",
+            "url": "https://www.cbsnews.com/news/coronavirus-mike-pence-science-smoking-hiv-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/10/24/6fa4308b-b45f-42ae-a059-29b84f9264d7/thumbnail/1200x630/a7dfae40c4c09c717a9d25baf1f9ab46/gettyimages-1176382353.jpg",
+            "publishedAt": "2020-02-28T23:30:53Z",
+            "content": "When President Trump announced Wednesday that Vice President Mike Pence will lead the administration's\u00a0response to the coronavirus, he said Pence \"has a talent for this.\"\r\nBut some public health experts have\u00a0raised alarms not only about Pence's lack of medica\u2026 [+4957 chars]"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "How the Wuhan coronavirus spreads and what\u2019s being done about it",
+            "description": "On Thursday the World Health Organization declared the Wuhan coronavirus a global health emergency. Here's what you need to know.",
+            "url": "https://fortune.com/2020/01/30/wuhan-coronavirus-transmission/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/Wuhan-Coronavirus-transmission-e1580419172594.jpg?resize=1200,600",
+            "publishedAt": "2020-01-30T22:00:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Global companies enter lockdown mode as coronavirus outbreak rocks China",
+            "description": "Corporations are responding to the spread of coronavirus by placing restrictions and outright bans on employee travel to China, indefinitely closing offices in China, and telling employees to work from home.",
+            "url": "https://fortune.com/2020/01/30/coronavirus-companies-china-close-offices-ban-employee-travel/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/Coronavirus-China-Ikea.jpg?resize=1200,600",
+            "publishedAt": "2020-01-30T16:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "\u2018It\u2019s survival of the fittest:\u2019 Qantas CEO says coronavirus could drive Asian airlines out of business",
+            "description": "Budget carriers, which rely heavily on leisure travel demand, have been hit the hardest from the travel restrictions. Of those that have announced flight suspensions, half of them are low-cost carriers.",
+            "url": "https://fortune.com/2020/01/30/qantas-ceo-coronavirus-asia-airlines-suspended-flights/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1187745422.jpg?resize=1200,600",
+            "publishedAt": "2020-01-30T12:51:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erik Sherman",
+            "title": "As the coronavirus spreads, these stocks are the most exposed",
+            "description": "Companies like United and Starbucks have taken the biggest hits so far, but there is plenty of pain to go around.",
+            "url": "https://fortune.com/2020/01/29/coronavirus-stock-market-exposed-companies-sars/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1197380006.jpg?resize=1200,600",
+            "publishedAt": "2020-01-30T00:00:00Z",
+            "content": null
+        }
+    ]
+}

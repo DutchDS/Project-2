@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAKE KANG Associated Press",
+            "title": "The shunned: People from virus-hit city tracked, quarantined",
+            "description": "As China institutes the largest quarantine in history, people who have recently been to Wuhan are being tracked, monitored, turned away from hotels and shoved into isolation at their homes and in makeshift quarantine facilities",
+            "url": "https://abcnews.go.com/Health/wireStory/shunned-people-virus-hit-city-tracked-quarantined-68680740",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_d791a8929a4a48e6a458ec392f8f76fe_16x9_992.jpg",
+            "publishedAt": "2020-01-31T23:34:57Z",
+            "content": "BEIJING -- \r\nMeron Mei, a sophomore at Wuhan University in the Chinese city at the heart of a viral outbreak, went back to his home village and started to cough.\r\nSo he went to the hospital and got checked. Doctors determined it was a common cold, not the new\u2026 [+8282 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BEATRICE DUPUY Associated Press",
+            "title": "Medical professionals battle virus misinformation online",
+            "description": "As medical professionals around the world grapple with combating the new virus spreading from China, some have turned to social media to fight the onslaught of misinformation surrounding it",
+            "url": "https://abcnews.go.com/US/wireStory/medical-professionals-battle-virus-misinformation-online-68680284",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_7cd7b4967d614c3d89ed4a04f86f4bd4_16x9_992.jpg",
+            "publishedAt": "2020-01-31T23:07:17Z",
+            "content": "Dr. Rose Marie Leslie, a family physician at the University of Minnesota, is fighting misleading and false information around a virus outbreak with the very tool used to spread much of it: social media.\r\nLeslie turned to TikTok, a platform popular with teens,\u2026 [+5018 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Facebook, Twitter and Google take steps to stop spread of coronavirus conspiracy theories",
+            "description": "As the novel coronavirus spreads, so has a slew of online misinformation and conspiracy theories about the mysterious illness.",
+            "url": "https://abcnews.go.com/Technology/facebook-twitter-google-steps-stop-spread-coronavirus-conspiracy/story?id=68665933",
+            "urlToImage": "https://s.abcnews.com/images/Business/coronavirus-mobile-sh-ps-200131_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-01-31T18:32:35Z",
+            "content": "As the coronavirus spreads, so has a slew of online misinformation, conspiracy theories and fear about the mysterious illness that was declared a global health emergency by the World Health Organization this week.\r\nA handful of social media giants, which have\u2026 [+1963 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Erin Schumaker",
+            "title": "Delta suspends all US flights to China amid coronavirus",
+            "description": "Delta Airlines suspended all of its flights to China, as coronavirus cases in China top 9,600.",
+            "url": "https://abcnews.go.com/Health/delta-suspends-us-flights-china-amid-coronavirus/story?id=68666037",
+            "urlToImage": "https://s.abcnews.com/images/Health/delta-plane-ap-ps-200131_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-01-31T15:51:34Z",
+            "content": "Delta Airlines suspended all of its flights to China as coronavirus cases in the country top 9,600.\r\nThe airline will temporarily suspend flights starting Feb. 6 through April 30, due to \"ongoing concerns related to the coronavirus,\" the company said in a sta\u2026 [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Facebook working to provide helpful coronavirus information",
+            "description": "Facebook says it's working to help limit the spread of misinformation and harmful content about the coronavirus and will focus on providing helpful information to people",
+            "url": "https://abcnews.go.com/Health/wireStory/facebook-working-provide-helpful-coronavirus-information-68665777",
+            "urlToImage": "null",
+            "publishedAt": "2020-01-31T13:59:17Z",
+            "content": "Facebook says it's working to help limit the spread of misinformation and harmful content about the coronavirus and will focus on providing helpful information to people.\r\nKang-Xing Jin, Facebook's head of health, said in a post that the social media platform\u2026 [+611 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "STEPHEN WADE AP Sports Writer",
+            "title": "Tokyo Olympic organizers try to dampen cancellation rumors",
+            "description": "The coronavirus outbreak has lead to rumors the games could be cancelled.",
+            "url": "https://abcnews.go.com/Sports/wireStory/tokyo-olympic-organizers-dampen-cancellation-rumors-68660813",
+            "urlToImage": "https://s.abcnews.com/images/Sports/WireAP_c30565e18fef4aed8cf51883dd99a607_16x9_992.jpg",
+            "publishedAt": "2020-01-31T13:38:08Z",
+            "content": "TOKYO -- \r\nTokyo Olympic organizers are trying to shoot down rumors that this year's 2020 Games might be canceled or postponed because of the spread of a new virus.\r\nJapan has so far reported no deaths from the coronavirus that has killed more than 200 people\u2026 [+2877 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Exxon profit slips in the fourth quarter",
+            "description": "Exxon Mobil's profit slid more than 5% in the fourth quarter, though the country's biggest oil producer put up some strong revenue numbers",
+            "url": "https://abcnews.go.com/Business/wireStory/exxon-profit-slips-fourth-quarter-68664140",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_a5f6c7260dcd424aac651f8fe4a1a1d7_16x9_992.jpg",
+            "publishedAt": "2020-01-31T13:04:36Z",
+            "content": "IRVING, Texas -- \r\nExxon Mobil's profit slid more than 5% in the fourth quarter, though the country's biggest oil producer put up some strong revenue numbers. \r\nExxon Mobil earned $5.69 billion, or $1.33 per share, for the period. A year earlier the Irving, T\u2026 [+1312 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 9,800 globally",
+            "description": "A viral outbreak that began in China has infected more than 9,800 people",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-9800-globally-68662197",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3d9c3912708d4aa3aa8fb015ed05a2d9_16x9_992.jpg",
+            "publishedAt": "2020-01-31T11:52:01Z",
+            "content": "A viral outbreak that began in China has infected more than 9,800 people globally. \r\nCases confirmed as of Friday evening in Beijing:\r\nChina: 9,692 cases on the mainland. In addition, Hong Kong has 12 cases and Macao has five. Most of the 213 deaths have been\u2026 [+389 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP Business Writer",
+            "title": "Asia shares fall as WHO says China virus a global emergency",
+            "description": "Shares are mostly lower in Asia after the World Health Organization declared the outbreak of a new virus that has spread from China to more than a dozen countries a global emergency",
+            "url": "https://abcnews.go.com/Travel/wireStory/asia-shares-fall-china-virus-global-emergency-68659837",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_d22e7b2a21644058a63a2c5e7cabf8b9_16x9_992.jpg",
+            "publishedAt": "2020-01-31T07:34:04Z",
+            "content": "Shares were mostly lower in Asia on Friday after the World Health Organization declared the outbreak of a new virus that has spread from China to more than a dozen countries a global emergency. \r\nMarkets in mainland China remained closed as the U.S. warned ag\u2026 [+4352 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP Business Writer",
+            "title": "Asia shares fall as WHO says China virus a global emergency",
+            "description": "Shares are mostly lower in Asia after the World Health Organization declared the outbreak of a new virus that has spread from China to more than a dozen countries a global emergency",
+            "url": "https://abcnews.go.com/Business/wireStory/asia-shares-fall-china-virus-global-emergency-68659836",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_d22e7b2a21644058a63a2c5e7cabf8b9_16x9_992.jpg",
+            "publishedAt": "2020-01-31T07:33:49Z",
+            "content": "Shares were mostly lower in Asia on Friday after the World Health Organization declared the outbreak of a new virus that has spread from China to more than a dozen countries a global emergency. \r\nMarkets in mainland China remained closed as the U.S. warned ag\u2026 [+4352 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "American evacuated from China still wary of deadly virus",
+            "description": "A U.S. citizen evacuated from China because of a deadly viral outbreak says he's taking special precautions while staying at a California airbase",
+            "url": "https://abcnews.go.com/Health/wireStory/american-evacuated-china-wary-deadly-virus-68658460",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_86f582e3872c4751adb2b4ea0a8e1e21_16x9_992.jpg",
+            "publishedAt": "2020-01-31T06:04:34Z",
+            "content": "RIVERSIDE, Calif. -- \r\nJarred Evans, a professional football player in China, is used to wearing safety gear: a helmet and shoulder pads. But in the wake of a deadly viral outbreak, he's switched to a mask and medical gloves.\r\nWhen you're dealing with life an\u2026 [+5491 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Japan urges citizens not to travel to China because of virus",
+            "description": "The Japanese Foreign Ministry is urging its citizens not to travel to China because of the possibility of the further spread of a new virus",
+            "url": "https://abcnews.go.com/Health/wireStory/japan-urges-citizens-travel-china-virus-68658322",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_8bbd321c694941218305f4ca71e39f5d_16x9_992.jpg",
+            "publishedAt": "2020-01-31T05:55:03Z",
+            "content": "TOKYO -- \r\nThe Japanese Foreign Ministry is urging its citizens not to travel to China because of the possibility of the further spread of a new virus. \r\nJapan had previously warned people not to travel to the epicenter of the virus in Wuhan in China. \r\nOffic\u2026 [+249 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CATHY BUSSEWITZ, JOSEPH PISANI and RACHEL LERMAN AP Business Writers",
+            "title": "Fever alarms, paranoia as masked passengers fly from China",
+            "description": "Airline passengers making their way to and from China are navigating an eerie scene as officials around the globe work to contain the fast-spreading coronavirus",
+            "url": "https://abcnews.go.com/Business/wireStory/fever-alarms-paranoia-masked-passengers-fly-china-68658019",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_1a46c5b4a0aa41158a3ea2483c55b913_16x9_992.jpg",
+            "publishedAt": "2020-01-31T05:30:00Z",
+            "content": "NEW YORK -- \r\nIn Bangladesh's biggest airport, workers held up digital thermometers to passengers' heads. A beeping alarm sounded as a passenger walking through a thermal scanner registered a fever. \r\nOn a plane ride from Shanghai to New York, nobody spoke fo\u2026 [+5167 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CATHY BUSSEWITZ, JOSEPH PISANI and RACHEL LERMAN AP Business Writers",
+            "title": "Fever alarms, paranoia as masked passengers fly from China",
+            "description": "Airline passengers making their way to and from China are navigating an eerie scene as officials around the globe work to contain the fast-spreading coronavirus",
+            "url": "https://abcnews.go.com/US/wireStory/fever-alarms-paranoia-masked-passengers-fly-china-68657845",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_c7b76871ae30477aa968387aa936a433_16x9_992.jpg",
+            "publishedAt": "2020-01-31T05:03:21Z",
+            "content": "NEW YORK -- \r\nIn Bangladesh's biggest airport, workers held up digital thermometers to passengers' heads. A beeping alarm sounded as a passenger walking through a thermal scanner registered a fever. \r\nOn a plane ride from Shanghai to New York, nobody spoke fo\u2026 [+5167 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KIM TONG-HYUNG Associated Press",
+            "title": "N Korea delays removal of S Korean facilities over outbreak",
+            "description": "North Korea has postponed plans to tear down South Korean-made hotels and other facilities at the North\u2019s Diamond Mountain resort to prevent the spread of a new virus that has reached the South after sickening thousands in China",
+            "url": "https://abcnews.go.com/Travel/wireStory/korea-delays-removal-korean-facilities-outbreak-68657395",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_2e56459838b1483aa322aadf4be166ed_16x9_992.jpg",
+            "publishedAt": "2020-01-31T04:08:18Z",
+            "content": "SEOUL, South Korea -- \r\nNorth Korea has postponed plans to tear down South Korean-made hotels and other facilities at the Norths Diamond Mountain resort to prevent the spread of a new virus that has reached the South after sickening thousands in China.\r\nThe N\u2026 [+3516 chars]"
+        }
+    ]
+}

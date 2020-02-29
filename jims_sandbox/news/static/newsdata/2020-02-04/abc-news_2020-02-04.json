@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "American Airlines suspends flights to Hong Kong due to virus",
+            "description": "American Airlines is suspending flights to Hong Kong as the coronavirus outbreak undercuts demand for travel to mainland China and Hong Kong",
+            "url": "https://abcnews.go.com/US/wireStory/american-airlines-suspends-flights-hong-kong-due-virus-68759109",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-04T23:30:32Z",
+            "content": "American Airlines said Tuesday it has suspended flights to Hong Kong through Feb. 20 due to weak demand.\r\nInterest in travel to Hong Kong was already weakened by months of anti-government protests in the city, and has fallen off more recently as the coronavir\u2026 [+611 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAUL WISEMAN and ANNE D'INNOCENZIO AP Business Writers",
+            "title": "Hyundai halts Korea output as China outbreak fallout spreads",
+            "description": "Hyundai Motors is suspending production in South Korea, a sign that the economic fallout from China's viral outbreak is spreading",
+            "url": "https://abcnews.go.com/Business/wireStory/hyundai-halts-korea-output-china-outbreak-fallout-spreads-68756460",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_44c02e1d79a34ca9a911b456862c2fa3_16x9_992.jpg",
+            "publishedAt": "2020-02-04T21:35:37Z",
+            "content": "WASHINGTON -- \r\nHyundai Motors is suspending production in South Korea, a sign that the economic fallout from China's viral outbreak is spreading.\r\nFor other companies bracing for losses from coronavirus, the damage has so far been delayed, thanks to a stroke\u2026 [+7181 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAUL WISEMAN and ANNE D'INNOCENZIO AP Business Writers",
+            "title": "Hyundai halts Korea output as China outbreak fallout spreads",
+            "description": "Hyundai Motors is suspending production in South Korea, a sign that the economic fallout from China's viral outbreak is spreading",
+            "url": "https://abcnews.go.com/Travel/wireStory/hyundai-halts-korea-output-china-outbreak-fallout-spreads-68756458",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_44c02e1d79a34ca9a911b456862c2fa3_16x9_992.jpg",
+            "publishedAt": "2020-02-04T21:35:03Z",
+            "content": "WASHINGTON -- \r\nHyundai Motors is suspending production in South Korea, a sign that the economic fallout from China's viral outbreak is spreading.\r\nFor other companies bracing for losses from coronavirus, the damage has so far been delayed, thanks to a stroke\u2026 [+7181 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE AP Medical Writer",
+            "title": "In virus outbreak, fretting over a name that might go viral",
+            "description": "Health officials hope to avoid stigma and error in naming the virus behind the outbreak of respiratory illnesses that started in China late last year",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-outbreak-fretting-viral-68753738",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c0298e1fec074921837f390ba4e9d5dd_16x9_992.jpg",
+            "publishedAt": "2020-02-04T19:18:16Z",
+            "content": "NEW YORK -- \r\nWest Nile virus, Lyme disease, Ebola virus. \r\nAnd now: 2019 nCoV?\r\nJust rolls off the tongue, doesn't it? said Trevor Hoppe, a researcher at the University of North Carolina at Greensboro, who has studied the history of disease names.\r\nThe name,\u2026 [+3091 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Abu Dhabi's long-troubled Etihad sells 38 planes for $1B",
+            "description": "Abu Dhabi's long-troubled Etihad Airways says it is selling 38 aircraft to an investment firm and a leasing company in a deal valued at $1 billion",
+            "url": "https://abcnews.go.com/Business/wireStory/abu-dhabis-long-troubled-etihad-sells-38-planes-68752763",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_51e60d629969482090d465e923dc2e40_16x9_992.jpg",
+            "publishedAt": "2020-02-04T18:34:50Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nAbu Dhabi's long-troubled Etihad Airways said Tuesday it would sell 38 aircraft to an investment firm and a leasing company in a deal valued at $1 billion, the latest cost-cutting measure by the United Arab Emirates' national \u2026 [+2884 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Air China seeks to pare US routes due to virus outbreak",
+            "description": "Air China wants to reduce flights to the U.S. and operate flights between two pairs of American cities \u2014 that's unusual for a foreign airline",
+            "url": "https://abcnews.go.com/Business/wireStory/air-china-seeks-pare-us-routes-due-virus-68752762",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-04T18:34:17Z",
+            "content": "WASHINGTON -- \r\nAir China is seeking to reduce flights to the United States and offer unusual legs between U.S. cities because of a drop-off in travel and new restrictions on people entering the U.S. from China due to the coronavirus outbreak. \r\nThe state-own\u2026 [+1562 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Air China seeks to pare US routes due to virus outbreak",
+            "description": "Air China wants to reduce flights to the U.S. and operate flights between two pairs of American cities \u2014 that's unusual for a foreign airline",
+            "url": "https://abcnews.go.com/US/wireStory/air-china-seeks-pare-us-routes-due-virus-68752712",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-04T18:34:02Z",
+            "content": "WASHINGTON -- \r\nAir China is seeking to reduce flights to the United States and offer unusual legs between U.S. cities because of a drop-off in travel and new restrictions on people entering the U.S. from China due to the coronavirus outbreak. \r\nThe state-own\u2026 [+1562 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Erin Schumaker",
+            "title": "'Currently we are not in a pandemic' because of coronavirus: WHO",
+            "description": "'Currently we are not in a pandemic' because of coronavirus: WHO go.com",
+            "url": "https://abcnews.go.com/Health/pandemic-coronavirus/story?id=68746843",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-1-rt-er-200204_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-04T17:06:30Z",
+            "content": "A 39-year-old man in Hong Kong has died of the coronavirus, marking the second death outside of China from the novel disease.\r\nIn China, deaths rose to 425 and coronavirus cases reached 20,438.\r\nOn Monday, in a surprising admission from China's top leadership\u2026 [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MICHELLE CHAPMAN AP Business Writer",
+            "title": "Royal Caribbean takes steps to contend with virus outbreak",
+            "description": "Royal Caribbean has canceled eight cruises out of China through early March and is taking more precautionary steps because of the virus outbreak that began in China",
+            "url": "https://abcnews.go.com/Business/wireStory/royal-caribbean-takes-steps-contend-virus-outbreak-68750613",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_a5aaa69113e94079bf9b6deffa26a10c_16x9_992.jpg",
+            "publishedAt": "2020-02-04T16:33:31Z",
+            "content": "Royal Caribbean has canceled eight cruises out of China through early March and is taking more precautionary steps because of the virus outbreak that began in China. \r\nThe number of cancellations at the cruise line is up from just three last week, as is the d\u2026 [+2908 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MICHELLE CHAPMAN AP Business Writer",
+            "title": "Royal Caribbean takes steps to contend with virus outbreak",
+            "description": "Royal Caribbean has canceled eight cruises out of China through early March and is taking more precautionary steps because of the virus outbreak that began in China",
+            "url": "https://abcnews.go.com/Travel/wireStory/royal-caribbean-takes-steps-contend-virus-outbreak-68750608",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_a5aaa69113e94079bf9b6deffa26a10c_16x9_992.jpg",
+            "publishedAt": "2020-02-04T16:29:40Z",
+            "content": "Royal Caribbean has canceled eight cruises out of China through early March and is taking more precautionary steps because of the virus outbreak that began in China. \r\nThe number of cancellations at the cruise line is up from just three last week, as is the d\u2026 [+2908 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANNE D'INNOCENZIO AP Retail Writer",
+            "title": "Ralph Lauren, seeing more price stability, roars in 3Q",
+            "description": "Ralph Lauren is reporting a big third quarter, beating Wall Street expectations for both profits and revenue",
+            "url": "https://abcnews.go.com/Business/wireStory/ralph-lauren-price-stability-roars-3q-68749464",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_73e26fb39dec4c62a1fb6ea7d01e4112_16x9_992.jpg",
+            "publishedAt": "2020-02-04T16:06:13Z",
+            "content": "NEW YORK -- \r\nProfits at Ralph Lauren soared in the third quarter and the high-end retailer topped almost all expectations on Wall Street by any metric. \r\nProfit jumped from $120 million in the same period last year, to $334.1 million, with more customers buy\u2026 [+3706 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "UK urges citizens in China to leave; Belgium sees first case",
+            "description": "Britain has urged all of its citizens in China to leave because of the outbreak of the new virus, while Belgium became the latest nation to announce a confirmed case",
+            "url": "https://abcnews.go.com/Health/wireStory/uk-urges-citizens-china-leave-belgium-sees-case-68748058",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_875f9eee66784cdeaadbb928b9007153_16x9_992.jpg",
+            "publishedAt": "2020-02-04T14:57:48Z",
+            "content": "LONDON -- \r\nBritain on Tuesday urged all of its citizens in China to leave because of the virus outbreak, while Belgium became the latest nation to announce a confirmed case.\r\nThe U.K. Foreign Office said in an updated travel advisory that commercial airline \u2026 [+3514 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Beer maker Carlsberg sees 2019 profits rise on strong sales",
+            "description": "Danish brewer Carlsberg says its full-year 2019 net profit rose nearly 24 % on strong beer sales across major markets",
+            "url": "https://abcnews.go.com/International/wireStory/beer-maker-carlsberg-sees-2019-profits-rise-strong-68743799",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-04T11:29:02Z",
+            "content": "COPENHAGEN, Denmark -- \r\nDanish brewer Carlsberg says its 2019 net profit rose nearly 24 % to 6.6 billion kroner ($977 million) on strong beer sales in major markets, but noted it had lost market share in Russian due to tough competition. \r\nThe company said T\u2026 [+728 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kelly Terez, Jon Haworth",
+            "title": "'Start Here': Iowa caucus chaos and impeachment trial closing arguments",
+            "description": "It's Tuesday, Feb. 4, 2020. Here's what you need to know to start your day.",
+            "url": "https://abcnews.go.com/US/start-here-iowa-caucus-chaos-impeachment-trial-closing-arguments/story?id=68723109",
+            "urlToImage": "https://s.abcnews.com/images/US/iowa-caucus-1-ap-aa-200203_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-04T10:41:27Z",
+            "content": "It's Tuesday, Feb. 4, 2020. Let's start here.\r\n1. Iowa 'meltdown'\r\nThere was massive confusion in Iowa last night after what Democratic Party officials termed \"inconsistencies in the reporting of three sets of results issues\" following the state's first-in-th\u2026 [+4897 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: Japan Airlines halts China flights as sales dip",
+            "description": "Japan Airlines says it is canceling some flights to and from China and reducing seats on other flights because of a virus outbreak that has led to a sharp decline in travel demand and growing global travel restrictions",
+            "url": "https://abcnews.go.com/Travel/wireStory/latest-japan-airlines-halts-china-flights-sales-dip-68743119",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_a22accec70d34c168dbbcb2cbb168f50_16x9_992.jpg",
+            "publishedAt": "2020-02-04T09:52:18Z",
+            "content": "BEIJING -- \r\nThe Latest on the outbreak of a new virus from China (all times local):\r\n5:45 p.m.\r\nJapan Airlines says it is canceling some flights to and from China and reducing seats on other flights because of a virus outbreak that has led to a sharp decline\u2026 [+6720 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: Belgium confirms its 1st case of virus",
+            "description": "Belgium has reported its first case of a new virus in a person who was repatriated from the Chinese epicenter of the outbreak",
+            "url": "https://abcnews.go.com/International/wireStory/latest-belgium-confirms-1st-case-virus-68742422",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_a22accec70d34c168dbbcb2cbb168f50_16x9_992.jpg",
+            "publishedAt": "2020-02-04T07:57:04Z",
+            "content": "BEIJING -- \r\nThe Latest on the outbreak of a new virus from China (all times local):\r\n3:45 p.m.\r\nBelgium has reported its first case of a new virus in a person who was repatriated from the Chinese epicenter of the outbreak. \r\nThe health ministry said Tuesday \u2026 [+4783 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 20,600 globally",
+            "description": "A viral outbreak that began in China has infected more than 20,600 people worldwide",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-20600-globally-68741921",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_7f971989a845406eb6de3849e33997ab_16x9_992.jpg",
+            "publishedAt": "2020-02-04T07:23:13Z",
+            "content": "A viral outbreak that began in China has infected more than 20,600 people globally. \r\nThe latest figures as of Tuesday in Beijing:\r\nChina: 425 deaths and 20,438 confirmed cases on the mainland. In addition, Hong Kong has had 15 cases, including one death. Mac\u2026 [+498 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HYUNG-JIN KIM Associated Press",
+            "title": "North Korea making 'all-out efforts' to guard against virus",
+            "description": "North Korea says it is mobilizing 30,000 health workers everyday in its \u201call-out efforts\u201d to guard against the spread of a virus from neighboring China",
+            "url": "https://abcnews.go.com/Health/wireStory/north-korea-making-efforts-guard-virus-68740956",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_4bbfc3c98c9f4c74bd11f10a89025425_16x9_992.jpg",
+            "publishedAt": "2020-02-04T05:33:00Z",
+            "content": "SEOUL, South Korea -- \r\nNorth Korea said Tuesday it was mobilizing 30,000 health workers everyday in its all-out efforts to guard against the spread of a virus from neighboring China.\r\nNorth Korea hasnt reported any case of the new coronavirus, but some exper\u2026 [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KEN MORITSUGU Associated Press",
+            "title": "China's virus cases top 20K as Hong Kong closes most borders",
+            "description": "China says the number of infections from a new virus has surpassed 20,000 as medical workers and patients arrived at a new hospital and President Xi Jinping said \u201cwe have launched a people's war of prevention of the epidemic",
+            "url": "https://abcnews.go.com/Health/wireStory/chinas-virus-cases-top-20k-hong-kong-closes-68734853",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_2f10daed0c834ab09375d9801e0aa953_16x9_992.jpg",
+            "publishedAt": "2020-02-04T01:40:19Z",
+            "content": "BEIJING -- \r\nChina said Tuesday the number of infections from a new virus surpassed 20,000 as medical workers and patients arrived at a new hospital and President Xi Jinping said we have launched a people's war of prevention of the epidemic.\r\nXi presided over\u2026 [+4070 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor, Erin Schumaker",
+            "title": "US plans more coronavirus evacuation flights from China this week",
+            "description": "The coronavirus outbreak has now infected more than 20,000 people globally and has killed at least 425of them, almost all in China.",
+            "url": "https://abcnews.go.com/International/global-death-toll-coronavirus-outbreak-rises-362/story?id=68717349",
+            "urlToImage": "https://s.abcnews.com/images/International/china-hospital-body-temperature-coronavirus-reuter_hpMain_20200203-053018_16x9_992.jpg",
+            "publishedAt": "2020-02-04T01:13:33Z",
+            "content": "Health officials are preparing for the possibility of a pandemic as coronavirus cases in China top 20,000. There are now 425 deaths related to the coronavirus since the outbreak began.\r\nThe United States is planning more flights to evacuate American citizens \u2026 [+6098 chars]"
+        }
+    ]
+}
