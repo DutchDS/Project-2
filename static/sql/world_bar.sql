@@ -7,3 +7,4 @@ select date,
     where country <> 'China' 
     group by date, country
     order by date, country
+
