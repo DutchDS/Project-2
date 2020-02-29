@@ -55,7 +55,6 @@
       </div>
       <br>
   <!-- *********************SECOND ROW*********************************   -->    
-<<<<<<< HEAD
   <div class="row">
     <div class="col-lg-12 col-sm-12">
       <div class="row">
@@ -163,165 +162,12 @@
       </div> 
     </div>
   </div>
-=======
-      <div class="row">
-        <div class="col-lg-12 col-sm-12">
-          <div class="row">
-            <div class="col-lg-12 col-sm-12">
-            <!-- ############################################ -->
-            <!-- ########## INSERT MAP HERE ################# -->
-            <!-- ############################################ -->
-              <div class="card" style="width: 100%">
-                <div class="card-body">
-                  <div id="map"></div>      
-                </div>
-              </div>
-              <br>
-            </div>
-            <div class="col-lg-12 col-sm-12">
-              <div class="card" style="width: 100%">
-                <div class="card-body">
-                  <div>{% for i in china_sum %}
-                    <h4><strong>{{ i[0] }}:</strong>
-                      &nbsp;&nbsp;&nbsp;&nbsp;<strong>Total: </strong>{{ i[1] }}
-                      &nbsp;&nbsp;<strong>Sick: </strong>{{ i[2] }}-({{ i[5] }}%)
-                      &nbsp;&nbsp;<strong>Cured: </strong>{{ i[3] }}-({{ i[6] }}%)
-                      &nbsp;&nbsp;<strong>Dead: </strong>{{ i[4] }}-({{ i[7] }}%)</h4>
-                    {% endfor %}
-                  </div>
-                </div>
-              </div>  
-            </div>
-          </div>
-        </div>
-      </div>
-      <br>
-<!-- *********************THRID ROW*********************************   -->
-      <div class="row">
-        <div class= "col-lg-8 col-sm-12">
-        <!-- ############################################ -->
-        <!-- ########## INSERT BAR CHART ################ -->
-        <!-- ############################################ -->
-          <div class="card" style="width: 100%">
-            <div class="card-body">
-              <div id="bar"></div>  
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-12">
-          <div class="card" style="width: 100%">
-            <div class="card-body">
-              
-        <!-- ############################################ -->
-        <!-- ########## News Facts Here ################# -->
-        <!-- ############################################ -->
-
-                <div id="facts" style="text-align: center"><h5>Top 10 affected Provinces:</h5>  
-                  <br>
-                  <!-- <table border="2" class="dataframe"> -->
-                    <font size="2" line-height=1>
-                      <table class="table table-striped" >
-                    <thead>
-                      <tr style="text-align: left;">
-                        <th><strong>Country</strong></th>
-                        <th><strong>Confirmed</strong></th>
-                        <th><strong>Cured</strong></th>
-                        <th><strong>Dead</strong></th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {% for i in china_facts %}
-                      <tr>
-                        <td style="text-align: left">{{ i[0] }}</td>
-                        <td style="text-align: right">{{ i[2] }}</td>
-                        <td style="text-align: right">{{ i[3] }}</td>
-                        <td style="text-align: right">{{ i[4] }}</td>
-                      </tr>     
-                    {% endfor %}
-                  </tbody>
-                </table>
-                </div>
-            </div>
-          </div>
-          <br>
-        </div>
-      </div>
-      <br>
-<!-- *********************FOURTH ROW*********************************   -->
-      <!-- ############################################ -->
-      <!-- ########## NEWS GOES HERE ################### -->
-      <!-- ############################################ -->
-      <div class="row">
-        <div class= "col-lg-12 col-sm-12">
-          <br>
-          <div class="card" style="width: 100%">
-            <!-- The banner message is modified by the newsrender.js based on the date / news source selection -->
-            <div class="card-header">
-              <h2 id="news-banner" class="text-left">Corona News of the Day</h2>
-            </div>
-
-            <!-- Selector for a news source.  newsrender.js listens for on change event-->
-            <div class="input-group mb-1">
-              <div class="input-group-prepend">
-                <label class="input-group-text" for="inputGroupSelect01">Select a News Source</label>
-              </div>
-              <!-- Will update newsrender.js to set these options automatically. but this demos for now-->
-              <select class="custom-select" id="news_source">
-                <option selected>Choose...</option>
-                <option value="bbc-news">BBC New</option>
-                <option value="newsweek">Newsweek</option>
-                <option value="the-washington-post">The Washington Post</option>
-                <option value="the-wall-street-journal">The Wall Street Journal</option>
-                <option value="al-jazeera-english">Al Jazeera English</option>
-                <option value="medical-news-today">Medical News Today</option>
-              </select>
-            </div>
-            
-            <!-- Selector for date.  newsrender.js listens for on change event -->
-            <!-- when time slider is integrated, we can hide this and update newsrender.js to listen for change in date in timeslider-->
-            <div class="input-group mb-1">
-              <div class="input-group-append">
-                <label class="input-group-text" for="inputGroupSelect02">Select a Date</label>
-              </div>
-              <!-- Will update newsrender.js to set these options automatically. but this demos for now-->
-              <select class="custom-select" id="corona-date">
-                <option selected>Choose...</option>
-                <option value="2020-02-27">2020-02-27</option>
-                <option value="2020-02-26">2020-02-26</option>
-                <option value="2020-02-25">2020-02-25</option>
-                <option value="2020-02-24">2020-02-24</option>
-                <div role="separator" class="dropdown-divider"></div>
-                <option value="2020-01-25">2020-01-25</option>
-                <option value="2020-01-24">2020-01-24</option>
-              </select>
-            </div>
-
-            <!-- newsrender.js now automatically fils the table header and table body -->
-            <!-- table body is filled based on date and news source selections -->
-            <div class="card-body">
-              <table id="news-table" class="table table-striped">
-                <thead id="news-header">
-                    <tr>
-                        <th class="table-head">Date</th>
-                        <th scope="col" class="table-head">Source</th>
-                        <th scope="col" class="table-head">Headline</th>
-                        <th scope="col" class="table-head">Image</th>
-                    </tr>
-                </thead>
-                <tbody id="news-body"></tbody>
-              </table>
-            </div>
-          </div> 
-        </div>
-      </div>
-      <br>
->>>>>>> eca623a7c991caf93a258708fbb78b4aad4c1518
   </div>
     
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script type="text/javascript" src="static/js/config.js"></script>
     <script type="text/javascript" src="static/js/china_bar.js"></script>
     <script type="text/javascript" src="static/js/china.js"></script>
-    <script type="text/javascript" src="static/js/newsrender.js"></script>
+
   </body>
 </html>
