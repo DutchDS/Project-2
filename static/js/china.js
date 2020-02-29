@@ -1,3 +1,5 @@
+let slider_input = document.querySelector('input');                                                                    //assign the input from slider to variable a                                                                //assign the output under the slider to variable b
+
 // Creating map object
 var myMap = L.map("map", {
   center: [36.8944, 104.1660],
@@ -81,7 +83,7 @@ function get_new_layer(geoUrl) {
     
     console.log("GEOJSON ", data)
     // Create a new choropleth layer
-    geojson = L.geoJson(data, {
+    geojson = new L.geoJson(data, {
       style: function(feature) {
         return {
           color: "white",
@@ -128,3 +130,19 @@ create_legend()
 for (var i = 0; i < 30; i++)  {  
   task(i); 
 } 
+
+
+slider_input.addEventListener('change', function () {                                                                   //using event listener with input gives instant response; use 'change' instead to see the difference in response
+    var day_one;                                                                                            //declare our day_one variable which will represent the day one of outbreak
+    day_one = moment("27/01/2020", "DD/MM/YYYY");                                                           //assigning our day one value 27 Jan 2020 to day_one using moment lib
+    var slider_day = moment(day_one,"DD/MM/YYYY").add((slider_input.value-1),'day');                                   //manipulating the slider input with day_one value using moment, to get date for slider input
+    get_date = moment(slider_day,"DD/MM/YYYY").format("YYYY-MM-DD");
+    console.log(get_date)
+    geoUrl = "static/geojsons/" + get_date + ".json";
+    // get_new_layer()
+    // console.log(current_date)
+    console.log(geoUrl)
+  // call run
+   // console.log("Now processing: ", geoUrl)
+    get_new_layer(geoUrl);
+}, false);

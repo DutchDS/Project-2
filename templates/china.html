@@ -22,6 +22,8 @@
 
     <!-- d3 JavaScript -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- Moment Javascript-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
     <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
 
     <!-- Leaflet-Choropleth JavaScript -->
@@ -43,7 +45,10 @@
             <div class="card-body">
               <div class="jumbotron text-center">
                 <h1>Corona Spread - China</h1>
-                <p><i>Let's see how this virus spreads</i></p>
+                <p><i>Slider<div class="range">
+                  <input type="range" min="1" max="36" steps="1" value="1" id="slider"><br>
+                  <output></output>
+                </div></i></p>
                 <p><a class="btn btn-primary btn-lg" href="/" role="button">World</a>
                   <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
                   <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
@@ -212,6 +217,6 @@
     <script type="text/javascript" src="static/js/china_bar.js"></script>
     <script type="text/javascript" src="static/js/china.js"></script>
     <script type="text/javascript" src="static/js/newsrender.js"></script>
-    
+    <script type="text/javascript" src="static/js/slider_output.js"></script>
   </body>
 </html>
