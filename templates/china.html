@@ -45,8 +45,8 @@
             <div class="card-body">
               <div class="jumbotron text-center">
                 <h1>Corona Spread - China</h1>
-                <p><i>Slider<div class="range">
-                  <input type="range" min="1" max="36" steps="1" value="1" id="slider"><br>
+                <p><i><div class="range">
+                  <input type="range" min="1" max="36" steps="1" value="1" id="slider">
                   <output></output>
                 </div></i></p>
                 <p><a class="btn btn-primary btn-lg" href="/" role="button">World</a>
@@ -77,13 +77,29 @@
             <div class="col-lg-12 col-sm-12">
               <div class="card" style="width: 100%">
                 <div class="card-body">
-                  <div>{% for i in china_sum %}
-                    <h4><strong>{{ i[0] }}:</strong>
-                      &nbsp;&nbsp;&nbsp;&nbsp;<strong>Total: </strong>{{ i[1] }}
-                      &nbsp;&nbsp;<strong>Sick: </strong>{{ i[2] }}-({{ i[5] }}%)
-                      &nbsp;&nbsp;<strong>Cured: </strong>{{ i[3] }}-({{ i[6] }}%)
-                      &nbsp;&nbsp;<strong>Dead: </strong>{{ i[4] }}-({{ i[7] }}%)</h4>
-                    {% endfor %}
+                  <div class="row">
+                    {% for i in china_sum %}
+                    <div class="col-lg-2 col-sm-2">
+                      <h3><strong id=selectDate>{{ i[0] }}</h3></strong>
+                    </div>
+                    <div class="col-lg-2 col-sm-2" style="text-align: center">
+                      <h5><strong>Total: </strong><br>
+                        {{ i[1] }}<br>(100%)</h5>
+                    </div>
+                    <div class="col-lg-2 col-sm-2" style="text-align: center">
+                      <h5><strong>Sick: </strong><br>
+                      {{ i[2] }}<br>({{ i[5] }}%)</h5>
+                    </div>
+                    <div class="col-lg-2 col-sm-2" style="text-align: center">
+                      <h5><strong>Cured: </strong><br>
+                      {{ i[3] }}<br>({{ i[6] }}%)</h5>
+                    </div>                     
+                      
+                    <div class="col-lg-2 col-sm-2" style="text-align: center">
+                      <h5><strong>Dead: </strong><br>
+                      {{ i[4] }}<br>({{ i[7] }}%)</h5>
+                    </div>
+                      {% endfor %}
                   </div>
                 </div>
               </div>  

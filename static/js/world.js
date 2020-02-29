@@ -13,7 +13,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   accessToken: API_KEY
 }).addTo(myMap);
 
-var current_date = new Date('2020-01-22');
+var current_date = new Date('2020-01-23');
 
 function formatDate(date) {
   var d = new Date(date),
@@ -138,9 +138,7 @@ function reload() {
     } 
   }
   
-// Initiate button listener
-var get_all = d3.select("#selectAll");
-get_all.on("click", function() {reload()});
+d3.select("#selectAll").on("click", function() {reload()});
 
 
 slider_input.addEventListener('change', function () {                                                                   //using event listener with input gives instant response; use 'change' instead to see the difference in response
@@ -150,10 +148,8 @@ slider_input.addEventListener('change', function () {                           
     get_date = moment(slider_day,"DD/MM/YYYY").format("YYYY-MM-DD");
     console.log(get_date)
     geoUrl = "static/world_geojsons/" + get_date + ".json";
-    // get_new_layer()
-    // console.log(current_date)
+
     console.log(geoUrl)
-  // call run
-   // console.log("Now processing: ", geoUrl)
+
     get_new_layer(geoUrl);
 }, false);
