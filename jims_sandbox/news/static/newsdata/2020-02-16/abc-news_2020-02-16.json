@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARI YAMAGUCHI Associated Press",
+            "title": "Americans in Japan to trade one quarantine for another",
+            "description": "A group of Americans are cutting short a 14-day quarantine on the Diamond Princess cruise ship in the port of Yokohama, near Tokyo, to be whisked back to America",
+            "url": "https://abcnews.go.com/Health/wireStory/americans-japan-trade-quarantine-69017963",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_444f6a209aaf4cdf84233466d7c51584_16x9_992.jpg",
+            "publishedAt": "2020-02-16T17:46:14Z",
+            "content": "TOKYO -- \r\nAmericans Cheryl and Paul Molesky are trading one coronavirus quarantine for another. \r\nThe couple from Syracuse, New York, are cutting short a 14-day quarantine on the Diamond Princess cruise ship in the port of Yokohama, near Tokyo, to be flown b\u2026 [+3994 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "'Parasite' director Bong greeted by applause in South Korea",
+            "description": "The Oscar-winning director of the movie \u201cParasite\" smiled and waved at a waiting crowd as he arrived home in South Korea",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/parasite-director-bong-greeted-applause-south-korea-69017835",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_0cd66dc2b1d448d8b0f55579b9e003b1_16x9_992.jpg",
+            "publishedAt": "2020-02-16T17:22:16Z",
+            "content": "INCHEON, South Korea -- \r\nDirector Bong Joon-ho smiled and waved at a waiting crowd on Sunday as he arrived home in South Korea, his first trip back since he won four Oscars for his movie Parasite, including the award for Best Picture.\r\nThe crowd clapped and \u2026 [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JIM GOMEZ Associated Press",
+            "title": "No handshakes: Viral outbreak spooks Asian places of worship",
+            "description": "Temporary restrictions and dwindling crowds in places of worship across Asia have underscored the extent of the scare over a viral outbreak that has permeated many aspects of life in the religiously diverse region",
+            "url": "https://abcnews.go.com/International/wireStory/correction-asia-jittery-worshippers-story-69017107",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_482d599da74741698915acb5e4f5e0c5_16x9_992.jpg",
+            "publishedAt": "2020-02-16T15:21:20Z",
+            "content": "MANILA, Philippines -- \r\nIn a popular Catholic church in the Philippines, nearly half of the pews were empty for Sunday Mass. The few hundred worshippers who showed up were asked to refrain from shaking others' hands or holding them during prayers to prevent \u2026 [+7140 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Ivan Pereira",
+            "title": "Coronavirus death reported in Taiwan, US cruise passengers released from quarantine",
+            "description": "A man has died in Taiwan from the coronavirus, according to Taiwanese health officials. This marks the fourth recorded death outside China.",
+            "url": "https://abcnews.go.com/Health/coronavirus-death-reported-taiwan-us-cruise-passengers-released/story?id=69016015",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-taiwan-ap-aa-200216_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-16T15:20:54Z",
+            "content": "Another coronavirus-related death was reported outside of China this weekend.\r\nAn unidentified man in his 60s was first admitted to a hospital on Feb. 3 after he developed a cough a week earlier, Taiwan's Ministry of Health and Welfare said in a statement. He\u2026 [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARI YAMAGUCHI Associated Press",
+            "title": "Americans in Japan to trade one quarantine for another",
+            "description": "A group of Americans are cutting short a 14-day quarantine on the Diamond Princess cruise ship in the port of Yokohama, near Tokyo, to be whisked back to America",
+            "url": "https://abcnews.go.com/International/wireStory/americans-japan-trade-quarantine-69016719",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_444f6a209aaf4cdf84233466d7c51584_16x9_992.jpg",
+            "publishedAt": "2020-02-16T14:38:21Z",
+            "content": "TOKYO -- \r\nAmericans Cheryl and Paul Molesky are trading one coronavirus quarantine for another. \r\nThe couple from Syracuse, New York, is cutting short a 14-day quarantine on the Diamond Princess cruise ship in the port of Yokohama, near Tokyo, to be flown ba\u2026 [+2517 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SAM McNEIL and CANDICE CHOI Associated Press",
+            "title": "Virus renews safety concerns about slaughtering wild animals",
+            "description": "Many people in China are calling for a temporary ban on the wildlife trade to be made permanent as the coronavirus spreads",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-renews-safety-concerns-slaughtering-wild-animals-69016651",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-16T14:33:02Z",
+            "content": "BEIJING -- \r\nChina cracked down on the sale of exotic species after an outbreak of a new virus in 2002 was linked to markets selling live animals. The germ turned out to be a coronavirus that caused SARS.\r\nThe ban was later lifted, and the animals reappeared.\u2026 [+6543 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SAM McNEIL and CANDICE CHOI Associated Press",
+            "title": "Virus renews safety concerns about slaughtering wild animals",
+            "description": "Many people in China are calling for a temporary ban on the wildlife trade to be made permanent as the coronavirus spreads",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-renews-safety-concerns-slaughtering-wild-animals-69016650",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-16T14:30:21Z",
+            "content": "BEIJING -- \r\nChina cracked down on the sale of exotic species after an outbreak of a new virus in 2002 was linked to markets selling live animals. The germ turned out to be a coronavirus that caused SARS.\r\nThe ban was later lifted, and the animals reappeared.\u2026 [+6543 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Quarantine ends for Germans; Italy to fly citizens from ship",
+            "description": "More than 100 Germans evacuated from the hard-hit Chinese city of Wuhan, the epicenter of a new coronavirus outbreak, were set to end their prescribed 14-day quarantine period on Sunday",
+            "url": "https://abcnews.go.com/Health/wireStory/quarantine-ends-germans-italy-fly-citizens-ship-69016446",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_7e9ddfbe79594e25ae05906095876ae4_16x9_992.jpg",
+            "publishedAt": "2020-02-16T14:19:48Z",
+            "content": "BERLIN -- \r\nMore than 100 Germans evacuated from the hard-hit Chinese city of Wuhan, the epicenter of a new coronavirus outbreak, were set to end their prescribed 14-day quarantine period on Sunday.\r\nThey have been kept isolated at a military base in the sout\u2026 [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Erin Schumaker",
+            "title": "How to interpret China changing how its counts coronavirus cases",
+            "description": "When China changed the criteria for diagnosing and reporting patients in with novel coronavirus this week, authorities reported a staggering 14,840 new cases overnight.",
+            "url": "https://abcnews.go.com/Health/scientists-china-changing-counts-coronavirus-cases/story?id=68970152",
+            "urlToImage": "https://s.abcnews.com/images/Health/corona-01-as-gty-200214_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-16T11:10:08Z",
+            "content": "When China last week changed the criteria for diagnosing and reporting patients with novel coronavirus in Hubei province, the result was a staggering 14,840 new cases -- and from Wednesday night into Thursday, another 242 deaths.\r\nExperts said they'd long sus\u2026 [+3404 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 69,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 69,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-69000-people-globally-69011915",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_e4200d4ea36b46b1b6b4a94919429221_16x9_992.jpg",
+            "publishedAt": "2020-02-16T01:23:16Z",
+            "content": "A viral outbreak that began in China has infected more than 69,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+710 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "China reports fall in new virus cases for 3rd straight day",
+            "description": "China has reported a drop in new virus cases for the third straight day",
+            "url": "https://abcnews.go.com/Health/wireStory/china-reports-fall-virus-cases-3rd-straight-day-69011780",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_965659723d7a44bf83041992915acdc3_16x9_992.jpg",
+            "publishedAt": "2020-02-16T01:09:19Z",
+            "content": "BEIJING -- \r\nChina reported Sunday a drop in new virus cases for the third straight day.\r\nThere are 2,009 new cases in mainland China, bringing its total number of confirmed cases to 68,500, according to the country's National Health Commission.\r\nThe fatality\u2026 [+300 chars]"
+        }
+    ]
+}

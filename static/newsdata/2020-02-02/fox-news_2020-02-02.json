@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gregg Re",
+            "title": "Trump, in Super Bowl interview with Sean Hannity, predicts fall of Pelosi: 'Radical left is gonna take over'",
+            "description": "In an exclusive interview with Fox News' Sean Hannity during the Super Bowl LIV pregame show, President Trump said the State of the Union would go ahead as scheduled on Tuesday -- just a day before the Senate is set to acquit him after a months-long impeachme\u2026",
+            "url": "https://www.foxnews.com/politics/trump-hannity-super-bowl-interview",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5754d09-226f-412c-9b06-e2790ca0b384/57745797-bfa3-4c98-8196-0d03dcaa165b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-02T21:06:17Z",
+            "content": "In an exclusive interview with Fox News' Sean Hannity during the\u00a0Super Bowl LIV\u00a0pregame show, President Trump confirmed that the State of the Union address would go ahead as scheduled on Tuesday -- just a day before the Senate is set to overwhemingly acquit h\u2026 [+2516 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "Coronavirus evacuees to be housed at California, Texas and Colorado military bases",
+            "description": "Four U.S. military bases in California, Colorado and Texas were selected Saturday to house up to 1,000 Americans expected to be placed under quarantine upon arrival from China where they will be examined for up to one month for signs of the coronavirus.",
+            "url": "https://www.foxnews.com/health/coronavirus-evacuees-housed-california-texas-colorado-military-bases-air-force",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/wuhan-coronavirus-masks.jpg",
+            "publishedAt": "2020-02-02T18:17:55Z",
+            "content": "Four U.S. military bases in California, Colorado and Texas were selected Saturday to house up to 1,000 Americans expected to be placed under quarantine upon arrival from China\u00a0where they will be examined for up to one month for signs of the coronavirus.\r\nCHIN\u2026 [+3076 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Coronavirus prompts family to cancel vacation, they say Norwegian won't refund them thousands of dollars",
+            "description": "Vacations are supposed to be relaxing.",
+            "url": "https://www.foxnews.com/travel/coronavirus-norwegian-cruise-no-refund",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/norwegian-cruise-ship.jpg",
+            "publishedAt": "2020-02-02T17:34:05Z",
+            "content": "Vacations are supposed to be relaxing.\r\nThat\u2019s the reason why one family is canceling their cruise vacation, which they booked a year ago, long before the coronavirus outbreak. Since the boat is scheduled to stop in Hong Kong, they decided that it was better \u2026 [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "China deploys 1,400 military doctors, nurses to staff makeshift hospitals in Wuhan",
+            "description": "Following the first confirmed coronavirus death outside China, the country\u2019s defense military on Sunday deployed 1,400 medical personnel to staff a new hospital in Wuhan, the epicenter of the outbreak of the novel virus that\u2019s now killed more than 300 people \u2026",
+            "url": "https://www.foxnews.com/health/coronavirus-china-1400-military-doctors-nurses-wuhan-hospital-philippines-death",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c7e3635-d261-40ca-a1ab-4fea486d2963/ca090bfd-b95c-4aa1-a9d9-4f2b9b2a4d27/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-02T12:58:10Z",
+            "content": "Following the first confirmed coronavirus death outside China, the country\u2019s defense military on Sunday deployed 1,400 medical personnel to staff a new hospital in Wuhan, the epicenter of the outbreak of the novel virus that\u2019s now killed more than 300 people \u2026 [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Dom Calicchio",
+            "title": "Coronavirus death in Philippines said to be first outside China",
+            "description": "A 44-year-old Chinese man visiting the Philippines is believed to be the first fatality outside China to be linked to the coronavirus, officials say.",
+            "url": "https://www.foxnews.com/health/coronavirus-death-in-philippines-said-to-be-first-outside-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Coronavirus-montage-thumb.jpg",
+            "publishedAt": "2020-02-02T05:08:09Z",
+            "content": "A 44-year-old Chinese man visiting the Philippines is believed to be the first fatality outside China to be linked to the coronavirus, officials say.\r\nThe Philippine Department of Health confirmed the death Sunday and said the man\u2019s 38-year-old female compani\u2026 [+283 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Matt London",
+            "title": "Coronavirus may have sprung from 'perfect mixing pot,' infectious disease doctor says",
+            "description": "The deadly coronavirus, which U.S. health officials have said has infected eight people in the United States as of Saturday, is one of three pathogenic coronaviruses that have been transmitted from animals into humans, and a top infectious disease doctor said\u2026",
+            "url": "https://www.foxnews.com/media/coronavirus-animal-market-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20022434749667-1-1.jpg",
+            "publishedAt": "2020-02-02T01:35:20Z",
+            "content": "The deadly coronavirus, which U.S. health officials have said has\u00a0infected eight people in the United States as of Saturday, is one of three pathogenic coronaviruses that have been transmitted\u00a0from animals into humans, and a top infectious disease doctor said\u2026 [+2879 chars]"
+        }
+    ]
+}

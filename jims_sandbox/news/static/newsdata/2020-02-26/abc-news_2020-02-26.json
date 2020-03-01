@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "totalResults": 30,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "President Donald Trump appoints Vice President Mike Pence to lead US response to coronavirus outbreak",
+            "description": "President Donald Trump appoints Vice President Mike Pence to lead US response to coronavirus outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/president-donald-trump-appoints-vice-president-mike-pence-69243798",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-26T23:52:49Z",
+            "content": "WASHINGTON -- \r\nPresident Donald Trump appoints Vice President Mike Pence to lead US response to coronavirus outbreak."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associated Press",
+            "title": "With first case, Latin America prepares for COVID-19 virus",
+            "description": "With Brazil reporting the first case of the COVID-19 virus, neighboring countries and other nations around Latin America are attempting to block the possible arrival of the virus",
+            "url": "https://abcnews.go.com/International/wireStory/case-latin-america-prepares-covid-19-virus-69242361",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_583ae8a4409d48ad89467cd6be432853_16x9_992.jpg",
+            "publishedAt": "2020-02-26T22:28:33Z",
+            "content": "With Brazil reporting the first case of the COVID-19 virus, neighboring countries and other nations around Latin America were attempting to block the possible arrival of the virus. \r\nA glance at efforts across the region: \r\nPeru was maintaining a team of spec\u2026 [+5197 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JONATHAN LEMIRE, ZEKE MILLER and AAMER MADHANI Associated Press",
+            "title": "Trump faces credibility test as he plays down virus threat",
+            "description": "President Donald Trump faces a critical challenge as he tries to grapple with the new coronavirus outbreak: He must ask Americans to believe him even as he and top advisers have contradicted government scientists in playing down the threat",
+            "url": "https://abcnews.go.com/Health/wireStory/trump-faces-credibility-test-plays-virus-threat-69241422",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_3f69d24f77894114954be119a178c0b1_16x9_992.jpg",
+            "publishedAt": "2020-02-26T21:50:40Z",
+            "content": "WASHINGTON -- \r\nPresident Donald Trump faces a critical challenge in grappling with the new coronavirus outbreak: Asking Americans to believe him after he and top advisers have contradicted federal scientists in playing down the threat.\r\nThe stakes could be e\u2026 [+6750 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAVID BAUDER AP Media Writer",
+            "title": "Rough debate performance by moderators a blow to CBS News",
+            "description": "CBS News is dealing with a poorly-timed blow to its reputation following a presidential debate that occasionally went off the rails",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/rough-debate-performance-moderators-blow-cbs-news-69240220",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_0308296618d34e92ba2cf5fcda5d9d63_16x9_992.jpg",
+            "publishedAt": "2020-02-26T21:15:43Z",
+            "content": "NEW YORK -- \r\nCBS News faced an ill-timed blow to its reputation on Wednesday following a bruising Democratic presidential debate that its moderators struggled to keep from spiraling out of control.\r\nGayle King and Norah O'Donnell tried to manage seven presid\u2026 [+4373 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW DAMPF AP Sports Writer",
+            "title": "Swimmers concerned Olympics will be canceled",
+            "description": "Elite swimmers worry the coronavirus outbreak will impact the Olympics",
+            "url": "https://abcnews.go.com/Sports/wireStory/ap-interviews-swimmers-concerned-olympics-canceled-69233839",
+            "urlToImage": "https://s.abcnews.com/images/Sports/WireAP_9246cf862d6444b7a7d62aa4bac09df9_16x9_992.jpg",
+            "publishedAt": "2020-02-26T19:56:56Z",
+            "content": "NAPLES, Italy -- \r\nIf any thoughts were creeping into their minds that the Tokyo Olympics might be canceled because of a viral outbreak, elite swimmers Katinka Hossz\u00fa, Chad le Clos and Sarah Sj\u00f6str\u00f6m certainly didnt show it during a strenuous two-hour trainin\u2026 [+3597 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associated Press",
+            "title": "Israel advises against foreign travel over virus concerns",
+            "description": "Israel has advised its citizens to reconsider all foreign travel amid the spread of the new coronavirus that was first reported in China",
+            "url": "https://abcnews.go.com/International/wireStory/israel-advises-foreign-travel-virus-concerns-69238388",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-26T19:39:17Z",
+            "content": "JERUSALEM -- \r\nIsrael on Wednesday advised its citizens to reconsider all foreign travel amid the global spread of the new coronavirus that was first reported in China.\r\nThe Health Ministry also ordered people to avoid travel to Italy and said anyone returnin\u2026 [+871 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associted Press",
+            "title": "Spain mulling release of some guests from quarantined hotel",
+            "description": "More than 100 guests could be released in coming hours from a 4-star resort in Spain's Canary Islands that's been under lock-down over fears of a further spread of the new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/spain-mulling-release-guests-quarantined-hotel-69235950",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_82490ad3ce8548ad998e181221043b60_16x9_992.jpg",
+            "publishedAt": "2020-02-26T18:07:02Z",
+            "content": "MADRID -- \r\nMore than 100 guests could be released in coming hours from a 4-star resort in Spain's Canary Islands that's been under lock-down over fears of a further spread of the new coronavirus.\r\nAuthorities in the Canary Islands said Wednesday that none of\u2026 [+608 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Facebook cracking down on ads that guarantee coronavirus cure",
+            "description": "Facebook announced it was cracking down on ads that guarantee a cure, create a sense of urgency, or otherwise attempt to cash-in on the outbreak.",
+            "url": "https://abcnews.go.com/Business/facebook-cracking-ads-guarantee-coronavirus-cure/story?id=69232010",
+            "urlToImage": "https://s.abcnews.com/images/Business/coronavirus-5-rt-er-200226_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-26T17:36:28Z",
+            "content": "As U.S. health officials have issued warnings to prepare for the spread of coronavirus in American communities, Facebook announced it's cracking down on ads that guarantee a cure, create a sense of urgency or otherwise attempt to cash-in on the outbreak.\r\nThe\u2026 [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "An increasingly isolated Iran girds for long virus battle",
+            "description": "Iran is girding for a long battle against the coronavirus that is spreading rapidly across the country and the wider Middle East",
+            "url": "https://abcnews.go.com/Business/wireStory/increasingly-isolated-iran-girds-long-virus-battle-69233679",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_840c5c6754b54f3d989a0d84aed70016_16x9_992.jpg",
+            "publishedAt": "2020-02-26T16:35:50Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nIran girded Wednesday for a long battle against the coronavirus that is spreading rapidly across the country and the wider Middle East, even though officials in the Islamic Republic had earlier minimized the outbreak that has \u2026 [+5467 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor, Erin Schumaker",
+            "title": "Coronavirus live updates: Brazil confirms 1st case in Latin America",
+            "description": "An American soldier based in South Korea has become the first U.S. service member to be diagnosed with the novel coronavirus.",
+            "url": "https://abcnews.go.com/International/us-military-coronavirus-patient-cases-surge-italy-south/story?id=69225004",
+            "urlToImage": "https://s.abcnews.com/images/International/-us-army-camp-carroll-south-korea-getty-200226_hpMain_20200226-054828_16x9_992.jpg",
+            "publishedAt": "2020-02-26T16:13:46Z",
+            "content": "As clusters of novel coronavirus continue to pop up around the globe, the United States is grappling with how to prepare for an outbreak on American soil.\r\nHere is how the situation is unfolding. Please refresh for updates. \r\n11:07 a.m. Jamaican and Grand Cay\u2026 [+9034 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "University to close campus in Italy amid virus concerns",
+            "description": "Syracuse University is going to close a study abroad program in Italy because of the spread of the new coronavirus",
+            "url": "https://abcnews.go.com/US/wireStory/university-close-campus-italy-amid-virus-concerns-69232434",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-26T15:50:05Z",
+            "content": "SYRACUSE, N.Y. -- \r\nSyracuse University is going to close a study abroad program in Italy because of the spread of the new coronavirus.\r\nThe university will assist the 342 students studying at its Florence campus return to the U.S., school officials announced\u2026 [+812 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARCELO DE SOUSA and DAVID BILLER Associated Press",
+            "title": "Brazil confirms first coronavirus case in Latin America",
+            "description": "Brazil's government has confirmed the first case of the new coronavirus in Latin America",
+            "url": "https://abcnews.go.com/Health/wireStory/brazil-confirms-coronavirus-case-latin-america-69230753",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_6672d3936b8642cbbbc584f5730a1b11_16x9_992.jpg",
+            "publishedAt": "2020-02-26T14:50:41Z",
+            "content": "RIO DE JANEIRO -- \r\nBrazil's government confirmed on Wednesday that a 61-year-old Brazilian man who traveled to Italy this month has Latin America's first confirmed case of the contagious new coronavirus. \r\nWe will now see how this virus behaves in a tropical\u2026 [+2043 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stocks open higher on Wall Street following 2 steep drops",
+            "description": "Stocks are opening higher on Wall Street as the market finds its footing following back-to-back drops of more than 3% as fears spread about economic fallout from the virus outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-open-higher-wall-street-steep-drops-69230636",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_4ab88929c6484d6c980ad301ba2bcb36_16x9_992.jpg",
+            "publishedAt": "2020-02-26T14:41:06Z",
+            "content": "NEW YORK -- \r\nStocks are opening higher on Wall Street as the market finds its footing following back-to-back drops of more than 3% as fears spread about economic fallout from the virus outbreak. Technology stocks and banks did well in early trading Wednesday\u2026 [+3132 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Brazilian officials report first confirmed case of new coronavirus in Latin America",
+            "description": "Brazilian officials report first confirmed case of new coronavirus in Latin America",
+            "url": "https://abcnews.go.com/International/wireStory/brazilian-officials-report-confirmed-case-coronavirus-latin-america-69230601",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-26T14:36:30Z",
+            "content": "RIO DE JANEIRO -- \r\nBrazilian officials report first confirmed case of new coronavirus in Latin America."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICOLE WINFIELD Associated Press",
+            "title": "Italy seeks to calm fears in Europe as cases, deaths rise",
+            "description": "Italy is seeking to calm fears and rally international support for its efforts to contain the country's virus outbreak even as its death toll rose to 12 and its caseload reached 374",
+            "url": "https://abcnews.go.com/Health/wireStory/italy-seeks-calm-fears-europe-cases-deaths-rise-69230480",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ca3d048dc3db4282b49423d2840974dc_16x9_992.jpg",
+            "publishedAt": "2020-02-26T14:30:41Z",
+            "content": "ROME -- \r\nItaly sought Wednesday to rally international support for its efforts to contain the country's virus outbreak even as its death toll rose to 12 and the caseload reached 374, more Europeans linked to Italy got sick and the World Health Organization u\u2026 [+5266 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Libby Cathey",
+            "title": "Trump announces news conference on coronavirus with CDC after days of mixed messages",
+            "description": "President Donald Trump announced he will hold a news conference at the White House on the coronavirus with CDC representatives at 6 p.m. Wednesday.",
+            "url": "https://abcnews.go.com/Politics/trump-announces-news-conference-coronavirus-cdc-days-mixed/story?id=69228747",
+            "urlToImage": "https://s.abcnews.com/images/Politics/trump-4-rt-er-200225_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-26T13:58:14Z",
+            "content": "Following days of sending mixed messages on the risk the coronavirus poses to the United States, President Donald Trump announced Wednesday morning he will hold a news conference at the White House with Centers for Disease Control representatives at 6 p.m. an\u2026 [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Moody's downgrades auto sales forecast on virus fears",
+            "description": "Ratings agency Moody's is lowering its forecast for global auto sales because of the new coronavirus outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/moodys-downgrades-auto-sales-forecast-virus-fears-69228783",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-26T13:11:09Z",
+            "content": "FRANKFURT, Germany -- \r\nRatings agency Moody's is lowering its forecast for global auto sales because of the new coronavirus outbreak.\r\nIt now reckons that sales will decline 2.5% decline in 2020 instead of only 0.9%. This year's anticipated decline follows a\u2026 [+771 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Moody's downgrades auto sales forecast on virus fears",
+            "description": "Ratings agency Moody's is lowering its forecast for global auto sales because of the new coronavirus outbreak",
+            "url": "https://abcnews.go.com/International/wireStory/moodys-downgrades-auto-sales-forecast-virus-fears-69228781",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-26T13:10:58Z",
+            "content": "FRANKFURT, Germany -- \r\nRatings agency Moody's is lowering its forecast for global auto sales because of the new coronavirus outbreak.\r\nIt now reckons that sales will decline 2.5% decline in 2020 instead of only 0.9%. This year's anticipated decline follows a\u2026 [+771 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICOLE WINFIELD Associated Press",
+            "title": "Italy seeks to calm fears in Europe as cases, deaths rise",
+            "description": "Italy is seeking to calm fears and rally international support for its efforts to contain the coronavirus even as its caseload rose to 374",
+            "url": "https://abcnews.go.com/International/wireStory/italy-seeks-calm-fears-europe-cases-deaths-rise-69228412",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_f66b7bb2157d4a02aa482c67e0fabe03_16x9_992.jpg",
+            "publishedAt": "2020-02-26T12:43:27Z",
+            "content": "ROME -- \r\nItaly sought Wednesday to calm fears and rally international support for its efforts to contain the coronavirus even as its caseload rose to 374 and more European travelers linked to Italy got infected. \r\nGreece registered its first positive case, i\u2026 [+3743 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICOLE WINFIELD and JIM GOMEZ Associated Press",
+            "title": "Caution, cancelations mark Ash Wednesday in time of virus",
+            "description": "The Vatican is going ahead with plans for Pope Francis to celebrate the Ash Wednesday ritual that kicks off the Catholic Church's Lenten season despite concerns about the coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/caution-cancelations-mark-ash-wednesday-time-virus-69226584",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_53cda37afad3439f92a8c21fddb805a6_16x9_992.jpg",
+            "publishedAt": "2020-02-26T11:23:33Z",
+            "content": "VATICAN CITY -- \r\nThe Vatican was going ahead with plans for Pope Francis to celebrate the Ash Wednesday ritual kicking off the Catholic Church's Lenten season, but elsewhere in Italy Masses were canceled over fears of the coronavirus and other Catholic count\u2026 [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HYUNG-JIN KIM and KIM TONG-HYUNG Associated Press",
+            "title": "US, South Korea militaries face new enemy in viral outbreak",
+            "description": "The U.S. and South Korean militaries, used to being on guard for threats from North Korea, face a new and formidable enemy that could hurt battle readiness: a virus spreading around the world that has infected more than 1,200 people in South Korea",
+            "url": "https://abcnews.go.com/US/wireStory/us-south-korea-militaries-face-enemy-viral-outbreak-69226095",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_127228fd0e244cc79a0cd44583ecd206_16x9_992.jpg",
+            "publishedAt": "2020-02-26T10:50:18Z",
+            "content": "SEOUL, South Korea -- \r\nThe U.S. and South Korean militaries, used to being on guard for threats from North Korea, face a new and formidable enemy that could hurt battle readiness: a virus spreading around the world that has infected more than 1,200 people in\u2026 [+6663 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mychael Schnell",
+            "title": "4 universities cancel study abroad programs in Italy because of coronavirus",
+            "description": "NYU students will continue classes online after a confirmed case in Florence.",
+            "url": "https://abcnews.go.com/International/universities-cancel-study-abroad-programs-italy-coronavirus/story?id=69208730",
+            "urlToImage": "https://s.abcnews.com/images/International/nyu-gty-aa-200225_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-26T10:18:20Z",
+            "content": "At least four U.S. universities have canceled study abroad programs in Florence and urged students to leave Italy amid fears of the coronavirus spreading further in Europe.\r\nSyracuse University, New York University, Fairfield University and Elon University al\u2026 [+2612 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Iran raises its death toll to 19 amid 139 coronavirus cases",
+            "description": "Iranian state television says 19 people have been killed by the new coronavirus amid 139 confirmed cases in the country so far",
+            "url": "https://abcnews.go.com/International/wireStory/iran-raises-death-toll-19-amid-139-coronavirus-69225453",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_d0ccbd44cc4b4c32bfdfd9c196b9ee58_16x9_992.jpg",
+            "publishedAt": "2020-02-26T09:55:22Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nIran's president said Tehran has no immediate plans to quarantine cities over the new coronavirus rapidly spreading across the country, even as the Islamic Republic suffers the highest death toll outside of China with 19 kille\u2026 [+3359 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "German with virus in grave condition; Austria probes death",
+            "description": "Authorities in western Germany said Wednesday that a man who contracted COVID-19 is in critical condition",
+            "url": "https://abcnews.go.com/Business/wireStory/german-virus-grave-condition-austria-probes-death-69225546",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_a5a9df123f5e4ef9813a10bb177542a1_16x9_992.jpg",
+            "publishedAt": "2020-02-26T09:48:48Z",
+            "content": "BERLIN -- \r\nAuthorities in western Germany said Wednesday that a man who contracted COVID-19 is in critical condition and has been taken to a specialist hospital in Duesseldorf, as officials in neighboring Austria sealed off an apartment complex where a femal\u2026 [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "German authorities say man with virus in critical condition",
+            "description": "Authorities in western Germany said Wednesday that a man who contracted COVID-19 is in critical condition",
+            "url": "https://abcnews.go.com/Health/wireStory/german-authorities-man-virus-critical-condition-69224777",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_fd071cfdae6f462abea944d97d8615e0_16x9_992.jpg",
+            "publishedAt": "2020-02-26T08:17:27Z",
+            "content": "BERLIN -- \r\nAuthorities in western Germany said Wednesday that a man who contracted COVID-19 is in critical condition and has been taken to a specialist hospital in Duesseldorf.\r\nThe health ministry of North Rhine-Westphalia state said the man was first hospi\u2026 [+1021 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD AP Medical Writer",
+            "title": "How deadly is new coronavirus? It's still too early to tell",
+            "description": "Scientists can't tell yet just how deadly the new respiratory virus that's spreading the globe really is",
+            "url": "https://abcnews.go.com/Health/wireStory/deadly-coronavirus-early-69224705",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_15593f8d792344cbba1022265b4f2759_16x9_992.jpg",
+            "publishedAt": "2020-02-26T07:20:02Z",
+            "content": "WASHINGTON -- \r\nScientists cant tell yet how deadly the new virus thats spreading around the globe really is and deepening the mystery, the fatality rate differs even within China.\r\nAs infections of the virus that causes COVID-19 surge in other countries, eve\u2026 [+3889 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Hong Kong plans handouts, tax cuts to counter economic woes",
+            "description": "Hong Kong's government is proposing a nearly $1,300 cash handout for each resident over 18 years old to help alleviate hardships brought on by the spreading viral outbreak and prolonged political protests",
+            "url": "https://abcnews.go.com/International/wireStory/hong-kong-plans-handouts-tax-cuts-counter-economic-69223473",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_fda77c17ffc94794b382e54fa46e2ce3_16x9_992.jpg",
+            "publishedAt": "2020-02-26T05:26:20Z",
+            "content": "HONG KONG -- \r\nHong Kong's government is proposing a nearly $1,300 cash handout for each resident over 18 years old to help alleviate hardships brought on by the spreading viral outbreak and prolonged political protests. \r\nThe subsidy was among a slew of emer\u2026 [+2388 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected 80,000 globally, caused 2,700 deaths",
+            "description": "A viral outbreak that began in China has infected more than 80,000 people and killed more than 2,700 globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-80000-globally-caused-2700-deaths-69222411",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_68e3ab9641744163a1e3e362dbafc5a0_16x9_992.jpg",
+            "publishedAt": "2020-02-26T04:22:38Z",
+            "content": "A viral outbreak that began in China has infected more than 80,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+899 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "South Korean virus cases jump, nation's total now 1,146",
+            "description": "South Korea has reported 169 more cases of the new coronavirus, mostly in the southeast city of Daegu and nearby areas, bringing its total number of infections to 1,146",
+            "url": "https://abcnews.go.com/Health/wireStory/south-korean-virus-cases-jump-nations-total-now-69216577",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_6b3d6b1d447e42f0bb1f9e9481e75f1d_16x9_992.jpg",
+            "publishedAt": "2020-02-26T01:21:31Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korea has reported 169 more cases of the new coronavirus, mostly in the southeast city of Daegu and nearby areas, bringing its total number of infections to 1,146.\r\nSouth Koreas Centers for Disease Control and Prevention said Wed\u2026 [+776 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "South Korea reports 169 more cases of new coronavirus, mostly in and around Daegu, bringing total infections to 1,146",
+            "description": "South Korea reports 169 more cases of new coronavirus, mostly in and around Daegu, bringing total infections to 1,146",
+            "url": "https://abcnews.go.com/Health/wireStory/south-korea-reports-169-cases-coronavirus-daegu-bringing-69216131",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-26T01:10:15Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korea reports 169 more cases of new coronavirus, mostly in and around Daegu, bringing total infections to 1,146."
+        }
+    ]
+}

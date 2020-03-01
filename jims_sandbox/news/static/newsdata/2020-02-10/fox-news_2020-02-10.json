@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Health experts in China track coronavirus spread",
+            "description": "Outbreak has claimed more lives than SARS epidemic; Jonathan Serrie reports.",
+            "url": "http://video.foxnews.com/v/6131392953001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53829e52-6705-4086-ad5b-a87db02c88a4/bdbc40ac-1eff-42e7-9733-e0ca298c2b4e/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-10T23:26:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "China reopens many businesses amid coronavirus outbreak, but economy may remain slow",
+            "description": "Businesses and stores were beginning to reopen in Beijing and other parts of China on Monday but few signs of activity raised concerns that residents were being extra cautious amid fears that the coronavirus could continue to spread.",
+            "url": "https://www.foxnews.com/health/china-reopens-businesses-coronavirus-outbreak-economy-slow",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20041321797698.jpg",
+            "publishedAt": "2020-02-10T21:11:07Z",
+            "content": "Businesses and stores were beginning to reopen in Beijing and other parts of China on Monday, but the limited amount of\u00a0activity raised concerns that residents and workers were being extra cautious\u00a0amid fears that the coronavirus could continue to spread.\r\nAu\u2026 [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Cruise denied entry 'at every port' due to coronavirus rumors, finds place to disembark passengers",
+            "description": "It looks like passengers on one cruise ship might finally be going home.",
+            "url": "https://www.foxnews.com/travel/holland-america-cruise-coronavirus-denied-port",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Holland-America-Westerdam.jpg",
+            "publishedAt": "2020-02-10T19:42:33Z",
+            "content": "It looks like passengers on one cruise ship might finally be going home.\r\nA Holland America vessel found itself unable to\u00a0port and\u00a0disembark\u00a0due to the coronavirus outbreak. According to passengers on board, they\u2019ve been denied at \u201cevery port\u201d since leaving H\u2026 [+2055 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Canadian toddler stuck in coronavirus epicenter after dad contracts virus while visiting family",
+            "description": "The toddler's mother did not travel with them and remains worried at home in Canada.",
+            "url": "https://www.foxnews.com/health/canadian-toddler-stuck-coronavirus-epicenter-dad-sick-visiting-family",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/RT-Cerena.jpg",
+            "publishedAt": "2020-02-10T17:19:18Z",
+            "content": "A Canadian citizen said she needs \u201cto stay strong\u201d as her toddler daughter remains stuck in China\u00a0near the epicenter of the coronavirus outbreak after traveling with her father to visit her dying grandfather, who later tested positive for the illness.\r\nAmelia\u2026 [+3117 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus cases in UK double after country sees 4 more cases",
+            "description": "The United Kingdom saw its number of confirmed coronavirus cases double over the weekend after four more people were diagnosed with the pneumonia-like illness. To date, there are eight cases of the novel virus in the country.",
+            "url": "https://www.foxnews.com/health/coronavirus-cases-in-uk-double",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d555488f-2eab-400b-a5cb-a31487a5b503/9e4e3797-bf7b-460d-ad71-857a4d2bde84/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-10T17:00:30Z",
+            "content": "The United Kingdom saw its number of confirmed coronavirus cases double over the weekend after four more people were diagnosed with the pneumonia-like illness. To date, there are eight cases of the novel virus in the country.\r\n\u201cThe new cases are all known con\u2026 [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Texas sheriff says inmate's coronavirus claims are 'pretty unrealistic'",
+            "description": "An inmate at a Texas jail is being held in quarantine after telling officers he was possibly exposed to the novel coronavirus prior to his arrest. The unnamed inmate was reportedly experiencing flu-like symptoms, prompting officials to put him in isolation.",
+            "url": "https://www.foxnews.com/health/texas-inmate-coronavirus-claims",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/243433ad-aec7-45db-8bff-32842d1fa7a5/16a0920e-a235-42e7-b991-fa94ed85727b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-10T15:51:48Z",
+            "content": "An inmate at a Texas jail is being held in quarantine after telling officers he was possibly exposed to the novel coronavirus prior to his arrest. The unnamed inmate was reportedly experiencing flulike symptoms, prompting officials to put him in isolation.\r\nT\u2026 [+2104 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "3 infants born in coronavirus epicenter quarantined while moms undergo testing",
+            "description": "The three infants were born at the same hospital as another baby who was diagnosed with the virus 30 hours after birth.",
+            "url": "https://www.foxnews.com/health/3-infants-coronavirus-epicenter-quarantined-moms-testing",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/asiwire-coronababy.jpg",
+            "publishedAt": "2020-02-10T14:43:41Z",
+            "content": "A Wuhan hospital\u2019s youngest patients are being kept in quarantine while their mothers are evaluated for potential coronavirus, the illness that\u2019s sickened 40,600 people worldwide and killed at least 908.\r\nThe babies were born to mothers who were either confir\u2026 [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "9 family members infected with coronavirus after sharing hot pot meal",
+            "description": "Nine members of a Hong Kong family were infected with the deadly coronavirus after sharing a hot pot meal, a large pot of boiling broth in which diners typically add meat and vegetables.",
+            "url": "https://www.foxnews.com/health/hong-kong-family-coronavirus-hot-pot-meal",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/iStock-883170920.jpg",
+            "publishedAt": "2020-02-10T14:36:50Z",
+            "content": "Nine members of a Hong Kong family were infected with the deadly coronavirus after sharing a hot pot meal, a large pot of boiling broth in which diners typically add meat and vegetables.\r\nHealth officials confirmed 10 additional cases of the virus in the city\u2026 [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joshua Nelson",
+            "title": "Dr. Oz on how to protect against coronavirus: Why paper surgical masks are not effective",
+            "description": "In the wake of the Coronavirus outbreak, TV host Dr. Mehmet Oz appeared on \u201cFox & Friends\u201d to give tips on how to prevent infection.",
+            "url": "https://www.foxnews.com/media/dr-oz-coronavirus-protection-tips",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Screen-Shot-2020-02-10-at-9.01.01-AM.png",
+            "publishedAt": "2020-02-10T14:27:50Z",
+            "content": "In the wake of the coronavirus outbreak, Dr. Mehmet Oz told \u201cFox &amp; Friends\u201d hosts Monday that the best way to prevent infection is quite simple.\r\n\u201cYou can just wash your hands with regular old soap is just fine. Get the junk off your fingers or don\u2019t touc\u2026 [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sally Pipes",
+            "title": "Sally Pipes: Coronavirus could break 'Medicare-for-all' \u2014 single-payer systems struggle with outbreaks",
+            "description": "The Canadian and British health care systems show just how hard it can be to battle an outbreak under single-payer.",
+            "url": "https://www.foxnews.com/opinion/sally-pipes-coronavirus-break-medicare-all",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6674c34-791e-4ac1-bd04-ca1816fdfc8a/fe291dcf-ebff-4e8e-b882-d1a4fc55511b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-10T12:00:37Z",
+            "content": "On Jan. 31, Health and Human Services Secretary Alex Azar, the head of the president\u2019s Task Force on the Novel Coronavirus, declared a public health emergency in response to the global outbreak of the pathogen. The coronavirus has claimed more than 600 lives \u2026 [+4331 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "LPGA Tour cancels 2 more Asia tournaments due to coronavirus",
+            "description": "The LPGA Tour has canceled two more tournaments in Asia because of the coronavirus, knocking out three of the five tournaments that comprise its first international swing.",
+            "url": "https://www.foxnews.com/sports/lpga-tour-cancels-2-more-asia-tournaments-due-to-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20037177320016.jpg",
+            "publishedAt": "2020-02-10T10:29:12Z",
+            "content": "The LPGA Tour has canceled two more tournaments in Asia because of the coronavirus, knocking out three of the five tournaments that comprise its first international swing.\r\nThe LPGA said Sunday night the Honda LPGA Thailand, scheduled for Feb. 20-23, and the \u2026 [+1905 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Biden electability increasingly questioned after response to voter in New Hampshire; Buttigieg goes on offense",
+            "description": "",
+            "url": "https://www.foxnews.com/us/biden-electability-response-voter-new-hampshire",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BidenNH021020.jpg",
+            "publishedAt": "2020-02-10T09:41:52Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your Monday ...\r\nBiden electability increasingly questioned on New Hampshire campaign trail after latest with eyebrow-raising comment to voterPresidential contender Joe Bide\u2026 [+4437 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Hedge-fund manager deletes tweet that US should let coronavirus 'rampage' through China's communist party",
+            "description": "Hedge Fund manager Kyle Bass targeted a Communist-backed Chinese newspaper on Sunday by saying the U.S. should abandon the country and allow the coronavirus to tear its political party and the employees of the paper.",
+            "url": "https://www.foxnews.com/world/hedge-fund-manager-says-u-s-should-let-coronavirus-rampage-through-communist-party",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20040497654404.jpg",
+            "publishedAt": "2020-02-10T08:24:08Z",
+            "content": "Hedge-fund manager Kyle Bass targeted a Communist-backed Chinese newspaper on Sunday by saying the U.S. should abandon the country and allow the coronavirus to tear through its political party and employees of the paper.\r\nIn a since-deleted tweet, Bass, the c\u2026 [+1727 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Edmund DeMarche",
+            "title": "Coronavirus infects 60 more passengers on Diamond Princess, bringing total to 130",
+            "description": "Japan is considering testing every person on the Diamond Princess after it was determined Monday that there were 60 new cases aboard the quarantined ship docked off the coast of Yokohama.",
+            "url": "https://www.foxnews.com/travel/coronavirus-infects-60-more-passengers-on-diamond-princess-bringing-total-to-130",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Diamond-Princess-Cruise-Ship-iStock.jpg",
+            "publishedAt": "2020-02-10T06:30:23Z",
+            "content": "Japan may test\u00a0every person aboard the Diamond Princess\u00a0for the coronavirus\u00a0after it was determined Monday that there were 60 new cases on the quarantined ship docked off the coast of Yokohama.\r\nThe Japan Times, which first reported the increase, said the pas\u2026 [+976 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Vandana Rambaran",
+            "title": "China sees record increase in daily coronavirus deaths; at least 908 dead in all",
+            "description": "China's National Health Commission (NHC) reported 97 new deaths on Sunday in mainland China as a result of the coronavirus outbreak, the largest death toll in a single day.",
+            "url": "https://www.foxnews.com/health/china-coronavirus-deaths-record-increase",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20040191036848.jpg",
+            "publishedAt": "2020-02-10T01:33:51Z",
+            "content": "China's National Health Commission (NHC) reported 97 new deaths on Sunday in mainland China as a result of the coronavirus outbreak, the largest death toll in a single day.\r\nSince the virus was first reported, 908 people have died in the country.\r\nMost of the\u2026 [+568 chars]"
+        }
+    ]
+}

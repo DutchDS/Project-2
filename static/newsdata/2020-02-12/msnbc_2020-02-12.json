@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Health expert: Coronavirus spreading because humans are healthier",
+            "description": "Thomas Bollyky, Director of the Global Health Program at the Council on Foreign Relations, tells MSNBC\u2019s Ali Velshi that the deadly coronavirus is spreading because the investment in basic health care has not kept up with the medical advances extending life s\u2026",
+            "url": "https://www.msnbc.com/ali-velshi/watch/health-expert-coronavirus-spreading-because-humans-are-healthier-78638661957",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_velshi_bollyky_200212_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-12T22:40:05Z",
+            "content": null
+        }
+    ]
+}

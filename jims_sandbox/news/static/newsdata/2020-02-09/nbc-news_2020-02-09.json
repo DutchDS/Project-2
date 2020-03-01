@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus outbreak now more deadly than SARS outbreak",
+            "description": "As China tries to contain the deadly coronavirus outbreak, conditions in Wuhan - the epicenter of the crisis - are growing more desperate. Videos on social media show people asking for help and the convention center being converted to house virus patients.",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-outbreak-now-more-deadly-than-sars-outbreak-78452805666",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_jma_coronavirus_death_surpass_sars_200209_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-09T23:43:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Andrew Yang addresses anti-Asian racism surrounding coronavirus",
+            "description": "2020 candidate Andrew Yang speaks at a campaign event in Nashua, New Hampshire, addressing the coronavirus and the anti-Asian racism that surrounds it.",
+            "url": "https://www.nbcnews.com/video/andrew-yang-addresses-anti-asian-racism-surrounding-coronavirus-78430789557",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/yang.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-09T16:36:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Number of confirmed cases drops disease's epicenter, China confirms",
+            "description": "As confirmed cases reach more than 37,100 in mainland China, here is the latest you need to know.",
+            "url": "https://www.nbcnews.com/news/world/new-coronavirus-updates-number-confirmed-cases-drops-disease-s-epicenter-n1133141",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3222696/afp_1ot7w0_b858f3ec0c7772b4b4d990d0778d383d.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-09T11:32:05Z",
+            "content": "Deaths in mainland China go up to 811, confirmed cases reach more than 37,100\r\n Chinese authorities warn about use of masks\r\n Passengers, crew of quarantined cruise ship in Hong Kong are allowed to disembark\r\n Four passengers on cruise ship docked in New Jers\u2026 [+5131 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Adam Sandler laughs off Oscar snub as he wins indie acting award",
+            "description": "Adam Sandler was named best actor at the Independent Spirit Awards on Saturday in Santa Monica, California, and made fun of his Oscars snub.",
+            "url": "https://www.nbcnews.com/pop-culture/awards/adam-sandler-laughs-oscar-snub-he-wins-indie-acting-award-n1133126",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_06/3222641/200208-adam-sandler-axc-918p_8009425a9e046080985c197511bd8ba0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-09T02:37:33Z",
+            "content": "LOS ANGELES Chinese-American director Lulu Wang's movie \"The Farewell\" won the top prize at the Independent Spirit Awards on Saturday, while Adam Sandler was named best actor and made fun of his exclusion from Sunday's Oscars.\r\nSandler was named best actor fo\u2026 [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Nightly News Full Broadcast (February 8th)",
+            "description": "At least 20 killed in a shooting rampage at a Thailand mall, first American dies from coronavirus in Wuhan, China, and multiple U.S. troops killed and wounded in Afghanistan.",
+            "url": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-february-8th-78406213553",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_netcast_200208.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-09T01:13:56Z",
+            "content": null
+        }
+    ]
+}

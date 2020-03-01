@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Trump Praises Xi for Handling of Coronavirus Outbreak as Death Toll Passes 600",
+            "description": "As of Friday, the number of confirmed coronavirus cases in China rose to 31,161, with 636 deaths.",
+            "url": "https://www.nationalreview.com/news/trump-praises-xi-for-handling-of-coronavirus-outbreak-as-death-toll-passes-600/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2019/08/trump-jinping-g20.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-07T13:53:45Z",
+            "content": null
+        }
+    ]
+}

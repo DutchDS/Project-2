@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Asia stocks set to fall as investors await reopening of Chinese markets amid virus outbreak",
+            "description": "Mainland Chinese stocks are set to return to trade at 9:30 a.m. HK/SIN on Monday following an extended holiday amid an ongoing virus outbreak that has taken at least 300 lives in the country so far.",
+            "url": "https://www.cnbc.com/2020/02/03/asia-markets-china-markets-coronavirus-caixin-manufacturing-pmi-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106356703-1580129954467preview.jpg?v=1580686304",
+            "publishedAt": "2020-02-02T23:36:00Z",
+            "content": "Stocks in Asia were set to decline at the open on Monday as investors await the reopening of China's markets amid an ongoing coronavirus outbreak.\r\nFutures pointed to a lower open for Japanese stocks. The Nikkei futures contract in Chicago was at 22,730 while\u2026 [+1831 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Christine Wang",
+            "title": "Coronavirus updates: China's Hubei province confirms additional 56 deaths and 2,103 cases",
+            "description": "The majority of cases have been located in Wuhan, China \u2014 the capital city of Hubei province and the epicenter of the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/03/coronavirus-latest-updates-china-hubei-wuhan-cases.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106369330-1580686068625gettyimages-1198061940.jpeg?v=1580686672",
+            "publishedAt": "2020-02-02T23:30:00Z",
+            "content": "A woman wears a protective mask to prevent the spread of the SARS-like virus as she walks outside of the Forbidden city (back) after a snowfall in Beijing on February 2, 2020.\r\nThis is a live blog. Please check back for updates.\r\nAll times below in Beijing ti\u2026 [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Stephanie Landsman",
+            "title": "If coronavirus fears escalate, Wells Fargo warns 10-year Treasury yields could fall another 30%",
+            "description": "Wells Fargo Securities' Michael Schumacher expects the bond rush to intensify.",
+            "url": "https://www.cnbc.com/2020/02/01/coronavirus-fears-will-drive-bond-yields-even-lower-wells-fargo-warns.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106367864-1580509711307gettyimages-1197857200.jpeg?v=1580509768",
+            "publishedAt": "2020-02-02T22:01:01Z",
+            "content": "Wells Fargo Securities' Michael Schumacher expects the bond rush to intensify.\r\nAccording to the firm's global head of rate strategy, coronavirus fears will drive more investors into the U.S. Treasury market as a safe haven play and drive yields sharply lower\u2026 [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Coronavirus live updates: White House studying economic impact, France evacuates citizens",
+            "description": "The number of confirmed cases of the coronavirus worldwide is nearly 14,380. The death toll has risen to at least 304.",
+            "url": "https://www.cnbc.com/2020/02/02/coronavirus-live-updates-white-house-studying-economic-impact.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106364558-1580399637284gettyimages-1197578426.jpeg?v=1580399700",
+            "publishedAt": "2020-02-02T14:44:57Z",
+            "content": "Health officials examine passengers from Singapore, China and Hong Kong amid Coronavirus outbreak shortly after they arrived at Juanda International Airport in Surabaya, East Java, on 30 January 2020.\r\nThis is a live blog. Please check back for updates.\r\nAll \u2026 [+1804 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jacob Pramuk",
+            "title": "Revolution or return to decency? Democrats' final Iowa arguments show their case against Trump",
+            "description": "The Iowa closing arguments from Sanders, Biden, Buttigieg and Warren showcase why they think they're the best candidate to beat Trump.",
+            "url": "https://www.cnbc.com/2020/02/02/sanders-biden-buttigieg-warren-make-final-case-in-iowa-caucuses.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106364393-1580395139636img_0040r.jpg?v=1580395253",
+            "publishedAt": "2020-02-02T14:28:00Z",
+            "content": "Former Vice President Joe Biden speaks at an event in Marshalltown, Iowa on Jan. 26, 2020 ahead of the Iowa caucuses.\r\nAt least four Democrats have a good chance to leave Monday's first-in-the-nation Iowa presidential caucuses with the most delegates.\r\nThe 20\u2026 [+10379 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "OPEC+ technical panel to meet to discuss coronavirus impact, report says",
+            "description": "The technical panel is likely to make a recommendation on whether to extend current oil supply curbs beyond March or to implement deeper output cuts.",
+            "url": "https://www.cnbc.com/2020/02/02/opec-technical-panel-to-meet-feb-4-5-to-discuss-coronavirus-impact-report-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106125367-1568273441948gettyimages-1167456050.jpeg?v=1568273480",
+            "publishedAt": "2020-02-02T13:39:28Z",
+            "content": "OPEC and non-OPEC's Joint Technical Committee (JTC) has scheduled a meeting over Feb. 4-5 in Vienna to assess the impact of China's new coronavirus on oil demand, OPEC+ sources told Reuters.\r\n The technical panel is likely to make a recommendation on whether \u2026 [+299 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Christine Wang",
+            "title": "Philippines reports first death outside of China in coronavirus outbreak",
+            "description": "\"This is the first reported case outside of China. However, we need to keep in mind that he came from Wuhan, China,\" Dr. Rabi Abeyasinghe, a World Health Organization representative in the Philippines said in a statement on Twitter.",
+            "url": "https://www.cnbc.com/2020/02/02/coronavirus-update-philippines-reports-first-death-outside-of-china.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106368601-1580614446552gettyimages-1197653313.jpeg?v=1580614540",
+            "publishedAt": "2020-02-02T03:27:53Z",
+            "content": "The Philippines confirmed that a man who tested positive for the new coronavirus died on Saturday.\r\nThe man's death comes amid an outbreak of a coronavirus stemming from Wuhan, China. Earlier Sunday, Chinese officials said the virus has claimed 304 lives and \u2026 [+501 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Christine Wang",
+            "title": "Coronavirus live updates: China's Hubei province confirms additional 45 deaths, 1,921 cases",
+            "description": "A World Health Organization report said the outbreak is still largely centered in the Hubei province in China.",
+            "url": "https://www.cnbc.com/2020/02/02/coronavirus-latest-updates-china-hubei-cases-and-deaths.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106368562-1580600229537gettyimages-1197726878.jpeg?v=1580600313",
+            "publishedAt": "2020-02-02T00:02:46Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below in Beijing time.\r\nChina's National Health Commission said it confirmed an additional 45 deaths and 2,590 cases through the end of Feb. 1. All of the additional deaths were in Hubei, accordin\u2026 [+2552 chars]"
+        }
+    ]
+}

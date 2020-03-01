@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Michael Brendan Dougherty, Michael Brendan Dougherty",
+            "title": "Coronavirus: Death by Kowtow",
+            "description": "Western reporters have been preoccupied with glib stories about how the only danger was the spread of anti-Chinese sentiment.",
+            "url": "https://www.nationalreview.com/2020/02/coronavirus-media-kowtows-to-chinese-government/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/china-coronavirus-checkpoint.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-24T22:04:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Ramesh Ponnuru, Ramesh Ponnuru",
+            "title": "Coronavirus and the Economy",
+            "description": "Daniel Tenreiro had a pretty thorough and succinct review of the possible ways an epidemic could harm the economy, but there's one more worth adding.",
+            "url": "https://www.nationalreview.com/corner/coronavirus-and-the-economy/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/wuhan-coronavirus-9.jpg?resize=300%2C300&ssl=1",
+            "publishedAt": "2020-02-24T19:13:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "Global Markets Plunge as Coronavirus Spreads Beyond China",
+            "description": "The U.S. stock market plummeted along with markets worldwide on Monday morning as fears of the spreading coronavirus rattled investors.",
+            "url": "https://www.nationalreview.com/news/global-markets-plunge-as-coronavirus-spreads-beyond-china/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/RTS33E0G.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-24T18:31:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Daniel Tenreiro, Daniel Tenreiro",
+            "title": "How Coronavirus Affects the Economy",
+            "description": "A brief overview of how an epidemic that originated in a provincial Chinese city has managed to affect Western firms.",
+            "url": "https://www.nationalreview.com/corner/how-coronavirus-affects-the-economy/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/wuhan-coronavirus-6.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-24T18:14:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Jim Geraghty, Jim Geraghty",
+            "title": "What Happens When a Nation of Elderly Smokers Faces a Viral Respiratory Illness?",
+            "description": "If the coronavirus death rate is connected to smoking, China is confronting a colossal problem.",
+            "url": "https://www.nationalreview.com/corner/what-happens-when-a-nation-of-elderly-smokers-faces-a-viral-respiratory-illness/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/smoke-.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-24T16:45:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "WHO Head Warns of \u2018Potential Pandemic\u2019 after Initially Praising China\u2019s Response to Coronavirus",
+            "description": "WHO director Tedros Adhanom said that the coronavirus \u201cabsolutely\u201d has the potential to be a global pandemic, and that a recent spike in cases is \u201cvery concerning.\u201d",
+            "url": "https://www.nationalreview.com/news/who-head-warns-of-potential-pandemic-after-initially-praising-chinas-response-to-coronavirus/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/who-dunnit-.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-24T16:06:52Z",
+            "content": null
+        }
+    ]
+}

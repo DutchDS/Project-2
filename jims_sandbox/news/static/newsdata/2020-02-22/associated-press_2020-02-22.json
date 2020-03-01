@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Patient with deadly virus in Arizona released from isolation",
+            "description": "PHOENIX (AP) \u2014 An Arizona man was released from isolation 26 days after he tested positive for a deadly virus that originated in China, county health officials said.",
+            "url": "https://apnews.com/1652afae98f3abab28973b14806298c8",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-02-22T23:12:33Z",
+            "content": "PHOENIX (AP) An Arizona man was released from isolation 26 days after he tested positive for a deadly virus that originated in China, county health officials said.\r\nThe patient, who has ties to Arizona State University in Tempe, is no longer being infected by\u2026 [+1251 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By JOVANA GEC Associated Press",
+            "title": "Serbia offers support to China in 'battle' with new virus",
+            "description": "BELGRADE, Serbia (AP) \u2014 Waving Chinese flags, several dozen people gathered Saturday in Serbia's capital to show support for China as it struggles to contain a new virus that started in the Asian country but has spread globally.",
+            "url": "https://apnews.com/71601a92918f815cbd02d2cd1950522c",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/5c/15c69ae2-4557-5bee-a35d-48056faaa577/5e51a539bf938.image.jpg?crop=1713%2C964%2C0%2C123&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-22T21:48:25Z",
+            "content": "BELGRADE, Serbia (AP) Waving Chinese flags, several dozen people gathered Saturday in Serbia's capital to show support for China as it struggles to contain a new virus that started in the Asian country but has spread globally.\r\nSerbian officials and China's a\u2026 [+1366 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Judge halts plan to move virus patients to California city",
+            "description": "COSTA MESA, Calif. (AP) \u2014 A court temporarily blocked the U.S. government from sending up to 50 people infected with a new virus from China to a Southern California city for quarantine after local officials argued that the plan lacked\u2026",
+            "url": "https://apnews.com/3a7b84a16e954bc9049c1ccdffe397f1",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/custom/image/aacc4e10-0064-11e7-adc2-d3321407a1f8.jpg",
+            "publishedAt": "2020-02-22T19:19:12Z",
+            "content": "COSTA MESA, Calif. (AP) A court temporarily blocked the U.S. government from sending up to 50 people infected with a new virus from China to a Southern California city for quarantine after local officials argued that the plan lacked details about how the comm\u2026 [+2192 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By COLLEEN BARRY AP Fashion Writer",
+            "title": "Milan Fashion Week carries on amid virus, economic concern",
+            "description": "MILAN (AP) \u2014 Runway shows continued apace on the fourth day of Milan Fashion Week as the itinerant fashion crowd took an analytical attitude toward the cases of the virus from China clustered not far away in northern Italy.",
+            "url": "https://apnews.com/e8521ec8a4a81fb817f0d4203b2a1f4f",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/3/fe/3fece08c-4063-5450-a76e-056934cf27f5/5e516939239d3.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-22T17:25:59Z",
+            "content": "MILAN (AP) Runway shows continued apace on the fourth day of Milan Fashion Week as the itinerant fashion crowd took an analytical attitude toward the cases of the virus from China clustered not far away in northern Italy.\r\nMilan city officials closed offices \u2026 [+4034 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By NASSER KARIMI Associated Press",
+            "title": "Iran's hard-liners take early lead in Tehran after vote",
+            "description": "TEHRAN, Iran (AP) \u2014 Iranian state TV on Saturday announced the first partial results from the country\u2019s parliamentary elections, indicating a strong showing by hard-liners in the capital Tehran, although authorities have not released full results or the all-i\u2026",
+            "url": "https://apnews.com/6782f3bbe562bfa445ad15399d10e8bd",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/2/1a/21a2f56c-3ce8-555e-823f-56e517823e47/5e4f83d15e005.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-22T11:10:55Z",
+            "content": "TEHRAN, Iran (AP) Iranian state TV on Saturday announced the first partial results from the countrys parliamentary elections, indicating a strong showing by hard-liners in the capital Tehran, although authorities have not released full results or the all-impo\u2026 [+3090 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Iran reports another death, 10 new cases of new coronavirus",
+            "description": "TEHRAN, Iran (AP) \u2014 Iranian health authorities on Saturday reported a fifth death from the new virus that emerged in China, and said the fatality was from among 10 new confirmed cases of the virus in Iran.",
+            "url": "https://apnews.com/9e7087943bd535a076160c17b9350da8",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/7/a4/7a4c2984-f30b-51ee-8325-bada33aab8c2/5e4f791a96261.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-22T09:56:24Z",
+            "content": "TEHRAN, Iran (AP) Iranian health authorities on Saturday reported a fifth death from the new virus that emerged in China, and said the fatality was from among 10 new confirmed cases of the virus in Iran.\r\nSo far, 28 cases have been confirmed in Iran, includin\u2026 [+1937 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By STEPHEN WADE AP Sports Writer",
+            "title": "Q&A: Things to know about Tokyo Olympics and spreading virus",
+            "description": "TOKYO (AP) \u2014 The Tokyo Olympics open in exactly five months on July 24. The Paralympics open on Aug. 25. But the fast-spreading coronavirus from China is making Tokyo organizers very anxious. Three deaths have been reported in Japan with\u2026",
+            "url": "https://apnews.com/60c7f67238085cad27549348bd36488b",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/6a/76a610c3-01f7-55e5-8478-090a219ad907/5e50b9472055c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-22T05:12:00Z",
+            "content": "TOKYO (AP) The Tokyo Olympics open in exactly five months on July 24. The Paralympics open on Aug. 25. But the fast-spreading coronavirus from China is making Tokyo organizers very anxious. Three deaths have been reported in Japan with more than 700 cases, mo\u2026 [+4790 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By ANIRUDDHA GHOSAL and LAURAN NEERGAARD Associated Press",
+            "title": "Health officials worry as untraceable virus clusters emerge",
+            "description": "In South Korea, Singapore and Iran, clusters of infections are leading to a jump in cases of the new viral illness outside China. But it\u2019s not the numbers that are worrying experts: It's that increasingly they can't trace where the\u2026",
+            "url": "https://apnews.com/783c7a396adf5f99b8cff399f9478e36",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/5/d3/5d3ce95d-8446-5ff1-9e5a-e62de751ded9/5e50aeeb2089a.image.jpg?crop=1847%2C1039%2C0%2C41&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-22T04:26:55Z",
+            "content": "In South Korea, Singapore and Iran, clusters of infections are leading to a jump in cases of the new viral illness outside China. But its not the numbers that are worrying experts: It's that increasingly they can't trace where the clusters started.\r\nWorld Hea\u2026 [+6282 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By The Associated Press",
+            "title": "New virus has infected more than 77,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 77,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it.",
+            "url": "https://apnews.com/a04f440e33ea599cd3757a50067cd257",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/4/ac/4acb3b45-0ae4-5196-b5b9-5f608397ab6e/5e4f5d78a3bdf.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-22T02:31:02Z",
+            "content": "A worker wearing protective gears sprays disinfectant as a precaution against the coronavirus at a subway station in Seoul, South Korea, Friday, Feb. 21, 2020. South Korea on Friday declared a \"special management zone\" around a southeastern city where a surgi\u2026 [+928 chars]"
+        }
+    ]
+}

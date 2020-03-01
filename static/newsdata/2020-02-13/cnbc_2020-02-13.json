@@ -1,0 +1,669 @@
+{
+    "status": "ok",
+    "totalResults": 51,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Asia stocks set to decline; investors await China's tariff cuts on some US products",
+            "description": "Investors will also continue to watch for developments on the coronavirus outbreak following Thursday's spike in the number of cases reported after Hubei changed the way cases are diagnosed.",
+            "url": "https://www.cnbc.com/2020/02/14/asia-markets-coronavirus-corporate-earnings-currencies-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106356703-1580129954467preview.jpg?v=1581636612",
+            "publishedAt": "2020-02-13T23:51:08Z",
+            "content": "Stocks in Asia were set to trade lower at the open on Friday as concerns around the ongoing coronavirus outbreak continue to weigh on investor sentiment.\r\nFutures pointed to a lower open for Japanese stocks. The Nikkei futures contract in Chicago was at 23,72\u2026 [+1804 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "The coronavirus outbreak has made 'buy high and sell higher' a winning playbook, Jim Cramer says",
+            "description": "\"I bet it keeps going until the outbreak runs its course,\" CNBC's Jim Cramer says on \"Mad Money.\"",
+            "url": "https://www.cnbc.com/2020/02/13/jim-cramer-coronavirus-has-broken-the-buy-low-sell-high-rule.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104707091-RTX3F04G.jpg?v=1569870460",
+            "publishedAt": "2020-02-13T23:31:47Z",
+            "content": "Stock valuations that are objective tend to satisfy traditional investors, yet Wall Street is running a different playbook at the moment, CNBC's Jim Cramer said Thursday.\r\n\"The bottom line is that amazingly and, yes, counterintuitively, buy high and sell high\u2026 [+3631 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "United cancels some Barcelona flights, waives cancellation fees as coronavirus derails Mobile World Congress",
+            "description": "United Airlines said it would scale back Barcelona flights and waive change fees for passengers after the Mobile World Congress was called off because of the coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/13/coronavirus-united-cuts-barcelona-flights-after-mobile-world-congress-canceled.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106248046-1573833275243rts2dpqs.jpg?v=1573833342",
+            "publishedAt": "2020-02-13T23:26:27Z",
+            "content": "Coronavirus isn't just hitting China travel. Barcelona trips are also feeling the impact.\r\nUnited Airlines on Thursday said it will scale back its flights to Barcelona after the Mobile World Congress the world's largest telecommunications trade show was cance\u2026 [+912 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sunny Kim",
+            "title": "Stocks making the biggest moves after hours: Roku, Nvidia, Expedia & more",
+            "description": "See which stocks are posting big moves after the bell.",
+            "url": "https://www.cnbc.com/2020/02/13/stocks-making-the-biggest-moves-after-hours-roku-nvidia-expedia-and-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104741114-RTS1E9YN.jpg?v=1576534837",
+            "publishedAt": "2020-02-13T23:25:00Z",
+            "content": "Check out the companies making headlines after the bell:\r\nRoku Shares of the streaming company jumped 5% in extended trading after the company reported better-than-expected fourth-quarter results that beat on the top and bottom line. The company reported a lo\u2026 [+3480 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lora Kolodny",
+            "title": "Tesla acknowledges 'health epidemics' as new risk in financial filing amid coronavirus outbreak",
+            "description": "After estimating that the novel coronavirus (COVID-19) outbreak in China would only cause their business a week-and-a-half production delay, Tesla now acknowledges \"health epidemics\" as a material risk in their annual financial filing.",
+            "url": "https://www.cnbc.com/2020/02/13/tesla-acknowledges-health-epidemics-as-new-risk-in-2019-10-k.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106324914-1578421004244gettyimages-1192354647.jpeg?v=1578421043",
+            "publishedAt": "2020-02-13T22:44:00Z",
+            "content": "On Thursday, Tesla acknowledged that the COVID-19, or coronavirus outbreak in and beyond China may have a material adverse impact on their business in an annual financial filing.\r\nIn the Risk Factors section of the 2019 10-K filing, they included -- for the f\u2026 [+3086 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "CNBC US Source",
+            "title": "Coronavirus fears take down stocks, but not as much as you'd think",
+            "description": "Stocks could still rise 15 percent this year. With CNBC's Brian Sullivan and the Fast Money traders, Tim Seymour, Laura Kane, Scott Minerd and Guy Adami.",
+            "url": "https://www.cnbc.com/video/2020/02/13/coronavirus-fears-take-down-stocks-but-not-as-much-as-youd-think.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106390514-15816328325ED3-FM-A-BLOCK-021320.jpg?v=1581632817",
+            "publishedAt": "2020-02-13T22:27:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Guggenheim's Scott Minerd sounds alarm about markets, says 'We are in the ludicrous season'",
+            "description": "The coronavirus outbreak or another economic shock could pop the bubble in the credit market, Scott Minerd said.",
+            "url": "https://www.cnbc.com/2020/02/13/guggenheims-scott-minerd-sounds-alarm-about-markets-says-we-are-in-the-ludicrous-season.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106347416-1579646000351dsc00895.jpg?v=1579646030",
+            "publishedAt": "2020-02-13T22:04:25Z",
+            "content": "Guggenheim Partners Global CIO Scott Minerd said in a letter to clients that the elevated prices in financial markets show a \"cognitive dissonance\" from economic reality that has created a dangerous bubble among debt assets.\r\nLiquidity from the Federal Reserv\u2026 [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "CNBC US Source",
+            "title": "Watch CNBC's full interview with Yeti CEO Matt Reintjes",
+            "description": "Yeti CEO Matt Reintjes joins \"Closing Bell\" to talk about Q4 earnings and the impact of coronavirus on Yeti's supply chain.",
+            "url": "https://www.cnbc.com/video/2020/02/13/watch-cnbcs-full-interview-with-yeti-ceo-matt-reintjes.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106390389-200213cbreintjesfull.jpg?v=1581629980",
+            "publishedAt": "2020-02-13T21:50:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "CNBC US Source",
+            "title": "Matt Reintjes, CEO of Yeti, on Q4 earnings",
+            "description": "Yeti CEO Matt Reintjes joins \"Closing Bell\" to talk about Q4 earnings and the impact of coronavirus on Yeti supply chain.",
+            "url": "https://www.cnbc.com/video/2020/02/13/matt-reintjes-ceo-of-yeti-on-q4-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106390388-200213cbreintjesshort.jpg?v=1581629980",
+            "publishedAt": "2020-02-13T21:49:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Here's what happened to the stock market on Thursday",
+            "description": "Stocks fell as investors grappled with a jump in reported coronavirus cases in China.",
+            "url": "https://www.cnbc.com/2020/02/13/what-happened-to-the-stock-market-thursday-reported-coronavirus-cases-jump.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105587229-1542823536500rts26xqb.jpg?v=1581625366",
+            "publishedAt": "2020-02-13T21:18:46Z",
+            "content": "Traders work on the floor at the New York Stock Exchange.\r\nDow Jones Industrial Average falls 128.11 points\r\nThe Dow fell 128.11 points, or 0.4%, to 29,423.31. The S&amp;P 500 dipped 0.1% to close at 3,373.94. The Nasdaq Composite slid 0.1% to 9,711.97. Stock\u2026 [+865 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Retail sales, consumer sentiment, coronavirus update: 3 things to watch for Friday",
+            "description": "Here's what you need to know about Friday before you hit the door.",
+            "url": "https://www.cnbc.com/2020/02/13/outlook-for-friday-retail-sales-consumer-sentiment-coronavirus-watch.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106158157-1569941403823rtx75eim.jpg?v=1569941457",
+            "publishedAt": "2020-02-13T20:32:00Z",
+            "content": "Here's what investors need to know about Friday before you hit the door.The Census Bureau will release its retail sales data for January on Friday morning, giving investors a closer look at what has been the strongest part of the United States economy.\r\nWall \u2026 [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Patti Domm",
+            "title": "Emerging market debt holding up even with fears economies could be impacted by virus",
+            "description": "Emerging market debt, as an asset class, has been spared a big impact from the coronavirus so far.",
+            "url": "https://www.cnbc.com/2020/02/13/emerging-market-debt-holding-up-even-with-fears-economies-could-be-impacted-by-virus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389676-1581610786748preview.jpg?v=1581610798",
+            "publishedAt": "2020-02-13T20:02:31Z",
+            "content": "Emerging market debt, as an asset class, has been spared a big impact from the coronavirus so far.\r\nFear the virus will hurt the global economy has driven Treasury yields lower, and the easy money policies of the world's central banks have pushed yields lower\u2026 [+6750 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Keris Lahiff",
+            "title": "Nvidia is about to report earnings. Here's where two traders stand on the stock",
+            "description": "One of the top-performing chipmaker stocks is about to report earnings. Here's how to trade it.",
+            "url": "https://www.cnbc.com/2020/02/13/nvidia-is-about-to-report-earnings-heres-where-two-traders-stand.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106390082-1581623646542gettyimages-1177538076.jpeg?v=1581623682",
+            "publishedAt": "2020-02-13T19:20:37Z",
+            "content": "One of the top-performing chipmaker stocks is about to report earnings.\r\nNvidia, out with its report after the bell, has raced 7% higher in the past week and nearly 16% so far this year.\r\nIts longer-term charts show the rally could have much farther to go bef\u2026 [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Watch: UC San Diego health experts provide updates on coronavirus patients",
+            "description": "On Tuesday, CDC officials said an evacuee from Wuhan was re-committed to UC San Diego Health for further medical care and isolation after being accidentally released due to a mishandling of test results.",
+            "url": "https://www.cnbc.com/2020/02/13/watch-uc-san-diego-health-experts-provide-updates-on-coronavirus-patients.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106369728-1580746655348gettyimages-1198183401.jpeg?v=1580746743",
+            "publishedAt": "2020-02-13T19:19:00Z",
+            "content": "[The stream is slated to start at 2:30 p.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nUC San Diego experts are holding a press conference Thursday to update the public on the status of coronavirus patients at one of its hosp\u2026 [+1353 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "Stocks making the biggest moves midday: Tesla, Equifax, Kraft Heinz, Cisco & more",
+            "description": "Check out the companies making headlines in midday trading on Thursday.",
+            "url": "https://www.cnbc.com/2020/02/13/stocks-making-the-biggest-moves-midday-tesla-equifax-kraft-heinz-cisco-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106269004-1574891231068gettyimages-1044540656.jpeg?v=1577709971",
+            "publishedAt": "2020-02-13T18:38:55Z",
+            "content": "Check out the companies making headlines in midday trading on Thursday.\r\nTesla Shares of Elon Musk's automaker rose over 5%, reversing early losses after the company announced it plans to offer $2 billion of common stock. The company will offer 2.65 million T\u2026 [+5047 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Airbnb halts Beijing bookings until May due to coronavirus outbreak",
+            "description": "Airbnb is suspending Beijing bookings until May, following new local rules aimed at combating the spread of coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/13/coronavirus-airbnb-halts-beijing-bookings-until-may-due-to-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389764-1581612957737gettyimages-1197620898.jpeg?v=1581613006",
+            "publishedAt": "2020-02-13T18:03:00Z",
+            "content": "Airbnb is suspending bookings in Beijing until May as the rapid spread of coronavirus hands the home-sharing giant a new kind of challenge.\r\nThe number of documented cases of coronavirus jumped by more than 15,000 to at least 60,000, most of them in China. At\u2026 [+1860 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "Here's what every major analyst expects from Nvidia's earnings report after the bell Thursday",
+            "description": "Wall Street analysts expect Nvidia to report solid fourth-quarter earnings after the bell on Thursday despite the coronavirus fears.",
+            "url": "https://www.cnbc.com/2020/02/13/major-analysts-predict-nvidias-earnings-report.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106081308-1565884699787gettyimages-689945424.jpeg?v=1581433711",
+            "publishedAt": "2020-02-13T17:06:00Z",
+            "content": "(This story is for CNBC PRO subscribers only.)\r\nComputer graphics processor and chip maker, Nvidia, will be front and center for traders when the company delivers its fourth-quarter earnings report on Thursday after the bell. The company's three main business\u2026 [+647 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Here's the full guide for investors trying to figure out coronavirus",
+            "description": "From broad market predictions to safe-haven trades to individual stocks to avoid, here's your complete guide to investing amid the coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/13/heres-the-full-guide-for-investors-trying-to-figure-out-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106387817-1581546072322gettyimages-1199129672.jpeg?v=1581546134",
+            "publishedAt": "2020-02-13T17:01:00Z",
+            "content": "(This story is for CNBC Pro subscribers only.)\r\nIt took stocks less than three weeks to recover from the initial sell-off triggered by the coronavirus scare, but as new reported cases and death toll continued to rise, investors wonder how much fallout they sh\u2026 [+101 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "White House does not have 'high confidence' in China's coronavirus information, official says",
+            "description": "The official also noted that China \"continues to rebuff American offers of assistance.\"",
+            "url": "https://www.cnbc.com/2020/02/13/white-house-does-not-have-high-confidence-in-chinas-coronavirus-information-official-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389721-1581611598604gettyimages-1200517192.jpeg?v=1581611635",
+            "publishedAt": "2020-02-13T16:42:00Z",
+            "content": "The U.S. does \"not have high confidence in the information coming out of China\" regarding the count of coronavirus cases, a senior administration official told CNBC.\r\nThe official also noted that China \"continues to rebuff American offers of assistance.\"\r\nThe\u2026 [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tim Mullaney",
+            "title": "Why Elon Musk's controversial $2 billion Tesla stock offering makes sense",
+            "description": "Elon Musk surprised the market a few weeks ago, saying Tesla would not raise capital. Instead, the company plans to raise $2 billion by selling new shares of stock. The deal makes sense as Tesla ramps EV and battery production.",
+            "url": "https://www.cnbc.com/2020/02/13/why-elon-musks-surprise-2-billion-tesla-stock-deal-makes-sense.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106261274-1574442599483rtx7a0ls.jpg?v=1574452686",
+            "publishedAt": "2020-02-13T16:35:24Z",
+            "content": "Tesla shares briefly sold off this morning with the announcement that the company plans to raise $2 billion by selling new shares of stock diluting the shares of people who already own Tesla but analysts are saying the money will let Tesla expand faster and s\u2026 [+5598 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "WHO officials scramble to measure size of coronavirus epidemic: 'How big is the iceberg?'",
+            "description": "World health officials are scrambling to determine just how widespread the new coronavirus is as Chinese authorities reported a surge in new cases overnight.",
+            "url": "https://www.cnbc.com/2020/02/13/who-officials-scramble-to-measure-size-of-coronavirus-epidemic-how-big-is-the-iceberg.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389433-1581604340667gettyimages-1200228833.jpeg?v=1581604422",
+            "publishedAt": "2020-02-13T16:30:32Z",
+            "content": "World health officials are scrambling to determine just how widespread the new coronavirus is as Chinese authorities reported a surge in new cases overnight after changing how it counts confirmed infections.\r\n\"How big is the iceberg?\" Dr. Mike Ryan, executive\u2026 [+2396 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "Jeremy Siegel: Dow 'without question' would be above 30,000 if not for coronavirus uncertainty",
+            "description": "The longtime stock bull said the market is trading at 20 times his estimates for this year's earnings. \"That is not unreasonable\" but also \"certainly not cheap,\" he explained.",
+            "url": "https://www.cnbc.com/2020/02/13/jeremy-siegel-dow-would-be-above-30000-if-not-for-coronavirus-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103747594-IMG_4258.JPG?v=1560371352",
+            "publishedAt": "2020-02-13T16:02:47Z",
+            "content": "Longtime stock bull Jeremy Siegel told CNBC on Thursday the Dow Jones Industrial Average would easily crack 30,000 if it weren't for the market uncertainty around the coronavirus outbreak.\r\n\"If there is good news on this virus front, we would pop above 30,000\u2026 [+1196 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "CDC confirms 15th US case of coronavirus among Wuhan evacuees under quarantine at Texas military base",
+            "description": "More than 600 people remain in quarantine, the CDC said, as the first American evacuees from Wuhan were released from March Air Reserve Base in Riverside, California on Tuesday.",
+            "url": "https://www.cnbc.com/2020/02/13/cdc-confirms-15th-us-case-of-coronavirus-among-wuhan-evacuees-under-quarantine-at-texas-military-base.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389528-1581606662118rts306vm.jpg?v=1581606750",
+            "publishedAt": "2020-02-13T15:48:26Z",
+            "content": "The Centers for Disease Control and Prevention confirmed the 15th case of the new coronavirus in the U.S. Thursday an evacuee from China under quarantine at a military base in Texas.\r\nThe patient is among the Americans evacuated last week on a government-char\u2026 [+1169 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Cramer: Tesla's new stock offering is smart because 'the world's changed' since the coronavirus",
+            "description": "\"Why not take the money? The world got a lot less certain in the last 10 days,\" CNBC's Jim Cramer said.",
+            "url": "https://www.cnbc.com/2020/02/13/cramer-tesla-new-stock-offering-smart-because-of-coronavirus-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105396369-1534271228552rts4hy3.jpg?v=1543951215",
+            "publishedAt": "2020-02-13T15:45:23Z",
+            "content": "Tesla's decision to embark on a secondary stock offering is smart given the increasing global uncertainty around the coronavirus, CNBC's Jim Cramer said Thursday.\r\n\"Anyone who begrudges, with the stock all the way up from where he reported, is nuts,\" Cramer s\u2026 [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Watch: World Health Organization holds press conference on the coronavirus outbreak",
+            "description": "World Health Organization officials are holding a news briefing Thursday to update the public on the deadly outbreak.",
+            "url": "https://www.cnbc.com/2020/02/13/watch-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106369637-1580739181178gettyimages-1197376971.jpeg?v=1580739278",
+            "publishedAt": "2020-02-13T14:46:10Z",
+            "content": "[The stream is slated to start at 10:00 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nWorld Health Organization officials are holding a press conference Thursday to update the public on the coronavirus outbreak, which has k\u2026 [+1318 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "'Six days to go:' As coronavirus tears through Princess Cruise ship, Japanese officials evacuate vulnerable passengers",
+            "description": "The decision comes as the company confirmed Thursday 44 new cases of the coronavirus on the quarantined Diamond Princess cruise ship.",
+            "url": "https://www.cnbc.com/2020/02/13/as-coronavirus-tears-through-ship-vulnerable-passengers-evacuated.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106387817-1581546072322gettyimages-1199129672.jpeg?v=1581546134",
+            "publishedAt": "2020-02-13T13:46:18Z",
+            "content": "Japanese health officials are allowing the most vulnerable guests quarantined on the Diamond Princess docked just off of Yokohama to leave the cruise ship and complete their isolation on land,\u00a0Carnival's Princess Cruises said Thursday.\u00a0\r\nThe decision comes as\u2026 [+2797 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lizzy Gurdus",
+            "title": "As cruise stocks recover, two traders agree this is the group's best bet",
+            "description": "Norwegian Cruise Line Holdings is the pick of traders JC O'Hara and Mark Tepper.",
+            "url": "https://www.cnbc.com/2020/02/12/norwegian-cruise-line-best-bet-among-cruise-stocks-traders.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106387463-1581538499650gettyimages-1002645356.jpeg?v=1581538604",
+            "publishedAt": "2020-02-13T13:31:01Z",
+            "content": "Cruise stocks are making a comeback.\r\nThe group has been struggling amid growing fears around the spread of the coronavirus with Carnival Corp., Royal Caribbean and Norwegian Cruise Line Holdings down more than 13%, 12% and 7% respectively year to date. But c\u2026 [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "US weekly jobless claims increase slightly",
+            "description": "First-time claims for state unemployment benefits were expected to total 210,000 for the most recent week, up from the 202,000 claims reported for the previous week.",
+            "url": "https://www.cnbc.com/2020/02/13/us-weekly-jobless-claims-total-205000-vs-210000-expected.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103681893-GettyImages-532200478.jpg?v=1581546797",
+            "publishedAt": "2020-02-13T13:30:00Z",
+            "content": "The number of Americans filing for unemployment benefits increased less than expected last week, pointing to continued labor market strength that could keep the country's longest economic expansion on track.\r\nInitial claims for state unemployment benefits ros\u2026 [+1776 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jessica Bursztynsky",
+            "title": "NYC small business chief: Chinatown hit hard because of 'unfounded fears' over coronavirus",
+            "description": "\"Business owners are telling us revenues are down 40% in Chinatown,\" said Gregg Bishop, commissioner of New York City's Department of Small Business Services.",
+            "url": "https://www.cnbc.com/2020/02/13/nyc-small-business-chief-gregg-bishop-coronavirus-fears-hit-chinatown.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106384546-1581425379907gettyimages-1200005193.jpeg?v=1581425425",
+            "publishedAt": "2020-02-13T13:23:56Z",
+            "content": "Small businesses in New York's Chinatown are losing customers over \"unfounded\" coronavirus fears, the city's small business chief told CNBC on Thursday.\r\n\"Business owners are telling us revenues are down 40% in Chinatown,\" said Gregg Bishop, commissioner of t\u2026 [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "What's moving the market right now: Dow futures drop 200, all eyes on Tesla",
+            "description": "Live updates of what's moving the market, including the latest on the coronavirus, Tesla and Cisco Systems.",
+            "url": "https://www.cnbc.com/2020/02/13/stock-market-today-live.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106060358-1565021181666rtx72axl.jpg?v=1565021233",
+            "publishedAt": "2020-02-13T13:13:00Z",
+            "content": "Traders work on the floor at the New York Stock Exchange, August 5, 2019.\r\nThis is a live blog. Check back for updates.\r\n8:18 am: Tesla shares slide on $2 billion stock offering\r\nThe electric car marker's stock dropped more than 4% in the premarket on news Te\u2026 [+1306 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Peter Schacknow",
+            "title": "Stocks making the biggest moves in the premarket: PepsiCo, Alibaba, AIG, Kraft Heinz & more",
+            "description": "The stocks making the biggest moves in premarket trading include PepsiCo, Alibaba, AIG, Kraft Heinz, and more.",
+            "url": "https://www.cnbc.com/2020/02/13/stocks-making-the-biggest-moves-in-the-premarket-pepsico-alibaba-aig-kraft-heinz-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106367132-1580487252387rts2yece.jpg?v=1580487344",
+            "publishedAt": "2020-02-13T13:06:22Z",
+            "content": "Take a look at some of the biggest movers in the premarket:\r\n (PEP) The beverage and snack giant , with quarterly earnings of $1.45 per share. Revenue also beat forecasts. Organic revenue growth was a better-than-expected 4.3%, and the company said it is proj\u2026 [+3045 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Thursday",
+            "description": "U.S. stock futures were pointing to declines at Thursday's open, with Wall Street set to give back back a large chunk of the prior session's strong gains.",
+            "url": "https://www.cnbc.com/2020/02/13/5-things-to-know-before-the-stock-market-opens-february-13-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105249487-GettyImages-514614968.jpg?v=1532563629",
+            "publishedAt": "2020-02-13T13:04:00Z",
+            "content": "1. Dow to fall, Trump's Fed picks on Capitol Hill, Tesla to issue more stock\r\nTrader Michael Urkonis works on the floor of the New York Stock Exchange, January 28, 2020.\r\nU.S. stock futures were pointing to declines at Thursday's open, with Wall Street set to\u2026 [+3789 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Amanda Macias",
+            "title": "Coronavirus, nukes and 5G will be hot topics as global leaders gather in Germany",
+            "description": "More than 500 global leaders will gather in Germany over the weekend to discuss everything from the development of 5G networks to nuclear weapons to the recent coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/13/coronavirus-nukes-5g-will-be-hot-topics-as-leaders-gather-in-germany.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106324759-1578415030981rts2xirw.jpg?v=1578415094",
+            "publishedAt": "2020-02-13T13:00:24Z",
+            "content": "MUNICH More than 500 global leaders gather here over the weekend to discuss everything from the development of 5G networks to nuclear weapons to the recent coronavirus outbreak.\r\nThe 56th Munich Security Conference, held at the Bayerischer Hof Hotel, brings t\u2026 [+1656 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "CNBC US Source",
+            "title": "Small Business Services chief: Revenues in Chinatown down 40% due to coronavirus",
+            "description": "Gregg Bishop, commissioner of New York City's Department of Small Business Services, and Jim McGregor, chairman of the greater China region at APCO Worldwide and a former chairman of the American Chamber of Commerce in China, join \"Squawk Box\" to discuss the \u2026",
+            "url": "https://www.cnbc.com/video/2020/02/13/small-business-coronavirus-new-york-city-chinatown-squawk-box.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389109-650coronavirusbishop.jpg?v=1581597659",
+            "publishedAt": "2020-02-13T13:00:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Alibaba beats revenue estimates on record Singles' Day sales",
+            "description": "China's Alibaba reported a better-than-expected quarterly revenue on Thursday, boosted by record sales during its annual Singles' Day shopping blitz and growth in its cloud computing business.",
+            "url": "https://www.cnbc.com/2020/02/13/alibaba-beats-revenue-estimates-on-record-singles-day-sales.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106240793-1573592253193rtx78gsn.jpg?v=1573592343",
+            "publishedAt": "2020-02-13T12:33:25Z",
+            "content": "China's Alibaba\u00a0beat analysts' estimates for quarterly results on Thursday, driven by record sales during its annual Singles' Day shopping blitz and demand for its cloud computing business.\r\nThe e-commerce giant usually reports its highest revenue in the Dece\u2026 [+1761 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Dawn Kopecki",
+            "title": "Coronavirus live updates: Princess Cruises guests allowed to leave ship, cases soar above 60,300",
+            "description": "The total number of cases climbed above 60,000 after China changed the way it counts confirmed infections while deaths soared to at least 1,369.",
+            "url": "https://www.cnbc.com/2020/02/13/coronavirus-latest-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106386978-1581521106602rts31qmh.jpg?v=1581521179",
+            "publishedAt": "2020-02-13T12:31:24Z",
+            "content": "A man pushes a man on wheelchair past a propaganda banner on a wall in a hutong, following an outbreak of the novel coronavirus in the country, in Beijing, China February 11, 2020. The Chinese characters on the banner read, \"Strengthen self-protection, do not\u2026 [+2951 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "Goldman tells clients to put the coronavirus fears aside and buy Caterpillar, sees 20% upside",
+            "description": "Goldman Sachs upgraded Caterpillar to buy and said it sees improving fundamentals for the company.",
+            "url": "https://www.cnbc.com/2020/02/13/goldman-sachs-upgrades-caterpillar-to-buy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105358842-1532704629544gettyimages-1003728908.jpeg?v=1581589169",
+            "publishedAt": "2020-02-13T12:14:00Z",
+            "content": "(This story is for subscribers only.)\r\nGoldman Sachs upgraded Caterpillar on Thursday and said it sees an \"attractive\" risk/reward and 20% upside ahead as fundamentals appear to be strengthening despite the risk of a slowing China.\r\nThe shares of the machiner\u2026 [+125 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jessica Bursztynsky",
+            "title": "What to watch today: Dow to fall, coronavirus cases spike and budget deficit soars",
+            "description": "A surge in coronavirus cases and deaths is weighing on investor sentiment this morning, with a good chunk of Wednesday's big gains likely to be erased at the Wall Street open.",
+            "url": "https://www.cnbc.com/2020/02/13/dow-to-fall-coronavirus-cases-spike-budget-deficit-spikes.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106387817-1581546072322gettyimages-1199129672.jpeg?v=1581546134",
+            "publishedAt": "2020-02-13T11:33:00Z",
+            "content": "BY THE NUMBERS\r\nA surge in coronavirus cases and deaths is weighing on investor sentiment this morning, with a good chunk of Wednesday's big gains likely to be erased at the Wall Street open. The Dow, S&amp;P 500 and Nasdaq all closed at record highs yesterda\u2026 [+5361 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Treasury yields move lower after surge in new coronavirus cases",
+            "description": "U.S. government debt prices were higher Thursday morning, following a sharp rise in the reported number of new coronavirus deaths.",
+            "url": "https://www.cnbc.com/2020/02/13/us-bonds-treasury-yields-in-focus-after-surge-in-coronavirus-cases.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357163-1580142757084gettyimages-1202297184.jpeg?v=1580142901",
+            "publishedAt": "2020-02-13T10:24:10Z",
+            "content": "At 5:20 a.m. ET, the benchmark 10-year Treasury note, which moves inversely to price, was lower at around 1.5763%, while the yield on the 30-year Treasury bond was also lower at around 2.0449%.\r\nMarket focus is largely attuned to China's fast-spreading corona\u2026 [+968 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "Global oil demand set to see first quarterly decline in over 10 years, IEA says",
+            "description": "Global oil demand is now expected to see its first quarterly contraction in over a decade, according to the International Energy Agency (IEA).",
+            "url": "https://www.cnbc.com/2020/02/13/global-oil-demand-outlook-from-the-iea.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103310520-GettyImages-109075851.jpg?v=1529470479",
+            "publishedAt": "2020-02-13T09:00:08Z",
+            "content": "Global oil demand is now expected to see its first quarterly contraction in over a decade, according to the International Energy Agency (IEA), as the new coronavirus and widespread shutdown of China's economy hits demand for crude.\r\nDemand is now expected to \u2026 [+3213 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "Xiaomi launches 5G flagship smartphone as it aims to boost its fortunes in China",
+            "description": "Xiaomi is hoping the Mi 10 and Mi 10 Pro devices can help boost sales in its domestic market of China where it has seen declining shipments.",
+            "url": "https://www.cnbc.com/2020/02/13/xiaomi-mi-10-and-mi-10-pro-launch-specs-price-availabiltiy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106388343-1581576487910leijunxiaomimi10.jpg?v=1581576713",
+            "publishedAt": "2020-02-13T07:58:50Z",
+            "content": "Xiaomi CEO Lei Jun unveils the company's flagship 5G Mi 10 and Mi 10 Pro smartphones at an event in Beijing, China on February 13, 2020.\r\nChinese electronics maker Xiaomi launched new 5G-capable flagship smartphones on Thursday in a bid to turn around declini\u2026 [+5040 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yen Nee Lee",
+            "title": "Southeast Asia's largest bank warns virus outbreak could hit its revenue this year",
+            "description": "Singaporean bank DBS posted a 14% year-on-year rise in fourth-quarter net profit to 1.51 billion Singapore dollars ($1.09 billion), beating estimates.",
+            "url": "https://www.cnbc.com/2020/02/13/dbs-reports-q4-earnings-2020-outlook-as-coronavirus-spreads.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106369525-1581560012638global_virus_spread.png?v=1581560148",
+            "publishedAt": "2020-02-13T07:32:33Z",
+            "content": "The ongoing spread of a new coronavirus disease, recently named COVID-19, could hit the revenue of Southeast Asia's largest bank this year, its chief executive said on Thursday.\r\nPiyush Gupta, the CEO of Singaporean bank DBS, said the impact on its full-year \u2026 [+2392 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China auto sales likely plunged 18% in January, coronavirus outbreak takes a toll",
+            "description": "Industry executives said the epidemic was likely to wreak havoc on auto sales and production in the first quarter.",
+            "url": "https://www.cnbc.com/2020/02/13/china-auto-sales-likely-plunged-18percent-in-january-coronavirus-takes-toll.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105745179-1550462956908gettyimages-1129579552.jpeg?v=1581577585",
+            "publishedAt": "2020-02-13T07:08:03Z",
+            "content": "Auto sales in China are\u00a0likely to have fallen 18% in January, their 19th consecutive\u00a0month of decline, an industry body said as the outbreak of the\u00a0new coronavirus began to hit the industry.\r\n Sales of new energy vehicles (NEVs) plunged 54.4%, down for\u00a0a seve\u2026 [+1631 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Chloe Taylor",
+            "title": "European markets set for lower open; coronavirus, earnings in focus",
+            "description": "European markets are set to open slightly lower on Thursday morning as China's coronavirus epidemic remains the primary focus for investors.",
+            "url": "https://www.cnbc.com/2020/02/13/european-markets-set-for-lower-open-coronavirus-earnings-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105664985-1546931303504gettyimages-1071170402.jpeg?v=1548700578",
+            "publishedAt": "2020-02-13T06:05:49Z",
+            "content": "European markets are set to open slightly lower on Thursday morning as China's coronavirus epidemic remains the primary focus for investors.\r\nThe FTSE is expected to open 23 points lower at 7,511, while the CAC is seen 4 points lower at 6,100 and Germany's DA\u2026 [+2676 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "US futures point to lower open on Wall Street",
+            "description": "U.S. stock index futures are pointing to a lower open on Wall Street Thursday as investors continue to worry about the spread of the coronavirus and look ahead to a slew of earnings.",
+            "url": "https://www.cnbc.com/2020/02/13/us-futures-point-to-lower-open-on-wall-street.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106162628-1570111495267gettyimages-1173086959.jpeg?v=1575319012",
+            "publishedAt": "2020-02-13T06:00:54Z",
+            "content": "U.S. stock index futures are pointing to a lower open on Wall Street Thursday as investors continue to worry about the spread of the coronavirus and look ahead to a slew of earnings.\r\nAt around 1.45 E.T., Dow futures were down 115 points and indicated an impl\u2026 [+1285 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Cruise ship shunned over coronavirus fears arrives in Cambodia",
+            "description": "Although no-one on board has fallen ill on board, the ship had been turned away by Japan, Taiwan, Guam, the Philippines and Thailand.",
+            "url": "https://www.cnbc.com/2020/02/13/cruise-ship-shunned-over-coronavirus-fears-arrives-in-cambodia.html",
+            "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+            "publishedAt": "2020-02-13T04:33:16Z",
+            "content": "A cruise ship which had spent two weeks at sea after being turned away by five countries over fears that someone aboard may have the coronavirus arrived in Cambodia on Thursday to the relief of passengers and the praise of global health officials.\r\nThe MS Wes\u2026 [+2845 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Oil rises for third day as coronavirus impact may spur output cuts",
+            "description": "Oil prices rose for a third day on expectations that major producers are likely to enact deeper output cuts to offset the slump in demand caused by the coronavirus outbreak in China, the world's second-largest crude consumer.",
+            "url": "https://www.cnbc.com/2020/02/13/oil-markets-crude-output-coronavirus-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106372026-1580839600457gettyimages-507825332.jpeg?v=1581563775",
+            "publishedAt": "2020-02-13T03:17:02Z",
+            "content": "Oil prices rose for a third day on expectations that major producers are likely to enact deeper output cuts to offset the slump in demand caused by the coronavirus outbreak in China, the world's second-largest crude consumer.\r\nBrent crude rose 17 cents, or 0.\u2026 [+2538 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "'We didn't have a goodbye kiss' \u2014 Couple separated on quarantined ship count the days to be reunited",
+            "description": "\"I didn't know what to do. I didn't know what to say,\" Rebecca Frasure of Oregon told CNBC after she was diagnosed with coronavirus and isolated in a Tokyo hospital.",
+            "url": "https://www.cnbc.com/2020/02/12/couple-separated-on-quarantined-ship-we-did-not-have-a-goodbye-kiss.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106386632-1581510923809gettyimages-1200229923.jpeg?v=1581510978",
+            "publishedAt": "2020-02-13T02:08:45Z",
+            "content": "An American couple who vacationed on the now-quarantined Diamond Princess cruise ship together could be at risk of returning home alone.\r\nRebecca Frasure has been in isolation in a Tokyo hospital away from her husband, Kent, since Friday when she was diagnose\u2026 [+2845 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Everything Jim Cramer said about the stock market on 'Mad Money,' including Carnival cruises rally, Shopify COO",
+            "description": "CNBC's Jim Cramer breaks down why Carnival shares and the broader market rose in Wednesday's session, coming off the first-in-the-nation primary in New Hampshire.",
+            "url": "https://www.cnbc.com/2020/02/12/jim-cramer-mad-money-recap-stock-picks-feb-12-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104673557-IMG_5320-jim-cramer.jpg?v=1503683506",
+            "publishedAt": "2020-02-13T00:58:29Z",
+            "content": "CNBC's Jim Cramer said Wall Street is awarding companies, like Carnival, who have made outlook adjustments to account for the impact of the novel coronavirus on business. The \"Mad Money\" host sat down with Shopify COO Harley Finkelstein to get a read on the e\u2026 [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Carnival stock's rally is a sign 'this market is driven by hope,' Jim Cramer says",
+            "description": "Wall Street is \"blessing any company that spells out its China losses,\" CNBC's Jim Cramer says.",
+            "url": "https://www.cnbc.com/2020/02/12/jim-cramer-carnival-stock-rally-shows-this-market-is-driven-by-hope.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106387817-1581546072322gettyimages-1199129672.jpeg?v=1581546134",
+            "publishedAt": "2020-02-13T00:29:10Z",
+            "content": "Carnival stock managed to bounce as investors attempt to get ahead of the coronavirus story, CNBC's Jim Cramer said Wednesday.\r\nShares of the British cruise line operator rose more than 2%, despite the company's warning that the novel virus outbreak could imp\u2026 [+3659 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Weizhen Tan",
+            "title": "Coronavirus live updates: China's Hubei reports 14,840 new cases, 242 additional deaths",
+            "description": "Wuhan is the Chinese city at the epicenter of the outbreak and the capital of Hubei province.",
+            "url": "https://www.cnbc.com/2020/02/13/coronavirus-latest-updates-china-hubei.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106379992-1581108923403gettyimages-1198751542.jpeg?v=1581325968",
+            "publishedAt": "2020-02-13T00:03:44Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Beijing time.\r\n7:55 am: Hubei province reports 14,840 new cases\r\nChina's Hubei province reported an additional 242 deaths and 14,840 new cases as of Feb. 12.\r\n7:41 am: Singapore cases\u2026 [+2197 chars]"
+        }
+    ]
+}

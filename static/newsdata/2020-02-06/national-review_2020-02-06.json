@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Doctor Punished for Warning Friends of Coronavirus Dies after Becoming Infected",
+            "description": "Dr. Li Wenliang, who was punished by Chinese authorities for warning medical school friends about the coronavirus outbreak, has died after being infected with the virus.",
+            "url": "https://www.nationalreview.com/news/doctor-punished-for-warning-friends-of-coronavirus-dies-after-becoming-infected/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/coronavirus.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-06T17:34:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Chinese Authorities Lock Citizens Inside Homes in Attempt to Stop Coronavirus Spread",
+            "description": "Other measures include the closing of all public venues deemed \"unessential\" and the banning of weddings and funerals.",
+            "url": "https://www.nationalreview.com/news/chinese-authorities-lock-citizens-inside-homes-in-attempt-to-stop-coronavirus-spread/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/20200203_wuhan.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-06T14:13:35Z",
+            "content": null
+        }
+    ]
+}

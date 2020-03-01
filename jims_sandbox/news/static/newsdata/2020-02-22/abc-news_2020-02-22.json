@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOVANA GEC Associated Press",
+            "title": "Serbia offers support to China in 'battle' with new virus",
+            "description": "Waving Chinese flags, several dozen people have attended a concert in Serbia's capital to show support for China as it struggles to contain a new virus that started in the Asian country but has spread globally",
+            "url": "https://abcnews.go.com/International/wireStory/serbia-offers-support-china-battle-virus-69148377",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_7629fda47c304076a7af62964278d08e_16x9_992.jpg",
+            "publishedAt": "2020-02-22T21:50:29Z",
+            "content": "BELGRADE, Serbia -- \r\nWaving Chinese flags, several dozen people gathered Saturday in Serbia's capital to show support for China as it struggles to contain a new virus that started in the Asian country but has spread globally. \r\nSerbian officials and China's \u2026 [+1217 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Judge halts plan to move virus patients to California city",
+            "description": "A judge has put on hold a U.S. plan to quarantine up to 50 people infected with a new virus from China in a Southern California city",
+            "url": "https://abcnews.go.com/Health/wireStory/judge-halts-plan-move-virus-patients-california-city-69145988",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-22T19:20:32Z",
+            "content": "COSTA MESA, Calif. -- \r\nA court temporarily blocked the U.S. government from sending up to 50 people infected with a new virus from China to a Southern California city for quarantine after local officials argued that the plan lacked details about how the comm\u2026 [+2041 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Joohee Cho",
+            "title": "Coronavirus cases in South Korea up to 433 overnight",
+            "description": "The number of confirmed coronavirus cases made an eightfold jump in just four days.",
+            "url": "https://abcnews.go.com/International/coronavirus-cases-south-korea-433-overnight/story?id=69142144",
+            "urlToImage": "https://s.abcnews.com/images/International/coronavirus-south-korea-2-ap-rc-200222_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-22T15:42:30Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korea's number of newly confirmed cases of the novel coronavirus more than doubled Saturday to a total of 433 -- an eightfold jump in just four days.\r\n\"The situation is entering a new phase,\" Vice Health and Welfare Minister Kim \u2026 [+1879 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARI YAMAGUCHI Associated Press",
+            "title": "Japan's emperor turns 60, offers sympathy to virus patients",
+            "description": "Japanese Emperor Naruhito, marking his 60th birthday, has offered his sympathy to those affected by the new virus that emerged in China and said he hopes to see the outbreak contained soon",
+            "url": "https://abcnews.go.com/International/wireStory/japans-emperor-turns-60-offers-sympathy-virus-patients-69143784",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_6b006042602c44b6aa353dfe770e9ee8_16x9_992.jpg",
+            "publishedAt": "2020-02-22T15:01:35Z",
+            "content": "TOKYO -- \r\nJapanese Emperor Naruhito, marking his 60th birthday, offered his sympathy to those affected by the new virus that emerged in China and said he hopes to see the outbreak contained soon. \r\nSunday's birthday is a special one for Naruhito, his first s\u2026 [+2467 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "William Mansell",
+            "title": "Judge temporarily halts transfer of coronavirus patients to quarantine facility in California city - ABC News",
+            "description": "Judge temporarily halts transfer of coronavirus patients to quarantine facility in California city ABC News Federal judge blocks effort to transfer coronavirus patients to California city NBC News California City Sues to Stop Relocation of Coronavirus Patient\u2026",
+            "url": "https://abcnews.go.com/US/judge-temporarily-halts-transfer-coronavirus-patients-quarantine-facility/story?id=69142353",
+            "urlToImage": "https://s.abcnews.com/images/US/CHINA-HEALTH-USA-200222_hpMain_20200222-075558_16x9_992.jpg",
+            "publishedAt": "2020-02-22T13:12:22Z",
+            "content": "A city in California won a battle against the state Friday, at least temporarily, when a judge halted the transfer of people diagnosed with the coronavirus to its community for a quarantine site.\r\nCosta Mesa, California, filed a legal action after it learned \u2026 [+3034 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NASSER KARIMI Associated Press",
+            "title": "Iran's hard-liners take early lead in Tehran after vote",
+            "description": "Iranian state TV is announcing the first partial results from the country\u2019s parliamentary elections",
+            "url": "https://abcnews.go.com/International/wireStory/irans-hard-liners-early-lead-tehran-vote-69141870",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_5b78def65c2c4f209fc075bb8971864a_16x9_992.jpg",
+            "publishedAt": "2020-02-22T11:12:47Z",
+            "content": "TEHRAN, Iran -- \r\nIranian state TV on Saturday announced the first partial results from the countrys parliamentary elections, indicating a strong showing by hard-liners in the capital Tehran, although authorities have not released full results or the all-impo\u2026 [+2939 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kelly Cannon",
+            "title": "Health experts warn life-saving coronavirus vaccine still years away",
+            "description": "Health experts warn life-saving coronavirus vaccine still years away go.com",
+            "url": "https://abcnews.go.com/Health/health-experts-warn-life-saving-coronavirus-vaccine-years/story?id=69032902",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-masks-gty-jt-200219_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-22T10:00:00Z",
+            "content": "PARIS -- \r\nTop health experts from around the world are mobilizing to combat the novel coronavirus that has infected more than 77,000 people worldwide.\r\nThe global health threat posed by the coronavirus has kicked the world's scientific community into overdri\u2026 [+5672 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran reports another death, 10 new cases of new coronavirus",
+            "description": "Iranian health authorities are reporting another death from the new virus that emerged in China, bringing the death toll in Iran to five",
+            "url": "https://abcnews.go.com/International/wireStory/iran-reports-death-10-cases-coronavirus-69141354",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4f6a2a217ff04146b303bac51d809296_16x9_992.jpg",
+            "publishedAt": "2020-02-22T09:56:47Z",
+            "content": "TEHRAN, Iran -- \r\nIranian health authorities on Saturday reported a fifth death from the new virus that emerged in China, and said the fatality was from among 10 new confirmed cases of the virus in Iran.\r\nSo far, 28 cases have been confirmed in Iran, includin\u2026 [+1785 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANIRUDDHA GHOSAL and LAURAN NEERGAARD Associated Press",
+            "title": "Health officials worry as untraceable virus clusters emerge",
+            "description": "In the coronavirus outbreak, it\u2019s not the rising numbers that are worrying experts: It's that they can't trace where some disease clusters started",
+            "url": "https://abcnews.go.com/Health/wireStory/health-officials-worry-untraceable-virus-clusters-emerge-69139544",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3193e3dabc9644589844c5c0b02a6c9d_16x9_992.jpg",
+            "publishedAt": "2020-02-22T04:29:02Z",
+            "content": "In South Korea, Singapore and Iran, clusters of infections are leading to a jump in cases of the new viral illness outside China. But its not the numbers that are worrying experts: It's that increasingly they can't trace where the clusters started.\r\nWorld Hea\u2026 [+6138 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 77,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 77,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-77000-people-globally-69137927",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c5a5b089ac5b4616afa9339dfd16caa5_16x9_992.jpg",
+            "publishedAt": "2020-02-22T02:20:17Z",
+            "content": "A viral outbreak that began in China has infected more than 77,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+787 chars]"
+        }
+    ]
+}

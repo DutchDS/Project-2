@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Canary Island airport operations 'paralyzed' due to massive dust storm visible from space",
+            "description": "A massive sandstorm visible from space is causing travel chaos in Spain.",
+            "url": "https://www.foxnews.com/travel/canary-island-dust-storm-airports-closed",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Gran-Canaria-Canary-Islands.jpg",
+            "publishedAt": "2020-02-23T18:29:34Z",
+            "content": "A massive sandstorm visible from space is causing travel chaos in Spain.\r\nAccording to reports, hundreds of travelers are stranded at airports in certain areas of the Canary Islands due to the extreme weather conditions. A large dust cloud from the Sahara is \u2026 [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Family says 'luxury' villa they paid thousands for was a 'bomb site' covered in broken glass and debris",
+            "description": "People usually try to avoid broken glass while on vacation.",
+            "url": "https://www.foxnews.com/travel/luxury-villa-los-angeles-bomb-site-broken-glass",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/vile-villa-family.jpg",
+            "publishedAt": "2020-02-23T17:29:49Z",
+            "content": "People usually try to avoid broken glass while on vacation.\r\nA family says they were shocked when they arrived at the \u201cluxury\u201d villa they rented in Los Angeles. According to them, the building was covered with rubble, exposed pipes, broken glass and other sig\u2026 [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Travis Fedschun",
+            "title": "Coronavirus infections surge in Italy, South Korea as virus kills at least 8 in Iran",
+            "description": "The number of novel coronavirus cases in Italy and South Korea leaped upward on Sunday, spurring authorities to take new steps in an effort to fight a soaring viral outbreak now blamed for at least eight deaths in Iran.",
+            "url": "https://www.foxnews.com/health/coronavirus-infections-italy-south-korea-iran-outbreak-europe-spread",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/CV_1.jpg",
+            "publishedAt": "2020-02-23T14:55:20Z",
+            "content": "The number of novel coronavirus cases in Italy and South Korea leaped upward on Sunday, spurring authorities to take new steps in an effort to fight a soaring viral outbreak now blamed for at least eight deaths in Iran.\r\nItalian authorities announced they wer\u2026 [+6517 chars]"
+        }
+    ]
+}

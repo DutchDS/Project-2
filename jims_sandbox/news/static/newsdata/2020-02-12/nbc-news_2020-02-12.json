@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "\u2018People think he is the hero of China\u2019: Virus expert\u2019s moving tribute to Wuhan medic",
+            "description": "China\u2019s leading epidemiologist, Zhong Nanshan, said he was proud of Dr. Li Wenliang, the Wuhan ophthalmologist who warned of the coronavirus outbreak and who died from its effects in early February.",
+            "url": "https://www.nbcnews.com/video/china-s-leading-epidemiologist-lauds-coronavirus-hero-doctor-dr-li-wenliang-78608453829",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/HEALTHDOCTOR.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-12T13:01:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: More cruise ship cases confirmed as death toll continues to rise",
+            "description": "As the death toll from coronavirus, now named COVID-19, reaches 1,113 in mainland China, here is the latest news.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-more-cruise-ship-cases-confirmed-death-toll-continues-n1135606",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3227041/200212-shanghai-coronavirus-mc-852_a24e425275bd0248bc7623094ad653dd.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-12T11:04:30Z",
+            "content": "Coronavirus death toll in China rises to 1,113\r\n Coronavirus gets official name from WHO: COVID-19\r\n People of Asian descent worldwide share examples of coronavirus-related xenophobia on social media\r\n Outspoken Chinese lawyer critical of government missing i\u2026 [+6448 chars]"
+        }
+    ]
+}

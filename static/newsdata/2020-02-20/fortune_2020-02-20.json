@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "cleaf2013",
+            "title": "We know something essential about the coronavirus. We\u2019re not doing anything about it",
+            "description": "We know some essential information about how pathogens like coronavirus spread. The president's budgetary priorities don't reflect that knowledge.",
+            "url": "https://fortune.com/2020/02/20/coronavirus-trump-budget-cdc/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-Trump-budget.jpg?resize=1200,600",
+            "publishedAt": "2020-02-20T22:04:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "The Chinese province at the heart of the coronavirus outbreak changes how it counts cases\u2014again",
+            "description": "The change raises questions over the reliability of data from the epicenter of the outbreak.",
+            "url": "https://fortune.com/2020/02/20/china-coronavirus-count-hubei-province/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201954656.jpg?resize=1200,600",
+            "publishedAt": "2020-02-20T11:08:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Billionaires are donating millions to fight China\u2019s coronavirus. But where is the money going?",
+            "description": "Bill Gates and Jack Ma have pledged funds, but is China's NGO environment equipped to handle such donations?",
+            "url": "https://fortune.com/2020/02/20/coronavirus-donations-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1063985074.jpg?resize=1200,600",
+            "publishedAt": "2020-02-20T10:14:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Fecal transmission may be responsible for coronavirus\u2019s rapid spread",
+            "description": "Scientists suspect a fecal-oral route for coronavirus that's infected tens of thousands worldwide.",
+            "url": "https://fortune.com/2020/02/20/coronavirus-fecal-transmission/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201953201.jpg?resize=1200,600",
+            "publishedAt": "2020-02-20T06:35:06Z",
+            "content": null
+        }
+    ]
+}

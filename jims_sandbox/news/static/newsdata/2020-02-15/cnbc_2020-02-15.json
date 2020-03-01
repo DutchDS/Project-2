@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "The White House doesn't trust China's coronavirus numbers \u2014 here's why",
+            "description": "U.S. mistrust of China goes as far back as the 1950s, when national authorities set unrealistic production quotas that led local officials to inflate data.",
+            "url": "https://www.cnbc.com/2020/02/15/heres-why-the-white-house-doesnt-trust-chinas-coronavirus-numbers.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393389-1581791450549gettyimages-1199946635.jpeg?v=1581791848",
+            "publishedAt": "2020-02-15T19:11:00Z",
+            "content": "Chinese President Xi Jinping, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, inspects the novel coronavirus pneumonia prevention and control work in Beijing, capital of China, on Feb. \u2026 [+8640 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Amanda Macias",
+            "title": "WHO director calls on global leaders to 'stop stigma and hate' amid coronavirus epidemic",
+            "description": "\"We must stop stigma and hate,\" he said Saturday during an address at the Munich Security Conference.",
+            "url": "https://www.cnbc.com/2020/02/15/who-director-calls-on-global-leaders-to-stop-stigma-and-hate-amid-coronavirus-epidemic.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393320-1581780399752gettyimages-1200868087.jpeg?v=1581780429",
+            "publishedAt": "2020-02-15T15:32:04Z",
+            "content": "MUNICH As the number of coronavirus cases surges past 60,000, WHO Director-General Tedros Adhanom Ghebreyesus called on global leaders to not politicize the deadly outbreak.\r\n\"We must stop stigma and hate,\" he said Saturday during an address at the Munich Sec\u2026 [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Coronavirus live updates: France confirms first death outside of Asia",
+            "description": "Chinese officials on Saturday reported 2,641 new coronavirus cases and 143 additional deaths in the last 24 hours.",
+            "url": "https://www.cnbc.com/2020/02/15/coronavirus-live-updates-france-confirms-first-death-outside-of-asia.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393282-1581770088533gettyimages-1200641673.jpeg?v=1581770228",
+            "publishedAt": "2020-02-15T15:12:03Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in U.S. Eastern Standard Time.\r\nChinese officials on Saturday reported 2,641 new coronavirus cases and 143 additional deaths in the last 24 hours.\r\nThe China Banking and Insurance Regula\u2026 [+778 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Amanda Macias",
+            "title": "China's foreign minister denies major risks to Chinese economy as cases surge past 66,000",
+            "description": "China's Foreign Minister said Saturday that the Chinese economy will emerge stronger from the deadly coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/15/chinas-foreign-minister-denies-major-risks-to-chinese-economy-as-cases-surge-past-66000.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393273-1581767529608gettyimages-1200856123.jpeg?v=1581768081",
+            "publishedAt": "2020-02-15T13:29:13Z",
+            "content": "MUNICH China's Foreign Minister said Saturday that the Chinese economy the second-largest in the world will emerge stronger from the deadly coronavirus outbreak, even as confirmed cases of the disease surge past 66,000.\r\n\"We are confident that China will emer\u2026 [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "China taps blockchain technology to boost financing for businesses hit by virus",
+            "description": "As Chinese authorities rush to support businesses struggling to survive the effects of the new coronavirus, blockchain technology is showing its potential in an archaic financing system.",
+            "url": "https://www.cnbc.com/2020/02/15/coronavirus-china-taps-blockchain-tech-to-help-firns-hit-by-virus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105248732-GettyImages-917979182.jpg?v=1532563630",
+            "publishedAt": "2020-02-15T13:20:38Z",
+            "content": "BEIJING As Chinese authorities rush to support businesses struggling to survive the effects of the new coronavirus, blockchain technology is showing its potential in an archaic financing system.\r\nSince the Lunar New Year holiday, 87 China-based businesses hav\u2026 [+4273 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Vicky McKeever",
+            "title": "Defense Secretary Esper 'reluctant' to call Taliban truce a victory",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/02/15/defense-secretary-esper-reluctant-to-call-taliban-truce-a-victory.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106318277-1577977318964gettyimages-1189657264.jpeg?v=1581696317",
+            "publishedAt": "2020-02-15T12:48:11Z",
+            "content": "U.S. Defense Secretary Mark Esper told CNBC he was \"reluctant\" to call the truce agreement Washington reached with the Taliban on Friday a victory or a loss.\r\nThe truce agreement that the U.S. reached with the Taliban was a plan for \"a reduction in violence\" \u2026 [+2518 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Santoli",
+            "title": "Investors are flocking to the largest US growth stocks as concerns rise over the global economy",
+            "description": "The U.S. economy offers more stable growth and American securities promise more secure cash flows and yield that the rest of the globe.",
+            "url": "https://www.cnbc.com/2020/02/15/investors-are-flocking-to-the-largest-us-growth-stocks-as-concerns-rise-over-the-global-economy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106359311-1580227453742rts2zv3k.jpg?v=1580227550",
+            "publishedAt": "2020-02-15T10:39:46Z",
+            "content": "The way markets have been acting this year, treating high-quality American assets as a haven, makes sense. But even a sensible move can reach extremes and create distortions.\r\nThe trick is trying to figure out when rational activity takes conditions to a risk\u2026 [+4955 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "First coronavirus death confirmed in Europe, French health minister says",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/02/15/first-coronavirus-death-confirmed-in-europe-french-health-minister-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106285508-1575886876333gettyimages-1187294970.jpeg?v=1575888414",
+            "publishedAt": "2020-02-15T10:33:32Z",
+            "content": "An elderly Chinese tourist has died of the new coronavirus in France, French Health Minister Agnes Buzyn said Saturday, confirming the first fatality from the fast-spreading respiratory virus in Europe.\r\nFrance has 11 confirmed cases of the illness, with more\u2026 [+221 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Newlyweds stuck aboard quarantined ship on Valentine's Day: 'This is our honeymoon'",
+            "description": "Tyler and Rachel Torres, a newlywed couple from Texas, said they have a date night on the quarantined Diamond Princess as they await the chance to disembark the ship.",
+            "url": "https://www.cnbc.com/2020/02/14/newlyweds-stuck-aboard-quarantined-ship-on-valentines-day-this-is-our-honeymoon.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106392922-newlyweds.jpg?v=1581726621",
+            "publishedAt": "2020-02-15T01:52:23Z",
+            "content": "A newly married couple from Texas is stuck aboard the quarantined Diamond Princess cruise ship in Japan, but they are not letting it get in the way of their Valentine's Day celebration.\r\nTyler and Rachel Torres, who tied the knot in September, say they are tr\u2026 [+2391 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Everything Jim Cramer said about the stock market on 'Mad Money,' including looming earnings, visibility",
+            "description": "CNBC's Jim Cramer previews the week ahead in earnings reports. He breaks down the concept of visibility and why it's making a comeback on Wall Street.",
+            "url": "https://www.cnbc.com/2020/02/14/jim-cramers-mad-money-recap-stock-picks-feb-14-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349568-1579719779301img_3380r.jpg?v=1579719878",
+            "publishedAt": "2020-02-15T00:39:52Z",
+            "content": "CNBC's Jim Cramer gave a preview of the week ahead in earnings reports. Later in the show, the \"Mad Money\" host explained the return of corporate visibility and what it says about this market.\r\nCramer's week ahead\r\nWall Street gets an update on the coronaviru\u2026 [+1817 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Weizhen Tan",
+            "title": "Coronavirus live updates: China reports 143 more deaths, 2,641 new cases",
+            "description": "China also reported on Friday that 1,716 health workers in the country were infected with the virus.",
+            "url": "https://www.cnbc.com/2020/02/15/coronavirus-live-updates-china-reports-143-more-deaths-2641-new-cases.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106369851-1580756717879gettyimages-1195300772.jpeg?v=1580826400",
+            "publishedAt": "2020-02-15T00:20:49Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Beijing time.\r\n8:05 am: China confirms\u00a0143 more deaths, 2,641 new cases\r\nChina's National Health Commission reported an additional 143 deaths nationwide, as well as 2,641 new confirme\u2026 [+3702 chars]"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jaclyn Gallucci",
+            "title": "Trump puts Pence in charge of coronavirus efforts, calls risk to Americans \u2018very low\u2019",
+            "description": "'The risk to the American people remains very low,' Trump said during a press conference about the coronavirus.",
+            "url": "https://fortune.com/2020/02/26/mike-pence-coronavirus-trump-task-force/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T23:59:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Trump administration budget cuts could become a major problem as coronavirus spreads",
+            "description": "Several global health units of the U.S. government have faced budget crises\u2014or shut down completely.",
+            "url": "https://fortune.com/2020/02/26/coronavirus-covid-19-cdc-budget-cuts-us-trump/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202785313.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T17:45:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "kdunn6",
+            "title": "Oil demand was set to rise in 2020, then the coronavirus outbreak hit",
+            "description": "This week, the oil industry was trying to map out the demand impact of the virus\u2014and avoiding parties and finger food.",
+            "url": "https://fortune.com/2020/02/26/oil-coronavirus-china-demand-fallout/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202908606.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T17:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "The 1-meter rule: virologists pan high fives, \u2018bro hugs\u2019 and kissing as the coronavirus spreads",
+            "description": "It's not the first time: King Henry VI of England banned kissing in 1439 to battle the plague.",
+            "url": "https://fortune.com/2020/02/26/virologists-kissing-high-fives-coronavirus-spreads/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200005676.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T13:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Cathay Pacific says 25,000 staff are taking unpaid leave as coronavirus outbreak batters travel",
+            "description": "The Hong Kong-based airline this month asked its 33,000 workers to take three weeks off between March 1 and June 30.",
+            "url": "https://fortune.com/2020/02/26/cathay-pacific-staff-unpaid-leave-coronavirus-outbreak-travel/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202452040.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T10:55:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "London joins coronavirus work-from-home trend as Chevron sends traders home over sick employee",
+            "description": "The employee had flu-like symptoms and coronavirus hasn\u2019t been confirmed.",
+            "url": "https://fortune.com/2020/02/26/london-coronavirus-work-from-home-chevron-sends-traders-home/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200229772.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T10:11:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "\u2018This could be bad\u2019\u2014the latest coronavirus warnings send markets reeling",
+            "description": "The S&P 500 has suffered its worst two-day stretch since 2015. And the futures are pointing down again this morning.",
+            "url": "https://fortune.com/2020/02/26/could-be-bad-coronavirus-warning-markets/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208637898.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T09:57:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "A new coronavirus test in Singapore is providing clues about how the outbreak spreads",
+            "description": "The test is establishing links between cases in the city-state.",
+            "url": "https://fortune.com/2020/02/26/coronavirus-test-singapore-spread/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-26T06:40:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "China deploys a favorite weapon in the coronavirus crisis: A crackdown on VPNs",
+            "description": "Virtual private networks that let Internet users bypass government censors are coming under fire.",
+            "url": "https://fortune.com/2020/02/25/coronavirus-china-vpn/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201665274.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T00:00:00Z",
+            "content": null
+        }
+    ]
+}

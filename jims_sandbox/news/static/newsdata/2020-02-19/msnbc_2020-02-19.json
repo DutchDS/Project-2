@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Sen. Brian Schatz on whether we can trust Trump to handle coronavirus",
+            "description": "Sen. Brian Schatz (D-HI): \u201cTo the extent we\u2019ve been fortunate with this disease is because of its epidemiology, not because of some sort of coordinated response from the government.\u201d",
+            "url": "https://www.msnbc.com/all-in/watch/sen-brian-schatz-on-whether-we-can-trust-trump-to-handle-coronavirus-78983749689",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hayes_coronavirus_200218_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T02:03:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "How Trump handled the last global health crisis",
+            "description": "Can we trust Trump to handle coronavirus? His response to the Ebola outbreak in 2014\u2014and his recent comments\u2014don't offer much reason for optimism.",
+            "url": "https://www.msnbc.com/all-in/watch/how-trump-handled-the-last-global-health-crisis-78983237787",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hayes_ebola_200218_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T01:51:40Z",
+            "content": null
+        }
+    ]
+}

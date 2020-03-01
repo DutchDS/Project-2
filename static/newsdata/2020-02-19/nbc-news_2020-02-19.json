@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Thousands of Americans voluntarily self-quarantine after returning from China",
+            "description": "Thousands of Americans are under voluntary self-quarantine after travel to China, monitoring for symptoms of the coronavirus for 14 days.",
+            "url": "https://www.nbcnews.com/health/health-news/thousands-americans-voluntarily-self-quarantine-after-returning-china-n1138731",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_08/3235916/200219-coronavirus-self-quarantine-ken-zurek-one-time-use-only-se-120p_b22055938c211ae07e31680b98869b00.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T22:16:33Z",
+            "content": "Thousands of travelers who have returned to the United States after recent trips to China are spending nearly half a month behind closed doors, under voluntary self-quarantine, even though they do not pose any immediate coronavirus-related health risk to othe\u2026 [+5932 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Matthew Mulligan and Yuliya Talmazan and Caroline Radnofsky and Olivier Fabre",
+            "title": "Coronavirus quarantine on Diamond Princess cruise ship 'chaotic,' Japanese expert claims",
+            "description": "Coronavirus quarantine measures on board the Diamond Princess cruise ship were completely chaotic, Japanese infectious disease specialist Kentaro Iwata said.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-quarantine-diamond-princess-cruise-ship-chaotic-japanese-expert-claims-n1138846",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_06/3222841/200209-diamond-princess-coronavirus-cs-940a_85acfe910695acab56142fd12e1bb708.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T20:22:00Z",
+            "content": "The novel coronavirus quarantine measures put in place by Japanese officials on board a cruise ship where thousands of people have been kept in isolation were completely chaotic, an infectious disease specialist who visited the vessel has claimed.\r\nIn two You\u2026 [+3623 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Natasha Roy",
+            "title": "Asian American teen in L.A. assaulted over coronavirus",
+            "description": "\"Children unfortunately repeat things that are said by other people, including their own parents, so we need to put a stop to that,\" L.A. County Supervisor Hilda Solis said.",
+            "url": "https://www.nbcnews.com/news/asian-america/asian-american-teen-l-assaulted-over-coronavirus-n1138376",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_08/3234416/200218-county-of-los-angeles-public-health-se-129p_07fb4dda7b0d4d158bbd6cb4afad9509.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T19:57:49Z",
+            "content": "A 16-year-old Los Angeles County student was allegedly assaulted last week amid fears over the new coronavirus.\r\nThe teen was reportedly bullied and assaulted because he is of Asian descent, L.A. County Supervisor Hilda Solis said at a press conference last T\u2026 [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Janine Phakdeetham",
+            "title": "Amid coronavirus outbreak, some Americans are attempting the journey back home to Wuhan",
+            "description": "Coronavirus in China: Some Americans, fearing for family and loved ones in Hubei province, have returned to China, hoping to get back to Wuhan.",
+            "url": "https://www.nbcnews.com/health/health-news/amid-coronavirus-outbreak-some-americans-are-attempting-journey-back-home-n1138361",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png",
+            "publishedAt": "2020-02-19T16:05:02Z",
+            "content": "Just before the roadblocks went up and public transit came to a halt on Jan. 23, a handful of people were able to leave the Chinese city of Wuhan as the new coronavirus was starting to spread more rapidly. One who got out before the quarantine went into effec\u2026 [+6467 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Coronavirus may be detectable before symptoms start",
+            "description": "Does coronavirus spread without symptoms? A new paper offers insights, but no firm conclusion can be drawn, say experts. Passengers on the Diamond Princess cruise ship can't go back to the U.S. for 14 more days.",
+            "url": "https://www.nbcnews.com/health/health-news/coronavirus-may-be-detectable-symptoms-start-report-suggests-n1138316",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3234681/200218-coronavirus-al-16405_d362e847ec0dac7183b506925a56eed2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T15:40:14Z",
+            "content": "Tests can detect the new coronavirus in people before they show symptoms, though it's still unclear whether a person can spread it to others at this point, while they are asymptomatic, a study published Tuesday says.\r\nThe new report in the New England Journal\u2026 [+2273 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "China revokes three Wall Street Journal reporters' credentials",
+            "description": "China has revoked the press credentials of three journalists of the Wall Street Journal after the newspaper declined to apologize for a column with a headline calling China the \u201creal sick man of Asia\u201d, the foreign ministry said on Wednesday.",
+            "url": "https://www.nbcnews.com/news/all/china-revokes-three-wall-street-journal-reporters-credentials-n1138466",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3219546/200206-wall-street-journal-printing-ew-350p_54402214e0ed0b3af4f503b03478306c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T13:28:50Z",
+            "content": "China has revoked the press credentials of three journalists of the Wall Street Journal after the newspaper declined to apologize for a column with a headline calling China the real sick man of Asia, the foreign ministry said on Wednesday.\r\nSpokesman Geng Shu\u2026 [+2324 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Cruise ship passengers leave as two-week coronavirus quarantine ends, more cases confirmed",
+            "description": "Some of the passengers on board the Diamond Princess cruise ship in Yokohama, Japan, disembarked on Feb. 19 after coronavirus had infected more than 540 people on board and led to a two-week quarantine.",
+            "url": "https://www.nbcnews.com/video/diamond-princess-passengers-leave-after-coronavirus-quarantine-ends-in-japan-78999109724",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/1207178957.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-19T13:06:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Quarantine ends on cruise ship death toll passes 2,000",
+            "description": "As the death toll for the coronavirus outbreak in China continues to rise, here is the latest news for Wednesday Feb. 19.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-second-death-hong-kong-quarantine-ends-cruise-ship-n1138431",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3235191/200219-diamond_princess-mc-938_5795fbbdde155ebcd26f95141848bf78.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-19T11:45:00Z",
+            "content": "Passengers begin leaving quarantined Diamond Princess ship in Japan\r\n Second coronavirus death recorded in Hong Kong\r\n U.S. evacuee from cruise ship confirmed to have virus\r\n 2,004 dead, more than 74,100 confirmed cases in mainland China\r\n China revokes crede\u2026 [+7621 chars]"
+        }
+    ]
+}

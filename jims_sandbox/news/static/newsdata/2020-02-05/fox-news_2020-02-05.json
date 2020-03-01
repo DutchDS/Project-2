@@ -1,0 +1,331 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Hong Kong airline asks workers to take three-week unpaid leave in midst of coronavirus",
+            "description": "A Hong Kong-based airline asked 27,000 employees Wednesday to take three weeks of unpaid leave to lessen the economic impact from the coronavirus that has engulfed mainland China.",
+            "url": "https://www.foxnews.com/health/hong-kong-airline-asks-workers-take-three-week-unpaid-leave-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/FLE_7ER_C062Y15_E0.jpg",
+            "publishedAt": "2020-02-05T22:13:26Z",
+            "content": "A Hong Kong-based airline asked\u00a027,000 employees Wednesday to take three weeks of unpaid leave to lessen the economic impact from the coronavirus that has engulfed mainland China.\r\nCathay Pacific Airways CEO Augustus Tang's request in a video message comes as\u2026 [+1536 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Hong Kong ramps up coronavirus fight by quarantining visitors from mainland China",
+            "description": "Visitors from mainland China to Hong Kong will be quarantined for 14 days as the semi-autonomous region aims to prevent the coronavirus from spreading within its borders.",
+            "url": "https://www.foxnews.com/health/hong-kong-ramps-coronavirus-fight-quarantining-visitors-mainland-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20036121001432.jpg",
+            "publishedAt": "2020-02-05T20:54:23Z",
+            "content": "Visitors from mainland China to Hong Kong will be quarantined for 14 days as the semi-autonomous region aims to prevent the coronavirus from spreading within its borders.\r\nThe policy goes into effect Saturday, the BBC reported, as all but two of Hong Kong's l\u2026 [+2002 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Coronavirus Explained with Dr. Marc Siegel",
+            "description": "This week, Dr. Marc Siegel joins Greg to discuss the latest on the coronavirus and what to expect next.",
+            "url": "https://radio.foxnews.com/2020/02/05/coronavirus-explained-with-dr-marc-siegel/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2020/02/The-One-Marc-Siegel-GRAPHIC.jpg",
+            "publishedAt": "2020-02-05T20:30:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus testing kits to be sent to labs across US to speed up diagnoses: FDA",
+            "description": "The U.S. Food and Drug Administration (FDA) this week granted state laboratories permission to use the rapid coronavirus diagnostic test created by the Centers for Disease Control and Prevention (CDC).",
+            "url": "https://www.foxnews.com/health/coronavirus-testing-kits-us-labs",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20035699439492.jpg",
+            "publishedAt": "2020-02-05T19:14:36Z",
+            "content": "In an effort to speed up coronavirus diagnoses in the U.S., the Food and Drug Administration (FDA) this week granted state laboratories permission to use the rapid coronavirus diagnostic test created by the Centers for Disease Control and Prevention (CDC).\r\nT\u2026 [+2157 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christopher Carbone",
+            "title": "Seals seen clapping underwater as a show of strength",
+            "description": "Wild gray seals can clap their flippers underwater as a show of strength, new research shows.",
+            "url": "https://www.foxnews.com/science/seal-caught-clapping-underwater-way-to-communicate",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/grey-seal.jpg",
+            "publishedAt": "2020-02-05T19:03:48Z",
+            "content": "Wild gray seals can clap their flippers underwater as a show of strength, new research shows.\r\nThis clapping serves two purposes, according to research led by scientists at Monash University: It wards off competitors and advertises to potential mates.\r\n\u201cThe d\u2026 [+1474 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Asymptomatic Newark passenger quarantined amid coronavirus concerns after arriving from China",
+            "description": "The passenger will be quarantined for 14 days and monitored for possible symptoms.",
+            "url": "https://www.foxnews.com/health/asymptomatic-newark-passenger-quarantined-coronavirus-concerns",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbed7b4a-d3dd-4d15-b5d8-8793c2f579af/0d4e8bc1-8699-40ed-82ce-9f92024b67d0/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T18:53:42Z",
+            "content": "A non-New Jersey resident who arrived at Newark airport on Tuesday night on a flight from China has been placed under mandatory quarantine for 14 days. Health officials said the passenger is asymptomatic but had been in Hubei Province on Feb. 4, which is wher\u2026 [+2883 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brian Flood",
+            "title": "Student group: Cornell's coronavirus concerns stem from \u2018xenophobic perceptions of Asian people\u2019",
+            "description": "A Cornell University student group declared on Tuesday that the school is \u201cbuying into Sinophobic rhetoric\u201d and \u201cracist fear mongering\u201d because it sent a mass email about the coronavirus.",
+            "url": "https://www.foxnews.com/us/cornell-coronavirus-concerns-xenophobic-perceptions-asian-people",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6edab15-56bd-492f-96f0-ea0b96bfa400/e4c2b928-3fff-47b7-afee-17b7d18b5754/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T18:34:28Z",
+            "content": "A Cornell University student group declared on Tuesday that the school is \u201cbuying into Sinophobic rhetoric\u201d and \u201cracist fear mongering\u201d because it sent a mass email about the coronavirus.\r\nThe university recently sent out a public health update email to stude\u2026 [+3586 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus in California sparks viral petition for school district to cancel classes until outbreak ends",
+            "description": "More than 14,000 people are calling for one California school district to temporarily close its doors amid the global outbreak of the novel coronavirus that\u2019s killed nearly 500 people as of Wednesday.",
+            "url": "https://www.foxnews.com/health/coronavirus-california-petition-school-district",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a2b6d01-ce14-4f76-b045-c0bb81186724/8f5d6982-35d7-413e-b264-78f6e1e2503c/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T18:26:04Z",
+            "content": "More than 14,000 people are calling for one California school district to temporarily close its doors amid the global outbreak of the novel coronavirus that\u2019s killed nearly 500 people as of Wednesday.\r\nThe Change.org petition calls on the Alhambra Unified Sch\u2026 [+2333 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Baby born to coronavirus patient tests positive for illness, Chinese state media says",
+            "description": "The child was born on Feb. 2, and had experienced shortness of breath before testing positive for the virus.",
+            "url": "https://www.foxnews.com/health/baby-born-coronavirus-patient-tests-positive-illness-chinese-state-media",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31c12eaf-1cd2-41ab-9f8d-a17f9fac255b/53d9d350-3d0f-42f9-9d53-45b18b204075/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T16:16:25Z",
+            "content": "A baby born to a woman with the coronavirus tested positive for the illness 30 hours after birth, raising the possibility that pregnant women may be able to pass the virus onto their unborn children, Chinese doctors said.\r\nThe baby, who was born Feb. 2, is be\u2026 [+2394 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Medics treating coronavirus patients share toll illness is taking",
+            "description": "Medics posted photos of bruising and marks left on their faces by hazmat gear after working round-the-clock to treat coronavirus patients.",
+            "url": "https://www.foxnews.com/health/medics-treating-coronavirus-patients-toll-illness-taking",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/DentsAndSores-2-Asia-Wire.jpg",
+            "publishedAt": "2020-02-05T15:39:03Z",
+            "content": "Doctors in Wuhan, the coronavirus epicenter, have taken to social media to share photos of marks and bruises allegedly\u00a0left on their faces from protective gear after working round-the-clock to treat thousands of patients. More than 24,000 people have been sic\u2026 [+3350 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "California hospital workers exposed to coronavirus, told to stay home: officials",
+            "description": "At least five workers at a hospital in San Jose, Calif., have been told to stay home after they were exposed to a patient with the novel coronavirus.",
+            "url": "https://www.foxnews.com/health/california-hospital-workers-exposed-to-coronavirus-told-to-stay-home",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6edab15-56bd-492f-96f0-ea0b96bfa400/e4c2b928-3fff-47b7-afee-17b7d18b5754/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T15:33:21Z",
+            "content": "At least five workers at a hospital in San Jose, Calif., have been told to stay home after they were exposed to a patient with the novel coronavirus.\r\nPLANES CARRYING AMERICAN CORONAVIRUS EVACUEES FROM CHINA LAND AT CALIFORNIA MILITARY BASE\r\nThe workers, who \u2026 [+1305 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "Illinois suspects enter Walmart with 'Caution I have the Coronavirus' sign and spray substance on $7K worth of produce",
+            "description": "Police in Illinois are looking for two men who caused nearly $10,000 in damage after they entered a Walmart with a \u201cCaution I have the Coronavirus\u201d sign and started spraying a mystery substance.",
+            "url": "https://www.foxnews.com/us/illinois-suspects-enter-walmart-with-caution-i-have-the-coronavirus-sign-and-spray-substance-on-7k-worth-of-produce",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/corona_walmart.jpg",
+            "publishedAt": "2020-02-05T15:31:51Z",
+            "content": "Police in Illinois are looking for two men who caused nearly $10,000 in damage\u00a0after they entered\u00a0a Walmart with a \u201cCaution I have the Coronavirus\u201d sign and started spraying a mystery substance.\r\nJoliet Police were called to the store off\u00a0Route 59 just after \u2026 [+1620 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "'No known effective' treatments for coronavirus despite reports, WHO says",
+            "description": "Health agencies recommend patients receive supportive care to relieve coronavirus symptoms.",
+            "url": "https://www.foxnews.com/health/no-known-effective-treatments-coronavirus-who",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/521614b4-9514-4aa8-9c57-b4734147c4fd/80c990ce-5785-4d7a-8bdb-fba6b538b6ac/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T14:48:31Z",
+            "content": "The World Health Organization (WHO) said despite several reports and claims of breakthrough research on the treatment front, there remains no known treatment for the coronavirus. The virus, which has spread to over 24,000 people and killed at least 490, can c\u2026 [+2489 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Detroit Metro Airport passenger tested for suspected coronavirus symptoms",
+            "description": "The symptomatic passenger flew into the Michigan air hub on Monday.",
+            "url": "https://www.foxnews.com/travel/detroit-metro-airport-passenger-coronavirus-symptoms-suspected-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/woman-coughing-face-mask-istock.jpg",
+            "publishedAt": "2020-02-05T14:33:50Z",
+            "content": "An air traveler who recently flew into Detroit Metropolitan Airport (DTW) has been tested for the coronavirus after showing suspected symptoms of the viral disease during an enhanced screening procedure.\r\nOn Monday, the unnamed passenger flew into the Michiga\u2026 [+2617 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Airline passenger arrested over false coronavirus claim says he did it for 'publicity'",
+            "description": "James Potok, a 28-year-old aspiring musician from Canada, said he wanted to make a viral video for Instagram.",
+            "url": "https://www.foxnews.com/travel/airline-passenger-arrested-false-coronavirus-claim-publicity",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/ee1ff103-WestJetiStock.jpg",
+            "publishedAt": "2020-02-05T14:20:53Z",
+            "content": "An airline passenger who falsely claimed he had the coronavirus aboard a WestJet flight \u2014 and got arrested for it \u2014 now feels his prank was \u201cprobably not the best thing to do.\u201d\r\nJames Potok, a 28-year-old aspiring musician from Ontario, Canada, says he made t\u2026 [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Planes carrying American coronavirus evacuees from China land at California military base",
+            "description": "Two planes carrying coronavirus evacuees from Wuhan, China -- the epicenter of the deadly outbreak -- have landed at Travis Air Force Base in Solano County, Calif., according to local reports.",
+            "url": "https://www.foxnews.com/health/american-coronavirus-evacuees-china-land-california-military-base",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/coronavirus_plane.jpg",
+            "publishedAt": "2020-02-05T12:49:10Z",
+            "content": "Two planes carrying American coronavirus evacuees from Wuhan, China -- the epicenter of the deadly outbreak -- have landed at Travis Air Force Base in Solano County, Calif., according to local reports.\r\nThe flights, which were chartered by the U.S. Department\u2026 [+409 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "James Jay Carafano",
+            "title": "James Carafano: Coronavirus and China \u2013 Beijing's behavior confirms how bad the brand truly is",
+            "description": "Long before the coronavirus made international headlines, China\u2019s Communist Party had an image problem.",
+            "url": "https://www.foxnews.com/opinion/coronavirus-china-beijing-brand-james-carafano",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6edab15-56bd-492f-96f0-ea0b96bfa400/e4c2b928-3fff-47b7-afee-17b7d18b5754/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T10:00:16Z",
+            "content": "Long before the coronavirus made international headlines, China\u2019s Communist Party, which rules the country with unchallenged authority, had an image problem.\r\nImage has\u00a0always been a key element of Beijing\u2019s plan to rise to global greatness. They\u2019ve worked as\u2026 [+5458 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Pelosi tears up Trump's speech in stunning State of the Union scene",
+            "description": "",
+            "url": "https://www.foxnews.com/us/pelosi-tears-up-trumps-speech-state-of-union",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/PelosiTearSOTU020520.jpg",
+            "publishedAt": "2020-02-05T09:29:28Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your Wednesday ...\r\nTrump takes on \u2018radical left\u2019 in defiant State of the Union address; Pelosi rips up speechPresident Trump went on the offensive against socialism and lef\u2026 [+4540 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "At least 10 people-- including American-- test positive for coronavirus on cruise ship off Japan, 3,700 quarantined",
+            "description": "At least 10 people aboard a Japanese cruise ship have tested positive for the Coronavirus as it continues to spread outside mainland china.",
+            "url": "https://www.foxnews.com/health/at-least-10-people-test-positive-coronavirus-cruise-ship-death-toll-490",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20036030691859.jpg",
+            "publishedAt": "2020-02-05T06:25:39Z",
+            "content": "At least 10 people\u00a0aboard a cruise ship off Japan have tested positive for the coronavirus, according to a statement Wednesday night from Princess Cruises. The news comes as infections outside of China continue to increase.\r\nAll 2,666 guests and 1,045 crewmem\u2026 [+3292 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Marco Rubio",
+            "title": "Sen. Marco Rubio: Trump SOTU address reminds us of what matters to America",
+            "description": "President Trump\u2019s State of the Union address was a much-needed and refreshing reminder that life does indeed exist outside the Washington bubble.",
+            "url": "https://www.foxnews.com/opinion/sen-marco-rubio-trump-sotu-address-reminds-us-of-what-matters-to-america",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcc3c192-4cac-4314-945f-585c8b462f18/6c5408e2-c8de-41ba-89ac-11e75f037891/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T04:17:55Z",
+            "content": "President Trump\u2019s State of the Union address Tuesday night was a much-needed and refreshing reminder that life does indeed exist outside the Washington bubble.\r\nThe president spoke to the real hopes and anxieties felt by Americans who live outside of the Belt\u2026 [+3698 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "State of the Union 2020: Read President Trump's complete prepared remarks",
+            "description": "Below are President Trump's prepared remarks for his State of the Union address on Feb. 4, 2020.",
+            "url": "https://www.foxnews.com/politics/state-of-the-union-2020-read-president-trumps-complete-prepared-remarks",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcc3c192-4cac-4314-945f-585c8b462f18/6c5408e2-c8de-41ba-89ac-11e75f037891/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-05T04:09:04Z",
+            "content": "Below are President Trump's prepared remarks for his State of the Union address on Feb. 4, 2020.\r\nMadam Speaker, Mr. Vice President, Members of Congress, the\u00a0First Lady of the United States, and my fellow citizens:\r\n\u00a0\u00a0\u00a0\u00a0 Three years ago, we launched the great\u2026 [+36100 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Chinese doctor who sounded alarm on coronavirus says he was detained -- then got sick",
+            "description": "A Chinese doctor who claimed he quietly warned of the coronavirus outbreak that has besieged the country and resulted in hundreds of deaths said he was detained by authorities and eventually sickened.",
+            "url": "https://www.foxnews.com/health/chinese-doctor-who-sounded-alarm-on-coronavirus-says-he-was-detained-then-got-sick",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20035496800564.jpg",
+            "publishedAt": "2020-02-05T02:12:49Z",
+            "content": "A Chinese doctor who claimed\u00a0he quietly warned of the coronavirus outbreak that has besieged the country and resulted in hundreds of deaths said he was detained by\u00a0authorities and eventually sickened.\r\nLi Wenliang shared his concerns via a private chat with h\u2026 [+2691 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "Flight passenger sleeping with bare feet on windows caught on video",
+            "description": "A video of a passenger getting a little too comfortable on a flight, apparently in first class, has gone viral \u2013 and not for a good reason.",
+            "url": "https://www.foxnews.com/travel/flight-passenger-sleeping-bare-feet-on-windows",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/feetplaneistock-33921.jpg",
+            "publishedAt": "2020-02-05T01:23:38Z",
+            "content": "A video of a passenger getting a little too comfortable on a flight, apparently in first class, has gone viral \u2013 and not for a good reason.\r\nThe video, shared by the Instagram account @PassengerShaming, shows an unidentified woman sleeping on two seats with h\u2026 [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Frank Miles",
+            "title": "UN's Antonio Guterres: Wars, instability prove 'a wind of madness is sweeping the globe'",
+            "description": "U.N. Secretary-General Antonio Guterres warned Tuesday that \u201ca wind of madness is sweeping the globe,\u201d pointing to escalating conflicts from Libya and Yemen to Syria and beyond.",
+            "url": "https://www.foxnews.com/world/uns-antonio-guterres-wars-instability-prove-a-wind-of-madness-is-sweeping-the-globe",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2020/02/04/694940094001_6129596081001_6129591660001-vs.jpg",
+            "publishedAt": "2020-02-05T01:19:07Z",
+            "content": "As the United Nations marks its 75th anniversary this year, Secretary-General Antonio Guterres said Tuesday \u201ca wind of madness is sweeping the globe\u201d because of escalating geopolitical conflicts of wars and instabilities.\r\nHe said he will press \u201cto break the \u2026 [+3757 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "How has coronavirus affected China's and the world\u2019s economy compared to SARS outbreak?",
+            "description": "The deadly coronavirus, which was first reported in the Chinese city of Wuhan in December, is sending ripples across the global business community as numerous firms close their doors and employees stay home in an effort to contain the outbreak from spreading.",
+            "url": "https://www.foxnews.com/world/how-has-coronavirus-affected-china-worlds-economy-sars-outbreak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20035269271008.jpg",
+            "publishedAt": "2020-02-05T00:06:36Z",
+            "content": "The deadly coronavirus, which was first reported in the Chinese city of Wuhan in December, is sending ripples across the global business community as numerous firms close their doors and employees stay home in an effort to contain the outbreak from spreading.\u2026 [+2705 chars]"
+        }
+    ]
+}

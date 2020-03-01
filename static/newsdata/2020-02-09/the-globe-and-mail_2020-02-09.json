@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "While Beijing calls citizens back to work, there are few signs of a return to normal - The Globe and Mail",
+            "description": "A trip through rural and industrial areas of Chongqing indicates the opposite, suggesting the massive disruptions to a lynchpin of global manufacturing and trade are unlikely to be resolved soon",
+            "url": "https://www.theglobeandmail.com/world/article-while-beijing-calls-citizens-back-to-work-there-are-few-signs-of-a/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/sX-jeAvxrdDz4K3tbzDMD6yUFfg=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/Z6WI5YG2XRG55PECZLUMSKKCII.jpg",
+            "publishedAt": "2020-02-09T15:34:04Z",
+            "content": "Am I scared? Who isnt? said Zhang Zhengguo, 81, here working a vegetable plot in the Fengdu Industrial Zone on Feb. 8 and wearing a mask amid fears of contagion from the Wuhan coronavirus.\r\nNathan VanderKlippe/The Globe and Mail\r\nIn the green hills overlookin\u2026 [+7430 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Erika Kinetz",
+            "title": "Where did they go? Millions left Wuhan before the city was put under quarantine - The Globe and Mail",
+            "description": "Where did they go? Millions left Wuhan before the city was put under quarantine The Globe and Mail Coronavirus: China under pressure as toll exceeds SARS Al Jazeera English British universities face long shutdown of Chinese campuses as virus spreads The Guard\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-where-did-they-go-millions-left-city-before-quarantine/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/-ELcmN9puAMKNcH3MmFT6SzYE2c=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/CQE5BMR3MNFHTIZAGBKTFQNCAM.jpg",
+            "publishedAt": "2020-02-09T14:52:31Z",
+            "content": "This handout photo taken and released by the Indonesian Embassy on Feb. 2, 2020, shows Indonesian students listening to officials upon their arrival before going to quarentine in Batam, following their evacuation from the Chinese city of Wuhan due to the dead\u2026 [+8478 chars]"
+        }
+    ]
+}

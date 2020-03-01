@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "Coronavirus cases on quarantined Diamond Princess cruise ship rise, include American",
+            "description": "Two more passengers have reportedly been diagnosed with coronavirus.",
+            "url": "https://www.foxnews.com/travel/coronavirus-cases-quarantined-diamond-princess-cruise-ship",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Diamond-Princess-Cruise-Ship-iStock.jpg",
+            "publishedAt": "2020-02-08T22:51:38Z",
+            "content": "Two more passengers\u00a0have reportedly been diagnosed with coronavirus\u00a0aboard the Princess Diamond cruise ship that is quarantined off the coast of Japan, bringing the total number of cases to 63.\r\nOne of the new cases involved is an American, increasing the shi\u2026 [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Dr. Robert Siegel",
+            "title": "Dr. Robert Siegel: Coronavirus epidemic could be contained in months \u2013 Global pandemic unlikely",
+            "description": "No one knows for sure how long the Wuhan coronavirus epidemic in China will last and how seriously it will impact other countries, but there are encouraging signs that suggest the epidemic will be contained in several months.",
+            "url": "https://www.foxnews.com/opinion/dr-robert-siegel-coronavirus-epidemic-could-be-contained-in-months-global-pandemic-unlikely",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fc326b8-7490-48cf-8275-f1fc43b167a0/d07bd4dc-322e-484c-b9bf-106185810e23/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-08T17:53:59Z",
+            "content": "No one knows for sure how long the Wuhan coronavirus epidemic in China will last and how seriously it will impact other countries, but there are encouraging signs that suggest the epidemic will be contained in several months.\r\nAs of Friday, China reported mor\u2026 [+5901 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "Diamond Princess passenger tweets food reviews during coronavirus quarantine",
+            "description": "This is one way to cope amid a deadly virus outbreak aboard.",
+            "url": "https://www.foxnews.com/food-drink/diamond-princess-quarantine-passenger-food-reviews",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Diamond-Princess-Cruise-Ship-iStock.jpg",
+            "publishedAt": "2020-02-08T17:12:06Z",
+            "content": "Despite being quarantined for days on the coast of Japan due to the coronavirus, one cheery Diamond Princess cruise passenger is making the best of his time.\r\nMatthew Smith, stranded on the cruise line with 2,666 other passengers since Tuesday, has been enter\u2026 [+3320 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Dr. Marc Siegel: No need to panic about coronavirus in US",
+            "description": "Americans are worrying more about the coronavirus than they should be, Fox News Medical contributor Dr. Marc Siegel said Saturday.",
+            "url": "https://www.foxnews.com/media/dr-marc-siegel-coronavirus-united-states-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/SIEGEL.jpg",
+            "publishedAt": "2020-02-08T13:21:07Z",
+            "content": "Americans have no reason to panic over the\u00a0coronavirus, Fox News medical correspondent\u00a0Dr. Marc Siegel said Saturday.\r\n\"People are walking down the street with masks about a virus that literally only has infected 12 people\" in the United States, he said.\r\nSie\u2026 [+1489 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tom Cotton",
+            "title": "Sen. Tom Cotton: Eliminating coronavirus requires Chinese Communist Party to make big changes",
+            "description": "We still have a chance to prevent coronavirus from becoming an epidemic in America, and even a narrow shot at heading off a pandemic. Achieving this will require drastic changes from the Chinese Communist Party, whose secrecy and paranoia are responsible for \u2026",
+            "url": "https://www.foxnews.com/opinion/to-beat-coronavirus-china-must-change-sen-tom-cotton",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Coronavirus-montage-thumb.jpg",
+            "publishedAt": "2020-02-08T10:00:20Z",
+            "content": "China has been hobbled by the mysterious coronavirus that emerged in the central city of Wuhan late last year. The ruling Chinese Communist Party is now taking aggressive measures to regain control of the situation.\r\nNearly 60 million Chinese live under quara\u2026 [+6625 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "First American dies of coronavirus in China: US embassy",
+            "description": "A 60-year-old diagnosed with coronavirus in Wuhan, China, has reportedly become the first U.S. citizen to die of the novel virus.",
+            "url": "https://www.foxnews.com/health/first-american-dies-of-coronavirus-in-china-us-embassy",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/28/694940094001_6127195445001_6127190952001-vs.jpg",
+            "publishedAt": "2020-02-08T09:13:59Z",
+            "content": "A 60-year-old diagnosed with coronavirus in Wuhan, China, has reportedly become the first U.S. citizen to die of the novel virus.\r\nThe patient died at Jinyintian Hospital in Wuhan on Thursday, The New York Times\u00a0reported.\r\nThe U.S. Embassy in Beijing confirme\u2026 [+1285 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Coronavirus deaths in China grow to 772, more than 34,500 cases reported",
+            "description": "China increased its death toll from the coronavirus Friday to 722, adding that news cases jumped to 31,774, according to reports.",
+            "url": "https://www.foxnews.com/health/coronavirus-deaths-in-china-grow-to-772-more-than-34500-cases-reported",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20038220743287.jpg",
+            "publishedAt": "2020-02-08T02:03:33Z",
+            "content": "China increased its death toll from the coronavirus Friday to 722, while\u00a0new\u00a0cases jumped to 34,546, according to reports.\r\nChinese officials are still trying to stem the flow of infections in the mainland as the virus continues to spread globally. The countr\u2026 [+2094 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "Norwegian Cruise enforcing travel restrictions due to coronavirus outbreak",
+            "description": "The cruise line, citing guidance from the World Health Organization and the CDC, is prohibiting anyone who holding a Chinese, Hong Kong or Macau passport from boarding its ships, regardless of residency.",
+            "url": "https://www.foxnews.com/travel/norwegian-cruise-coronavirus-travel-restrictions",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Norwegian-Cruise.jpg",
+            "publishedAt": "2020-02-08T00:06:20Z",
+            "content": "Norwegian Cruise Line\u00a0announced on Friday major travel restrictions for passengers and crew members amid the coronavirus outbreak.\r\nThe cruise line, citing guidance from the World Health Organization and the CDC, is prohibiting anyone holding a Chinese, Hong \u2026 [+3049 chars]"
+        }
+    ]
+}

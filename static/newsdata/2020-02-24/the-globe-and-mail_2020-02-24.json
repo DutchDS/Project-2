@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "Northern Italy shut down as coronavirus death toll climbs - The Globe and Mail",
+            "description": "Northern Italy shut down as coronavirus death toll climbs The Globe and Mail Coronavirus cases soar in Italy as authorities scramble to find patient zero CNN Italians struggle with 'surreal' lockdown as coronavirus cases rise The Guardian Northern Italy shutt\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-northern-italy-shut-down-as-coronavirus-death-toll-climbs-to-six/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/FXp2LuUaLE297YkTpAFrv6yVYbk=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/PQRT7Q7F6FEJ7IQDVE3TST5GDU.jpg",
+            "publishedAt": "2020-02-24T14:33:47Z",
+            "content": "People wearing protective face masks walk across the Piazza del Duomo, in central Milan, on Feb. 24, 2020, as security measures were taken in Northern Italy against COVID-19.\r\nANDREAS SOLARO/AFP/Getty Images\r\nThe alarmingly fast spread of COVID-19 in Italy, t\u2026 [+6912 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Aya Batrawy",
+            "title": "Coronavirus death toll in Iranian city of Qom is at 50, news agency reports - The Globe and Mail",
+            "description": "Coronavirus death toll in Iranian city of Qom is at 50, news agency reports The Globe and Mail Coronavirus: Iran denies cover-up as six deaths reported in Italy The Guardian Neighbours close borders with Iran as virus concerns rise Al Jazeera English Iran\u2019s g\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-coronavirus-death-toll-in-iranian-city-of-qom-is-at-50-news-agency/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/cqVwMYbGh0puKc9BDaD43AwQZDk=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/D4DNIEIXF5ESHCHEIE6TQBB4U4.JPG",
+            "publishedAt": "2020-02-24T09:13:34Z",
+            "content": "People walk in front of the Shrine of Fatima Masumeh in Qom, Iran, on Feb. 09, 2020\r\nWANA/Reuters\r\nA staggering 50 people have died in the Iranian city of Qom from the new coronavirus this month, Irans semiofficial ILNA news agency reported on Monday.\r\nThe ne\u2026 [+4104 chars]"
+        }
+    ]
+}

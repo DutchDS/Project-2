@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Coronavirus live updates: IMF lowers global growth forecast, warns of 'more dire scenarios'",
+            "description": "China's National Health Commission said 2,345 people have died in the country from the coronavirus, and over 76,288 people are infected.",
+            "url": "https://www.cnbc.com/2020/02/22/coronavirus-live-updates-imf-lowers-global-growth-forecast.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106404318-1582380353210gettyimages-1201579755.jpeg?v=1582380375",
+            "publishedAt": "2020-02-22T15:07:00Z",
+            "content": "Workers assemble cars at the factory of Chang'an Automobile in Dingzhou, north China's Hebei Province, Feb. 16, 2020.\r\nThis is a live blog. Please check back for updates.\r\nAll times below are in U.S. Eastern time.\r\nChina's National Health Commission said 2,34\u2026 [+1892 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Cory Stieg",
+            "title": "Do you need to disinfect your phone to stay healthy? Because it's ruining your screen",
+            "description": "Smartphones can harbor a lot of germs, but cleaning products can damage the touchscreen. So can plain soap and water cut it when respiratory viruses from the flu to coronavirus are going around? Emily Martin, associate professor of epidemiology at the Univers\u2026",
+            "url": "https://www.cnbc.com/2020/02/21/disinfectant-wipes-damage-smartphone-screen-how-to-clean-phone-germs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389824-1581614705592morning-ritual_t20_waqxaz.jpg?v=1581614746",
+            "publishedAt": "2020-02-22T14:01:01Z",
+            "content": "The average person touches their smartphone more than 2,000 times a day, surveys have shown. So it's not surprising that phones can harbor lots of bacteria and germs. Some experts estimate that phones contain 10 times the number of germs found on a toilet sea\u2026 [+2955 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "New coronavirus cases in Iran, Italy fuel concerns the disease cannot be contained",
+            "description": "With several localized coronavirus cases popping up in places such as Iran, Italy, South Korea and Japan, some experts are beginning to wonder: Is the genie out of the bottle?",
+            "url": "https://www.cnbc.com/2020/02/21/new-coronavirus-cases-in-iran-italy-fuel-concerns-disease-cannot-be-contained.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403469-1582312737080rts309z7.jpg?v=1582312837",
+            "publishedAt": "2020-02-22T14:01:00Z",
+            "content": "Tourists wearing protective masks walk past the Colosseum, after two cases of coronavirus were confirmed in Italy, in Rome, January 31, 2020.\r\nLocalized outbreaks of the new coronavirus outside of China are fueling concerns among infectious disease experts an\u2026 [+6155 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "These stocks have been hit by coronavirus fears, but analysts still say buy",
+            "description": "Major Wall Street analysts see buying opportunities for some stocks hit by the coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/22/stocks-hit-by-coronavirus-worries-but-analysts-say-buy-apple-nike.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105380855-1533650324355gettyimages-937560280.jpeg?v=1582295270",
+            "publishedAt": "2020-02-22T12:07:46Z",
+            "content": "Apple Inc. CEO Tim Cook attends China Development Forum (CDF) 2018 at the Diaoyutai State Guesthouse on March 24, 2018 in Beijing, China. China Development Forum (CDF) 2018 is hosted by the Development Research Center of the State Council of China on March 24\u2026 [+6123 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Maggie Fitzgerald",
+            "title": "Here's how to tell a bear market is coming",
+            "description": "Bank of America Securities curated a \"bear market signposts\" list for clients to help gauge when stocks might be close to bear market territory.",
+            "url": "https://www.cnbc.com/2020/02/22/heres-how-to-tell-a-bear-market-is-coming.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105638102-1545259268299rtx6j8r7.jpg?v=1545259624",
+            "publishedAt": "2020-02-22T12:06:36Z",
+            "content": "A trader works at his post on the floor of the New York Stock Exchange, December 19, 2018.\r\nTrying to time the market can be dangerous, but there are certain signals that the professionals look for when trying to gauge future risk in stocks which could be hel\u2026 [+6235 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Kempe",
+            "title": "Investors need to wake up and face the warning signs in the global economy",
+            "description": "Investors are too complacent, in no small part due to a fundamental misunderstanding of how rapidly the world has changed, economically and politically, writes Fred Kempe.",
+            "url": "https://www.cnbc.com/2020/02/21/investors-need-to-face-the-warning-signs-in-the-global-economy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403576-1582316643611gettyimages-483121702.jpeg?v=1582316703",
+            "publishedAt": "2020-02-22T12:01:01Z",
+            "content": "Global investors are being overly complacent about downside economic risks, aggravated but not limited to the growing impact of coronavirus.\r\nThey are underestimating the forces that are changing the very nature of the world economy a growing degree of \"deglo\u2026 [+7368 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Malaysia says American coronavirus case from Westerdam cruise ship now tests negative for virus",
+            "description": "The 83-year-old woman was the first passenger from the MS Westerdam, run by Carnival Corp unit Holland America, to test positive.",
+            "url": "https://www.cnbc.com/2020/02/22/malaysia-says-american-coronavirus-case-now-tests-negative-for-virus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393280-1581769473465gettyimages-1200671942.jpeg?v=1582358362",
+            "publishedAt": "2020-02-22T07:58:57Z",
+            "content": "Malaysian health authorities on Saturday said an American passenger of a cruise liner docked in Cambodia has now tested negative for the novel coronavirus, a week after she had been declared the country's 22nd confirmed virus case.\r\nThe 83-year-old woman was \u2026 [+1386 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China brings in seven cruise ships to house Wuhan medical workers, state media reports",
+            "description": "The move comes at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted the coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/22/7-cruise-ships-to-house-wuhan-medical-workers-state-media-reports.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106404157-1582356045392gettyimages-1202177262.jpeg?v=1582355932",
+            "publishedAt": "2020-02-22T07:21:21Z",
+            "content": "China is bringing in seven\u00a0cruise ships to house medical workers in Wuhan, state media said on Saturday, at a time when such ships are under scrutiny after hundreds of passengers on the Diamond Princess liner in Japan contracted the coronavirus.\r\n The first o\u2026 [+1045 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China's central bank vows more steps to support virus-hit economy",
+            "description": "The People's Bank of China (PBOC) will guide market interest rates lower and keep liquidity appropriately ample to help companies affected by the coronavirus epidemic, Liu Guoqiang, the bank official, told the Financial News in an interview.",
+            "url": "https://www.cnbc.com/2020/02/22/chinas-central-bank-vows-more-steps-to-support-virus-hit-economy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104344624-RTX2HW2H.jpg?v=1550728902",
+            "publishedAt": "2020-02-22T04:41:00Z",
+            "content": "China's central bank will take further steps to support the virus-hit economy, including releasing more liquidity and lowering funding costs for firms, a vice governor of the bank told state media.\r\nThe People's Bank of China (PBOC) will guide market interest\u2026 [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "The Associated Press",
+            "title": "Coronavirus outbreak, economic ills dim luster of Japan's Olympic year",
+            "description": "When the country should be gearing up for the mass celebration of its first Summer Olympics since 1964, Abe and his government are battling criticism from both within and outside Japan over how they've dealt with the outbreak.",
+            "url": "https://www.cnbc.com/2020/02/22/coronavirus-outbreak-economic-ills-dim-luster-of-japans-olympic-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105417273-1535334957866gettyimages-1002480490.jpeg?v=1582346120",
+            "publishedAt": "2020-02-22T04:35:47Z",
+            "content": "Prime Minister Shinzo Abe should be basking in the limelight this year in the run-up to the 2020 Tokyo Olympics. Instead, the virus outbreak that has spread from China to even remote parts of Japan has Abe and his ruling Liberal Democratic Party playing defen\u2026 [+6115 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Tokyo postpones training for Olympics volunteers over virus fears",
+            "description": "Japan is facing growing questions about whether it is doing enough to stop the coronavirus, which emerged in central China late last year and has spread to 24 other countries.",
+            "url": "https://www.cnbc.com/2020/02/22/tokyo-postpones-training-for-olympics-volunteers-over-virus-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106395571-1582028409113gettyimages-1201337743.jpeg?v=1582340714",
+            "publishedAt": "2020-02-22T03:05:32Z",
+            "content": "Organizers for the Tokyo 2020\u00a0Summer Olympics have postponed training for volunteers because of the spread of the coronavirus in Japan.\r\n Training was scheduled to be held starting Saturday but will be rescheduled, the organizing committee said in a statement\u2026 [+1074 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Christine Wang",
+            "title": "Coronavirus live updates: China reports 109 more deaths as total cases cross 76,000",
+            "description": "As of the end of Friday, the new coronavirus has infected another 397 people with China's total confirmed cases at 76,288, the commission said.",
+            "url": "https://www.cnbc.com/2020/02/22/coronavirus-latest-updates-china-covid-19.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403084-1582300317856rts32vdd.jpg?v=1582300414",
+            "publishedAt": "2020-02-22T01:22:00Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Beijing time.\r\n9:22 am: China reports 109 additional deaths\r\nChina's National Health Commission reported an additional 109 deaths, almost all in Hubei province. That brings the countr\u2026 [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Everything Jim Cramer said about the stock market on 'Mad Money,' including looming earnings, social media stocks",
+            "description": "CNBC's Jim Cramer warns that coronavirus outbreak updates will continue to influence on the market. He breaks down the earnings reports behind Facebook, Snap, Twitter and Pinterest.",
+            "url": "https://www.cnbc.com/2020/02/21/jim-cramers-mad-money-recap-stock-picks-feb-21-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104433172-IMG_3512rr.jpg?v=1493327672",
+            "publishedAt": "2020-02-22T00:18:04Z",
+            "content": "CNBC's Jim Cramer gave viewers a preview of what's circled on his earnings calendar next week and warned that the coronavirus could weigh on how investors react. The \"Mad Money\" host dove into the earnings reports of the top social media stocks of Facebook, T\u2026 [+2340 chars]"
+        }
+    ]
+}

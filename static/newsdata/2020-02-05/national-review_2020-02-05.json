@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Marc Siegel, Marc Siegel",
+            "title": "How Bad Will the Coronavirus Outbreak Be?",
+            "description": "The virus is unlikely to do as much damage as some past pandemics, but it\u2019s a serious threat. We must remain vigilant to contain it and seek a vaccine.",
+            "url": "https://www.nationalreview.com/2020/02/how-bad-will-the-coronavirus-outbreak-be/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/china-coronavirus-020420-30.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-05T17:37:09Z",
+            "content": null
+        }
+    ]
+}

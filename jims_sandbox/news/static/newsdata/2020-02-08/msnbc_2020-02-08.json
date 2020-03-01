@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "13 Americans infected with coronavirus on cruise ship in Japan",
+            "description": "The coronavirus has infected 64 passengers aboard the Diamond Princess cruise ship, including 13 Americans. The ship quarantined near Tokyo. NBC's Molly Hunter joins Alex Witt to discuss the situation.",
+            "url": "http://www.msnbc.com/weekends-with-alex-witt/watch/13-americans-infected-with-coronavirus-on-cruise-ship-in-japan-78390853976",
+            "urlToImage": null,
+            "publishedAt": "2020-02-08T17:29:26Z",
+            "content": null
+        }
+    ]
+}

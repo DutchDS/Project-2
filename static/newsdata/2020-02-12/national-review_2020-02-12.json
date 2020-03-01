@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Helen Raleigh, Helen Raleigh",
+            "title": "Happy Subjects No More",
+            "description": "As the coronavirus continues to spread, the Chinese people reevaluate their social contract with the Communist Party.",
+            "url": "https://www.nationalreview.com/2020/02/coronavirus-outbreak-chinese-people-reevaluating-communist-party/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/xi-jinping-coronavirus-2.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-12T11:30:26Z",
+            "content": null
+        }
+    ]
+}

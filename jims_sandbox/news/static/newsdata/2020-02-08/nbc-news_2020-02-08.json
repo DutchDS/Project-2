@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "First American dies from coronavirus in Wuhan, China",
+            "description": "The Chinese government is scrambling to contain the coronavirus outbreak, with disturbing videos on social media showing its extreme measures to quarantine the sick. More Americans arrived overnight in the U.S. from Wuhan with no more evacuation flights plann\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/first-american-dies-from-coronavirus-in-wuhan-china-78403141682",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mhu_coronavirus_american_death_200208_1581207681076.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-08T23:36:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke, Suzanne Ciechalski, Leou Chen, Dawn Liu",
+            "title": "Video appears to show people in China forcibly taken for quarantine over coronavirus",
+            "description": "Two videos have surfaced on social media that appear to show people in China being taken for quarantine or isolation over the coronavirus, which has sickened tens of thousands and killed more than 700 people in the country.",
+            "url": "https://www.nbcnews.com/news/world/video-appears-show-people-china-forcibly-taken-quarantine-over-coronavirus-n1133096",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3222516/200208-china-quarantine-al-1627_470e53a5c9fec74eb18593a7f756193b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-08T23:34:23Z",
+            "content": "Two videos have surfaced on social media that appear to show people in China being taken for quarantine or isolation over the coronavirus, which has sickened tens of thousands and killed more than 700 people in the country.\r\nIn one video posted on Twitter on \u2026 [+2410 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Videos appear to show people taken into quarantine for coronavirus in China",
+            "description": "Videos from social media appear to show people being taken into quarantine for the coronavirus in the Jiangsu Province of China.",
+            "url": "https://www.nbcnews.com/video/video-appears-to-show-people-taken-into-quarantine-for-coronavirus-in-china-78401093791",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/f_mash_coronavirus_200208.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-08T23:00:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sasha Urban",
+            "title": "Safe in quarantine in the U.S., worried about family back home in China",
+            "description": "Coronavirus quarantine in the U.S.: Yu Lin Yin was in Wuhan, China, when he secured a spot on a plane carrying nearly 200 people.",
+            "url": "https://www.nbcnews.com/health/health-news/safe-quarantine-u-s-worried-about-family-back-home-china-n1132881",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_06/3221981/200207-san-diego-coronavirus-containment-ugc-ac-858p_10d057cca3a869b712e63f94d7b4df6f.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-08T19:01:00Z",
+            "content": "By the time the Chinese government locked down the city of Wuhan on Jan. 23, Yu Lin Yin and his elderly parents were already self-quarantined in their condo, a precaution they took in the face of locals' growing concerns over an unidentified virus that was qu\u2026 [+3140 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: U.S., Japanese citizens die in Wuhan and global deaths at least 724",
+            "description": "Coronavirus updates: Global death toll hits 724, with most in China. An American with coronavirus died in Wuhan. A Japanese citizen suspected of having it also died there.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-u-s-japanese-citizens-die-wuhan-global-deaths-n1132951",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3222186/2020-02-07t100029z_1216618146_rc2mve9735b0_rtrmadp_3_china-health_ace2696925e83de3252b425bff17bac2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-08T08:42:58Z",
+            "content": "Global death toll rises to at least 724 as confirmed cases reach more than 34,500 in mainland China\r\n A 60-year-old U.S. citizen with coronavirus died Thursday in Wuhan, embassy says\r\nJapanese citizen in their 60s suspected to have died from virus in Wuhan\r\n \u2026 [+5202 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "American with coronavirus died in Wuhan, China, embassy says",
+            "description": "A 60-year-old U.S. citizen diagnosed with novel coronavirus died Thursday at a Wuhan, China, hospital, the U.S. embassy confirmed.",
+            "url": "https://www.nbcnews.com/news/world/american-coronavirus-died-wuhan-china-embassy-says-n1132946",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3217751/200205-coronavirus-germ-ew-240p_1fa691d230ef15427b43629b8bf8b9cc.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-08T05:50:00Z",
+            "content": "A U.S. citizen diagnosed with novel coronavirus has died in China in what appears to be the first death of an American from the virus that has sickened tens of thousands of people in China and killed more than 700, a U.S. embassy spokesperson said.\r\n\"We can c\u2026 [+1326 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Kimmy Yam",
+            "title": "The Wall Street Journal criticized for op-ed with derogatory reference to China in title",
+            "description": "The phrase \u201csick man of Asia\u201d has been historically used to perpetuate the stereotype that Chinese people were disease-ridden and unclean.",
+            "url": "https://www.nbcnews.com/news/asian-america/wall-street-journal-slammed-op-ed-derogatory-reference-china-title-n1132836",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3219546/200206-wall-street-journal-printing-ew-350p_54402214e0ed0b3af4f503b03478306c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-08T00:05:00Z",
+            "content": "An op-ed that appeared this week in The Wall Street Journal, comparing Chinas financial markets to a market linked to the coronavirus outbreak, has prompted social media users to accuse the outlet of perpetuating anti-Chinese sentiments.\r\nThe article, written\u2026 [+3222 chars]"
+        }
+    ]
+}

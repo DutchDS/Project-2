@@ -7,77 +7,12 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Ian Mount",
-            "title": "Investors clobber AB InBev as it forecasts worst quarter in a decade on coronavirus outbreak",
-            "description": "For the world\u2019s largest brewer, the coronavirus presents a particular problem as consumers in China avoid going out in public.",
-            "url": "https://fortune.com/2020/02/27/ab-inbev-forecasts-worst-quarter-coronavirus-outbreak/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-488778982.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T09:35:17Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Claire Zillman, reporter",
-            "title": "New coronavirus case in California might signal \u2018community spread\u2019 of outbreak",
-            "description": "Coronavirus in U.S. reached a new stage on Wednesday when a case without known contact with the outbreak popped up on Cali.",
-            "url": "https://fortune.com/2020/02/26/coronavirus-california-community-spread/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208896505.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T03:09:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Karen Yuan",
-            "title": "As stock markets dive, these commodities are leading the plunge down",
-            "description": "Brent crude's fall since the coronavirus outbreak nears bear territory proportions. Meanwhile, the Dow and S&P 500 are flirting with a correction.",
-            "url": "https://fortune.com/2020/02/27/stocks-fall-commodities-coronavirus/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208916339.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T10:01:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Adam Lashinsky",
-            "title": "In the time of coronavirus, Amazon needs to \u2018take this crap down\u2019",
-            "description": "The online bookseller is peddling dangerous misinformation in a time of coronavirus, says Peter Jay Hotez, dean of Baylor University's National School of Tropical Medicine.",
-            "url": "https://fortune.com/2020/02/27/coronavirus-amazon-anti-vaxxer/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203647628-e1582808551736.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T13:57:09Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Naomi Xu Elegant",
-            "title": "The coronavirus is crushing business. Could insurance lessen the blow?",
-            "description": "COVID-19 is already crushing business, but firms may struggle to obtain insurance coverage for the disruption.",
-            "url": "https://fortune.com/2020/02/26/coronavirus-insurance/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202571761.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T03:33:17Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Danielle Abril",
-            "title": "Facebook cancels F8 developer conference over coronavirus concerns",
-            "description": "The news comes as tech companies continue to grapple with whether to host and attend international events as the virus worsens globally.",
-            "url": "https://fortune.com/2020/02/27/facebook-f8-canceled-coronavirus-concerns/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1140509296.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T19:10:55Z",
+            "author": "Lucinda Shen",
+            "title": "Amidst coronavirus panic, the stock of this hazmat suit-maker is up 88%",
+            "description": "Investors are taking a renewed interest in companies that specialize in keeping people protected\u2014from other people.",
+            "url": "https://fortune.com/2020/02/27/coronavirus-panic-stock-lakeland-industries/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Lakeland-Industries-Protective-Suit-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-02-28T00:00:00Z",
             "content": null
         },
         {
@@ -98,12 +33,12 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Lucinda Shen",
-            "title": "Amidst coronavirus panic, the stock of this hazmat suit-maker is up 88%",
-            "description": "Investors are taking a renewed interest in companies that specialize in keeping people protected\u2014from other people.",
-            "url": "https://fortune.com/2020/02/27/coronavirus-panic-stock-lakeland-industries/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Lakeland-Industries-Protective-Suit-Coronavirus.jpg?resize=1200,600",
-            "publishedAt": "2020-02-28T00:00:00Z",
+            "author": "Phil Wahba",
+            "title": "Bath & Body Works\u2019 massive sanitizer business is a rare winner in the coronavirus crisis",
+            "description": "The retailer is getting a boost from the COVID-19 crisis as it prepares for life away from Victoria's Secret.",
+            "url": "https://fortune.com/2020/02/27/bath-body-works-sanitizer-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/2019-12-06T222844Z_372865089_MT1USATODAY13757289_RTRMADP_3_BATH-BODY-WORKS.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T20:30:00Z",
             "content": null
         },
         {
@@ -111,25 +46,12 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Sy Mukherjee",
-            "title": "Can Gilead tame the coronavirus?",
-            "description": "Gilead's coronavirus treatment remdesivir has captured the hopes of public health officials and is rapidly advancing in clinical trials.",
-            "url": "https://fortune.com/2020/02/27/gilead-coronavirus-treatment/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Gilead-coronavirus-trial.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T16:36:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Sy Mukherjee",
-            "title": "Gilead\u2019s coronavirus treatment is barreling its way into new clinical trials",
-            "description": "Gilead's antiviral remdesivir is headed into two new phase 3 clinical trials across multiple countries to treat COVID-19, the disease caused by novel coronavirus.",
-            "url": "https://fortune.com/2020/02/26/gilead-coronavirus-treatment-clinical-trials-remdesivir/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Gilead-remdesivir-clinical-trials.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T00:23:16Z",
+            "author": "Danielle Abril",
+            "title": "Facebook cancels F8 developer conference over coronavirus concerns",
+            "description": "The news comes as tech companies continue to grapple with whether to host and attend international events as the virus worsens globally.",
+            "url": "https://fortune.com/2020/02/27/facebook-f8-canceled-coronavirus-concerns/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1140509296.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T19:10:55Z",
             "content": null
         },
         {
@@ -150,12 +72,12 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Phil Wahba",
-            "title": "Bath & Body Works\u2019 massive sanitizer business is a rare winner in the coronavirus crisis",
-            "description": "The retailer is getting a boost from the COVID-19 crisis as it prepares for life away from Victoria's Secret.",
-            "url": "https://fortune.com/2020/02/27/bath-body-works-sanitizer-coronavirus/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/2019-12-06T222844Z_372865089_MT1USATODAY13757289_RTRMADP_3_BATH-BODY-WORKS.jpg?resize=1200,600",
-            "publishedAt": "2020-02-27T20:30:00Z",
+            "author": "Sy Mukherjee",
+            "title": "Can Gilead tame the coronavirus?",
+            "description": "Gilead's coronavirus treatment remdesivir has captured the hopes of public health officials and is rapidly advancing in clinical trials.",
+            "url": "https://fortune.com/2020/02/27/gilead-coronavirus-treatment/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Gilead-coronavirus-trial.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T16:36:37Z",
             "content": null
         },
         {
@@ -169,6 +91,84 @@
             "url": "https://fortune.com/2020/02/27/coronavirus-travel-ban-italy-south-korea/",
             "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208952550.jpg?resize=1200,600",
             "publishedAt": "2020-02-27T16:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adam Lashinsky",
+            "title": "In the time of coronavirus, Amazon needs to \u2018take this crap down\u2019",
+            "description": "The online bookseller is peddling dangerous misinformation in a time of coronavirus, says Peter Jay Hotez, dean of Baylor University's National School of Tropical Medicine.",
+            "url": "https://fortune.com/2020/02/27/coronavirus-amazon-anti-vaxxer/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203647628-e1582808551736.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T13:57:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "As stock markets dive, these commodities are leading the plunge down",
+            "description": "Brent crude's fall since the coronavirus outbreak nears bear territory proportions. Meanwhile, the Dow and S&P 500 are flirting with a correction.",
+            "url": "https://fortune.com/2020/02/27/stocks-fall-commodities-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208916339.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T10:01:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Investors clobber AB InBev as it forecasts worst quarter in a decade on coronavirus outbreak",
+            "description": "For the world\u2019s largest brewer, the coronavirus presents a particular problem as consumers in China avoid going out in public.",
+            "url": "https://fortune.com/2020/02/27/ab-inbev-forecasts-worst-quarter-coronavirus-outbreak/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-488778982.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T09:35:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "The coronavirus is crushing business. Could insurance lessen the blow?",
+            "description": "COVID-19 is already crushing business, but firms may struggle to obtain insurance coverage for the disruption.",
+            "url": "https://fortune.com/2020/02/26/coronavirus-insurance/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202571761.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T03:33:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "New coronavirus case in California might signal \u2018community spread\u2019 of outbreak",
+            "description": "Coronavirus in U.S. reached a new stage on Wednesday when a case without known contact with the outbreak popped up on Cali.",
+            "url": "https://fortune.com/2020/02/26/coronavirus-california-community-spread/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208896505.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T03:09:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "Gilead\u2019s coronavirus treatment is barreling its way into new clinical trials",
+            "description": "Gilead's antiviral remdesivir is headed into two new phase 3 clinical trials across multiple countries to treat COVID-19, the disease caused by novel coronavirus.",
+            "url": "https://fortune.com/2020/02/26/gilead-coronavirus-treatment-clinical-trials-remdesivir/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Gilead-remdesivir-clinical-trials.jpg?resize=1200,600",
+            "publishedAt": "2020-02-27T00:23:16Z",
             "content": null
         }
     ]

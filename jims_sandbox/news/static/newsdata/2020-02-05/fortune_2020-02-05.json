@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Cathay Pacific is asking employees to take unpaid leave as coronavirus causes travel to plummet",
+            "description": "27,000 employees pushed to take three weeks off.",
+            "url": "https://fortune.com/2020/02/05/coronavirus-cathay-pacific-employees-unpaid-leave/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198753799.jpg?resize=1200,600",
+            "publishedAt": "2020-02-05T16:26:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "The Gates Foundation is pledging up to $100 million for the fight against coronavirus",
+            "description": "The $100 million total includes $10 million that the philanthropic organization already dedicated to coronavirus containment efforts in January.",
+            "url": "https://fortune.com/2020/02/05/coronavirus-gates-foundation/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Gates-Foundation-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-02-05T14:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Beijing bans birthday parties and other get-togethers to curb coronavirus spread",
+            "description": "Restaurants and caterers are not allowed to serve groups of people and should cancel or postpone any such events immediatel.",
+            "url": "https://fortune.com/2020/02/05/beijing-bans-birthday-parties-coronavirus-spread/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198748883.jpg?resize=1200,600",
+            "publishedAt": "2020-02-05T12:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Patient or prisoner? Governments deploy surveillance tech to track coronavirus victims",
+            "description": "Are they patients or prisoners?",
+            "url": "https://fortune.com/2020/02/05/coronavirus-patient-tracking-government-surveillance/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198626156.jpg?resize=1200,600",
+            "publishedAt": "2020-02-05T12:22:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "Global markets roar back\u2014too soon to call this the \u2018coronavirus comeback\u2019?",
+            "description": "Tuesday's rally in the Dow, S&P 500 and Nasdaq have extended overseas with investors nearly reversing all losses incurred by the coronavirus outbreak. Can it last?",
+            "url": "https://fortune.com/2020/02/05/global-markets-rebound-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197377917.jpg?resize=1200,600",
+            "publishedAt": "2020-02-05T10:39:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "China wants to patent Gilead\u2019s promising coronavirus treatment",
+            "description": "Gilead\u2019s experimental drug is entering clinical trials in China on patients with the Wuhan virus.",
+            "url": "https://fortune.com/2020/02/05/coronavirus-treatment-china-gilead-patent/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-05T07:19:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "10 passengers with coronavirus turn Princess cruise ship into a floating quarantine",
+            "description": "Even passengers who test negative for the deadly Wuhan virus must stay aboard for 14 days.",
+            "url": "https://fortune.com/2020/02/04/coronavirus-cruise-ship-japan/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198465936.jpg?resize=1200,600",
+            "publishedAt": "2020-02-05T04:52:56Z",
+            "content": null
+        }
+    ]
+}

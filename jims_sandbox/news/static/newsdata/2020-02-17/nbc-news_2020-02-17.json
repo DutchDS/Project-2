@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Americans evacuated from cruise ship infected with coronavirus",
+            "description": "Among more than 300 U.S. citizens and their immediate family members evacuated from a cruise ship under quarantine near Tokyo, 14 have now tested positive for the coronavirus.",
+            "url": "https://www.nbcnews.com/nightly-news/video/americans-evacuated-from-cruise-ship-infected-with-coronavirus-78906949713",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mal_coronavirus_crisis_200217_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-17T23:40:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Apple says coronavirus will keep it from meeting revenue expectations",
+            "description": "Apple said Monday it does not expect to meet previously released revenue guidance for the March quarter due to impacts of the coronavirus outbreak in China.",
+            "url": "https://www.nbcnews.com/business/business-news/apple-says-coronavirus-will-keep-it-meeting-revenue-expectations-n1137801",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3233326/200217-apple-store-china-masks-ew-536p_c03d3fe6c524b4452d357f4e3deb2bf4.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-17T23:29:00Z",
+            "content": "Apple expects to fall short of it previously reported revenue guidance for the March quarter because of problems in production and demand in China due to the coronavirus outbreak.\r\n\"Work is starting to resume around the country, but we are experiencing a slow\u2026 [+2935 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Video shows near-deserted streets in city stricken by coronavirus COVID-19",
+            "description": "An American teacher living in Luoyang, China, 350 miles from Wuhan where the coronavirus COVID-19 originated, filmed near-deserted streets and shop workers in hazmat suits. This footage has been verified by NBC News Social Newsgathering.",
+            "url": "https://www.nbcnews.com/video/video-shows-near-deserted-streets-in-city-stricken-by-coronavirus-covid-19-78898245827",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/China-checkout-thumbnail.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-17T20:23:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Democrats who don't want Sanders will have to sort out a muddle in the middle",
+            "description": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/democrats-who-don-t-want-sanders-will-have-sort-out-n1137646",
+            "urlToImage": "https://static.euronews.com/articles/4508932/1000x563_nbc-200217-bernie-sanders-mc-1247_73044eea63149be094f72b75faa9d4e4.jpg",
+            "publishedAt": "2020-02-17T13:25:00Z",
+            "content": "LAS VEGAS \u2014 All of the remaining Democratic presidential candidates have their own individual flaws, but Dem voters who don't want Bernie Sanders as their nominee are going to have to pick \u2014 and probably pick decisively \u2014 if they want to stop him.\r\nPete Butti\u2026 [+9633 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rachel Elbaum",
+            "title": "14 U.S. evacuees test positive and Dems get their elbows out: The Morning Rundown - NBCNews.com",
+            "description": "Some Americans evacuated from a quarantined cruise ship have tested positive for coronavirus and Democratic candidates are getting ready for their next contest.",
+            "url": "https://www.nbcnews.com/news/morning-briefing/14-u-s-evacuees-test-positive-dems-get-their-elbows-n1137641",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_08/3232891/200217-covid-japan-mc-12382_879f54d305dcb830cad8bd360d1348d1.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-17T12:56:00Z",
+            "content": "Good morning, NBC News readers.\r\nFourteen Americans evacuated from a quarantined cruise ship have tested positive for coronavirus and Democratic candidates are getting ready for their next contest.\r\nHere's what we're watching this Monday:\r\nDemocratic candidat\u2026 [+5310 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Americans quarantined on cruise ship return to U.S",
+            "description": "As U.S. evacuated its nationals from the quarantined cruise ship in Japan Sunday, the death toll from the coronavirus outbreak continued to rise.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-americans-quarantined-cruise-ship-return-u-s-chinese-n1137626",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_08/3232781/japan_china_outbreak_virus_ship_02724-jpg-77c20_b27f01de44355edbcc3c84687a06b1e9.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-17T12:05:09Z",
+            "content": "Americans evacuated from the Diamond Princess cruise ship land in the U.S.\r\n Death toll from novel coronavirus reaches 1,770\r\n Scramble to track Cambodia cruise passengers after coronavirus case reported\r\n Japan on brink of recession as economy contracts, vir\u2026 [+4436 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "14 Americans test positive for coronavirus after evacuation from quarantined cruise ship",
+            "description": "More than 300 U.S. citizens and family members who had been on the Diamond Princess cruise ship were evacuated.",
+            "url": "https://www.nbcnews.com/news/world/14-americans-test-positive-coronavirus-after-evacuation-quarantined-cruise-ship-n1137616",
+            "urlToImage": "https://static.euronews.com/articles/4508448/1000x563_nbc-020-02-16t232912z_198331478_rc2z1f9bphks_rtrmadp_3_china-health-japan-ship_3ee4319c64bad3f6fea7d30b751a414a.jpg",
+            "publishedAt": "2020-02-17T09:54:08Z",
+            "content": "Fourteen Americans who were among the hundreds evacuated from a quarantined cruise ship off Yokohama, Japan Sunday have tested positive for the novel coronavirus that has claimed more than 1,700 lives in a growing outbreak in China.More than 300 U.S. citizens\u2026 [+2742 chars]"
+        }
+    ]
+}

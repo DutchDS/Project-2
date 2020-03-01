@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erika Fry",
+            "title": "Will summer kill the coronavirus?",
+            "description": "Coronaviruses have seasonality, but an expert says it may take years to establish precisely how weather factors into this virus\u2019 spread.",
+            "url": "https://fortune.com/2020/02/10/coronavirus-spread-wuhan-summer-winter/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-Masks-Ferry.jpg?resize=1200,600",
+            "publishedAt": "2020-02-10T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alyssa Newcomb",
+            "title": "Indeed shuts offices in three cities over coronavirus fears",
+            "description": "The company has told employees in three offices to work from home after an employee's relative visited a facility for coronavirus patients.",
+            "url": "https://fortune.com/2020/02/10/indeed-closes-offices-three-cities-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-172893421.jpg?resize=1200,600",
+            "publishedAt": "2020-02-10T18:45:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "\u2018Vastly underestimated:\u2019 Coronavirus outbreak may infect 500,000 in Wuhan alone before it peaks",
+            "description": "Currently, the true number of people exposed to the 2019-nCoV virus in Wuhan \u201cmay be vastly underestimated,\u201d researchers at the University of Basel in Switzerland said in a study published Friday.",
+            "url": "https://fortune.com/2020/02/10/underestimated-coronavirus-outbreak-infect-500000-wuhan-before-peak/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199809869.jpg?resize=1200,600",
+            "publishedAt": "2020-02-10T13:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "For tech world\u2019s China manufacturers, the coronavirus \u2018nightmare\u2019 may be just beginning",
+            "description": "Tech producers led by Foxconn, which makes the majority of the world\u2019s iPhones a few hundred miles from the coronavirus outbreak\u2019s epicenter, had begun preparing investors for potential bedlam.",
+            "url": "https://fortune.com/2020/02/10/china-tech-manufacturers-nightmare-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1195290371.jpg?resize=1200,600",
+            "publishedAt": "2020-02-10T11:03:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "Multinationals see a new coronavirus red flag on the horizon\u2014a stronger dollar",
+            "description": "Economists were predicting a down year for the dollar. Then the coronavirus hit.",
+            "url": "https://fortune.com/2020/02/10/multinationals-coronavirus-warning-stronger-dollar/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2019/04/gettyimages-652146151.jpg?resize=1200,600",
+            "publishedAt": "2020-02-10T10:19:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Airbnb suspends all check-ins in Beijing amid the coronavirus outbreak",
+            "description": "And its local rivals are following suit.",
+            "url": "https://fortune.com/2020/02/10/airbnb-beijing-china-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1183938179.jpg?resize=1200,600",
+            "publishedAt": "2020-02-10T08:04:12Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Seth J. Frantzman, Seth J. Frantzman",
+            "title": "Iran\u2019s Incompetent Response to Coronavirus Threatens the Middle East and the World",
+            "description": "Iran has responded to the coronavirus in a characteristically counterproductive fashion.",
+            "url": "https://www.nationalreview.com/2020/02/irans-incompetent-response-to-coronavirus-threatens-the-middle-east-and-the-world/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/07/hassan-rouhani-iran.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-26T21:53:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Iran to Sentence Citizens Who \u201cSpreads Rumors\u201d about Coronavirus to Flogging, Three Years in Prison",
+            "description": "An Iranian parliament spokesman on Wednesday announced the decision, in response to a growing number of cases of the contagious respiratory disease in Iran.",
+            "url": "https://www.nationalreview.com/news/iran-to-sentence-citizens-who-spreads-rumors-about-coronavirus-to-flogging-three-years-in-prison/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-south-korea-42.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-26T20:37:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle",
+            "title": "Schumer Requests $8.5 Billion in Coronavirus Funds, Accuses Trump Admin. of \u2018Dangerous Incompetence\u2019",
+            "description": "Senator Chuck Schumer requested $8.5 billion in emergency funding to combat the coronavirus, more than three times the amount the White House has requested.",
+            "url": "https://www.nationalreview.com/news/schumer-requests-8-5-billion-in-coronavirus-funds-accuses-trump-admin-of-dangerous-incompetence/",
+            "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/Chuck-.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-26T17:03:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Beijing\u2019s Handling of Coronavirus Has Undermined Chinese Public\u2019s Trust in State Media",
+            "description": "China has changed its diagnostic criteria for the coronavirus multiple times, leading to confusion over the number of confirmed cases in the country.",
+            "url": "https://www.nationalreview.com/news/beijings-handling-of-coronavirus-has-undermined-chinese-publics-trust-in-state-media/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/wuhan-coronavirus-10.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-26T14:51:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "U.S. Soldier Infected with Coronavirus in South Korea, Officials Say",
+            "description": "Officials said that the soldier had visited the American military base in the Korean city of Daegu \u2014 the epicenter of the outbreak in South Korea.",
+            "url": "https://www.nationalreview.com/news/u-s-soldier-infected-with-coronavirus-in-south-korea-officials-say/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-south-korea-41.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-26T13:16:59Z",
+            "content": null
+        }
+    ]
+}

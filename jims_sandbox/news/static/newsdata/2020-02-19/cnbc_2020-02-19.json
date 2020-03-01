@@ -1,0 +1,578 @@
+{
+    "status": "ok",
+    "totalResults": 44,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Asia stocks poised to trade higher with China set to release its loan prime rate",
+            "description": "The People's Bank of China is set to release its loan prime rate as the country grapples with the economic impact of an ongoing coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/20/asia-markets-china-lpr-australia-jobs-data-currencies-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105949584-1559711930288gettyimages-1078405216.jpeg?v=1582154742",
+            "publishedAt": "2020-02-19T23:37:00Z",
+            "content": "Stock in Asia were set to trade higher at the open on Thursday, with the People's Bank of China widely expected to cut its loan prime rate as the country grapples with the economic impact of an ongoing coronavirus outbreak.\r\nFutures pointed to a higher open f\u2026 [+1790 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lizzy Gurdus",
+            "title": "Watch out for single-stock risk as Chinese equities slide, Tesla soars: ETF manager",
+            "description": "With speculative plays like Virgin Galactic and Tesla soaring, investors should be careful picking individual stocks, warns John Davi, founder and chief investment officer of Astoria Portfolio Advisors.",
+            "url": "https://www.cnbc.com/2020/02/19/virgin-galactic-tesla-soar-as-china-stocks-slide-single-stock-risk.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106398982-1582148352731gettyimages-1198350563.jpeg?v=1582148482",
+            "publishedAt": "2020-02-19T22:18:25Z",
+            "content": "Steer clear of single stocks for now.\r\nU.S. investors may want to heed that advice from John Davi, founder and chief investment officer of Astoria Portfolio Advisors, who told buyers on Wednesday to be careful when deploying their strategies amid uncertainty \u2026 [+2377 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Markets may face 'pretty serious reckoning' as coronavirus slows growth, Yale's Stephen Roach says",
+            "description": "The market's reaction to the coronavirus doesn't make sense because \"irrational exuberance never makes sense,\" the former Morgan Stanley Asia chairman told CNBC.",
+            "url": "https://www.cnbc.com/2020/02/19/markets-may-face-serious-reckoning-amid-coronavirus-stephen-roach.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106396070-1582039887092gettyimages-1201673328.jpeg?v=1582040320",
+            "publishedAt": "2020-02-19T21:57:58Z",
+            "content": "The coronavirus may significantly weaken a global economy that was already in a precarious position, Yale University's Stephen Roach told CNBC on Wednesday.\r\n\"If the global economy is as weak as I think it is in the first half of this year, that points to a p\u2026 [+1876 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Coronavirus poses risk to modest pickup in global growth, G-20 draft communique says",
+            "description": "Financial leaders of the world's 20 largest economies expect a modest pickup of global growth this year and next, but see the coronavirus epidemic as a downside risk.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-poses-risk-to-modest-pickup-in-global-growth-g-20-draft-communique-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106398532-15821366445512020-02-19t145153z_1132574394_rc2q3f9q65nx_rtrmadp_3_china-health-research.jpg?v=1582136787",
+            "publishedAt": "2020-02-19T21:31:16Z",
+            "content": "Financial leaders of the world's 20 largest economies (G-20) expect a modest pickup of global growth this year and next, but see the coronavirus epidemic as a downside risk, a draft communique prepared for the meeting on Feb. 22-23 said.\r\nG-20 finance ministe\u2026 [+3170 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "JP Morgan's trading guru says the bubble in defensive and tech stocks 'will likely collapse'",
+            "description": "\"We caution investors that this bubble will likely collapse, i.e. this time is not 'different,'\" the strategist said.",
+            "url": "https://www.cnbc.com/2020/02/19/jp-morgans-kolanovic-sees-a-bubble-in-defensive-and-tech-stocks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106354105-1579883521862rts2zpzc.jpg?v=1579883592",
+            "publishedAt": "2020-02-19T21:20:24Z",
+            "content": "A bubble has formed in defensive and low-volatility stocks as coronavirus fears drove a record number of investors to those pockets of the market, according to JPMorgan's quant guru Marko Kolanovic.\r\nSince the coronavirus outbreak, hedge funds have shifted th\u2026 [+1413 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Here's what happened to the stock market on Wednesday",
+            "description": "Worries over the coronavirus and its impact on the economy were assuaged slightly, lifting two of the three major indexes to record highs.",
+            "url": "https://www.cnbc.com/2020/02/19/what-happened-to-the-stock-market-wednesday-tech-leads-sp-500-nasdaq-to-record-highs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102871330-RTX1KE2Q.jpg?v=1582143179",
+            "publishedAt": "2020-02-19T21:08:07Z",
+            "content": "Traders work on the floor of the New York Stock Exchange.\r\nDow Jones Industrial Average rises 115 points\r\nThe Dow climbed 115.84 points, or 0.40%, to 29,348.03. The S&amp;P 500 gained 0.47% to 3,386.15. The Nasdaq Composite advanced 0.87% to 9,817.18. Worries\u2026 [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Goldman says market underestimating coronavirus risk: 'Correction is looking much more probable'",
+            "description": "Goldman Sachs sounded the alarm about a possible correction in the stock market, noting investors are underestimating the coronavirus risk.",
+            "url": "https://www.cnbc.com/2020/02/19/goldman-says-market-underestimating-coronavirus-risk-correction-is-looking-much-more-probable.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103097909-1549567473817nyse.jpg?v=1582142222",
+            "publishedAt": "2020-02-19T20:15:29Z",
+            "content": "Goldman Sachs sounded the alarm on Wednesday to clients about a possible correction in the stock market, noting investors are underestimating how big of a risk the coronavirus really is.\r\n\"We believe the greater risk is that the impact of the coronavirus on e\u2026 [+925 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Maggie Fitzgerald",
+            "title": "Jobless claims, Democratic debate reaction, earnings: 3 things to watch in the market on Thursday",
+            "description": "We'll get weekly jobless claims, earnings and market reaction to the Democratic debate.",
+            "url": "https://www.cnbc.com/2020/02/19/stock-market-outlook-for-thursday-jobless-claims-democratic-debate-reaction-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106379627-1581095369181gettyimages-1181315050.jpeg?v=1581095398",
+            "publishedAt": "2020-02-19T20:15:00Z",
+            "content": "Democratic presidential candidates (L-R) Sen. Bernie Sanders (I-VT), former Vice President Joe Biden, Sen. Elizabeth Warren (D-MA) and South Bend, Indiana Mayor Pete Buttigieg at the start of the Democratic Presidential Debate at Otterbein University on Octob\u2026 [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "CDC issues travel guidelines for Hong Kong after second coronavirus-related death in the city",
+            "description": "It is the first coronavirus-related travel notice issued by the U.S. government for a territory beyond mainland China.",
+            "url": "https://www.cnbc.com/2020/02/19/cdc-issues-travel-guidelines-for-hong-kong-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106368385-1580568277748gettyimages-1197872874.jpeg?v=1580568318",
+            "publishedAt": "2020-02-19T19:34:03Z",
+            "content": "The Centers for Disease Control and Prevention issued new guidelines on Wednesday for American travelers to Hong Kong after the city reported its second death from the new coronavirus.\r\nTravelers to Hong Kong should avoid contact with sick people, the CDC sai\u2026 [+1187 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Fed calls the coronavirus a 'new risk to global growth outlook'",
+            "description": "Though the coronavirus had just taken hold when the Fed met in January, officials already expressed concern about its economic impacts.",
+            "url": "https://www.cnbc.com/2020/02/19/fed-calls-the-coronavirus-a-new-risk-to-global-growth-outlook.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106312448-1577372581085rts2ujby.jpg?v=1577372682",
+            "publishedAt": "2020-02-19T19:22:00Z",
+            "content": "Though the coronavirus had just taken hold when the Federal Reserve met in January, officials already expressed concern about its potential economic impacts.\r\n\"The threat of the coronavirus, in addition to its human toll, had emerged as a new risk to the glob\u2026 [+1505 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Fed officials feel rates are likely to stay where they are, minutes show",
+            "description": "The minutes noted that \"current stance of monetary policy was appropriate.\"",
+            "url": "https://www.cnbc.com/2020/02/19/fed-minutes-january-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106292876-1576160131554rts2ujd4.jpg?v=1580238238",
+            "publishedAt": "2020-02-19T19:05:23Z",
+            "content": "Federal Reserve officials expressed confidence at their most recent meeting about the state of the U.S. economy and figured interest rates likely would remain unchanged for a while, according to minutes released Wednesday.\r\nThat comes even as financial market\u2026 [+4596 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Investors may be overreaching as market hits new highs amid coronavirus outbreak",
+            "description": "\"It could be a short-term shock but one that ends up having a somewhat longer-term impact,\" Cornell University professor Eswar Prasad told CNBC.",
+            "url": "https://www.cnbc.com/2020/02/19/investors-may-be-overreaching-as-market-hits-highs-amid-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106398412-1582131682836gettyimages-1201890699.jpeg?v=1582132180",
+            "publishedAt": "2020-02-19T18:56:01Z",
+            "content": "Investors' confidence around the coronavirus may end up being misplaced, the former head of the International Monetary Fund's China division told CNBC on Wednesday.\r\n\"It could be a short-term shock but one that ends up having a somewhat longer-term impact,\" E\u2026 [+3783 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Keris Lahiff",
+            "title": "Top stocks to play a potential casino comeback as Macao reopens",
+            "description": "Investors are spinning the wheel on casino stocks again, but traders say these two look the best right here.",
+            "url": "https://www.cnbc.com/2020/02/19/lvs-and-mgm-are-best-way-to-play-a-potential-casino-comeback.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106398340-1582129044883gettyimages-917647806.jpeg?v=1582129115",
+            "publishedAt": "2020-02-19T17:41:06Z",
+            "content": "Investors are spinning the wheel on casino stocks again.\r\nMGM Resorts, Las Vegas Sands\u00a0and Wynn Resorts were all higher Wednesday as pressure tied to the coronavirus outbreak lessened. Operations in major gambling hub Macao, off the coast of China, will reope\u2026 [+1851 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Stocks making the biggest moves midday: Virgin Galactic, Tesla, Groupon, Blue Apron & more",
+            "description": "Check out the companies making headlines in midday trading.",
+            "url": "https://www.cnbc.com/2020/02/19/stocks-making-biggest-moves-midday-virgin-galactic-groupon-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106312054-1577326733824gettyimages-153269375.jpeg?v=1577326803",
+            "publishedAt": "2020-02-19T16:59:00Z",
+            "content": "Check out the companies making headlines in midday trading.\r\nVirgin Galactic Shares of the space tourism company spiked nearly 14% as the stock's speculative rally continued. Virgin Galactic passed Apple and Tesla as the most popular stock among retail invest\u2026 [+3909 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Two Iranians die after testing positive for coronavirus",
+            "description": "Two Iranians died from the coronavirus in a hospital in the holy Shi'ite city of Qom. The patients had been put in isolation. The death toll from the new coronavirus in mainland China passed 2,000 on Wednesday, although the number of new cases fell for a seco\u2026",
+            "url": "https://www.cnbc.com/2020/02/19/two-iranians-die-after-testing-positive-for-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397851-1582115106367gettyimages-1201764744.jpeg?v=1582126570",
+            "publishedAt": "2020-02-19T16:56:22Z",
+            "content": "Two Iranians have died in hospital after testing positive for the new coronavirus in the holy Shi'ite city of Qom, the head of the city's University of Medical Sciences told Mehr news agency on Wednesday.\r\n\"Two Iranians, who tested positive earlier today for \u2026 [+791 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Coronavirus: IMF chief says the outbreak is the 'most pressing uncertainty' for global economy",
+            "description": "The virus will definitely slow China's economic growth this year, Georgieva said, just how much depends on how well world leaders can contain the fast-spreading outbreak.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-imf-chief-says-the-outbreak-could-derail-global-economic-growth.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106170216-1570545937874gettyimages-1174489296.jpeg?v=1570545971",
+            "publishedAt": "2020-02-19T16:41:06Z",
+            "content": "International Monetary Fund head Kristalina Georgieva said\u00a0 the new coronavirus, or COVID-19, outbreak is the \"most pressing uncertainty\" facing the world economy right now.\r\nThe international health emergency \"we did not anticipate in January\" now threatens \u2026 [+2090 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China plans to take over HNA Group and sell its airline assets as coronavirus hits business, report says",
+            "description": "The government of Hainan, the southern province where HNA is based, is in talks to take control of the conglomerate, the report said.",
+            "url": "https://www.cnbc.com/2020/02/19/china-to-take-over-hna-group-and-sell-its-airline-assets-report-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104750914-GettyImages-511037320.jpg?v=1532563750",
+            "publishedAt": "2020-02-19T16:07:45Z",
+            "content": "China plans to take over HNA Group and sell off its airline assets, as the coronavirus outbreak has hit the Chinese conglomerate's ability to meet financial obligations, Bloomberg reported on Wednesday, citing people familiar with the matter.\r\nThe government \u2026 [+268 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Analog Devices revenue forecast misses on coronavirus concerns",
+            "description": "Analog Devices joins Apple and a host of other companies expecting potential damages as the rapidly spreading coronavirus disrupts supply chains and delays the reopening of factories in China.",
+            "url": "https://www.cnbc.com/2020/02/19/analog-devices-q2-revenue-forecast-misses-on-coronavirus-concerns.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106398154-1582123546906gettyimages-1153976178.jpeg?v=1582123595",
+            "publishedAt": "2020-02-19T14:51:53Z",
+            "content": "Chipmaker Analog Devices on Wednesday forecast second-quarter revenue that fell short of analysts' estimates, as the company accounted for a $70 million hit related to the coronavirus outbreak.\r\nAnalog Devices joins Apple and a host of other companies expecti\u2026 [+1175 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "Coronavirus live updates: Virus hits small business owners, Iran says two test positive for virus",
+            "description": "As of Wednesday, more than 75,200 cases of coronavirus have been reported, resulting in at least 2,000 deaths.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-latest-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397844-1582114796588gettyimages-1201765361.jpeg?v=1582114849",
+            "publishedAt": "2020-02-19T14:02:23Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Eastern time.\r\n<ul><li>Total confirmed cases: More than 75,200</li><li>Total deaths: At least 2,000</li></ul>\r\n9:15 am: Plugable Technologies warns the worst of its supply disruption \u2026 [+4254 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Stock market live updates: Dow futures rise, Tesla jumps, Virgin Galactic spikes",
+            "description": "A discussion of all that's moving the market today including the coronavirus, another jumpin Virgin Galactic shares and more.",
+            "url": "https://www.cnbc.com/2020/02/19/stock-market-today-live.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106207832-15722847524982019-10-28t170450z_225523903_rc17c04812d0_rtrmadp_3_virgin-galactic-ipo.jpg?v=1572284835",
+            "publishedAt": "2020-02-19T13:55:58Z",
+            "content": "Virgin Galactic co-founder Sir Richard Branson, CEO George Whitesides and Social Capital CEO Chamath Palihapitiya pose together outside of the New York Stock Exchange (NYSE) ahead of Virgin Galactic (SPCE) trading in New York, U.S., October 28, 2019.\r\nThis is\u2026 [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Pippa Stevens",
+            "title": "Citi sees gold topping $2,000 in next 12 to 24 months",
+            "description": "Gold is coming off its highest settle in nearly seven years as investors pile into the safe haven asset, and Citi thinks prices are heading higher.",
+            "url": "https://www.cnbc.com/2020/02/19/citi-sees-gold-topping-2000-in-next-12-to-24-months.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106316666-1577806847506gettyimages-1180813541.jpeg?v=1580878650",
+            "publishedAt": "2020-02-19T13:35:55Z",
+            "content": "As the record bull market stretches on, and as the coronavirus outbreak incites fears of a potential slowdown in global growth, gold could be a way for investors to hedge risks to the downside, Citi said Wednesday. \r\nThe firm believes market jitters will prom\u2026 [+1619 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "US housing starts fall, while building permits near a 13-year high",
+            "description": "U.S. homebuilding fell less than expected in January while permits surged to a near 13-year high, pointing to sustained housing market strength amid lower mortgage rates.",
+            "url": "https://www.cnbc.com/2020/02/19/us-housing-starts-january-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102926591-GettyImages-484344956.jpg?v=1582061660",
+            "publishedAt": "2020-02-19T13:33:44Z",
+            "content": "U.S. homebuilding fell less than expected in January while permits surged to a near 13-year high, pointing to sustained housing market strength amid lower mortgage rates.\r\nHousing starts dropped 3.6% to a seasonally adjusted annual rate of 1.567 million units\u2026 [+2368 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "5 things to know before the stock market opens Wednesday",
+            "description": "Dow Jones Industrial Average futures indicated a higher open, priming the 30-stock average to snap a three-session slide.",
+            "url": "https://www.cnbc.com/2020/02/19/5-things-to-know-before-the-stock-market-opens-february-19-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106316911-1577822455237gettyimages-1191105987.jpeg?v=1582117132",
+            "publishedAt": "2020-02-19T13:19:23Z",
+            "content": "1. Dow futures rise, indicating rebound from 165-point drop\r\nA trader wearing 2020-themed glasses works on the floor of the New York Stock Exchange (NYSE) in New York, U.S., on Tuesday, Dec. 31, 2019.\r\nDow Jones Industrial Average futures indicated a higher o\u2026 [+2627 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Peter Schacknow",
+            "title": "Stocks making the biggest moves in the premarket: Dish Network, Garmin, Tesla, Uber & more",
+            "description": "The stocks making the biggest moves in premarket trading include Dish Network, Garmin, Tesla, Uber, and more.",
+            "url": "https://www.cnbc.com/2020/02/19/stocks-making-the-biggest-moves-in-the-premarket-dish-network-garmin-tesla-uber-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106329449-15786079105522020-01-09t213403z_245563461_rc2lce97f5ck_rtrmadp_3_usa-stocks.jpg?v=1578607965",
+            "publishedAt": "2020-02-19T12:44:00Z",
+            "content": "Take a look at some of the biggest movers in the premarket:\r\nDish Network (DISH) The satellite TV provider beat estimates by 10 cents a share, with quarterly earnings of 69 cents per share. Revenue also beat forecasts. Pay-TV subscribership declined, but at a\u2026 [+3551 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lizzy Gurdus",
+            "title": "Hide out in this tech play while Apple, chip stocks fall on coronavirus weakness: Trader",
+            "description": "Salesforce's stock is a favorite of Strategic Wealth Partners CEO Mark Tepper as shares of Apple and its semiconductor suppliers sink on coronavirus-related weakness.",
+            "url": "https://www.cnbc.com/2020/02/19/salesforce-a-buy-as-apple-chip-stocks-fall-on-coronavirus-trader.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106095284-1566677790252rtx6q4gd.jpg?v=1582062004",
+            "publishedAt": "2020-02-19T12:15:00Z",
+            "content": "Apple's sales troubles could put a bid in for Salesforce.\r\nThat's according to Mark Tepper, president and CEO of Strategic Wealth Partners, who told investors to consider buying Salesforce as shares of Apple and semiconductor companies fell after the iPhone m\u2026 [+2544 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lisa Rizzolo",
+            "title": "Weekly mortgage applications take a hit as mortgage rates tick up",
+            "description": "The refinance boom took a step back last week, bringing down total mortgage applications. Mortgage application volume decreased 6.4% from the previous week, according to the Mortgage Bankers Association.",
+            "url": "https://www.cnbc.com/2020/02/19/weekly-mortgage-applications-take-a-hit-as-mortgage-rates-tick-up.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105321286-1531244847228gettyimages-959962458.jpeg?v=1582061494",
+            "publishedAt": "2020-02-19T12:00:00Z",
+            "content": "The refinance boom took a step back last week, bringing down total mortgage applications. \r\nMortgage application volume decreased 6.4% from the previous week, according to the Mortgage Bankers Association.\r\nRefinance demand had been driving the volume of mort\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Gold on track for highest close in 7 years as investors hedge stock market highs and virus fears",
+            "description": "Having surpassed the key $1,600 mark, gold prices were flirting with a seven-year high on Wednesday, as investors continue to shore up their positions amid the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/19/gold-on-track-for-highest-close-in-7-years.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103556313-1578345085496103556313-gettyimages-514762112.jpg?v=1581391232",
+            "publishedAt": "2020-02-19T11:42:42Z",
+            "content": "An Argor-Heraeus SA branded two hundred and fifty gram gold bar, center, sits in this arranged photograph at Solar Capital Gold Zrt. in Budapest, Hungary.\r\nHaving surpassed the key $1,600 mark, gold prices were flirting with a seven-year high on Wednesday, as\u2026 [+3362 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kate Rogers",
+            "title": "The coronavirus means tense times for small business owners who import products from China",
+            "description": "For small business owners who sell products on Amazon, prolonged factory closures threaten supply, and falling out of stock can mean losing a prized ranking on the website.",
+            "url": "https://www.cnbc.com/2020/02/18/coronavirus-tense-times-for-small-business-owners-who-import-from-china.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106396816-1582064136909coronavirusimpact-2.jpg?v=1582068467",
+            "publishedAt": "2020-02-19T10:31:01Z",
+            "content": "As the number of confirmed coronavirus cases and deaths around the world continues to rise, small business owners that import from China are on edge.\r\nKyle Kirshner has been doing business in China for several years, and knew to stock up on supplies ahead of \u2026 [+3798 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Adidas says business activity in China has tanked roughly 85% due to coronavirus",
+            "description": "German sportswear firm Adidas warned business activity in China has fallen dramatically in recent weeks.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-adidas-says-business-activity-in-china-down-around-85percent.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397649-1582107508189gettyimages-1003519462.jpeg?v=1582107593",
+            "publishedAt": "2020-02-19T10:21:00Z",
+            "content": "A pedestrian walks by a large Adidas logo and German multinational sportswear shop.\r\nGerman sportswear firm Adidas warned business activity in China has fallen dramatically in recent weeks, citing a material negative impact from the coronavirus outbreak.\r\nIt \u2026 [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jessica Bursztynsky",
+            "title": "What to watch today: Dow to rise, Dems debate, cruise passengers end quarantine",
+            "description": "Modest gains appear to be ahead for Wall Street at the Wednesday open, following a mixed session that saw the Dow post a third straight day of losses but also finished with the Nasdaq at a record high.",
+            "url": "https://www.cnbc.com/2020/02/19/what-to-watch-today-dow-dems-debate-cruise-passengers-end-quarantine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106152955-1569597448205gettyimages-1167070418.jpeg?v=1569597709",
+            "publishedAt": "2020-02-19T10:13:56Z",
+            "content": "BY THE NUMBERS\r\nModest gains appear to be ahead for Wall Street at the Wednesday open, following a mixed session that saw the Dow post a third straight day of losses but also finished with the Nasdaq at a record high. The Nasdaq's small gain Tuesday was its f\u2026 [+6130 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China revokes press credentials of three at Wall Street Journal over opinion piece",
+            "description": "Foreign ministry spokesman Geng Shuang made the comments during a daily briefing.",
+            "url": "https://www.cnbc.com/2020/02/19/china-revokes-credentials-of-three-wall-street-journal-journalists.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104270255-GettyImages-75887923.jpg?v=1541529706",
+            "publishedAt": "2020-02-19T08:23:21Z",
+            "content": "China has revoked the press credentials of three\u00a0journalists of the Wall Street Journal after the newspaper declined to apologize\u00a0for a column that called China the \"real sick man of Asia\", the foreign ministry\u00a0said on Wednesday. \r\n Spokesman Geng Shuang told\u2026 [+873 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "US Treasurys fall as part of the yield curve inverts again",
+            "description": "U.S. government debt prices were lower Wednesday morning, as investors awaited a fresh batch of economic data.",
+            "url": "https://www.cnbc.com/2020/02/19/us-bonds-treasury-yields-in-focus-as-part-of-the-yield-curve-inverts.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105802039-1553007636265rts2dtjq.jpg?v=1560994050",
+            "publishedAt": "2020-02-19T07:45:38Z",
+            "content": "U.S. government debt prices\u00a0were lower Wednesday morning, as investors awaited a fresh batch of economic data.\r\nAt 2:40 a.m. ET, the benchmark 10-year Treasury note, which moves inversely to price, was higher at around 1.5695%, while the yield on the 30-year \u2026 [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "US futures point to slightly higher open",
+            "description": "Market focus remains largely attuned to the potential economic fallout of the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/19/stock-market-wall-street-in-focus-amid-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106208275-1572295521762gettyimages-1161832016.jpeg?v=1573478658",
+            "publishedAt": "2020-02-19T07:33:33Z",
+            "content": "U.S. stock index futures were slightly higher Wednesday morning.\r\nAt around 2:30 a.m. ET, Dow futures rose 81 points, indicating a positive open of more than 74 points. Futures on the S&amp;P and Nasdaq were both marginally higher.\r\nMarket focus remains large\u2026 [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Abigail Ng",
+            "title": "Oman, Bahrain seen vulnerable to downgrades if the coronavirus outbreak drags on: S&P Global",
+            "description": "It's \"fair\" to say that countries such as Oman and Bahrain are vulnerable to a potential rating downgrade if the coronavirus outbreak lasts longer than expected, according to Frank Gill, chair of sovereign ratings at S&P Global Ratings.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-oman-bahrain-vulnerable-to-a-potential-rating-downgrade.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397143-1582087022307gettyimages-1201647415.jpeg?v=1582086924",
+            "publishedAt": "2020-02-19T07:20:18Z",
+            "content": "However, with regard to sovereign rating downgrades in the pipeline due to the coronavirus, Gill pointed to Middle Eastern economies instead of China.\r\nIf the outbreak continues beyond March, the loss of oil demand could really affect prices, which are a \"maj\u2026 [+1148 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Huileng Tan",
+            "title": "China is 'confident' of averting a leadership crisis, historian says",
+            "description": "China's government is confident of solving the current coronavirus crisis such that it will not damage the leadership, historian Wang Gungwu said on Wednesday.",
+            "url": "https://www.cnbc.com/2020/02/19/chinas-leadership-is-confident-of-handling-the-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106395356-1582021248305gettyimages-1201569865.jpeg?v=1582082328",
+            "publishedAt": "2020-02-19T07:16:00Z",
+            "content": "China's government is \"confident\" of handling the coronavirus crisis in a way that will not damage the leadership, historian Wang Gungwu said on Wednesday.\r\nKnown for his expertise in Chinese history and civilization, Wang acknowledged that there is disappoin\u2026 [+3151 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yen Nee Lee",
+            "title": "Morgan Stanley says China's first-quarter growth could fall as low as 3.5% due to coronavirus",
+            "description": "Chinese health authorities have reported a total of 74,185 confirmed cases and 2,004 cumulative deaths so far.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-morgan-stanley-economic-forecasts-for-chinas-growth.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106391875-1581709038382mask.jpg?v=1582093559",
+            "publishedAt": "2020-02-19T07:15:41Z",
+            "content": "China's economic growth in the first quarter could fall to as low as 3.5% if the spread of the new coronavirus is not contained fast enough for manufacturing production to resume to normal levels, Morgan Stanley analysts wrote in a Wednesday report.\r\nChinese \u2026 [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "European stocks seen higher as investors monitor coronavirus spread, economic data",
+            "description": "European stocks are set to open higher on Wednesday as investors monitor the spread of the new coronavirus and fresh economic data.",
+            "url": "https://www.cnbc.com/2020/02/19/europe-markets-new-cases-of-coronavirus-slow-eu-to-launch-ai-proposals.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104520138-GettyImages-694006520.jpg?v=1532563825",
+            "publishedAt": "2020-02-19T06:13:11Z",
+            "content": "European stocks are set to open higher on Wednesday as investors monitor the spread of the new coronavirus and fresh economic data.\r\nBritain's FTSE 100 is seen around 39 points higher at 7,421, Germany's DAX is expected to open up around 56 points at 13,737 a\u2026 [+1915 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yen Nee Lee",
+            "title": "Coronavirus spread in Malaysia is 'no cause for panic,' health minister says",
+            "description": "Malaysia has reported 22 cases of COVID-19 as of Tuesday \u2014 the third-highest number in Southeast Asia behind Singapore and Thailand, according to data compiled by Johns Hopkins University.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-spread-in-malaysia-is-no-cause-for-panic-health-minister.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397120-1582084065275gettyimages-1201582331.jpeg?v=1582084082",
+            "publishedAt": "2020-02-19T05:07:00Z",
+            "content": "Malaysia has so far managed to contain the spread of the new coronavirus, with limited local transmissions, the country's health minister told CNBC on Wednesday.\r\nMalaysia has reported 22 cases of the new coronavirus as of Tuesday the third-highest number in \u2026 [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "World Health Organization says there are 'no indications' of coronavirus cases in North Korea",
+            "description": "Some South Korean media outlets have reported multiple cases and possible deaths from the virus in North Korea, but there has been no independent verification.",
+            "url": "https://www.cnbc.com/2020/02/19/who-says-no-signs-of-coronavirus-cases-in-north-korea.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397094-1582079826478gettyimages-1198919127.jpeg?v=1582080316",
+            "publishedAt": "2020-02-19T05:04:29Z",
+            "content": "There are no indications that there are cases of the new coronavirus in North Korea, a World Health Organization (WHO) official said, despite South Korean media reports suggesting the outbreak had spread to the isolated country.\r\n\"At the moment there are no s\u2026 [+1963 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Wendy Ye",
+            "title": "Coronavirus outbreak forces China's after-school activities to shut down \u2014 or move online",
+            "description": "As the virus keeps children at home, Chinese parents and schools are turning to online education, putting pressure on industry players to deliver.",
+            "url": "https://www.cnbc.com/2020/02/19/coronavirus-chinas-after-school-programs-to-shut-down-or-move-online.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105824506-1554077408891gettyimages-963661240.jpeg?v=1554077609",
+            "publishedAt": "2020-02-19T04:20:33Z",
+            "content": "Chinese students of Fuyang No.5 Middle School study in a classroom at night for upcoming National College Entrance Examination (Gaokao) on May 29, 2018 in Fuyang, China.\r\nAs local governments in China delay the re-opening of schools to limit the spread of the\u2026 [+5250 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Weizhen Tan",
+            "title": "China's Xi Jinping, under fire from virus outbreak, could also face an 'economic crisis'",
+            "description": "In a speech that he made on Feb. 3 which was released over the weekend, Xi said: \"Currently, we still have to deliver this year's economic and social targets.\"",
+            "url": "https://www.cnbc.com/2020/02/19/xi-jinping-to-meet-chinas-2020-growth-target-amid-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393389-1581791450549gettyimages-1199946635.jpeg?v=1582009963",
+            "publishedAt": "2020-02-19T03:11:00Z",
+            "content": "Already under heavy fire as the coronavirus outbreak shutters factories, disrupts supply chains and is set to shock China's already-slowing economy, Chinese President Xi Jinping, it seems, is also under pressure to still deliver the country's promised growth.\u2026 [+3828 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "CNBC US Source",
+            "title": "'I burst into tears' \u2014 quarantined passengers to remain in isolation after returning to US soil",
+            "description": "Gay Courter, isolated on the Diamond Princess for 10 days, says she arrived to applause at a U.S. air base. However, her long journey home to Florida is not over.",
+            "url": "https://www.cnbc.com/2020/02/18/i-burst-into-tears-quarantined-passengers-isolated-on-us-soil.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393889-1581873010947ap_20047196192047.jpg?v=1581873161",
+            "publishedAt": "2020-02-19T01:36:55Z",
+            "content": "A passenger who was among hundreds of Americans who volunteered to disembark the quarantined Diamond Princess cruise ship over the weekend, told CNBC Tuesday that the evacuees received a round of applause after making it back to U.S. soil.\r\nThe repatriates ar\u2026 [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Everything Jim Cramer said about the stock market on 'Mad Money,' including Apple hits banks, coronavirus stocks",
+            "description": "CNBC's Jim Cramer breaks down why bank stocks fell on Apple's coronavirus warning. He reveals a short list of stocks that can benefit from the outbreak.",
+            "url": "https://www.cnbc.com/2020/02/18/jim-cramers-mad-money-recap-stock-picks-feb-18-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103548653-IMG_9951rr.jpg?v=1464110084",
+            "publishedAt": "2020-02-19T00:19:09Z",
+            "content": "CNBC's Jim Cramer broke down why interest rates fell on Apple's coronavirus warning, which led to a bad day of trading for bank stocks. The \"Mad Money\" host revealed a shortlist of stocks that can benefit from the coronavirus outbreak.\r\nApple warning hurts ba\u2026 [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Jim Cramer reveals top four stock picks amid coronavirus uncertainty",
+            "description": "\"You've got Clorox, Zoom Video and Teladoc on reality, Gilead on hope. That's about it,\" the \"Mad Money\" host says.",
+            "url": "https://www.cnbc.com/2020/02/18/jim-cramer-reveals-top-four-stock-picks-amid-coronavirus-uncertainty.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106396827-1582064872627rts32erb.jpg?v=1582064980",
+            "publishedAt": "2020-02-19T00:17:26Z",
+            "content": "CNBC's Jim Cramer on Tuesday laid out a shortlist of companies that can benefit from the coronavirus outbreak.\r\n\"I don't want to profiteer off an epidemic that's already killed 2,000 people, but we need to acknowledge how this coronavirus outbreak is changing\u2026 [+3527 chars]"
+        }
+    ]
+}

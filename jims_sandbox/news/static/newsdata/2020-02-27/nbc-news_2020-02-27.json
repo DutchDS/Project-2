@@ -1,0 +1,500 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus cases surge in South Korea as outbreak spreads to nearly 50 countries",
+            "description": "More than 500 new coronavirus cases were reported in South Korea, where authorities are considering keeping schools closed for a month. The virus has spread from China to 47 countries.",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-cases-surge-in-south-korea-as-outbreak-spreads-to-nearly-50-countries-79575110002",
+            "urlToImage": "https://media1.s-nbcnews.com/j/assets/nbc-news-color-square-dvt.nbcnews-fp-1200-630.png",
+            "publishedAt": "2020-02-27T23:53:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus fears send Dow plunging nearly 1,200 points",
+            "description": "As the Dow experienced its worst day ever, former Federal Reserve Chair Janet Yellen warned of a potential recession, but said the U.S. outlook does look \u201cpretty good.\u201d",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-fears-send-dow-plunging-nearly-1-200-points-79574085825",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_hja_coronavirus_white_house_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T23:50:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus patient could be first case of \u2018community spread\u2019 in U.S.",
+            "description": "NBC\u2019s Miguel Almaguer reports from the UC Davis Medical Center where a seriously ill patient remains in isolation after becoming what could be the first U.S. case of \u201ccommunity spread\u201d of the coronavirus.",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-patient-could-be-first-case-of-community-spread-in-u-s-79575109875",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mal_coronavirus_us_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T23:48:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniella Silva and Daniel Arkin",
+            "title": "'Fear versus dreams': Coronavirus outbreak spread sparks fears for American travelers",
+            "description": "With spring and summer coming up, some Americans are concerned about or reconsidering their travel plans as the novel coronavirus continues to spread.",
+            "url": "https://www.nbcnews.com/news/us-news/coronavirus-outbreak-spread-sparks-fears-american-travelers-n1144456",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_09/3247221/200227-airplane-coronavirus-cs-306p_4869b7ec31556a47569973322c4e7e66.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T23:40:16Z",
+            "content": "Summer Mutz's dream of visiting Europe was finally arriving this weekend a trip to Rome, Vienna and Paris with a friend. But with the novel coronavirus sweeping the globe and the number of cases in Italy surging, what once seemed like a wonderful milestone wa\u2026 [+5125 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Denise Chow",
+            "title": "The new coronavirus hasn't mutated much \u2014 what does that tell scientists?",
+            "description": "The new coronavirus hasn't mutated much \u2014 what does that tell scientists?",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144566",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T23:14:11Z",
+            "content": "Scientists working to contain the spread of the new coronavirus have noticed something curious about the newly identified pathogen\u00a0 it hasn't mutated much.\r\nGenetic analyses have shown that the coronavirus has not undergone many significant changes since it f\u2026 [+6026 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ali Gostanian",
+            "title": "Small businesses feel effects of coronavirus outbreak",
+            "description": "Small businesses are feeling the effects of the coronavirus outbreak on their supply chains, forcing owners to decide whether to shut up shop, pass the price hike onto their customers, or seek out alternative suppliers.",
+            "url": "https://www.nbcnews.com/business/consumer/it-s-not-just-apple-small-businesses-are-feeling-effects-n1142786",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3243681/200225-nick-arin-oliver-al-1432_50f88352846197af6888bf72bd9e308f.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T21:50:17Z",
+            "content": "Wall Street is having its worst week since the financial crisis but it's not just major companies such as Apple and Boeing who are reporting gigantic losses and feeling the effects of the coronavirus epidemic. \r\nNick and Arin Oliver of Oregon, Illinois fulfil\u2026 [+4127 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "After mystery coronavirus case, health officials go into detective mode",
+            "description": "A UC Davis Medical Center patient who appears to be America's first case of person-to-person coronavirus transmission of unknown origin has prompted two major questions: Where did the individual acquire the illness from, and who else might have it?",
+            "url": "https://www.nbcnews.com/health/health-news/after-mystery-coronavirus-case-california-health-officials-go-detective-mode-n1144231",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3247181/200227-uc-davis-medical-center-se-229p_9e62c3de71d9748a029012cde88f5f36.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T21:28:44Z",
+            "content": "A California patient who appears to be America's first case of a coronavirus transmission of unknown origin has prompted two major questions: How was she exposed to the virus, and who else might have it?\r\nCalifornia public health officials on Thursday said th\u2026 [+6681 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lucy Bayly",
+            "title": "Dow plunges nearly 1,200 points as coronavirus fears send markets diving",
+            "description": "Wall Street suffered brutal losses on Thursday, with the Dow Jones Industrial Average closing with a loss of 1,190 points for the worst week since the financial crisis.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144476",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T21:15:00Z",
+            "content": "Wall Street suffered brutal losses on Thursday, with the Dow Jones Industrial Average swinging wildly through more than 1,000 points before closing with a loss of 1,200 points for the worst week since the financial crisis.\r\nThe Dow has now lost more than 3,20\u2026 [+7436 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Popken",
+            "title": "U.S. could see some empty shelves by mid-April if coronavirus epidemic worsens",
+            "description": "Coronavirus has the potential to become a global pandemic, temporarily emptying retail store shelves in the coming months and depressing some consumer-facing businesses, experts say.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144461",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T20:38:57Z",
+            "content": "Coronavirus has the potential to become a global pandemic, temporarily emptying retail store shelves in the coming months and depressing some consumer-facing businesses, experts say, with government officials advising families to take measured steps to stock \u2026 [+6707 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lucy Bayly",
+            "title": "Tim Cook says some China factories reopening",
+            "description": "Tim Cook says some China factories reopening",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144376",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T19:31:12Z",
+            "content": "Apple CEO Tim Cook said Thursday he is optimistic about Chinas handling of the coronavirus epidemic, noting that his company has ramped up production as factories in the country have come back online.\r\n\"It feels to me that China is getting the coronavirus und\u2026 [+6719 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "'We're ready for anything': Pence discusses coronavirus outbreak at CPAC",
+            "description": "Vice President Mike Pence addressed the coronavirus outbreak during his remarks to the Conservative Political Action Committee.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144356",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T18:51:00Z",
+            "content": "Facebook has canceled its yearly F8 developer conference, one of the company's signature events.\r\nThis was a tough call to make -- F8 is an incredibly important event for Facebook and its one of our favorite ways to celebrate all of you from around the world \u2026 [+5643 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Popken",
+            "title": "U.S. could see some empty shelves by mid-April if coronavirus epidemic worsens",
+            "description": "Production bottlenecks could cause some bare shelves at brick and mortar retailers within 60-90 days, retail analysts warn.",
+            "url": "https://www.nbcnews.com/business/consumer/u-s-could-see-some-empty-shelves-mid-april-if-n1144351",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3246936/200227-italy-supermarket-coronavirus-cs-1120a_01aee023d85dae0a99f6d2f4b50b4688.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T18:47:00Z",
+            "content": "Coronavirus has the potential to become a global pandemic, temporarily emptying retail store shelves in the coming months and depressing some consumer-facing businesses, experts say, with government officials advising families to take measured steps to stock \u2026 [+3233 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jason Abbruzzese",
+            "title": "Facebook cancels major developer conference",
+            "description": "Facebook cancels major developer conference",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144316",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T18:17:31Z",
+            "content": "Facebook has canceled its yearly F8 developer conference, one of the company's signature events.\r\nThis was a tough call to make -- F8 is an incredibly important event for Facebook and its one of our favorite ways to celebrate all of you from around the world \u2026 [+6410 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "'We're ready for anything': Pence discusses coronavirus outbreak at CPAC",
+            "description": "Vice President Mike Pence addressed the coronavirus outbreak during his remarks to the Conservative Political Action Committee. \"We're ready for anything,\" he said, but claimed that \"this is not the time for partisanship.\"",
+            "url": "https://www.nbcnews.com/video/pence-discusses-coronavirus-outbreak-at-cpac-79544389732",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/pence_corona_thumb.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T18:03:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Variety",
+            "title": "Howard Stern calls staffer 'racist' for linking BTS to coronavirus",
+            "description": "\"The Howard Stern Show\" host said staffer Salvatore Governale's comment linking K-pop group BTS to the coronavirus was \"racist.\"",
+            "url": "https://www.nbcnews.com/news/asian-america/howard-stern-calls-staffer-racist-linking-bts-coronavirus-n1144251",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_09/3246981/200227-howard-stern-cs-1156a_5a8f5747ba38471e9036a4d2db7e2228.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T17:30:53Z",
+            "content": "Remarks about BTS made on The Howard Stern Show are being called racist by both listeners and the shows host.\r\nDuring the February 24 episode of the SiriusXM staple, Howard Stern a notorious germaphobe brought up growing concern over the deadly coronavirus wi\u2026 [+2861 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Chinese ride-hailing company combats coronavirus by fitting plastic sheeting",
+            "description": "A Chinese ride-hailing company is fitting its drivers' cars with thick plastic sheets to help stop the spread of coronavirus.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144256",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T17:14:40Z",
+            "content": "Sen. McConnell eyes getting funding package through Congress in next two weeks\r\nSenate Majority Leader Mitch McConnell, R-KY, applauded the Trump administrations response to the coronavirus, saying, There seems to be little question that COVID-19 will eventua\u2026 [+7402 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Frank Thorp V",
+            "title": "Sen. McConnell eyes getting funding package through Congress in next two weeks",
+            "description": "The Senate majority leader praised the Trump administration's response to the coronavirus.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144236",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T16:57:32Z",
+            "content": "Senate Majority Leader Mitch McConnell, R-KY, applauded the Trump administrations response to the coronavirus, saying, There seems to be little question that COVID-19 will eventually cause some degree of disruption here.\u00a0\r\nAnd McConnell criticized Minority Le\u2026 [+7322 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rebecca Shabad, Frank Thorp V",
+            "title": "Pelosi says lawmakers 'close' to reaching a deal on coronavirus emergency response money",
+            "description": "Pelosi says lawmakers 'close' to reaching a deal on coronavirus emergency response money",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144221",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T16:52:00Z",
+            "content": "House Speaker Nancy Pelosi, D-Calif., told reporters at a news conference on Thursday that officials are \"coming close\" to a bipartisan agreement on emergency funding for the U.S. coronavirus response.\u00a0\r\nPelosi also criticized the Trump administration's respo\u2026 [+7293 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Pelosi: Trump's response to coronavirus has been 'opaque and often chaotic'",
+            "description": "House Speaker Nancy Pelosi, D-Calif., criticized the Trump administration's response to the coronavirus outbreak as \"opaque and often chaotic.\" She also noted that \"we're coming close\" to a bipartisan agreement in Congress on how to move forward on the issue.",
+            "url": "https://www.nbcnews.com/video/pelosi-criticizes-the-trump-administration-s-chaotic-response-to-coronavirus-79537733961",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/pelosi_corona.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T16:36:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Iranian lawmaker confirms he tested positive for coronavirus",
+            "description": "Mojtaba Zonnour, a member of Iran's parliament who represents the city of Qom, said in a video message that he is now in quarantine.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144131",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T15:20:38Z",
+            "content": "Students at Prince Georges school are being tested for coronavirus\r\nSome students at the London school attended by the U.K.'s\u00a0Prince George and Princess Charlotte\u00a0have stayed home as they await test results for coronavirus, NBC News has confirmed.\u00a0 \u00a0\u00a0 \u00a0\r\nAlth\u2026 [+5161 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lucy Bayly",
+            "title": "Stocks enter correction, Dow plunges 500 points, as coronavirus fears multiply",
+            "description": "Wall Street fell sharply on Thursday on investor fear that the coronavirus epidemic could spread to the U.S.",
+            "url": "https://www.nbcnews.com/business/markets/stocks-enter-correction-dow-plunges-500-points-coronavirus-fears-multiply-n1144116",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_09/3246706/200227-stock-exchange-cs-940a_cf97dda5c0f5688dffaa2b66465a0e64.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T15:03:24Z",
+            "content": "Wall Street fell sharply on Thursday for the sixth straight day, with all three major indices entering correction as investor fears multiplied that the coronavirus epidemic could spread to the U.S.\r\nA correction indicates a drop of 10 percent from the 52-week\u2026 [+2559 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Chinese ride-hailing company uses thick plastic to keep coronavirus at bay",
+            "description": "Chinese ride-hailing giant Didi Chuxing is fitting thick plastic sheeting to its drivers\u2019 cars as one way of stopping the spread of coronavirus.",
+            "url": "https://www.nbcnews.com/video/chinese-ride-hailing-company-combats-coronavirus-by-fitting-plastic-sheeting-79529029767",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/AFP_1P944Q.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T14:23:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Maggie Fitzgerald, CNBC",
+            "title": "U.S. companies will see zero growth this year because of coronavirus, says Goldman Sachs",
+            "description": "Fears about the epidemic have pushed the Dow Jones Industrial Average into correction territory, down at least 10 percent from its 52-week high.",
+            "url": "https://www.nbcnews.com/business/corporations/u-s-companies-will-see-zero-growth-year-because-coronavirus-n1144081",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3246646/200227-goldman-sachs-al-0908_8520cbf400a49e890c69ed4d7fcd7dab.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T14:11:00Z",
+            "content": "Earnings growth for U.S. companies will be stagnant in 2020 as a result of the coronavirus, according to Goldman Sachs.\r\nThe Wall Street firm revised its earnings estimate for the year to $165 per share from $174 per share, representing 0 percent growth in 20\u2026 [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Biden's banking big on South Carolina, but his real challenge is Super Tuesday",
+            "description": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/biden-s-banking-big-south-carolina-his-real-challenge-super-n1144071",
+            "urlToImage": "https://static.euronews.com/articles/4530452/1000x563_nbc-200227-joe-biden-mc-1319_63455b90b18862f7f871b49dc497ec36.jpg",
+            "publishedAt": "2020-02-27T13:55:00Z",
+            "content": "WASHINGTON \u2014 Joe Biden has enjoyed, easily, his best week of 2020 \u2014 a second-place finish in Nevada, a relatively strong debate performance, Jim Clyburn's endorsement and polling showing him poised to win South Carolina on Saturday.\r\nHis challenge comes after\u2026 [+8628 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Iranian lawmaker confirms he tested positive for coronavirus",
+            "description": "Mojtaba Zonnour, a member of Iran\u2019s parliament who represents the city of Qom, said in a video message that he is now in quarantine.",
+            "url": "https://www.nbcnews.com/video/iranian-lawmaker-mojtaba-zonnour-tests-positive-for-coronavirus-79525957732",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/Iran_Virus_2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T13:34:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Muslim pilgrims wear masks at the Grand Mosque in Mecca",
+            "description": "Muslim pilgrims wear masks at the Grand Mosque in Mecca",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144041",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T13:25:59Z",
+            "content": "Three senior Iranian officials diagnosed with coronavirus\r\nThree members of the Iranian Parliament were confirmed on Thursday to have coronavirus, according to videos released by officials.\u00a0\r\nAhmad Amirabadi Farahani and \u00a0Mojtaba Zonnouri from the holy city o\u2026 [+6734 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Amin Hossein Khodadadi, Michelle Gooden-Jones",
+            "title": "Three senior Iranian officials diagnosed with coronavirus",
+            "description": "Three members of the Iranian Parliament were confirmed on Thursday to have coronavirus.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144031",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T13:06:00Z",
+            "content": "Three members of the Iranian Parliament were confirmed on Thursday to have coronavirus, according to videos released by officials.\u00a0\r\nAhmad Amirabadi Farahani and \u00a0Mojtaba Zonnouri from the holy city of Qom, and Mahmoud Sadeghi from capital Tehran were confirm\u2026 [+7405 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters, Stella Kim, Michelle Gooden-Jones",
+            "title": "Coronavirus cases jump to 1,766 in South Korea",
+            "description": "South Korean authorities announced 1,766 cases of coronavirus on Thursday, up from the 1,261 reported a day earlier, according to the Korea Centers for Disease Control and Prevention (KCDCP).",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144011",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T11:56:53Z",
+            "content": "South Korean authorities announced 1,766 cases of coronavirus on Thursday, up from the 1,261 reported a day earlier, according to the Korea Centers for Disease Control and Prevention (KCDCP).\u00a0\r\nThe KCDCP also reported 13 deaths on Thursday, up from 12 Wednesd\u2026 [+6650 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Associated Press, NBC News",
+            "title": "Japan to close schools nationwide to control spread of virus, AP reports",
+            "description": "Japan will close schools nationwide to help control the spread of the new virus, the government announced Thursday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1144016",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T11:50:33Z",
+            "content": "TOKYO \u00a0Japan will close all elementary, junior and high schools after a plea by Japanese Prime Minister Shinzo Abe, government officials said\u00a0on Thursday.\r\nThe measure affects 12.8 million students at 34,847 schools nationwide, the education ministry said, ac\u2026 [+6150 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bita Ryan, Phil Helsel",
+            "title": "Coronavirus: CDC didn't immediately test COVID-19 case",
+            "description": "The CEO of a Sacramento university health system said that the CDC initially declined to test a patient for the coronavirus COVID-19.",
+            "url": "https://www.nbcnews.com/news/us-news/coronavirus-cdc-didn-t-immediately-test-covid-19-case-n1143996",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3246436/200227-cdc-california-mc-1034_060f9e389fc9dcdc8a721f18147661b5.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-27T10:48:01Z",
+            "content": "The head of a Sacramento health system says that the Centers for Disease Control and Prevention did not immediately test a patient in what may be the first case of person-to-person transmission of COVID-19 in the general public in the United States.\r\nUniversi\u2026 [+2888 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Cruise ship at center of coronavirus scare sparks anger after docking at Mexican resort",
+            "description": "The MSC Meraviglia arrived in Cozumel, Mexico, after being denied entry to two Caribbean ports due to fears, later disproved, that a crew member was infected with the coronavirus.",
+            "url": "https://www.nbcnews.com/video/cruise-ship-docks-at-cozumel-mexico-amid-coronavirus-concerns-79520325594",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/HEALTH-MEXICO.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T10:03:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ed Flanagan",
+            "title": "North Korea marathon cancelled over coronavirus fears",
+            "description": "North Korea marathon cancelled because of coronavirus fears",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1143981",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T08:58:00Z",
+            "content": "Organizers of the annual Pyongyang Marathon announced Thursday that the event had been cancelled this year.\r\n\"This is due to the ongoing closure of the North Korean border and COVID-19 virus situation in China and the greater region,\" partner Koryo Tours said\u2026 [+8244 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bita Ryan, Phil Helsel",
+            "title": "CDC didn't immediately test COVID-19 patient, California medical system head says",
+            "description": "The CEO of a Sacramento university health system said that the CDC initially declined to test a patient for the coronavirus COVID-19. That patient has now tested positive and could be the first case of transmission from the general public in the U.S.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1143961",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T05:55:19Z",
+            "content": "The head of a Sacramento health system says that the Centers for Disease Control and Prevention did not immediately test a patient in what may be the first case of person-to-person transmission of COVID-19 in the general public in the United States.\r\nUniversi\u2026 [+8989 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Deaths in mainland China continue to grow, now reported at 2,744",
+            "description": "China's national health commission on Thursday morning local time reported 29 new deaths linked to the coronavirus illness known as COVID-19, bringing the total deaths in mainland China to 2,744.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1143946",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T04:40:00Z",
+            "content": "China's National Health Commission on Thursday morning local time reported 29 new deaths linked to the coronavirus illness COVID-19, bringing the total number of deaths on the mainland to 2,744.\r\nThe National Health Commission also reported 433 new confirmed \u2026 [+7645 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jane C. Timm",
+            "title": "Fact checking Trump on coronavirus",
+            "description": "Trump is fact checked on his coronavirus comments Wednesday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1143936",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T02:54:58Z",
+            "content": "President Donald Trump tried to stick to the facts Wednesday in a news conference at the White House after being criticized for downplaying the coronavirus threat.\r\nHe accurately told the nation the risk to Americans is low but the country should prepare out \u2026 [+8676 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jonathan Allen",
+            "title": "Trump's not worried about coronavirus. But his scientists are.",
+            "description": "Analysis: President Donald Trump is telling Americans not to worry about the coronavirus, even as federal officials say they're preparing for more cases.",
+            "url": "https://www.nbcnews.com/politics/white-house/trump-s-not-worried-about-coronavirus-his-scientists-are-n1143911",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_09/3246216/200226-donald-trump-coronavirus-analysis-ac-828p_6040664b0d94709273fec02cd885f105.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T01:58:00Z",
+            "content": "CHARLESTON, S.C. President Donald Trump congratulated himself for protecting the public from the deadly coronavirus Wednesday, reassured Americans that there's a \"very low\" risk of an outbreak in this country and handed off any future responsibility to Vice P\u2026 [+4129 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jane C. Timm and Sara G. Miller",
+            "title": "Fact checking Trump's news conference on coronavirus",
+            "description": "Trump accurately described the risk to Americans as low \u2014 though some health officials have issued stronger warnings about an inevitable spread.",
+            "url": "https://www.nbcnews.com/politics/donald-trump/fact-checking-trump-s-comments-coronavirus-n1143856",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245981/200226-donald-trump-coronavirus-fact-check-ew-646p_a1a00909c2abf61ef10c2ba33e5a940a.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T01:39:00Z",
+            "content": "After coming under fire for painting an overly rosy picture of the coronavirus threat, President Donald Trump hewed closely to the facts Wednesday in a news conference at the White House.\r\nFlanked by government officials, he accurately told the nation the ris\u2026 [+3408 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Trump: COVID-19 poses \u2018very low\u2019 risk to Americans",
+            "description": "President Trump called the COVID-19 coronavirus \u201cvery low\u201d risk to Americans in a rare White House briefing room appearance. He also named Vice President Pence in charge of the response effort.",
+            "url": "https://www.nbcnews.com/video/trump-says-coronavirus-poses-very-low-risk-to-u-s-puts-pence-in-charge-of-response-79502405771",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/trump-corona-thumb.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-27T00:29:30Z",
+            "content": null
+        }
+    ]
+}

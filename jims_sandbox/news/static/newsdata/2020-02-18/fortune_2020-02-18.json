@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "SARS treatments could help with the new coronavirus. Why were they shelved?",
+            "description": "It comes down to funding.",
+            "url": "https://fortune.com/2020/02/18/coronavirus-sars-vaccine-development/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-vaccine-SARS-lessons-e1582064653743.jpg?resize=1200,600",
+            "publishedAt": "2020-02-18T22:25:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erika Fry",
+            "title": "The coronavirus picture gets clearer with updated infection, death numbers",
+            "description": "Updated numbers and analysis from China's CDC provide a more nuanced picture of coronavirus infections and deaths.",
+            "url": "https://fortune.com/2020/02/18/coronavirus-updated-cases-deaths/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-update-long-weekend.jpg?resize=1200,600",
+            "publishedAt": "2020-02-18T19:53:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Bernhard Warner",
+            "title": "Frustrations fly as MWC trade show customers seek refunds following last-minute cancelation",
+            "description": "The coronavirus outbreak caused the abrupt cancellation of the world's biggest telecoms trade show, Mobile World Congress, leaving the host city in a lurch about refunds.",
+            "url": "https://fortune.com/2020/02/18/mwc-canceled-trade-show-mobile-world-conference/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1206056334.jpg?resize=1200,600",
+            "publishedAt": "2020-02-18T18:30:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "kdunn6",
+            "title": "In China, oil won\u2019t be the only energy sector battered by the coronavirus",
+            "description": "Energy consultancy Wood Mackenzie says the virus' impact on Chinese supply chains has already snarled production for renewable energy infrastructure",
+            "url": "https://fortune.com/2020/02/18/turbines-oil-china-virus-battery-storage/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1205911544.jpg?resize=1200,600",
+            "publishedAt": "2020-02-18T11:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "The safe haven sector that\u2019s tearing past tech stocks and the S&P 500 this year",
+            "description": "The coronavirus outbreak has been disrupting global markets for the past month, sinking energy stocks and significantly boosting shares in utilities.",
+            "url": "https://fortune.com/2020/02/18/utilities-coronavirus-outperform-markets/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1068941028.jpg?resize=1200,600",
+            "publishedAt": "2020-02-18T10:03:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Coronavirus recovery: Why it\u2019s so hard for China\u2019s factories to get back to work",
+            "description": "Apple manufacturer Foxconn has to check employees for fever twice a day while other factories impose 14-day quarantines for returning staff.",
+            "url": "https://fortune.com/2020/02/18/china-factories-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198897228.jpg?resize=1200,600",
+            "publishedAt": "2020-02-18T09:58:14Z",
+            "content": null
+        }
+    ]
+}

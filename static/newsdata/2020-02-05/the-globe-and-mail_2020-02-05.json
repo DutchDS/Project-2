@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "Presumptive case of coronavirus identified in BC - The Globe and Mail",
+            "description": "Presumptive case of coronavirus identified in BC The Globe and Mail Coronavirus outbreak: Second \u201cpresumptive confirmed\u201d case in B.C. Global News Second person diagnosed with novel coronavirus in B.C. - BC News Castanet.net Second presumptive case of Wuhan co\u2026",
+            "url": "https://www.theglobeandmail.com/canada/british-columbia/video-presumptive-case-of-coronavirus-identified-in-bc/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/N0jcq11B-_EdtdtwY7AD6W_DwMI=/1536x864/filters:quality(70)/arc-goldfish-tgam-thumbnails.s3.amazonaws.com/thumbnails/5e3a3340c9e77c000186a019/n_New-Coronavirus-BC20200204T1820.jpg",
+            "publishedAt": "2020-02-05T13:27:45Z",
+            "content": "\u00a9 Copyright 2020 The Globe and Mail Inc. All rights reserved.\r\n351 King Street East, Suite 1600, Toronto, ON Canada, M5A 0N1\r\nPhillip Crawley, Publisher"
+        }
+    ]
+}

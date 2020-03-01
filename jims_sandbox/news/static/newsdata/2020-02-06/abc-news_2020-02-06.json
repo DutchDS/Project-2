@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Ben Gittleson",
+            "title": "White House asks scientists to investigate origins of coronavirus",
+            "description": "The White House asked scientists and medical experts to research the origins of the novel coronavirus, in part to counter misinformation about the outbreak.",
+            "url": "https://abcnews.go.com/Politics/white-house-asks-scientists-investigate-origins-coronavirus/story?id=68807304",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-2-rt-er-200123_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-06T22:37:29Z",
+            "content": "The White House on Thursday asked U.S. scientists and medical researchers to investigate the scientific origins of the novel coronavirus, as misinformation about the outbreak spreads online.\r\nThe director of the White House's Office of Science and Technology \u2026 [+3471 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Chinese hospital says doctor who sounded an early warning about the coronavirus outbreak has died of the illness",
+            "description": "Chinese hospital says doctor who sounded an early warning about the coronavirus outbreak has died of the illness",
+            "url": "https://abcnews.go.com/Health/wireStory/chinese-hospital-doctor-sounded-early-warning-coronavirus-outbreak-68807319",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-06T20:40:30Z",
+            "content": "BEIJING -- \r\nChinese hospital says doctor who sounded an early warning about the coronavirus outbreak has died of the illness."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD AP Medical Writer",
+            "title": "Experts scramble, but new virus vaccine may not come in time",
+            "description": "The flu-like virus that exploded from China has researchers worldwide once again scrambling to find a vaccine against a surprise health threat, with no guarantee one will arrive in time",
+            "url": "https://abcnews.go.com/Health/wireStory/experts-scramble-virus-vaccine-time-68803428",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_a585d2315ce74bf0b60a361e1d4bdde7_16x9_992.jpg",
+            "publishedAt": "2020-02-06T17:34:51Z",
+            "content": "WASHINGTON -- \r\nThe flu-like virus that exploded from China has researchers worldwide once again scrambling to find a vaccine against a surprise health threat, with no guarantee one will arrive in time.\r\nJust days after Chinese scientists shared the genetic m\u2026 [+6528 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Officials: 70 China evacuees to be quarantined in Nebraska",
+            "description": "Officials say 70 Americans being evacuated from China over a viral outbreak will be flown into Omaha and quarantined at a nearby Nebraska National Guard training base",
+            "url": "https://abcnews.go.com/Health/wireStory/officials-70-china-evacuees-quarantined-nebraska-68803095",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-06T17:21:47Z",
+            "content": "OMAHA, Neb. -- \r\nOfficials said Thursday that 70 Americans being evacuated from China over a viral outbreak will be flown into Omaha and quarantined at a nearby Nebraska National Guard training base.\r\nThe evacuees will arrive at Eppley Airfield on Thursday or\u2026 [+1094 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "IMF: Oil-rich Gulf Arab states may spend savings in 15 years",
+            "description": "The International Monetary Fund is warning that energy-rich Gulf Arab states could burn through all their savings in the next 15 years",
+            "url": "https://abcnews.go.com/Business/wireStory/imf-oil-rich-gulf-arab-states-spend-savings-68803056",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_ca2eefef77fe43f6b858625dd0548576_16x9_992.jpg",
+            "publishedAt": "2020-02-06T17:21:03Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nEnergy-rich Gulf Arab states could burn through all their savings in the next 15 years as worries about climate change and supply from new competitors dampen oil prices, the International Monetary Fund warned on Thursday, advi\u2026 [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "IMF: Oil-rich Gulf Arab states may spend savings in 15 years",
+            "description": "The International Monetary Fund is warning that energy-rich Gulf Arab states could burn through all their savings in the next 15 years",
+            "url": "https://abcnews.go.com/International/wireStory/imf-oil-rich-gulf-arab-states-spend-savings-68803041",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_ca2eefef77fe43f6b858625dd0548576_16x9_992.jpg",
+            "publishedAt": "2020-02-06T17:20:53Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nEnergy-rich Gulf Arab states could burn through all their savings in the next 15 years as worries about climate change and supply from new competitors dampen oil prices, the International Monetary Fund warned on Thursday, advi\u2026 [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus cases in UK, Germany bring Europe's total to 30",
+            "description": "Britain and Germany announced more cases of the Wuhan virus on Thursday, bringing the total number of confirmed virus cases in Europe to 30",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-cases-uk-germany-bring-europes-total-30-68799973",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_f2b85a7bb01f40f988abfde4fae105cb_16x9_992.jpg",
+            "publishedAt": "2020-02-06T15:20:22Z",
+            "content": "LONDON -- \r\nBritain and Germany announced more cases of the Wuhan virus on Thursday, bringing the total number of confirmed virus cases in Europe to 30.\r\nIn Germany, all the virus cases have centered on the same company, auto parts supplier Webasto, whose hea\u2026 [+2779 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AMY TAXIN and ELLIOT SPAGAT Associated Press",
+            "title": "Life under virus quarantine: Boxing, chalk art and waiting",
+            "description": "At a military base in Riverside, California, the nearly 200 Americans evacuated out of a Chinese city over the viral outbreak have been jogging together, taking classes and eating pizza at a Super Bowl party",
+            "url": "https://abcnews.go.com/Health/wireStory/life-virus-quarantine-boxing-chalk-art-waiting-68799487",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_a3a4bd21d9f040a8ade97cc4a5a8cf8c_16x9_992.jpg",
+            "publishedAt": "2020-02-06T14:27:33Z",
+            "content": "RIVERSIDE, Calif. -- \r\nThere's Zumba and boxing classes, lectures on business and taxes, and chalk art outside for the children.\r\nWhile it might sound like a local recreation center's offerings, it's actually part of daily life for 195 American citizens quara\u2026 [+5688 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: 5,000 from earlier cruises possibly exposed",
+            "description": "Hong Kong authorities say more than 5,000 cruise passengers may have been exposed to a virus during voyages on a ship now in quarantine",
+            "url": "https://abcnews.go.com/Health/wireStory/latest--68797127",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_9fa1dea7d2a844c59fe0a37b1a714421_16x9_992.jpg",
+            "publishedAt": "2020-02-06T12:39:33Z",
+            "content": "BEIJING -- \r\nThe Latest on a virus outbreak that began in China (all times local):\r\n8 p.m.\r\nHong Kong authorities say more than 5,000 people may have been exposed to a virus during previous voyages on a cruise ship now in quarantine.\r\nCenter for Health Protec\u2026 [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kelly Terez, Jon Haworth",
+            "title": "'Start Here': Senate votes to acquit Trump of impeachment charges",
+            "description": "It's Thursday, Feb. 6, 2020. Here's what you need to know to start your day.",
+            "url": "https://abcnews.go.com/US/start-here-senate-votes-acquit-trump-impeachment-charges/story?id=68774746",
+            "urlToImage": "https://s.abcnews.com/images/Politics/justice-roberts-impeachment-vote-abc-jef-200205_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-06T11:11:50Z",
+            "content": "It's Thursday, Feb. 6, 2020. Let's start here.\r\n1. Trump acquittal\r\nPresident Donald Trump was acquitted by the Senate on charges of abuse of power and obstruction of justice by a party line vote on Wednesday.\r\nEvery Democrat voted to convict the president, b\u2026 [+4297 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "2 newborns among 28,000 coronavirus cases as death toll tops 550",
+            "description": "Two newborns are among the more than 28,000 people who have been infected globally with the novel coronavirus.",
+            "url": "https://abcnews.go.com/International/newborns-28000-coronavirus-cases-death-toll-tops-550/story?id=68794513",
+            "urlToImage": "https://s.abcnews.com/images/International/baby-wearing-protective-mask-hong-kong-getty-20020_hpMain_20200206-052746_16x9_992.jpg",
+            "publishedAt": "2020-02-06T10:55:51Z",
+            "content": "Two newborns are among the more than 28,000 people who have been infected globally with the novel coronavirus.\r\nThe infants, one just 30-hours-old, tested positive for the newly discovered virus on Wednesday at a children's hospital in Wuhan, China, the epice\u2026 [+3833 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kelly Terez, Jon Haworth",
+            "title": "'Start Here': Senate votes to acquit Trump of impeachment charges",
+            "description": "It's Thursday, Feb. 6, 2020. Here's what you need to know to start your day.",
+            "url": "https://abcnews.go.com/US/start-senate-votes-acquit-trump-impeachment-charges/story?id=68774746",
+            "urlToImage": "https://s.abcnews.com/images/Politics/justice-roberts-impeachment-vote-abc-jef-200205_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-06T10:05:06Z",
+            "content": "It's Thursday, Feb. 6, 2020. Let's start here.\r\n1. Trump acquittal\r\nPresident Donald Trump was acquitted by the Senate on charges of abuse of power and obstruction of justice by a party line vote on Wednesday.\r\nEvery Democrat voted to convict the president, b\u2026 [+4297 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": null,
+            "title": "12th coronavirus case confirmed in the US - msnNOW",
+            "description": "12th coronavirus case confirmed in the US msnNOW First case of coronavirus confirmed in Wisconsin TODAY\u2019S TMJ4 DHS confirms first case of coronavirus in Wisconsin, patient tested at UW Hospital Channel3000.com - WISC-TV3 Coronavirus patient in Wisconsin to re\u2026",
+            "url": "https://abcnews.go.com/International/10-people-aboard-cruise-ship-japan-test-positive/story?id=68769789",
+            "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBZGJRM.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg&x=803&y=242",
+            "publishedAt": "2020-02-06T05:25:00Z",
+            "content": "Workers with sanitizing equipment walk up a flight of stairs as they disinfect a railway station during the coronavirus outbreak, in Kunming, Yunnan province, China, Feb. 4, 2020.\r\nA member of the medical staff holds a test tube after taking samples taken fro\u2026 [+18493 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP Business Writer",
+            "title": "Asian economies cut rates, move to blunt impact of virus",
+            "description": "Thailand's central bank cut its benchmark interest rate and other Asian countries look set to follow suit as they seek ways to soften the impact of the outbreak of a virus in China that has killed more than 560 people",
+            "url": "https://abcnews.go.com/International/wireStory/asian-economies-cut-rates-move-blunt-impact-virus-68792402",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_e23f62700f88430d957ea93e203ea73c_16x9_992.jpg",
+            "publishedAt": "2020-02-06T04:45:03Z",
+            "content": "BANGKOK -- \r\nThailand's central bank cut its benchmark interest rate and other Asian countries look set to follow suit as they seek ways to soften the impact of the outbreak of a virus in China that has killed more than 560 people. \r\nThe Bank of Thailand cut \u2026 [+2867 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 28,200 people globally",
+            "description": "A viral outbreak that began in China has infected more than 28,200 people worldwide",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-28200-people-globally-68789064",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_f2b85a7bb01f40f988abfde4fae105cb_16x9_992.jpg",
+            "publishedAt": "2020-02-06T01:23:47Z",
+            "content": "A viral outbreak that began in China has infected more than 28,200 people globally. \r\nThe latest figures as of Thursday in Beijing:\r\nChina: 563 deaths and 28,018 confirmed cases on the mainland. In addition, Hong Kong has had 21 cases, including one death. Ma\u2026 [+556 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Korean Air flight diverted to LAX for new virus screening",
+            "description": "A flight headed to Las Vegas from Seoul, South Korea, was diverted to Los Angeles over concerns that some of the passengers might have been exposed to a new virus",
+            "url": "https://abcnews.go.com/Health/wireStory/korean-air-flight-diverted-lax-virus-screening-68788956",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-06T01:06:48Z",
+            "content": "LOS ANGELES -- \r\nA Korean Air flight headed to Las Vegas from Seoul, South Korea, was diverted Wednesday to Los Angeles over concerns that some of the passengers might have been exposed to a new virus, the airline said. \r\nThree passengers, all U.S. passport h\u2026 [+795 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "China new virus deaths rise to 563",
+            "description": "China has reported new deaths by a viral outbreak have risen by 73 in the past 24 hours",
+            "url": "https://abcnews.go.com/Health/wireStory/china-virus-deaths-rise-563-68788125",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_0121b303cdf044eb8927bf51eff1e319_16x9_992.jpg",
+            "publishedAt": "2020-02-06T00:29:00Z",
+            "content": "BEIJING -- \r\nChina has reported new deaths by a viral outbreak have risen by 73 in the past 24 hours to 563.\r\nThat brings the number of confirmed cases to 28,018, an increase of 3,694. \r\nThe little-understood new coronavirus has spread fear around the world, \u2026 [+219 chars]"
+        }
+    ]
+}

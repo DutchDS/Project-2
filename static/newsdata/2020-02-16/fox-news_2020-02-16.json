@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lew Olowski",
+            "title": "Lew Olowski: Coronavirus worse than reported \u2013 here's how China is catching up to reality",
+            "description": "The official tally has been an underestimate and is still catching up to reality.",
+            "url": "https://www.foxnews.com/opinion/lew-olowski-coronavirus-worse-than-reported-heres-how-china-is-making-the-situation-worse",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20044518268848.jpg",
+            "publishedAt": "2020-02-16T16:55:36Z",
+            "content": "China\u2019s novel coronavirus, COVID-19, has killed and infected more people than officially reported.\r\nConsider the latest numbers. In one day, total reported infections and deaths increased 44 percent\u00a0and 23 percent, respectively. But not \u201cbecause of any change\u2026 [+5589 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "US to fly home citizens in coronavirus quarantine aboard Diamond Princess cruise ship",
+            "description": "The U.S. State Department is sending chartered planes to Japan Sunday night to evacuate the nearly 400 Americans who remain quarantined aboard the Diamond Princess cruise ship amid an outbreak of the coronavirus aboard.",
+            "url": "https://www.foxnews.com/health/coronavirus-diamond-princess-state-department-planes-evacuate-us-citizens-japan",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20046203584731.jpg",
+            "publishedAt": "2020-02-16T13:48:54Z",
+            "content": "The U.S. State Department is sending chartered planes to Japan Sunday night to evacuate the nearly 400 Americans who remain quarantined aboard the Diamond Princess cruise ship amid an outbreak of the coronavirus aboard. \r\nPENTAGON TO EXTEND AVAILABILITY OF 4 \u2026 [+4567 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "US defense chief slams China as rising threat to world order",
+            "description": "U.S. Defense Secretary Mark Esper on Saturday cast China as a rising threat to world order -- saying the world's most populous nation steals Western know-how, intimidates smaller neighbors and seeks an \u201cadvantage by any means and at any cost.\u201d",
+            "url": "https://www.foxnews.com/us/us-defense-chief-slams-china-as-rising-threat-to-world-order",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20046332751235.jpg",
+            "publishedAt": "2020-02-16T02:49:21Z",
+            "content": "U.S. Defense SecretaryMark Esper on Saturday cast China as a rising threat to world order --\u00a0saying the world's most populous nation steals Western know-how, intimidates smaller neighbors and seeks an \u201cadvantage by any means and at any cost.\u201d\r\nA frequent crit\u2026 [+3799 chars]"
+        }
+    ]
+}

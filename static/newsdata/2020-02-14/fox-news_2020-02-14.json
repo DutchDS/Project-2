@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Beijing streets empty as coronavirus outbreak spreads",
+            "description": "China's coronavirus infection rate nears 64,000 as the death toll approaches 1,400; Benjamin Hall reports.",
+            "url": "http://video.foxnews.com/v/6132730474001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e84cbab5-3995-4f93-9bb5-fc6e884043f0/5d8b91d2-c5f9-4692-ad48-ef6db3fd9f90/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-14T23:36:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "John Brandon",
+            "title": "Coronavirus-battling robots deployed to help fight deadly outbreak in China",
+            "description": "Could robots be a vital weapon in the battle against the deadly coronavirus?",
+            "url": "https://www.foxnews.com/tech/coronavirus-battling-robots-deployed-help-fight-deadly-outbreak-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/RobotChinaGetty20.jpg",
+            "publishedAt": "2020-02-14T21:05:25Z",
+            "content": "Could robots be a vital weapon in the battle against the novel\u00a0coronavirus?\r\nThe outbreak that originated\u00a0in Wuhan, China, has infected more than 60,000 people worldwide and the death toll stands at more than 1,300 as of Friday. This has taxed human health ca\u2026 [+3612 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "California officials warn against coronavirus-related hate crimes",
+            "description": "Los Angeles leaders warned of bigotry against the Asian community on Thursday.",
+            "url": "https://www.foxnews.com/health/california-officials-warn-against-coronavirus-related-hate-crimes",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/beb7f4bf-AP20044110764329.jpg",
+            "publishedAt": "2020-02-14T20:49:03Z",
+            "content": "Los Angeles leaders warned of bigotry against the Asian community on Thursday after several incidents of bullying and orchestrated hoaxes over the novel coronavirus were reported in the area.\r\nMore than 64,000 people have been sickened by the COVID-19 virus a\u2026 [+1610 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Is the novel coronavirus here to stay?",
+            "description": "Could the novel coronavirus one day be as commonplace as the seasonal flu?",
+            "url": "https://www.foxnews.com/health/is-coronavirus-here-to-stay",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c11a1cf-b045-4752-a5c6-3d6147e1871a/ff44b9c3-8559-498b-9a57-cfa7b5ef1580/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-14T20:04:50Z",
+            "content": "Could the novel coronavirus one day be as commonplace as the seasonal flu?\r\nDespite rigorous containment efforts, medical experts working to understand the virus, now known as COVID-19, have acknowledged such a possibility -- including Dr. Robert Redfield, th\u2026 [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "China's coronavirus survivors may face mental hurdles once outbreak ends",
+            "description": "Firsthand accounts of relatives dying alone and others unable to seek medical attention have begun to emerge from the outbreak's epicenter.",
+            "url": "https://www.foxnews.com/health/chinas-coronavirus-survivors-may-face-mental-hurdles-once-outbreak-ends",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1bed156-732f-4ee0-a65c-98b912afafd3/def67e95-b94c-4c57-959a-3a7b2df9f257/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-14T18:34:44Z",
+            "content": "The city of Wuhan, China, has been locked down since the end of January due to the ongoing coronavirus outbreak, and for the estimated 11 million people living there, that means no transportation to the outside world and weeks spent in isolation.\r\nFirsthand a\u2026 [+3685 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Coronavirus outbreak: American man and daughter speak out from hospital quarantine",
+            "description": "Three-year-old Annabel Wucinski was readmitted to the hospital and is undergoing coronavirus testing for the second time since she and her father Frank Wucinski evacuated from the disease's epicenter of Wuhan, China.",
+            "url": "https://www.foxnews.com/media/coronavirus-outbreak-quarantined-wuhan-evacuee-speaks-out",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/WUHAN-FAMILY.jpg",
+            "publishedAt": "2020-02-14T18:13:27Z",
+            "content": "Three-year-old Annabel\u00a0Wucinski\u00a0was readmitted to the hospital and is undergoing coronavirus testing\u00a0for the second time since she and her father Frank Wucinski evacuated from the disease's epicenter of\u00a0Wuhan, China.\r\nWucinski's father-in-law passed away rece\u2026 [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Cats are wearing coronavirus masks in China",
+            "description": "Pet owners in China are putting on makeshift masks on their furry friends as the deadly coronavirus outbreak continues to ravage the country.",
+            "url": "https://www.foxnews.com/health/cats-wearing-coronavirus-masks-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Animals-Face-Mask-ASIAWIRE-4.jpg",
+            "publishedAt": "2020-02-14T16:58:16Z",
+            "content": "As the deadly coronavirus outbreak continues to ravage the country, pet owners in China are putting on makeshift masks on their furry friends.\r\nPhotos on the Chinese social media app Weibo show pets \u2013\u00a0namely cats \u2013\u00a0wearing the makeshift masks, many of them ma\u2026 [+1848 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "No 'Plan B' for Olympics; questions over Chinese presence",
+            "description": "Tokyo Olympic organizers and the International Olympic Committee said Friday there is no \u201cPlan B\u201d for the 2020 Games, which open in just over five months and have been jolted by the outbreak of a virus in neighboring China.",
+            "url": "https://www.foxnews.com/sports/no-plan-b-for-olympics-questions-over-chinese-presence",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Coronavirus-montage-thumb.jpg",
+            "publishedAt": "2020-02-14T16:18:28Z",
+            "content": "Tokyo Olympic organizers and the International Olympic Committee said Friday there is no \u201cPlan B\u201d for the 2020 Games, which open in just over five months and have been jolted by the outbreak of a virus in neighboring China.\r\nThe coronavirus has infected almos\u2026 [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "'Fox & Friends' wedding: Army veteran and fiance get hitched on Valentine's Day",
+            "description": "Army veteran Venessa Soto and her fianc\u00e9 Jason Brown tied the knot on Friday in an unusual location: on the set of \"Fox & Friends.\"",
+            "url": "https://www.foxnews.com/media/fox-friends-wedding-live-army-veteran-valentines-day",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/WEDDING.jpg",
+            "publishedAt": "2020-02-14T16:02:08Z",
+            "content": "Militaryveteran Venessa Soto and her fianc\u00e9 Jason Brown tied the knot on Friday in an unusual location: on the set of \"Fox &amp; Friends.\"\r\nThe pair said \"I do\" in front of a special Valentine's Day live studio audience.\r\nSoto and Brown met the \"millennial wa\u2026 [+2147 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Royal Caribbean cancels 18 cruises in Asia amid coronavirus outbreak",
+            "description": "Bon voyage, Royal Caribbean.",
+            "url": "https://www.foxnews.com/travel/royal-caribbean-cancels-18-cruises-due-to-coronavirus-concerns",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/royal-caribbean-Anthem-of-the-Seas.jpg",
+            "publishedAt": "2020-02-14T15:30:59Z",
+            "content": "Bon voyage, Royal Caribbean.\r\nRoyal Caribbean International has canceled 18 cruises in Asia amid the ongoing\u00a0coronavirus outbreak.\r\nOn Thursday,\u00a0Reuters reports,\u00a0the Miami-based cruise line announced that 18 upcoming cruises in Southeast Asia have been cancel\u2026 [+1799 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "New York fugitive monitored for coronavirus at detention facility following China travels",
+            "description": "A fugitive from Brooklyn, New York, who recently returned from China is under observation for the novel coronavirus at a detention facility in Buffalo, local authorities said.",
+            "url": "https://www.foxnews.com/health/new-york-fugitive-coronavirus-china-travels",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/kevin.jpg",
+            "publishedAt": "2020-02-14T15:09:15Z",
+            "content": "A fugitive from Brooklyn, New York, who recently returned from China is under observation for the novel coronavirus at a detention facility in Buffalo, local authorities said.\r\nThe Erie County Sheriff\u2019s Office in Buffalo said in a statement that 42-year-old K\u2026 [+1871 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Bernie panic spreads within Democratic Party; White House responds to Barr's comments on Trump's tweets",
+            "description": "",
+            "url": "https://www.foxnews.com/us/bernie-panic-spreads-within-democratic-party-white-house-responds-barr-trumps-tweets",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BernieSandersPanic021420.jpg",
+            "publishedAt": "2020-02-14T09:53:18Z",
+            "content": "Good morning and welcome to Fox News First. Happy Valentine's Day!Here's what you need to know as you start your day ...\r\nDemocratic Party establishment panicking over possible Sanders nominationWith populist Sen. Bernie Sanders of Vermont now considered the \u2026 [+4467 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Coronavirus cases exceed 64K globally, death toll nears 1,400 in China",
+            "description": "The number of coronavirus cases continued to surge in China on Friday with over 5,000 people diagnosed a day after 242 deaths and 14,840 cases were reported.",
+            "url": "https://www.foxnews.com/health/coronavirus-cases-exceed-63k-death-toll-nears-1400",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20045144699339.jpg",
+            "publishedAt": "2020-02-14T08:18:02Z",
+            "content": "The number of\u00a0coronavirus\u00a0cases diagnosed\u00a0in China continued to surge Friday after the country reported 5,000 more people diagnosed with the virus while the government reportedly\u00a0enforced \"wartime\" measures in additional cities in Hubei province.\r\nThe Nationa\u2026 [+11117 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Natalie O'Neill",
+            "title": "Coronavirus testing can be gross and uncomfortable",
+            "description": "It\u2019s enough to make you gag. Getting tested for the coronavirus is far more difficult and uncomfortable than swabbing for the common flu, doctors and medical experts say.",
+            "url": "https://www.foxnews.com/health/coronavirus-testing-can-be-gross-and-uncomfortable",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b3fe35c-2169-463d-876c-f7631e46cdbb/a9a6bc87-c1a8-4705-a398-641ed226134a/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-14T07:22:31Z",
+            "content": "It\u2019s enough to make you gag.\r\nGetting tested for\u00a0the coronavirus\u00a0is far more difficult and uncomfortable than swabbing for the common flu, doctors and medical experts told The Post.\r\n\u201cYou\u2019re sticking a swab all the way to the back of the nose or throat and it\u2026 [+1853 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Dr. Marc Siegel: 'I'm becoming more concerned' about coronavirus outbreak",
+            "description": "Fox News medical correspondent Dr. Marc Siegel joined \"Tucker Carlson Tonight\" Thursday to give an update on the coronavirus outbreak after Japan reported its first death from the virus earlier in the day.",
+            "url": "https://www.foxnews.com/media/dr-marc-siegel-world-leaders-coronavirus-pandemic",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/06/Tucker-Dr-Siegel-FOX.jpg",
+            "publishedAt": "2020-02-14T03:08:10Z",
+            "content": "Fox News medical correspondent\u00a0Dr. Marc Siegel\u00a0joined\u00a0\"Tucker Carlson Tonight\"\u00a0Thursday to give an update on the\u00a0coronavirus\u00a0outbreak after Japan reported its first death from\u00a0the virus earlier in the day.\r\n\"I'm becoming more\u00a0concerned,\" Siegel said.\r\n\"The in\u2026 [+1906 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Cambodia takes in cruise ship passengers rejected from other countries over coronavirus fears",
+            "description": "Hundreds of cruise ship passengers cheered as they disembarked the ship in Cambodia on Friday following days of being stranded at sea as several nations refused them entry amid fears of the coronavirus.",
+            "url": "https://www.foxnews.com/health/cambodia-cruise-ship-coronavirus-fears",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20044417442828.jpg",
+            "publishedAt": "2020-02-14T02:01:04Z",
+            "content": "Hundreds of cruise ship passengers cheered as they disembarked the ship in Cambodia\u00a0on Friday following days of being stranded at sea as several nations refused them entry amid fears of the coronavirus.\r\nAround 500 passengers aboard the MS Westerdam\u00a0disembark\u2026 [+2308 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "The 5 deadliest disease epidemics in the United States",
+            "description": "The deadly coronavirus has infected more than 60,000 people worldwide and killed at least 1,370 since it first emerged in the Chinese city of Wuhan. Here are the five deadliest epidemics in U.S. history.",
+            "url": "https://www.foxnews.com/health/the-5-deadliest-disease-epidemics-in-the-united-states",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/historical-gallery-thumbnail.jpg",
+            "publishedAt": "2020-02-14T00:57:41Z",
+            "content": "The deadly coronavirus has infected more than 60,000 people worldwide and killed at least 1,370 since it first emerged in the Chinese city of Wuhan late last year. \r\nThough cases have been reported all over the world, 99 percent have been within mainland Chin\u2026 [+2964 chars]"
+        }
+    ]
+}

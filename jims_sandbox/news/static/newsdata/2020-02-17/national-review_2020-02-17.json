@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Apple Says Coronavirus Will Stunt Its Quarterly Earnings",
+            "description": "The tech giant said the virus, which as of Monday had affected over 71,000 people in China, was impacting the production of the flagship iPhone.",
+            "url": "https://www.nationalreview.com/news/apple-coronavirus-will-stunt-quarterly-earnings/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/apple-store-china-coronavirus.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-17T22:33:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "14 Americans on Evacuation Plane Test Positive for Coronavirus",
+            "description": "One landed at Travis Air Force Base near Sacramento, Calif., while the other landed at Lackland Air Force Base in Texas.",
+            "url": "https://www.nationalreview.com/news/14-americans-on-evacuation-plane-test-positive-for-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-021220-6.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-17T13:27:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Madeleine Kearns, Madeleine Kearns",
+            "title": "Will the Chinese Communist Party Survive the Coronavirus Fallout?",
+            "description": "Public-health crises are a test of government.",
+            "url": "https://www.nationalreview.com/2020/02/coronavirus-outbreak-chinese-communist-party-fallout/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/paramilitary-tiananmen-gate.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-17T11:30:58Z",
+            "content": null
+        }
+    ]
+}

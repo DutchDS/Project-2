@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erik Sherman",
+            "title": "94% of the Fortune 1000 are seeing coronavirus supply chain disruptions: Report",
+            "description": "Almost 94% of the Fortune 1000 have major suppliers in the most heavily affected region of China.",
+            "url": "https://fortune.com/2020/02/21/fortune-1000-coronavirus-china-supply-chain-impact/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-Supply-chain.jpg?resize=1200,600",
+            "publishedAt": "2020-02-21T17:39:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "As coronavirus cases overwhelm China\u2019s hospitals, those with other problems are told to leave",
+            "description": "A growing number of patients with urgent medical conditions have become collateral damage as China struggles to gain control of an outbreak that\u2019s now claimed over 2,000 lives.",
+            "url": "https://fortune.com/2020/02/21/coronavirus-cases-china-hospitals-turn-away-patients/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202162490.jpg?resize=1200,600",
+            "publishedAt": "2020-02-21T12:40:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Richard Branson\u2019s Virgin launches cruise line just as coronavirus batters the industry",
+            "description": "Ships will boast interiors by Tom Dixon and Roman and Williams and offer gym programs, yoga, 20 restaurants featuring Michelin-standard food and entertainment including drag acts and sets by star DJs.",
+            "url": "https://fortune.com/2020/02/21/richard-branson-virgin-cruise-ship-line-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1187297311.jpg?resize=1200,600",
+            "publishedAt": "2020-02-21T11:34:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alan Murray",
+            "title": "Don\u2019t underestimate the economic effects of the coronavirus outbreak",
+            "description": "Markets have largely been laid back about Covid-19's spread, but the contagion continues.",
+            "url": "https://fortune.com/2020/02/21/economic-effects-coronavirus-outbreak-ceo-daily/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1207644162.jpg?resize=1200,600",
+            "publishedAt": "2020-02-21T10:11:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "\u2018Looking more probable\u2019\u2014analysts up the odds of a markets correction as coronavirus fears surge",
+            "description": "Investors are underestimating the coronavirus impact on corporate earnings, a closely followed analyst says, and that could lead to a markets correction.",
+            "url": "https://fortune.com/2020/02/21/coronavirus-markets-correction-goldman-sachs/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1204696049.jpg?resize=1200,600",
+            "publishedAt": "2020-02-21T09:54:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "A week of corporate coronavirus warnings starts to quantify the economic toll of China\u2019s outbreak",
+            "description": "In earnings calls and quarterly reports, global companies are beginning to contemplate the fallout of Covid-19.",
+            "url": "https://fortune.com/2020/02/21/coronavirus-earnings-report-warnings/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198081709.jpg?resize=1200,600",
+            "publishedAt": "2020-02-21T09:46:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Coronavirus epidemic enters new phase as cases outside of China spike",
+            "description": "Where China had the vast majority of cases and deaths before, there are now signs that infections are spreading more rapidly within other Asian countries beyond its borders.",
+            "url": "https://fortune.com/2020/02/21/coronavirus-epidemic-new-phase-cases-china-south-korea/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1207679777.jpg?resize=1200,600",
+            "publishedAt": "2020-02-21T09:39:50Z",
+            "content": null
+        }
+    ]
+}

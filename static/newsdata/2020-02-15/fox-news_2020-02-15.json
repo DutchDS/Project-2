@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lucas Tomlinson, Nick Givas",
+            "title": "Pentagon to extend availability of 4 military bases to help with coronavirus efforts: official",
+            "description": "The Pentagon on Saturday extended the availability of four military installations to act as temporary housing through March 15 in an effort to help the Department of Health and Human Services (HHS) manage the novel coronavirus, now known as COVID-19.",
+            "url": "https://www.foxnews.com/us/pentagon-extend-availability-4-military-bases-help-coronavirus-efforts",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/AP19345820043222.jpg",
+            "publishedAt": "2020-02-15T22:44:28Z",
+            "content": "The Pentagon\u00a0on Saturday said it will extend the availability of four\u00a0military installations to act as temporary housing through March 15\u00a0in an effort to help the Department of Health and Human Services (HHS)\u00a0manage the novel coronavirus, now known as COVID-1\u2026 [+1953 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "China ousts top Communist Party officials amid outrage over coronavirus response",
+            "description": "China has been hobbled by the mysterious coronavirus that emerged in the central city of Wuhan; the ruling Chinese Communist Party is taking aggressive measures to regain control of the situation.",
+            "url": "http://video.foxnews.com/v/6132874040001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d03ed304-9a90-467d-a148-bf87cfc0c9c6/90e21fc4-36d8-405b-96bf-1e9d7852cd58/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-15T21:31:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "Quarantined cruise ship passenger speaks out against US coronavirus evacuation plan",
+            "description": "Matthew Smith tells Fox News' Neil Cavuto that he and wife prefer to stay on Diamond Princess ship.",
+            "url": "https://www.foxnews.com/health/quarantined-diamond-princess-passenger-speaks-out-against-us-coronavirus-evacuation-plan",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae60cfe5-053c-4e0b-853c-3a365f842e03/61a20ace-e738-4142-a826-2ce9433088b7/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-15T18:18:55Z",
+            "content": "A passenger aboard the Diamond Princess cruise ship, which is currently quarantined off the coast of Japan amid a coronavirus outbreak, is speaking out against the United States\u2019 plan to evacuate American passengers.\r\nMatthew Smith, who has been quarantined w\u2026 [+3032 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Norman",
+            "title": "France reports Europe\u2019s first coronavirus death",
+            "description": "An 80-year-old man in France has become the first person in Europe to die from the coronavirus.",
+            "url": "https://www.foxnews.com/health/europe-first-coronavirus-death",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf133e9c-ce21-4e60-ae9a-d00907f40cf3/560244ea-95ec-4d68-9297-c89db6c6a63d/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-15T12:28:18Z",
+            "content": "An 80-year-old man in France has become the first person in Europe to die from the coronavirus.\r\nThe man \u2013 a Chinese tourist from the province of Hubei \u2013 arrived in France on Jan. 16, then was hospitalized on Jan. 25 under strict isolation measures. His condi\u2026 [+1682 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "US coronavirus plan would evacuate some Americans from quarantined cruise ship in Japan: report",
+            "description": "Hundreds of Americans quarantined on a cruise ship docked off the coast of Yokohama, Japan, for more than a week due to a coronavirus \u2013 now called COVID-19 -- outbreak onboard will have the chance to evacuate, the Centers for Disease Control and Prevention sa\u2026",
+            "url": "https://www.foxnews.com/health/us-coronavirus-plan-would-evacuate-some-americans-from-quarantined-cruise-ship-in-japan-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20046066725993.jpg",
+            "publishedAt": "2020-02-15T05:58:15Z",
+            "content": "Hundreds of Americans quarantined on a cruise ship docked off the coast of Yokohama, Japan, for more than a week due to a coronavirus\u00a0\u2013 now called COVID-19 -- outbreak onboard will have the chance to evacuate, the Centers for Disease Control and Prevention sa\u2026 [+3052 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "China reports drop in new coronavirus cases, death toll tops 1,500 in country",
+            "description": "China reported a major drop in new coronavirus cases Saturday to 2,641, a decline after Chinese officials began implementing measures to contain the illness, and a slight increase in new deaths to 143.",
+            "url": "https://www.foxnews.com/health/china-reports-drop-in-new-coronavirus-cases-death-toll-tops-1500-in-country",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20045452166242.jpg",
+            "publishedAt": "2020-02-15T02:13:49Z",
+            "content": "China reported a major drop in new\u00a0coronavirus cases Saturday to 2,641, a decline after Chinese officials began implementing measures to contain the illness, and a slight increase in new deaths to 143.\r\nThe new figures bring the total number of deaths from th\u2026 [+1385 chars]"
+        }
+    ]
+}

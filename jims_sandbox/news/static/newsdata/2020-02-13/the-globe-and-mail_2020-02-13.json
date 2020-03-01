@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Dominique Patton, David Stanway",
+            "title": "China\u2019s Hubei province reports record surge in coronavirus deaths, more than 14,000 new cases - The Globe and Mail",
+            "description": "China\u2019s Hubei province reports record surge in coronavirus deaths, more than 14,000 new cases The Globe and Mail",
+            "url": "https://www.theglobeandmail.com/world/article-chinas-hubei-province-reports-record-surge-in-coronavirus-deaths/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/o1CZs-kqalQSxhJ_OclbW4PJ27E=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/ZAEEYFWT4BFD5LG747VOXHEYOI.jpg",
+            "publishedAt": "2020-02-13T01:27:21Z",
+            "content": "A resident wears a protective mask as he passes by empty shelves in the supermarket on February 12, 2020 in Wuhan, Hubei province, China.\r\nwanghe/Getty Images\r\nThe death toll in Chinas Hubei province from a coronavirus outbreak leapt by a record 242 on Thursd\u2026 [+3150 chars]"
+        }
+    ]
+}

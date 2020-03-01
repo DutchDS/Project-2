@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "Canada preparing second plane to evacuate citizens in China over coronavirus fears - The Globe and Mail",
+            "description": "Canada preparing second plane to evacuate citizens in China over coronavirus fears The Globe and Mail Canadians could begin to leave Wuhan on Thursday CBC.ca Ontario military base prepares to house hundreds of coronavirus evacuees for two weeks CTV News Opini\u2026",
+            "url": "https://www.theglobeandmail.com/politics/article-canada-preparing-second-plane-to-evacuate-citizens-in-china-over/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/gsuMAVxeLmiEFMeYi50xQIrvxFU=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/XVSOFX7QZBC2RKUBFFBOQCTXTM.JPG",
+            "publishedAt": "2020-02-04T15:42:00Z",
+            "content": "Prime Minister Justin Trudeau speaks during question period in the House of Commons, in Ottawa, on Feb. 3, 2020. \r\nBLAIR GABLE/Reuters\r\nOttawa is waiting for Beijings approval to send a second plane to evacuate Canadians stranded in Chinas Hubei province, the\u2026 [+2648 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "Coronavirus: What the workplace needs to know - The Globe and Mail",
+            "description": "Coronavirus: What the workplace needs to know The Globe and Mail Coronavirus emergency: here's what we know so far UN News Research supports Canada\u2019s decision to reject a coronavirus travel ban The Globe and Mail Fighting the new coronavirus East Asia Forum H\u2026",
+            "url": "https://www.theglobeandmail.com/business/careers/leadership/article-coronavirus-what-the-workplace-needs-to-know/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/jaZ7FegQgMLZpq5vZK0C9MoSE8w=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/LTQYO3MJLZFQTBKUIP66Z5BSVU.JPG",
+            "publishedAt": "2020-02-04T10:00:00Z",
+            "content": "What are the rights and obligations of Canadian employers and employees if a coronavirus outbreak occurs here?\r\nCan an employee refuse to attend work or work in proximity with an employee exhibiting symptoms of the illness? Does an employer have to pay an emp\u2026 [+6125 chars]"
+        }
+    ]
+}

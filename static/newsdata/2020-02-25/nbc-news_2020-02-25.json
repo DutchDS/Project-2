@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus continues to spread across Asia and Europe",
+            "description": "South Korea has the highest known amount of contamination outside China with around 1,000 cases. In Europe, Italy is the hardest hit with at least 10 deaths.",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-continues-to-spread-across-asia-and-europe-79432261582",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_ren_coronavirus_global_200225_1582675659420.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T23:44:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "CDC warns Americans of coronavirus outbreak",
+            "description": "The coronavirus is spreading so quickly around the globe, it may only be a matter of time before it begins rolling across the U.S. with the potential to become a pandemic, according to the CDC.",
+            "url": "https://www.nbcnews.com/nightly-news/video/cdc-warns-americans-of-coronavirus-outbreak-79431237911",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_tco_coronavirus_us_200225_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T23:42:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Suzanne Ciechalski and Mohammed Syed and Sasha Urban",
+            "title": "U.S. students on study abroad in China left scrambling by coronavirus",
+            "description": "\u201cWe know the one thing you can't buy back is actual time,\u201d said Michael Cheun, whose daughter had to take a semester off once her program was canceled.",
+            "url": "https://www.nbcnews.com/news/us-news/i-got-no-help-u-s-students-study-abroad-china-n1140766",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_08/3240376/200222-samson-adame-al-1320_0a2428a4b42e2d9177c184e3ee5f234b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T21:49:00Z",
+            "content": "Some American college students who are in study abroad programs in China say their education is in limbo as that nation grapples with the coronavirus outbreak that has killed more than 2,600 across the globe over the past three months.\r\nThe students say their\u2026 [+6483 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "CDC warns Americans: Prepare for coronavirus",
+            "description": "CDC officials say Americans should expect disruptions including school closings, working from home and delayed elective medical procedures after warning that coronavirus spread to the U.S. is inevitable.  NBC's Sarah Dallof reports.",
+            "url": "https://www.nbcnews.com/video/cdc-warns-americans-to-prepare-for-coronavirus-79420997828",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/NC_coronavirus0225_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T20:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lucy Bayly",
+            "title": "Dow falls by 900 points for second day straight as coronavirus spreads",
+            "description": "Wall Street plunged for a second straight day on Tuesday, with the Dow Jones Industrial Average dropping by more than 900 points in mid-afternoon trading.",
+            "url": "https://www.nbcnews.com/business/markets/dow-falls-900-points-second-day-straight-coronavirus-spreads-n1142671",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3243771/200225-nyse-al-1458_f718f06b43001e8df5d689b45fe54206.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T20:02:06Z",
+            "content": "Wall Street plunged for a second straight day on Tuesday, with the Dow Jones Industrial Average dropping by more than 900 points in mid-afternoon trading after U.S. health officials warned the spread of coronavirus to America was not a matter of \"if\" but \"whe\u2026 [+2263 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Martha C. White and Lucy Bayly",
+            "title": "U.S. has 'contained' coronavirus, White House economic adviser says",
+            "description": "America has \"contained\" the coronavirus, White House National Economic Council Director Larry Kudlow said on Tuesday, noting that the U.S. economy is \"fundamentally quite healthy.\"",
+            "url": "https://www.nbcnews.com/business/economy/fed-should-not-cut-rates-u-s-has-contained-coronavirus-n1142596",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3209086/200130-coronavirus-new-york-cs-1151a_d338f56d26b874debedd34f4d1c9bab0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T19:23:00Z",
+            "content": "America has \"contained\" the coronavirus, White House National Economic Council Director Larry Kudlow said on Tuesday, noting that the U.S. economy is \"fundamentally quite healthy\" amid the rapid advance of the disease.\r\nWe have contained this. I wont say [its\u2026 [+4881 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Watch: Coronavirus symptom plagues Iranian official on live TV",
+            "description": "During an address carried live on TV, Iran's deputy health minister, Iraj Harirchi, is seen aggressively wiping sweat from his brow in what turned out to be a fever caused by coronavirus COVID-19.",
+            "url": "https://www.nbcnews.com/video/iran-s-deputy-health-minister-suffers-coronavirus-symptoms-on-live-tv-79411781752",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/f_mo_lon_iranbrow_200225__299703.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T18:06:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Americans should prepare for coronavirus spread in U.S., CDC says",
+            "description": "\u201cIt\u2019s not so much a question of if this will happen any more, but rather more a question of exactly when,\" one official said.",
+            "url": "https://www.nbcnews.com/health/health-news/americans-should-prepare-coronavirus-spread-u-s-cdc-says-n1142556",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3243526/200225-lax-international-arrivals-ew-1241p_e31f9ad73a604fb21181c991726242b9.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T17:57:00Z",
+            "content": "Top U.S. public health officials said Tuesday that Americans should prepare for the spread of the coronavirus in communities across the country.\r\nIts not so much a question of if this will happen any more, but rather more a question of exactly when this will \u2026 [+971 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Hotel on Spanish vacation island locked down after guest tests positive for coronavirus",
+            "description": "Rebecca Lunt, who is staying at the hotel, told NBC News via Facebook messenger that guests were not being allowed to leave.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-canary-islands-hotel-locked-down-after-italian-tests-positive-n1142311",
+            "urlToImage": "https://static.euronews.com/articles/4526564/1000x563_nbc-200225-canary-islands-map-mc-1210_24a2cf0e154f32cd299bed52491fc1f9.jpg",
+            "publishedAt": "2020-02-25T16:54:00Z",
+            "content": "A hotel on Spain's Canary Islands was put on lockdown on Tuesday after an Italian guest tested positive for the novel coronavirus, according to the Associated Press and another guest.\r\n\u00c1ngel V\u00edctor Torres tweeted late on Monday that an Italian citizen has tes\u2026 [+2551 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Coronavirus could leave only 3 months to decide fate of Tokyo Olympics",
+            "description": "The modern Olympics dating from 1896 have only been cancelled during wartime, and faced boycotts in 1976 in Montreal, in 1980 in Moscow and 1984 in Los Angeles.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-could-leave-only-3-months-decide-fate-tokyo-olympics-n1142401",
+            "urlToImage": "https://static.euronews.com/articles/4526334/1000x563_nbc-200225-tokyo-olympics-mc-1408_b6cecd228c78e27f587e30a9a4aad90c.jpg",
+            "publishedAt": "2020-02-25T14:51:00Z",
+            "content": "TOKYO \u2014 Dick Pound, the longest-serving member of the IOC, estimates there's a three-month window to decide the fate of the Tokyo Olympics, which are being threatened by the fast-spreading virus from China.\r\nPound, in an exclusive interview with The Associate\u2026 [+5637 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Trump says he wants 'no help from any country' in re-election bid",
+            "description": "The president declined to say specifically whether he believes Russia is interfering in the election and issued no warning for Vladimir Putin not to.",
+            "url": "https://www.nbcnews.com/politics/white-house/trump-says-he-wants-no-help-any-country-reelection-bid-n1142396",
+            "urlToImage": "https://static.euronews.com/articles/4526294/1000x563_nbc-200225-donald-trump-cs-822a_f306341fd2373b6dd481b41d9199039e.jpg",
+            "publishedAt": "2020-02-25T14:23:00Z",
+            "content": "NEW DELHI \u2014 President Donald Trump said Tuesday he does not want help from foreign governments in his 2020 re-election bid, as he accused Democrats of leaking classified information about Russian interferenceto tarnish his campaign.\r\n\"I want no help from any \u2026 [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Six reasons why Bernie Sanders became the Democratic front-runner",
+            "description": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/six-reasons-why-bernie-sanders-became-democratic-front-runner-n1142371",
+            "urlToImage": "https://static.euronews.com/articles/4526238/1000x563_nbc-200223-bernie-sanders-cs-1129a_829f678f94ebb344dc0c8ec61be9464d.jpg",
+            "publishedAt": "2020-02-25T13:47:00Z",
+            "content": "WASHINGTON \u2014 Our new NBC News/Marist poll of South Carolina captures all of the different ingredients that could result in Bernie Sanders wrapping up the Democratic nomination in just a month.\r\nOne, you have the winner of Iowa and close second-place finisher \u2026 [+7665 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Petra Cahill",
+            "title": "Weinstein verdict hailed as 'huge win,' Hosni Mubarak dies, and Sanders pile-on expected at Dems' debate: The Morning Rundown - NBCNews.com",
+            "description": "Harvey Weinstein verdict hailed as \u2018huge win,\u2019 former Egyptian dictator Mubarak dies, and Sanders pile-on expected at Dem debate: Read The Morning Rundown.",
+            "url": "https://www.nbcnews.com/news/morning-briefing/weinstein-verdict-hailed-huge-win-hosni-mubarak-dies-sanders-pile-n1142321",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3242881/200225-harvey-weinstein-mc-845_dd46e78d82c14cc30df010cebd94770c.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-25T12:57:00Z",
+            "content": "Good morning, NBC News readers.\r\nHarvey Weinstein's conviction marks a major shift in the #MeToo movement, coronavirus sends jitters through Wall Street and Washington, plus Democrats will face off in the last debate before Super Tuesday.\r\nHere's what we're w\u2026 [+5848 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Chinese police video shows SWAT team drill for controlling coronavirus suspect",
+            "description": "Police in China\u2019s Henan province posted a video on social media showing a simulation of how they will deal with drivers who ignore virus checkpoints.",
+            "url": "https://www.nbcnews.com/video/chinese-police-video-shows-swat-team-drill-for-controlling-coronavirus-suspect-79388229847",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/swatstill.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T11:08:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Pandemic risk grows if countries don't cooperate, WHO warns",
+            "description": "As the death toll in China reaches 2,663 and the virus continues spreading globally, here is the latest for Tuesday, Feb. 25.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-pandemic-risk-grows-if-countries-don-t-cooperate-n1142301",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_09/3242866/200225-apple-coronavirus-mc-838_0682017e74ece27cb5cb6cd2b97c1c0a.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-25T09:24:32Z",
+            "content": "More than 77,600 confirmed cases in China, death toll reaches 2,663\r\n WHO: Coronavirus not a pandemic yet\r\n White House seeks $2.5 billion for coronavirus\r\nDeath toll in mainland China passes 2,600\r\nChinas health officials said Tuesday the number of deaths fr\u2026 [+1765 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel and The Associated Press",
+            "title": "White House seeks $2.5B for coronavirus, but Pelosi says that's not enough",
+            "description": "The White House is seeking $2.5 billion from Congress to fund its response to the coronavirus outbreak, but House Speaker Nancy Pelosi called it long overdue and inadequate.",
+            "url": "https://www.nbcnews.com/politics/politics-news/white-house-seeks-2-5b-coronavirus-pelosi-says-s-not-n1142276",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_09/3242806/1208442578_b139b48903368b6b918009eb9bd80fb7.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-25T06:10:00Z",
+            "content": "The White House is asking Congress for $2.5 billion to respond to the coronavirus illness known as COVID-19 that has killed more than 2,600 people in mainland China, but House Speaker Nancy Pelosi called the request inadequate.\r\nThe administration's supplemen\u2026 [+3509 chars]"
+        }
+    ]
+}

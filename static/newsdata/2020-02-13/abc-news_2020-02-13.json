@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Bank of Mexico cuts key interest rate quarter-point to 7%",
+            "description": "Mexico\u2019s central bank has lowered its benchmark interest rate by a quarter-point to 7%, seeking to stimulate an economy that entered into recession last year",
+            "url": "https://abcnews.go.com/International/wireStory/bank-mexico-cuts-key-interest-rate-quarter-point-68974385",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-13T22:48:33Z",
+            "content": "MEXICO CITY -- \r\nMexicos central bank lowered its benchmark interest rate by a quarter-point to 7% on Thursday, seeking to stimulate an economy that entered into recession last year. \r\nIn a statement, the Bank of Mexico noted characteristics of deceleration, \u2026 [+1438 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Outbreak and uncertainty; virus challenges global companies",
+            "description": "The economic toll of China's viral outbreak continues to mount for corporations based in and outside of the country as factories are shuttered and the lives of their millions of Chinese customers are altered",
+            "url": "https://abcnews.go.com/Business/wireStory/outbreak-uncertainty-virus-challenges-global-companies-68968100",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_172e0d7ab5b049b2824e2553326a855d_16x9_992.jpg",
+            "publishedAt": "2020-02-13T18:59:12Z",
+            "content": "NEW YORK -- \r\nThe economic toll of China's viral outbreak continues to mount for corporations based in and outside of the country as factories are shuttered and consumer behavior is altered measurably. \r\nOn Thursday Alibaba, the first major Chinese company to\u2026 [+3595 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FOSTER KLUG Associated Press",
+            "title": "Fear, boredom, adventure fill each day on quarantined ship",
+            "description": "Daily life on the cruise ship quarantined off a Japanese port can include fear, excitement and soul-crushing boredom",
+            "url": "https://abcnews.go.com/Business/wireStory/fear-boredom-adventure-fill-day-quarantined-ship-68965843",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_b835a1bdf3b94a05a0826d9f754736d4_16x9_992.jpg",
+            "publishedAt": "2020-02-13T17:41:50Z",
+            "content": "YOKOHAMA, Japan -- \r\nFear. Surprising moments of levity. Soul-crushing boredom. \r\nLife on the Diamond Princess, the cruise ship quarantined in a Japanese port with scores of cases of a new virus, means experiencing all these things, according to interviews by\u2026 [+8269 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE AP Medical Writer",
+            "title": "US announces 15th virus case, this one in Texas evacuee",
+            "description": "Another case of the new coronavirus infection has been confirmed in a U.S. evacuee from China, this one is in Texas",
+            "url": "https://abcnews.go.com/Health/wireStory/us-announces-15th-virus-case-texas-evacuee-68962009",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_4834eca635484ee0a002ce257782c39f_16x9_992.jpg",
+            "publishedAt": "2020-02-13T15:10:30Z",
+            "content": "NEW YORK -- \r\nAnother case of the new coronavirus has been confirmed in a U.S. evacuee from China, this one in a person under quarantine in Texas.\r\nHealth officials announced the 15th confirmed U.S. case case Thursday. The infection was confirmed through a We\u2026 [+834 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Ralph Lauren: 4Q sales hit of up to $70M from coronavirus",
+            "description": "Ralph Lauren is warning that China's viral outbreak will cut into fourth-quarter sales by an estimated $55 million to $70 million",
+            "url": "https://abcnews.go.com/US/wireStory/ralph-lauren-4q-sales-hit-70m-coronavirus-68961507",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-13T14:34:00Z",
+            "content": "NEW YORK -- \r\nRalph Lauren is warning that the viral outbreak that originated in China will cut into fourth-quarter sales by an estimated $55 million to $70 million. \r\nTwo-thirds of Ralph Lauren stores in China have been closed over the past week, the luxury \u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Global shares fall as virus cases spike in China",
+            "description": "Global shares mostly have fallen after China reported a spike in virus cases",
+            "url": "https://abcnews.go.com/Health/wireStory/global-shares-fall-virus-cases-spike-china-68960539",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3e48f3a1b99b43fb8282b0f92fe852ca_16x9_992.jpg",
+            "publishedAt": "2020-02-13T13:49:14Z",
+            "content": "LONDON -- \r\nGlobal shares mostly fell Thursday after China reported a spike in COVID-19 cases. The shock resignation of Britain's Treasury chief further knocked U.K. share prices.\r\nChina reported 254 new deaths and an increase in virus cases of 15,152, after \u2026 [+2213 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 53,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 53,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-53000-people-globally-68959105",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_5247b639362e457ca5e8fb2c4c62ef8f_16x9_992.jpg",
+            "publishedAt": "2020-02-13T12:50:17Z",
+            "content": "A viral outbreak that began in China has infected more than 53,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+656 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associated Press",
+            "title": "Spanish tech show assesses cost of cancellation over virus",
+            "description": "Organizers of the world\u2019s biggest mobile technology fair say the cost of cancelling the annual Mobile World Congress (MWC) are not known yet",
+            "url": "https://abcnews.go.com/Business/wireStory/spanish-tech-show-assesses-cost-cancellation-virus-68958153",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_8e0ee15d78ea4095aa69ecef81542106_16x9_992.jpg",
+            "publishedAt": "2020-02-13T11:59:03Z",
+            "content": "BARCELONA, Spain -- \r\nOrganizers of the worlds biggest mobile technology fair say the cost of cancelling the annual Mobile World Congress (MWC) is not yet known and that the motivation behind the decision was purely related to health and safety concerns over \u2026 [+1203 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associated Press",
+            "title": "Spanish tech show assesses cost of cancellation over virus",
+            "description": "Organizers of the world\u2019s biggest mobile technology fair say the cost of cancelling the annual Mobile World Congress (MWC) are not known yet",
+            "url": "https://abcnews.go.com/Health/wireStory/spanish-tech-show-assesses-cost-cancellation-virus-68958152",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_8e0ee15d78ea4095aa69ecef81542106_16x9_992.jpg",
+            "publishedAt": "2020-02-13T11:58:48Z",
+            "content": "BARCELONA, Spain -- \r\nOrganizers of the worlds biggest mobile technology fair say the cost of cancelling the annual Mobile World Congress (MWC) is not yet known and that the motivation behind the decision was purely related to health and safety concerns over \u2026 [+1203 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "New coronavirus cases spike by nearly 15,000 in China's Hubei province",
+            "description": "The Chinese province at the heart of the novel coronavirus outbreak reported a nearly tenfold increase in cases and deaths on Thursday morning.",
+            "url": "https://abcnews.go.com/International/coronavirus-cases-spike-15000-chinas-hubei-province-officials/story?id=68956172",
+            "urlToImage": "https://s.abcnews.com/images/International/china-wuhan-medical-workers-ct-scan-reuters-200213_hpMain_20200213-053547_16x9_992.jpg",
+            "publishedAt": "2020-02-13T10:47:27Z",
+            "content": "LONDON -- \r\nThe Chinese province at the heart of the novel coronavirus outbreak reported a nearly tenfold increase in cases and deaths on Thursday morning, after applying new methodology as to how cases are categorized.\r\nThe Health Commission of Hubei Provinc\u2026 [+1836 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SAMUEL PETREQUIN Associated Press",
+            "title": "EU ministers hold emergency talks on COVID-19 virus",
+            "description": "European Union health ministers are holding an emergency meeting in Brussels on how to prevent the COVID-19 virus from further spreading across Europe",
+            "url": "https://abcnews.go.com/Business/wireStory/eu-ministers-hold-emergency-talks-covid-19-virus-68956410",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_738bc75e4cb642fea71218318f5df4d7_16x9_992.jpg",
+            "publishedAt": "2020-02-13T09:32:02Z",
+            "content": "BRUSSELS -- \r\nEuropean Union health ministers were holding an emergency meeting Thursday on how to prevent the COVID-19 virus from further spreading across Europe.\r\nMinisters from the blocs 27 member states gather in Brussels amid the outbreak, which has infe\u2026 [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SAMUEL PETREQUIN Associated Press",
+            "title": "EU ministers hold emergency talks on COVID-19 virus",
+            "description": "European Union health ministers are holding an emergency meeting in Brussels on how to prevent the COVID-19 virus from further spreading across Europe",
+            "url": "https://abcnews.go.com/Health/wireStory/eu-ministers-hold-emergency-talks-covid-19-virus-68956375",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_738bc75e4cb642fea71218318f5df4d7_16x9_992.jpg",
+            "publishedAt": "2020-02-13T09:31:47Z",
+            "content": "BRUSSELS -- \r\nEuropean Union health ministers were holding an emergency meeting Thursday on how to prevent the COVID-19 virus from further spreading across Europe.\r\nMinisters from the blocs 27 member states gather in Brussels amid the outbreak, which has infe\u2026 [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PENNY YI WANG Associated Press",
+            "title": "Asian shares mostly lower as new China virus cases spike",
+            "description": "Asian shares are mostly lower as reported cases of the new virus jumped in Chins",
+            "url": "https://abcnews.go.com/Business/wireStory/asian-shares-lower-china-virus-cases-spike-68956409",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_b3c7f2a047ce4483a0080b777fd0fc29_16x9_992.jpg",
+            "publishedAt": "2020-02-13T09:31:32Z",
+            "content": "Bangkok -- \r\nAsian shares were mostly lower Thursday as reported cases of the new virus jumped in China. \r\nThe Shanghai Composite declined 0.7% to 2,906.07 in afternoon trading. Hong Kong's Hang Seng slipped 0.3% to 27,730.00. Japan's Nikkei 225 closed 0.1% l\u2026 [+1564 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FOSTER KLUG Associated Press",
+            "title": "Fear, boredom, adventure fill each day on quarantined ship",
+            "description": "Daily life on the cruise ship quarantined off a Japanese port can include fear, excitement and soul-crushing boredom",
+            "url": "https://abcnews.go.com/Health/wireStory/fear-boredom-adventure-fill-day-quarantined-ship-68955691",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-13T07:57:22Z",
+            "content": "YOKOHAMA, Japan -- \r\nFear. Surprising moments of levity. Soul-crushing boredom. \r\nLife on the Diamond Princess, the cruise ship quarantined in a Japanese port with scores of cases of a new virus, means experiencing all these things, according to interviews by\u2026 [+7611 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "China picks ex-Shanghai mayor to lead in virus epicenter",
+            "description": "China has appointed the former mayor of Shanghai as its top official party chief in central Hubei, the province hardest-hit by a viral outbreak that has infected more than 45,000 people",
+            "url": "https://abcnews.go.com/Health/wireStory/china-picks-shanghai-mayor-lead-virus-epicenter-68953999",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_5247b639362e457ca5e8fb2c4c62ef8f_16x9_992.jpg",
+            "publishedAt": "2020-02-13T04:34:37Z",
+            "content": "BEIJING -- \r\nChina on Thursday appointed the former Shanghai mayor as its top official party chief in central Hubei, the province hardest-hit by a viral outbreak that has infected more than 45,000 people worldwide.\r\nYing Yong replaces Jiang Chaoliang as the r\u2026 [+1799 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "2nd case of new coronavirus confirmed among China evacuees",
+            "description": "A second case of novel coronavirus has been confirmed in the U.S. among evacuees from China",
+            "url": "https://abcnews.go.com/Health/wireStory/2nd-case-coronavirus-confirmed-china-evacuees-68949632",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-13T00:58:32Z",
+            "content": "SAN DIEGO -- \r\nA second case of novel coronavirus has been confirmed in the U.S. among evacuees from China, the U.S. Centers for Disease Control and Prevention announced Wednesday.\r\nThe person was aboard a flight from the city of Wuhan that arrived at Marine \u2026 [+440 chars]"
+        }
+    ]
+}

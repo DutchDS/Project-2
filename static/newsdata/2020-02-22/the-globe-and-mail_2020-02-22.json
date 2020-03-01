@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "How the cruise ship coronavirus quarantine backfired - The Globe and Mail",
+            "description": "How the cruise ship coronavirus quarantine backfired The Globe and Mail Canadian cruise ship passengers arrive in Cornwall, Ont., to begin quarantine CBC.ca Coronavirus: Evacuation flight for Britons on Diamond Princess due to land BBC News Coronavirus: anoth\u2026",
+            "url": "https://www.theglobeandmail.com/canada/article-how-the-cruise-ship-coronavirus-quarantine-backfired/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/LtaeuJIgYYtcRuQMNWL0t7yB-fs=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/MX6YPU54IVHFVITNU36UJ3YEQI.JPG",
+            "publishedAt": "2020-02-22T01:10:29Z",
+            "content": "A bus transports British passengers after they left the coronavirus-hit cruise ship Diamond Princess at the Daikoku Pier Cruise Terminal in Yokohama, south of Tokyo, Japan on Feb. 22, 2020.\r\nKIM KYUNG-HOON/Reuters\r\nIn the early days of the unprecedented mass \u2026 [+6472 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Julie Steenhuysen",
+            "title": "Wuhan woman with no symptoms infected five relatives with coronavirus: study - The Globe and Mail",
+            "description": "Wuhan woman with no symptoms infected five relatives with coronavirus: study The Globe and Mail International fears grow with virus deaths in Italy, South Korea Al Jazeera English Coronavirus Spreads as New Cases Double in South Korea The New York Times Coron\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-wuhan-woman-with-no-symptoms-infected-five-relatives-with-coronavirus/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/s6e-dPW5H-74gOuCLcGOdZRutQg=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/R2PSVGAHNZBHFEL7AWK7RQKS6E.jpg",
+            "publishedAt": "2020-02-22T00:59:52Z",
+            "content": "A volunteer brings a delivery to a woman in a locked down apartment complex in Wuhan in central China's Hubei Province, Friday, Feb. 21, 2020. \r\nThe Associated Press\r\nA 20-year-old Chinese woman from Wuhan, the epicentre of the coronavirus outbreak, travelled\u2026 [+2265 chars]"
+        }
+    ]
+}

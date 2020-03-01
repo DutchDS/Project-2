@@ -1,0 +1,370 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAUL WISEMAN and CHRISTOPHER RUGABER AP Economics Writers",
+            "title": "Coronavirus poses tough challenge for economic policymakers",
+            "description": "The fast-moving coronavirus isn\u2019t just confounding health officials",
+            "url": "https://abcnews.go.com/Business/wireStory/coronavirus-poses-tough-challenge-economic-policymakers-69212532",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ae5c7c6676de4d3fbb60fc8e7d03f228_16x9_992.jpg",
+            "publishedAt": "2020-02-25T22:04:26Z",
+            "content": "WASHINGTON -- \r\nThe fast-moving coronavirus isnt just confounding health officials. Its also bedeviling policymakers and central bankers who are struggling to assess the economic damage from an outbreak that's reached 37 countries and territories, infected 80\u2026 [+6667 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Intuit, Moderna rise; Mastercard, Shake Shack fall",
+            "description": "Stocks that moved heavily or traded substantially on Tuesday: Intuit, Moderna rise; Mastercard, Shake Shack fall",
+            "url": "https://abcnews.go.com/Business/wireStory/intuit-moderna-rise-mastercard-shake-shack-fall-69210849",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-25T21:21:02Z",
+            "content": "NEW YORK -- \r\nStocks that moved heavily or traded substantially on Tuesday:\r\nHome Depot Inc., down $2.32 to $237.38.\r\nThe home improvement retailer reported surprisingly good financial results and raised its dividend.\r\nMasterCard Inc., down $21.78 to $302.89.\u2026 [+1284 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSH FUNK Associated Press",
+            "title": "Study begins in US to test possible coronavirus treatment",
+            "description": "The first clinical trial in the U.S. of a possible coronavirus treatment is underway in Nebraska and is eventually expected to include 400 patients at 50 locations around the world",
+            "url": "https://abcnews.go.com/Technology/wireStory/study-begins-us-test-coronavirus-treatment-69208901",
+            "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_74d0cbc4deb849dc878c52f9ba9ce48c_16x9_992.jpg",
+            "publishedAt": "2020-02-25T20:35:07Z",
+            "content": "OMAHA, Neb. -- \r\nThe first clinical trial in the U.S. of a possible coronavirus treatment is underway in Nebraska and is eventually expected to include 400 patients at 50 locations around the world, officials said Tuesday.\r\nHalf of the patients in the interna\u2026 [+2200 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CARLA K. JOHNSON AP Medical Writer",
+            "title": "'Time is everything': World braces for spread of new virus",
+            "description": "China bought the world valuable time with its travel restrictions and huge lockdowns",
+            "url": "https://abcnews.go.com/Business/wireStory/time-world-braces-spread-virus-69208729",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_9fef65b304264e3f9c8f032bbda012df_16x9_992.jpg",
+            "publishedAt": "2020-02-25T20:28:18Z",
+            "content": "China's massive travel restrictions, house-to-house checks, huge isolation wards and lockdowns of entire cities bought the world valuable time to prepare for the global spread of the new virus.\r\nBut with troubling outbreaks now emerging in Italy, South Korea \u2026 [+8333 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CARLA K. JOHNSON AP Medical Writer",
+            "title": "'Time is everything': World braces for spread of new virus",
+            "description": "China bought the world valuable time with its travel restrictions and huge lockdowns",
+            "url": "https://abcnews.go.com/Health/wireStory/time-world-braces-spread-virus-69208728",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_9fef65b304264e3f9c8f032bbda012df_16x9_992.jpg",
+            "publishedAt": "2020-02-25T20:28:12Z",
+            "content": "China's massive travel restrictions, house-to-house checks, huge isolation wards and lockdowns of entire cities bought the world valuable time to prepare for the global spread of the new virus.\r\nBut with troubling outbreaks now emerging in Italy, South Korea \u2026 [+8333 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Conor Finnegan",
+            "title": "Pompeo accuses China and Iran of censoring information about coronavirus outbreaks",
+            "description": "Secretary of State Mike Pompeo on Tuesday accused China and Iran of censoring information about coronavirus outbreaks, risking a worldwide spread.",
+            "url": "https://abcnews.go.com/Politics/pompeo-accuses-china-iran-censoring-information-coronavirus-outbreaks/story?id=69202262",
+            "urlToImage": "https://s.abcnews.com/images/Politics/pompoe-briefing-gty-ps-200225_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-25T20:02:44Z",
+            "content": "As the novel coronavirus continues to spread around the globe, Secretary of State Mike Pompeo on Tuesday accused the governments of China and Iran of censoring information about the outbreaks in their countries and putting the rest of the world at greater ris\u2026 [+5560 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Dow Jones plunges for 2nd straight day on coronavirus fears",
+            "description": "The Dow Jones Industrial Average suffered a second consecutive day of losses Tuesday.",
+            "url": "https://abcnews.go.com/Business/dow-jones-plunges-2nd-straight-day-coronavirus-fears/story?id=69205851",
+            "urlToImage": "https://s.abcnews.com/images/Business/ny-stock-exchange-01-ap-jc-200225_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-25T19:40:26Z",
+            "content": "The Dow Jones Industrial Average plunged for the second straight day, tumbling more than 800 points, as health officials warned the novel coronavirus likely will spread throughout communities in the U.S.\r\nThe Dow, S&amp;P 500 and Nasdaq all had fallen about 3\u2026 [+1112 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FRANK JORDANS Associated Press",
+            "title": "3 European nations report first virus cases with Italy link",
+            "description": "Switzerland, Austria and Croatia have confirmed their first COVID-19 cases in their countries involving people who had recently traveled from virus-hit parts of neighboring Italy",
+            "url": "https://abcnews.go.com/Health/wireStory/european-nations-report-virus-cases-italy-link-69205938",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_e6991e31407748ffbe1dc3753f1ec6bb_16x9_992.jpg",
+            "publishedAt": "2020-02-25T18:36:52Z",
+            "content": "BERLIN -- \r\nSwitzerland, Austria and Croatia confirmed their first cases of COVID-19 disease Tuesday and said all those affected had recently traveled from the Lombardy region in Italy, where the virus emerged as a fast-growing cluster last week.\r\nA 70-year-o\u2026 [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor, Erin Schumaker, Marc Nathanson",
+            "title": "White House requesting $1.25B as part of $2.5B plan to fight coronavirus - go.com",
+            "description": "White House requesting $1.25B as part of $2.5B plan to fight coronavirus go.com CORONAVIRUS TIPS: County Health Department Offers Advice to Local Businesses With Concerns About COVID-19 Lost Coast Outpost Tourism hot-spot Italy is now struggling to contain co\u2026",
+            "url": "https://abcnews.go.com/International/coronavirus-live-updates-cdc-warns-americans-significant-disruption/story?id=69190968",
+            "urlToImage": "https://s.abcnews.com/images/US/coronavirus-us-diamon-princess-gty-rc-200225_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-25T18:32:59Z",
+            "content": "U.S. health officials issued a strong warning about novel coronavirus on Tuesday -- that it's no longer a matter of if, but when it will spread in the U.S., and that Americans should prepare for a \"significant disruption.\"\r\nUntil now, health officials said th\u2026 [+10906 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LORNE COOK",
+            "title": "No panic but European virus response can be a bit confusing",
+            "description": "As the number of virus cases climbs in Italy, authorities across Europe are scrambling to address fears about the disease without fueling panic",
+            "url": "https://abcnews.go.com/International/wireStory/panic-european-virus-response-bit-confusing-69203259",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_5a4bb66e1af743eb881cc493db698d6b_16x9_992.jpg",
+            "publishedAt": "2020-02-25T16:54:42Z",
+            "content": "BRUSSELS -- \r\nAt first glance, the response to the new virus outbreak in Europe appears to be all over the place.\r\nA thousand tourists locked down in a Spanish hotel resort over virus fears. Buses halted in France while passengers are screened. Rail services \u2026 [+5434 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AYA BATRAWY Associated Press",
+            "title": "Iranian clerics keep shrines open, even as virus spreads",
+            "description": "Shiite shrines attract tens of millions of visitors to Iran annually, raising concerns as the country grapples with the spread of the corona virus",
+            "url": "https://abcnews.go.com/International/wireStory/iranian-clerics-shrines-open-virus-spreads-69202949",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_1f958f80e5094c83a746f62ae91fb05a_16x9_992.jpg",
+            "publishedAt": "2020-02-25T16:42:15Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nShiite shrines that attract tens of millions of visitors annually have come under focus in Iran as the country grapples with the spread of the coronavirus.\r\nThe outbreak of the virus in Iran prompted the government to request \u2026 [+5698 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICOLE WINFIELD, CIARAN GILES and GIADA ZAMPANO",
+            "title": "Italy sees 27% more virus cases as Spain quarantines hotel",
+            "description": "Italy is reporting a 27% increase in the number of coronavirus cases, evidence that the epicenter of the outbreak in Europe is spreading with vacationing Italians and those who visited the afflicted north",
+            "url": "https://abcnews.go.com/Health/wireStory/italy-sees-27-virus-cases-spain-quarantines-hotel-69201703",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_bc8559aaadc648d393649d5f59be1c5a_16x9_992.jpg",
+            "publishedAt": "2020-02-25T15:38:30Z",
+            "content": "ROME -- \r\nItaly reported a 27% increase in the number of coronavirus cases Tuesday and an infected doctor forced a hotel to be quarantined in Spain's Canary Islands, evidence that the epicenter of the outbreak in Europe is spreading with travelers to and from\u2026 [+5596 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JONATHAN LEMIRE and ANDREW TAYLOR Associated Press",
+            "title": "Trump says coronavirus 'very well under control' in US",
+            "description": "President Donald Trump is trying to minimize fears about coronavirus spreading rampantly in the United States",
+            "url": "https://abcnews.go.com/Business/wireStory/trump-coronavirus-control-us-69201209",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_b87d15a2184a44c9b6db5325c138f426_16x9_992.jpg",
+            "publishedAt": "2020-02-25T15:26:51Z",
+            "content": "NEW DELHI -- \r\nPresident Donald Trump sought Tuesday to minimize fears about coronavirus spreading rampantly throughout the U.S., saying the situation is \"very well under control in our country.\r\nAt the same time, the Trump administration on Monday asked Cong\u2026 [+3880 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stocks open slightly higher after worst drop in 2 years",
+            "description": "Stocks opened slightly higher on Wall Street as the market claws back some of the ground it lost in a dramatic sell-off a day earlier",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-open-slightly-higher-worst-drop-years-69200460",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_56d6083736f34f0d84ff7a3fab05763d_16x9_992.jpg",
+            "publishedAt": "2020-02-25T14:47:17Z",
+            "content": "NEW YORK -- \r\nStocks opened slightly higher on Wall Street as the market claws back some of the ground it lost in a dramatic sell-off a day earlier. Home Depot and Macy's rose Tuesday after reporting results that beat analysts' forecasts. The gains came a day\u2026 [+4114 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jordyn Phelps, Ben Gittleson",
+            "title": "Trump says coronavirus 'under control' in US, problem going to 'go away'",
+            "description": "President Trump, speaking in India, said Tuesday that while the coronavirus is a \"very serious thing\" but is \"under control\" in the U.S. and will \"go away.\"",
+            "url": "https://abcnews.go.com/Politics/trump-coronavirus-control-us-problem/story?id=69198905",
+            "urlToImage": "https://s.abcnews.com/images/Politics/trump-1-gty-er-200225_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-25T14:35:01Z",
+            "content": "President Trump on Tuesday played down concerns about the coronavirus in the U.S., saying the situation was \"under control\" and was a \"problem that's going to go away.\"\r\n\"We have very few people with it,\" Trump told reporters at a news conference in New Delhi\u2026 [+3919 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Drugmaker readies possible coronavirus vaccine for testing",
+            "description": "The drugmaker Moderna has shipped a potential coronavirus vaccine for humans to government researchers for testing",
+            "url": "https://abcnews.go.com/Business/wireStory/drugmaker-readies-coronavirus-vaccine-testing-69199168",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_3bc07d4bc7464070935259ce26dc39b5_16x9_992.jpg",
+            "publishedAt": "2020-02-25T13:35:48Z",
+            "content": "The drugmaker Moderna has shipped a potential coronavirus vaccine for humans to government researchers for testing. \r\nShares of the biotech company soared early Tuesday, a day after the company said it sent vials to the National Institute of Allergy and Infec\u2026 [+546 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "WATCH: Couple wires $800K to scammer",
+            "description": "The money, intended for a down payment on a home, is now in the hands of a hacker tied to an account in Singapore.",
+            "url": "https://abcnews.go.com/US/video/couple-wires-800k-scammer-69197905",
+            "urlToImage": "https://s.abcnews.com/images/US/200225_kgtv_couplewiresmoney_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-25T12:50:42Z",
+            "content": "<li>Now Playing: Plastic ring jammed into ducks bill in Central Park\r\n</li><li>Now Playing: Harvey Weinstein accuser, Gloria Allred discuss the verdict\r\n</li><li>Now Playing: Couple wires $800K to scammer\r\n</li><li>Now Playing: The women who brought down Harv\u2026 [+1240 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran Health Ministry spokesman says the head of country's counter-coronavirus task force tested positive for the virus",
+            "description": "Iran Health Ministry spokesman says the head of country's counter-coronavirus task force tested positive for the virus",
+            "url": "https://abcnews.go.com/International/wireStory/iran-health-ministry-spokesman-head-countrys-counter-coronavirus-69196794",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-25T12:08:19Z",
+            "content": "TEHRAN, Iran -- \r\nIran Health Ministry spokesman says the head of country's counter-coronavirus task force tested positive for the virus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JONATHAN LEMIRE Associated Press",
+            "title": "Trump defends $2.5B coronavirus request; Dems say it's low",
+            "description": "President Donald Trump says the urgent $2.5 billion funding request he sent lawmakers will help prepare the U.S. in the event of a coronavirus outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/trump-defends-25b-coronavirus-request-dems-low-69196018",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_b87d15a2184a44c9b6db5325c138f426_16x9_992.jpg",
+            "publishedAt": "2020-02-25T11:28:17Z",
+            "content": "NEW DELHI -- \r\nPresident Donald Trump said Tuesday that the urgent $2.5 billion plan for coronavirus he sent to lawmakers will prepare the nation in case of an outbreak in the U.S. and help other nations unprepared to handle the threat.\r\nWe just asked for $2.\u2026 [+2944 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Canary Islands hotel quarantined after virus confirmed",
+            "description": "Spanish officials say a tourist hotel on the Canary Island hotel of Tenerife has been placed in quarantine after an Italian doctor staying there tested positive for the COVID-19 virus",
+            "url": "https://abcnews.go.com/International/wireStory/canary-islands-hotel-quarantined-virus-confirmed-italian-69195351",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_56a19d9f96d44c62b87e50b020ef86a1_16x9_992.jpg",
+            "publishedAt": "2020-02-25T10:19:04Z",
+            "content": "MADRID -- \r\nA tourist hotel on the Canary Island hotel of Tenerife was placed in quarantine Tuesday after an Italian doctor staying there tested positive for the new virus from China that has infected thousands worldwide.\r\nThe press office for the town of Ade\u2026 [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran Health Ministry spokesman: Outbreak of new coronavirus has killed 15 in Islamic Republic amid 95 confirmed cases",
+            "description": "Iran Health Ministry spokesman: Outbreak of new coronavirus has killed 15 in Islamic Republic amid 95 confirmed cases",
+            "url": "https://abcnews.go.com/International/wireStory/iran-health-ministry-spokesman-outbreak-coronavirus-killed-15-69195217",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-25T09:51:15Z",
+            "content": "TEHRAN, Iran -- \r\nIran Health Ministry spokesman: Outbreak of new coronavirus has killed 15 in Islamic Republic amid 95 confirmed cases."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HYUNG-JIN KIM Associated Press",
+            "title": "'Are you still alive?' Virus fears grip South Korean city",
+            "description": "As fears of a soaring viral outbreak grip the southeastern South Korean city of Daegu and nearby areas, many residents are struggling as they try to avoid the new virus",
+            "url": "https://abcnews.go.com/International/wireStory/alive-virus-fears-grip-south-korean-city-69195008",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_81906f7fc7eb4c6f93be620853859722_16x9_992.jpg",
+            "publishedAt": "2020-02-25T09:42:04Z",
+            "content": "SEOUL, South Korea -- \r\nA woman wearing vinyl gloves on a subway train. Guests donning masks at a sparcely attended wedding ceremony. People feverishly stocking up on instant noodles and rice. Friends calling each other and asking if they're still alive.\r\nFea\u2026 [+5163 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "United Arab Emirates civil aviation officials ban all flights from Iran for at least a week amid coronavirus outbreak",
+            "description": "United Arab Emirates civil aviation officials ban all flights from Iran for at least a week amid coronavirus outbreak",
+            "url": "https://abcnews.go.com/International/wireStory/united-arab-emirates-civil-aviation-officials-ban-flights-69194715",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-25T09:34:32Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nUnited Arab Emirates civil aviation officials ban all flights from Iran for at least a week amid coronavirus outbreak."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARI YAMAGUCHI Associated Press",
+            "title": "Abe: Extra hospital capacity among steps key to fight virus",
+            "description": "Japan's Prime Minister Shinzo Abe says new measures like companies letting their employees work from home and hospitals expanding their capacity to treat many patients will determine if Japan could control its coronavirus outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/abe-extra-hospital-capacity-steps-key-fight-virus-69194074",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_e9c84c04dc1e4a71a450624e111283bc_16x9_992.jpg",
+            "publishedAt": "2020-02-25T07:59:44Z",
+            "content": "TOKYO -- \r\nJapan's Prime Minister Shinzo Abe said Tuesday that new measures like companies letting their employees work from home and hospitals expanding their capacity to treat many patients will determine if Japan could control its coronavirus outbreak. \r\nW\u2026 [+2568 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Marc Nathanson, Elizabeth McLaughlin, Morgan Winsor",
+            "title": "White House requesting $1.25B as part of $2.5B plan to fight coronavirus",
+            "description": "The White House is requesting $1.25 billion in emergency funding from Congress as part of a total commitment of $2.5 billion to fight the novel coronavirus.",
+            "url": "https://abcnews.go.com/International/white-house-requesting-125b-part-25b-plan-fight/story?id=69190968",
+            "urlToImage": "https://s.abcnews.com/images/International/south-korea-facemasks_hpMain_20200224-223213_16x9_992.jpg",
+            "publishedAt": "2020-02-25T04:16:10Z",
+            "content": "The White House is requesting $1.25 billion in emergency funding from Congress as part of a total commitment of $2.5 billion to fight the novel coronavirus, according to a congressional official.\r\nIf approved, the funds will be earmarked for accelerated vacci\u2026 [+1489 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected over 80,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 80,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-80000-people-globally-69191486",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_fa4bd1622fdb42028ac8c590a11bf775_16x9_992.jpg",
+            "publishedAt": "2020-02-25T04:07:48Z",
+            "content": "A viral outbreak that began in China has infected more than 80,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+878 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Bahrain temporarily stops Dubai, Sharjah flights over virus",
+            "description": "The tiny island nation of Bahrain temporarily has halted all flights between it and the world's busiest airport for international travel in Dubai over the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/bahrain-temporarily-stops-dubai-sharjah-flights-virus-69191418",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_80125ffe6b4c45c79e4de26cda55687e_16x9_992.jpg",
+            "publishedAt": "2020-02-25T03:55:18Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nThe tiny island nation of Bahrain suspended flights to the world's busiest airport for international travel in Dubai on Tuesday over fears about the spread of a new virus. \r\nThe move by Bahrain, a small island off the coast of\u2026 [+1434 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Epidemic vs. pandemic? Glossary of terms for virus outbreak",
+            "description": "COVID-19 is the name of the new illness caused by a coronavirus that was first identified in China in late 2019",
+            "url": "https://abcnews.go.com/Health/wireStory/epidemic-pandemic-glossary-terms-virus-outbreak-69190599",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_cb7b3b6751be4b989ccb9956e416d7c7_16x9_992.jpg",
+            "publishedAt": "2020-02-25T03:05:03Z",
+            "content": "Some of the terminology being used about the new virus:\r\nOUTBREAK: A sudden rise in cases of a disease in a particular place. \r\nEPIDEMIC: A large outbreak, one that spreads among a population or region. The current outbreak of a flu-like illness caused by a n\u2026 [+1434 chars]"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "China turns up state hero-making machine in bid to shift narrative around coronavirus outbreak - The Globe and Mail",
+            "description": "China turns up state hero-making machine in bid to shift narrative around coronavirus outbreak The Globe and Mail Coronavirus outbreak: China's president Xi makes first public appearance as virus death toll climbs Global News Coronavirus kills 97 people in on\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-china-turns-up-state-hero-making-machine-in-bid-to-shift-narrative/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/3cVzNKe0ip2Lfg0iVjlF0G_RHCc=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/7NWBH7EWRBB5ZM5LYWQPGJYE34.JPG",
+            "publishedAt": "2020-02-10T18:54:50Z",
+            "content": "Employees of Wuhan MY CAR Technology Investment Group deliver disinfectant to Central China Normal University. The employees, from Chinas western Xinjiang region, have been held up by Chinas state media as an example of generosity during the virus outbreak.\r\n\u2026 [+7427 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Fergal Smith",
+            "title": "Canadian dollar hits four-month low as coronavirus worries offset housing gains - The Globe and Mail",
+            "description": "Canadian dollar hits four-month low as coronavirus worries offset housing gains The Globe and Mail Canadian housing starts climb 8.8% in January: CMHC Yahoo Canada Finance Condo gains push Canadian housing starts to a 4-month high BNNBloomberg.ca Pace of Cana\u2026",
+            "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-canadian-dollar-hits-four-month-low-as-coronavirus-worries-offset/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/hDSLVhHO6_h6Q_DeGAcLog9nRsE=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/CQUDZ4G5DJDB3L4P2HHUFS7IU4.JPG",
+            "publishedAt": "2020-02-10T15:29:44Z",
+            "content": "The commodity-linked Canadian dollar weakened to a four-month low against its U.S. counterpart on Monday as worries that the coronavirus outbreak would slow the domestic economy overshadowed stronger-than-expected housing data.\r\nThe spreading coronavirus outb\u2026 [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "The close: Safe-havens rise on coronavirus concerns, stocks rebound - The Globe and Mail",
+            "description": "The close: Safe-havens rise on coronavirus concerns, stocks rebound The Globe and Mail Stocks rise for a second day, hit record highs CNBC Futures rise on hopes virus may be over soon; Sprint soars Investing.com The S&P 500 is really the S&P 5. Big tech domin\u2026",
+            "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-virus-uncertainty-weighs-on-global-shares-us-dollar/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/_iRGJ-KzumLy4hj9_cp_sTPBztw=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/436W3CW3TFBLHIXA42VP4NADPQ.JPG",
+            "publishedAt": "2020-02-10T09:52:53Z",
+            "content": "Gold rose and the U.S. dollar hit a four-month high against the euro on Monday on safe-have appeal as the death toll from the coronavirus outbreak passed that of the SARS epidemic two decades ago, but North American stock markets rallied as investors took the\u2026 [+5303 chars]"
+        }
+    ]
+}

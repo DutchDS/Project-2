@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "U.S. Planning More Flights to Evacuate Citizens from China Due to Coronavirus",
+            "description": "The State Department is planning more flights to evacuate American citizens from the area in China where the coronavirus originated.",
+            "url": "https://www.nationalreview.com/news/u-s-planning-more-flights-to-evacuate-citizens-from-china-due-to-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/US-plane-.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-03T18:51:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "China Accuses U.S. Officials of \u2018Spreading Fear\u2019 in Responding to Coronavirus Outbreak",
+            "description": "The WHO has advised against imposing travel restrictions despite declaring the coronavirus outbreak a public health emergency.",
+            "url": "https://www.nationalreview.com/news/china-accuses-u-s-officials-of-spreading-fear-in-responding-to-coronavirus-outbreak/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/01/coronavirus-masks-hong-kong.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-03T14:25:43Z",
+            "content": null
+        }
+    ]
+}

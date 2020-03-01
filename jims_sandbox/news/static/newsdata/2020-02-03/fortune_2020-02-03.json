@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Don Reisinger",
+            "title": "Coronavirus will take a bite out of Apple\u2019s iPhone business. The question facing analysts: \u2018How big?\u2019",
+            "description": "iPhone's sales could falter over the coronavirus, one prominent Apple analyst says. What do others think?",
+            "url": "https://fortune.com/2020/02/03/apple-iphone-coronavirus-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1169733722.jpg?resize=1200,600",
+            "publishedAt": "2020-02-04T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "The first coronavirus vaccine is set for testing in China",
+            "description": "U.S.-based Gilead has struck a partnership with Beijing's China-Japan Friendship Hospital to test out an antiviral drug called remdesivir in actual humans in Wuhan.",
+            "url": "https://fortune.com/2020/02/03/coronavirus-vaccine-testing-in-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-Vaccine.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T23:18:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Rachel Schallom",
+            "title": "Coronavirus forces world\u2019s largest work-from-home experiment",
+            "description": "Many people are trying to organize client meetings and group discussions via videochat apps, or discussing plans on productivity software platforms like WeChat Work or Bytedance\u2019s Slack-like Lark.",
+            "url": "https://fortune.com/2020/02/03/coronavirus-offices-closed-work-from-home/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Wuhan-China-Coronavirus-Empty-Street.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T14:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "Coronavirus forces China\u2019s neighbors to make tough choices over health, fear and trade",
+            "description": "Thailand\u2019s capital city of Bangkok has one of the highest rates of coronavirus outside of mainland China with 19 confirmed cases, masks are nearly ubiquitous in public spaces, and there are growing online calls to implement an outright ban on travelers from m\u2026",
+            "url": "https://fortune.com/2020/02/03/coronavirus-china-thailand-tourism-trade-investment/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198294819.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T12:41:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "\u2018Irrational, herd behavior\u2019\u2014 China\u2019s markets plunge on coronavirus fears, but the selloff fails to spread overseas",
+            "description": "The Chinese markets re-opened on Monday with investors dumping shares. But so far, the worst seems confined to China.",
+            "url": "https://fortune.com/2020/02/03/irrational-herd-behavior-china-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198213069.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T10:49:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Tokyo Olympics, Art Basel, K-pop shows: Asia worries about big events amid coronavirus spread",
+            "description": "As fears of a coronavirus outbreak spread, sporting events, K-pop concerts, and festivals are being cancelled and postponed across the globe.",
+            "url": "https://fortune.com/2020/02/03/tokyo-olympics-art-basel-coronavirus-events/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197491539.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T09:45:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "China will struggle to spend its way out of the coronavirus economic slowdown",
+            "description": "China's economy is already under strain from two years of a U.S. trade war.",
+            "url": "https://fortune.com/2020/02/03/china-economy-coronavirus-stimulus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197726864.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T09:17:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "\u2018The results look good so far:\u2019 Thai doctors tout promising treatment for Wuhan coronavirus",
+            "description": "A drug cocktail has been effective in treating a seriously ill patient.",
+            "url": "https://fortune.com/2020/02/03/wuhan-coronavirus-treatment-thailand/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197718060.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T07:17:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Chinese markets plummet amid coronavirus spread in first trading since New Year break",
+            "description": "Chinese stock markets had been closed since Jan. 23 for the New Year, a period that saw the virus outbreak escalate.",
+            "url": "https://fortune.com/2020/02/02/china-stock-market-today-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1195396029.jpg?resize=1200,600",
+            "publishedAt": "2020-02-03T02:18:30Z",
+            "content": null
+        }
+    ]
+}

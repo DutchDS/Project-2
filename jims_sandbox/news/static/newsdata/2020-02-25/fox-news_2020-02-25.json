@@ -1,0 +1,370 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Sen. Mike Braun on coronavirus spread: 'I think we've got the infrastructure and we are prepared'",
+            "description": "Sen. Mike Braun, R-Ind., appeared on \"Your World with Neil Cavuto\" Tuesday to talk about the closed-door briefing he attended about the ongoing coronavirus outbreak and the possibility of it seriously affecting the U.S.",
+            "url": "https://www.foxnews.com/media/mike-braun-coronavirus-we-are-prepared",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/CavutoBraun.jpg",
+            "publishedAt": "2020-02-25T23:40:38Z",
+            "content": "Sen. Mike Braun, R-Ind., appeared on \"Your World with Neil Cavuto\" Tuesday to talk about the closed-door briefing he attended about the ongoing\u00a0coronavirus\u00a0outbreak and the possibility of it seriously affecting the U.S.\r\n\"The CDC [Centers for Disease Control]\u2026 [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Fauci on coronavirus: You have to be prepared for a potential pandemic",
+            "description": "NIAID director Dr.Anthony Fauci weighs in on the coronavirus outbreak and U.S. preparations.",
+            "url": "http://video.foxnews.com/v/6135916116001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22d30b0d-0442-4915-9409-3f207de3f106/0986683f-05df-4e13-ad46-51b8f9d310a4/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T23:28:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Former FDA commissioner on coronavirus: We believe transmission is respiratory",
+            "description": "Coronavirus prompts FDA to detail screening of Chinese-made products; former FDA commissioner David Kessler weighs in.",
+            "url": "http://video.foxnews.com/v/6135917667001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8a22f34-347a-42b3-a314-9003812473c6/296bc107-72fa-46e8-a46b-6df7be3bb6e1/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T23:26:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Greg Gutfeld praises Trump for putting 'scar across the face of media' after Acosta confrontation",
+            "description": "\"The Five\" co-host Greg Gutfeld applauded President Trump for creating a \"healthy\" skepticism of the media after he scolded CNN White House correspondent Jim Acosta during a press conference in India Tuesday.",
+            "url": "https://www.foxnews.com/media/greg-gutfeld-donald-trump-jim-acosta-cnn",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/Trump-Gutfeld_AP-FOX.jpg",
+            "publishedAt": "2020-02-25T23:25:12Z",
+            "content": "\"The Five\"\u00a0co-host Greg Gutfeld applauded\u00a0President\u00a0Trump for creating a \"healthy\" skepticism of\u00a0the media after he scolded CNN\u00a0White House correspondent\u00a0Jim Acosta\u00a0during a\u00a0press conference in India\u00a0Tuesday.\r\n\"Are we getting the real story? Gutfeld asked, re\u2026 [+3303 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Health official predicts coronavirus spread in US is imminent",
+            "description": "Administration grilled on preparedness; Jonathan Serrie reports.",
+            "url": "http://video.foxnews.com/v/6135913548001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e18c9572-f7c1-4713-b3a4-1e807d10c5cb/b75943f2-7f0a-41bb-9b8d-231d72af3aea/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T23:18:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Trump attempts to quiet coronavirus fears, says US 'in very good shape'",
+            "description": "President addresses outbreak, trade with India; chief White House corespondent John Roberts reports.",
+            "url": "http://video.foxnews.com/v/6135915258001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7dfb3cc2-f74b-44fc-92c2-a7792e792e39/de5183e3-6d2b-4aa5-9c20-226bff57004b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T23:17:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Rush Limbaugh defends Trump from coronavirus criticism: 'He's actually trying to protect the United States'",
+            "description": "\"Donald Trump is president of the United States. He is not president of the world.\"",
+            "url": "https://www.foxnews.com/media/rush-limbaugh-trump-coronavirus-outbreak-united-states",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Rush-Limbaugh.jpg",
+            "publishedAt": "2020-02-25T22:55:48Z",
+            "content": "Conservative radio talk show host Rush Limbaugh defended President Trump's handling of the coronavirus outbreak Tuesday, saying it's the president's job to protect the United States and not the world.\r\n\"Donald Trump is president of the United States. He is no\u2026 [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Cruise passenger receiving treatment for coronavirus in Japan",
+            "description": "Diamond Princess Cruise passenger Jerri Jorgensen on life under quarantine in Japan.",
+            "url": "http://video.foxnews.com/v/6135889045001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/837da2dd-ebc0-44b1-8646-db4000bc4126/ef75de28-d061-4faf-8966-b4cf0f1f131f/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T21:49:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Sen. Braun: We have the infrastructure and we are prepared for coronavirus",
+            "description": "Indiana Republican Senator Mike Braun discusses briefing on coronavirus threat to the U.S.",
+            "url": "http://video.foxnews.com/v/6135883618001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51e131c2-43e1-4681-bc58-a060366d8403/3b3ac5c0-de35-4c50-aa5a-d17494664005/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T21:24:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Stirewalt",
+            "title": "Bernie in the barrel for South Carolina debate",
+            "description": "He tries to get his math straight before showdown.",
+            "url": "https://www.foxnews.com/politics/bernie-in-the-barrel-for-south-carolina-debate",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c547b0c5-5adf-484f-9cab-41e13e696206/f7a79a5b-9e40-44a1-b888-e0eca1d85aaa/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T19:00:15Z",
+            "content": "**Want FOX News Halftime Report in your inbox every day? Sign up\u00a0here.**\r\nOn the roster:\u00a0Bernie in the barrel for South Carolina debate - Team Trump frets over the politics of contagion -\u00a0Senate primary draws sharp divisions in Kansas GOP\u00a0- Your passport to d\u2026 [+18700 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sam Dorman",
+            "title": "Sen. Kennedy frustrated with DHS secretary's answers about coronavirus: 'Who's on first?'",
+            "description": "Sen. John Kennedy, R-La., seemed dissatisfied with Homeland Security Acting Secretary Chad Wolf as he peppered him with questions about coronavirus preparations during a Senate hearing on Tuesday.",
+            "url": "https://www.foxnews.com/media/sen-kennedy-mocks-dhs-chad-wolf-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Kennedy-Wolf.jpg",
+            "publishedAt": "2020-02-25T18:26:51Z",
+            "content": "Sen. John Kennedy, R-La., seemed dissatisfied with Homeland Security acting Secretary Chad Wolf as he peppered him with questions about\u00a0coronavirus\u00a0preparations\u00a0during a Senate hearing on Tuesday.\r\n\"Who's on first, here? What's on second?\" Kennedy said, appar\u2026 [+1268 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Coronavirus disruption to \u2018everyday\u2019 life in US \u2018might be severe,\u2019 CDC official says",
+            "description": "The CDC said it's \"not a question of if, but when, and how many people in this country will have severe illness.\"",
+            "url": "https://www.foxnews.com/health/coronavirus-disruption-in-us-might-be-severe-cdc-official-says",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b254a68-a616-4db7-b3fa-c1c04277fdd4/ad721e29-556b-4e2f-bcbf-4a1cb22f1d03/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T18:08:02Z",
+            "content": "The Centers for Disease Control and Prevention (CDC) on Tuesday warned that it expects the novel coronavirus to begin spreading in the U.S. at the community level, and that \u201cdisruption to everyday life might be severe.\u201d\r\nCORONAVIRUS FITS CRITERIA FOR 'DISEASE\u2026 [+1305 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Coronavirus fits criteria for 'Disease X,' WHO expert says",
+            "description": "\"Disease X\" was coined by WHO as a placeholder on a list of illnesses that have potential to reach international epidemic levels.",
+            "url": "https://www.foxnews.com/health/coronavirus-criteria-disease-x-who-expert-says",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e5b8fc1-0381-44a6-b533-66866bda619d/97c76e00-0967-4c42-b637-3b794787aff5/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T16:36:25Z",
+            "content": "The novel coronavirus has sickened over 80,000 people worldwide and killed at least 2,700, across 35 countries, leading one expert to say that it fits the criteria for \u201cDisease X,\u201d a designated placeholder on the World Health Organization\u2019s (WHO) list of illn\u2026 [+3223 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Iran's coronavirus task force head contracts illness as country's death toll reaches 15",
+            "description": "Iran's deputy health minister said he was under self-quarantine in his house just a day after appearing at a press conference in Tehran with journalists.",
+            "url": "https://www.foxnews.com/health/irans-counter-coronavirus-leader-contracts-illness-as-countrys-death-toll-reaches-15",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Iraj_Harirchi.jpg",
+            "publishedAt": "2020-02-25T15:14:25Z",
+            "content": "Iran\u2019s deputy health minister said he has tested positive for the novel coronavirus and is in self-quarantine at his home just a day after he appeared at a news conference in Tehran where he sought to quell fears about the outbreak. Iraj Harirchi, the head of\u2026 [+3503 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Ben Sasse on China's role in coronavirus outbreak: 'Lying is a feature' of their Communist system",
+            "description": "Coronavirus,\u00a0also known as COVID-19,\u00a0 has spread as far and as fast as it has because \"lying is a feature of the Chinese system,\"\u00a0Nebraska Republican Sen.\u00a0Ben Sasse said Tuesday.",
+            "url": "https://www.foxnews.com/media/ben-sasse-coronavirus-china-lying-communist-xi",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BEN-SASSE.jpg",
+            "publishedAt": "2020-02-25T14:23:25Z",
+            "content": "Coronavirus,\u00a0also known as COVID-19, has spread as far and as fast as it has because \"lying is a feature of the Chinese system,\"\u00a0NebraskaRepublicanSen.\u00a0Ben Sasse said Tuesday.\r\nIn an interview on \"Fox News @ Night,\" host Shannon Bream asked Sasse whether the \u2026 [+2145 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Austria, Croatia confirm first coronavirus cases",
+            "description": "Austria and Croatia are two of the latest countries to confirm cases of the novel coronavirus, which as of Tuesday has sickened more than 80,000 people globally and killed some 2,700.",
+            "url": "https://www.foxnews.com/health/austria-croatia-confirm-first-coronavirus-cases",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cc0bb8e-031c-419a-a0c9-3a58b7840fb8/03c5865f-d06f-4717-bd91-300bf0e04a93/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T14:06:09Z",
+            "content": "Austria and Croatia are two of the latest countries to confirm cases of the novel coronavirus, which as of Tuesday has sickened more than 80,000 people globally and killed some 2,700.\r\nThree cases were confirmed between the two countries, two in Austria and o\u2026 [+937 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Canary Islands hotel with 1,000 tourists placed on lockdown following suspected coronavirus case",
+            "description": "About 1,000 guests are not currently permitted to leave the premises.",
+            "url": "https://www.foxnews.com/travel/canary-islands-hotel-locked-down-coronavirus-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20056406560260.jpg",
+            "publishedAt": "2020-02-25T14:05:32Z",
+            "content": "Around 1,000 guests at a hotel in Spain\u2019s Canary Islands have been locked down after an Italian doctor who recently stayed there tested positive for the COVID-19 coronavirus.\r\nOn Tuesday, the H10 Costa Adeje Palace Hotel in Tenerife was placed on lockdown aft\u2026 [+2646 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tucker Carlson",
+            "title": "Tucker Carlson: Identity politics have trumped public health in the coronavirus crisis - time for real answers",
+            "description": "Coronavirus is spreading fast globally, and the truth is, we have no real idea how many Americans are infected.",
+            "url": "https://www.foxnews.com/opinion/tucker-carlson-identity-politics-public-health-coronavirus-crisis",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cfbd942-1151-4ffc-9216-dd976f505767/da051507-6b22-438a-a7a4-813fc90af65c/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T13:38:41Z",
+            "content": "For weeks the media told you it was wrong to worry about the coronavirus, a mysterious, highly communicable, lethal disease spreading rapidly around the world. If that concerns you in any way, if you think maybe we ought to take some steps to protect ourselve\u2026 [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler Olson",
+            "title": "Trump blasts Sotomayor at press conference: \u2018She\u2019s trying to shame people\u2019",
+            "description": "President Trump took aim at one of his predecessor's Supreme Court picks during a press conference in India Tuesday morning, as he wraps up his trip to the country which included a visit to the Taj Mahal, a rally in front of over 110,000 people with Indian Pr\u2026",
+            "url": "https://www.foxnews.com/politics/trump-comments-india-presser",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3d0f579-2755-49bc-a8ab-d6d209fb3143/cd2a697a-b62a-448a-9422-ba2b86abfe68/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-25T12:20:33Z",
+            "content": "President Trump\u00a0took aim at one of his predecessor's Supreme Court picks during a press conference\u00a0in India Tuesday morning, as he wraps up his trip to the country which included a visit to the Taj Mahal, a rally in front of over 110,000 people with Indian Pr\u2026 [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Martha MacCallum on Harvey Weinstein, Coronavirus and 2020",
+            "description": "FOX's Martha MacCallum \u00a0joins today's \"Rundown\" to discuss her new book \"Unknown Valor.\" Plus, commentary by Deroy Murdock.",
+            "url": "https://radio.foxnews.com/2020/02/25/the-fox-news-rundown-2-25-2020-2/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/04/rundown-featured.png",
+            "publishedAt": "2020-02-25T10:00:01Z",
+            "content": "FOX's Martha MacCallum \u00a0joins today's \"Rundown\" to discuss her new book about World War II and FOX Nation Special \u00a0\"Unknown Valor: A Story of Family, Courage, and Sacrifice from Pearl Harbor to Iwo Jima.\" She explains her family ties to the war and why she de\u2026 [+684 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Today on Fox News: Feb. 25, 2020",
+            "description": "",
+            "url": "https://www.foxnews.com/media/today-on-fox-news-feb-25-2020",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/fox-news-channel-logo.jpg",
+            "publishedAt": "2020-02-25T09:36:41Z",
+            "content": "STAY TUNED\r\nOn Fox News:\u00a0\r\nFox &amp; Friends, 6 a.m. ET: Judge Andrew Napolitano, Fox News senior judicial analyst; GOP legislator and 19 co-sponsors are pushing to ban sanctuary cities in Georgia.\r\nOn Fox News Radio:\r\nThe Fox News Rundown podcast:\"Martha Mac\u2026 [+1314 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Sanders reveals how he'd pay for his new government programs; Trump calls for Sotomayor, Ginsburg recusal",
+            "description": "",
+            "url": "https://www.foxnews.com/us/sanders-reveals-how-hed-pay-for-his-new-government-programs-trump-calls-for-sotomayor-ginsburg-recusal",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BernieSanders022520.jpg",
+            "publishedAt": "2020-02-25T09:14:16Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your day ...\r\nBernie Sanders reveals his new government programs to be funded by new taxes, massive lawsuits, military cutsBernie Sanders unexpectedly released a fact-sheet \u2026 [+4281 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Korean Air cabin crew worker tests positive for coronavirus, report says",
+            "description": "The rapid surge of new coronavirus cases in South Korea has prompted the Centers for Disease Control to issue its highest travel warning level -- level 3 -- advising American travelers to avoid nonessential travel to the country.",
+            "url": "https://www.foxnews.com/travel/korean-air-cabin-crew-worker-tests-positive",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20055213649970.jpg",
+            "publishedAt": "2020-02-25T07:35:15Z",
+            "content": "A cabin crew worker from Korean Air tested positive for coronavirus the airline said Tuesday and details about what routes the employee flew were not immediately known, according to a report.\r\nReuters, citing an airline spokeswoman,\u00a0reported that the company\u00a0\u2026 [+12149 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "CDC issues coronavirus warning against nonessential South Korea travel",
+            "description": "The Centers for Disease Control and Prevention (CDC) issued a warning to American travelers Monday against making any unnecessary trips to South Korea coronavirus cases continue to spike there.",
+            "url": "https://www.foxnews.com/health/cdc-issues-coronavirus-warning-against-nonessential-south-korea-travel",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20055398792235.jpg",
+            "publishedAt": "2020-02-25T05:42:50Z",
+            "content": "The\u00a0Centers for Disease Control and Prevention (CDC) issued a warning to American\u00a0travelers Monday against making any unnecessary trips to South Korea as\u00a0coronavirus cases continue to spike there.\r\nSouth Korea has reported eight deaths and nearly 900 infectio\u2026 [+1262 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Tucker Carlson says coronavirus response shows how 'identity politics trumped public health'",
+            "description": "Tucker Carlson tackled the seriousness of the rising coronavirus crisis Monday, criticizing the mainstream media's coverage of the outbreak.",
+            "url": "https://www.foxnews.com/media/tucker-carlson-coronavirus-identity-politics-public-health",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/TUCKER-CARLSON-WALMART.jpg",
+            "publishedAt": "2020-02-25T02:50:40Z",
+            "content": "Tucker Carlson tackled the seriousness of the rising coronavirus crisis Monday, criticizing the mainstream media's coverage of the outbreak.\r\n\"For weeks, the media told you it was wrong to worry about the coronavirus, a mysterious, highly communicable lethal \u2026 [+2267 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Cuccinelli won't rule out startling theory on coronavirus origins: 'We are not entirely sure yet'",
+            "description": "Department of Homeland Security (DHS) Acting Deputy Secretary Ken Cuccinelli told Fox News medical correspondent Dr. Marc Siegel Monday that the origin of the coronavirus outbreak remains virtually unknown -- and refused to rule out a startling theory that th\u2026",
+            "url": "https://www.foxnews.com/media/cuccinelli-coronavirus-origin-theory-dr-marc-siegel",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Cucclinelli720.jpg",
+            "publishedAt": "2020-02-25T02:38:13Z",
+            "content": "Department of Homeland Security\u00a0(DHS)\u00a0Acting Deputy Secretary Ken Cuccinelli told Fox News medical correspondent Dr. Marc Siegel Monday that the origin of the\u00a0coronavirus\u00a0outbreak remains virtually unknown -- and refused to rule out\u00a0a startling theory that th\u2026 [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Mark Steyn riffs on Dem worry Trump will return Alaska to Putin, jokes he'll give 'Vermont to Trudeau' first",
+            "description": "Author and columnist Mark Steyn reacted to odd claims by Democrats and media figures about alleged crises President Trump could cause while the coronavirus epidemic is wreaking havoc in places like China and Italy.",
+            "url": "https://www.foxnews.com/media/democrats-alaska-russia-mark-steyn-howard-dean",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Video-75.jpg",
+            "publishedAt": "2020-02-25T02:25:48Z",
+            "content": "Author and columnist Mark Steyn reacted to odd claims by Democrats and media figures about alleged crises\u00a0President Trump could cause\u00a0while the coronavirus epidemic is wreaking havoc in places like China and Italy.\r\nSteyn said Monday on \"Tucker Carlson Tonigh\u2026 [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "Amid coronavirus outbreak, China bans consumption, trade of wild animals, reports say",
+            "description": "China has banned the consumption and trade of wild animals in an effort to halt the outbreak of the deadly coronavirus, which is believed to have originated at an animal and seafood market in the Chinese city of Wuhan, according to a Monday report.",
+            "url": "https://www.foxnews.com/health/coronavirus-china-bans-consumption-trade-wild-animals",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20044011172042-1.jpg",
+            "publishedAt": "2020-02-25T02:03:31Z",
+            "content": "China has banned the consumption and trade of wild animals in an effort to halt the outbreak of the deadly coronavirus, which is believed to have originated at an animal and seafood market in the Chinese city of Wuhan, according to a Monday report. \r\nChina\u2019s \u2026 [+2100 chars]"
+        }
+    ]
+}

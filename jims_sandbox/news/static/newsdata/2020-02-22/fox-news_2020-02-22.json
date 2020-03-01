@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "United Airlines raising checked-bag fees beginning in March",
+            "description": "If you\u2019re planning on flying United Airlines be prepared to pay a little more for your checked bag.",
+            "url": "https://www.foxnews.com/travel/united-airlines-raising-checked-bag-fees",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/UnitedAirlinesIstock22.jpg",
+            "publishedAt": "2020-02-22T19:34:16Z",
+            "content": "If you\u2019re planning on flying\u00a0United Airlines, be prepared to pay a little more for your checked bag.\r\nThe airline increased its checked-baggage fees on Friday by $5, following a similar move in January by JetBlue Airways, USA Today reports.\r\nUNITED AIRLINES R\u2026 [+2111 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Marisa Schultz",
+            "title": "Trump furious Americans infected with coronavirus flew back to US without his permission: report",
+            "description": "President Trump grew furious that 14 Americans infected with the coronavirus were allowed to fly back to the United States without his permission, rather than remaining quarantined overseas, according to a new report.",
+            "url": "https://www.foxnews.com/politics/trump-furious-americans-infected-with-coronavirus-flew-back-in-u-s-without-his-permission-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/DiamondPrincess022020.jpg",
+            "publishedAt": "2020-02-22T16:01:19Z",
+            "content": "President Trump\u00a0was\u00a0furious that 14 Americans infected with the coronavirus\u00a0returned\u00a0to the United States without his permission\u00a0rather than remain in quarantine\u00a0overseas, according to a new report.\r\nTrump had\u00a0been briefed that the healthy U.S.\u00a0passengers who\u2026 [+3080 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sally Pipes",
+            "title": "Sally Pipes: Mike Bloomberg has a lot of bad ideas for health care",
+            "description": "Bloomberg wants voters to believe he can bring moderation back to the White House. But his plan for health care features the same affinity for government overreach that has been his calling card throughout his political career.",
+            "url": "https://www.foxnews.com/opinion/sally-pipes-mike-bloomberg-bad-ideas-for-health-care",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a6d40e7-f26c-4ba5-ba62-ba0a811a125c/36cb108d-1e10-4e0b-876e-e3788e918d08/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-22T11:00:08Z",
+            "content": "It took Mike Bloomberg three months and $400 million, but he finally qualified for a Democratic debate. The former New York mayor earned his place on stage in Las Vegas on Feb. 19 after surging to second place in the polls, just behind Sen. Bernie Sanders, I-\u2026 [+4191 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "Where was the margarita invented?",
+            "description": "It\u2019s sort of the grande dame of cocktails, particularly in America.",
+            "url": "https://www.foxnews.com/food-drink/where-was-the-margarita-invented",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/margarita-istock.jpg",
+            "publishedAt": "2020-02-22T10:00:45Z",
+            "content": "While there are hundreds, if not thousands, of cocktails known around the world, few are as popular as the margarita.\r\nIt\u2019s sort of the grande dame of cocktails, particularly in America.\r\nSixty percent of Americans allegedly list the tequila-based concoction \u2026 [+3650 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "What is frostbite and who is at risk?",
+            "description": "While some may believe the condition is temporary, it can actually lead to long-term or chronic health issues.",
+            "url": "https://www.foxnews.com/health/what-is-frostbite-who-is-at-risk",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/frost_bite_istock.jpg",
+            "publishedAt": "2020-02-22T10:00:39Z",
+            "content": "Spring may be just around the corner but in plenty of regions across the U.S. the temperatures continue to drop into the freezing range, putting millions of Americans at risk for\u00a0a myriad of health issues, including frostbite. While some may believe the condi\u2026 [+1876 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Sen. Cotton on coronavirus: 'China is carefully managing the flow of information'",
+            "description": "Sen. Tom Cotton, R-Ark., appeared on \"The Ingraham Angle\" Friday and pushed back against accusations that he is floating conspiracy theories about the coronavirus and it's origins in China.",
+            "url": "https://www.foxnews.com/media/sen-cotton-on-coronavirus-china-is-carefully-managing-the-flow-of-information",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cdac3dd-4242-4747-a9ba-02af92e15887/d2ffb18c-8fd8-4239-9714-47a5518679aa/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-22T05:12:11Z",
+            "content": "Sen. Tom Cotton, R-Ark., pushed back Friday night against accusations that he is floating conspiracy theories about the coronavirus and its origins in China.\r\n\"We know that it didn't start in the Wuhan food market. That was the original story of the Chinese C\u2026 [+1916 chars]"
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Buttigieg vies for top spot in New Hampshire",
+            "description": "",
+            "url": "https://www.foxnews.com/transcript/buttigieg-vies-for-top-spot-in-new-hampshire",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b6de220-98ed-40e0-b9ba-c0476020a952/2949b449-c1aa-4513-8539-fdce7d326c9a/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T23:08:00Z",
+            "content": "This is a rush transcript from \"Special Report,\" February 11, 2020. This copy may not be in its final form and may be updated. \r\nJUAN WILLIAMS, FOX NEWS CHANNEL HOST: Here's by the way, Jesse, you know what, the food up here in New Hampshire, the clam chowder\u2026 [+47229 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Coronavirus travel ban, strict infection control will keep virus at bay in US, former NY official says",
+            "description": "Dr. Betsy McCaughey, former lieutenant governor of New York, applauded the Trump administration's travel restrictions and mandatory quarantine orders.",
+            "url": "https://www.foxnews.com/health/coronavirus-travel-ban-strict-infection-control-will-keep-virus-at-bay-in-us-former-ny-official-says",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9574711-25d7-433d-8ff5-38ed16822dc4/ececa5f2-d402-4569-8286-6d3fcab12a5a/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T22:37:09Z",
+            "content": "The former lieutenant governor of New York has hit back at China for keeping the true depths of the coronavirus spread under wraps for so long, which possibly allowed for thousands to travel while infectious. Dr. Betsy McCaughey, current chairman of the Commi\u2026 [+3597 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Russian woman who escaped hospital coronavirus quarantine locks herself in home, report says",
+            "description": "Russian woman who disabled the lock to her hospital room and escaped a mandatory coronavirus quarantine over poor conditions is reportedly refusing to go back and has locked herself in her home.",
+            "url": "https://www.foxnews.com/health/russian-woman-escaped-hospital-coronavirus-quarantine-locks-herself-in-home",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20036304001226.jpg",
+            "publishedAt": "2020-02-13T22:26:58Z",
+            "content": "A Russian woman who disabled the lock to her hospital room and escaped a mandatory coronavirus quarantine over poor conditions is reportedly refusing to go back and has locked herself in her home.\r\nAlla Ilyina, 32, has been at her St. Petersburg apartment sin\u2026 [+1273 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "James Jay Carafano",
+            "title": "James Carafano: North Korea\u2019s coronavirus problem and how their secrecy will make it worse",
+            "description": "Though we can only guess what\u2019s going on in Kim\u2019s dark kingdom, it\u2019s hard to imagine a rosy scenario.",
+            "url": "https://www.foxnews.com/opinion/north-koreas-coronavirus-problem-and-how-their-secrecy-will-make-it-worse-james-carafano",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/20d8af7c-North_korea_coronavirus.jpg",
+            "publishedAt": "2020-02-13T21:43:40Z",
+            "content": "In nighttime photos from space, North Korea looks like a black hole compared to the well-lit South. It\u2019s an apt metaphor for what we know about what\u2019s going inside the DPRK now: Nada.\r\nThat absence of information poses a real problem when a global health thre\u2026 [+2910 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Filming of airplane passengers passionately making out deemed 'creepy' on social media",
+            "description": "Well, this made things uncomfortable for everyone.",
+            "url": "https://www.foxnews.com/travel/airplane-make-out-creepy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/airplane-kiss.jpg",
+            "publishedAt": "2020-02-13T20:35:19Z",
+            "content": "Well, this just made things uncomfortable for everyone.\r\nAn airplane passenger recently shared footage\u00a0of two other travelers kissing passionately in the seats directly in front of their own.\u00a0But while many social media users agreed that it was awkward behavi\u2026 [+1309 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus nurses in China are shaving their heads to \u2018improve efficiency\u2019",
+            "description": "Some Chinese nurses fighting the deadly coronavirus outbreak in Wuhan, China \u2014 the epicenter of the outbreak \u2014 have taken an extreme measure to reportedly improve efficiency: shaving their heads.",
+            "url": "https://www.foxnews.com/health/coronavirus-nurses-china-shaved-heads",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea052b88-d22a-4dd1-bf41-f94f59f640b4/b8717e8a-11ba-4223-b578-18b02d7d863b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T18:34:51Z",
+            "content": "Some Chinese nurses fighting the deadly coronavirus\u00a0in Wuhan, China \u2014 the epicenter of the outbreak \u2014 have taken an extreme measure in an alleged effort to improve efficiency: shaving their heads.\r\nHead-shaving videos surfaced on social media in recent days, \u2026 [+1644 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jessica Napoli",
+            "title": "A Dean Koontz book from 1981 predicted coronavirus in bizarre coincidence",
+            "description": "Author Dean Koontz eerily predicted the Coronavirus outbreak in his 1981 thriller \"The Eyes of Darkness.\"",
+            "url": "https://www.foxnews.com/entertainment/dean-koontz-book-predicted-coronavirus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b3fe35c-2169-463d-876c-f7631e46cdbb/a9a6bc87-c1a8-4705-a398-641ed226134a/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T18:31:44Z",
+            "content": "Author Dean Koontz eerily predicted the coronavirus outbreak in his 1981 thriller \"The Eyes of Darkness.\"\r\nThe fictional novel tells the story of a Chinese military lab that creates a new virus to potentially use as a biological weapon during wartime. The lab\u2026 [+2571 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Coronavirus patient took Uber to London emergency room",
+            "description": "The patient reportedly spent less than 15 minutes in the car, and did not have close contact with the driver.",
+            "url": "https://www.foxnews.com/health/coronavirus-patient-took-uber-london-emergency-room",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b3fe35c-2169-463d-876c-f7631e46cdbb/a9a6bc87-c1a8-4705-a398-641ed226134a/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T18:30:16Z",
+            "content": "The ninth patient to test positive for coronavirus in the U.K. took an Uber to the emergency room before she was diagnosed with the illness, officials said. The woman, a Chinese national, was tested at Lewisham Hospital on Sunday before being transferred to a\u2026 [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Woman sentenced to jail for violent in-flight outburst, threatening to kill",
+            "description": "The Jet2 passenger will spend two years behind bars.",
+            "url": "https://www.foxnews.com/travel/woman-sentenced-jail-violent-outburst-flight",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/0562855a-passenger-Chloe-Haines.jpg",
+            "publishedAt": "2020-02-13T16:51:22Z",
+            "content": "A U.K. woman will spend two years in jail after threatening to \u201ckill\u201d everyone on board a Jet2 flight last summer and attempting to open the emergency exit, which triggered a hijack alert and diverted an escorted landing with two RAF fighter jets.\r\nOn Wednesd\u2026 [+3712 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "North Korea 'clearly lying' about coronavirus cases, expert says",
+            "description": "North Korea maintains that the coronavirus has not reached its borders, but one expert says \"there is no way\" that's true.",
+            "url": "https://www.foxnews.com/health/north-korea-clearly-lying-coronavirus-cases-expert",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/20d8af7c-North_korea_coronavirus.jpg",
+            "publishedAt": "2020-02-13T16:25:04Z",
+            "content": "The coronavirus has infected more than 60,000 people across 26 countries after first being discovered in China\u2019s Hubei Province, and yet North Korea, which shares a border with the country where more than 59,000 of those cases and over 1,360 deaths have been \u2026 [+3913 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Fashion Week events in China postponed amid coronavirus fears",
+            "description": "These fashion weeks have become fashion victims.",
+            "url": "https://www.foxnews.com/lifestyle/fashion-weeks-in-china-postponed-amid-coronavirus-fears",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/GettyImages-1141444079.jpg",
+            "publishedAt": "2020-02-13T15:51:12Z",
+            "content": "These fashion weeks have become fashion victims.\r\nTwo major fashion industry events in China have been postponed as a precaution amid fears surrounding the ongoing outbreak of COVID-19, previously referred to as the novel coronavirus.\r\nMEN APPEAR TO BE MORE V\u2026 [+2701 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Hilton temporarily closes 150 hotels in China amid coronavirus outbreak",
+            "description": "Hilton currently operates 4 hotels in Wuhan, and 225 in greater China.",
+            "url": "https://www.foxnews.com/travel/hilton-temporarily-closes-150-hotels-china-coronavirus-outbreak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/HiltonIstock2.jpg",
+            "publishedAt": "2020-02-13T15:44:51Z",
+            "content": "The CEO of Hilton Worldwide Holdings, which operates more than\u00a06,100 hotels across the globe, has confirmed the closure of \u201croughly 150\u201d hotels in China amid the current outbreak of COVID-19, formerly known as the novel coronavirus.\r\nIn an earnings call on Tu\u2026 [+1754 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus evacuee in Texas diagnosed with virus, marking 15th case in US: CDC",
+            "description": "An American evacuee who arrived on a State Department-chartered flight last week from Wuhan, China \u2014 the epicenter of the deadly coronavirus outbreak \u2014 is now the 15th confirmed case of the virus in the U.S., federal officials said on Thursday.",
+            "url": "https://www.foxnews.com/health/coronavirus-evacuee-texas-diagnosed-virus-15th-case-us-cdc",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d0f869a-cf5c-405c-a8a8-93e6e26bb7bb/3bb21a12-fb95-49dc-980c-0c609ca3d770/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T15:26:14Z",
+            "content": "An American evacuee who arrived on a State Department-chartered flight last week from Wuhan, China \u2014 the epicenter of the deadly coronavirus outbreak \u2014 is now the 15th confirmed case of the virus in the U.S., federal officials said on Thursday.\r\n2ND CORONAVIR\u2026 [+1689 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Some coronavirus testing kits are defective, CDC says",
+            "description": "Some of the coronavirus testing kits shipped to states from the Centers for Disease Control and Prevention (CDC) in an effort to speed diagnoses are defective, a top official with the federal agency said on Wednesday.",
+            "url": "https://www.foxnews.com/health/some-coronavirus-testing-kits-defective-cdc",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea052b88-d22a-4dd1-bf41-f94f59f640b4/b8717e8a-11ba-4223-b578-18b02d7d863b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T15:24:16Z",
+            "content": "Some of the coronavirus\u00a0testing kits shipped to states from the Centers for Disease Control and Prevention (CDC) in an effort to speed diagnoses are defective, a top official with the federal agency said on Wednesday.\r\nThe CDC sent the kits to state laborator\u2026 [+3067 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Sen. Hawley blasts China's dishonesty on coronavirus spread: 'They're completely overwhelmed'",
+            "description": "The United States still cannot trust China's reports on the coronavirus (COVID-19) epidemic, Missouri Republican Sen. Josh Hawley said Thursday.",
+            "url": "https://www.foxnews.com/media/coronavirus-china-outbreak-josh-hawley-not-honest",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/JOSH.jpg",
+            "publishedAt": "2020-02-13T14:44:05Z",
+            "content": "The United States still cannot trust China's reports on the\u00a0coronavirus (COVID-19)\u00a0epidemic,\u00a0MissouriRepublican Sen. Josh Hawley said Thursday.\r\nAppearing on \"Fox &amp; Friends,\"\u00a0Hawley said that he was briefed twice Wednesday by\u00a0Health and Human Services\u00a0(HH\u2026 [+1710 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Princess Cruises offers crew on coronavirus-quarantined ship 2 months of paid vacation as cases continue to rise",
+            "description": "They\u2019re definitely going to need a vacation after this vacation.",
+            "url": "https://www.foxnews.com/travel/princess-cruises-crew-coronavirus-ship-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20043370808929.jpg",
+            "publishedAt": "2020-02-13T14:37:37Z",
+            "content": "They\u2019re definitely going to need a vacation after this vacation.\r\nPrincess Cruises has promised to compensate crew members currently quarantined on the Diamond Princess ship with two months of paid vacation, as the number of cases of COVID-19\u00a0continues to ris\u2026 [+3475 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Japan confirms 44 new coronavirus cases on Diamond Princess, share plans for guest disembarkation",
+            "description": "The number of infected passengers totalled 2018 as of Wednesday.",
+            "url": "https://www.foxnews.com/health/44-new-coronavirus-cases-diamond-princess-passengers-guest-disembarkation",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/753a1da9-2523-4118-9a82-6eeafec0cff9/c8bcdbb4-bf6a-4d9f-b46c-2ed031b7ebee/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T14:10:07Z",
+            "content": "Japanese health officials, along with Princess Cruises, have announced an additional 44 positive cases of the COVID-19 \u2014 previously known as the novel coronavirus \u2014 among passengers aboard the quarantined Diamond Princess cruise ship docked in Yokohama.\r\nThe \u2026 [+1943 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "United Airlines extends flight suspensions to China, 'will continue to monitor' coronavirus situation",
+            "description": "Suspensions are now extended through April 24.",
+            "url": "https://www.foxnews.com/travel/united-airlines-extends-flight-suspensions-china-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/4c305725-UnitedAirlinesIstock22.jpg",
+            "publishedAt": "2020-02-13T13:43:18Z",
+            "content": "United Airlines is following the lead of fellow U.S. carriers Delta and American Airlines in suspending service to China through April amid the ongoing outbreak of COVID-19, formerly known as the novel coronavirus.\r\nPrior to Wednesday\u2019s update, United Airline\u2026 [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Tokyo, IOC officials reiterate that the Olympics are on",
+            "description": "Tokyo Olympic organizers reiterated their message on Thursday at the start of two days of meetings with the International Olympic Committee: The 2020 Games will not be waylaid by the virus that is spreading from neighboring China.",
+            "url": "https://www.foxnews.com/sports/tokyo-ioc-officials-reiterate-that-the-olympics-are-on",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Japan-Coronavirus.jpg",
+            "publishedAt": "2020-02-13T11:52:19Z",
+            "content": "Tokyo Olympic organizers reiterated their message on Thursday at the start of two days of meetings with the International Olympic Committee: The 2020 Games will not be waylaid by the virus that is spreading from neighboring China.\r\n\u201cI would like to make it cl\u2026 [+2659 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "California man arrested, wore Spider-Man mask during multiple robberies: cops",
+            "description": "A California man was arrested on Monday in connection with a number of commercial burglaries he allegedly committed while wearing a Spider-Man mask, according to the Los Banos Police Department.",
+            "url": "https://www.foxnews.com/us/california-man-arrested-allegedly-wore-spider-man-mask-during-multiple-robberies-police-say",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/84050216_2425893397515250_9032892526494744576_n.jpg",
+            "publishedAt": "2020-02-13T11:14:25Z",
+            "content": "A California man was arrested on Monday in connection with a number of commercial burglaries police say he\u00a0committed while wearing a Spider-Man mask, according to police.\r\nDetectives served a warrant\u00a0at the apartment of Lawrence Cecil Smith III, 37, on Feb 10\u2026 [+1137 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Roger Stone jury foreperson's anti-Trump views surface, raising new questions about his trial and conviction",
+            "description": "",
+            "url": "https://www.foxnews.com/us/roger-stone-jury-forepersons-anti-trump-views-surface-raising-new-questions-about-his-trial-and-conviction",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/RogerStone021320.jpg",
+            "publishedAt": "2020-02-13T09:36:37Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your Wednesday ...\r\nRoger Stone jury foreperson's anti-Trump social media posts surface, other jurors scrutinized, as Dems call for Barr's resignationNewly revealed anti-Tru\u2026 [+4379 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Edmund DeMarche",
+            "title": "China sees 15K new coronavirus cases, change in counting procedure: report",
+            "description": "The number of new coronavirus cases in China surged Thursday after 14,840 people were diagnosed with the disease that has already claimed 1,300 lives worldwide.",
+            "url": "https://www.foxnews.com/health/china-sees-15k-new-coronavirus-cases-patients-counted-with-new-method-report",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d555488f-2eab-400b-a5cb-a31487a5b503/9e4e3797-bf7b-460d-ad71-857a4d2bde84/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-13T07:59:48Z",
+            "content": "The number of new coronavirus cases in China surged Thursday after 14,840 people were diagnosed with the disease that has already claimed 1,300 lives worldwide.\r\nThe jump in cases comes after reports out of the country indicated that the virus may have levele\u2026 [+1419 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Men appear to be more vulnerable to the coronavirus: report",
+            "description": "Scientists believe that males are more vulnerable to the coronavirus because they may have a weaker immune response to the disease, according to a column by Financial Times science writer Anjana Ahuja on Monday.",
+            "url": "https://www.foxnews.com/health/men-more-vulnerable-coronavirus-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20044110764329.jpg",
+            "publishedAt": "2020-02-13T06:54:39Z",
+            "content": "Scientists believe that males could be more\u00a0vulnerable to the coronavirus because they may have a weaker immune response to the disease, according to a column by Financial Times.\r\nThe virus has killed roughly 1,300\u00a0people and infected over\u00a048,000 worldwide as\u2026 [+2470 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "2nd coronavirus case confirmed in quarantined San Diego patient, 14th overall in US",
+            "description": "The Centers for Disease Control and Prevention (CDC) confirmed another case of the novel Coronavirus (COVID-19) in the United States on Wednesday, bringing the U.S. total to 14.",
+            "url": "https://www.foxnews.com/health/coronavirus-case-confirmed-in-us-quarantined-flight-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20035691312932.jpg",
+            "publishedAt": "2020-02-13T02:33:51Z",
+            "content": "The Centers for Disease Control and Prevention (CDC) confirmed another case of the novel coronavirus\u00a0(COVID-19) in the United States\u00a0on Wednesday, bringing the country's\u00a0total to 14.\r\nThe patient was discovered in San Diego, Calif.,\u00a0at the Marine Corps Air St\u2026 [+2139 chars]"
+        }
+    ]
+}

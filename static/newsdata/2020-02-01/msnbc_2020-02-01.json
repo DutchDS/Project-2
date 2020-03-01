@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "First case of coronavirus confirmed in Massachusetts; 8th in the U.S.",
+            "description": "The US has its 8th confirmed case of the coronavirus in Massachusetts. A public health emergency has been declared.\n\nNBC News' Sarah Harman reports from Riverside, California, where almost 200 American citizens are being quarantined after arriving from Wuhan,\u2026",
+            "url": "https://www.msnbc.com/david-gura/watch/first-case-of-coronavirus-confirmed-in-massachusetts-8th-in-the-u-s-77957189628",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_gura_coronavirus_200201_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-01T19:15:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Inside the coronavirus public health emergency",
+            "description": "MSNBC's Ali Velshi and a panel of guests discuss the trade, health, and disinformation risks associated with the coronavirus outbreak.",
+            "url": "https://www.msnbc.com/ali-velshi/watch/inside-the-coronavirus-public-health-emergency-77957189534",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_velshi_coronavirus_200201_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-01T19:07:20Z",
+            "content": null
+        }
+    ]
+}
