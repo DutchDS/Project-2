@@ -261,11 +261,14 @@ function renderNewsBanner(dateStr, newsSourceId) {
 // =============================================
 // listeners for date or news source selector change event
 function addListeners() {
-  d3.select("#corona-date").on("change", function() {
+  const slider_input = document.querySelector('input');
+  const newsDateSelect = d3.select("#corona-date");
+  const newsSrcSelect = d3.select("#news_source");
+
+  newsDateSelect.on("change", function() {
     newsDate = this.value
-    newsSrc = d3.select('#news_source').property('value');
+    newsSrc = newsSrcSelect.property('value');
     
-    var selector = d3.select('#corona-date');
     // console.log("#corona-date selector value change, this.value: ", this.value);
     // // console.log("#corona-date selector value change, node.value: ", d3.select('#corona-date').node.value);
     // console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
@@ -274,9 +277,9 @@ function addListeners() {
     renderNewsForDate(newsDate, newsSrc);
   });
   
-  d3.select("#news_source").on("change", function() {
+  newsSrcSelect.on("change", function() {
     newsSrc = this.value
-    newsDate = d3.select('#corona-date').property('value')
+    newsDate = newsDateSelect.property('value')
   
     // console.log("#news_source selector value change, this.value: ", this.value);
     // // console.log("#news_source selector value change, node.value: ", d3.select('#news_source').node.value);
@@ -285,6 +288,23 @@ function addListeners() {
     renderNewsBanner(newsDate, newsSrc);
     renderNewsForDate(newsDate, newsSrc);
   });
+
+  slider_input.addEventListener('input', function () {  
+    console.log("slider event listner value:", this.value);
+    console.log("slider day_one", day_one);
+    console.log("slider_day", slider_day);
+
+    mySliderDate = moment(day_one,"DD/MM/YYYY")
+      .add((this.value-1),'day')
+      .format("YYYY-MM-DD");  
+
+    console.log("mySliderDate", mySliderDate);
+    
+    newsDateSelect
+      .property('value', mySliderDate)
+      .dispatch('change');
+
+  }, false);
 }
 
 // =============================================
@@ -301,12 +321,13 @@ function initializeNewsTable() {
   addListeners();
 
   newsSrcPromise.then(function(newsSrcs) {
-  // Set the corona date in newstable selector
-    d3.select('#corona-date').property('value', initialDate);
-  // Set the news source in newstable selector
-    d3.select('#news_source').property('value', initialSrc);
-  // trigger change event so on("change") listener will react
-    d3.select('#news_source').dispatch('change');
+
+    d3.select('#corona-date')
+      .property('value', initialDate);  // Set the date in newstable selector
+  
+    d3.select('#news_source')
+      .property('value', initialSrc)   // Set the news source in newstable selector
+      .dispatch('change');     // trigger change event so on("change") listener will react
   });
 
   // renderNewsBanner(initialDate, initialSrc);
@@ -314,3 +335,4 @@ function initializeNewsTable() {
 } 
 
 initializeNewsTable();
+
