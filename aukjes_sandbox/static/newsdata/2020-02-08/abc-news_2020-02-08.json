@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "5 Britons with virus hospitalized in France after Alps stay",
+            "description": "Five people from Britain, including one child, are hospitalized in France with the new virus from China",
+            "url": "https://abcnews.go.com/International/wireStory/britons-virus-hospitalized-france-alps-stay-68844926",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_b38eebe8be8a4d52875819ad24d6a5aa_16x9_992.jpg",
+            "publishedAt": "2020-02-08T12:18:47Z",
+            "content": "Five people from Britain, including one child, are hospitalized in France with the new virus from China after contracting it during a holiday in the Alps.\r\nSaturday's announcement by the French health minister is the latest example of how the tentacles of the\u2026 [+1607 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: American dies of virus in China",
+            "description": "The U.S. Embassy in Beijing says a 60-year-old American citizen diagnosed with the new virus died in Wuhan, apparently the first American fatality of the outbreak",
+            "url": "https://abcnews.go.com/International/wireStory/latest-american-dies-virus-china-68844538",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_a981324f391a4c19b390b8f9d17a77cd_16x9_992.jpg",
+            "publishedAt": "2020-02-08T10:13:01Z",
+            "content": "BEIJING -- \r\nThe Latest on a virus outbreak that began in China (all times local):\r\n1:30 p.m.\r\nThe U.S. Embassy in Beijing says a 60-year-old American citizen diagnosed with the new virus died in Wuhan, apparently the first American fatality of the outbreak.\r\u2026 [+546 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAKE KANG, NOEL SICHALWE and CARA ANNA Associated Press",
+            "title": "'We're definitely not prepared': Africa braces for new virus",
+            "description": "The new virus that has spread across China has yet to be confirmed in Africa, but some health workers on the ground warn they are not ready to handle an outbreak",
+            "url": "https://abcnews.go.com/International/wireStory/prepared-africa-braces-virus-68844055",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-08T07:41:05Z",
+            "content": "LUSAKA, Zambia -- \r\nAt a Chinese-run hospital in Zambia, some employees watched as people who recently returned from China showed up with coughs but were not placed in isolation. A doctor tending to those patients has stopped coming to work, and health worker\u2026 [+8278 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 34,800 people globally",
+            "description": "A viral outbreak that began in China has infected more than 34,800 people worldwide",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-34800-people-globally-68843997",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ac3c3c5d11d14315a0ce2a2662ed4f7d_16x9_992.jpg",
+            "publishedAt": "2020-02-08T06:44:47Z",
+            "content": "A viral outbreak that began in China has infected more than 34,800 people globally. \r\nThe latest figures reported by global health authorities as of Saturday in Beijing:\r\nChina: 722 deaths and 34,546 confirmed cases on the mainland. In addition, Hong Kong has\u2026 [+572 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "China virus death toll rises to 722 with 31,774 cases",
+            "description": "The death toll in the viral outbreak in mainland China has risen to 722, while new cases jumped to 31,774, reversing declines over previous days",
+            "url": "https://abcnews.go.com/Health/wireStory/china-virus-death-toll-rises-722-31774-cases-68835963",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-08T00:52:48Z",
+            "content": "BEIJING -- \r\nThe death toll in the viral outbreak in mainland China has risen to 722, while new cases jumped to 31,774, reversing declines over previous days. \r\nChina's ruling Communist Party faced public anger and recrimination over the death of a doctor who\u2026 [+446 chars]"
+        }
+    ]
+}

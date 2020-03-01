@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "How coronavirus panic is making virus containment more difficult",
+            "description": "People are hoarding medical equipment, creating shortages, and making it challenging for health professionals to get the face masks and gloves they need for their work.",
+            "url": "https://fortune.com/2020/02/07/coronavirus-masks-medical-supply-chain/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Coronavirus-mask-medical-supply-chain-e1581118832417.jpg?resize=1200,600",
+            "publishedAt": "2020-02-07T23:47:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Verne Kopytoff",
+            "title": "Apple extends store closures in China over coronavirus",
+            "description": "Apple is extending its retail store closures in China by a few days as the coronavirus continues to spread, potentially crimping sales in a critical region for longer than expected.",
+            "url": "https://fortune.com/2020/02/07/apple-extends-store-closures-china-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198749258.jpg?resize=1200,600",
+            "publishedAt": "2020-02-07T21:20:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "Coronavirus fears spread to European conferences",
+            "description": "As Ericsson and LG withdraw from major European tech conferences, events industry organizers warn of negative effects from coronavirus rumors.",
+            "url": "https://fortune.com/2020/02/07/coronavirus-mwc-ericsson-lg-europe/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1128093220.jpg?resize=1200,600",
+            "publishedAt": "2020-02-07T16:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "Whistleblower doctor\u2019s death stirs an online rebellion against China\u2019s coronavirus response",
+            "description": "The doctor-turned-whistleblower died from the virus he was punished for warning about.",
+            "url": "https://fortune.com/2020/02/07/li-wenliang-doctor-coronavirus-death-censorship/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199131214.jpg?resize=1200,600",
+            "publishedAt": "2020-02-07T12:44:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "China\u2019s dream of overtaking Hollywood this year has been shattered by the coronavirus",
+            "description": "The coronavirus has clobbered the burgeoning Hollywood rival, virtually wiping out ticket sales during the recent seven-day Lunar New Year holiday.",
+            "url": "https://fortune.com/2020/02/07/china-hollywood-movie-market-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1204042617.jpg?resize=1200,600",
+            "publishedAt": "2020-02-07T12:17:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alan Murray",
+            "title": "No time for optimism",
+            "description": "The U.S. stock market seems to be underestimating the impact of the coronavirus outbreak.",
+            "url": "https://fortune.com/2020/02/07/coronavirus-markets-over-optimistic-ceo-daily/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199132689.jpg?resize=1200,600",
+            "publishedAt": "2020-02-07T10:11:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Closed attractions, shut restaurants, and a \u2018ban\u2019 on hugs: How Disney parks are dealing with the coronavirus",
+            "description": "The business is vulnerable to the economic toll of the virus, which is at risk of spreading in big crowds.",
+            "url": "https://fortune.com/2020/02/07/disneyland-coronavirus-closed-hugs/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198466439.jpg?resize=1200,600",
+            "publishedAt": "2020-02-07T09:14:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "New coronavirus cases make Princess cruise ship the largest infection center outside China",
+            "description": "There are roughly 3,700 passengers onboard.",
+            "url": "https://fortune.com/2020/02/07/coronavirus-cruise-ship-japan-2/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-07T05:08:08Z",
+            "content": null
+        }
+    ]
+}

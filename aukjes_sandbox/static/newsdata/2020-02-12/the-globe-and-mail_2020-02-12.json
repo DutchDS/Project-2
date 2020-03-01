@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Prak Chan Thul",
+            "title": "Cruise ship stranded by coronavirus fears to dock in Cambodia - The Globe and Mail",
+            "description": "Cruise ship stranded by coronavirus fears to dock in Cambodia The Globe and Mail Coronavirus outbreak: Westerdam cruise ship allowed to dock in Cambodia Global News Coronavirus: 'Pariah' cruise ship rejected by five ports docks at last BBC News Ottawa couple \u2026",
+            "url": "https://www.theglobeandmail.com/world/article-cruise-ship-stranded-by-coronavirus-fears-to-dock-in-cambodia/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/4KS6tIj5jKS7vs8XLx4oqw9bh_4=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/GKZJYI3NGFCURK37OYKRQWGPBY.jpg",
+            "publishedAt": "2020-02-12T12:50:32Z",
+            "content": "The Westerdam cruise ship sits docked at the port in Sihanoukville on Cambodia's southern coast on Feb. 13, 2020.\r\nTANG CHHIN SOTHY/AFP/Getty Images\r\nA cruise ship which spent two weeks at sea after being turned away by five countries over fears that someone \u2026 [+3884 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Ryan Woo, John Geddie",
+            "title": "China reports smaller number of new coronavirus cases, but fears of further spread remain - The Globe and Mail",
+            "description": "China reports smaller number of new coronavirus cases, but fears of further spread remain The Globe and Mail Four people with coronavirus in B.C. getting better, health officer Vancouver Sun Coronavirus Has a Name: The Deadly Disease Is Covid-19 WIRED Everyda\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-china-reports-smaller-number-of-new-coronavirus-cases-but-experts/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/Edeg2xxX9vQgMebitLMEFyFIuA8=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/4UFBM76I4VFXZDUVHUUOC6NATY.JPG",
+            "publishedAt": "2020-02-12T12:30:44Z",
+            "content": "Zhong Nanshan, head of the National Health Commission team investigating the coronavirus outbreak, speaks in Guangzhou, China, on Feb. 11, 2020.\r\nTHOMAS SUEN/Reuters\r\nChina reported on Wednesday its lowest number of new coronavirus cases in two weeks, bolster\u2026 [+5037 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "The close: Tech, energy stocks push TSX higher - The Globe and Mail",
+            "description": "The close: Tech, energy stocks push TSX higher The Globe and Mail Stock market live Thursday: Dow record, Charlie Munger on Tesla, Apple jumps CNBC Stocks - US Futures Lower; Sentiment Slips as Virus Cases Soar Investing.com Solid earnings send stock indexes \u2026",
+            "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-investors-shift-back-into-stocks-on-signs-coronavirus/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/YhqvC1pRZoXKu3BZwvIwjsuNpE8=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/ZJHTU4UKQBAVFBZUHIHOWDCB3A.jpg",
+            "publishedAt": "2020-02-12T09:58:02Z",
+            "content": "Global equity markets scaled fresh highs on Wednesday after China reported the lowest number of new coronavirus cases in two weeks, boosting hopes the epidemic will be contained and driving up the price of commodities sensitive to Chinese demand.\r\nChina confi\u2026 [+4482 chars]"
+        }
+    ]
+}

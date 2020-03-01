@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "American evacuated from Wuhan documents journey home",
+            "description": "Yu Lin Yin of Minneapolis, Minn., was visiting family in Wuhan, China, when the coronavirus began to spread. After uncertainty about when he could return home, he got a seat on an unmarked cargo plane. Yin documented his journey home to a quarantine base in S\u2026",
+            "url": "https://www.nbcnews.com/video/american-evacuated-from-wuhan-documents-journey-home-78346309635",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/f_tov_virus_yin_200207.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T23:54:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Americans returning from Wuhan, China quarantined at military facilities",
+            "description": "A handful of the hundreds of Americans quarantined have developed symptoms of the coronavirus or are being monitored after exposure in China. A cruise ship returned to New Jersey where more than two dozen Chinese nationals were pulled aside to be tested.",
+            "url": "https://www.nbcnews.com/nightly-news/video/americans-returning-from-wuhan-china-quarantined-at-military-facilities-78344261741",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mal_coronavirus_200207_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T23:41:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Report offers insights into why early coronavirus cases may have been missed",
+            "description": "Who's most at risk for the coronavirus? A report from a hospital in China gives details on 138 patients. The sickest patients tend to be older adults and people with underlying health conditions.",
+            "url": "https://www.nbcnews.com/health/health-news/report-offers-insights-why-early-coronavirus-cases-may-have-been-n1131986",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3220881/200207-coronavirus-makeshift-hospital-ew-1115a_fc6b0a71052295da8b0479c0b35c87ad.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T20:47:00Z",
+            "content": "A highly anticipated report published Friday offers insights into how the new coronavirus affects patients.\r\nThe report, published in the Journal of the American Medical Association or JAMA, details the cases of 138 patients with the virus in Wuhan, China, th\u2026 [+3160 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Vivian Manning-Schaffel",
+            "title": "Why the coronavirus is the perfect opportunity to teach your kids about media literacy",
+            "description": "Think of the coronavirus as an opportunity to work with your kid on building news and media literacy skills to separate fact from fiction.",
+            "url": "https://www.nbcnews.com/better/lifestyle/how-talk-your-kids-about-coronavirus-ease-their-fears-ncna1129851",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3215986/200204-coronavirus-al-1553_cf9386f082814f553b219e8b96738207.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T14:58:00Z",
+            "content": "Coronavirus has been officially declared a public health emergency by the World Health Organization its now spread to 18 countries and shows no sign of slowing down. Whenever an epidemic like this makes headlines, its easy for kids (and grown-ups) to glom ont\u2026 [+7559 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Molly Hunter, Saphora Smith, Yuka Tachibana, Daisy Tennant-Thomas, Arata Yamamoto",
+            "title": "Eight Americans diagnosed with coronavirus on cruise ship off Japan",
+            "description": "Princess Cruises, which owns the quarantined ship, announced 41 new cases of the virus on board the vessel on Friday, of which eight were Americans.",
+            "url": "https://www.nbcnews.com/news/world/eight-americans-diagnosed-coronavirus-cruise-ship-japan-n1132251",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_06/3220291/200207-yokohama-corona-virus-mc-1143_a31b3208eed64eb04c7ed7634917cc91.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-07T13:43:00Z",
+            "content": "HONG KONG Eight more Americans from a quarantined cruise ship off Japan have been confirmed to have new coronavirus, bringing the total number of U.S. citizens diagnosed on the liner to 11, the operator said on Friday.\r\nOne of them, Rebecca Frasure from Orego\u2026 [+3547 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lucy Bayly",
+            "title": "Economy added 225,000 jobs in January, marking a robust start to 2020",
+            "description": "The labor market data was gathered prior to any global impact from the coronavirus, though the effects of that outbreak are likely to be reflected in next month\u2019s February numbers.",
+            "url": "https://www.nbcnews.com/business/economy/economy-added-225-000-jobs-january-marking-robust-start-2020-n1132281",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3220456/200207-china-shipping-al-0814_dbb82fbdb58eaa39271323a4a8242f4d.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T13:35:57Z",
+            "content": "The economy added a robust 225,000 jobs during the month of January, a blockbuster start to 2020 in a week that saw global disruption from the fast-spreading coronavirus, an impeachment trial for President Donald Trump, and a State of the Union address that f\u2026 [+871 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elisha Fieldstadt, Brian Thompson",
+            "title": "Coronavirus screening for 27 Royal Caribbean cruise passengers in N.J., 4 taken to hospitals",
+            "description": "Twenty-seven Chinese nationals aboard a Royal Caribbean cruise that docked in Bayonne, New Jersey, were screened for coronavirus. Four were taken to a hospital.",
+            "url": "https://www.nbcnews.com/health/health-news/royal-caribbean-cruise-passengers-n-j-screened-coronavirus-4-taken-n1132266",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3220341/200207-anthem-of-the-seas-al-0721_6f78d253a12229bb87b9c656af1a1bd0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T13:04:00Z",
+            "content": "More than two dozen Chinese nationals aboard a Royal Caribbean cruise that docked in New Jersey on Friday morning were screened for coronavirus, and four were taken to a nearby hospital, according to officials.\r\nRoyal Caribbean's Anthem of the Seas cruise thr\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "China to investigate death of doctor who blew whistle on Coronavirus",
+            "description": "Since his death, Li has become a hero in China and was the subject of more than two million posts on social media.",
+            "url": "https://www.nbcnews.com/news/world/china-investigate-death-doctor-who-blew-whistle-coronavirus-n1132171",
+            "urlToImage": "https://static.euronews.com/articles/4487398/1000x563_nbc-200207-corona-virus-mc-913_94cfb8f373af143b5fa20536e3752464.jpg",
+            "publishedAt": "2020-02-07T12:06:00Z",
+            "content": "Chinese authorities said they were investigating the death of Dr. Li Wenliang, who died from novel coronavirus early Friday and had been warned by police for raising concerns in the early stages of the outbreak.The Central Commission for Discipline Inspection\u2026 [+2862 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Wuhan doctor who warned of coronavirus mourned after he dies from it",
+            "description": "Dr. Li Wenliang issued an early warning about the coronavirus outbreak before it was officially recognized. He died of the virus on Feb. 7, triggering a wave of public mourning.",
+            "url": "https://www.nbcnews.com/video/dr-li-wenliang-dies-after-having-warned-of-coronavirus-threat-78300229842",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/Wuhan_Doctor.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T11:54:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Coronavirus updates: 8 more Americans diagnosed on cruise ship as death toll hits 638",
+            "description": "As  confirmed cases reach more than 31,000 in mainland China, here is the latest you need to know.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-8-more-americans-diagnosed-cruise-ship-death-toll-n1132136",
+            "urlToImage": "https://static.euronews.com/articles/4487040/1000x563_nbc-200207-coronavirus-ship-mc-850_722c34096d32e1c8319fe3101dd4fea3.jpg",
+            "publishedAt": "2020-02-07T09:17:00Z",
+            "content": "\u2022 Global death toll rises to at least 638 as confirmed cases reach more than 31,000 in mainland China\u2022 8 Americans diagnosed with virus on cruise ship quarantined in Japan\u2022 Chinese commission sends investigators after death of doctor punished after raising al\u2026 [+4422 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": null,
+            "description": "A chaotic caucus in Iowa, a sizzling Super Bowl halftime show, Pelosi's State of the Union moment and more.",
+            "url": "https://www.nbcnews.com/slideshow/week-pictures-jan-30-feb-6-n1131966",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_06/3219486/ss-200206-twip-05_cf1da735eb75ae3ea86c414e0c1a4253.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-07T00:06:00Z",
+            "content": "A man crosses an empty highway in Wuhan, China,\u00a0on Feb. 3.\r\nThe number of people infected globally with the coronavirus rose to more than 28,200 and the death toll climbed past 560, with the overwhelming majority of cases in China, WHO said in its media brief\u2026 [+12 chars]"
+        }
+    ]
+}

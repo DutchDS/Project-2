@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "mjohnson@thehill.com (Marty Johnson)",
+            "title": "Health officials worried by untraceable coronavirus cases outside China",
+            "description": "World Health Organization (WHO) officials are worried about further spread of the coronavirus as untraceable cases pop up outside mainland China, where the outbreak originated.The inability to identify the first patient in mini-outbreaks outside...",
+            "url": "https://thehill.com/policy/healthcare/public-global-health/484215-health-officials-worried-by-untraceable-coronavirus-cases-outside-china",
+            "urlToImage": "https://thehill.com/sites/default/files/coronavirus_013120getty_socialmedia.jpg",
+            "publishedAt": "2020-02-22T23:10:10Z",
+            "content": "World Health Organization (WHO) officials are worried about further spread of the coronavirus as untraceable cases pop up outside mainland China, where the outbreak originated.\r\nThe inability to identify the first patient in mini-outbreaks outside China has o\u2026 [+1215 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Kaelan Deese",
+            "title": "Tucker Carlson calls out Mick Mulvaney on immigration remarks: 'Dishonest and stupid'",
+            "description": "Fox News' host Tucker Carlson chided acting White House chief of staff Mick Mulvaney over a statement he made this week that seemed to be in conflict with President Trump's immigration p...",
+            "url": "https://thehill.com/homenews/media/484207-tucker-carlson-calls-out-mick-mulvaney",
+            "urlToImage": "https://thehill.com/sites/default/files/gettyimages-1202407186_1.jpg",
+            "publishedAt": "2020-02-22T21:18:50Z",
+            "content": "Fox News' host Tucker CarlsonTucker CarlsonTrump punts on Stone pardon decision after sentencingMeghan McCain after Gaetz says Trump should pardon Roger Stone: 'Oh come on'Fox News legal analyst: Only a pardon can 'fairly undo' Roger Stone 'mess'MORE\u00a0chided a\u2026 [+2192 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Tal Axelrod",
+            "title": "Sunday shows preview: 2020 candidates look to South Carolina",
+            "description": "South Carolina's primary is expected to dominate Sunday talk shows as White House hopefuls and lawmakers hit the morning show circuit.The Palmetto State will transform into the heart of the 2020 primary cycle after...",
+            "url": "https://thehill.com/homenews/sunday-talk-shows/484206-sunday-shows-preview-2020-candidates-look-to-south-carolina",
+            "urlToImage": "https://thehill.com/sites/default/files/sandersbernie_022120getty_caucuses.jpg",
+            "publishedAt": "2020-02-22T21:06:52Z",
+            "content": "South Carolinas primary is expected to dominate Sunday talk shows as White House\u00a0hopefuls and lawmakers hit the morning show circuit.\r\nThe Palmetto State will transform into the heart of the 2020 primary cycle after the conclusion of Nevadas caucuses Saturday\u2026 [+3494 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Marty Johnson",
+            "title": "Parts of northern Italy locked down amid coronavirus fears",
+            "description": "A dozen towns in northern Italy were put on lockdown Saturday after two people in the region died from the coronavirus.The shutdown occurred after a woman in the Lombardy region and an elderly man in the Veneto reg...",
+            "url": "https://thehill.com/policy/healthcare/public-global-health/484203-parts-of-northern-italy-locked-down-amid-fears-of",
+            "urlToImage": "https://thehill.com/sites/default/files/ca_coronavirus12us_020520getty_2.jpg",
+            "publishedAt": "2020-02-22T20:28:04Z",
+            "content": "A dozen towns in northern Italy were put on lockdown Saturday after two people in the region died from the coronavirus.\r\nThe shutdown occurred after a woman in the Lombardy region and an elderly man in the Veneto region died within hours of each other, USA To\u2026 [+849 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Maggie Miller",
+            "title": "Russian interference reports rock Capitol Hill",
+            "description": "Reports this week that Russia is attempting to interfere in the 2020 race sent congressional Democrats reeling, with many lashing out at Republicans and blaming President Trump.The New York Times reported Thursday...",
+            "url": "https://thehill.com/policy/national-security/484156-russian-interference-reports-rock-capitol-hill",
+            "urlToImage": "https://thehill.com/sites/default/files/kremlin_031618upi3_lead.jpg",
+            "publishedAt": "2020-02-22T17:18:44Z",
+            "content": "Reports this week that Russia is attempting to interfere in the 2020 race sent congressional Democrats reeling, with many lashing out at Republicans and blaming President TrumpDonald John TrumpComey responds to Trump with Mariah Carey gif: 'Why are you so obs\u2026 [+8818 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Kaelan Deese",
+            "title": "Diamond Princess scheduled to set sail again in April after Coronavirus quarantine",
+            "description": "The Diamond Princess, the quarantined cruise ship docked in Japan, will be dry-docked and deep cleaned before its next voyage scheduled for April.",
+            "url": "https://thehill.com/policy/healthcare/public-global-health/484189-coronavirus-cruise-ship-to-undergo-major-cleaning",
+            "urlToImage": "https://thehill.com/sites/default/files/diamondprincess_021520getty.jpg",
+            "publishedAt": "2020-02-22T16:47:32Z",
+            "content": "The Diamond Princess, the quarantined cruise ship docked in Japan, will be dry-docked and deep cleaned before its next\u00a0voyage\u00a0scheduled for April.\r\nThe ship's passengers and crew members have been quarantined for more than two weeks after\u00a0600-plus coronavirus\u2026 [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Tal Axelrod",
+            "title": "Trump furious after officials allowed Americans with coronavirus to fly home with other passengers: report",
+            "description": "President Trump grew enraged with senior advisers this week when 14 Americans who had tested positive for the coronavirus returned to the U.S. after he had been granted assurances that infected patients would be remain in...",
+            "url": "https://thehill.com/homenews/administration/484157-trump-furious-after-officials-allowed-americans-with-coronavirus-to",
+            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_espermark_100719getty.jpg",
+            "publishedAt": "2020-02-22T01:44:59Z",
+            "content": "President TrumpDonald John TrumpComey responds to Trump with Mariah Carey gif: 'Why are you so obsessed with me?'Congress to get election security briefing next month amid Intel dramaNew York man accused of making death threats against Schumer, SchiffMORE gre\u2026 [+2176 chars]"
+        }
+    ]
+}

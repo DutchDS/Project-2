@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Coronavirus catch-up: Latest news on the outbreak of the disease",
+            "description": "Cases soar in China, as U.S. infections increase.",
+            "url": "https://fortune.com/2020/02/13/coronavirus-latest-news-patient-count-death-toll/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200229440-1.jpg?resize=1200,600",
+            "publishedAt": "2020-02-13T18:06:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "\u2018Tip of the iceberg:\u2019 Why Covid-19 deaths will keep rising even as the coronavirus outbreak wanes",
+            "description": "Across China, more than 1,300 people have died from the virus and more than 59,000 have been infected, according to authorities.",
+            "url": "https://fortune.com/2020/02/13/covid-19-deaths-rising-coronavirus-outbreak/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200515269.jpg?resize=1200,600",
+            "publishedAt": "2020-02-13T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erika Fry",
+            "title": "In business vs. coronavirus, coronavirus is winning",
+            "description": "The global coronavirus outbreak could cost the global economy between $90 billion and $270 billion.",
+            "url": "https://fortune.com/2020/02/13/coronavirus-business-impact-supply-chains/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/OUT03.20.Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-02-13T11:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "\u2018Surpassing all previous outbreaks\u2019\u2014markets dip as the coronavirus toll worsens",
+            "description": "Economists are calculating anywhere from a 0.2 percentage-point drop to as much as 1% fall, the kind of downward revision that could be felt across the globe.",
+            "url": "https://fortune.com/2020/02/13/surpassing-all-previous-outbreaks-markets-dip-as-the-coronavirus-toll-worsens/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198896299.jpg?resize=1200,600",
+            "publishedAt": "2020-02-13T10:56:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Business\u2019s coronavirus conundrum: What\u2019s the best alternative to a handshake?",
+            "description": "Business leaders used to sealing deals with a handshake are scrambling for other options.",
+            "url": "https://fortune.com/2020/02/13/singapore-air-show-coronavirus-handshake/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-654564928.jpg?resize=1200,600",
+            "publishedAt": "2020-02-13T05:49:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Why coronavirus cases in one Chinese province surged 45% overnight",
+            "description": "The province alone now has nearly 50,000 infected patients.",
+            "url": "https://fortune.com/2020/02/12/coronavirus-cases-hubei-diagnosis-method/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200295058.jpg?resize=1200,600",
+            "publishedAt": "2020-02-13T03:39:43Z",
+            "content": null
+        }
+    ]
+}

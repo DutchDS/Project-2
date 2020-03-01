@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Number of coronavirus cases soars to over 40,000 in China",
+            "description": "Extreme measures are being taken to contain the virus, with disinfectant being sprayed on buildings and cars in Wuhan, and masks and anxiety becoming the new norm in Beijing.",
+            "url": "https://www.nbcnews.com/nightly-news/video/number-of-coronavirus-cases-soars-to-over-40-000-in-china-78508613733",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_jfr_coronavirus_200210_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T23:45:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "As some prepare to leave quarantine, workers on air force base face harassment",
+            "description": "Officials sent letters to residents of Riverside County on Monday, urging people to stop targeting base employees with \u201churtful\u201d statements online or in person.",
+            "url": "https://www.nbcnews.com/health/health-news/coronavirus-quarantine-some-americans-prepare-leave-workers-air-force-base-n1134336",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3208571/200130-wuhan-coronavirus-mc-8124_e9c10003b1e596e1b572f99f2058fa47.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-10T22:26:00Z",
+            "content": "As the first group of Americans evacuated from China prepares to leave quarantine at the March Air Reserve Base in California, those who work on the base have faced public harassment stemming from unnecessary fear of the coronavirus.\r\nOn Tuesday, the mandator\u2026 [+1776 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Martha C. White",
+            "title": "From idled car production to iPhone delays, China's factory closures mean pain for U.S. companies",
+            "description": "As the coronavirus continues to spread in China, manufacturing gridlock has America's corporate leaders scrambling to find alternative sources \u2014 but may not be fast enough to prevent a slowdown in their business.",
+            "url": "https://www.nbcnews.com/business/business-news/idled-car-production-iphone-delays-china-s-factory-closures-mean-n1133966",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3224131/200210-hyundai-us-manufacturing-plant-se-1136a_270aa6ff96e2fcab8d94012ccbb80574.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T17:17:11Z",
+            "content": "In an attempt to get the fast-spreading coronavirus epidemic under control, Chinese authorities in some parts of the country reportedly have told factories to remain shuttered for as long as three more weeks. The prospect of extended manufacturing gridlock ha\u2026 [+4936 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Wuhan city requisitions hotels, gyms in fight against coronavirus",
+            "description": "The Chinese city at the center of the international coronavirus emergency has mobilized 34,000 health workers to check on the health of its entire population.",
+            "url": "https://www.nbcnews.com/video/wuhan-city-uses-hotels-for-screening-monitoring-suspected-coronavirus-patients-78480965534",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/lon_wuhan_200210.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T15:26:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "Many miscarriages are still a mystery. A new test could give women faster answers.",
+            "description": "Fetal genetic testing can take weeks and costs thousands of dollars, leaving patients in limbo after a pregnancy loss. Dr. Zev Williams invented a new method of rapid genetic testing that will cost under $200.",
+            "url": "https://www.nbcnews.com/health/womens-health/many-miscarriages-are-still-mystery-new-test-could-give-women-n1131871",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3221086/200207-miscarriage-matters-genes-main-kh_ae07ed6095708d54e77519fcd43db3a7.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T13:36:00Z",
+            "content": "Sherisa Rivera and her husband, Will Rivera II, will never forget the first and only time they saw their babys heartbeat on an ultrasound. After two unexplained miscarriages, the flutter on the screen at Sherisas obstetricians office about seven weeks into he\u2026 [+10075 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rachel Elbaum and Stella Kim and Associated Press",
+            "title": "South Koreans celebrate big wins for 'Parasite' at the Oscars",
+            "description": "South Koreans celebrated \"Parasite\" and its success at the Academy Awards, as President Moon Jae-in started a staff meeting with a round of applause.",
+            "url": "https://www.nbcnews.com/news/world/south-koreans-celebrate-big-wins-parasite-oscars-n1133801",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_07/3223561/200210-parasite-south-korea-mc-10593_636a85b5b5b95f68b93e34ec15df1bd8.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-10T13:02:38Z",
+            "content": "South Korean President Moon Jae-in started his presidential staff meeting on Monday with a round of applause for the South Korean film Parasite, after its historic win at the Academy Awards.\r\nHe wasnt alone in expressing his pride in the film and its internat\u2026 [+2234 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Petra Cahill",
+            "title": "'Parasite' is triumphant, Brad Pitt slams GOP and Eminem's surprise performance: The Morning Rundown - NBCNews.com",
+            "description": "'Parasite' is triumphant, Brad Pitt slams GOP and Eminem's surprise performance: The Morning Rundown NBCNews.com Brad Pitt jabs GOP in Oscars acceptance speech, Joaquin Phoenix talks animal rights Fox News Brad Pitt Accepts the Oscar for Supporting Actor ABC \u2026",
+            "url": "https://www.nbcnews.com/news/morning-briefing/parasite-triumphant-brad-pitt-slams-gop-eminem-s-surprise-performance-n1133806",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3223476/200209-parasite-al-2335_1d31c9257f1218a39833ce77850d153a.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T12:51:00Z",
+            "content": "Good morning, NBC News readers.\r\n\"Parasite\" makes history at the Oscars, the gloves are off among the Democratic presidential hopefuls and mainland China reports over 40,000 cases of the coronavirus.\r\nHere's what we're watching this Monday morning.\r\n'Parasite\u2026 [+3961 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: 66 more cases on quarantined cruise ship",
+            "description": "As the number of deaths from the coronavirus outbreak reaches 908 in China, here is the latest you need to know.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-66-more-cases-quarantined-cruise-ship-japan-n1133786",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3223521/200210-cruise-coronavirus-mc-852_6dbe1666246f80a966fd50cdc22f9b64.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-10T10:48:00Z",
+            "content": "<ul><li>Deaths on mainland China rise to 908 as confirmed cases reach more than 40,000\r\n</li><li>U.K. calls coronavirus a \"serious\" health threat and will detain people\r\n</li><li>Virus uncertainty weighs on global shares\r\n</li><li>China says 27 foreigners inf\u2026 [+4030 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dawn Liu, Yuliya Talmazan",
+            "title": "Coronavirus: Volunteers rush to help pets trapped in locked-down Wuhan",
+            "description": "Volunteers in Wuhan say thousands of pets are potentially trapped inside homes in Wuhan after the city went into lockdown amid coronavirus epidemic.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-volunteers-rush-help-pets-trapped-locked-down-wuhan-n1131456",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_06/3218861/200206-chen-yi-pets-al-0918_913ad3384d4ef111808ccf7875c258c9.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T10:32:28Z",
+            "content": "They may have escaped Wuhan the Chinese city at the epicenter of the coronavirus epidemic but many left without their pets and almost two weeks on, they fear for their animals which have been left without food and water.\r\nThe city has been in a lockdown since\u2026 [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Nightly News Full Broadcast (February 9th)",
+            "description": "On the ground in New Hampshire ahead of Democratic primary, gunman ambushes New York City police in two attacks and coronavirus outbreak now more deadly than SARS outbreak.",
+            "url": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-february-9th-78456389532",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn-thumb.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T00:47:38Z",
+            "content": null
+        }
+    ]
+}

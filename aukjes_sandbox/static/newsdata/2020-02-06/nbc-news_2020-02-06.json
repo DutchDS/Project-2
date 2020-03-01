@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "More Americans evacuated from coronavirus epicenter in China",
+            "description": "Hundreds of Americans will soon arrive in Texas and Nebraska where they\u2019ll be quarantined for 14 days and checked every 12 hours for signs of the coronavirus. The death toll is climbing in China, with more than 400 killed \u2014 including the doctor who first warn\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/more-americans-evacuated-from-coronavirus-epicenter-in-china-78267461556",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mal_coronavirus_us_200205_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T23:40:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "What you should know about coronavirus",
+            "description": "Coronavirus is a fast-spreading virus that originated in China. The global death toll has reached over 500 people. NBC News\u2019 Dr. John Torres explains what the coronavirus is, its symptoms, and what precautions you should take.",
+            "url": "https://www.nbcnews.com/now/video/what-you-should-know-about-coronavirus-78261829596",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_torres_200206_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T22:12:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Leticia Miranda",
+            "title": "Amid bitter trade war with China, U.S. companies pledge millions of dollars in aid",
+            "description": "\u201cWhen there is a disaster in a place where they operate, they donate. Obviously they get positive publicity in China for these contributions. But it\u2019s not about the publicity; it\u2019s about doing the right thing,\u201d said one trade expert.",
+            "url": "https://www.nbcnews.com/business/business-news/amid-bitter-trade-war-china-u-s-companies-pledge-millions-n1131821",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3219106/200206-china-coronavirus-cs-1111a_cd2785913eb6f034f2a00849c3451dc7.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T20:07:59Z",
+            "content": "Despite a bitter and protracted trade war with China, U.S.-based multinational companies are pledging millions of dollars to support relief efforts during the coronavirus epidemic, with donations ranging from surgical masks and gowns to food and research for \u2026 [+4056 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "WHO pays tribute after death of Chinese doctor who warned of coronavirus",
+            "description": "The World Health Organization responds to the death of Dr. Li Wenliang, paying tributes to the doctors efforts to care for patients. Dr. Wenliang previously was reprimanded by police for pushing for coronavirus warnings in December, and recently contracted th\u2026",
+            "url": "https://www.nbcnews.com/video/who-pays-tribute-after-death-of-chinese-doctor-who-warned-of-coronavirus-78243909768",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/WHO_exec.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T18:26:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Henry Austin, Jane Weaver",
+            "title": "Doctor punished for coronavirus warnings dies from disease, WHO confirms",
+            "description": "Dr. Li Wenliang who was punished by police for online warnings about the coronavirus, has died from the illness, the World Health Organization confirmed.",
+            "url": "https://www.nbcnews.com/news/world/doctor-punished-coronavirus-warnings-dies-disease-who-confirms-n1131556",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png",
+            "publishedAt": "2020-02-06T15:59:00Z",
+            "content": "A prominent Chinese doctor who was punished by police when he tried to warn his fellow medics about the coronavirus has died from the disease, officials at the World Health Organization have confirmed.\r\nDr. Li Wenliang, 34, had posted information about the ou\u2026 [+1267 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus fears turn Beijing\u2019s busiest streets into a ghost town",
+            "description": "A Western journalist traveled from his Beijing home to a busy shopping mall during the Thursday morning rush hour \u2013 and encountered almost no one.",
+            "url": "https://www.nbcnews.com/video/coronavirus-fears-turns-beijing-into-a-ghost-town-78226501992",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/lon_beijingghost_200206.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T14:59:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Global death toll jumps to 565",
+            "description": "As global death toll from novel coronavirus reaches at least 565, here is the latest you need to know.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-latest-news-outbreak-global-response-n1131296",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3218526/1198895548_d6f0cb3dc66cafe5fc655e3dd998155b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T10:34:00Z",
+            "content": "Global death toll rises to at least 565 as confirmed cases reach more than 28,000 in mainland China\r\n 12th coronavirus case confirmed in U.S.\r\n 10 more cases found on cruise ship quarantined off Japan\r\n Taiwan bans all international cruise ships from docking\r\u2026 [+507 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tim Morrison",
+            "title": "Coronavirus tests U.S. medical system's unhealthy reliance on China for drugs, supplies",
+            "description": "Coronavirus from China highlight's U.S. medical system's unhealthy reliance on the Asian power for drugs and medical supplies.",
+            "url": "https://www.nbcnews.com/think/opinion/coronavirus-tests-u-s-medical-system-s-unhealthy-reliance-china-ncna1131211",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_06/3217631/200205-think-china-surgical-masks-se-202p_badd2884f214a1679635a11fa821c31e.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T09:34:59Z",
+            "content": "Chinese President Xi Jinping recently warned of the grave situation posed by the accelerating spread of the coronavirus in China. Xis frank warnings were unusual for the seniormost official of the Chinese Community Party and reveal the depth of the concern at\u2026 [+6247 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Americans arrive in U.S. from Wuhan, China amid coronavirus concerns",
+            "description": "Chartered cargo planes carrying Americans arrived at two secure military bases in California. The hundreds on board are now beginning a 14-day quarantine, and the CDC said two more flights will soon be heading to Texas and Nebraska.",
+            "url": "https://www.nbcnews.com/nightly-news/video/americans-arrive-in-u-s-from-wuhan-china-amid-coronavirus-concerns-78196805956",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mal_coronavirus_american_flights_200205_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-06T00:11:21Z",
+            "content": null
+        }
+    ]
+}

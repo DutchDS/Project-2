@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "dzanemorris",
+            "title": "MWC, the world\u2019s biggest mobile phone show, is cancelled over coronavirus fears",
+            "description": "The biggest mobile phone conference in the world was called off after major phone manufacturers backed out, fearing attendees would be at risk for coronavirus exposure.",
+            "url": "https://fortune.com/2020/02/12/mwc-cancelled-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200350923.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T21:07:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Isaac Feldberg",
+            "title": "\u2018Contagion\u2019 writer, scientific adviser reflect on film\u2019s newfound relevance amid coronavirus crisis",
+            "description": "Scribe Scott Z. Burns and researcher Larry Brilliant explain how they concocted the movie's virus and how fear distorts our response to outbreaks.",
+            "url": "https://fortune.com/2020/02/12/contagion-scott-z-burns-larry-brilliant-interview-coronavirus-fears/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/ENT02.10.Contagion-still.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T18:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adrian Croft",
+            "title": "Luxury goods mogul Bernard Arnault was briefly crowned \u2018world\u2019s richest man.\u2019 Then coronavirus struck",
+            "description": "\u201cLet\u2019s not panic, let\u2019s analyze the situation calmly,\" the LVMH CEO told analysts last month.",
+            "url": "https://fortune.com/2020/02/12/worlds-richest-man-coronavirus-impact-bernard-arnault/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197117569.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T17:15:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adrian Croft",
+            "title": "SARS battered the luxury goods sector in 2003. Why coronavirus could be worse. Far worse",
+            "description": "The Chinese consumer is a force in the $300 billion luxury goods market, accounting for 35% of the global market\u2014and most of its growth. It was just 2% at the time of the SARS epidemic.",
+            "url": "https://fortune.com/2020/02/12/sars-coronavirus-business-impact-luxury-goods/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198912454.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T17:00:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Carnival cruise ship rejected by 5 nations on coronavirus fears has finally found a port to dock in",
+            "description": "The liner will reach Sihanoukville, Cambodia, at 7:00 a.m. local time on Thursday, Holland America Line, the operator of the ship, said.",
+            "url": "https://fortune.com/2020/02/12/carnival-cruise-ship-rejected-coronavirus-fears-finds-port/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1138712977.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T12:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jeff",
+            "title": "My boss wants me to travel during the coronavirus. Do I have to go?",
+            "description": "The short answer, according to legal experts, is that workers can't cite the coronavirus outbreak as a reason not to carry out their ordinary duties\u2014including travel.",
+            "url": "https://fortune.com/2020/02/12/coronavirus-travel-work-trip-do-i-have-to-go/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1205233619.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "\u2018Jail, with the chance of being drowned\u2019\u2014more turmoil at sea for the virus-stricken cruise ship sector",
+            "description": "Travel and tourism are among the most vulnerable sectors to the coronavirus outbreak. That can be seen in precipitous fall of cruise-line stocks.",
+            "url": "https://fortune.com/2020/02/12/cruise-ship-sector-sinks-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198895027.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T10:38:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "How is China experiencing the coronavirus outbreak? Almost entirely online",
+            "description": "More so than in past outbreaks, the Internet is offering a lifeline to Chinese residents on lockdown.",
+            "url": "https://fortune.com/2020/02/12/china-coronavirus-experience/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199770718.jpg?resize=1200,600",
+            "publishedAt": "2020-02-12T09:49:44Z",
+            "content": null
+        }
+    ]
+}

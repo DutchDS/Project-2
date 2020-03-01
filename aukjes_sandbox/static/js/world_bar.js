@@ -1,6 +1,8 @@
 // var url = "/api/bar_china/file.json";
 var url = "/api/bar_world";
 var get_shape = d3.select("#selectShape");
+var get_date = $("#selectDate").text();
+console.log(get_date)
 
 function get_data(country) {d3.json(url).then(function(response) {
     console.log("in the d3.json NEW part")
@@ -11,7 +13,7 @@ function get_data(country) {d3.json(url).then(function(response) {
     var yesterday =  formatDate(today.setDate(today.getDate() - 1));
 
     for (var i in response) {
-        if (response[i].date == yesterday)
+        if (response[i].date == last_DB_date)
             shortShapes.push(response[i].country)
         }
 
@@ -71,7 +73,7 @@ console.log(y_trace1)
 var trace1 = {
     x: x_values,
     y: y_trace1,
-    name: "Confirmed",
+    name: "Sick",
     type: "bar",
     marker: {
         color: '#f7a1f3'
@@ -160,3 +162,4 @@ function formatDate(date) {
         country = inputValueShape
         console.log(country)
         get_data(country)});
+

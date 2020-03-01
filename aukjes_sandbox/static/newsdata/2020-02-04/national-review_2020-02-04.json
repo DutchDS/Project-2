@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans",
+            "title": "The Wuhan Doctor Who Was Punished for Warning of Coronavirus Outbreak Has Been Infected",
+            "description": "A doctor from Wuhan who was punished by authorities for warning classmates of the outbreak of the then-unknown coronavirus, is himself now infected with the virus.",
+            "url": "https://www.nationalreview.com/news/the-wuhan-doctor-who-was-punished-for-warning-of-coronavirus-outbreak-is-now-infected/",
+            "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/Wuhan-doc-scaled.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-04T17:30:52Z",
+            "content": null
+        }
+    ]
+}

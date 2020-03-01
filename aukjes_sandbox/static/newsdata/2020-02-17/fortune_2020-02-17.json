@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jaclyn Gallucci",
+            "title": "American cruise passengers quarantined at U.S. military bases",
+            "description": "More than 300 American cruise ship passengers, including 14 who tested positive for coronavirus, were being quarantined at military bases in California and Texas on Monday after arriving from Japan on charter flights overnight.",
+            "url": "https://fortune.com/2020/02/17/lackland-air-force-base-travis-coronavirus/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-17T23:58:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "\u2018A slower return to normal:\u2019 Apple expects to miss revenue targets due to China\u2019s coronavirus",
+            "description": "It's experiencing \"a slower return to normal\" as China tries to grapple with the crisis.",
+            "url": "https://fortune.com/2020/02/17/a-slower-return-to-normal-apple-expects-to-miss-revenue-targets-due-to-chinas-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198350268.jpg?resize=1200,600",
+            "publishedAt": "2020-02-17T23:35:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Brian O'Keefe",
+            "title": "Mapping a contagion: How the coronavirus may spread around the world",
+            "description": "How far and fast a virus spreads in today's world is less about physical distance and more about travel patterns of the humans carrying it.",
+            "url": "https://fortune.com/longform/how-coronavirus-spread-map/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/MAP03.20.Wuhan-airport.jpg?resize=1200,600",
+            "publishedAt": "2020-02-17T11:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Fears of a global coronavirus contagion rage as 3,000 cruise ship passengers return home",
+            "description": "Their worldwide transit is sparking concerns that the disease will spread far beyond its epicenter.",
+            "url": "https://fortune.com/2020/02/16/diamond-princess-cruise-ship-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200671942.jpg?resize=1200,600",
+            "publishedAt": "2020-02-17T03:08:44Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,500 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Cramer's week ahead: February could 'end with a nasty whimper'",
+            "description": "\"If [coronavirus news] remains as fluid ... or if it remains dynamic, get ready for February to end with a nasty whimper and a bear full of bang,\" CNBC's Jim Cramer says.",
+            "url": "https://www.cnbc.com/2020/02/21/cramer-week-ahead-coronavirus-will-color-everything.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403827-1582324748262gettyimages-1202230327.jpeg?v=1582324871",
+            "publishedAt": "2020-02-21T23:33:06Z",
+            "content": "CNBC's Jim Cramer said Friday that investors are worried about how the coronavirus epidemic in China could impact U.S. businesses and the market is feeling the impact as the novel virus continues to spread outside that country.\r\nThe Dow Jones Industrial plung\u2026 [+7111 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Seema Mody",
+            "title": "DuPont ramps up safety suit production as coronavirus causes shortages in China",
+            "description": "At DuPont's largest manufacturing facility in Richmond, Virginia, CNBC got an inside look at how the company is making changes to its operations to accommodate the rise in demand for protective suits.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-dupont-ramps-up-safety-suit-production-amid-china-shortage.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403833-1582325362632dupontfactory.jpg?v=1582325836",
+            "publishedAt": "2020-02-21T23:07:31Z",
+            "content": "Thousands of DuPont employees are working around the clock to increase production of protective garments that are in high demand by first responders and medical workers in high-impact regions like Wuhan, China.\r\nThe protective suits are used by health profess\u2026 [+2524 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Stephanie Landsman",
+            "title": "Coronavirus could spark a 20% tech pullback, investor Paul Meeks warns",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-could-spark-a-20percent-tech-pullback-investor-paul-meeks-warns.html",
+            "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+            "publishedAt": "2020-02-21T21:23:08Z",
+            "content": "he told CNBC's \"Trading Nation\" on Friday.\r\nDisclosures: Paul Meeks owns shares of Apple, Lam Research, Nvidia, Advanced Micro Devices, Micron and Applied Materials.\r\nDisclaimer"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Here's what happened to the stock market on Friday",
+            "description": "An uptick in coronavirus cases sent investors running away from stocks and loading up on bonds.",
+            "url": "https://www.cnbc.com/2020/02/21/what-happened-to-the-stock-market-friday-virus-fears-resurface-stocks-slide.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105608387-1543944315766gettyimages-1073967746.jpg?v=1582315149",
+            "publishedAt": "2020-02-21T20:08:45Z",
+            "content": "Traders work on the floor of the New York Stock Exchange.\r\nDow Jones Industrial Average drops 228 points\r\nThe Dow dropped 227.6 points, or 0.78%, to close at 28,992.41. The S&amp;P 500 dipped 1.05% to 3,337.75. The Nasdaq Composite pulled back 1.79% to 9,576.\u2026 [+1122 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Coronavirus fears spoiled a solid earnings season and will further dominate markets ahead",
+            "description": "The deluge of solid corporate results was largely overlooked by investors who are focusing on the spillover impact from the coronavirus on the U.S. corporations.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-fears-ruin-solid-earnings-season-and-cloud-growth-picture.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106237238-1573477205370rts2sbbh.jpg?v=1573477287",
+            "publishedAt": "2020-02-21T18:46:33Z",
+            "content": "Traders on the floor of the New York Stock Exchange.\r\nThe coronavirus outbreak ruined for investors what was a solid earnings reporting season and is casting a pall on forecasts for this quarter and the rest of this year. And now with most of the earnings sea\u2026 [+3673 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Coronavirus flight cancellations top 200,000, sending jet fuel prices to more than 2-year lows",
+            "description": "Airlines have canceled more than 200,000 flights because of the coronavirus, driving down demand for jet fuel.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-flight-cancellations-top-200000-sending-jet-fuel-lower.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403084-1582300317856rts32vdd.jpg?v=1582300414",
+            "publishedAt": "2020-02-21T18:36:45Z",
+            "content": "Airlines have canceled more than 200,000 flights as the coronavirus continues to spread, prompting travel restrictions and a sharp drop in demand for trips to and within China.\r\nMore than 76,700 people have been sickened by the virus, which has killed at leas\u2026 [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eamon Javers",
+            "title": "White House plans 5G summit with global tech leaders as battle with Huawei continues",
+            "description": "The Trump administration is planning a 5G summit with global tech leaders in April at the White House, officials said.",
+            "url": "https://www.cnbc.com/2020/02/21/trump-plans-5g-summit-with-global-tech-leaders-in-huawei-battle.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105958926-1560199616689rtx6ysf2.jpg?v=1561091531",
+            "publishedAt": "2020-02-21T18:09:13Z",
+            "content": "The Trump administration is planning a 5G summit at the White House in early April as part of its global effort to ensure that Chinese telecom giant Huawei does not become dominant in next generation communications technologies, officials told CNBC.\r\nThe even\u2026 [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Only three US states can test for coronavirus, says public lab group",
+            "description": "California, Nebraska and Illinois are the only U.S. states that can currently test for coronavirus, the Association of Public Health Laboratories (APHL) told Reuters on Friday.",
+            "url": "https://www.cnbc.com/2020/02/21/only-three-us-states-can-test-for-coronavirus-says-public-lab-group.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106398285-1582127217254rts306vj.jpg?v=1582127283",
+            "publishedAt": "2020-02-21T18:04:45Z",
+            "content": "California, Nebraska and Illinois are the only U.S. states that can currently test for coronavirus, the Association of Public Health Laboratories (APHL) told Reuters on Friday.\r\nThe U.S. Centers for Disease Control and Prevention (CDC) last week said some of \u2026 [+394 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Coronavirus outbreak grows in northern Italy, 16 cases reported in one day",
+            "description": "An outbreak of coronavirus in northern Italy worsened on Friday, with officials announcing 14 confirmed cases in the wealthy region of Lombardy, while two cases were reported in the adjacent region of Veneto.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-outbreak-grows-in-northern-italy-16-cases-reported-friday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106403084-1582300317856rts32vdd.jpg?v=1582300414",
+            "publishedAt": "2020-02-21T17:54:24Z",
+            "content": "An outbreak of coronavirus in northern Italy worsened on Friday, with officials announcing 14 confirmed cases in the wealthy region of Lombardy, while two cases were reported in the adjacent region of Veneto.\r\nJust hours after revealing that six people had co\u2026 [+368 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "US health officials prepare for coronavirus outbreak to become pandemic",
+            "description": "The CDC is holding a briefing Friday on the COVID-19 coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/21/us-health-officials-prepare-for-coronavirus-outbreak-to-become-pandemic.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106354385-1579893252781rts2zlfe.jpg?v=1582304127",
+            "publishedAt": "2020-02-21T17:32:00Z",
+            "content": "The\u00a0Centers for Disease Control and Prevention\u00a0is holding a briefing Friday on the COVID-19 coronavirus, which has killed at least 2,249 people and sickened more than\u00a076,700 worldwide, including in the U.S.\r\nEarlier in the day, World Health Organization offic\u2026 [+521 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kelly Evans",
+            "title": "Kelly Evans: I don't know much about solar...",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/02/21/kelly-evans-i-dont-know-much-about-solar.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349917-1579728876782a_use.jpg?v=1579729032",
+            "publishedAt": "2020-02-21T16:23:01Z",
+            "content": "...but I did stay at a Holiday Inn Express last night.\r\nI made that joke at the tail end of Rapid Fire yesterday (Jon Fortt: \"I'm not a lawyer, but...\" Me: \"But you did stay at a Holiday Inn Express last night!\"). And afterwards, Robert Frank and Kate Rogers \u2026 [+2823 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "WHO officials say coronavirus outbreak in Iran is 'very worrisome'",
+            "description": "\"This outbreak could still go in any direction,\" said Tedros Adhanom Ghebreyesus, director-general of the World Health Organization.",
+            "url": "https://www.cnbc.com/2020/02/21/who-officials-say-coronavirus-outbreak-in-iran-is-very-worrisome.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106402874-1582293448468gettyimages-1201974001.jpeg?v=1582293552",
+            "publishedAt": "2020-02-21T15:59:44Z",
+            "content": "World health officials said Friday the COVID-19 coronavirus outbreak in Iran, where there are 18 confirmed cases and 4 deaths in just two days, is \"very worrisome.\"\r\nHealth officials are receiving information about the patients in Iran, but \"we have to engage\u2026 [+1040 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "China starts to get back to work as leaders worry about people's jobs",
+            "description": "The Chinese government is moving quickly in an effort to limit the virus' impact on an economy whose growth is already slowing.",
+            "url": "https://www.cnbc.com/2020/02/21/china-starts-to-get-back-to-work-as-leaders-worry-about-peoples-jobs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106399302-1582160997945gettyimages-1201890827.jpeg?v=1582161075",
+            "publishedAt": "2020-02-21T15:11:01Z",
+            "content": "A Chinese woman slides steam buns down a ramp used to prevent touching and contact as the customer takes his order at a local take out on February 19, 2020 in Beijing, China.\r\nBEIJING While Chinese authorities try to control the spread of the new virus, they \u2026 [+7989 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Thomas Franck",
+            "title": "Larry Kudlow says falling bond yields don't reflect the US economy's 'fundamentals'",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/02/21/larry-kudlow-says-falling-bond-yields-dont-reflect-the-us-economys-fundamentals.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105891419-1556895522674rtx6u7lq.jpg?v=1556895590",
+            "publishedAt": "2020-02-21T15:08:03Z",
+            "content": "Larry Kudlow, President Donald Trump's top economic advisor, told CNBC on Friday that he believes the recent decline in U.S. bond yields doesn't reflect market or business fundamentals and instead reflects a transient flight to safer assets in the wake of the\u2026 [+1392 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "US existing home sales fall in January",
+            "description": "The housing market is being boosted by the lowest mortgage rates in more than three years.",
+            "url": "https://www.cnbc.com/2020/02/21/us-existing-home-january-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102334758-461438788.jpg?v=1582227956",
+            "publishedAt": "2020-02-21T15:06:31Z",
+            "content": "U.S. home sales fell in\u00a0January, but the constraint from tight supply could ease as building permits and the number of homes under construction sit at levels last seen nearly 13 years ago.\r\nThe National Association of Realtors said on Friday existing home sal\u2026 [+1669 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Watch: World Health Organization holds press conference on the coronavirus outbreak",
+            "description": "WHO officials will hold a press briefing on the outbreak, which has infected more than 73,400 and killed at least 1,874 people so far.",
+            "url": "https://www.cnbc.com/2020/02/21/watch-world-health-organization-holds-press-conference-on-the-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106389448-1581604806669rts31nyx.jpg?v=1581604874",
+            "publishedAt": "2020-02-21T14:48:37Z",
+            "content": "[The stream is slated to start at 10 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nWorld Health Organization officials are holding a press conference Friday to update the public on the coronavirus outbreak, which has infect\u2026 [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Fed's Bostic says 'we won't have to do anything' on rates, despite market expectations",
+            "description": "Despite market expectations for up to two cuts this year, Bostic said that unless there's a significant shift in economic performance, the Fed should stay put.",
+            "url": "https://www.cnbc.com/2020/02/21/feds-bostic-says-we-wont-have-to-do-anything-on-interest-rates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104655991-IMG_6661.JPG?v=1502885350",
+            "publishedAt": "2020-02-21T14:25:40Z",
+            "content": "Atlanta Federal Reserve President Raphael Bostic became the latest central banker to advocate a hold on interest rates, telling CNBC that he doesn't see a need to change given current conditions.\r\nDespite the market pricing in up to two cuts this year, Bostic\u2026 [+1832 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Hannah Miller",
+            "title": "Facebook is the latest to pull out of a major industry conference as coronavirus fears batter travel industry",
+            "description": "The coronavirus has caused the cancellation or postponement of more than 24 trade exhibitions and conferences including Mobile World Congress (MWC), the world's largest trade show for the mobile phone industry.",
+            "url": "https://www.cnbc.com/2020/02/21/facebook-is-the-latest-to-pull-out-of-a-major-industry-conference-as-coronavirus-fears-batter-travel-industry.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106382646-1581351731284gettyimages-1199762984.jpeg?v=1581351803",
+            "publishedAt": "2020-02-21T14:19:11Z",
+            "content": "Medical team members of the Second Hospital of Shangdong University prepare to leave for Hubei Province in Jinan, capital of east China's Shandong Province, Feb. 9, 2020.\r\nOrganizers of the Mobile World Congress pulled the plug on the show and the 100,000 vis\u2026 [+9684 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Moscow deploys facial recognition technology for coronavirus quarantine",
+            "description": "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so.",
+            "url": "https://www.cnbc.com/2020/02/21/moscow-deploys-facial-recognition-technology-for-coronavirus-quarantine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/100978289-135627372r.jpg?v=1582293185",
+            "publishedAt": "2020-02-21T14:06:26Z",
+            "content": "Moscow is using facial recognition technology to ensure people ordered to remain at home or at their hotels under coronavirus quarantine do so, the mayor of the Russian capital said on Friday.\r\nRussia has temporarily barred Chinese nationals from entering the\u2026 [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Coca-Cola expects coronavirus could hit first-quarter earnings by up to 2 cents",
+            "description": "Coca-Cola is forecasting that the virus will hit its quarterly earnings by 1 cent to 2 cents, unit case volume by 2% to 3% and organic revenue by 1% to 2%.",
+            "url": "https://www.cnbc.com/2020/02/21/coca-cola-expects-coronavirus-could-hit-first-quarter-earnings-by-up-to-2-cents.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105670470-1547124817348gettyimages-687136050.jpeg?v=1582292466",
+            "publishedAt": "2020-02-21T14:04:10Z",
+            "content": "Coca-Cola said Friday that the COVID-19 outbreak could drag down its first-quarter earnings by as much as 2 cents.\r\nThe global beverage giant is forecasting that the virus will hit its quarterly earnings by 1 cent to 2 cents, unit case volume by 2% to 3% and \u2026 [+952 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "William Feuer",
+            "title": "Coronavirus live updates: Coca-Cola takes an earnings hit, Iran confirms more cases",
+            "description": "As of Friday, more than 76,700 cases of coronavirus have been reported, resulting in at least 2,249 deaths.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-latest-updates-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106402743-1582288447211iranvirus.jpg?v=1582288606",
+            "publishedAt": "2020-02-21T13:06:00Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Eastern time.\r\n<ul><li>Total confirmed cases: More than 76,700</li><li>Total deaths: At least 2,249</li></ul>\r\nAn Iranian street vendor sells protective masks in the capital Tehran on\u2026 [+4762 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "What's moving the market right now: Dow futures dip 60 points",
+            "description": "A discussion of what's moving the market on Friday, including the coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/21/stock-market-today-live.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106060663-1565033685560concerned.jpg?v=1582289573",
+            "publishedAt": "2020-02-21T13:02:00Z",
+            "content": "Traders and financial professionals work ahead of the closing bell on the floor of the New York Stock Exchange.\r\nThis is a live blog. Check back for updates.\r\n8:19 am: JPMorgan technical analyst calls for a market setback, says 'short-term systematic sell sig\u2026 [+1242 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Peter Schacknow",
+            "title": "Stocks making the biggest moves in the premarket: Deere, Coca-Cola, Chewy, First Solar & more",
+            "description": "The stocks making the biggest moves in premarket trading include Deere, Coca-Cola, Chewy, First Solar, and more.",
+            "url": "https://www.cnbc.com/2020/02/21/stocks-making-the-biggest-moves-in-the-premarket-deere-coca-cola-chewy-first-solar-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106367132-1580487252387rts2yece.jpg?v=1582230463",
+            "publishedAt": "2020-02-21T12:43:00Z",
+            "content": "Take a look at some of the biggest movers in the premarket:\r\nDeere (DE) The heavy equipment maker reported quarterly earnings of $1.63 per share, beating the consensus estimate of $1.25 a share. Revenue also exceeded forecasts. Deere said it sees signs of sta\u2026 [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Expectations for a rate cut will fade as coronavirus fear eases, Fed's James Bullard says",
+            "description": "Central bank officials have indicated that they are content to keep policy on hold as they watch economic developments play out.",
+            "url": "https://www.cnbc.com/2020/02/21/bullard-rate-cut-expectations-will-fade-as-coronavirus-fear-eases.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105023072-IMG_2171b.jpg?v=1519319880",
+            "publishedAt": "2020-02-21T12:40:00Z",
+            "content": "Markets expecting an interest rate cut are reacting to the coronavirus scare and likely will reverse once the fear starts to fade, St. Louis Fed President James Bullard said Friday.\r\nCentral bank officials have indicated that they are content to keep policy o\u2026 [+1944 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Friday",
+            "description": "U.S. stock futures were pointing to a lower Wall Street open, with the Dow heading for its first down week in February.",
+            "url": "https://www.cnbc.com/2020/02/21/5-things-to-know-before-the-stock-market-opens-february-21-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357169-1580142933158gettyimages-1202297953.jpeg?v=1580142990",
+            "publishedAt": "2020-02-21T12:21:06Z",
+            "content": "1. Dow tracking for first weekly loss this month\r\nTraders work on the floor of the New York Stock Exchange (NYSE) on January 27, 2020 in New York City.\r\nU.S. stock futures were pointing to a lower open Friday, with the Dow Jones Industrial Average heading for\u2026 [+3727 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "What to watch today: Dow to drop, Dems spending totals and big Buffett weekend",
+            "description": "Futures were pointing to a lower open on Wall Street, pushing the Dow and S&P 500 further into negative territory for the week.",
+            "url": "https://www.cnbc.com/2020/02/21/dow-to-drop-dems-spending-totals-and-big-buffett-weekend.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106376724-1581001286467nyse.jpg?v=1581012854",
+            "publishedAt": "2020-02-21T12:07:45Z",
+            "content": "BY THE NUMBERS\r\nFutures were pointing to a lower open on Wall Street, pushing the Dow and S&amp;P 500 further into negative territory for the week and making it all but certain that the Nasdaq would lose what's left of its small weekly gain. The moves would b\u2026 [+5755 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Buses carrying coronavirus evacuees attacked by protesters in Ukraine",
+            "description": "A combination of online misinformation and intensifying fears about the coronavirus has triggered violent demonstrations in Ukraine.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-ukraine-protesters-attack-buses-carrying-china-evacuees.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106402312-1582271924289ukraine.jpg?v=1582272027",
+            "publishedAt": "2020-02-21T10:31:31Z",
+            "content": "A demonstrator throws a stone towards a police van during a protest against the arrival of a plane carrying evacuees from coronavirus-hit China's Hubei province in the village of Novi Sanzhary in Poltava region, Ukraine February 20, 2020. Local residents bloc\u2026 [+3075 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yen Nee Lee",
+            "title": "Chernobyl next? Social media reacts to reports of 1MDB fugitive Jho Low hiding in Wuhan",
+            "description": "Malaysian police revealed this week that Jho Low, the fugitive businessman at the center of the 1MDB scandal, could be hiding in Wuhan, the epicenter of the coronavirous outbreak in China.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-1mdb-fugitive-jho-low-was-reportedly-in-wuhan-china.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106402149-1582268219318gettyimages-465278003.jpeg?v=1582268318",
+            "publishedAt": "2020-02-21T10:14:11Z",
+            "content": "Malaysian police revealed this week that Jho Low, the fugitive businessman at the center of the 1MDB scandal, could be hiding in the Chinese city of Wuhan, the epicenter of the coronavirous outbreak. Those comments kicked off a social media firestorm, with re\u2026 [+1780 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Pimco-owner Allianz posts profit beat and hikes 2020 guidance",
+            "description": "Allianz posted a better-than-expected rise in fourth-quarter net profit on Friday, and raised its 2020 guidance.",
+            "url": "https://www.cnbc.com/2020/02/21/pimco-owner-allianz-posts-profit-beat-and-hikes-2020-guidance.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/101650263-96988507.jpg?v=1399467874",
+            "publishedAt": "2020-02-21T10:02:01Z",
+            "content": "Allianz posted a better-than-expected rise in fourth-quarter net profit on Friday, and raised its 2020 guidance.\r\nQuarterly net profit came in at 1.86 billion euros ($2 billion), up 9.5% from the same period last year, with full-year 2019 operating profit hit\u2026 [+1935 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Ping An says the coronavirus will impact China's economy but has also been 'helpful' for business",
+            "description": "Ping An Insurance's Jessica Tan tells CNBC how the company's technology expertise has given it an edge amid the ongoing coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/21/ping-an-on-coronavirus-impact-on-china-economy-and-business.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106401907-1582252696392gettyimages-1170111995.jpeg?v=1582252617",
+            "publishedAt": "2020-02-21T07:05:00Z",
+            "content": "A top executive at Chinese conglomerate Ping An Insurance says the coronavirus outbreak in China has in some ways been \"helpful\" for the business.\r\n\"This virus actually, it's been particularly helpful because we've suddenly had requests you know, (from) over \u2026 [+3249 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Treasury yields move lower as coronavirus concerns grow",
+            "description": "U.S. government debt prices were higher Friday morning, amid intensifying concern about the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/21/us-bonds-treasury-yields-in-focus-as-coronavirus-concerns-grow.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397851-1582115106367gettyimages-1201764744.jpeg?v=1582126570",
+            "publishedAt": "2020-02-21T06:25:12Z",
+            "content": "U.S. government debt prices\u00a0were higher Friday morning, amid intensifying concern about the coronavirus outbreak.At 2:20 a.m. ET, the benchmark 10-year Treasury note, which moves inversely to price, was lower at around 1.4915%, while the yield on the 30-year \u2026 [+1474 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "US futures point to sharply lower open on Wall Street",
+            "description": "U.S. stock index futures are pointing to a sharply lower open on Friday morning after the number of new coronavirus cases escalated.",
+            "url": "https://www.cnbc.com/2020/02/21/us-futures-point-to-lower-open-on-wall-street.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357116-1580141240544gettyimages-1202297155.jpeg?v=1582030365",
+            "publishedAt": "2020-02-21T06:07:59Z",
+            "content": "U.S. stock index futures\u00a0are pointing to a sharply lower open on Friday morning after the number of new coronavirus cases escalated.\r\nAt around 2:05 a.m. ET, Dow futures were down 123 points and indicated an implied negative open of more than 153 points. Futu\u2026 [+1210 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "European stocks set for muted open as coronavirus spreads",
+            "description": "European stocks are set to open mixed on Friday, as investors monitor the latest developments in the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/21/european-stocks-set-for-muted-open-as-coronavirus-spreads.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105766010-1551334249022gettyimages-1094864296.jpeg?v=1551334279",
+            "publishedAt": "2020-02-21T05:50:45Z",
+            "content": "European stocks are set to open mixed on Friday, as investors monitor the latest developments in the coronavirus outbreak.Britain's FTSE 100 is seen falling 5 points to 7,439, Germany's DAX down 20 points at 13,686 and France's CAC off by 13 points at 6,068, \u2026 [+1358 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Huileng Tan",
+            "title": "China says two prisons reported nearly 250 cases of the new coronavirus",
+            "description": "Two prisons in China have reported nearly 250 cases of COVID-19 cases, with both inmates and prison guards getting infected.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-china-says-two-prisons-reported-nearly-250-cases.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106401925-1582255250887gettyimages-1201973995.jpeg?v=1582255208",
+            "publishedAt": "2020-02-21T04:53:56Z",
+            "content": "Two prisons in China have reported about 250 cases of COVID-19 cases, with both inmates and prison guards getting infected.\r\nOn Friday, Xinhua news agency reported\u00a0that 207 cases of the new coronavirus were reported in Renchang prison as of Feb. 20. The state\u2026 [+928 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China's passenger car sales tumble 92% in first half of February due to virus outbreak",
+            "description": "\"Very few dealerships opened in the first weeks of February and they have had very little customer traffic,\" the China Passenger Car Association said.",
+            "url": "https://www.cnbc.com/2020/02/21/chinas-passenger-car-sales-tumble-92percent-in-early-february-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105745179-1550462956908gettyimages-1129579552.jpeg?v=1582260109",
+            "publishedAt": "2020-02-21T04:39:00Z",
+            "content": "Retail sales of passenger cars in China crumbled 92% on an annual basis in the first 16 days of February, according to China Passenger Car Association (CPCA), as the coronavirus outbreak slammed the brakes on businesses across the country.\r\nChina's passenger \u2026 [+1128 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yen Nee Lee",
+            "title": "Singapore has the financial buffer to help the economy if virus outbreak drags on, minister says",
+            "description": "The Singapore government has set aside 5.6 billion Singapore dollars ($4.02 billion) to help businesses, workers and households weather the economic hit from the spread of the new coronavirus called COVID-19.",
+            "url": "https://www.cnbc.com/2020/02/21/coronavirus-minister-on-singapores-financial-buffer-to-help-economy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106114844-1567733217611gettyimages-1155342721.jpeg?v=1582255424",
+            "publishedAt": "2020-02-21T04:21:00Z",
+            "content": "Singapore still has some financial buffer to support the economy if any more measures are needed to help businesses and households tide through the current coronavirus outbreak, one minister told CNBC on Friday.\r\n\"What we've done is to prepare on the basis th\u2026 [+2712 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Oil prices slide as coronavirus spread beyond China raises demand worries",
+            "description": "Oil prices fell on Friday with fears for fuel demand growing as the coronavirus epidemic that originated in China spread further beyond the country, while major crude producers stood pat on taking early action to cut output to support the market.",
+            "url": "https://www.cnbc.com/2020/02/21/oil-markets-coronavirus-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106372026-1580839600457gettyimages-507825332.jpeg?v=1582251117",
+            "publishedAt": "2020-02-21T02:16:59Z",
+            "content": "Oil prices fell on Friday with fears for fuel demand growing as the coronavirus epidemic that originated in China spread further beyond the country, while major crude producers stood pat on taking early action to cut output to support the market. \r\nBrent crud\u2026 [+1994 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Everything Jim Cramer said about the stock market on 'Mad Money,' including coronavirus sell-off, Domino's Pizza CEO, Vertex",
+            "description": "CNBC's Jim Cramer breaks down Thursday's market sell-off, chats with the CEO of Domino's Pizza after a strong fourth-quarter report and advises buying the dip in Vertex.",
+            "url": "https://www.cnbc.com/2020/02/20/jim-cramers-mad-money-recap-stock-picks-feb-20-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105946819-1559598727752img_6289rr.jpg?v=1559598752",
+            "publishedAt": "2020-02-21T00:29:40Z",
+            "content": "CNBC's Jim Cramer broke down Thursday's sell-off and explained why he thinks the coronavirus outbreak will continue to be a thorn in the market. The \"Mad Money\" host checked in with Domino's Pizza CEO Ritch Allison after the chain reported a domineering fourt\u2026 [+2096 chars]"
+        }
+    ]
+}

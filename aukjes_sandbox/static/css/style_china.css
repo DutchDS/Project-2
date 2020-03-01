@@ -65,7 +65,19 @@ html {
   margin: 5px
 }
 
+/* CSS for slider */
 #map {height: 450px}
+
+input {
+  display: block;
+  width: 200px;
+  margin: auto;
+}
+output {
+  text-align: center;
+  display: block;
+  padding-top: 30px;
+}
 /* CSS from the Leaflet-Choropleth documentation
 .legend {
   padding: 6px 8px;

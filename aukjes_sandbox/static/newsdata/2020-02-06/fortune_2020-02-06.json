@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lucinda Shen",
+            "title": "Stock scammers are using the coronavirus outbreak to dupe investors, SEC warns",
+            "description": "Waving promises of a coronavirus cure, stock market scammers are seeking to make a quick buck.",
+            "url": "https://fortune.com/2020/02/06/stock-scammers-coronavirus-sec/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198626148.jpg?resize=1200,600",
+            "publishedAt": "2020-02-06T20:01:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jeremy Kahn",
+            "title": "Startup uses A.I. to identify molecules that could fight coronavirus",
+            "description": "Insilico Medicine uses deepfake-like system to discover thousands of potential drug candidates in four days",
+            "url": "https://fortune.com/2020/02/06/ai-identifies-possible-coronavirus-treatment/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198897229.jpg?resize=1200,600",
+            "publishedAt": "2020-02-06T14:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "These countries have imposed China travel restrictions over the coronavirus",
+            "description": "Tighter travel restrictions including quarantines are spreading as worldwide efforts to contain the coronavirus accelerate.",
+            "url": "https://fortune.com/2020/02/06/countries-china-travel-restrictions-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198897857.jpg?resize=1200,600",
+            "publishedAt": "2020-02-06T11:18:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Hong Kong has a coronavirus face mask shortage. Now rumors have sparked toilet paper panic buying",
+            "description": "Toilet paper was unavailable in supermarkets in parts of the city as posts circulated on social media showing empty shelves and shoppers lining up to snag rolls.",
+            "url": "https://fortune.com/2020/02/06/hong-kong-coronavirus-face-mask-shortage-toilet-paper/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198631359.jpg?resize=1200,600",
+            "publishedAt": "2020-02-06T10:16:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "UN cancels biodiversity meeting in China over coronavirus fears",
+            "description": "The preparatory meeting for the Convention on Biological Diversity has moved from Yunnan to Rome while China grapples with the novel coronavirus",
+            "url": "https://fortune.com/2020/02/06/un-biodiversity-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1124783034.jpg?resize=1200,600",
+            "publishedAt": "2020-02-06T10:10:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "Coronavirus, bird flu, swine fever: Why China is still so susceptible to disease outbreaks",
+            "description": "The nation's outdated food supply leaves it especially vulnerable to diseases like coronavirus, swine fever, and bird flu.",
+            "url": "https://fortune.com/2020/02/06/coronavirus-disease-outbreak-china-why/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197116072.jpg?resize=1200,600",
+            "publishedAt": "2020-02-06T08:04:12Z",
+            "content": null
+        }
+    ]
+}

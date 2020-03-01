@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adrian Croft",
+            "title": "\u2018Significantly impacted\u2019: World\u2019s biggest brewers tally costs of coronavirus outbreak as beer sales suffer",
+            "description": "The world's biggest beermakers were counting on a big sales lift from their China businesses this year. And then the coronavirus pandemic hit.",
+            "url": "https://fortune.com/2020/02/04/coronavirus-impact-beer-industry-big-brewers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1160298253.jpg?resize=1200,600",
+            "publishedAt": "2020-02-04T20:06:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Coronavirus prompts the world\u2019s gambling capital to do the unthinkable: close its casinos",
+            "description": "\u201cOf course this was a difficult decision.\"",
+            "url": "https://fortune.com/2020/02/04/coronavirus-macau-casinos/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1195905151.jpg?resize=1200,600",
+            "publishedAt": "2020-02-04T12:47:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Hong Kong protests birthed a new hospital worker union. The coronavirus has prompted its first strike",
+            "description": "Workers are promising a third day of strikes on Wednesday.",
+            "url": "https://fortune.com/2020/02/04/coronavirus-hong-kong-strike/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198186723.jpg?resize=1200,600",
+            "publishedAt": "2020-02-04T12:25:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "OPEC nerves grow as coronavirus forces China to slash oil imports",
+            "description": "Crude prices sunk below $50 a barrel for the first time in more than a year on Monday.",
+            "url": "https://fortune.com/2020/02/04/opec-coronavirus-china-slashes-oil-imports/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1193948225.jpg?resize=1200,600",
+            "publishedAt": "2020-02-04T12:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Hong Kong reports its 1st coronavirus death, the 2nd outside mainland China",
+            "description": "The death puts more pressure on the city's leader to close travel routes to the mainland.",
+            "url": "https://fortune.com/2020/02/03/coronavirus-death-hong-kong/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198464852.jpg?resize=1200,600",
+            "publishedAt": "2020-02-04T04:10:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Don Reisinger",
+            "title": "Coronavirus will take a bite out of Apple\u2019s iPhone business. The question facing analysts: \u2018How big?\u2019",
+            "description": "iPhone's sales could falter over the coronavirus, one prominent Apple analyst says. What do others think?",
+            "url": "https://fortune.com/2020/02/03/apple-iphone-coronavirus-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1169733722.jpg?resize=1200,600",
+            "publishedAt": "2020-02-04T00:00:00Z",
+            "content": null
+        }
+    ]
+}

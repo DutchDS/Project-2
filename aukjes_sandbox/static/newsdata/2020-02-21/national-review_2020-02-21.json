@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "WHO Defends China\u2019s Repeated Coronavirus Diagnostic Changes Despite Hubei Health Official\u2019s Complaints",
+            "description": "The World Health Organization defended China\u2019s change to its coronavirus diagnostic process, despite a health official from China\u2019s Hubei province claiming a lack of transparency",
+            "url": "https://www.nationalreview.com/news/who-defends-chinas-repeated-coronavirus-diagnostic-changes-despite-hubei-health-officials-complaints/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/WHO-.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-21T18:57:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Daniel Tenreiro, Daniel Tenreiro",
+            "title": "30-Year Treasury Yields Reflect Long-Term Economic Headwinds",
+            "description": "U.S. markets had performed well despite fears that coronavirus could disrupt global supply chains and hold back demand in key Asian markets. That changed Friday.",
+            "url": "https://www.nationalreview.com/corner/30-year-treasury-yields-reflect-long-term-economic-headwinds/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2019/03/container-ship-china-1.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-21T18:14:49Z",
+            "content": null
+        }
+    ]
+}

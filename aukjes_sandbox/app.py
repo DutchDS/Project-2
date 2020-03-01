@@ -36,7 +36,7 @@ def world():
         query_text = query_text + text
         
     result_set = engine.execute(query_text)
-
+    print(result_set)
     result_sum = []
 
     query_str = open('static/sql/world_summary.sql')

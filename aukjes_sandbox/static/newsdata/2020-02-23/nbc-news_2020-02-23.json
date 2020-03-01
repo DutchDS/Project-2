@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Leticia Miranda",
+            "title": "Coronavirus challenges $45 billion cruise industry",
+            "description": "Coronavirus concerns pushed the $45 billion cruise line industry to cancel trips and reroute ships to contain  impact from the outbreak and fearful travelers.",
+            "url": "https://www.nbcnews.com/business/travel/coronavirus-challenges-45-billion-cruise-industry-n1140711",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3232436/200215-diamond-princess-covid-19-coronavirus-cruise-cs-931a_0871ae50ba32514ca53e8067dda7c81a.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-23T17:37:30Z",
+            "content": "Coronavirus concerns have pushed the $45 billion cruise line industry to cancel trips and reroute ships as it struggles to contain the impact from fearful travelers. But experts say the industry will bounce back after the outbreak is contained.\r\nBusiness is s\u2026 [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Coronavirus updates: 10 Italian communities on lockdown as death toll rises in China",
+            "description": "As Italy experiences a surge in coronavirus cases, here is the latest for Sunday, Feb. 23.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-10-italian-communities-lockdown-death-toll-rises-china-n1141321",
+            "urlToImage": "https://static.euronews.com/articles/4522032/1000x563_nbc-afp_1p83uh_adc82ece57216fda797c0157f8ce9f17.jpg",
+            "publishedAt": "2020-02-23T11:57:48Z",
+            "content": "\u2022 Number of deaths in China surpasses 2,400\u2022 Ten towns in Italy on lockdown as two deaths reported\u2022 South Korea leader calls for 'unprecedented' steps to stop spread\u2022 43 cases, eight deaths connected to coronavirus in Iran\u2022 Feds' plan to relocate coronavirus \u2026 [+6299 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Eric Baculinao and Alex Shi and Vivienne Wu and Yuliya Talmazan and Dawn Liu and Leou Chen",
+            "title": "Lockdowns to curb coronavirus epidemic lead to a rise in mental health issues",
+            "description": "Government-enforced moves to deal with coronavirus outbreak are forcing millions of Chinese people to deal with the emotional and psychological fallout.",
+            "url": "https://www.nbcnews.com/news/world/lockdowns-curb-coronavirus-epidemic-lead-rise-mental-health-issues-n1140451",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3239231/200221-wuhan-coronavirus-food-delivery-ew-123p_1187691ccd8d6dec7e78e99db9f2dc87.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-23T09:39:00Z",
+            "content": "BEIJING Zhang Meng, a college student from Changchun, in Chinas eastern Jilin province, was concerned that her sudden weight loss was related to fear and anxiety over the coronavirus outbreak sweeping the country.\r\nSo she called a hotline offering mental heal\u2026 [+3408 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Lockdowns to curb coronavirus epidemic lead to a rise in mental health issues",
+            "description": "Government-enforced moves to deal with coronavirus outbreak are forcing millions of Chinese people to deal with the emotional and psychological fallout.",
+            "url": "https://www.nbcnews.com/news/world/lockdowns-curb-coronavirus-epidemic-lead-rise-mental-health-issues-n1140451",
+            "urlToImage": "https://static.euronews.com/articles/4521896/1000x563_nbc-200221-empty-road-wuhan-ew-143p_34c8fc5da1ebea51b5b3d511ac6fe951.jpg",
+            "publishedAt": "2020-02-23T09:39:00Z",
+            "content": "BEIJING \u2014 Zhang Meng, a college student from Changchun, in China's eastern Jilin province, was concerned that her sudden weight loss was related to fear and anxiety over the coronavirus outbreak sweeping the country.\r\nSo she called a hotline offering mental h\u2026 [+6037 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Nightly News Full Broadcast (February 22nd)",
+            "description": "The latest details and analysis of the Nevada caucuses, updates on the coronavirus outbreak, and the \u201cMiracle on Ice\u201d inspires 40 years later.",
+            "url": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-february-22nd-79247429702",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_netcast_brk_200222.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-23T04:35:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Alicia Victoria Lozano",
+            "title": "Feds' plan to relocate coronavirus patients puts region at risk, California city says",
+            "description": "Officials in Costa Mesa, California, and Anniston, Alabama, said they received little notice of plans to transfer coronavirus patients to their cities.",
+            "url": "https://www.nbcnews.com/health/health-news/feds-plan-relocate-coronavirus-patients-puts-region-risk-california-city-n1141216",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_08/3240851/200222-coronavirus-se-927p_1ffb2f01150c7b0c75e607fd093d2729.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-23T03:45:37Z",
+            "content": "Leaders in Costa Mesa, California, said Saturday they were kept in the dark until the last minute about plans by federal health agencies to transfer dozens of coronavirus patients to an empty building in their city in a move they said could put the entire reg\u2026 [+3961 chars]"
+        }
+    ]
+}

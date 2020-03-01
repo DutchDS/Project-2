@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Coronavirus taking a toll on the stock market",
+            "description": "Outbreak could have impact on world economy; Fox Biz Flash: 2/21.",
+            "url": "http://video.foxnews.com/v/6134786132001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adf5a1ef-98b2-44b7-b67b-a1b271b751ee/0ffa44df-8984-48b8-aa84-76687be1eff6/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-21T23:52:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "China curbs optimism as coronavirus cases rise in South Korea",
+            "description": "Chinese health officials sent out an optimistic message about progress against the coronavirus, the South Korean Prime Minister says the country has entered an emergency phase; Fox News correspondent Jonathan Serrie reports.",
+            "url": "http://video.foxnews.com/v/6134783080001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/729136d7-960a-42fb-b160-fdb77b6206fe/395d1571-ce66-43bc-be28-d8e1079181f6/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-21T23:21:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "The world's remaining communist countries, and how they're faring economically",
+            "description": "Communism is the political and economic doctrine that abolishes private ownership in favor of the state controlling the means of production in an effort to create economic equality and the abolishment of the exploitation of workers. For decades, the United St\u2026",
+            "url": "https://www.foxnews.com/world/world-remaining-communist-countries-economics",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/China-North-Korea-Cuba-Money.jpg",
+            "publishedAt": "2020-02-21T23:13:53Z",
+            "content": "Communism is the political and economic doctrine that abolishes private ownership in favor of the state controlling the means of production in an effort to create\u00a0economic equality and the abolishment of the exploitation of workers.\r\nFor decades, two global s\u2026 [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "FBI arrests hacker linked to former Rep. Katie Hill's campaign",
+            "description": "The Federal Bureau of Investigation (FBI) arrested suspected hacker Arthur Dam in connection with cyberattacks he allegedly carried out, in connection with former Rep. Katie Hill's, D-Calif., 2018 congressional campaign, according to a criminal complaint file\u2026",
+            "url": "https://www.foxnews.com/us/fbi-arrests-hacker-katie-hill-campaign",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/katiehill-cropped-2am.jpg",
+            "publishedAt": "2020-02-21T22:50:05Z",
+            "content": "The FBI\u00a0arrested suspected hacker Arthur Dam in connection with cyberattacks he allegedly carried out\u00a0during the\u00a02018\u00a0Democratic congressional primary that ultimately nominated former Rep. Katie Hill, D-Calif., who he was found to have ties to, according to a\u2026 [+2565 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Pardon Me?",
+            "description": "This week, President Trump's pardons, new Acting DNI, more Huawei controversy and Democratic debate recap.",
+            "url": "https://radio.foxnews.com/2020/02/21/pardon-me/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2019/12/COVER_FROM_WASHINGTON.jpg",
+            "publishedAt": "2020-02-21T22:15:01Z",
+            "content": "This Week:\u00a0\r\nPresident Trump pardoned close to a dozen people this week including former Illinois Governor Rod Blagojevich, former owner of the San Francisco 49ers Edward DeBartolo Junior, former New York City police commissioner Bernard Kerik and more. Jared\u2026 [+1405 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Crothers",
+            "title": "What does Apple have up its sleeve in 2020?",
+            "description": "Apple is expected to have at least two big product launches in 2020 with the first round coming possibly as early as March. The focus of the second, in the fall, will likely be a 5G iPhone.",
+            "url": "https://www.foxnews.com/tech/what-does-apple-have-up-its-sleeve-in-2020",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/AppleiPhone11ProGetty2019.jpg",
+            "publishedAt": "2020-02-21T20:34:54Z",
+            "content": "Apple is expected to have at least two big product launches in 2020 with the first round coming possibly as early as March. The focus of the second, in the fall, will likely be a 5G iPhone.\r\nApple typically rolls out new products in the early spring but the l\u2026 [+3091 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Sacramento confirms first coronavirus case in patient who traveled to China",
+            "description": "The patient returned to the U.S. from a trip to China on Feb. 2, and had been under self-quarantine.",
+            "url": "https://www.foxnews.com/health/sacramento-confirms-first-coronavirus-patient-traveled-china",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4f1a03b-689b-485e-8215-bc70224c57a9/9aa96f10-9b92-4e46-8cdf-8387ed0008cf/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-21T19:48:34Z",
+            "content": "Health officials in Sacramento confirmed the county\u2019s first case of novel coronavirus in an adult who recently returned from a trip to China. The patient returned to the U.S. on Feb. 2 and had been under self-quarantine until developing mild symptoms.\r\nCORONA\u2026 [+2691 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Coronavirus cases balloon in South Korea as outbreak spreads",
+            "description": "South Korea said two people have died and 204 have been infected with the virus, quadruple the number of cases it had two days earlier.",
+            "url": "https://www.foxnews.com/health/coronavirus-cases-south-korea-outbreak-spreads",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dcdc943-1034-4f84-b4f3-174a2ecf6a84/dea821bf-3d6e-4907-a203-0082a1b40f59/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-21T16:50:21Z",
+            "content": "SEOUL, South Korea Schools were shuttered, churches told worshipers to stay away and some mass gatherings were banned as cases of a new virus swelled Friday in South Korea, the newest front in a widening global outbreak.\r\nThe country said two people have died\u2026 [+4760 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Ukrainians throw bricks at buses carrying coronavirus evacuees from China",
+            "description": "Ukraine's effort to quarantine more than 70 people evacuated from China over the new virus outbreak plunged into chaos Thursday as local residents opposing the move hurled stones at the evacuees and clashed with police.",
+            "url": "https://www.foxnews.com/world/ukraine-bricks-buses-coronavirus-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20051667079464.jpg",
+            "publishedAt": "2020-02-21T16:33:19Z",
+            "content": "Ukraine's effort to quarantine more than 70 people evacuated from China over the new virus outbreak plunged into chaos Thursday as local residents opposing the move hurled stones at the evacuees and clashed with police.\r\nOfficials deplored the violence and th\u2026 [+5367 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Coronavirus spreads in Chinese prisons, over 500 infected",
+            "description": "Officials said the virus had been imported to prisons, and that no prisoners have died as a result of the outbreak.",
+            "url": "https://www.foxnews.com/health/coronavirus-spreads-chinese-prisons-over-500-infected",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dd70204-dac5-4eac-a011-26ec5218d052/25041f7f-337a-4601-9df5-4b7d6c253c91/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-21T16:05:19Z",
+            "content": "A spike in the number of coronavirus cases reported in China on Friday includes hundreds of prisoners who have been infected with the COVID-19 virus. As a result, prison and security officials, as well as others in Hubei, have been fired over failing to discl\u2026 [+2208 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Richard Branson christens new Scarlet Lady cruise ship, the first in Virgin Voyages' fleet",
+            "description": "Anchors aweigh!",
+            "url": "https://www.foxnews.com/travel/richard-branson-cruise-ship-scarlet-lady-virgin-voyages",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/virgin-voyages-scarlet-lady-ship-credit-virgin-voyages.jpg",
+            "publishedAt": "2020-02-21T15:19:34Z",
+            "content": "Anchors aweigh!\r\nOn Friday, Sir Richard Branson\u00a0formally christened the first ocean liner of his new luxury Virgin Voyages cruise company.\r\nSir Richard Branson has formally christened the first ocean liner, the Scarlet Lady, pictured, of his new luxury Virgin\u2026 [+3642 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brian Flood",
+            "title": "Fox News Digital boasts best month ever in January, most multiplatform minutes of any news brand",
+            "description": "Fox News Digital kicked off 2020 with its best month ever with 1.9 billion multiplatform views, dominating online news during a jam-packed January.",
+            "url": "https://www.foxnews.com/media/fox-news-digital-january-traffic",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/62c135f4-fnd.jpg",
+            "publishedAt": "2020-02-21T15:02:39Z",
+            "content": "Fox News Digital kicked off 2020 with its best month ever with 1.9 billion multiplatform views, dominating online news during a jam-packed January. \r\nFrom the Senate impeachment trial that polarized America to the tragic death of NBA legend Kobe Bryant, reade\u2026 [+3106 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Norman",
+            "title": "Iran elections put support of regime to the test as frustration mounts",
+            "description": "Support for Iran\u2019s leadership is being put to the test Friday as voters are heading to the polls in the Islamic Republic to elect a new parliament amidst a period of economic hardship and growing frustration with the government.",
+            "url": "https://www.foxnews.com/world/iran-parliamentary-elections",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/iran-elections-1.jpg",
+            "publishedAt": "2020-02-21T14:37:48Z",
+            "content": "Support for Iran\u2019s leadership was put to the test Friday as voters headed to the polls in the Islamic Republic to elect a new parliament amidst economic hardship and growing frustration with the government.\r\nThe elections, which the Iranian regime and state m\u2026 [+4495 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Norwegian Cruise Line cancels 'all voyages in Asia' over coronavirus concerns",
+            "description": "In total, 40 itineraries across all three of NCL\u2019s brands will be affected.",
+            "url": "https://www.foxnews.com/travel/norwegian-cruise-line-cancels-asia-voyages-coronavirus-concerns",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/NorwegianSpiritIstock.jpg",
+            "publishedAt": "2020-02-21T14:20:23Z",
+            "content": "Norwegian Cruise Line announced Thursday that all upcoming Asia voyages would be canceled through the third quarter of 2020 amid concerns over the ongoing COVID-19 outbreak.\r\n\u201cOut of an abundance of caution and as a result of the uncertainty surrounding port \u2026 [+2567 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Katy Perry collapses from 'American Idol' gas leak during auditions",
+            "description": "This Sunday's episode of \"American Idol\" apparently keeps the judges on their toes more than ever before.",
+            "url": "https://www.foxnews.com/entertainment/katy-perry-fall-american-idol-gas-leak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/katy-perry-getty.jpg",
+            "publishedAt": "2020-02-21T14:18:28Z",
+            "content": "This coming Sunday's episode of \"American Idol\" shows the judges frantically exiting the studio after an emergency breaks out on set.\r\nIn a\u00a0sneak peek clip shown below, the ABC show's judges, and the dozens of men and women set to audition for them, are force\u2026 [+2146 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Harmeet Dhillon",
+            "title": "Harmeet Dhillon: California Democrats can\u2019t end homeless crisis \u2013 they keep pushing failed policies",
+            "description": "Democrats have no real solution for California\u2019s homeless crisis, which finds an estimated 150,000 people living on the streets on any given night \u2013 enough people to create the 39th largest city in the state if they all gathered in one place.",
+            "url": "https://www.foxnews.com/opinion/harmeet-dhillon-california-democrats-cant-end-homeless-crisis-keep-pushing-failed-policies",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/10/25/694940094001_6097753798001_6097738429001-vs.jpg",
+            "publishedAt": "2020-02-21T14:00:14Z",
+            "content": "Democrats have no real solution for California\u2019s homeless crisis, which finds an estimated 150,000 people living on the streets on any given night \u2013 enough people to create the 39th largest city in the state if they all gathered in one place.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u2026 [+6969 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "At least 11 American Diamond Princess evacuees test positive for coronavirus, another doctor, 29, in China dies",
+            "description": "At least 11 American evacuees transported to the U.S. from the quarantined Diamond Princess cruise ship have tested positive for the coronavirus, as another doctor in China was pronounced dead from the virus on Friday.",
+            "url": "https://www.foxnews.com/health/coronavirus-11-american-cruise-ship-passengers-test-positive-for-coronavirus-118-new-deaths-reported",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20052122746467.jpg",
+            "publishedAt": "2020-02-21T10:31:15Z",
+            "content": "At least 11 American evacuees transported to the U.S. from the quarantined\u00a0Diamond Princess cruise ship\u00a0have tested positive for\u00a0the coronavirus, as another doctor in China was pronounced dead from the virus Friday.\r\nThe American evacuees were transported to \u2026 [+10839 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Coronavirus fears prompt FBI to order $40G in hand sanitizer, face masks: report",
+            "description": "The FBI has purchased $40,000 worth of hand sanitizer and face masks \u201cin case the coronavirus becomes a pandemic in the United States,\" according to an acquisition document signed on Friday.",
+            "url": "https://www.foxnews.com/health/coronavirus-fears-prompt-fbi-to-order-40g-in-hand-sanitizer-face-masks-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20052129442321.jpg",
+            "publishedAt": "2020-02-21T10:03:26Z",
+            "content": "The FBI has purchased $40,000 worth of hand sanitizer and face masks\u00a0\u201cin case the coronavirus becomes a pandemic in the United States,\" according to an acquisition document signed Friday.\r\nThe order reportedly includes face masks from manufacturing company 3M\u2026 [+1787 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Trump slams Dems, Oscars, Brad Pitt at freewheeling Colorado rally",
+            "description": "",
+            "url": "https://www.foxnews.com/us/trump-slams-dems-oscars-brad-pitt-colorado-rally",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/TrumpColorado022120.jpg",
+            "publishedAt": "2020-02-21T09:37:07Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your day ...\r\nTrump slams Dems, Oscars, Brad Pitt and 'Parasite' as rally blitz moves to ColoradoPresident Trump continued his four-state trip out West on Thursday evening w\u2026 [+5674 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Tennessee doctor, wife see coronavirus turn their cruise vacation into a nightmare as wife tests positive",
+            "description": "A Tennessee doctor remained Thursday aboard the quarantined Diamond Princess cruise ship that's seen more than 600 passengers and crew -- including his wife -- test positive for the coronavirus, according to multiple reports.",
+            "url": "https://www.foxnews.com/health/tennessee-doctor-wife-see-coronavirus-turn-their-cruise-vacation-into-a-nightmare-as-wife-tests-positive",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20051218356900.jpg",
+            "publishedAt": "2020-02-21T07:17:06Z",
+            "content": "A Tennessee doctor remained Thursday aboard the quarantined Diamond Princess cruise ship that's seen more than 600 passengers and crew -- including his wife -- test positive for the coronavirus, according to multiple reports.\r\nDr. Arnold Hopland, a physician \u2026 [+2679 chars]"
+        }
+    ]
+}

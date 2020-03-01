@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Coronavirus: 195 US evacuees quarantined in California",
+            "description": "Dr. Natalie Azar discusses the latest updates surrounding the coronavirus with Alex Witt.",
+            "url": "http://www.msnbc.com/msnbc/watch/coronavirus-195-us-evacuees-quarantined-in-california-77967429781",
+            "urlToImage": null,
+            "publishedAt": "2020-02-02T00:00:24Z",
+            "content": null
+        }
+    ]
+}

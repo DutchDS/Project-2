@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Americans evacuated from Diamond Princess cruise ship now under two-week quarantine in US",
+            "description": "Jeri Seratti-Goldman and her husband, who\u2019s diagnosed with the coronavirus, are under quarantine after evacuating from the Diamond Princess cruise ship.",
+            "url": "http://video.foxnews.com/v/6133931388001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f32969bb-67a3-4bf6-8e23-b618a4bb9861/cdcca3b2-1e2b-4956-bf77-7dd9e8254897/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-19T21:45:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Woman battling brain cancer away from home receives special snow message: 'Mom be brave'",
+            "description": "Her daughter carved the message in snow outside of her hospital window.",
+            "url": "https://www.foxnews.com/health/woman-battling-brain-cancer-snow-message-mom-be-brave",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Mom-Be-Brave-1.jpeg",
+            "publishedAt": "2020-02-19T19:18:52Z",
+            "content": "A woman from Guatemala who is in Cleveland receiving treatment for an aggressive brain tumor received a little extra encouragement through a message written in the snow outside of her hospital window. Michele Schambach, who was diagnosed with oligodendrogliom\u2026 [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandra Deabler",
+            "title": "Airline passengers spotted wearing full plastic coverings, gloves over coronavirus fears",
+            "description": "Coronavirus fears have hit new highs recently when two plane passengers were seen covering their bodies completely.",
+            "url": "https://www.foxnews.com/travel/passengers-seen-wearing-plastic-flight",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2020/02/03/694940094001_6129330514001_6129332009001-vs.jpg",
+            "publishedAt": "2020-02-19T18:59:05Z",
+            "content": "Coronavirus fears have hit new highs recently when two passengers were seen covering their bodies completely in plastic while wearing face masks and gloves on a flight.\r\nCLICK HERE TO SIGN UP FOR OUR LIFESTYLE NEWSLETTER\r\nIn\u00a0footage uploaded to Twitter, the t\u2026 [+1327 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus fears prompt neighbors of California mom, daughter in self-quarantine to call cops",
+            "description": "A mother in California who is under self-quarantine with her daughter claims a neighbor called the police on them out of fears they could spread the deadly coronavirus.",
+            "url": "https://www.foxnews.com/health/california-mom-daughter-self-quarantine-coronavirus-neighbors-cops",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea052b88-d22a-4dd1-bf41-f94f59f640b4/b8717e8a-11ba-4223-b578-18b02d7d863b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-19T17:32:18Z",
+            "content": "\u201cI\u2019m just frustrated and angry and upset,\u201d said Amy Deng, 45, who is\u00a0under self-quarantine with her daughter in their Santa Rosa, Calif., home amid the deadly coronavirus outbreak that\u2019s sickened more than 75,000 globally and killed some 2,000 others.\r\nThe pa\u2026 [+2867 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Iran sees first 2 coronavirus cases in country",
+            "description": "Authorities in Iran this week announced the country\u2019s first two cases of the novel coronavirus \u2014 COVID-19 \u2014\u00a0 which has infected more than 75,000 people globally and killed some 2,000 others.",
+            "url": "https://www.foxnews.com/health/iran-sees-first-2-coronavirus-cases",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09ccf663-5e21-4caf-9647-452d8a2f882c/7ffd2e1f-7c8e-4c52-aadf-e4bfd0a4163e/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-19T14:48:31Z",
+            "content": "Authorities in Iran this week announced the country\u2019s first two cases of the novel coronavirus \u2014 COVID-19 \u2014\u00a0 which has infected more than 75,000 people globally and killed some 2,000 others.\r\nThe Iranian news agency ISNA reported the first two confirmed cases\u2026 [+1079 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Woman plays violin during brain surgery to remove tumor",
+            "description": "Her surgeon, who shares a mutual passion for music, chose to have her play the violin to ensure no damage was done to her right frontal lobe during the surgery.",
+            "url": "https://www.foxnews.com/health/woman-plays-violin-brain-surgery-remove-tumor",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a90e63c-f640-45ec-b73b-1cc59895b794/b9d83988-8994-4a71-aebf-0df0adda82df/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-19T14:28:07Z",
+            "content": "The incredible moment an orchestra violinist played her instrument while surgeons operated on her brain\u00a0was captured on video and has quickly gone viral.\r\nDagmar Turner, 53, underwent surgery to remove an aggressive brain tumor on Jan. 31 at King\u2019s College Ho\u2026 [+2161 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tucker Carlson",
+            "title": "Tucker Carlson: China is dangerous US enemy and leaders like Bloomberg have abetted them - and betrayed us",
+            "description": "China is no longer simply an economic rival of the United States. But instead of protecting us from this existential threat, our leadership class collaborates with them.",
+            "url": "https://www.foxnews.com/opinion/tucker-carlson-china-is-dangerous-us-enemy-bloomberg",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ae2af5b-55f4-4099-90ea-cf07c1f94bb1/ba785ff3-bc90-4733-b753-afc6b2bede71/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-19T14:17:10Z",
+            "content": "There are serious long-term problems facing America, as we've told you about for years on this\u00a0show. Thanks to outsourcing, this country no longer has the same reserve of stable middle-class manufacturing jobs we did even 30 years ago.\r\nIn coastal cities, hou\u2026 [+12207 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Peter Hotez",
+            "title": "Dr. Peter Hotez: This spring three infectious epidemics may be coming to a neighborhood near you",
+            "description": "There is a significant risk that three major respiratory infections will soon break out in many parts of the United States.",
+            "url": "https://www.foxnews.com/opinion/peter-hotez-infectious-epidemics-near-you",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/342e0b25-bf55-4a91-bc05-0ef41857638f/6ac26223-e4a0-4d3e-8039-74d2d708bf9f/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-19T14:08:23Z",
+            "content": "As we head into March and April, the United States could face a serious and simultaneous threat from three concurrent respiratory virus infections: Influenza, measles, and the new SARS-2 coronavirus (also known as SARS CoV2 or COVID-19 infection). Having all \u2026 [+4752 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Remaining passengers on MS Westerdam disembark after coronavirus scare; crew members still waiting on tests",
+            "description": "Passengers and crew reportedly cheered at the news, which was also commemorated with the ship blasting its horn.",
+            "url": "https://www.foxnews.com/health/remaining-passengers-ms-westerdam-disembark-coronavirus-scare",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20044414192914.jpg",
+            "publishedAt": "2020-02-19T14:00:55Z",
+            "content": "The last of the passengers aboard Holland America\u2019s MS Westerdam cruise liner were allowed to disembark on Wednesday after testing negative for coronavirus.\r\nThe ship, which had previously been turned away by four Asian governments due to COVID-19 concerns, h\u2026 [+2698 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "China revokes 3 Wall Street Journal reporters' credentials",
+            "description": "China on Wednesday said it has revoked the press credentials of three reporters for the U.S. newspaper Wall Street Journal over a headline for an opinion column deemed racist by the government.",
+            "url": "https://www.foxnews.com/media/china-revokes-3-wall-street-journal-reporters-credentials",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20049181186429.jpg",
+            "publishedAt": "2020-02-19T13:12:21Z",
+            "content": "China on Wednesday said it has revoked the press credentials of three reporters for the U.S. newspaper Wall Street Journal over a headline for an opinion column deemed racist by the government.\r\nThe expulsions come after the Trump administration on Tuesday de\u2026 [+5541 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "New coronavirus case confirmed among cruise ship evacuees quarantined at California hospital",
+            "description": "A new case of coronavirus was confirmed in California among the evacuees of the Diamond Princess cruise ship in Japan.",
+            "url": "https://www.foxnews.com/health/new-coronavirus-case-confirmed-among-cruise-ship-evacuees",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae60cfe5-053c-4e0b-853c-3a365f842e03/61a20ace-e738-4142-a826-2ce9433088b7/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-19T11:02:56Z",
+            "content": "A new case of coronavirus was confirmed in California\u00a0among the evacuees of the Diamond Princess cruise ship now under quarantine.\r\nThe patient, who tested positive for the virus before leaving Japan but had no symptoms, was placed in isolation at a medical c\u2026 [+1624 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Virologist: Olympics could not be held now; hopeful for July",
+            "description": "A respected Japanese virologist on Wednesday said if the Tokyo Olympics were tomorrow, the games probably couldn't be held because of the fast-spreading coronavirus from Wuhan, China.",
+            "url": "https://www.foxnews.com/sports/virologist-olympics-could-not-be-held-now-hopeful-for-july",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Japan-Coronavirus.jpg",
+            "publishedAt": "2020-02-19T10:58:52Z",
+            "content": "A respected Japanese virologist on Wednesday said if the Tokyo Olympics were tomorrow, the games probably couldn't be held because of the fast-spreading coronavirus from Wuhan, China.\r\n\u201cWe need to find the best way to have a safe Olympics,\" Dr. Hitoshi Oshita\u2026 [+3308 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "DOJ: Barr has 'no plans to resign' over Trump tweets; Trump blasted over Blagojevich commutation",
+            "description": "",
+            "url": "https://www.foxnews.com/us/doj-barr-no-plans-to-resign-trump-tweets-trump-blasted-blagojevich",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BarrTrump021920.jpg",
+            "publishedAt": "2020-02-19T09:32:54Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your day ...\r\nDOJ pushes back at reports Barr considered quitting over Trump tweetsThe Justice Department pushed back Tuesday night at multiple reports claiming Attorney Gen\u2026 [+5296 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Tucker Carlson lashes out at American leaders who 'betrayed us' to China",
+            "description": "Tucker Carlson opened his television program Tuesday by reminding viewers of the dangers the United States faces from China.",
+            "url": "https://www.foxnews.com/media/tucker-carlson-says-leaders-betrayed-us-and-sold-the-united-states-to-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/TUCKER-CARLSON-WALMART.jpg",
+            "publishedAt": "2020-02-19T03:11:18Z",
+            "content": "Tucker Carlson opened his television program Tuesday by reminding viewers of\u00a0the dangers the United States faces from\u00a0China.\r\n\"In coastal cities, housing has become astronomically expensive. Prices are rising far faster than wage growth. And most tragically, \u2026 [+2117 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Tucker Carlson lashes out at American leaders who 'betrayed us' to China",
+            "description": "Tucker Carlson opened his television program Tuesday by reminding viewers of the dangers the United States faces from China.",
+            "url": "https://www.foxnews.com/media/tucker-carlson-american-leaders-betrayed-us-china",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/TUCKER-CARLSON-WALMART.jpg",
+            "publishedAt": "2020-02-19T03:11:18Z",
+            "content": "Tucker Carlson opened his television program Tuesday by reminding viewers of\u00a0the dangers the United States faces from\u00a0China.\r\n\"In coastal cities, housing has become astronomically expensive. Prices are rising far faster than wage growth. And most tragically, \u2026 [+2117 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "China seeks blood donations in coronavirus fight",
+            "description": "Multiple Chinese cities are seeing their blood supplies dwindle as travel restrictions amid fears of the coronavirus have kept potential donors at home.",
+            "url": "https://www.foxnews.com/health/china-blood-donations-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20049181186429.jpg",
+            "publishedAt": "2020-02-19T02:16:00Z",
+            "content": "Multiple Chinese cities are seeing their blood supplies dwindle as travel restrictions amid fears of the coronavirus have kept potential donors at home.\r\nOfficials in Shiyan in the Hubei province, the epicenter of the virus outbreak that has killed more than \u2026 [+870 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Sen. Tom Cotton stands by startling theory on coronavirus origins: 'We need to be open to all possibilities'",
+            "description": "Sen. Tom Cotton, R-Ark. stood by his earlier suggestion that the deadly coronavirus may have originated in a high-security biochemical lab in Wuhan, China, telling \"The Story\" Tuesday that we \"need to be open to all possibilities\" in exploring the origins of \u2026",
+            "url": "https://www.foxnews.com/media/sen-tom-cotton-coronavirus-origins",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/MacCallumCotton.jpg",
+            "publishedAt": "2020-02-19T01:45:03Z",
+            "content": "Sen. Tom Cotton,\u00a0R-Ark.\u00a0stood by his earlier suggestion\u00a0that the deadly coronavirus may have originated in a high-security biochemical lab in\u00a0Wuhan, China, telling \"The Story\" Tuesday that we \"need to be open to all possibilities\" in exploring the origins of \u2026 [+3909 chars]"
+        }
+    ]
+}

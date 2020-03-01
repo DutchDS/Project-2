@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "For universities that have come to rely on China, the coronavirus poses an unprecedented risk",
+            "description": "Students are trapped in China, semesters abroad are upended, and the future remains uncertain.",
+            "url": "https://fortune.com/2020/02/09/coronavirus-china-students-university/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202063226.jpg?resize=1200,600",
+            "publishedAt": "2020-02-09T16:00:00Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Audrey Cher",
+            "title": "Uncertainty looms over Asia's top events as coronavirus fears grip",
+            "description": "From art shows to golf tournaments, countries like Hong Kong, Singapore and Thailand have seen major events called off as fears over the new coronavirus spread.",
+            "url": "https://www.cnbc.com/2020/02/12/uncertainty-looms-over-asia-events-as-coronavirus-fears-grip.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106382403-1581344002198gettyimages-1133085761.jpeg?v=1581344273",
+            "publishedAt": "2020-02-09T23:43:00Z",
+            "content": "Visitors viewing artwork at Art Basel on March 27, 2019 in Hong Kong. The 2020 event in Hong Kong was cancelled due to concerns over the spread of a new coronavirus that has killed hundreds, most of them from China.\r\nEvents across Asia have been postponed or \u2026 [+4830 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Asia stocks set to decline as investors monitor the virus' potential impact on Chinese manufacturing",
+            "description": "Factories in China were scheduled to reopen on Monday after an extended holiday, though many are expected to remain shut for longer.",
+            "url": "https://www.cnbc.com/2020/02/10/asia-markets-coronavirus-china-inflation-data-chinese-manufacturing.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106370340-1580772476815gettyimages-1198188607.jpeg?v=1581290890",
+            "publishedAt": "2020-02-09T23:42:00Z",
+            "content": "Stocks in Asia were poised to decline at the open on Monday as Chinese manufacturers were set to return to work, but many are expected to remain shut for longer due to the ongoing coronavirus outbreak.\r\nFutures pointed to a lower open for Japanese stocks. The\u2026 [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Saheli Roy Choudhury",
+            "title": "Coronavirus live updates: China's Hubei province reports 91 additional deaths",
+            "description": "The Hubei Provincial Health Committee said that 871 people have died in the province and a total of 29,631 cases have been confirmed thus far.",
+            "url": "https://www.cnbc.com/2020/02/10/coronavirus-latest-updates-china-hubei.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106381484-1581289374841gettyimages-1199626326.jpeg?v=1581289450",
+            "publishedAt": "2020-02-09T23:15:49Z",
+            "content": "A woman sits outside wearing a protective mask on February 9, 2020 in Wuhan, China. Flights, trains and public transport including buses, subway and ferry services have been closed for eighteenth days. The number of those who have died from the Wuhan coronavi\u2026 [+2358 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Stephanie Landsman",
+            "title": "Coronavirus fallout could spark the next serious correction, market bull Ed Yardeni warns",
+            "description": "Yardeni Research's Edward Yardeni isn't sure how much longer investors will shrug off coronavirus fears.",
+            "url": "https://www.cnbc.com/2020/02/09/coronavirus-is-the-biggest-threat-to-rally-right-now-ed-yardeni-warns.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106380159-15811148958822020-02-07t102224z_855181189_rc2mve9843l8_rtrmadp_3_china-health.jpg?v=1581114945",
+            "publishedAt": "2020-02-09T22:01:00Z",
+            "content": "Wall Street bull Edward Yardeni isn't sure how much longer investors will shrug off coronavirus fears.\r\nHe sees the outbreak as the most critical risk to the record stock market rally.\r\n\"That's all I really see,\" the Yardeni Research president told CNBC's \"Tr\u2026 [+1712 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Coronavirus live updates: China pledges $10 billion to fight outbreak, UK confirms fourth case",
+            "description": "China has allocated a total of 71.85 billion yuan ($10.26 billion) to fight the fast-spreading coronavirus, which has killed more than 800 people",
+            "url": "https://www.cnbc.com/2020/02/09/coronavirus-live-updates-china-pledges-10-billion-to-fight-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106379992-1581108923403gettyimages-1198751542.jpeg?v=1581108955",
+            "publishedAt": "2020-02-09T14:19:49Z",
+            "content": "People scramble to buy face masks in a medical supply store a day after the Philippine government confirmed the first novel coronavirus case, in Manila, Philippines, January 31, 2020.\r\nThis is a live blog. Please check back for updates.\r\nAll times below are i\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Joanna Tan",
+            "title": "Coronavirus live updates: New virus has now killed more people than SARS",
+            "description": "Hubei province reported an additional 81 deaths, bringing the global death toll to at least 805.",
+            "url": "https://www.cnbc.com/2020/02/09/coronavirus-latest-updates-china-death-toll.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106380715-1581179617648gettyimages-1199271599.jpeg?v=1581179788",
+            "publishedAt": "2020-02-09T00:09:43Z",
+            "content": "A citizen wearing a mask cycling across a deserted road in Wuhan, China on February 7, 2020. The 2019 new coronavirus was discovered in Wuhan in late 2019, and has spread to more than two dozen countries since.\r\nThis is a live blog. Please check back for upda\u2026 [+2560 chars]"
+        }
+    ]
+}

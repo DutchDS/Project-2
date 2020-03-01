@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAKE COYLE AP Film Writer",
+            "title": "'Birds of Prey' flies low on Oscars weekend with tepid debut",
+            "description": "\u201cBirds of Prey,\u201d the DC Comics' Harley Quinn spinoff, made a tepid debut in theaters over the weekend, opening in No. 1 but below expectations with $33.3 million domestically",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/birds-prey-flies-low-oscars-weekend-tepid-debut-68862713",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_0607c8ec568d4337857c7d47b480daf0_16x9_992.jpg",
+            "publishedAt": "2020-02-09T19:03:39Z",
+            "content": "LOS ANGELES -- \r\nBirds of Prey, the DC Comics' Harley Quinn spinoff, made a tepid debut in theaters over the weekend, opening in No. 1 but below expectations with $33.3 million domestically, according to studio estimates Sunday. \r\nBirds of Prey (and the Fanta\u2026 [+3471 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Ivan Pereira",
+            "title": "Coronavirus death toll hits 812, surpassing SARS fatalities",
+            "description": "Coronavirus death toll hits 812, surpassing SARS fatalities go.com",
+            "url": "https://abcnews.go.com/Health/coronavirus-death-toll-hits-812-surpassing-sars-fatalities/story?id=68860340",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-china-gty-aa-200209_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-09T17:57:40Z",
+            "content": "The death toll from the coronavirus surpassed the number of people who were killed by the 2002-2003 SARS outbreak, Chinese health officials said.\r\nAs of Sunday, 812 people died in China after contracting the virus, according to the World Health Organization (\u2026 [+1486 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Spain confirms 2nd virus case; UK plane brings 200 evacuees",
+            "description": "Spain has confirmed its second case of the new virus from China and a plane evacuating more than 200 people from the Chinese city at the center of the epidemic has landed in Britain",
+            "url": "https://abcnews.go.com/Health/wireStory/spain-confirms-2nd-virus-case-uk-plane-brings-68859138",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_2d6ad7d187644a048c3969a89aa37bf5_16x9_992.jpg",
+            "publishedAt": "2020-02-09T10:21:41Z",
+            "content": "MADRID -- \r\nSpain has confirmed its second case of the new virus from China and a plane evacuating more than 200 people from the Chinese city at the center of the epidemic landed Sunday in Britain.\r\nSpain's National Microbiology Center said Sunday the coronav\u2026 [+1166 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ERIKA KINETZ Associated Press",
+            "title": "Mapping app location data shows how virus spread in China",
+            "description": "As a growing number of countries block travel from China, experts warn that the expanding net of restrictions may be too late to stop the spread of a new virus that has claimed over 800 lives",
+            "url": "https://abcnews.go.com/Health/wireStory/mapping-app-location-data-shows-virus-spread-china-68858061",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_2b68ed0b8c87406e81914866dedcbdc1_16x9_992.jpg",
+            "publishedAt": "2020-02-09T07:09:33Z",
+            "content": "SHANGHAI -- \r\nFor weeks after the first reports of a mysterious new virus in Wuhan, millions of people poured out of the central Chinese city, cramming onto buses, trains and planes as the first wave of Chinas great Lunar New Year migration broke across the n\u2026 [+8011 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 37,500 people globally",
+            "description": "A viral outbreak that began in China has infected more than 37,500 people worldwide",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-37500-people-globally-68857640",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ac3c3c5d11d14315a0ce2a2662ed4f7d_16x9_992.jpg",
+            "publishedAt": "2020-02-09T06:24:47Z",
+            "content": "A viral outbreak that began in China has infected more than 37,500 people globally. \r\nThe latest figures reported by global health authorities as of Sunday in Beijing:\r\nChina: 811 deaths and 37,198 confirmed cases on the mainland. In addition, Hong Kong has h\u2026 [+603 chars]"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Ivan Pereira",
+            "title": "Feds backtrack on transfer of quarantined coronavirus patients to Alabama",
+            "description": "Plans to move American coronavirus patients to an Alabama facility were canceled Sunday after local officials and residents expressed concerns.",
+            "url": "https://abcnews.go.com/Health/feds-backtrack-transfer-quarantined-coronavirus-patients-alabama/story?id=69162771",
+            "urlToImage": "https://s.abcnews.com/images/US/fema-1-ht-er-200223_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-23T23:18:47Z",
+            "content": "Plans to move American coronavirus patients to an Alabama facility were canceled Sunday after local officials and residents expressed concerns.\r\nHours after Anniston County's City Council voted Sunday to pursue legal action against the federal government over\u2026 [+3382 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LUCA BRUNO and FRANCES D'EMILIO Associated Press",
+            "title": "Italy cancels Venice Carnival in bid to halt spread of virus",
+            "description": "Italian authorities have announced they are shutting down Venice's famed carnival events in a bid to stop the spread of the novel virus, as numbers of infected persons in the country have soared to at least 133, the largest amount of cases outside Asia",
+            "url": "https://abcnews.go.com/Health/wireStory/italy-cancels-venice-carnival-bid-halt-spread-virus-69160543",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_0ff496d8ffa04392af18e7b34f99453c_16x9_992.jpg",
+            "publishedAt": "2020-02-23T16:27:54Z",
+            "content": "CODOGNO, Italy -- \r\nScrambling to contain rapidly rising number of new coronavirus infections in Italy, the largest amount outside Asia, authorities on Sunday stepped up measures to ban public gatherings, including stopping Venice's famed carnival events, whi\u2026 [+7061 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "View of a longtime economist: Slower growth but no recession",
+            "description": "In this high-profile election year, the U.S. economy boasts an unemployment rate that is near its lowest level in a half-century",
+            "url": "https://abcnews.go.com/US/wireStory/view-longtime-economist-slower-growth-recession-69160198",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-23T15:30:32Z",
+            "content": "WASHINGTON -- \r\nIn this high-profile election year, the U.S. economy boasts an unemployment rate that is near its lowest level in a half-century.\r\nBut economic growth has been slowing. And some economists say the expansion may be vulnerable to risks ranging f\u2026 [+2369 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW WILKS Associated Press",
+            "title": "Turkey closes borders with Iran over coronavirus concerns",
+            "description": "Turkey's health minister says the border with Iran will be closed due to the number of coronavirus cases in its eastern neighbor",
+            "url": "https://abcnews.go.com/International/wireStory/turkey-closes-borders-iran-coronavirus-concerns-69160084",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_cfecf91800f740b8a28694515583ca66_16x9_992.jpg",
+            "publishedAt": "2020-02-23T14:58:16Z",
+            "content": "ANKARA, Turkey -- \r\nTurkey's health minister said the border with Iran would be closed from Sunday due to the number of coronavirus cases in its eastern neighbor.\r\nFahrettin Koca said flights from Iran would also cease from 8 p.m. local time (1700 GMT). Road \u2026 [+966 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Joohee Cho",
+            "title": "South Korea raises coronavirus alert level to 'highest'",
+            "description": "South Korea raises coronavirus alert level to 'highest' go.com",
+            "url": "https://abcnews.go.com/International/south-korea-raises-coronavirus-alert-level-highest/story?id=69158419",
+            "urlToImage": "https://s.abcnews.com/images/International/South_Korea_Virus_Outbreak_hpMain_20200223-083243_16x9_992.jpg",
+            "publishedAt": "2020-02-23T13:49:53Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korea has raised the alert level for the novel coronavirus to highest on Sunday as confirmed cases continue to rise at an alarming rate.\r\n\"The COVID-19 incident has been confronted by a grave watershed,\" President Moon Jae-in sai\u2026 [+2291 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Italian authorities announce a stop to Venice's famed carnival events in bid to stop spread of new coronavirus",
+            "description": "Italian authorities announce a stop to Venice's famed carnival events in bid to stop spread of new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/italian-authorities-announce-stop-venices-famed-carnival-events-69158531",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-23T12:43:17Z",
+            "content": "MILAN -- \r\nItalian authorities announce a stop to Venice's famed carnival events in bid to stop spread of new coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLEEN BARRY AP Fashion Write",
+            "title": "Raf Simons joining Prada in full creative collaboration",
+            "description": "Two of the fashion world's biggest creatives, Miuccia Prada and Raf Simons, are entering in a creative design collaboration at Prada going forward indefinitely",
+            "url": "https://abcnews.go.com/International/wireStory/raf-simons-joining-prada-full-creative-collaboration-69158425",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-23T12:37:02Z",
+            "content": "MILAN -- \r\nMiuccia Prada and Raf Simons two of the fashion world's biggest creatives will collaborate on Prada collections from Spring/Summer 2021 going forward indefinitely, the designers announced Sunday at a press conference on the sidelines of Milan Fashi\u2026 [+2429 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associated Press",
+            "title": "Iran's health minister says virus came from China travel",
+            "description": "Iran's health minister says that travel from China first brought the new virus to the Middle Eastern country, amid concerns that coronavirus clusters in Iran, as well as in Italy and South Korea, could signal a serious new stage in its global spread",
+            "url": "https://abcnews.go.com/International/wireStory/irans-health-minister-virus-china-travel-69157724",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_5c38f710a0304231a7087154439ec68d_16x9_992.jpg",
+            "publishedAt": "2020-02-23T09:43:18Z",
+            "content": "TEHRAN, Iran -- \r\nIran's health minister said Sunday that travel from China brought the new virus to the Middle Eastern country, amid concerns that coronavirus clusters in Iran, as well as in Italy and South Korea, could signal a serious new stage in its glob\u2026 [+2172 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DARIA LITVINOVA and FRANCESCA EBEL Associated Press",
+            "title": "Moscow targets Chinese with raids amid virus fears",
+            "description": "Russian authorities are going to significant lengths to keep the virus in China from surfacing in Moscow",
+            "url": "https://abcnews.go.com/International/wireStory/moscow-targets-chinese-raids-amid-virus-fears-69157387",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_08e54f73c4ce458f8ea1d9a516bb346c_16x9_992.jpg",
+            "publishedAt": "2020-02-23T07:30:48Z",
+            "content": "MOSCOW -- \r\nBus drivers in Moscow kept their WhatsApp group chat buzzing with questions this week about what to do if they spotted passengers who might be from China riding with them in the Russian capital.\r\nSome Asian-looking (people) have just got on. Proba\u2026 [+7266 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected over 78,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 78,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-78000-people-globally-69154497",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_4f0a311057014e88a60519e34efe5d62_16x9_992.jpg",
+            "publishedAt": "2020-02-23T03:23:03Z",
+            "content": "A viral outbreak that began in China has infected more than 78,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+834 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLEEN BARRY AP Fashion Writer",
+            "title": "Armani to hold runway show in empty theater due to new virus",
+            "description": "In a last-minute change, Giorgio Armani is holding his Milan Fashion Week runway show behind closed doors Sunday due to concerns raised by the coronavirus",
+            "url": "https://abcnews.go.com/Business/wireStory/armani-hold-runway-show-empty-theater-due-virus-69152978",
+            "urlToImage": "https://s.abcnews.com/images/Lifestyle/WireAP_2cb943e73b5b409588c60ff86e188220_16x9_992.jpg",
+            "publishedAt": "2020-02-23T02:02:20Z",
+            "content": "MILAN -- \r\nIn a last-minute change, Giorgio Armani is holding his Milan Fashion Week runway show behind closed doors Sunday due to concerns raised by the coronavirus, and instead stream the event from inside the empty showroom.\r\nThe fashion house said in a st\u2026 [+8336 chars]"
+        }
+    ]
+}

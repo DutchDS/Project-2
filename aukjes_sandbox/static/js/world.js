@@ -1,3 +1,8 @@
+let slider_input = document.querySelector('input');                                                                    //assign the input from slider to variable a                                                                //assign the output under the slider to variable b
+
+var last_DB_date = $("#selectDate").text();
+console.log(last_DB_date)
+
 // Creating map object
 var myMap = L.map("map", {
   center: [34.5133, -10.1629],
@@ -11,7 +16,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   accessToken: API_KEY
 }).addTo(myMap);
 
-var current_date = new Date('2020-01-22');
+var current_date = new Date('2020-01-23');
 
 function formatDate(date) {
   var d = new Date(date),
@@ -41,7 +46,7 @@ function task(i) {
   // call run
     get_new_layer(geoUrl);
   
-    current_date.setDate(current_date.getDate() + 3);
+    current_date.setDate(current_date.getDate() + 1);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
@@ -77,13 +82,13 @@ function get_new_layer(geoUrl) {
     
     // console.log("GEOJSON ", data)
     // Create a new choropleth layer
-    geojson = L.geoJson(data, {
+    geojson = new L.geoJson(data, {
       style: function(feature) {
         return {
           color: "white",
           // fillColor: "red",
           fillColor: chooseColor(feature.properties.confirmedCount), 
-          fillOpacity: 0.7,
+          fillOpacity: 0.85,
           weight: 0.5
         }
       },
@@ -122,7 +127,9 @@ legend.addTo(myMap);
 var today = new Date()
 var yesterday =  today.setDate(today.getDate() - 1);
 
+// initgeoUrl = "static/world_geojsons/" + formatDate(yesterday) + ".json";
 initgeoUrl = "static/world_geojsons/" + formatDate(yesterday) + ".json";
+
 console.log(initgeoUrl)
 
 get_new_layer(initgeoUrl);
@@ -136,6 +143,18 @@ function reload() {
     } 
   }
   
-// Initiate button listener
-var get_all = d3.select("#selectAll");
-get_all.on("click", function() {reload()});
+d3.select("#selectAll").on("click", function() {reload()});
+
+
+slider_input.addEventListener('change', function () {                                                                   //using event listener with input gives instant response; use 'change' instead to see the difference in response
+    var day_one;                                                                                            //declare our day_one variable which will represent the day one of outbreak
+    day_one = moment("22/01/2020", "DD/MM/YYYY");                                                           //assigning our day one value 27 Jan 2020 to day_one using moment lib
+    var slider_day = moment(day_one,"DD/MM/YYYY").add((slider_input.value-1),'day');                                   //manipulating the slider input with day_one value using moment, to get date for slider input
+    get_date = moment(slider_day,"DD/MM/YYYY").format("YYYY-MM-DD");
+    console.log(get_date)
+    geoUrl = "static/world_geojsons/" + last_DB_date + ".json";
+
+    console.log(geoUrl)
+
+    get_new_layer(geoUrl);
+}, false);

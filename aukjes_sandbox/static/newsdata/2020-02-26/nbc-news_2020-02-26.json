@@ -1,0 +1,279 @@
+{
+    "status": "ok",
+    "totalResults": 21,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Edelman",
+            "title": "Trump says coronavirus risk to Americans 'very low,' administration effectively handling the outbreak",
+            "description": "Trump's address came after the CDC warned it was only a matter of time before COVID-19, will spread across communities in the United States.",
+            "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-coronavirus-risk-americans-very-low-administration-effectively-handling-n1143756",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3245971/200226-donald-trump-coronavirus-presser-ew-641p_eadb946e0a1934f8511847870245f3dc.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T23:54:37Z",
+            "content": "President Donald Trump on Wednesday attempted to ease growing fears over the spreading coronavirus, saying at the White House that his administration has the situation under control and is \"ready to adapt\" if the virus spreads.\r\n\"Because of all we've done, th\u2026 [+3869 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Trump offers 'deepest condolences' to victims of MolsonCoors shooting",
+            "description": "President Trump comments on a deadly shooting at the MolsonCoors headquarters that left \u201cmultiple people\u201d dead in Wisconsin while speaking at a news conference on the growing threat of the COVID-19 coronavirus.",
+            "url": "https://www.nbcnews.com/video/trump-offers-deepest-condolences-to-victims-of-molsoncoors-shooting-79500357764",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/AFP_1PC98S.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T23:49:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Scientist speaks out about coronavirus origin: exclusive",
+            "description": "NBC\u2019s Richard Engel speaks with Dr. Danielle Anderson, a virologist who has isolated the coronavirus that causes COVID-19 at her Singapore lab.  Her research into the virus\u2019s origin points to bats at animal markets.",
+            "url": "https://www.nbcnews.com/nightly-news/video/scientist-speaks-out-about-coronavirus-origin-exclusive-79500869767",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_ren_coronavirus_global_200226_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T23:41:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "First U.S. trial for coronavirus treatment begins",
+            "description": "The University of Nebraska Medical Center\u2019s first patient is an individual  who got off a quarantined cruise ship in Japan. Eventually, 400 patients will be in the trial worldwide.",
+            "url": "https://www.nbcnews.com/nightly-news/video/first-u-s-trial-for-coronavirus-treatment-begins-79499845955",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_tco_coronavirus_us_200226_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T23:38:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jason Abbruzzese",
+            "title": "Major U.S. stock indexes drop for third-straight day",
+            "description": "Major U.S. stock indexes drop for third-straight day",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1143781",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T22:56:45Z",
+            "content": "The Dow Jones Industrial Average and the S&amp;P 500 the two most closely watched U.S. indexes of stocks dropped for a third-straight day on Wednesday.\r\nConcerns over a larger global outbreak of the coronavirus have pushed many companies to issue warnings tha\u2026 [+5664 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Spanish island hotel on lockdown, as coronavirus spreads",
+            "description": "Nearly a thousand hotel guests are being placed under quarantine on the island of Tenerife, after two Italian tourists tested positive there.",
+            "url": "https://www.nbcnews.com/video/spanish-island-hotel-on-lockdown-as-coronavirus-spreads-79497285564",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/f_tov_lon_tenerife_200226.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T22:39:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "'The people have vanished': Some bars and clubs reopen in Milan",
+            "description": "Coronavirus in Italy: Bars and clubs in Milan can re-open in the evenings, local authorities announced on Wednesday, in the first rollback of tough restrictions imposed at the weekend to try to contain a coronavirus outbreak.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1143746",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T22:16:00Z",
+            "content": "Bars and clubs in Milan can reopen in the evenings, local authorities announced on Wednesday, in the first rollback of tough restrictions imposed at the weekend to try to contain a coronavirus outbreak in Italy.\r\nThe move came even as the number of cases nati\u2026 [+3847 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates live: Countries prepare as outbreak spreads",
+            "description": "Coronavirus news reported live as the number of infected increases, with recent confirmed coronavirus cases in Italy, Iran, and South Korea.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245381/200226-coronavirus-covid-19-cs-205p_f13f5ae18d69e0f86f6f37433f3ea41c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T22:14:00Z",
+            "content": "Why is Iran's reported mortality rate for coronavirus higher than in other countries?\r\nIran has the highest reported number of deaths from the\u00a0coronavirus\u00a0outside China, raising questions about how the government is handling the public health crisis and wheth\u2026 [+5822 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "'Not our first rodeo with new germs': To prep for coronavirus, hospitals use lessons learned in past epidemics",
+            "description": "Hospitals are holding daily briefings with state and local health departments, stocking up on personal protective equipment for health care workers, and working with engineers to better control air flow in their hospitals to make sure they are best positioned\u2026",
+            "url": "https://www.nbcnews.com/health/health-news/not-our-first-rodeo-new-germs-prep-coronavirus-hospitals-use-n1143566",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_09/3245416/200226-coronavirus-covid-19-cs-1043a_906862d70f358632826448aaa6030e4c.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T22:12:00Z",
+            "content": "Before the first confirmed U.S. case of the new coronavirus infection showed up at a hospital in late January, the patient did exactly what hospital officials in Washington state had hoped for: He gave them a heads-up he was coming.\r\n\"What we really want pati\u2026 [+6813 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Laura Strickler",
+            "title": "Trump cuts to national security staff may hurt coronavirus response",
+            "description": "Trump's downsizing of national security staff and elimination of jobs addressing pandemics will likely hamper the U.S. response to coronavirus, experts say.",
+            "url": "https://www.nbcnews.com/health/health-news/trump-cuts-national-security-staff-may-hurt-coronavirus-response-say-n1143656",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3245526/200226-donald-trump-cs-402p_5de3ef69c8183b48e39ae12f22b67b5f.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T22:02:30Z",
+            "content": "WASHINGTON President Donald Trump's decision to downsize the White House national security staff and eliminate jobs addressing global pandemics is likely to hamper the U.S. government's response to the coronavirus, according to veterans of past disease outbre\u2026 [+6856 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniel Arkin",
+            "title": "'Mulan' was set to be a blockbuster in China. But then came the coronavirus.",
+            "description": "It's possible the live-action remake of \"Mulan\" might not hit theaters in time for its March 27 premiere amid the coronavirus outbreak in mainland China.",
+            "url": "https://www.nbcnews.com/news/asian-america/mulan-was-set-be-blockbuster-china-then-came-coronavirus-n1143606",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_09/3245351/200226-mulan-china-al-1338_df8000db9331e9070a84293f6f916b7b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T21:39:00Z",
+            "content": "The live-action remake of \"Mulan\" the first major Disney movie featuring an all-Asian cast was set to be a blockbuster event in China, home to the second largest market for the global film industry.\r\nBut the rapid spread of the coronavirus across mainland Chi\u2026 [+2853 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Azar on coronavirus: 'Immediate risk to the American public remains low'",
+            "description": "Health and Human Services Secretary Alex Azar spoke about coronavirus at a House budget hearing, announcing a 15th confirmed case but reassuring the risk to the American public \"remains low.\"",
+            "url": "https://www.nbcnews.com/video/azar-claims-coronavirus-risk-to-the-american-public-remains-low-79487557976",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/azar_corona.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T20:28:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Paul A. Eisenstein",
+            "title": "Coronavirus expected to slam 2020 global car sales",
+            "description": "Global auto sales could fall by as much as 2.5 percent this year, a significantly sharper decline than the 0.9 percent dip previously forecast, with coronavirus taking the blame.",
+            "url": "https://www.nbcnews.com/business/autos/coronavirus-expected-slam-2020-global-car-sales-n1143571",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3245396/200226-car-assembly-china-coronavirus-se-226p_89543fa5581c8e501ddf4bd8647c20b4.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T19:36:00Z",
+            "content": "Global auto sales could dip by as much as 2.5 percent this year, a significantly sharper decline than the 0.9 percent dip previously forecast, with coronavirus taking the blame, according to a newly released report by Moodys.\r\nAlmost from the moment it became\u2026 [+3893 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "First case in Latin America...",
+            "description": "First case in Latin America... (Second column, 14th story, link ) Related stories: WORLD BRACES FOR LONG BATTLE... SPREAD IN USA 'INEVITABLE'... Book of Revelation? Screening 'missing more than half of cases'... Trump accuses media of stoking virus fears, pla\u2026",
+            "url": "https://www.nbcnews.com/news/world/first-coronavirus-case-latin-america-confirmed-brazil-n1143411",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245056/200226-coronavirus-brazil-al-1020_785697f8e9aae9c645c5148c02b010d4.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T15:37:38Z",
+            "content": "RIO DE JANEIRO Brazil's government confirmed on Wednesday that a 61-year-old Brazilian man who traveled to Italy this month has Latin America's first confirmed case of the contagious new coronavirus.\r\nWe will now see how this virus behaves in a tropical count\u2026 [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Shannon Pettypiece",
+            "title": "Trump's rosy view of coronavirus contrasts with his own health officials'",
+            "description": "President Donald Trump could be heading into the peak of his re-election bid with the coronavirus affecting economic growth and the stock market. But in his telling, everything is fine.",
+            "url": "https://www.nbcnews.com/politics/white-house/trump-s-rosy-view-coronavirus-contrasts-his-own-health-officials-n1142601",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3243611/200225-donald-trump-al-1354_060cb2c99990b93cbb89442f525e6afd.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T14:01:04Z",
+            "content": "WASHINGTON This week, federal health officials warned Americans to prepare for the coronavirus to become a pandemic, stocks tumbled on fears of just how widespread the virus could get, and the White House sought $2.5 billion from Congress to fight the deadly \u2026 [+8524 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Allan Smith",
+            "title": "Trump to hold White House news conference on coronavirus Wednesday",
+            "description": "President Donald Trump announced Wednesday morning that he will hold a White House news conference on coronavirus later in the day.",
+            "url": "https://www.nbcnews.com/politics/donald-trump/trump-hold-white-house-news-conference-coronavirus-wednesday-n1143366",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3244891/200226-donald-trump-al-0825_59f5ed3e53242459bd4c9f7fba99e7e5.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T13:57:49Z",
+            "content": "As warnings on the spread of the deadly coronavirus intensified and markets plummeted, President Donald Trump announced he will hold a White House news conference on the outbreak Wednesday evening alongside representatives from the Centers for Disease Control\u2026 [+2689 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "In Round 10, Sanders finally gets treated like the front-runner",
+            "description": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/round-10-sanders-finally-gets-treated-front-runner-n1143381",
+            "urlToImage": "https://static.euronews.com/articles/4527980/1000x563_nbc-200226-bernie-sanders-al-0812_66604aded27b98eea9b635d089b678dd.jpg",
+            "publishedAt": "2020-02-26T13:49:00Z",
+            "content": "WASHINGTON \u2014 Well, Bernie Sanders finally got the front-runner treatment at last night's Democratic debate in Charleston, S.C.\r\nHe took incoming from Pete Buttigieg: \"If you think the last four years has been chaotic, divisive, toxic, exhausting, imagine spen\u2026 [+6448 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Coronavirus updates: U.S. soldier in South Korea tests positive as global toll rises",
+            "description": "As the number of coronavirus deaths jumps to over 2,700 in mainland China, here is the latest for Wednesday, Feb. 26.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-u-s-soldier-south-korea-tests-positive-global-n1143326",
+            "urlToImage": "https://static.euronews.com/articles/4527664/1000x563_nbc-200226-camp_carroll-mc-855_0dc6ce1ead9c5a6a036f7882147c1092.jpg",
+            "publishedAt": "2020-02-26T10:18:00Z",
+            "content": "\u2022 U.S. soldier in South Korea tests positive for COVID-19 as death toll in country reaches 12\u2022 More than 2,700 coronavirus deaths in China\u2022 Jamaica bars cruise ship after crew member placed in isolationJamaica bars cruise ship after crew member shows symptoms\u2026 [+1812 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lauren Egan",
+            "title": "Democratic candidates slam 'great genius' Trump for botching coronavirus response",
+            "description": "At the Democratic debate in Charleston, South Carolina on Tuesday, presidential candidates discussed the increase in the coronavirus outbreak and criticized President Donald Trump's response.",
+            "url": "https://www.nbcnews.com/politics/2020-election/democratic-candidates-slam-great-genius-trump-botching-coronavirus-response-n1143181",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3244466/200225-coronavirus-se-1006p_923e90adbb5f1ca713e6dddda402ae66.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T03:27:23Z",
+            "content": "CHARLESTON, S.C. Democratic presidential candidates criticized President Donald Trump's response to the coronavirus outbreak during the debate on Tuesday night, blasting budget cuts his administration has made to the Centers for Disease Control and Prevention\u2026 [+3101 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Klobuchar, Sanders hit Trump over coronavirus preparation",
+            "description": "Sen. Amy Klobuchar and Sen. Bernie Sanders criticized President Trump over his handling of coronavirus and explained what they would do differently as president during the Democratic debate.",
+            "url": "https://www.nbcnews.com/video/klobuchar-sanders-hit-trump-over-coronavirus-preparation-79440453816",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/f_mo_debate_klo_sanders_corona_200225.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T02:36:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dan De Luce and Leila Gharagozlou and Emmanuelle Saliba and Robert Windrem",
+            "title": "Why is Iran's reported mortality rate for coronavirus higher than in other countries?",
+            "description": "Iran's high reported coronavirus death rate raises questions about how officials diagnose infections, and whether the regime wants to play down the outbreak.",
+            "url": "https://www.nbcnews.com/health/health-news/why-iran-s-reported-mortality-rate-coronavirus-higher-other-countries-n1142646",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3243806/200225-tehran-iran-disinfect-sunway-coronavirus-ew-322p_92ad918df4ce392adfb589eb6b6774cd.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-26T00:52:00Z",
+            "content": "WASHINGTON Iran has the highest reported number of deaths from the coronavirus outside China, raising questions about how the government is handling the public health crisis and whether the often secretive regime has been fully transparent about the extent of\u2026 [+7095 chars]"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "First Americans evacuated from China released from quarantine",
+            "description": "After 14 days under lockdown, some of the 195 Americans who were the first people evacuated on a U.S. government-chartered plane from the epicenter of the coronavirus outbreak in China have been released from quarantine.",
+            "url": "https://www.nbcnews.com/nightly-news/video/first-americans-evacuated-from-china-released-from-quarantine-78585413692",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mal_coronavirus_200211_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T23:49:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards, Associated Press, Rosemary Guerguerian, M.D., Patrick Martin",
+            "title": "What's known and unknown about how the new coronavirus spreads",
+            "description": "How does the new coronavirus spread? Can it spread through pipes or sewage? An update on what experts know about the spread of coronavirus COVID-19.",
+            "url": "https://www.nbcnews.com/health/health-news/what-s-known-unknown-about-how-new-coronavirus-spreads-n1134981",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_07/3225901/200211-coronavirus-residents-evacuation-se-138p_e37d3cbc023e6966b970f3c34b84c66e.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T23:38:01Z",
+            "content": "The alarming rate at which the new coronavirus has spread throughout China has raised concerns about how it passes from person to person.\r\n\"This outbreak is spreading much more quickly than SARS did,\" Dr. Anne Schuchat, principal deputy director of the Center\u2026 [+3811 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Associated Press",
+            "title": "'We're definitely not prepared': Africa braces for coronavirus",
+            "description": "The new virus that has spread across China has yet to be confirmed in Africa, but some health workers on the ground warn they are not ready to handle an outbreak.",
+            "url": "https://www.nbcnews.com/news/nbcblk/we-re-definitely-not-prepared-africa-braces-coronavirus-n1133161",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_06/3222926/200209-coronavirus-ghana-cs-1035a_27b4cdb6c8f57df1adbaa420cfd2a7a8.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T19:54:00Z",
+            "content": "LUSAKA, Zambia At a Chinese-run hospital in Zambia, some employees watched as people who recently returned from China showed up with coughs but were not placed in isolation. A doctor tending to those patients has stopped coming to work, and health workers hav\u2026 [+8123 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ali Gostanian and Suzanne Ciechalski and Rima Abdelkader and Saphora Smith",
+            "title": "Asians worldwide share examples of coronavirus-related xenophobia on social media",
+            "description": "As the Coronavirus outbreak spreads to other countries, Asian communities are facing increasing stigma and harassment.",
+            "url": "https://www.nbcnews.com/news/asian-america/asians-worldwide-share-examples-coronavirus-related-xenophobia-social-media-n1132036",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3219776/200206-la-metro-rant-ac-603p_898582b9c9a0929e136d60c4d2687909.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T19:48:25Z",
+            "content": "From New York City to Los Angeles, and various cities around the world, people of Asian descent have been documenting xenophobic incidents on social media following the recent outbreak of the new coronavirus, now called COVID-19.\r\nNBC News Social Newsgatherin\u2026 [+5195 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ali Gostanian and Yuliya Talmazan and Eric Baculinao",
+            "title": "Coronavirus: Chinese lawyer critical of government missing in Wuhan, family says",
+            "description": "Family and friends are sounding the alarm about the feared disappearance of a Chinese lawyer who has been documenting the coronavirus outbreak in Wuhan.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-outspoken-chinese-lawyer-critical-government-missing-wuhan-family-says-n1133826",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3223691/200210-chen-qiushi-mc-1316_15121124ff911294e0861d54a37f95cf.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T15:33:00Z",
+            "content": "A Chinese lawyer who had been documenting the coronavirus outbreak in the city of Wuhan has not been seen or heard from since last week, and friends and family say they fear he may have been forcibly quarantined by the Chinese government.\r\nThe lawyer, Chen Qi\u2026 [+4307 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Coronavirus gets official name from WHO: COVID-19",
+            "description": "The new coronavirus now has a name from the WHO: COVID-19. The China coronavirus has infected more than 40,000 people and killed more than 1,000.",
+            "url": "https://www.nbcnews.com/health/health-news/coronavirus-gets-official-name-who-covid-19-n1134756",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_07/3217751/200205-coronavirus-germ-ew-240p_de501b51caffa80ac5d4cbaac336a627.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T15:29:58Z",
+            "content": "The new coronavirus thats sickened more than 42,000 people in China finally has an official name: COVID-19. It stands for the coronavirus disease that was discovered in 2019.\r\nThe World Health Organization announced the official name Tuesday, saying it was ca\u2026 [+371 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Watch live: World Health Organization holds briefing on coronavirus - NBC News",
+            "description": "Watch live: World Health Organization holds briefing on coronavirus NBC News Coronavirus outbreak: WHO provides update on global research priorities | LIVE Global News World Health Organization Holds Briefing On Coronavirus | NBC News (Live Stream) NBC News V\u2026",
+            "url": "https://www.nbcnews.com/video/watch-live-world-health-organization-provides-updates-on-coronavirus-78544965575",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/Switzerland_China_Outbreak_38713-jpg-d7989.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T15:04:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "\u2018We\u2019ll not shake hands\u2019: President Xi raises a laugh as he visits Beijing neighborhood",
+            "description": "China's state broadcaster showed President Xi Jinping visiting a neighborhood in north Beijing to see the measures being taken to prevent the spread of the coronavirus and to hear how the virus was impacting the lives of residents.",
+            "url": "https://www.nbcnews.com/video/china-s-president-xi-visits-beijing-neighborhood-to-see-coronavirus-precautions-and-impact-78536773855",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/AFP_1OV9ZE.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T11:33:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Death toll tops 1,000 in China",
+            "description": "As death toll from the coronavirus outbreak reaches 1,016 in China, here is the latest on the crisis.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-death-toll-tops-1-000-china-nations-race-n1134576",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_07/3225196/200211-wuhan-coronavirus-mc-951_95336f72c1085b1e65c81384c65d8ea6.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-11T11:23:00Z",
+            "content": "Deaths in mainland China rise to 1,016 as confirmed cases reach more than 42,000\r\n Thailand bars cruise passengers from disembarking\r\n 195 U.S. evacuees from Wuhan prepare to end 14-day quarantine\r\n Hong Kong leader tells residents to stay at home as much as \u2026 [+5299 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Coronavirus case confirmed in San Diego, 13th in the U.S.",
+            "description": "CDC confirmed the 13th case of US coronavirus in San Diego. There are 13 coronaviruses cases in the US. This is the seventh in California.",
+            "url": "https://www.nbcnews.com/health/health-news/coronavirus-case-confirmed-san-diego-13th-u-s-n1134561",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_07/3224996/200210-miramar-marine-corps-air-station-ac-852p_c34213463f833a81162cfbb6c0528416.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T03:03:00Z",
+            "content": "A case of the new coronavirus has been diagnosed in San Diego county, bringing the total number of cases in the U.S. to 13.\r\nThe patient had been evacuated from Wuhan, China the epicenter of the coronavirus outbreak that's sickened more than 40,000 people and\u2026 [+759 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Nightly News Full Broadcast (February 10th)",
+            "description": "U.S. charges four Chinese military hackers with massive Equifax breach, Walmart shootout leaves two officers injured in Arkansas and number of coronavirus cases soars to over 40,000 in China.",
+            "url": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-february-10th-78520389565",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_tco_equifax_hack_indictment_2000210_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-11T02:09:22Z",
+            "content": null
+        }
+    ]
+}
