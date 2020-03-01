@@ -2,7 +2,11 @@
 var url = "/api/bar_world";
 var get_shape = d3.select("#selectShape");
 var get_date = $("#selectDate").text();
+var last_DB_date = $("#selectDate").text();
+
 console.log(get_date)
+
+
 
 function get_data(country) {d3.json(url).then(function(response) {
     console.log("in the d3.json NEW part")
@@ -10,7 +14,7 @@ function get_data(country) {d3.json(url).then(function(response) {
 
     var shortShapes = []
     var today = new Date()
-    var yesterday =  formatDate(today.setDate(today.getDate() - 1));
+    // var yesterday =  formatDate(today.setDate(today.getDate() - 1));
 
     for (var i in response) {
         if (response[i].date == last_DB_date)
@@ -20,7 +24,8 @@ function get_data(country) {d3.json(url).then(function(response) {
     var chart_data = []   
 
     console.log(country)
-    if (country == "all")
+    
+    if (country == "all except China")
         chart_data = response
     else
         chart_data =  response.filter(response => {return response.country == country});
@@ -30,8 +35,8 @@ function get_data(country) {d3.json(url).then(function(response) {
     create_chart(chart_data)
 })}
 
+var country = 'all except China'
 
-var country = 'all'
 get_data(country);
 console.log("went through the world_bar script")
 
@@ -101,7 +106,7 @@ var trace3 = {
 var barData = [trace1, trace2, trace3]
 var barLayout = {
         barmode:"stack", 
-        title: { text: "Virus spread over time - excluding China",
+        title: { text: "Virus spread over time for: " + country ,
                 font: {
                     family: 'Arial, Helvetica, sans-serif',
                     size: 32,
@@ -136,7 +141,7 @@ function loadDropDowns(myId, myshortList, myText) {
     var cell = inputDate.append("option").text(myText);
     
     myshortList.forEach((f) => {
-      console.log(f);
+    //   console.log(f);
       var cell = inputDate.append("option")
       cell.text(f);
   
