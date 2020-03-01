@@ -1,5 +1,7 @@
 let slider_input = document.querySelector('input');                                                                    //assign the input from slider to variable a                                                                //assign the output under the slider to variable b
 
+var last_DB_date = $("#selectDate").text();
+console.log(last_DB_date)
 // Creating map object
 var myMap = L.map("map", {
   center: [36.8944, 104.1660],
@@ -38,7 +40,7 @@ function task(i) {
   setTimeout(function() {
 
     script_date = formatDate(current_date)
-     
+    document.getElementById("chartDate").innerHTML = "Chart Date:  " + script_date 
     geoUrl = "static/geojsons/" + script_date + ".json";
     // get_new_layer()
     // console.log(current_date)
@@ -139,10 +141,8 @@ slider_input.addEventListener('change', function () {                           
     get_date = moment(slider_day,"DD/MM/YYYY").format("YYYY-MM-DD");
     console.log(get_date)
     geoUrl = "static/geojsons/" + get_date + ".json";
-    // get_new_layer()
-    // console.log(current_date)
+ 
+    document.getElementById("chartDate").innerHTML = "Chart Date:  " + get_date
     console.log(geoUrl)
-  // call run
-   // console.log("Now processing: ", geoUrl)
     get_new_layer(geoUrl);
 }, false);

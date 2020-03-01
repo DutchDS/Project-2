@@ -156,5 +156,6 @@ slider_input.addEventListener('change', function () {                           
     geoUrl = "static/world_geojsons/" + get_date + ".json";
 
     console.log(geoUrl)
+    document.getElementById("chartDate").innerHTML = "Chart Date:  " + get_date
     get_new_layer(geoUrl);
 }, false);
