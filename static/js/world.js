@@ -60,8 +60,8 @@ function chooseColor(x) {
   // console.log("this is line 57")
   // console.log("--------------------------")
     if (x == 0)
-      color = "#white"
-      opacity = .1
+      { color = "#white";
+      opacity = .1 }
       // color = "transparent"
     else if (x <= 5)
       color = "#f7a1f3"
