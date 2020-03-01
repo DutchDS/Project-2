@@ -13,7 +13,7 @@ function get_data(country) {d3.json(url).then(function(response) {
     var yesterday =  formatDate(today.setDate(today.getDate() - 1));
 
     for (var i in response) {
-        if (response[i].date == yesterday)
+        if (response[i].date == last_DB_date)
             shortShapes.push(response[i].country)
         }
 
@@ -73,7 +73,7 @@ console.log(y_trace1)
 var trace1 = {
     x: x_values,
     y: y_trace1,
-    name: "Confirmed",
+    name: "Sick",
     type: "bar",
     marker: {
         color: '#f7a1f3'

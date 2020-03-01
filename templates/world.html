@@ -148,7 +148,8 @@
                       <thead>
                         <tr style="text-align: left;">
                           <th><strong>Country</strong></th>
-                          <th><strong>Confirmed</strong></th>
+                          <th><strong>Total</strong></th>
+                          <th><strong>Sick</strong></th>
                           <th><strong>Cured</strong></th>
                           <th><strong>Dead</strong></th>
                         </tr>
@@ -157,6 +158,7 @@
                         {% for i in world_facts %}
                         <tr>
                           <td style="text-align: left">{{ i[0] }}</td>
+                          <td style="text-align: right">{{ i[1] }}</td>
                           <td style="text-align: right">{{ i[2] }}</td>
                           <td style="text-align: right">{{ i[3] }}</td>
                           <td style="text-align: right">{{ i[4] }}</td>
