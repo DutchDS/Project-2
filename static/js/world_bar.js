@@ -1,6 +1,8 @@
 // var url = "/api/bar_china/file.json";
 var url = "/api/bar_world";
 var get_shape = d3.select("#selectShape");
+var get_date = $("#selectDate").text();
+console.log(get_date)
 
 function get_data(country) {d3.json(url).then(function(response) {
     console.log("in the d3.json NEW part")
@@ -160,3 +162,4 @@ function formatDate(date) {
         country = inputValueShape
         console.log(country)
         get_data(country)});
+

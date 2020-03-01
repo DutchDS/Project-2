@@ -1,5 +1,8 @@
 let slider_input = document.querySelector('input');                                                                    //assign the input from slider to variable a                                                                //assign the output under the slider to variable b
 
+var last_DB_date = $("#selectDate").text();
+console.log(last_DB_date)
+
 // Creating map object
 var myMap = L.map("map", {
   center: [34.5133, -10.1629],
@@ -43,7 +46,7 @@ function task(i) {
   // call run
     get_new_layer(geoUrl);
   
-    current_date.setDate(current_date.getDate() + 3);
+    current_date.setDate(current_date.getDate() + 1);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
@@ -85,7 +88,7 @@ function get_new_layer(geoUrl) {
           color: "white",
           // fillColor: "red",
           fillColor: chooseColor(feature.properties.confirmedCount), 
-          fillOpacity: 0.7,
+          fillOpacity: 0.85,
           weight: 0.5
         }
       },
@@ -124,7 +127,9 @@ legend.addTo(myMap);
 var today = new Date()
 var yesterday =  today.setDate(today.getDate() - 1);
 
+// initgeoUrl = "static/world_geojsons/" + formatDate(yesterday) + ".json";
 initgeoUrl = "static/world_geojsons/" + formatDate(yesterday) + ".json";
+
 console.log(initgeoUrl)
 
 get_new_layer(initgeoUrl);
@@ -147,7 +152,7 @@ slider_input.addEventListener('change', function () {                           
     var slider_day = moment(day_one,"DD/MM/YYYY").add((slider_input.value-1),'day');                                   //manipulating the slider input with day_one value using moment, to get date for slider input
     get_date = moment(slider_day,"DD/MM/YYYY").format("YYYY-MM-DD");
     console.log(get_date)
-    geoUrl = "static/world_geojsons/" + get_date + ".json";
+    geoUrl = "static/world_geojsons/" + last_DB_date + ".json";
 
     console.log(geoUrl)
 
