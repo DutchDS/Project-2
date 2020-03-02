@@ -8,6 +8,8 @@ var newsSrcPromise = d3.json(newsapi_source_json );
 
 // dates to select from
 dates = [
+  '2020-03-01',
+  '2020-02-29',
   '2020-02-28',
   '2020-02-27',
   '2020-02-26',
@@ -138,10 +140,24 @@ function buildNewsTableSelectors() {
 function buildNewsTableBanner(dateStr, source) {
   // console.log(`------ Enter buildNewsBanner datStr=${dateStr}, source=${source} -----`)
   var banner = d3.select("#news-banner");
+  var parentdiv = banner.select(function() { return this.parentNode; })
   // console.log("buildNewsTableBanner:", banner);
-  banner
+  parentdiv
     .html("")
-    .text(`Coronavirus news from ${source} for ${dateStr}`);
+    .append("h2")
+    .text(`Coronavirus news from ${source} for ${dateStr}`)
+    .attr('style', 'text-align: center');
+
+  // required newsapi.org attribution https://newsapi.org/terms
+  // get the parent div of the banner 
+
+  parentdiv
+    .append('p')
+    .text('Powered by News Api  ')
+    .attr('style', 'text-align: right')
+    .append('a')
+    .attr('href', 'https://newsapi.org')
+    .text('https://newsapi.org');
 
     // console.log(`------ Exit buildNewsBanner datStr=${dateStr}, source=${source} -----`)
 }
