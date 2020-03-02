@@ -6,7 +6,24 @@ select  max(date),
 		round((sum(conf_count)-sum(cured_count)-sum(dead_count)) /cast(sum(conf_count)as decimal)*100,1) pct_sick,
 		round(cast(sum(cured_count) as decimal)/sum(conf_count)*100,1) pct_cured,
 		round(cast(sum(dead_count) as decimal)/sum(conf_count)*100,1) pct_dead,
-		'ALL (excl. China)' as group_country
+		'World (incl. China)' as group_country,
+		'A' as order_by
+        from daily_stats_world  
+        where date = (select max(date ) from daily_stats_world)
+		group by group_country
+		
+union
+
+select  max(date),
+		sum(conf_count) total,
+		sum(conf_count)-sum(cured_count)-sum(dead_count) sick,
+	    sum(cured_count) cured, 
+	    sum(dead_count) dead,
+		round((sum(conf_count)-sum(cured_count)-sum(dead_count)) /cast(sum(conf_count)as decimal)*100,1) pct_sick,
+		round(cast(sum(cured_count) as decimal)/sum(conf_count)*100,1) pct_cured,
+		round(cast(sum(dead_count) as decimal)/sum(conf_count)*100,1) pct_dead,
+		'World (excl. China)' as group_country,
+		'C' as order_by
         from daily_stats_world  
         where date = (select max(date ) from daily_stats_world)
 		and country <> 'China'
@@ -22,7 +39,8 @@ select  max(date),
 		round((sum(conf_count)-sum(cured_count)-sum(dead_count)) /cast(sum(conf_count)as decimal)*100,1) pct_sick,
 		round(cast(sum(cured_count) as decimal)/sum(conf_count)*100,1) pct_cured,
 		round(cast(sum(dead_count) as decimal)/sum(conf_count)*100,1) pct_dead,
-		'China' as group_country
+		'China' as group_country,
+		'B' as order_by
         from daily_stats_world  
         where date = (select max(date ) from daily_stats_world)
 		and country = 'China'
@@ -37,8 +55,11 @@ select  max(date),
 		round((sum(conf_count)-sum(cured_count)-sum(dead_count)) /cast(sum(conf_count)as decimal)*100,1) pct_sick,
 		round(cast(sum(cured_count) as decimal)/sum(conf_count)*100,1) pct_cured,
 		round(cast(sum(dead_count) as decimal)/sum(conf_count)*100,1) pct_dead,
-		'USA' as group_country
+		'USA' as group_country,
+		'D' as order_by
         from daily_stats_world  
         where date = (select max(date ) from daily_stats_world)
 		and country = 'United States of America'
 		group by group_country
+		
+order by order_by

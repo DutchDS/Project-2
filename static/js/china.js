@@ -1,26 +1,21 @@
 let slider_input = document.querySelector('input');                                                                    //assign the input from slider to variable a                                                                //assign the output under the slider to variable b
 
 var last_DB_date = $("#selectDate").text();
-console.log(last_DB_date)
-// Creating map object
 var myMap = L.map("map", {
   center: [36.8944, 104.1660],
   zoom: 4
 });
+var today = new Date()
+var current_date = new Date('2020-01-27');
+var geojson;
+var legend;
 
-// Adding tile layer
 L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
   maxZoom: 18,
   id: "mapbox.satellite",
   accessToken: API_KEY
 }).addTo(myMap);
-
-// Load in geojson data
-// var geoData = "static/geojsons/china.json";
-// var geoUrl = "static/geojsons/2020-02-19.json";
-
-var current_date = new Date('2020-01-27');
 
 function formatDate(date) {
   var d = new Date(date),
@@ -42,21 +37,17 @@ function task(i) {
     script_date = formatDate(current_date)
     document.getElementById("chartDate").innerHTML = "Chart Date:  " + script_date 
     geoUrl = "static/geojsons/" + script_date + ".json";
-    // get_new_layer()
-    // console.log(current_date)
     console.log(geoUrl)
-  // call run
     get_new_layer(geoUrl);
   
     current_date.setDate(current_date.getDate() + 1);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 300 * i); 
+  , 500 * i); 
 } 
 
-var geojson;
-var legend;
+
 function chooseColor(x) {
   // console.log("this is line 57")
   // console.log("--------------------------")
@@ -129,10 +120,15 @@ legend.addTo(myMap);
 
 create_legend()
 
-for (var i = 0; i < 30; i++)  {  
-  task(i); 
-} 
+function reload() {
+  day_count = today - current_date
+  counter = Math.ceil((day_count/24/60/60/1000/ + 1))
+  for (var i = 0; i < counter; i++)  {  
+    task(i); 
+    } 
+  }
 
+reload()
 
 slider_input.addEventListener('change', function () {                                                                   //using event listener with input gives instant response; use 'change' instead to see the difference in response
     var day_one;                                                                                            //declare our day_one variable which will represent the day one of outbreak

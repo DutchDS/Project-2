@@ -181,7 +181,8 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     
 /// Add legend to the initial map //////////////////////////
 create_legend()
-
+document.getElementById("chartDate").innerHTML = "Chart Date:  " + last_DB_date 
+    
 /// Initial map retrieves the latest map in static/geojsons_world //////  
 get_new_layers(lastgeoUrl);
 
