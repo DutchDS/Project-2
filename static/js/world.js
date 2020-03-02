@@ -16,7 +16,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   accessToken: API_KEY
 }).addTo(myMap);
 
-var current_date = new Date('2020-01-22');
+var current_date = new Date('2020-01-23');
 
 function formatDate(date) {
   var d = new Date(date),

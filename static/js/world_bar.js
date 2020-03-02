@@ -109,7 +109,7 @@ var barLayout = {
         title: { text: "Virus spread over time for: " + country ,
                 font: {
                     family: 'Arial, Helvetica, sans-serif',
-                    size: 32,
+                    size: 24,
                     color: "white"
                     }
                 },
