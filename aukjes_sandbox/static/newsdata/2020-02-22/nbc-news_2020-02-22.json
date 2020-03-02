@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus cases surge in South Korea, deaths reported in Italy and Iran",
+            "description": "As China claims its containment of millions is working to combat the coronavirus, the number of cases in South Korea grows by hundreds each day. In Hong Kong, an entire public housing complex has been turned into a quarantine center.",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-cases-surge-in-south-korea-deaths-reported-in-italy-and-iran-79236165704",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_ren_coronavirus_outside_us_200222_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-22T23:41:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "California town pushes back against planned coronavirus quarantine center",
+            "description": "Some 30 to 70 patients who tested positive for coronavirus were supposed to be transferred to a Costa Mesa, California assisted living center. The city immediately took action to stop it, calling the facility \u201cdilapidated\u201d and \u201csurrounded by residential neigh\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/california-town-pushes-back-against-planned-coronavirus-quarantine-center-79235653898",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_sha_coronavirus_in_us_200222_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-22T23:39:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Cases in South Korea surge as U.S. prepares for pandemic",
+            "description": "Coronavirus cases surge in South Korea after outbreak in Daegu church, as U.S. prepares for pandemic.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-cases-south-korea-surge-u-s-prepares-pandemic-n1140796",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3240146/afp_1p65zm_b258537a96a437b54d7dfa6d67a2bd12.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-22T10:36:00Z",
+            "content": "Cases surge in South Korea after outbreak at church\r\nCoronavirus incubation could be as long as 27 days\r\n Second death emerges in Italy\r\nTokyo postpones training for Olympics volunteers over virus fears\r\nU.S. takes steps to prepare for pandemic as global COVI\u2026 [+5675 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Kelly Hills",
+            "title": "The coronavirus cruise ship quarantine was always doomed. Here's why.",
+            "description": "Coronavirus Diamond Prince quarantine was doomed. But so are most quarantines \u2014\u00a0on cruise ships or anywhere.\r\n\r\nThe coronavirus cruise ship quarantine was always doomed. Here's why.\r\nMost coronavirus quarantines probably aren't going to protect us. Here's why.",
+            "url": "https://www.nbcnews.com/think/opinion/coronavirus-diamond-prince-quarantine-was-doomed-so-are-most-quarantines-ncna1140431",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_08/3239861/200221-think-coronavirus-princess-diamond-se-708p_696bfe3a2d2b92e2dfb39ecfac9c7fea.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-22T09:34:00Z",
+            "content": "On Feb. 1, a man in Hong Kong was diagnosed with COVID-19, the new coronavirus. A few days earlier, he had disembarked a cruise ship whose name would soon be known around the world: the Diamond Princess. A mandatory quarantine placed on the ship by the Japane\u2026 [+7066 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Alicia Victoria Lozano",
+            "title": "Federal judge blocks effort to transfer coronavirus patients to California city",
+            "description": "A federal judge on Friday blocked efforts to transfer coronavirus patients to an empty building in Costa Mesa, California.",
+            "url": "https://www.nbcnews.com/health/health-news/federal-judge-blocks-effort-transfer-coronavirus-patients-california-city-n1140786",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_08/3240126/022021-coronvirus-generic-kf-1a_533dfcdb4150ce8c028f5afc82296e12.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-22T05:59:07Z",
+            "content": "A federal court blocked efforts Friday night to transfer dozens of patients who tested positive for the coronavirus from Travis Air Force Base in Northern California to an empty building in Southern California.\r\nU.S. District Judge Josephine Staton granted a \u2026 [+2839 chars]"
+        }
+    ]
+}

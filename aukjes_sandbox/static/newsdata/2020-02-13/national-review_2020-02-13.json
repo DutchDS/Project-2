@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Coronavirus Deaths Spike with New Diagnosing Criteria, Beijing Fires Hubei Party Head in Response",
+            "description": "Nearly 15,000 new cases and 242 new deaths were recorded in Hubei province, the epicenter of the outbreak.",
+            "url": "https://www.nationalreview.com/news/coronavirus-deaths-spike-with-new-diagnosing-criteria-beijing-fires-hubei-party-head-in-response/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-021220-66.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-13T13:26:17Z",
+            "content": null
+        }
+    ]
+}

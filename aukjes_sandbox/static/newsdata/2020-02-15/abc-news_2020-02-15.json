@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD AP Medical Writer",
+            "title": "Questions complicate efforts to contain new virus from China",
+            "description": "Changes in how China counts how many people are sick with a new respiratory virus is confusing experts who can't tell if the epidemic is getting worse or not",
+            "url": "https://abcnews.go.com/Health/wireStory/questions-complicate-efforts-virus-china-69004167",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_918c3a6993764306893c8a3092cc5347_16x9_992.jpg",
+            "publishedAt": "2020-02-15T14:45:02Z",
+            "content": "WASHINGTON -- \r\nReports one day suggest the respiratory outbreak in China might be slowing, the next brings word of thousands more cases. Even the experts have whiplash in trying to determine if the epidemic is getting worse, or if a backlog of the sick is fi\u2026 [+5091 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "William Mansell, Guy Davies",
+            "title": "US to evacuate Americans quarantined on cruise ship due to coronavirus",
+            "description": "Europe's first coronavirus-related death outside was reported Saturday as Americans stuck on the Diamond Princess will get the chance to evacuate.",
+            "url": "https://abcnews.go.com/US/us-evacuate-americans-quarantined-cruise-ship-due-coronavirus/story?id=69002244",
+            "urlToImage": "https://s.abcnews.com/images/International/Japan_China_Outbreak_hpMain_20200215-064341_16x9_992.jpg",
+            "publishedAt": "2020-02-15T12:18:18Z",
+            "content": "The U.S. government is set to evacuate Americans quarantined on board the Diamond Princess cruise ship due to the coronavirus. Officials announced the aircraft are expected to arrive in Japan on the evening of Feb. 16.\r\nA letter from the U.S. Embassy Tokyo wa\u2026 [+4615 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "France announces 1st death in Europe of virus patient",
+            "description": "The French health minister has announced the first coronavirus death in Europe",
+            "url": "https://abcnews.go.com/Health/wireStory/france-announces-1st-death-europe-virus-patient-69002176",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_b4b8e8071ea945cbaf272e2594fedd09_16x9_992.jpg",
+            "publishedAt": "2020-02-15T11:03:05Z",
+            "content": "PARIS -- \r\nThe French health minister has announced the first coronavirus death in Europe.\r\nFrench Health Minister Agnes Buzyn says Saturday that \"I was informed last night of the death of an 80-year-old patient who had been hospitalized ... since Jan. 25.\"\r\n\u2026 [+325 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "French health minister announces first death of a coronavirus patient in Europe",
+            "description": "French health minister announces first death of a coronavirus patient in Europe",
+            "url": "https://abcnews.go.com/Health/wireStory/french-health-minister-announces-death-coronavirus-patient-europe-69002071",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-15T10:43:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ROBERT BURNS and MATTHEW LEE Associated Press",
+            "title": "US defense chief slams China as rising threat to world order",
+            "description": "U.S. Defense Secretary Mark Esper is portraying China as a growing threat to world order",
+            "url": "https://abcnews.go.com/International/wireStory/us-defense-chief-slams-china-rising-threat-world-69001913",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_965b9bf13df24f3b88ced143a566e22c_16x9_992.jpg",
+            "publishedAt": "2020-02-15T10:02:46Z",
+            "content": "MUNICH, Germany -- \r\nU.S. Defense Secretary Mark Esper on Saturday cast China as a rising threat to world order saying the world's most populous nation steals Western know-how, intimidates smaller neighbors and seeks an advantage by any means and at any cost.\u2026 [+2864 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JIM GOMEZ Associated Press",
+            "title": "No handshakes: Viral outbreak spooks Asian places of worship",
+            "description": "Temporary restrictions and dwindling crowds in places of worship across Asia have underscored the extent of the scare over a viral outbreak that has permeated many aspects of life in the religiously diverse region",
+            "url": "https://abcnews.go.com/International/wireStory/handshakes-viral-outbreak-spooks-asian-places-worship-69000376",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_482d599da74741698915acb5e4f5e0c5_16x9_992.jpg",
+            "publishedAt": "2020-02-15T04:21:08Z",
+            "content": "MANILA, Philippines -- \r\nIn a popular Catholic church in the Philippines, nearly half of the pews were empty for Sunday Mass. The few hundred worshippers who showed up were asked to refrain from shaking others' hands or holding them during prayers to prevent \u2026 [+6442 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 67,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 67,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-67000-people-globally-68998795",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_e68d432a5b6f4f9baca2ba2dfa46744a_16x9_992.jpg",
+            "publishedAt": "2020-02-15T01:34:32Z",
+            "content": "A viral outbreak that began in China has infected more than 67,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+668 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YANAN WANG Associated Press",
+            "title": "China reports major drop in new virus cases; 143 new deaths",
+            "description": "China has reported 2,641 new virus cases, a major drop from the higher numbers in recent days since a broader diagnostic method was implemented",
+            "url": "https://abcnews.go.com/Health/wireStory/china-reports-major-drop-virus-cases-143-deaths-68997769",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_8283cb3ccb3743719ece28bbda2c585d_16x9_992.jpg",
+            "publishedAt": "2020-02-15T00:35:33Z",
+            "content": "BEIJING -- \r\nChina reported Saturday a figure of 2,641 new virus cases, a major drop from the higher numbers in recent days since a broader diagnostic method was implemented.\r\nThe number of new deaths rose slightly to 143, bringing the total fatalities in mai\u2026 [+393 chars]"
+        }
+    ]
+}

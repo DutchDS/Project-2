@@ -58,7 +58,14 @@
     <!-- *********************SECOND ROW*********************************   -->    
         <div class="row">
           <div class="col-lg-12 col-sm-12">
-            <div class="row">
+            <div class="card" style="width: 100%">
+              <div class="card-body">
+                <div class="col-lg-12 col-sm-12">
+                  <h4 id="chartDate" type="text" style="text-align: center"></h4>
+                </div>    
+               </div>   
+              </div>
+                <div class="row">
               <div class="col-lg-12 col-sm-12">
               <!-- ############################################ -->
               <!-- ########## INSERT MAP HERE ################# -->
@@ -78,7 +85,7 @@
                     <div class="row">
                         {% for i in world_sum %}
                         <div class="col-lg-2 col-sm-2">
-                          <h3><strong id=selectDate>{{ i[0] }}</h3></strong>
+                          <h3 id="selectDate" type="text">{{ i[0] }}</h3>
                         </div>
                         <div class="col-lg-2 col-sm-2" style="text-align: center">
                           <h5><strong>Total: </strong><br>
@@ -148,7 +155,8 @@
                       <thead>
                         <tr style="text-align: left;">
                           <th><strong>Country</strong></th>
-                          <th><strong>Confirmed</strong></th>
+                          <th><strong>Total</strong></th>
+                          <th><strong>Sick</strong></th>
                           <th><strong>Cured</strong></th>
                           <th><strong>Dead</strong></th>
                         </tr>
@@ -157,6 +165,7 @@
                         {% for i in world_facts %}
                         <tr>
                           <td style="text-align: left">{{ i[0] }}</td>
+                          <td style="text-align: right">{{ i[1] }}</td>
                           <td style="text-align: right">{{ i[2] }}</td>
                           <td style="text-align: right">{{ i[3] }}</td>
                           <td style="text-align: right">{{ i[4] }}</td>

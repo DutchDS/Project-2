@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "The Canadian Press",
+            "title": "Quebec couple on quarantined cruise ship in Japan test positive for coronavirus - The Globe and Mail",
+            "description": "The couple from Gatineau, Que., are currently waiting to be transported by ambulance to a military hospital where they will be kept in isolation until they no longer test positive for the virus",
+            "url": "https://www.theglobeandmail.com/canada/article-quebec-couple-on-quarantined-cruise-ship-in-japan-test-positive-for/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/nGtLZvxQMWHs5RAZhmpGm4yq4Gk=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/EFKU22ZVQZF55AGMRYHJ6SDDQE.jpg",
+            "publishedAt": "2020-02-15T17:51:36Z",
+            "content": "A bus leaves a port where the quarantined Diamond Princess cruise ship is docked Saturday, Feb. 15, 2020, in Yokohama, near Tokyo. \r\nThe Associated Press\r\nAn elderly couple from Gatineau, Que., aboard the quarantined Diamond Princess cruise ship in Japan have\u2026 [+3343 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "As the coronavirus spreads, China is losing its control online - The Globe and Mail",
+            "description": "As the coronavirus spreads, China is losing its control online The Globe and Mail More than 1,700 Chinese health workers infected while fighting coronavirus outbreak CBC.ca Coronavirus: Beijing orders 14-day quarantine for returnees BBC News The Coronavirus S\u2026",
+            "url": "https://www.theglobeandmail.com/world/article-as-the-coronavirus-spreads-china-is-losing-control-online/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/z7u6oahW7EHoO4sDNgMK_u2GB6U=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/6XBJDYUXGJBZXHSAFFLEVZNLMY.JPG",
+            "publishedAt": "2020-02-15T00:42:28Z",
+            "content": "Chinese President Xi Jinping inspects the novel coronavirus prevention and control work at Anhuali Community in Beijing, China, February 10, 2020. \r\nXINHUA/Reuters\r\nFirst came the pleas for help, posts to social media describing failed efforts to get medical \u2026 [+7674 chars]"
+        }
+    ]
+}

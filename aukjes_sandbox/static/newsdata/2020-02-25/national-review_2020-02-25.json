@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Health Officials Expect U.S. Coronavirus Outbreak: \u2018It\u2019s More of a Question of When\u2019",
+            "description": "U.S. officials admitted Tuesday that the United States is likely to suffer a coronavirus outbreak.",
+            "url": "https://www.nationalreview.com/news/health-officials-expect-u-s-coronavirus-outbreak-its-more-of-a-question-of-when/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/wuhan-coronavirus-9.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-25T19:49:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "\u2018Don\u2019t You Think You Ought to Check?\u2019: Sen. Kennedy Demands DHS Chief Provide \u2018Straight Answers\u2019 on Coronavirus Spread",
+            "description": "Senator John Kennedy demanded answers from acting Homeland Security Secretary Chad Wolf regarding the likely extent of the domestic coronavirus outbreak",
+            "url": "https://www.nationalreview.com/news/dont-you-think-you-ought-to-check-sen-kennedy-demands-dhs-chief-provide-straight-answers-on-coronavirus-spread/",
+            "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/John-Kennedy-.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-02-25T16:57:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": null,
+            "title": "The Victor Davis Hanson Podcast: Gray Matter Anatomy",
+            "description": "Image credit: istock Interviews Politics interview with Victor Davis Hanson via Decision 2020 The Victor Davis Hanson Podcast Hoover Institution fellow Victor Davis Hanson discusses Michael Bloomberg\u2019s campaign for president, the Orwellian practices of Red Ch\u2026",
+            "url": "https://www.nationalreview.com/podcasts/the-victor-davis-hanson-podcast/episode-4-gray-matter-anatomy/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2019/11/michael-bloomberg-manchester.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-25T15:48:00Z",
+            "content": "Michael Bloomberg speaks at the Institute of Politics at Saint Anselm College in Manchester, N.H., January 29, 2019. (Brian Snyder/Reuters)\r\nOn this weeks episode, Victor and Jack again discuss the insecurity that underlies farming instructor Mike Bloombergs \u2026 [+843 chars]"
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Iran Deputy Health Minister Contracts Coronavirus",
+            "description": "Iraj Harirchi said in a video from his home, where he had self-quarantined, that he was infected, and added that \"I will certainly defeat corona.\"",
+            "url": "https://www.nationalreview.com/news/iran-deputy-health-minister-contracts-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/iran-coronavirus.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-02-25T14:09:33Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Stephen Wade",
+            "title": "Tokyo Olympic organizers respond to Pound\u2019s comments about possible cancellation due to coronavirus - The Globe and Mail",
+            "description": "Tokyo Olympic organizers respond to Pound\u2019s comments about possible cancellation due to coronavirus The Globe and Mail Tokyo Olympics could be cancelled if coronavirus outbreak worsens, IOC member | Power & Politics CBC News Coronavirus outbreak threatens can\u2026",
+            "url": "https://www.theglobeandmail.com/sports/olympics/article-tokyo-olympic-organizers-respond-to-pounds-comments-about-possible/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/QClNFYuRnNL1vFPah5VD380kGUQ=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/2WAQ6D4WSFGKBBOT65VUNGCKJE.jpg",
+            "publishedAt": "2020-02-26T23:50:54Z",
+            "content": "Tokyo 2020 Olympics chief executive Toshiro Muto speaks in Tokyo on Feb. 26, 2020.\r\nPHILIP FONG/AFP/Getty Images\r\nTokyo Olympic organizers and the Japanese government went on the offensive Wednesday after a senior IOC member said the 2020 Games were being thr\u2026 [+5261 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "Hajdu encourages Canadians to be prepared as coronavirus outbreak changes - The Globe and Mail",
+            "description": "Hajdu encourages Canadians to be prepared as coronavirus outbreak changes The Globe and Mail Coronavirus updates: Stockpile food and meds in case of infection, Canada's health minister says National Post Is Canada ready for a widespread coronavirus outbreak? \u2026",
+            "url": "https://www.theglobeandmail.com/canada/article-canada-must-take-immediate-steps-to-prepare-itself-for-potential-covid/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/klxLJCn_GDVsOUo8w06aq6Mx_UI=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/UHV5CDKDWBB2VEDRDJEG6K6XMU.jpg",
+            "publishedAt": "2020-02-26T18:14:11Z",
+            "content": "Federal Health Minister Patty Hajdu, seen here in Ottawa on Feb. 24, 2020, said on Wednesday that Canadians should ensure they have an adequate supply of food and their prescription medications and follow advice about frequent hand washing and staying home wh\u2026 [+5192 chars]"
+        }
+    ]
+}

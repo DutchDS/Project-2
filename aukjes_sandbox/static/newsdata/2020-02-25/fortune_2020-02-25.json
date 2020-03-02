@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "China deploys a favorite weapon in the coronavirus crisis: A crackdown on VPNs",
+            "description": "Virtual private networks that let Internet users bypass government censors are coming under fire.",
+            "url": "https://fortune.com/2020/02/25/coronavirus-china-vpn/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201665274.jpg?resize=1200,600",
+            "publishedAt": "2020-02-26T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "McKenna Moore",
+            "title": "The Olympics have a $900 million reserve fund for canceled games",
+            "description": "It\u2019s unlikely, but as the coronavirus outbreak continues to spread, canceling the 2020 games becomes more of an option.",
+            "url": "https://fortune.com/2020/02/25/2020-olympics-coronavirus-cancellation-reserve-fun/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200850774.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T21:39:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "The first U.S. trial for a coronavirus treatment has started",
+            "description": "Gilead's antiviral remdesivir is being used in the first U.S. clinical trial to treat COVID-19, the disease caused by the new coronavirus.",
+            "url": "https://fortune.com/2020/02/25/coronavirus-treatment-us-trial-covid-19/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/2019-nCoV-coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T20:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Japan taps an unexpected drugmaker for its coronavirus treatment",
+            "description": "The company keeps reinventing itself.",
+            "url": "https://fortune.com/2020/02/25/coronavirus-treatment-drug-japan-fujifilm/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208536678.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T15:24:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adam Lashinsky",
+            "title": "Big Tech can\u2019t outrun the coronavirus",
+            "description": "Apple, Amazon and Facebook aren't immune to worries that the contagion is spreading worldwide.",
+            "url": "https://fortune.com/2020/02/25/big-tech-cant-outrun-the-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208573430-e1582637488885.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T14:13:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "Europe\u2019s coronavirus response is very different from China\u2019s",
+            "description": "The Covid-19 outbreak in northern Italy has so far elicited an official response far more modest than Beijing's heavy-handed restrictions.",
+            "url": "https://fortune.com/2020/02/25/europe-china-coronavirus-responses-ceo-daily/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203052760-1.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T11:36:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Economists pegged the cost of a global coronavirus pandemic at $1 trillion. It could go much higher",
+            "description": "Economists are beginning to war game what an untethered outbreak could mean for global growth.",
+            "url": "https://fortune.com/2020/02/25/economists-cost-global-coronavirus-pandemic-trillion/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203055276.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Is the coronavirus a \u2018pandemic\u2019? The World Health Organization can\u2019t seem to make up its mind",
+            "description": "The agency is sending mixed messages with its vocabulary.",
+            "url": "https://fortune.com/2020/02/25/coronavirus-pandemic-who/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203037866.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T10:09:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Coronavirus has video game giants rethinking their trade show plans",
+            "description": "Sony and Oculus pull out of GDC. What\u2019s next?",
+            "url": "https://fortune.com/2020/02/24/coronavirus-video-games-sony-gdc-pax/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1149627288.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Anne Sraders",
+            "title": "As coronavirus ravages the stock market, here are the biggest losers (and a few surprising winners)",
+            "description": "Airlines, cruise stocks, healthcare companies and tech companies like Apple all saw a brutal sell off.",
+            "url": "https://fortune.com/2020/02/24/coronavirus-stock-market-winners-losers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198666652.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T00:00:00Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "AstraZeneca stock slips on mixed earnings report and coronavirus uncertainty",
+            "description": "Shares of British drug giant AstraZeneca fell nearly 4% in Friday trading on a mixed earnings report and coronavirus uncertainty in China.",
+            "url": "https://fortune.com/2020/02/14/astrazeneca-earnings-stock-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/AstraZeneca-Earnings-Stock-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-02-14T18:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Aaron Pressman",
+            "title": "\u2018There will be MWC in Barcelona next year,\u2019 mobile trade show group vows after canceling this year\u2019s event",
+            "description": "After this year's gathering was cancelled due to the coronavirus outbreak, the organizer vowed to return to the city next year.",
+            "url": "https://fortune.com/2020/02/14/mwc-show-return-barcelona-2021/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1206053766-e1581684063151.jpg?resize=1200,600",
+            "publishedAt": "2020-02-14T17:40:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lucinda Shen",
+            "title": "As coronavirus spreads, even furniture sellers in the U.S. are starting to feel the fallout",
+            "description": "\u201cUltimately, if this continues for an extended period of time, it may accomplish much more quickly what the tariffs intended to do, and force retailers into moving their sourcing to other countries, even the United States,\u201d predicts one analyst.",
+            "url": "https://fortune.com/2020/02/14/coronavirus-impact-on-business-costs-furniture-sellers/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-14T16:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "Adding infections, subtracting deaths: What to make of China\u2019s fluctuating coronavirus count",
+            "description": "There are pros and cons to this week's wild swings in data.",
+            "url": "https://fortune.com/2020/02/14/china-coronavirus-cases-deaths-data/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200547084.jpg?resize=1200,600",
+            "publishedAt": "2020-02-14T11:51:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "President Xi Jinping\u2019s pick to fix Wuhan\u2019s coronavirus crisis: The man who lured Tesla to China",
+            "description": "Ex-Shanghai Mayor Ying Yong, 62, was appointed Thursday to the top political post in central Hubei province, whose capital is the coronavirus-ravaged city of Wuhan.",
+            "url": "https://fortune.com/2020/02/14/china-coronavirus-wuhan-hubei-province-ying-yong-tesla/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1192354647.jpg?resize=1200,600",
+            "publishedAt": "2020-02-14T11:26:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "China finds promising coronavirus treatment in blood plasma from recovered patients",
+            "description": "China National Biotec Group claimed that 10 seriously ill patients receiving the treatment improved within 24 hours, with reduced inflammation and viral loads along with better oxygen levels in the blood.",
+            "url": "https://fortune.com/2020/02/14/china-coronavirus-treatment-blood-plasma-recovered-patients/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200691649.jpg?resize=1200,600",
+            "publishedAt": "2020-02-14T10:20:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "Strong dollar, cheap oil\u2014the twin shocks that could roil markets well beyond coronavirus",
+            "description": "The IEA slashed its 2020 oil outlook, and the dollar is soaring. It's reminding some analysts of 2008.",
+            "url": "https://fortune.com/2020/02/14/dollar-oil-market-shocks-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2019/11/GettyImages-1066623846.jpg?resize=1200,600",
+            "publishedAt": "2020-02-14T10:01:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "\u2018It\u2019s a better gift than wine now:\u2019 Coronavirus makes toilet paper a hot new currency",
+            "description": "'It\u2019s a better gift than wine now.'",
+            "url": "https://fortune.com/2020/02/14/coronavirus-toilet-paper/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-14T06:50:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "A cruise industry crisis: No one wants to be stuck on the next coronavirus-hit ship",
+            "description": "Fears are especially acute in Asia, which was supposed to be a growth market.",
+            "url": "https://fortune.com/2020/02/13/cruise-industry-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200574789.jpg?resize=1200,600",
+            "publishedAt": "2020-02-14T03:08:27Z",
+            "content": null
+        }
+    ]
+}

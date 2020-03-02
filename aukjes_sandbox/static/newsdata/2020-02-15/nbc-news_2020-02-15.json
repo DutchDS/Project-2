@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "U.S. to evacuate Americans trapped on quarantined cruise ship off Japan",
+            "description": "American passengers can get on the plane only if they test negative for the new coronavirus. Then they face another 14-day quarantine at a California military base. The government said the passengers will be \u201cunable to return to the United States for a period\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/u-s-to-evacuate-americans-trapped-on-quarantined-cruise-ship-off-japan-78839365995",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_bne_coronavirus_americans_evacuated_200215_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-15T23:34:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bill Neely and Isobel van Hagen",
+            "title": "'Holding me hostage': Tensions high for Americans on quarantined cruise ship",
+            "description": "U.S. passengers aboard the quarantined Diamond Princess cruise ship in Tokyo have expressed concerns about plans to evacuate them.",
+            "url": "https://www.nbcnews.com/news/world/tensions-high-among-american-passengers-u-s-plans-evacuate-cruise-n1137346",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3223526/200210-cruise-coronavirus-mc-8523_8d251d378db7fa699fd50f5f29063544.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-15T17:29:32Z",
+            "content": "HONG KONG A passenger aboard a cruise ship quarantined in Japan because of the coronavirus, has accused the U.S. government of \"holding me hostage\" ahead of a planned evacuation on Sunday.\r\nKarey Maniscalco told NBC News via Skype that she was being treated l\u2026 [+2817 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dr. Jonathan Kolby",
+            "title": "How love for an endangered animal inspired a new wave of coronavirus racism",
+            "description": "Dialogues about the new coronavirus should not allow the important topic of wildlife conservation to provide a smokescreen for prejudice.",
+            "url": "https://www.nbcnews.com/think/opinion/coronavirus-pangolins-racism-why-conservationism-prejudice-shouldn-t-mix-ncna1136681",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_07/3229771/200213-think-pangolin-se-534p_db67a3776cd6ef026d5c1a84cd025913.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-15T09:45:29Z",
+            "content": "Last week, rumors began circulating that endangered pangolins also known as scaly anteaters might have been the intermediate host that allowed the deadly new coronavirus disease COVID-19 to spread from bats to humans, based on unpublished research findings an\u2026 [+8094 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Alexander Smith, Eric Baculinao",
+            "title": "Coronavirus: China's Xi Jinping faces his biggest challenge",
+            "description": "The COVID-19 epidemic is the latest in a string of challenges for President Xi of China.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-china-s-xi-jinping-faces-his-biggest-challenge-n1136851",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_07/3227181/200212-xi_jinping-mc-12462_3f565772f6616caee90611df92dc3b4f.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-15T09:42:20Z",
+            "content": "The coronavirus outbreak has killed almost 1,400 people in China, spread to over two dozen countries and created a global health crisis. It is also the biggest challenge yet facing President Xi Jinping since he became leader of China in 2012.\r\nSome say it may\u2026 [+7021 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: U.S. to evacuate Americans from quarantined cruise ship",
+            "description": "Coronvirus updates: As the U.S. prepares to evacuate American passengers from the Diamond Princess cruise ship, here are the latest updates.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-u-s-evacuate-americans-quarantined-cruise-ship-n1137331",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png",
+            "publishedAt": "2020-02-15T09:13:04Z",
+            "content": "U.S. to evacuate Americans from quarantined cruise ship\r\n Coronavirus cases, deaths continue to increase\r\n San Diego County declares health emergency\r\n Egypt confirms coronavirus case, 1st in Africa\r\nBeijing orders 14-day quarantine for returnees\r\nAuthorities\u2026 [+4309 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dennis Romero and Segilola Arisekola",
+            "title": "More U.S. passengers on quarantined ship can finally exit",
+            "description": "The U.S. State Department said it's coordinating with Japanese authorities to offer qualifying passengers of the Diamond Princess a way ashore.",
+            "url": "https://www.nbcnews.com/news/world/more-americans-quarantined-ship-will-be-offered-exit-n1137326",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_06/3222841/200209-diamond-princess-coronavirus-cs-940a_85acfe910695acab56142fd12e1bb708.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-15T06:46:00Z",
+            "content": "More American passengers on a cruise ship quarantined off Japan as a result of the global spread of novel coronavirus will be offered a way ashore, U.S. diplomatic officials said late Friday.\r\nBut the exit will come with a caveat: Travelers, once on dry land,\u2026 [+2773 chars]"
+        }
+    ]
+}

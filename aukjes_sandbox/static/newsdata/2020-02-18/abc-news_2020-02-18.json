@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 19,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CARLA K. JOHNSON AP Medical Writer",
+            "title": "US tells remaining cruise passengers: Stay out for 2 weeks",
+            "description": "The U.S. government is making good on its warning to Americans who chose to remain on board a quarantined cruise ship in Japan: They can't return home for at least two weeks after they come ashore",
+            "url": "https://abcnews.go.com/Health/wireStory/us-tells-remaining-cruise-passengers-stay-weeks-69056823",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_29d2e03d1eda499680fc17d4076eede4_16x9_992.jpg",
+            "publishedAt": "2020-02-18T23:24:18Z",
+            "content": "The U.S. government made good on its warning to Americans who chose to remain on board a quarantined cruise ship in Japan, telling them they cannot return home for at least two weeks after they come ashore.\r\nU.S. officials notified the passengers Tuesday of t\u2026 [+1228 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Hundreds leave California military bases after quarantine",
+            "description": "Federal officials say nearly 350 Americans who fled the coronavirus zone in China have completed a 14-day quarantine at California military bases and been cleared to go home",
+            "url": "https://abcnews.go.com/Health/wireStory/hundreds-leave-california-military-bases-quarantine-69056428",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-18T23:00:47Z",
+            "content": "TRAVIS AIR FORCE BASE, Calif. -- \r\nNearly 350 Americans who fled the coronavirus zone in China completed a 14-day quarantine at California military bases and were cleared to go home Tuesday, officials announced.\r\nA group of 180 people at Travis Air Force Base\u2026 [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOYCE M. ROSENBERG AP Business Writer",
+            "title": "US small businesses are getting upbeat news on the economy",
+            "description": "Economic reports so far this month have been promising for small business owners",
+            "url": "https://abcnews.go.com/Business/wireStory/us-small-businesses-upbeat-news-economy-69052882",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-18T19:55:47Z",
+            "content": "Small business owners have received some upbeat news on the economy this month.\r\nRetail sales figures released Friday showed that consumers were inspired by unseasonably warm weather to spend on their homes in January, but that overall sales growth was modest\u2026 [+1800 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Is the new virus more 'deadly' than flu? Not exactly",
+            "description": "There's lots of confusion about how deadly the new coronavirus from China really is: Even health officials sometimes say \"deadly\" when they may mean \"lethal.\"",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-deadly-flu-69049986",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_095e9516154b4ffda5bbd87da6c4b767_16x9_992.jpg",
+            "publishedAt": "2020-02-18T18:02:00Z",
+            "content": "What's more deadly the flu, SARS or the new coronavirus discovered in China?\r\nThere are different ways to look at it and even knowledgeable folks sometimes say \"deadly\" when they may mean \"lethal.\"\r\nLethality means the capacity to cause death, or how often a \u2026 [+773 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ALEXANDRA OLSON and TERRY TANG Associated Press Writers",
+            "title": "Misguided virus fears hitting Asian American businesses",
+            "description": "Asian-American businesses in major U.S. cities are seeing a remarkable decline in customers amid fears about the viral outbreak that originated in China",
+            "url": "https://abcnews.go.com/Business/wireStory/misguided-virus-fears-hitting-asian-american-businesses-69048986",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-18T16:35:04Z",
+            "content": "NEW YORK -- \r\nIn Arizona, a burgeoning Asian American community fields xenophobic calls about a planned night market featuring Asian street foods. In New York, a dim sum restaurant owner worries he won't make rent. In the San Francisco Bay Area, a local Asian\u2026 [+7178 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ALEXANDRA OLSON and TERRY TANG Associated Press Writers",
+            "title": "Misguided virus fears hitting Asian American businesses",
+            "description": "Asian-American businesses in major U.S. cities are seeing a remarkable decline in customers amid fears about the viral outbreak that originated in China",
+            "url": "https://abcnews.go.com/US/wireStory/misguided-virus-fears-hitting-asian-american-businesses-69048985",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-18T16:34:34Z",
+            "content": "NEW YORK -- \r\nIn Arizona, a burgeoning Asian American community fields xenophobic calls about a planned night market featuring Asian street foods. In New York, a dim sum restaurant owner worries he won't make rent. In the San Francisco Bay Area, a local Asian\u2026 [+7178 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stocks open lower on Apple warning, virus outbreak fears",
+            "description": "Stocks are opening lower on Wall Street after Apple said it would fail to meet its revenue forecast for the current quarter due to the impact of the virus outbreak in China",
+            "url": "https://abcnews.go.com/Travel/wireStory/stocks-open-lower-apple-warning-virus-outbreak-fears-69047349",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_affe8b042284456781c1a54ce1aad0b7_16x9_992.jpg",
+            "publishedAt": "2020-02-18T14:46:47Z",
+            "content": "NEW YORK -- \r\nStocks are opening lower on Wall Street after Apple said it would fail to meet its revenue forecast for the current quarter due to the impact of the virus outbreak in China. Markets fell in Europe and Asia, with the exception of China, which was\u2026 [+4170 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stocks open lower on Apple warning, virus outbreak fears",
+            "description": "Stocks are opening lower on Wall Street after Apple said it would fail to meet its revenue forecast for the current quarter due to the impact of the virus outbreak in China",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-open-lower-apple-warning-virus-outbreak-fears-69047348",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_affe8b042284456781c1a54ce1aad0b7_16x9_992.jpg",
+            "publishedAt": "2020-02-18T14:46:32Z",
+            "content": "NEW YORK -- \r\nStocks are opening lower on Wall Street after Apple said it would fail to meet its revenue forecast for the current quarter due to the impact of the virus outbreak in China. Markets fell in Europe and Asia, with the exception of China, which was\u2026 [+4170 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Germany sends more medical aid to China to fight virus",
+            "description": "Germany is sending a second shipment of medical aid supplies to China to help the Asian giant fight the coronavirus epidemic that has infected over 73,000 people",
+            "url": "https://abcnews.go.com/Health/wireStory/germany-sends-medical-aid-china-fight-virus-69046115",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_2e2ea471a5394dada358f76e152e859d_16x9_992.jpg",
+            "publishedAt": "2020-02-18T13:57:16Z",
+            "content": "BERLIN -- \r\nGermany is sending a second shipment of medical aid supplies to China to help the Asian giant fight the coronavirus epidemic that has infected over 73,000 people.\r\nGerman Foreign Minister Heiko Maas said Tuesday the government is sending 8.7 tons \u2026 [+1754 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP Business Writer",
+            "title": "Shares take hit as virus outbreak slams profits, events",
+            "description": "Global shares are down as the impact from the virus outbreak that began in China deepens",
+            "url": "https://abcnews.go.com/Business/wireStory/shares-hit-virus-outbreak-slams-profits-events-69043879",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_0289b2410e2f4c7ba507c623e05fe3bb_16x9_992.jpg",
+            "publishedAt": "2020-02-18T12:08:32Z",
+            "content": "BANGKOK -- \r\nStock markets slipped Tuesday as the impact from the virus outbreak that began in China deepened, with Apple saying it would fail to meet its profit target this quarter and China moving to postpone or cancel major events, including the Beijing au\u2026 [+3542 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP Business Writer",
+            "title": "China virus outbreak chilling recovery for Asian economies",
+            "description": "South Korea's president says the coronavirus crisis has put the economy into an \"emergency situation,\" Japan is on the brink of recession and big manufacturers are forecasting a whole world of woe",
+            "url": "https://abcnews.go.com/Business/wireStory/china-virus-outbreak-chilling-recovery-asian-economies-69043369",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_1cbd3866792c403aa327446c732d0e31_16x9_992.jpg",
+            "publishedAt": "2020-02-18T11:40:36Z",
+            "content": "BANGKOK -- \r\nThe virus outbreak in China has put South Korea's economy into an \"emergency situation,\" its president says. Japan is on the brink of recession and big manufacturers are forecasting a whole world of woe. \r\nAs many Chinese finally go back to work \u2026 [+5966 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP Business Writer",
+            "title": "China virus outbreak chilling recovery for Asian economies",
+            "description": "South Korea's president says the coronavirus crisis has put the economy into an \"emergency situation,\" Japan is on the brink of recession and big manufacturers are forecasting a whole world of woe",
+            "url": "https://abcnews.go.com/Health/wireStory/china-virus-outbreak-chilling-recovery-asian-economies-69043368",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_1cbd3866792c403aa327446c732d0e31_16x9_992.jpg",
+            "publishedAt": "2020-02-18T11:40:28Z",
+            "content": "BANGKOK -- \r\nThe virus outbreak in China has put South Korea's economy into an \"emergency situation,\" its president says. Japan is on the brink of recession and big manufacturers are forecasting a whole world of woe. \r\nAs many Chinese finally go back to work \u2026 [+6029 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "UN chief: New virus outbreak is 'a very dangerous situation'",
+            "description": "The U.N. secretary general has told The Associated Press that the virus outbreak that began in China \u201cis not out of control but it is a very dangerous situation",
+            "url": "https://abcnews.go.com/International/wireStory/chief-virus-outbreak-dangerous-situation-69043302",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_a4ff07b20fb641959e12aad9a30f67bf_16x9_992.jpg",
+            "publishedAt": "2020-02-18T11:39:20Z",
+            "content": "LAHORE, Pakistan -- \r\nThe U.N. secretary general has told The Associated Press that the virus outbreak that began in China is not out of control but it is a very dangerous situation.\r\nAntonio Guterres said in an interview Tuesday that the risks are enormous a\u2026 [+357 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": null,
+            "title": "UN secretary-general tells AP new coronavirus outbreak \"not out of control\" but a \"very dangerous situation.\u201d",
+            "description": "UN secretary-general tells AP new coronavirus outbreak \"not out of control\" but a \"very dangerous situation.\u201d",
+            "url": "https://abcnews.go.com/International/wireStory/secretary-general-tells-ap-coronavirus-outbreak-control-dangerous-69043120",
+            "urlToImage": null,
+            "publishedAt": "2020-02-18T11:31:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "China counts over 72,000 cases of novel coronavirus as death toll rises",
+            "description": "China's mainland reported 1,886 new cases of the novel coronavirus and 98 more deaths on Tuesday.",
+            "url": "https://abcnews.go.com/International/china-counts-72000-cases-coronavirus-death-toll-rises/story?id=69041764",
+            "urlToImage": "https://s.abcnews.com/images/International/shanghai-china-pedestrians-face-masks-reuters-2002_hpMain_20200218-045332_16x9_992.jpg",
+            "publishedAt": "2020-02-18T10:20:05Z",
+            "content": "China's mainland reported 1,886 new cases of the novel coronavirus and 98 more deaths on Tuesday, as recent data appears to show a decline in the number of new infections since early this month.\r\nA total of 92 cases have also been reported in the special admi\u2026 [+2941 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSEPH KRAUSS and MOHAMMED DARAGHMEH Associated Press",
+            "title": "China's closed: Palestinian traders fear losing a good deal",
+            "description": "The West Bank city of Hebron is separated from the epicenter of China's virus outbreak by more than 4,000 miles and a ring of Israeli checkpoints",
+            "url": "https://abcnews.go.com/Business/wireStory/chinas-closed-palestinian-traders-fear-losing-good-deal-69041286",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4ef1aa17aaf94260bdf558fe57cbd081_16x9_992.jpg",
+            "publishedAt": "2020-02-18T06:40:32Z",
+            "content": "HEBRON, West Bank -- \r\nThe West Bank city of Hebron is separated from the epicenter of China's virus outbreak by more than 4,000 miles and a ring of Israeli checkpoints. But even here the economic symptoms of the outbreak are starting to appear.\r\nPalestinian \u2026 [+5537 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSEPH KRAUSS and MOHAMMED DARAGHMEH Associated Press",
+            "title": "China's closed: Palestinian traders fear losing a good deal",
+            "description": "The West Bank city of Hebron is separated from the epicenter of China's virus outbreak by more than 4,000 miles and a ring of Israeli checkpoints",
+            "url": "https://abcnews.go.com/International/wireStory/chinas-closed-palestinian-traders-fear-losing-good-deal-69041285",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4ef1aa17aaf94260bdf558fe57cbd081_16x9_992.jpg",
+            "publishedAt": "2020-02-18T06:40:16Z",
+            "content": "HEBRON, West Bank -- \r\nThe West Bank city of Hebron is separated from the epicenter of China's virus outbreak by more than 4,000 miles and a ring of Israeli checkpoints. But even here the economic symptoms of the outbreak are starting to appear.\r\nPalestinian \u2026 [+5537 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 73,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 73,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-73000-people-globally-69040139",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_9ec01c7f4050419f876e45b31f91349e_16x9_992.jpg",
+            "publishedAt": "2020-02-18T03:57:45Z",
+            "content": "A viral outbreak that began in China has infected more than 73,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+727 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SOPHENG CHEANG, EILEEN NG and GRANT PECK Associated Press",
+            "title": "Virus fears rise after Cambodia's acceptance of cruise ship",
+            "description": "The feel-good story of how Cambodia allowed a cruise ship to dock after it was rejected elsewhere for fear of spreading a new virus took an unfortunate turn after a passenger later tested positive",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-fears-rise-cambodias-acceptance-cruise-ship-69038646",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_01005706192b42a49a9befbe364ff072_16x9_992.jpg",
+            "publishedAt": "2020-02-18T01:13:33Z",
+            "content": "PHNOM PENH, Cambodia -- \r\nThe feel-good story of how Cambodia allowed a cruise ship to dock after it was turned away elsewhere in Asia for fear of spreading a new disease took an unfortunate turn after a passenger later tested positive for the virus.\r\nNews ov\u2026 [+6558 chars]"
+        }
+    ]
+}

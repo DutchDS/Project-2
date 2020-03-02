@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Don Reisinger",
+            "title": "Here\u2019s why analysts soured on Apple this week",
+            "description": "Apple's manufacturing of iPhones, Macs, and AirPods are being impacted by coronavirus, one analyst said. Meanwhile, Apple TV Plus is having growing pains.",
+            "url": "https://fortune.com/2020/02/08/apple-coronavirus-apple-tv-plus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197642983.jpg?resize=1200,600",
+            "publishedAt": "2020-02-08T14:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jenna Schnuer",
+            "title": "Wuhan coronavirus? 2019 nCoV? Naming a new disease",
+            "description": "In 2015, the World Health Organization issued guidelines discouraging names based on geographic locations, animals, or groups of people.",
+            "url": "https://fortune.com/2020/02/08/wuhan-coronavirus-disease-names/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198660829-e1580859292101.jpg?resize=1200,600",
+            "publishedAt": "2020-02-08T11:00:00Z",
+            "content": null
+        }
+    ]
+}

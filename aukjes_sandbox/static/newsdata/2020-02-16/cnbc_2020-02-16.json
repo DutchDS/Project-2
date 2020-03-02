@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Saheli Roy Choudhury",
+            "title": "Asia set to trade cautiously as traders weigh coronavirus impact",
+            "description": "The virus, which was first detected in the Chinese city of Wuhan, is expected to have significant economic impact on China as well as the global economy.",
+            "url": "https://www.cnbc.com/2020/02/17/asia-markets-coronavirus-economic-impact-oil-and-currencies.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105369669-1533164169146gettyimages-840760012.jpeg?v=1581896654",
+            "publishedAt": "2020-02-16T23:46:31Z",
+            "content": "Asia Pacific markets changed little Monday morning as investors continue to assess the potential economic fallout from the pneumonia-like coronavirus that's infected more than 68,000 people and killed over 1,600 people.\r\nNikkei futures pointed to a cautious o\u2026 [+2025 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Christine Wang",
+            "title": "Coronavirus live updates: China's Hubei province confirms another 100 deaths",
+            "description": "Hubei said that the virus has infected 58,182 people in the province so far, and killed 1,696 people in the region alone.",
+            "url": "https://www.cnbc.com/2020/02/17/coronavirus-latest-updates-china-hubei.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393960-1581896197909gettyimages-1201342767.jpeg?v=1581896031",
+            "publishedAt": "2020-02-16T23:36:34Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Beijing time.\r\n7:30 am: Hubei reports 100 more deaths and 1,933 new cases\r\nChina's Hubei province said it has confirmed 1,933 new coronavirus cases and 100 more deaths as of Feb. 16. \u2026 [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yen Nee Lee",
+            "title": "Singapore will likely spend big to soften economic blow from coronavirus outbreak",
+            "description": "Singapore's finance minister, Heng Swee Keat, is scheduled to deliver his annual budget speech on Tuesday.",
+            "url": "https://www.cnbc.com/2020/02/17/coronavirus-singapore-budget-2020-to-support-economy-amid-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106390793-1581656297752gettyimages-1197723970.jpeg?v=1581656573",
+            "publishedAt": "2020-02-16T23:10:46Z",
+            "content": "A thermal scanner deployed at the entrance to Singapore's Chingay Parade amid the coronavirus outbreak. Chingay is an annual street parade that the country holds as part of its Lunar New Year celebrations.\r\nWith the ongoing coronavirus outbreak threatening to\u2026 [+3632 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Coronavirus live updates: Taiwan confirms first death, US ship passenger infected with virus",
+            "description": "China's National Health Commission reported that there were 2,009 new confirmed cases of the coronavirus and 142 additional deaths as of Feb. 15.",
+            "url": "https://www.cnbc.com/2020/02/16/coronavirus-live-updates-taiwan-confirms-first-death.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393450-1581818550248gettyimages-1200669659.jpeg?v=1581818721",
+            "publishedAt": "2020-02-16T15:00:45Z",
+            "content": "Excited passengers disembark from the MS Westerdam, which is now docked in Sihanoukville, Cambodia. The cruise ship arrived in Cambodia on February 14, 2020 after being stranded for two weeks\r\nThis is a live blog. Please check back for updates.\r\nAll times bel\u2026 [+1399 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tom Huddleston",
+            "title": "This hotel is infamous as ground zero for a SARS 'super spreader' in the 2003 outbreak\u2014here's what happened",
+            "description": "As coronavirus, or COVID-19 spreads in China, some are reminded of another outbreak. In 2003, roughly 4,000 of the world's total cases of respiratory infection SARS could be traced back to one infected doctor's stay at a Hong Kong hotel. The doctor died, alon\u2026",
+            "url": "https://www.cnbc.com/2020/02/14/hong-kong-hotel-hosted-super-spreader-in-the-2003-sars-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106392702-1581715882981metropolehotelhk.jpg?v=1581715982",
+            "publishedAt": "2020-02-16T14:01:01Z",
+            "content": "The number of infections from the deadly coronavirus continues to grow to more than 64,000 cases around the world. And on Tuesday, a British businessman was identified as a \"super spreader\" of coronavirus (someone who infects an unusually large number of peop\u2026 [+6813 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Pippa Stevens",
+            "title": "Buy these cyclical stocks 'in the shadows' before they're 'exposed by the sun,' says Jefferies",
+            "description": "Jefferies identified cyclical stocks that have unfairly sold-off and are long-term buying opportunities, including United Technologies and ON Semiconductor.",
+            "url": "https://www.cnbc.com/2020/02/15/buy-these-cyclical-stocks-in-the-shadows-before-theyre-exposed-by-the-sun-says-jefferies.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105956965-1562944998787gettyimages-468275715r.jpg?v=1571155336",
+            "publishedAt": "2020-02-16T14:01:01Z",
+            "content": "(This story is for CNBC PRO subscribers only.)\r\nA slowdown in global manufacturing numbers has unfairly hit some cyclical stocks, creating compelling medium and long-term buying opportunities, Jefferies said Thursday.\r\nIn a note titled \"looking for stocks in \u2026 [+519 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Cnbc",
+            "title": "China's Hubei bans vehicle traffic to curb spread of coronavirus",
+            "description": "SHANGHAI, Feb 16- The government of Hubei province, the center of China's coronavirus outbreak, said on Sunday a ban will be imposed on vehicle traffic across the province to curb the spread of the virus. In a published document, it said police cars, ambulanc\u2026",
+            "url": "https://www.cnbc.com/2020/02/16/reuters-america-chinas-hubei-bans-vehicle-traffic-to-curb-spread-of-coronavirus.html",
+            "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+            "publishedAt": "2020-02-16T08:56:40Z",
+            "content": "SHANGHAI, Feb 16 (Reuters) - The government of Hubei province, the center of China's coronavirus outbreak, said on Sunday a ban will be imposed on vehicle traffic across the province to curb the spread of the virus.\r\nIn a published document, it said police ca\u2026 [+393 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Cruise ship operator seeks new virus test for American passenger said to have tested positive",
+            "description": "The 83-year-old woman was the first passenger from the MS Westerdam, operated by Carnival Corp unit Holland America, to test positive for the virus.",
+            "url": "https://www.cnbc.com/2020/02/16/cruise-firm-seeks-new-virus-test-for-ms-westerdam-passenger-in-cambodia.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393450-1581818550248gettyimages-1200669659.jpeg?v=1581818721",
+            "publishedAt": "2020-02-16T02:13:33Z",
+            "content": "More tests are needed to confirm that an American passenger from a cruise ship docked in Cambodia has the new coronavirus after she tested positive in Malaysia, the MS Westerdam's operator said on Sunday. \r\n The 83-year-old woman was the first passenger from \u2026 [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Joanna Tan",
+            "title": "Coronavirus live updates: Hubei says 139 more people died, death toll in China tops 1,660",
+            "description": "Hubei's health authorities reported 1,843 new cases and 139 more deaths as of Feb. 15.",
+            "url": "https://www.cnbc.com/2020/02/16/coronavirus-latest-updates-china-death-toll-rises.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106393277-1581768897362gettyimages-1200854524.jpeg?v=1581768983",
+            "publishedAt": "2020-02-16T00:15:49Z",
+            "content": "A girl wearing a face mask plays on her scooter at a park in Beijing on February 15, 2020.\r\nThis is a live blog. Please check back for updates.\r\nAll times below are in Beijing time.\r\n8.00 am: Hubei reports 139 additional deaths and 1,843 new cases\r\n Hubei's h\u2026 [+2335 chars]"
+        }
+    ]
+}

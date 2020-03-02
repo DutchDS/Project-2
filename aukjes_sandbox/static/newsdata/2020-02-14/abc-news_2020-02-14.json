@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Egypt confirms first case of new virus",
+            "description": "Egypt's Health Ministry has confirmed the first case of the new virus in the North African country",
+            "url": "https://abcnews.go.com/International/wireStory/egypt-confirms-case-virus-68991251",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-14T18:43:47Z",
+            "content": "CAIRO -- \r\nEgypt's Health Ministry has confirmed the first case of the new virus in the North African country. \r\nIn a statement Friday, Health Ministry spokesman Khaled Mugahed said the person was a foreigner\" who is carrying the virus but not showing any ser\u2026 [+813 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE AP Medical Writer",
+            "title": "Amid coronavirus fears, a second wave of flu hits US kids",
+            "description": "A second wave of flu is hitting the U.S., turning this into one of the nastiest seasons for children in a decade",
+            "url": "https://abcnews.go.com/Health/wireStory/amid-coronavirus-fears-wave-flu-hits-us-kids-68989821",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_1f3d31916e544e66b257e9495afe7546_16x9_992.jpg",
+            "publishedAt": "2020-02-14T17:45:54Z",
+            "content": "NEW YORK -- \r\nA second wave of flu is hitting the U.S., turning this into one of the nastiest seasons for children in a decade.\r\nThe number of child deaths and the hospitalization rate for youngsters are the highest seen at this point in any season since the \u2026 [+3034 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAMIAN J. TROISE AP Business Writer",
+            "title": "US stocks rise slightly, on track for weekly gains",
+            "description": "Stocks are opening mostly higher on Wall Street, with technology and retail companies leading the gainers",
+            "url": "https://abcnews.go.com/Business/wireStory/us-stocks-rise-slightly-track-weekly-gains-68986636",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_f38ef10142f143349ceebf1d88d1a0b3_16x9_992.jpg",
+            "publishedAt": "2020-02-14T14:54:32Z",
+            "content": "NEW YORK -- \r\nU.S. stocks wobbled between small gains and losses in early trading Friday as investors focused on another round of mostly solid corporate earnings.\r\nTrading has been more subdued and cautious on Wall Street, following China's report Thursday of\u2026 [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHRISTOPHER RUGABER AP Economics Writer",
+            "title": "US manufacturing output hit by Boeing troubles, slips 0.1%",
+            "description": "U.S. manufacturing output fell slightly in January, driven lower by Boeing's decision to halt production of its troubled 737 MAX aircraft",
+            "url": "https://abcnews.go.com/US/wireStory/us-manufacturing-output-hit-boeing-troubles-slips-01-68986029",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_122fe88dab8442ed96f3130cb96ffeb9_16x9_992.jpg",
+            "publishedAt": "2020-02-14T14:21:26Z",
+            "content": "WASHINGTON -- \r\nU.S. manufacturing output fell slightly in January, driven lower by Boeing's decision to halt production of its troubled 737 MAX aircraft. \r\nThe Federal Reserve said Friday that factory output declined 0.1% last month after eking out a 0.1% ga\u2026 [+1334 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YANAN WANG Associated Press",
+            "title": "With virus, shops in China suffer a star-crossed Valentines",
+            "description": "In virus-stricken China, couples can celebrate Valentine's Day with a roast beef salad, hot chocolate, a rose and a note, all delivered to their door",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-shops-china-suffer-star-crossed-valentines-68985124",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_464452d568774fc487f1a3f8150d6840_16x9_992.jpg",
+            "publishedAt": "2020-02-14T13:29:33Z",
+            "content": "BEIJING -- \r\nIn virus-stricken China, couples can celebrate Valentine's Day with a roast beef salad, hot chocolate, a rose and a note, all delivered to their door.\r\nThe note, scrawled on the front of their sealed order, states the body temperature of the chef\u2026 [+4258 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YANAN WANG Associated Press",
+            "title": "With virus, shops in China suffer a star-crossed Valentines",
+            "description": "In virus-stricken China, couples can celebrate Valentine's Day with a roast beef salad, hot chocolate, a rose and a note, all delivered to their door",
+            "url": "https://abcnews.go.com/International/wireStory/virus-shops-china-suffer-star-crossed-valentines-68985063",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_464452d568774fc487f1a3f8150d6840_16x9_992.jpg",
+            "publishedAt": "2020-02-14T13:29:18Z",
+            "content": "BEIJING -- \r\nIn virus-stricken China, couples can celebrate Valentine's Day with a roast beef salad, hot chocolate, a rose and a note, all delivered to their door.\r\nThe note, scrawled on the front of their sealed order, states the body temperature of the chef\u2026 [+4258 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "STEPHEN WADE and MARI YAMAGUCHI AP Sports Writer",
+            "title": "No 'Plan B' for Olympics amid coronavirus in China",
+            "description": "Tokyo Olympic organizers and the International Olympic Committee say there's \u201cno case for any contingency plans or cancelling\" the 2020 Games because of the fast spreading virus that has caused one death in Japan and about 1,400 in mainland China",
+            "url": "https://abcnews.go.com/Sports/wireStory/plan-olympics-questions-chinese-presence-68983463",
+            "urlToImage": "https://s.abcnews.com/images/Sports/WireAP_21d3300af75b4e018faaad965bbead7c_16x9_992.jpg",
+            "publishedAt": "2020-02-14T13:13:12Z",
+            "content": "TOKYO -- \r\nTokyo Olympic organizers and the International Olympic Committee said Friday there is no Plan B for the 2020 Games, which open in just over five months and have been jolted by the outbreak of a virus in neighboring China.\r\nThe coronavirus has infec\u2026 [+4344 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "China says 1,716 health workers among over 63,000 infected by novel coronavirus",
+            "description": "China says 1,716 health workers among over 63,000 infected by novel coronavirus go.com",
+            "url": "https://abcnews.go.com/International/china-1716-health-workers-63000-infected-coronavirus/story?id=68982408",
+            "urlToImage": "https://s.abcnews.com/images/International/chinese-medical-staff-leave-for-wuhan-getty-200214_hpMain_20200214-044319_16x9_992.jpg",
+            "publishedAt": "2020-02-14T10:06:43Z",
+            "content": "Chinese health officials have revealed for the first time the number of frontline workers who have been infected by the novel coronavirus.\r\nZeng Yixin, vice minister of China's National Health Commission, told reporters Friday that so far, 1,716 medical worke\u2026 [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RALPH JENNINGS Associated Press",
+            "title": "Health concerns meet politics amid Taiwan\u2019s WHO exclusion",
+            "description": "Taiwan\u2019s exclusion from the World Health Organization is pitting health concerns against geopolitics during the current crisis over a new virus",
+            "url": "https://abcnews.go.com/Health/wireStory/health-concerns-meet-politics-amid-taiwans-exclusion-68981633",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_72cdc29718834b9ba0f3278ed1f85b37_16x9_992.jpg",
+            "publishedAt": "2020-02-14T06:37:57Z",
+            "content": "TAIPEI, Taiwan -- \r\nTaiwans exclusion from the World Health Organization is pitting health concerns against geopolitics during the current crisis over the new illness known as COVID-19. \r\nTaiwan has called repeatedly for it to be allowed to participate in WHO\u2026 [+3324 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SAM McNEIL and CANDICE CHOI Associated Press",
+            "title": "Virus renews safety concerns about slaughtering wild animals",
+            "description": "Many people in China are calling for a temporary ban on the wildlife trade to be made permanent as the coronavirus spreads",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-renews-safety-concerns-slaughtering-wild-animals-68981035",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-14T06:22:27Z",
+            "content": "BEIJING -- \r\nChina cracked down on the sale of exotic species after an outbreak of a new virus in 2002 was linked to markets selling live animals. The germ turned out to be a coronavirus that caused SARS.\r\nThe ban was later lifted, and the animals reappeared.\u2026 [+6400 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SAM McNEIL and CANDICE CHOI Associated Press",
+            "title": "Virus renews safety concerns about slaughtering wild animals",
+            "description": "Many people in China are calling for a temporary ban on the wildlife trade to be made permanent as the coronavirus spreads",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-renews-safety-concerns-slaughtering-wild-animals-68980932",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_789b27da955145f3933b82f5ec5462c1_16x9_992.jpg",
+            "publishedAt": "2020-02-14T06:09:02Z",
+            "content": "BEIJING -- \r\nChina cracked down on the sale of exotic species after an outbreak of a new virus in 2002 was linked to markets selling live animals. The germ turned out to be a coronavirus that caused SARS.\r\nThe ban was later lifted, and the animals reappeared.\u2026 [+6400 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KIM TONG-HYUNG Associated Press",
+            "title": "US says it's ready to help North Korea combat virus",
+            "description": "The United States has expressed deep concern about North Korea's vulnerability to the outbreak of a new virus and says it\u2019s ready to support efforts by aid organizations to contain the spread of the illness in the impoverished nation",
+            "url": "https://abcnews.go.com/International/wireStory/us-ready-north-korea-combat-virus-68981033",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_3f16b839f3cc46ca9f91ce04560210cc_16x9_992.jpg",
+            "publishedAt": "2020-02-14T06:04:02Z",
+            "content": "SEOUL, South Korea -- \r\nThe United States expressed deep concern about North Korea's vulnerability to the outbreak of a new virus and said it was ready to support efforts by aid organizations to contain the spread of the illness in the impoverished nation.\r\nN\u2026 [+3132 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 64,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 64,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-64000-people-globally-68980049",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_1e241292de3d40cca4046ecab98342b8_16x9_992.jpg",
+            "publishedAt": "2020-02-14T05:00:24Z",
+            "content": "A viral outbreak that began in China has infected more than 64,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each \u2026 [+656 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SOPHENG CHEANG Associated Press",
+            "title": "Passengers finally begin leaving cruise ship in Cambodia",
+            "description": "Hundreds of cruise ship passengers long stranded at sea by virus fears cheered as they finally disembarked and were welcomed to Cambodia by the nation's authoritarian leader, who handed them flowers",
+            "url": "https://abcnews.go.com/Travel/wireStory/passengers-finally-begin-leaving-cruise-ship-cambodia-68976198",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_9a547eef5ee441228314f89fca81faf0_16x9_992.jpg",
+            "publishedAt": "2020-02-14T01:05:37Z",
+            "content": "SIHANOUKVILLE, Cambodia -- \r\nHundreds of cruise ship passengers long stranded at sea by virus fears cheered as they finally disembarked Friday and were welcomed to Cambodia by the nation's authoritarian leader, who handed them flowers.\r\nPrime Minister Hun Sen\u2026 [+2757 chars]"
+        }
+    ]
+}

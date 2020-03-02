@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "Smoking, coronavirus, and the deaths of Chinese men",
+            "description": "We've learned a lot more about the coronavirus over the past week\u2014including the potential effect that smoking has on the pathogen's spread.",
+            "url": "https://fortune.com/2020/02/19/smoking-coronavirus-men-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/China-coronavirus-vaccine-smoking-men.jpg?resize=1200,600",
+            "publishedAt": "2020-02-19T23:16:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "China\u2019s high smoking rate may be exacerbating the coronavirus outbreak",
+            "description": "China's sky high smoking rate among men may help explain why they're more susceptible to coronavirus infection and death.",
+            "url": "https://fortune.com/2020/02/19/coronavirus-china-smoking-rate-men/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201476588.jpg?resize=1200,600",
+            "publishedAt": "2020-02-19T17:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Coronavirus hits China\u2019s workers as businesses say they can\u2019t pay wages now",
+            "description": "A growing number of China\u2019s private companies have cut wages, delayed paychecks or stopped paying staff completely, saying that the economic toll of the coronavirus has left them unable to cover their labor costs. To slow the spread of the virus that\u2019s claime\u2026",
+            "url": "https://fortune.com/2020/02/19/coronavirus-china-workers-businesses-pay-wages/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201747099.jpg?resize=1200,600",
+            "publishedAt": "2020-02-19T11:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "Gold is nearing a 7-year high. But it can\u2019t keep pace with Big Tech",
+            "description": "Coronavirus uncertainty has driven up the price of gold, a classic safe-haven bet. But the Nasdaq has surged even more since the start of the year.",
+            "url": "https://fortune.com/2020/02/19/tech-rally-outpaces-gold/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/01/GettyImages-1083969146.jpg?resize=1200,600",
+            "publishedAt": "2020-02-19T10:20:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Coronavirus misinformation in China is fueled by new force: government mistrust - Fortune",
+            "description": "Fake news and junk science are festering in virus-racked China, where uncertainty reigns.",
+            "url": "https://fortune.com/2020/02/19/coronavirus-china-misinformation-mistrust/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201428238.jpg?resize=1200,600",
+            "publishedAt": "2020-02-19T08:26:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jenna Schnuer",
+            "title": "Asian American businesses are struggling because of unfounded coronavirus fear",
+            "description": "\"Please do not allow stigma, xenophobia or fear to control your decisions,\" said Allison Arwady, commissioner of the Chicago Department of Public Health.",
+            "url": "https://fortune.com/2020/02/18/asian-american-businesses-struggling-coronavirus-fear/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1206070956-e1582072603910.jpg?resize=1200,600",
+            "publishedAt": "2020-02-19T00:39:44Z",
+            "content": null
+        }
+    ]
+}

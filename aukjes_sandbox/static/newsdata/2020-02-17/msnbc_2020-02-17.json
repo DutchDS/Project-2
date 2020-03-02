@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Health expert: Coronavirus 'chaos' is 'very worrisome'",
+            "description": "More than 300 Americans continued their trip home after two weeks under quarantine on a docked cruise ship in Japan, despite 14 of them testing positive for Coronavirus. Director of the Global Health Program at the Council on Foreign Relations, Thomas Bollyky\u2026",
+            "url": "https://www.msnbc.com/ali-velshi/watch/health-expert-coronavirus-chaos-is-very-worrisome-78900805921",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_velshi_bollyky200217_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-17T21:22:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "Cotton repeats coronavirus conspiracy theory, despite evidence",
+            "description": "Coronavirus conspiracy theories have, predictably, spread from the Republican fringe to the Republican mainstream.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/cotton-repeats-coronavirus-conspiracy-theory-despite-evidence-n1137701",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2018_50/2681196/181212-tom-cotton-criminal-justice-bill-ac-513p_4f9205839ecb5680b7b7439ceb6e3130.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-17T21:04:44Z",
+            "content": "There are some prominent political figures in the nation's capital who seem a little too fond of conspiracy theories. Folks like Donald Trump and Sen. Rand Paul (R-Ky.) routinely seem to embrace some rather nutty explanations for events with more rational exp\u2026 [+2532 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "14 Americans test positive for coronavirus",
+            "description": "NBC News' Bill Neely has the latest details on fourteen Americans who were among the hundreds evacuated from a quarantined cruise ship off Yokohama that have tested positive for the novel coronavirus.",
+            "url": "https://www.msnbc.com/morning-joe/watch/14-americans-test-positive-for-coronavirus-78886469976",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mj_bill_200217_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-17T14:51:37Z",
+            "content": null
+        }
+    ]
+}

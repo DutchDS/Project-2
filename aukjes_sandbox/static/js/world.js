@@ -1,3 +1,8 @@
+let slider_input = document.querySelector('input');                                                                    //assign the input from slider to variable a                                                                //assign the output under the slider to variable b
+
+var last_DB_date = $("#selectDate").text();
+console.log(last_DB_date)
+
 // Creating map object
 var myMap = L.map("map", {
   center: [34.5133, -10.1629],
@@ -31,9 +36,10 @@ function task(i) {
   setTimeout(function() {
 
     script_date = formatDate(current_date)
-    document.getElementById('selectDate').innerHTML = ""
-    document.getElementById('selectDate').innerHTML = script_date 
+    // document.getElementById('selectDate').innerHTML = ""
+    // document.getElementById('selectDate').innerHTML = script_date 
     console.log(script_date)
+    document.getElementById("chartDate").innerHTML = "Chart Date:  " + script_date
     geoUrl = "static/world_geojsons/" + script_date + ".json";
     // get_new_layer()
     // console.log(current_date)
@@ -41,11 +47,11 @@ function task(i) {
   // call run
     get_new_layer(geoUrl);
   
-    current_date.setDate(current_date.getDate() + 3);
+    current_date.setDate(current_date.getDate() + 1);
     // current_date = current_date.setDate(current_date + 1);
     
     }  
-  , 1000); 
+  , 500 * i); 
 } 
 
 var geojson;
@@ -54,15 +60,16 @@ function chooseColor(x) {
   // console.log("this is line 57")
   // console.log("--------------------------")
     if (x == 0)
-      // color = "#fde8fc"
-      color = "transparent"
+      color = "#white"
+      opacity = .1
+      // color = "transparent"
     else if (x <= 5)
       color = "#f7a1f3"
-    else if (x <= 10)
-      color = "#f15be9"
     else if (x <= 50)
-      color = "#eb14e0"
+      color = "#f15be9"
     else if (x <= 500)
+      color = "#eb14e0"
+    else if (x <= 5000)
       color = "#a40e9d"
     else
       color = "#5e085a";
@@ -73,17 +80,16 @@ function chooseColor(x) {
 
 function get_new_layer(geoUrl) { 
 
-  d3.json(geoUrl).then(function(data) {
-    
+  d3.json(geoUrl).then(function(data) { 
     // console.log("GEOJSON ", data)
     // Create a new choropleth layer
-    geojson = L.geoJson(data, {
+    geojson = new L.geoJson(data, {
       style: function(feature) {
         return {
           color: "white",
           // fillColor: "red",
           fillColor: chooseColor(feature.properties.confirmedCount), 
-          fillOpacity: 0.7,
+          fillOpacity: 0.85,
           weight: 0.5
         }
       },
@@ -108,10 +114,10 @@ function create_legend() {
       div.innerHTML += "<h4>Corona Cases</h4>";
       div.innerHTML += '<i style="background: #fde8fc"></i><span>0</span><br>';
       div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 5</span><br>';
-      div.innerHTML += '<i style="background: #f15be9"></i><span>6 - 10</span><br>';
-      div.innerHTML += '<i style="background: #eb14e0"></i><span>11 - 50</span><br>';
-      div.innerHTML += '<i style="background: #a40e9d"></i><span>51 - 500</span><br>';
-      div.innerHTML += '<i style="background: #5e085a"></i><span>> 500</span><br>';  
+      div.innerHTML += '<i style="background: #f15be9"></i><span>6 - 50</span><br>';
+      div.innerHTML += '<i style="background: #eb14e0"></i><span>51 - 500</span><br>';
+      div.innerHTML += '<i style="background: #a40e9d"></i><span>501 - 5000</span><br>';
+      div.innerHTML += '<i style="background: #5e085a"></i><span>> 5000</span><br>';  
 
       return div;
 };
@@ -122,20 +128,35 @@ legend.addTo(myMap);
 var today = new Date()
 var yesterday =  today.setDate(today.getDate() - 1);
 
-initgeoUrl = "static/world_geojsons/" + formatDate(yesterday) + ".json";
-console.log(initgeoUrl)
+// initgeoUrl = "static/world_geojsons/" + formatDate(yesterday) + ".json";
+// initgeoUrl = "static/world_geojsons/" + last_DB_date + ".json";
 
-get_new_layer(initgeoUrl);
+// console.log(initgeoUrl)
+
+// get_new_layer(initgeoUrl);
 create_legend()
-
+reload()
 function reload() {
   day_count = today - current_date
-  counter = Math.ceil((day_count/24/60/60/1000/ + 1)/3)
+  counter = Math.ceil((day_count/24/60/60/1000/ + 1))
   for (var i = 0; i < counter; i++)  {  
     task(i); 
     } 
   }
   
-// Initiate button listener
-var get_all = d3.select("#selectAll");
-get_all.on("click", function() {reload()});
+d3.select("#selectAll").on("click", function() {
+    reload()});
+
+
+slider_input.addEventListener('change', function () {                                                                   //using event listener with input gives instant response; use 'change' instead to see the difference in response
+    var day_one;                                                                                            //declare our day_one variable which will represent the day one of outbreak
+    day_one = moment("22/01/2020", "DD/MM/YYYY");                                                           //assigning our day one value 27 Jan 2020 to day_one using moment lib
+    var slider_day = moment(day_one,"DD/MM/YYYY").add((slider_input.value-1),'day');                                   //manipulating the slider input with day_one value using moment, to get date for slider input
+    get_date = moment(slider_day,"DD/MM/YYYY").format("YYYY-MM-DD");
+    console.log(get_date)
+    geoUrl = "static/world_geojsons/" + get_date + ".json";
+
+    console.log(geoUrl)
+    document.getElementById("chartDate").innerHTML = "Chart Date:  " + get_date
+    get_new_layer(geoUrl);
+}, false);

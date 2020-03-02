@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "First coronavirus deaths among evacuees from cruise ship",
+            "description": "Two elderly passengers aboard the Diamond Princess in Japan died from the coronavirus after their voyage on the ship. In the U.S., the first group of Americans have been released after their 14-day quarantine.",
+            "url": "https://www.nbcnews.com/nightly-news/video/first-coronavirus-deaths-among-evacuees-from-cruise-ship-79109702000",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mal_coronavirus_crisis_200220_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-20T23:44:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Collins",
+            "title": "Twitter is testing new ways to fight misinformation \u2014 including a community-based points system",
+            "description": "Twitter is experimenting with adding brightly colored labels directly beneath lies and misinformation posted by politicians and public figures, according to a leaked demo of new features sent to NBC News.",
+            "url": "https://www.nbcnews.com/tech/tech-news/twitter-testing-new-ways-fight-misinformation-including-community-based-points-n1139931",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_45/3092151/191108-twitter-office-ew-1014p_f962add07591eba6b6b7c62bc998c721.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-20T18:40:57Z",
+            "content": "Twitter is experimenting with adding brightly colored labels directly beneath lies and misinformation posted by politicians and public figures, according to a leaked demo of new features sent to NBC News.\r\nTwitter confirmed that the leaked demo, which was acc\u2026 [+3984 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Associated Press",
+            "title": "South Korea reports first coronavirus death as infections linked to church rise",
+            "description": "South Korea reported its first coronavirus death. The mayor of one city urged 2.5 million people to stay inside as infections linked to a church congregation spiked.",
+            "url": "https://www.nbcnews.com/health/health-news/south-korea-reports-first-coronavirus-death-infections-linked-church-rise-n1139821",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3237461/200220-coronavirus-covid-19-south-korea-cs-1041a_10a8b7677273842fb8df4912d12edf7e.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-20T16:09:44Z",
+            "content": "SEOUL, South Korea South Korea reported its first death from the new virus on Thursday while the mayor of a southeastern city urged its 2.5 million people to stay inside as infections linked to a church congregation spiked.\r\nThe death was the ninth confirmed \u2026 [+4431 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: 2 passengers die after leaving 'chaotic' cruise ship",
+            "description": "The death toll from the coronavirus outbreak climbed to 2,118 in China. Here is the latest for Thursday Feb. 20.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-2-passengers-die-after-leaving-chaotic-quarantined-cruise-n1139701",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3237071/200220-diamond-princess-mc-802_2c8200f7897ed0a0ef39cc795200e984.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-20T10:55:55Z",
+            "content": "2 people who were on quarantined cruise ship in Japan have died\r\n Quarantine on Diamond Princess cruise ship 'chaotic,' Japanese expert claims\r\n Number of new confirmed cases drops in Hubei province\r\n South Korea confirms first death of person infected with c\u2026 [+6477 chars]"
+        }
+    ]
+}

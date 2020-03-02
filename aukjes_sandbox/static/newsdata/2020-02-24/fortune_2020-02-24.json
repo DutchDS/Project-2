@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Coronavirus has video game giants rethinking their trade show plans",
+            "description": "Sony and Oculus pull out of GDC. What\u2019s next?",
+            "url": "https://fortune.com/2020/02/24/coronavirus-video-games-sony-gdc-pax/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1149627288.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Anne Sraders",
+            "title": "As coronavirus ravages the stock market, here are the biggest losers (and a few surprising winners)",
+            "description": "Airlines, cruise stocks, healthcare companies and tech companies like Apple all saw a brutal sell off.",
+            "url": "https://fortune.com/2020/02/24/coronavirus-stock-market-winners-losers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198666652.jpg?resize=1200,600",
+            "publishedAt": "2020-02-25T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erik Sherman",
+            "title": "Coronavirus fears batter the stock market, wiping out all of this year\u2019s gains",
+            "description": "Details about the spread of COVID-19 over the weekend \"opened the eyes of investors\" as one analyst put it.",
+            "url": "https://fortune.com/2020/02/24/coronavirus-fears-stock-market-drop/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208443992.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T23:04:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "Coronavirus interruption of drug supply chain pushes Sanofi to open a firm in France",
+            "description": "Sanofi CEO Paul Hudson on why the French drug maker is creating a new company to manufacture medicines outside of Asia.",
+            "url": "https://fortune.com/2020/02/24/sanofi-ceo-drug-shortages/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Sanofi-CEO-Paul-Hudson-e1582580686412.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T21:52:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ben Carlson",
+            "title": "Coronavirus should not make investors panic. But it should make them do this",
+            "description": "Sometimes headlines can provide a dose of reality for those investors who miscalibrated their tolerance for volatility and potential losses in the markets.",
+            "url": "https://fortune.com/2020/02/24/coronavirus-stock-market-investing-advice/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1205567013.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T20:34:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "Sanofi is set to launch a new European drug manufacturing firm",
+            "description": "Sanofi has been plotting a new drug manufacturing company in Europe for a while. Coronavirus and Brexit highlight why.",
+            "url": "https://fortune.com/2020/02/24/sanofi-europe-drug-company-coronavirus-brexit/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/Sanofi-CEO-new-drug-company-coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T20:31:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erik Sherman",
+            "title": "5 reasons coronavirus statistics seem inconsistent",
+            "description": "Getting a handle on the data of a developing epidemic is a lot harder than it sounds.",
+            "url": "https://fortune.com/2020/02/24/coronavirus-statistics-who-data-transparency/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202993419.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T18:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "Coronavirus in Italy: Europe\u2019s first big Covid-19 outbreak roils global markets",
+            "description": "Five people have died in northern Italy's coronavirus outbreak, which has seen a dozen towns go into lockdown.",
+            "url": "https://fortune.com/2020/02/24/coronavirus-italy-outbreak-markets/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202948969.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T13:06:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Why the coronavirus is pushing gold up\u2014and oil and other commodities down",
+            "description": "With the IMF cutting its global growth forecast and warning that it\u2019s also looking at more \u201cdire\u201d scenarios, investors are concerned that risks to raw-material demand are worsening.",
+            "url": "https://fortune.com/2020/02/24/coronavirus-gold-oil-commodities-prices/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1178200095.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Italy, Iran, South Korea: Coronavirus pandemic fears grow as cases spike outside China",
+            "description": "These bursts of infections could drive a second peak in an epidemic that\u2019s already killed more than 2,400 in China and severely disrupted global business and travel activity.",
+            "url": "https://fortune.com/2020/02/24/italy-iran-south-korea-coronavirus-pandemic-fears-cases-outside-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1208325102.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T11:05:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "Global markets plunge as coronavirus crisis rocks Italy",
+            "description": "Futures point to the Dow sinking by more than 700 points at the market open on Monday. The European bourses were down even further in morning trade.",
+            "url": "https://fortune.com/2020/02/24/global-markets-plunge-coronavirus-italy/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202929254.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T10:03:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Coronavirus infection at Samsung factory prompts South Korean firms to prepare for the worst",
+            "description": "Samsung Electronics shares slid as much as 3% as Samsung closed the facility.",
+            "url": "https://fortune.com/2020/02/23/coronavirus-south-korea-samsung/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1197491296.jpg?resize=1200,600",
+            "publishedAt": "2020-02-24T03:51:08Z",
+            "content": null
+        }
+    ]
+}

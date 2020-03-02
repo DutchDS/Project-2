@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gerren Keith Gaynor",
+            "title": "American Airlines passenger wearing gas mask is removed from Texas flight",
+            "description": "A male passenger wearing a gas mask was removed from an American Airlines flight on Thursday while traveling from Dallas to Houston.",
+            "url": "https://www.foxnews.com/travel/american-airlines-passenger-wearing-gas-mask",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/American-Airplane-iStock.jpg",
+            "publishedAt": "2020-02-01T23:55:09Z",
+            "content": "A male passenger wearing a gas mask was removed from an\u00a0American Airlines flight on Thursday while traveling from Dallas to Houston.\r\nThe flight was delayed an hour because the unidentified man refused to take off the mask, causing passengers to panic. \r\nJEWI\u2026 [+1174 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "CDC confirms seventh coronavirus case in US, as global cases top more than 11,900",
+            "description": "Health officials said Friday that a man in southern California has been infected with the Coronavirus after returning from a recent trip to China, bringing the overall reported cases in the United States to seven.",
+            "url": "https://www.foxnews.com/health/coronavirus-cdc-seventh-case-us",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20027535020561.jpg",
+            "publishedAt": "2020-02-01T16:00:27Z",
+            "content": "Health officials said Friday that a man in southern California has been infected with the Coronavirus after returning from a recent trip to China, bringing the overall reported cases in the United States to seven.\r\nThe Centers for Disease Control and Preventi\u2026 [+2611 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brad Parscale",
+            "title": "Brad Parscale: Trump immigration and border security record unassailable",
+            "description": "Anyone who cares about ending the crisis on our southern border couldn\u2019t ask for a better candidate this November than President Donald J. Trump",
+            "url": "https://www.foxnews.com/opinion/the-presidents-record-on-immigration-and-border-security-is-unassailable-brad-parscale",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/20/694940094001_6125043086001_6125042001001-vs.jpg",
+            "publishedAt": "2020-02-01T12:00:31Z",
+            "content": "Even with an obstructionist Democratic-controlled House of Representatives that is hell-bent on keeping America\u2019s borders porous and the flood of illegal immigration flowing, President Trump has delivered victory after victory on his border security agenda.\u00a0T\u2026 [+5771 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joe McDonald, Sam McNeil",
+            "title": "China slams Trump's coronavirus travel limits: 'Not a gesture of goodwill'",
+            "description": "China\u2019s death toll from a new virus rose to 259 on Saturday and a World Health Organization official said other governments need to prepare for\u201cdomestic outbreak control\u201d if the disease spreads in their countries.",
+            "url": "https://www.foxnews.com/health/who-says-prepare-for-local-outbreaks-china-slams-us-control",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a2b6d01-ce14-4f76-b045-c0bb81186724/8f5d6982-35d7-413e-b264-78f6e1e2503c/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-01T10:21:06Z",
+            "content": "BEIJING \u2014 China\u2019s death toll from a new virus rose to 259 on Saturday and a World Health Organization official said other governments need to prepare for\u201cdomestic outbreak control\u201d if the disease spreads in their countries.\r\nBeijing criticized Washington\u2019s or\u2026 [+7899 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julius Young",
+            "title": "Jeff Lewis apologizes for comments about Asian Americans amid coronavirus crisis",
+            "description": "Jeff Lewis is walking back comments he and his radio guests made on SiriusXM about Asian Americans in the midst of the global coronavirus outbreak.",
+            "url": "https://www.foxnews.com/entertainment/jeff-lewis-apologizes-asian-americans-quarantined-coronavirus-outbreak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/Jeff-Lewis.jpg",
+            "publishedAt": "2020-02-01T00:37:30Z",
+            "content": "Jeff Lewis is walking back comments he and his radio guests made on SiriusXM about Asian Americans amid\u00a0the global coronavirus\u00a0crisis.\r\nThe \u201cFlipping Out\u201d alum, 49, opened Thursday\u2019s episode of his show \u201cJeff Lewis Live\u201d and issued an apology for remarks he a\u2026 [+5508 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joseph Wulfsohn",
+            "title": "Paul Krugman admits economy doing 'pretty well' after predicting Trump would lead to global recession",
+            "description": "New York Times columnist Paul Krugman admitted that the U.S. economy has been doing well under President Trump after he famously predicted a \"global recession\" would occur if the Republican won the 2016 election.",
+            "url": "https://www.foxnews.com/media/paul-krugman-trump-economy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Paul-Krugman-Trump-Getty-AP.jpg",
+            "publishedAt": "2020-02-01T00:13:09Z",
+            "content": "New York Times columnist Paul Krugman admitted that the U.S. economy has been doing well under President Trump after he famously predicted a \"global recession\" would occur if the Republican won the 2016 election.\r\nIn an interview with PBS'\u00a0\"Firing Line with M\u2026 [+3210 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Trump administration declares public health emergency over coronavirus outbreak, restricts US entry",
+            "description": "Foreign nationals who have traveled to China within the last 14 days will be temporarily denied entry into the U.S.; Jonathan Serrie reports from Atlanta.",
+            "url": "http://video.foxnews.com/v/6128766622001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a2b6d01-ce14-4f76-b045-c0bb81186724/8f5d6982-35d7-413e-b264-78f6e1e2503c/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-01T00:04:19Z",
+            "content": null
+        }
+    ]
+}

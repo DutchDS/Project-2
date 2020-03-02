@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Americans evacuated from quarantined cruise ship off Japan",
+            "description": "Hundreds of Americans are being evacuated off the Diamond Princess for a chartered flight back to the United States, where they\u2019ll face a 14-day quarantine. There are 355 confirmed coronavirus cases on the ship and the number could rise as more people onboard\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/americans-evacuated-from-quarantined-cruise-ship-off-japan-78871109568",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_jma_coronavirus_evacuations_200216_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-16T23:35:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus: Americans to be evacuated from cruise ship quarantined in Japan",
+            "description": "As the U.S. prepares to evacuate passengers from the quarantined Diamond Princess cruise ship in Japan, China confirmed the coronavirus death toll has risen.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-americans-be-evacuated-cruise-ship-quarantined-japan-n1137486",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3232291/afp_1p151x_7343f1d55e7a7e8b80f2783d505fd375.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-16T11:55:47Z",
+            "content": "U.S. to evacuate Americans from quarantined cruise ship in Japan\r\n Death toll from novel coronavirus rises to 1,665\r\n China's president said he took early action behind the scenes\r\n China's Hubei bans vehicle traffic to curb spread of coronavirus\r\n American w\u2026 [+5766 chars]"
+        }
+    ]
+}

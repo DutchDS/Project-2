@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "We are still learning scope of corona virus, says doctor",
+            "description": "Dr. Vanessa Kerry of Seed Global Health discusses the latest details in the spread of the coronavirus.",
+            "url": "http://www.msnbc.com/morning-joe/watch/we-are-still-learning-scope-of-corona-virus-says-doctor-78308421838",
+            "urlToImage": null,
+            "publishedAt": "2020-02-07T17:18:00Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "New video shows China\u2019s \u2018wartime controls\u2019 to fight coronavirus outbreak",
+            "description": "Soldiers are enforcing curfews in Hubei province, the epicenter of the coronavirus outbreak, as millions are confined to their homes. Hospitals there are overwhelmed as the number of suspected cases grew by thousands overnight.",
+            "url": "https://www.nbcnews.com/nightly-news/video/new-video-shows-china-s-wartime-controls-to-fight-coronavirus-outbreak-78711877852",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_ren_coronavirus_200213_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-13T23:39:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elisha Fieldstadt",
+            "title": "As one Princess cruise is quarantined for COVID-19, another is hit with different illness",
+            "description": "A Princess cruise ship returned early to Port of Everglades Florida with hundreds of passengers and crew suffering from a gastrointestinal illness.",
+            "url": "https://www.nbcnews.com/news/us-news/one-princess-cruise-quarantined-covid-19-another-hit-different-illness-n1136436",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3229281/200213-princess-cruises-caribbean-princess-florida-norovirus-ew-1205p_5ee695dd89309d9dff5dbbd5270045c2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-13T22:18:34Z",
+            "content": "A Princess cruise ship returned early to the Port of Everglades in Florida on Thursday due to hundreds of passengers and crew becoming afflicted with a gastrointestinal illness.\r\nThe sickness among those aboard the Caribbean Princess came as another of the cr\u2026 [+2010 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Reported COVID-19 cases spiked in 1 day in China. Here's what the numbers really mean.",
+            "description": "Why are cases of coronavirus rising in China? Experts say doctors in China are diagnosing patients with COVID-19 differently.",
+            "url": "https://www.nbcnews.com/health/health-news/reported-covid-19-cases-spiked-1-day-china-here-s-n1136596",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_07/3229431/200213-wuhan-hospital-coronavirus-ew-213p_7b250f9cf9d37cae467150f9efde31af.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-13T21:53:43Z",
+            "content": "A sudden rise in the number of COVID-19 cases reported in China does not mean that the outbreak is accelerating dramatically.\r\nOn Thursday, Chinese health officials reported the striking increase in cases: 14,840 in one day, bringing the total number of cases\u2026 [+2435 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Say it with sanitizer: Beijing florist takes on COVID-19 for Valentine's Day",
+            "description": "Valentine's Day is a bust in Beijing, with one flower seller reporting sales down 90 percent amid the novel coronavirus outbreak.",
+            "url": "https://www.nbcnews.com/business/business-news/say-it-sanitizer-beijing-florist-takes-covid-19-valentine-s-n1136631",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3229466/200213-cai-xiaoman-ew-249p_26b7bbf0ebdd3d2058cd3ddb2cb4e9db.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-13T19:54:00Z",
+            "content": "It's the eve of Valentine's Day and flower seller Cai Xiaoman is enclosing a special gift a small bottle of hand sanitizer to ward off COVID-19, the new name for the coronavirus disease as she sends out her last few bouquets to customers in Beijing.\r\nIt has b\u2026 [+730 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: Confirmed cases reach nearly 60,000 in China",
+            "description": "As nearly 60,000 cases of novel coronavirus are reported in China, here is the latest.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-updates-confirmed-cases-reach-nearly-60-000-china-n1136196",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_07/3228716/200213-covid-hubei-mc-1159_b2b7b00217bb4a9679bde6ab98437a72.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-13T13:18:00Z",
+            "content": "Large jump in number of confirmed cases in China\r\n 44 new cases aboard cruise ship quarantined in Japan\r\n Cruise ship shunned over coronavirus finally docks in Cambodia\r\n Xi deploys 2,600 more military doctors to Wuhan, epidemic ground zero\r\n Wartime measures\u2026 [+6359 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "\u2018I get to put the dishes outside the door\u2019: New York couple see bright side of coronavirus quarantine",
+            "description": "Cheryl and Paul Molesky, from Syracuse, New York, are in quarantine on the Diamond Princess cruise ship in Yokohama, Japan, where more than 200 cases of coronavirus have been confirmed among passengers and crew.",
+            "url": "https://www.nbcnews.com/video/american-couple-make-light-of-being-in-coronavirus-quarantine-on-diamond-princess-cruise-ship-78665285712",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/Virus_Passengers__800238.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-13T12:03:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Yuliya Talmazan, Leou Chen",
+            "title": "Coronavirus: Big jump in new cases declared as diagnosis method tweaked",
+            "description": "China's Hubei province, the center of the coronavirus outbreak, reported a stark rise in the number of new cases Thursday.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-big-jump-new-cases-declared-diagnosis-method-tweaked-n1136216",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3228636/200213-coronavirus-mc-9083_4107b166e97bc315d921a96dd748d240.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-13T10:59:44Z",
+            "content": "China's Hubei province, the center of the coronavirus outbreak, reported a stark rise in the number of new cases Thursday, dashing hopes that the epidemic may have been slowing down.\r\nHealth officials in Hubei reported 14,840 new cases, most of them in Wuhan,\u2026 [+2996 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "China takes 'wartime' measures to stop coronavirus",
+            "description": "Chinese officials take \"wartime control\" as death toll tops 1100 and cases nearing 50,000.",
+            "url": "https://www.nbcnews.com/nightly-news/video/china-takes-wartime-measures-to-stop-coronavirus-78650949791",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_mh_coronavirus_200212_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-13T02:17:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "14th case of new coronavirus confirmed in the U.S.",
+            "description": "How many people in the U.S. have coronavirus? The CDC says 14 people in the U.S. have been diagnosed with COVID-19, the respiratory disease that was first discovered just a few months ago in China.",
+            "url": "https://www.nbcnews.com/health/health-news/14th-case-new-coronavirus-confirmed-u-s-n1136156",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_07/3224986/200210-miramar-marine-corps-air-station-ac-851p_c34213463f833a81162cfbb6c0528416.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-13T01:31:51Z",
+            "content": "A 14th person in the U.S. has been diagnosed with the new coronavirus, now known as COVID-19.\r\nThe Centers for Disease Control and Prevention confirmed the patient is one of the passengers who arrived on a Department of State-chartered flight from Wuhan, Chin\u2026 [+1598 chars]"
+        }
+    ]
+}

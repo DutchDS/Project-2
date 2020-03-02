@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New coronavirus case confirmed among cruise ship evacuees",
+            "description": "A new case of coronavirus has been confirmed among people evacuated from a cruise ship to a California military base",
+            "url": "https://abcnews.go.com/Health/wireStory/coronavirus-case-confirmed-cruise-ship-evacuees-69083651",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-19T23:49:48Z",
+            "content": "TRAVIS AIR FORCE BASE, Calif. -- \r\nA new case of coronavirus was confirmed among people evacuated from a cruise ship to a California military base, authorities said Tuesday.\r\nThe patient, who tested positive for the virus in Japan but had no symptoms, was pla\u2026 [+2732 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Erin Schumaker",
+            "title": "Iran reports 2 novel coronavirus deaths, the country's 1st cases",
+            "description": "Iranian authorities said two patients diagnosed with novel coronavirus in the country are now dead, reports the state-run Fars News Agency.",
+            "url": "https://abcnews.go.com/Health/iran-reports-coronavirus-deaths-countrys-1st-cases/story?id=69073367",
+            "urlToImage": "https://s.abcnews.com/images/International/coronavirus-diamond-princess-ap-rc-200219_hpMain_1_16x9_992.jpg",
+            "publishedAt": "2020-02-19T19:18:14Z",
+            "content": "Iranian authorities said that two patients diagnosed with novel coronavirus in the country are now dead, Fars News Agency, the nation's state-run news organization, reported Wednesday.\r\nEarlier on Wednesday, health officials said two cases of the virus, known\u2026 [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHRISTOPHER RUGABER AP Economics Writer",
+            "title": "Fed\u2019s positive economic view complicated by viral outbreak",
+            "description": "Federal Reserve policymakers\u2019 positive economic outlook complicated by China viral outbreak",
+            "url": "https://abcnews.go.com/US/wireStory/feds-positive-economic-view-complicated-viral-outbreak-69076254",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_b4603c2894ae462b9050a7d71e3d4601_16x9_992.jpg",
+            "publishedAt": "2020-02-19T19:04:31Z",
+            "content": "WASHINGTON -- \r\nFederal Reserve officials were mostly optimistic about the U.S. and global economies last month, though they noted the risk posed by Chinas viral outbreak and were ready to keep their benchmark interest rate at its current low level for the co\u2026 [+1050 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Erin Schumaker",
+            "title": "Japanese expert who sneaked onto Diamond Princess cruise ship describes 'zero infection control' for coronavirus",
+            "description": "Japanese expert who sneaked onto Diamond Princess cruise ship describes 'zero infection control' for coronavirus go.com",
+            "url": "https://abcnews.go.com/Health/japanese-expert-sneaked-diamond-princess-describes-infection-control/story?id=69071246",
+            "urlToImage": "https://s.abcnews.com/images/Health/diamond-princess-1-ap-ps-200219_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-19T18:44:49Z",
+            "content": "A Japanese professor who gained access to the Diamond Princess cruise ship said in a YouTube video posted Tuesday that he was shocked by the lack of coronavirus infection control measures on board.\r\nMore than 620 people on the ship have tested positive for no\u2026 [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stocks open higher on Wall Street led by tech and banks",
+            "description": "Stocks are opening mostly higher on Wall Street as traders moved money into technology companies and banks",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-open-higher-wall-street-led-tech-banks-69069855",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_27ba5706a89148a4bc4a6ebe1e4cc13a_16x9_992.jpg",
+            "publishedAt": "2020-02-19T14:51:47Z",
+            "content": "NEW YORK -- \r\nStocks are opening mostly higher on Wall Street as traders moved money into technology companies and banks. Garmin rose 6% after reporting earnings that beat estimates. Bed Bath &amp; Beyond rose 4.5% after the struggling retailer unveiled a tur\u2026 [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Russia names exceptions from the entry ban for Chinese",
+            "description": "Russia's government says that it will continue to issue official, business, humanitarian and transit visas to Chinese nationals",
+            "url": "https://abcnews.go.com/Health/wireStory/russia-names-exceptions-entry-ban-chinese-69065729",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-19T11:24:47Z",
+            "content": "MOSCOW -- \r\nRussia will continue to issue official, business, humanitarian and transit visas to Chinese nationals, the country's Foreign Ministry said Wednesday, clarifying the conditions of a sweeping entry ban for Chinese citizens announced the day before. \u2026 [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AMIR VAHDAT Associated Press",
+            "title": "Iran reports its first 2 cases of the new coronavirus",
+            "description": "Iran's semi-official ISNA news agency says authorities have confirmed two cases of the new coronavirus, the first in the country",
+            "url": "https://abcnews.go.com/International/wireStory/iran-reports-cases-coronavirus-69065372",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-19T10:41:03Z",
+            "content": "TEHRAN, Iran -- \r\nIranian authorities confirmed on Wednesday two cases of the new coronavirus, the first in the country, the semi-official ISNA news agency reported. \r\nThe report did not elaborate on the nationality of the two people infected by the virus. IS\u2026 [+1069 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran's semi-official ISNA news agency says authorities have confirmed 2 cases of the new coronavirus, the first in Iran",
+            "description": "Iran's semi-official ISNA news agency says authorities have confirmed 2 cases of the new coronavirus, the first in Iran",
+            "url": "https://abcnews.go.com/International/wireStory/irans-semi-official-isna-news-agency-authorities-confirmed-69065265",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-19T10:34:02Z",
+            "content": "TEHRAN, Iran -- \r\nIran's semi-official ISNA news agency says authorities have confirmed 2 cases of the new coronavirus, the first in Iran."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "China expels 3 Wall Street Journal reporters amid coronavirus crisis",
+            "description": "The Chinese government has revoked the press credentials of three Beijing-based journalists from The Wall Street Journal as punishment for the headline of recent op-ed.",
+            "url": "https://abcnews.go.com/International/china-revokes-press-credentials-wall-street-journal-reporters/story?id=69064336",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-19T09:48:26Z",
+            "content": "LONDON -- \r\nThe Chinese government has revoked the press credentials of three Beijing-based journalists from The Wall Street Journal as punishment for the headline of recent opinion piece published by the newspaper that referred to China as \"the real sick man\u2026 [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected more than 75,000 people globally",
+            "description": "A viral outbreak that began in China has infected more than 75,000 people globally",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-75000-people-globally-69061827",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-19T03:52:17Z",
+            "content": "A viral outbreak that began in China has infectedmore than 75,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures reported by each g\u2026 [+726 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARI YAMAGUCHI and FOSTER KLUG Associated Press",
+            "title": "Passengers begin leaving after ship's virus quarantine ends",
+            "description": "Hundreds of passengers began leaving the Diamond Princess cruise ship after their two-week quarantine ended",
+            "url": "https://abcnews.go.com/Health/wireStory/passengers-begin-leaving-ships-virus-quarantine-ends-69060321",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_0b73318229ee4949b4dfb02f43fc5160_16x9_992.jpg",
+            "publishedAt": "2020-02-19T02:33:18Z",
+            "content": "YOKOHAMA, Japan -- \r\nHundreds of passengers began leaving the Diamond Princess cruise ship Wednesday after the end of a much-criticized, two-week quarantine that failed to stop the spread of a new virus among passengers and crew. \r\nOfficials still were contin\u2026 [+3828 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YANAN WANG Associated Press",
+            "title": "New virus cases in China fall for 2nd day, deaths top 2,000",
+            "description": "New virus cases in China continued to fall, with 1,749 new infections and 136 new deaths announced after China's leader said disease prevention and control was at a \u201ca critical time.\u201d",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-cases-china-fall-2nd-day-deaths-top-69058053",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_9d506eac2efd4a7d8fab76eb5f5c8a9e_16x9_992.jpg",
+            "publishedAt": "2020-02-19T00:47:18Z",
+            "content": "BEIJING -- \r\nNew virus cases in China continued to fall Wednesday, with 1,749 new infections and 136 new deaths announced after China's leader said disease prevention and control was at a critical time.\r\nJapan also confirmed more infections of the new coronav\u2026 [+2248 chars]"
+        }
+    ]
+}

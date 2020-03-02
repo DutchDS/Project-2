@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Officials warn of misinformation danger amid coronavirus fears",
+            "description": "With nearly 80,000 cases of the virus across 30 countries, rumors and misinformation are adding to the panic. In Ukraine, protesters sought to block a plane of 72 people returning from Wuhan, China, though the passengers had been screened twice for signs of t\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/officials-warn-of-misinformation-danger-amid-coronavirus-fears-79178309618",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_ren_coronavirus_crisis_200221_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-21T23:43:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "U.S. prepares for pandemic as coronavirus cases rise",
+            "description": "How many people in the U.S. have coronavirus? The CDC says at least 34 patients have been diagnosed with coronavirus in the U.S. since the outbreak began.",
+            "url": "https://www.nbcnews.com/health/health-news/u-s-takes-steps-prepare-pandemic-global-coronavirus-cases-rise-n1140371",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_08/3239156/200221-coronavirus-medical-worker-china-se-1244p_500dc81c34931b3ef98cf852cf01498e.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-21T22:56:05Z",
+            "content": "As global concerns over the coronavirus outbreak grow, the U.S. is taking steps to prepare for the possibility of a pandemic, the Centers for Disease Control and Prevention said Friday.\r\nHealth authorities are closely monitoring the spread of the virus not on\u2026 [+4322 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jacqueline Stenson",
+            "title": "Can the coronavirus be spread by people who don't have symptoms?",
+            "description": "Can coronavirus spread from people without symptoms? What the latest research and experts say about coronavirus asymptomatic spread.",
+            "url": "https://www.nbcnews.com/health/health-news/can-coronavirus-be-spread-people-who-don-t-have-symptoms-n1140106",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_08/3237946/200220-coronavirus-se-346p_1730140c94320fd26aa7895c8f9126c0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-21T15:50:24Z",
+            "content": "A key question on the minds of experts studying the coronavirus outbreak is whether the virus can spread asymptomatically, a development that could make it much more difficult to track and contain.\r\nA report Wednesday in the New England Journal of Medicine ad\u2026 [+5901 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Alexander Smith",
+            "title": "Morning Rundown: Trump angry after warnings Russia is meddling on his behalf - NBCNews.com",
+            "description": "Morning Rundown: Trump angry after warnings Russia is meddling on his behalf NBCNews.com Russia is looking to help Trump win in 2020, election security official told lawmakers CNN Report: Trump upset over Kremlin trying to re-elect him Fox News Why the Trump-\u2026",
+            "url": "https://www.nbcnews.com/news/morning-briefing/morning-rundown-trump-angry-after-warnings-russia-meddling-his-behalf-n1140251",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_08/3238811/200221-donald-trump-mc-1401_cd5743701aefb4e7d2c4c233481f1f18.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-21T13:49:00Z",
+            "content": "Good morning, NBC News readers.\r\nIntel officials brief Congress that Russia will interfere again, some Democrats are torn on the eve of the Nevada caucuses, and Roger Stone is sentenced to prison.\r\nHere's everything we're watching this Friday:\r\nTrump angry af\u2026 [+11218 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates: South Korea reports big jump in cases, virus spreading in Chinese prisons",
+            "description": "South Korea reports big jump in cases, virus spreading in Chinese prisons, and last healthy passengers disembarking Diamond Princess cruise ship, here's the latest.",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-update-south-korea-reports-big-jump-cases-virus-spreading-n1140201",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_08/3238571/200221-daegu-coronavirus-mc-10002_d6d9eadc9efa46dcc391cd247df774c4.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-21T11:20:00Z",
+            "content": "South Korean city declared 'special management zone' following spread from church\r\nTotal number of infections stands over 76,000 globally\r\nLast healthy travelers to leave stricken cruise ship Diamond Princess in Japan\r\n China reports spike in coronavirus case\u2026 [+5539 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Passengers released from Diamond Princess cruise ship start journey home after testing negative for coronavirus",
+            "description": "Around 400 passengers, who tested negative for coronavirus, disembarked the cruise ship in Yokohama, Japan, which has been at the center of accusations of inadequate precautions and poor management.",
+            "url": "https://www.nbcnews.com/video/around-400-passengers-disembark-coronavirus-hit-diamond-princess-ship-in-japan-79143493530",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/HEALTH-JAPAN-SHIP.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-21T11:19:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Angry protests greet Ukrainians evacuated from China for coronavirus quarantine",
+            "description": "Ukraine's effort to quarantine more than 70 people evacuated from China over the coronavirus outbreak plunged into chaos Thursday, as local residents opposing the move clashed violently with police at Novi Sanzhary in central Ukraine.",
+            "url": "https://www.nbcnews.com/video/locals-oppose-quarantine-of-ukrainians-evacuated-from-china-amid-coronavirus-concerns-79139909949",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/APTOPIX_Ukraine.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-21T10:09:34Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Wednesday's Mini-Report, 2.5.20",
+            "description": "Today's edition of quick hits.",
+            "url": "http://www.msnbc.com/rachel-maddow-show/wednesdays-mini-report-2520",
+            "urlToImage": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/maddow_theminireport_general.png?itok=yLUr4wsw",
+            "publishedAt": "2020-02-05T22:18:27Z",
+            "content": "Today\u2019s edition of quick hits:\r\n* Trump\u2019s still the first president to ever face a bipartisan conviction vote: The Senate acquitted President Donald Trump almost entirely along party lines on charges of abusing his power and obstructing Congress on Wednesday,\u2026 [+2528 chars]"
+        }
+    ]
+}

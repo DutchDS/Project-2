@@ -1,0 +1,695 @@
+{
+    "status": "ok",
+    "totalResults": 53,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Coronavirus outbreak: Analyzing potential American weak points",
+            "description": "The CDC alone has deployed nearly 1,400 staff nationwide due to coronavirus outbreak; Fox News correspondent Gillian Turner reports.",
+            "url": "http://video.foxnews.com/v/6136302381001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0670324-6ea8-4549-9bbf-095d12362143/74556938-99b6-4bc4-a4c7-380b3c6d70e5/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T23:45:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Brazil confirms first coronavirus case in South America",
+            "description": "The global outbreak of the coronavirus continues to spread as Brazil confirms the first case in South America; Fox News correspondent Jonathan Serrie reports.",
+            "url": "http://video.foxnews.com/v/6136298363001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aee5e18a-c764-4ed9-97f1-625163437877/0ec18460-4a03-420b-851f-063102d429fc/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T23:29:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gregg Re",
+            "title": "Trump addresses coronavirus in primetime news conference, as fears of US outbreak spread",
+            "description": "As Americans' fears grow of a possible coronavirus outbreak in the U.S., President Trump was addressing the nation in a Wednesday evening news conference at the White House to discuss how his administration was handling the virus threat -- even as top Democra\u2026",
+            "url": "https://www.foxnews.com/politics/trump-coronavirus-primetime-address",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5adf1ab6-6ce6-48e1-9ff0-3dc3a15d7f35/1c023891-2112-4d79-9b27-c5c9c95e86b1/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T23:23:16Z",
+            "content": "As Americans' fears grow of a possible coronavirus outbreak in the U.S., President Trump was addressing the nation in a Wednesday evening news conference at the White House to discuss how his administration was handling the virus threat -- even as top Democra\u2026 [+6747 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Rush Limbaugh: 'Bernie Sanders poses a far greater threat to this country... than the coronavirus'",
+            "description": "Rush Limbaugh doubled down Wednesday on his claim that Democratic presidential frontrunner Bernie Sanders, the Democratic Party and socialism are more dangerous to the United States than the coronavirus outbreak, saying socialism has a mortality rate of \"100 \u2026",
+            "url": "https://www.foxnews.com/media/rush-limbaugh-bernie-sanders-greater-threat-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Rush-Limbaugh.jpg",
+            "publishedAt": "2020-02-26T22:56:04Z",
+            "content": "Rush Limbaugh doubled down Wednesday on his claim that Democratic presidential frontrunner Bernie Sanders, the Democratic Party and socialism are more dangerous to the United States than the coronavirus\u00a0outbreak, saying socialism has a mortality rate of \"100 \u2026 [+1670 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Gabbard blasts 'senseless partisan bickering' amid coronavirus threat, says 'we've got to stand together'",
+            "description": "Rep. Tulsi Gabbard, D-Hawaii told Fox News Wednesday that politicians must get beyond petty arguing and focus on real preventative solutions to fight the potential outbreak of coronavirus in the United States.",
+            "url": "https://www.foxnews.com/media/gabbard-blasts-senseless-partisan-bickering-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Video-91.jpg",
+            "publishedAt": "2020-02-26T22:42:03Z",
+            "content": "Rep. Tulsi Gabbard, D-Hawaii told Fox News Wednesday that\u00a0politicians must get beyond petty arguing and focus on real preventative solutions to fight the potential outbreak of coronavirus in the United States.\r\nGabbard ripped her fellow Democratic presidentia\u2026 [+2909 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Sen. Rick Scott: The government must be transparent with the public regarding coronavirus",
+            "description": "Florida senator Rick Scott calls on the DHS to increase screenings at airports amid the coronavirus outbreak.",
+            "url": "http://video.foxnews.com/v/6136277975001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9075e61-d81f-48b3-ad78-78092fc90fd6/840efa30-c7ea-474a-863f-b22d062166d4/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T22:15:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Rep. Tulsi Gabbard: Democrats and Republicans should come together on coronavirus",
+            "description": "2020 Democratic presidential candidate Tulsi Gabbard on the threat of the coronavirus outbreak in the U.S.",
+            "url": "http://video.foxnews.com/v/6136266880001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e1c1172-cfd7-4347-b873-998c049746ef/48826a23-73f9-4003-ae4b-60dd2c291729/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T21:46:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Bernie or Bust?",
+            "description": "On this episode of \"I'll Tell You What,\" hosts Chris Stirewalt and Dana Perino talk about the tenth presidential debate, the likelihood of a Senator Bernie Sanders nomination for the 2020 election, and Donald Trump's chance at reelection amid rising concerns \u2026",
+            "url": "https://radio.foxnews.com/2020/02/26/bernie-or-bust/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/10/social-media-meta-template.jpg",
+            "publishedAt": "2020-02-26T21:35:02Z",
+            "content": "Establishment Democrats, it might be time to panic ...\r\nDana Perino, former White House Press Secretary, co-host of Fox News Channel's \"The Five\" and host of \"The Daily Briefing\" and Chris Stirewalt Fox News Politics Editor run through the daily goings on in \u2026 [+780 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Maria Bartiromo: Coronavirus causing stocks to fall due to US companies' dependence on China",
+            "description": "Fox Business Network anchor Maria Bartiromo told \"Bill Hemmer Reports\" Wednesday that the coronavirus outbreak is causing the U.S. stock market to plummet due to American companies' dependence on China to preserve their supply chains.",
+            "url": "https://www.foxnews.com/media/maria-bartiromo-coronavirus-stocks-falling",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Video-90.jpg",
+            "publishedAt": "2020-02-26T21:29:32Z",
+            "content": "Fox Business Network anchor Maria Bartiromo told\u00a0\"Bill Hemmer Reports\" Wednesday that the coronavirus outbreak\u00a0is causing the U.S. stock market to plummet due to American companies' dependence on China to preserve their supply chains.\r\nBartiromo explained tha\u2026 [+1588 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Manny Alvarez",
+            "title": "Dr. Manny Alvarez: Coronavirus \u2013 How to prepare and protect yourself as US gears up to fight it",
+            "description": "I understand that the latest news on coronavirus could make anyone scared.",
+            "url": "https://www.foxnews.com/opinion/coronavirus-prepare-protect-dr-manny-alvarez",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/038fa979-b710-4043-ae1b-88955ec923ed/a780a787-0043-4f36-8bc3-ec4cfd595b23/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T21:29:22Z",
+            "content": "President Trump has the right approach when it comes to dealing with the new coronavirus. We should all stay calm and informed.\r\nI understand, of course, that the latest news on the coronavirus could make anyone scared. There are daily reports of new infectio\u2026 [+4809 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sam Dorman",
+            "title": "Joy Behar says Rush Limbaugh needs to 'take a pill and keep quiet' after coronavirus comments",
+            "description": "\"The View\" co-host Joy Behar appeared to mock radio host Rush Limbaugh's historic addiction to pain medication Wednesday, telling him to \"take a pill.\"",
+            "url": "https://www.foxnews.com/media/joy-behar-rush-limbaugh-pill-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Limbaugh-Behar.jpg",
+            "publishedAt": "2020-02-26T20:34:06Z",
+            "content": "\"The View\" co-host Joy Behar appeared to mock\u00a0radio host Rush Limbaugh's historic addiction to pain medication Wednesday, telling him to \"take a pill.\"\r\nLimbaugh had downplayed the danger posed by the coronavirus, claiming that it was being \"weaponized\" to ta\u2026 [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Coronavirus concerns on New York's Long Island see 83 being monitored",
+            "description": "Officials said the individuals being monitored weren't necessarily exhibiting symptoms of coronavirus, but had recently traveled to areas with confirmed cases.",
+            "url": "https://www.foxnews.com/health/83-being-monitored-over-coronavirus-concerns-on-new-yorks-long-island",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1701b394-00d8-4d14-91d3-fba8e00d3931/b7d2f44f-12f6-491a-a6f9-f4539725260b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T20:33:49Z",
+            "content": "Health officials on New York\u2019s Long Island said 83 people in Nassau County are being monitored over coronavirus concerns, but added that, as of Wednesday, there were no confirmed cases of the illness in the area, and that the individuals aren\u2019t necessarily ex\u2026 [+2953 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "CDC warns on coronavirus in US: Should you start to worry?",
+            "description": "Dr. Henry Miller, a former FDA official, tells Fox News how to prepare for a possible coronavirus outbreak.",
+            "url": "https://www.foxnews.com/health/cdc-warns-on-coronavirus-in-us-should-you-start-to-worry",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61cdefd6-3e3b-47ec-b41c-d8d44f1e00d2/c1b5d69a-bfb0-4594-b5dd-e7b1d54c5991/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T20:28:55Z",
+            "content": "Federal health officials this week warned that community spread of the novel coronavirus in the U.S. is seemingly inevitable, with one Centers for Disease Control and Prevention (CDC) official saying it\u2019s no longer \u201ca question of if, but when, and how many pe\u2026 [+3091 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Melissa Francis: Americans will be 'very frustrated' if coronavirus becomes politicized",
+            "description": "The American people will be increasingly frustrated if coronavirus becomes politicized, Fox Business host Melissa Francis said Wednesday.",
+            "url": "https://www.foxnews.com/media/melissa-francis-coronavirus-politicized-americans-frustrated",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/MELISSA.jpg",
+            "publishedAt": "2020-02-26T19:50:54Z",
+            "content": "The American people will become increasingly frustrated if coronavirus becomes politicized, \"Outnumbered\" co-host\u00a0Melissa Francis said Wednesday.\r\nAppearing on the\u00a0\"Outnumbered\" couch with co-host Harris Faulkner, \"The Story\" host Martha MacCallum, Fox Busine\u2026 [+2823 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandra Deabler",
+            "title": "Disney World asks workers who traveled to Italy to stay home over coronavirus concerns",
+            "description": "The handful of workers had returned from a trip to Italy.",
+            "url": "https://www.foxnews.com/travel/walt-disney-world-coronavirus-employees-stay-home",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/AP19361528967910.jpg",
+            "publishedAt": "2020-02-26T19:37:46Z",
+            "content": "Walt Disney World has asked a small number of workers to stay home over coronavirus concerns, a spokesperson confirmed to Fox News.\r\nCLICK HERE TO SIGN UP FOR OUR LIFESTYLE NEWSLETTER\r\nThe handful of workers, who work at Disney, but\u00a0reportedly are not all Dis\u2026 [+630 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew O'Reilly",
+            "title": "Bloomberg ad slams Trump's handling of coronavirus outbreak",
+            "description": "The Bloomberg campaign released on an ad on Wednesday highlighting the former New York City mayor\u2019s crisis management skills amid concerns about the growing threat of the coronavirus in the United States.",
+            "url": "https://www.foxnews.com/politics/bloomberg-ad-slams-trumps-handling-of-coronavirus-outbreak",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c131911-7316-4b16-921c-984f9cb8d452/d1983427-7c75-4c93-a0e5-52ec58c0aa3c/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T19:31:24Z",
+            "content": "Mike\u00a0Bloomberg's presidential campaign released an ad on Wednesday highlighting the former New York City mayor\u2019s crisis management skills amid concerns about the growing threat of the coronavirus in the United States.\r\nIn the ad, aptly entitled \u201cPandemic,\u201d Bl\u2026 [+3102 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Stirewalt",
+            "title": "Dems belatedly air their dirty laundry",
+            "description": "Too little, too late?",
+            "url": "https://www.foxnews.com/politics/dems-belatedly-air-their-dirty-laundry",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302504b3-8f90-4733-8b6b-5c8268564b2d/8b35447c-4965-4db4-b95f-c42072792e4a/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T19:08:56Z",
+            "content": "**Want FOX News Halftime Report in your inbox every day? Sign up\u00a0here.**\r\nOn the roster:\u00a0Dems belatedly air their dirty laundry - Trump tries to limit political damage from virus spread - Biden holds on to strong lead in South Carolina - Schumer pushing Bullo\u2026 [+16167 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Dr. Siegel reports from Nebraska biocontainment facility: Coronavirus may be 'more contagious than the flu'",
+            "description": "Fox News Medical A-Team member Dr. Marc Siegel said Wednesday that Coronavirus is appearing to be more contagious than the flu.",
+            "url": "https://www.foxnews.com/media/dr-siegel-nebraska-biocontainment-facility-coronavirus-contagious-flu",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/siegel.jpg",
+            "publishedAt": "2020-02-26T19:06:04Z",
+            "content": "Fox News Medical A-Team member Dr. Marc Siegel said Wednesday that coronavirus is appearing to be more contagious than the flu.\r\nReporting from Omaha, Neb., Siegel said he has received wide-ranging access to the University of Nebraska's biocontainment facilit\u2026 [+2267 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Air New Zealand testing bunk beds for economy fliers",
+            "description": "The best way to travel is to be cozy while you do it.",
+            "url": "https://www.foxnews.com/travel/air-new-zealand-bunk-beds-economy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Air-New-Zealand-economy-bunk-beds.jpg",
+            "publishedAt": "2020-02-26T18:59:20Z",
+            "content": "The best way to travel is to be cozy while you do it.\r\nAir New Zealand announced it was\u00a0testing out installing sleeping pods in its economy cabins. The company says it spent three years researching and developing the concept, using the input of more than 200 \u2026 [+1801 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew Fone",
+            "title": "Vietnam tourism amid the global coronavirus outbreak: Once-bustling attractions now nearly empty",
+            "description": "Tourism looks very different in a post-coronavirus world.",
+            "url": "https://www.foxnews.com/travel/vietnam-tourism-looks-very-different",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/VietnamCoronaAndrewFone1.jpg",
+            "publishedAt": "2020-02-26T18:54:03Z",
+            "content": "HOI AN, Vietnam -- Flying in Southeast Asia has become somewhat of a\u00a0frightening experience. The sound of someone coughing or sneezing on a plane causes wide-eyed reactions from mask-wearing passengers. (Meanwhile, the idea of people wearing\u00a0medical masks in \u2026 [+3398 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus lockdown in China prevents young boy from leaving home where grandfather died: report",
+            "description": "A young boy in Hubei province in China \u2014 the epicenter of the ongoing coronavirus outbreak \u2014\u00a0 was found at home, where his grandfather died, unable to leave due to virus-related restrictions in the city, according to reports.",
+            "url": "https://www.foxnews.com/health/coronavirus-lockdown-in-china-prevents-young-boy-from-leaving-home-where-grandfather-died-report",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3370dd09-2f8b-409b-89a3-9aa5b0290e72/64fb3997-19f6-4756-9abe-8d3e7d808ff9/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T18:11:15Z",
+            "content": "A young boy in Hubei province in China \u2014 the epicenter of the ongoing coronavirus outbreak \u2014\u00a0 was found at home, where his grandfather died, unable to leave due to virus-related restrictions in the city, according to local reports.\r\nCommunity workers in the Z\u2026 [+2773 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Chaos: Why Everyone\u2019s Fed Up with the CBS Debate",
+            "description": "Howie Kurtz on the Democrat debate in South Carolina becoming a shouting match as Bernie Sanders is attacked by all sides, the 'Coronavirus' spreading to Europe and Pope Francis calls for civility in social media.\r\n\r\n\r\n\r\nFollow Howie on Twitter:\u00a0@HowardKurtz\r\u2026",
+            "url": "https://radio.foxnews.com/2020/02/26/chaos-why-everyones-fed-up-with-the-cbs-debate/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/07/social_buzzmeter_featured.png",
+            "publishedAt": "2020-02-26T17:55:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "First US docs to analyze coronavirus patients\u2019 lungs say insight could lead to quicker diagnosis",
+            "description": "In 25 patients who had CT scans between six and 12 days after reporting symptoms, the team noted that the images displayed \u201cfully involved lung disease.\u201d",
+            "url": "https://www.foxnews.com/health/first-us-docs-analyze-coronavirus-patients-lungs-quicker-diagnosis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Slide1.jpg",
+            "publishedAt": "2020-02-26T17:18:54Z",
+            "content": "A team of Mount Sinai doctors became the first in the U.S. to analyze CT scans of patients diagnosed with coronavirus and said that they were able to identify specific patterns in the lungs as markers of the disease as it developed over time.\r\nThe team believ\u2026 [+3552 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Coronavirus could affect Coca-Cola's supply of artificial sweetener",
+            "description": "The coronavirus outbreak could be effecting the soda industry.",
+            "url": "https://www.foxnews.com/food-drink/coronavirus-could-effect-coca-colas-supply-of-artificial-sweetener",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/soda.jpg",
+            "publishedAt": "2020-02-26T17:08:40Z",
+            "content": "The coronavirus outbreak could be affecting the soda industry.\r\nCoca-Cola recently announced that, while they have contingency plans in place, the situation in China may impact their long-term supplies of artificial sweeteners used in some of their drinks.\r\nI\u2026 [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Delta Air Lines offering waivers for travel to Italy amid coronavirus outbreak",
+            "description": "Travelers scheduled to fly with Delta to Bologna, Milan and Venice are now eligible to change flights without incurring a change fee,.",
+            "url": "https://www.foxnews.com/travel/delta-air-lines-travel-waivers-italy-coronavirus-outbreak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/DeltaAirbusIstock.jpg",
+            "publishedAt": "2020-02-26T16:59:02Z",
+            "content": "Delta Air Lines is offering travel waivers to ticketholders scheduled to fly to Italy amid concerns over the COVID-19 outbreak that has killed 11 and sickened over 300 in the European country. \r\nTravelers scheduled to fly to airports in Bologna (BLQ), Milan (\u2026 [+2020 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Brazil confirms first coronavirus case in Latin America",
+            "description": "The Brazilian man spent two weeks in northern Italy's Lombardy region on a work trip, where he contracted the contagious virus, the health ministry said.",
+            "url": "https://www.foxnews.com/health/brazil-confirms-first-coronavirus-case-in-latin-america",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd286f77-3e4c-46b2-9745-08837a5b212e/ad5b8e44-b96d-4e98-b984-9d36ac53ae6e/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T15:43:17Z",
+            "content": "Brazil's government confirmed on Wednesday that a 61-year-old Brazilian man who traveled to Italy earlier this month has Latin America's first confirmed case of\u00a0the new\u00a0coronavirus.\r\n\"We will now see how this virus behaves in a tropical country in the middle \u2026 [+2166 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Pope celebrates Ash Wednesday at Vatican as Masses in Italy canceled over coronavirus fears",
+            "description": "Pope Francis is celebrating Ash Wednesday as usual -- even though other Masses in Italy were canceled due to fears of the deadly coronavirus outbreak.",
+            "url": "https://www.foxnews.com/world/coronavirus-pope-vatican-italy-ash-wednesday",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/PopeVirus2.jpg",
+            "publishedAt": "2020-02-26T15:40:10Z",
+            "content": "Pope Francis is celebrating Ash Wednesday as usual -- even though other Masses in Italy were canceled due to fears of the deadly coronavirus outbreak.\r\nIn St. Peter's Square, the leader of the Catholic Church held his\u00a0general audience Wednesday as thousands o\u2026 [+2554 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus concerns prompt universities to cancel study abroad programs",
+            "description": "Universities across the U.S. have canceled study abroad programs amid the continued spread of the deadly coronavirus.",
+            "url": "https://www.foxnews.com/health/coronavirus-concerns-prompt-universities-to-cancel-study-abroad-programs",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd286f77-3e4c-46b2-9745-08837a5b212e/ad5b8e44-b96d-4e98-b984-9d36ac53ae6e/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T15:36:35Z",
+            "content": "Universities across the U.S. have canceled study abroad programs amid the continued spread of the deadly coronavirus, which began in the Chinese city of Wuhan but has since impacted dozens of countries. There are now more than 80,000 individual cases of the n\u2026 [+2694 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "James Jay Carafano",
+            "title": "James Carafano: Coronavirus spreads to Europe and Middle East \u2013 what that means for this global health crisis",
+            "description": "While nothing about this global health emergency is certain, we can predict with a high degree of confidence some outcomes \u2014 good and bad \u2014 that will emerge in the weeks ahead.",
+            "url": "https://www.foxnews.com/opinion/james-carafano-coronavirus-spreads-to-europe-and-middle-east-what-that-means-for-this-global-health-crisis",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd286f77-3e4c-46b2-9745-08837a5b212e/ad5b8e44-b96d-4e98-b984-9d36ac53ae6e/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T15:22:04Z",
+            "content": "Now that the coronavirus\u00a0has broken out of China and established a foothold in Europe and the Middle East, many are on edge. This week, the stock market for one jumped off a cliff \u2014something it is wont to do when faced with global uncertainty.\r\nWhile nothing \u2026 [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Cruise ship MSC Meraviglia turned away from two Caribbean ports amid coronavirus concerns",
+            "description": "A sick crew member reportedly has the flu.",
+            "url": "https://www.foxnews.com/travel/cruise-ship-msc-meraviglia-coronavirus-concerns",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/iStock-1033732846.jpg",
+            "publishedAt": "2020-02-26T15:12:08Z",
+            "content": "Amid the ongoing COVID-19 outbreak, MSC Cruises\u2019 Meraviglia ship was turned away from two ports in the Caribbean yesterday because one crew member fell ill, reportedly with the common seasonal flu.\r\nOn Tuesday, the MSC Meraviglia was denied permission to dock\u2026 [+2985 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Josh Hawley: Coronavirus outbreak was 'epic failure' by China, but Americans should not panic",
+            "description": "There needs to be an \"all hands on deck effort\" from here on out to combat the coronavirus in the United States, Missouri Republican Sen. Josh Hawley said Wednesday.",
+            "url": "https://www.foxnews.com/media/sen-josh-hawley-coronavirus-outbreak-was-epic-failure-by-china-but-americans-should-not-panic",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/HAWLEY.jpg",
+            "publishedAt": "2020-02-26T15:08:49Z",
+            "content": "An\u00a0\"all hands on deck effort\" is needed from here on out to combat the\u00a0coronavirus in the United States,\u00a0MissouriRepublican Sen. Josh Hawley said Wednesday, criticizing China for an \"epic failure of leadership.\"\r\nIn an interview on \"Fox &amp; Friends\" with ho\u2026 [+2322 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Gospel for Asia calls on Christians to pray and fast for end of coronavirus during Lent",
+            "description": "With the deadly coronavirus outbreak spreading, Christians around the world are taking precautions while publicly observing Lent, as a prominent international mission organization calls on believers to pray and fast for the end of COVID-19 that has killed ove\u2026",
+            "url": "https://www.foxnews.com/faith-values/coronavirus-asia-lent-christians-pray-fast",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/KoreaVirus1.jpg",
+            "publishedAt": "2020-02-26T14:22:21Z",
+            "content": "With the deadly coronavirus outbreak spreading, Christians around the world are taking precautions while publicly observing\u00a0Lent, as a prominent international mission organization calls on believers to pray and fast for the end of COVID-19\u00a0that has killed ove\u2026 [+3055 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "American, Delta and United Airlines offering waivers for travel to South Korea amid coronavirus outbreak",
+            "description": "All three airlines had previously extended waivers to passengers traveling to China amid concerns over the coronavirus outbreak.",
+            "url": "https://www.foxnews.com/travel/american-delta-united-airlines-waivers-south-korea-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/IncheonAirportSKCheng-Sung-JunGettyIUmages.jpg",
+            "publishedAt": "2020-02-26T14:11:41Z",
+            "content": "American Airlines, Delta Air Lines and United Airlines are currently offering to waive change fees for ticketholders scheduled to fly to South Korea in the coming months.\r\nThe airlines\u2019 updated travel alerts were announced amid concerns over a COVID-19 outbre\u2026 [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler Olson",
+            "title": "Trump to discuss coronavirus at Wednesday evening news conference",
+            "description": "President Trump announced Wednesday that he would be holding a 6 p.m. ET news conference to discuss the coronavirus, which is rapidly spreading around the world and triggering fears of a pandemic.",
+            "url": "https://www.foxnews.com/politics/trump-announces-wednesday-evening-news-conference-on-coronavirus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7dfb3cc2-f74b-44fc-92c2-a7792e792e39/de5183e3-6d2b-4aa5-9c20-226bff57004b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T14:00:34Z",
+            "content": "President Trump announced Wednesday that he would be holding a 6 p.m. ET news conference to discuss the coronavirus, which is rapidly spreading around the world and triggering fears of a pandemic.\r\nThe president also bashed the media and Democrats for alleged\u2026 [+3841 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gary Gastelu",
+            "title": "Moody's: Coronavirus could crush auto sales in 2020",
+            "description": "Worse than expected.",
+            "url": "https://www.foxnews.com/auto/moodys-coronavirus-could-crush-auto-sales-in-2020",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/sales.jpg",
+            "publishedAt": "2020-02-26T13:57:35Z",
+            "content": "Auto sales could fall dramatically in 2020 due in part to the coronavirus, an industry analysis found.\r\n(Xinhua/Xu Chang via Getty Images)\r\nMoody\u2019s predicts global car sales to drop much more than it originally expected due to issues caused by the spread of t\u2026 [+851 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tucker Carlson",
+            "title": "Tucker Carlson: America is not ready for a coronavirus outbreak or any major epidemic",
+            "description": "For a month Western leaders told us that the coronavirus was under control and was unlikely to cause serious problems for anyone in our hemisphere.",
+            "url": "https://www.foxnews.com/opinion/tucker-carlson-america-is-not-ready-for-a-coronavirus-outbreak-major-epidemic",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37063f3e-9ead-4f78-85f3-eb230b3a29f1/49eeefce-ca01-444b-a79e-2b413a2b071b/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T13:57:01Z",
+            "content": "The city of San Francisco has just declared a state of emergency in response to coronavirus, and yet, you'll remember that for a month Western leaders told us that the virus was under control and was unlikely to cause serious problems for anyone in our hemisp\u2026 [+4967 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Coronavirus fears force Red Sox to quarantine prospect who arrived to spring training from Taiwan",
+            "description": "A Boston Red Sox pitching prospect is being quarantined in his Florida hotel room over fears he may have the coronavirus following his trip from Taiwan.",
+            "url": "https://www.foxnews.com/sports/coronavirus-fears-red-sox-quarantine-prospect",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/boston-red-sox-Getty.jpg",
+            "publishedAt": "2020-02-26T13:32:33Z",
+            "content": "A Boston Red Sox pitching prospect is being quarantined in his Florida hotel room over fears he may have contracted the coronavirus following his trip from Taiwan.\r\nChih-Jung Liu, 20, arrived at Red Sox spring training in Fort Myers last week from the Asian n\u2026 [+1522 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Tokyo organizers, IOC going ahead as planned with Olympics",
+            "description": "A spokesman for the Japanese government on Wednesday said the International Olympic Committee and local organizers are going ahead as planned with the Tokyo Olympics despite the threat of the spreading coronavirus.",
+            "url": "https://www.foxnews.com/sports/tokyo-organizers-ioc-going-ahead-as-planned-with-olympics",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Tokyo-Olympics6.jpg",
+            "publishedAt": "2020-02-26T10:44:19Z",
+            "content": "A spokesman for the Japanese government on Wednesday said the International Olympic Committee and local organizers are going ahead as planned with the Tokyo Olympics despite the threat of the spreading coronavirus.\r\nThe comments from spokesman Yoshihide Suga \u2026 [+3248 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Coronavirus-infected Korean Air cabin crew worker may have been on flights to Los Angeles: report",
+            "description": "A Korean Air cabin crew worker who the airline said tested positive for the coronavirus may have worked last week on flights between Seoul and Los Angeles, according to a report Wednesday.",
+            "url": "https://www.foxnews.com/health/korean-air-cabin-crew-worker-who-tested-positive-for-coronavirus-may-have-worked-trips-between-seoul-and-us",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/07/korea-air-iStock.jpg",
+            "publishedAt": "2020-02-26T10:03:08Z",
+            "content": "A Korean Air cabin crew worker who the airline said tested positive for the\u00a0coronavirus may have worked last week\u00a0on\u00a0flights between Seoul and Los Angeles, according to a report Wednesday.\r\nSouth Korean media outlets are\u00a0reporting that the female flight atten\u2026 [+804 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Today on Fox News: Feb. 26, 2020",
+            "description": "",
+            "url": "https://www.foxnews.com/media/today-on-fox-news-feb-26-2020",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/fox-news-channel-logo.jpg",
+            "publishedAt": "2020-02-26T09:49:16Z",
+            "content": "STAY TUNED\r\nOn Fox News:\u00a0\r\nFox &amp; Friends, 6 a.m. ET: Breakfast with \"Friends\": South Carolina voters react to the Democratic debate. U.S. Sen. Josh Hawley, R-Mo., says legislation is necessary to address China's monopoly on U.S. drug and medical supplies \u2026 [+1503 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "2020 Democrats batter Sanders on communism, government spending at SC debate ahead of pivotal primaries",
+            "description": "",
+            "url": "https://www.foxnews.com/us/2020-democrats-batter-sanders-sc-debate-primaries",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/SandersDebate022620.jpg",
+            "publishedAt": "2020-02-26T09:36:28Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your day ...\r\nSanders pummeled on communism, spending at SC debateBernie Sanders faced sustained attacks from all sides in Tuesday night's rowdy Democratic presidential deba\u2026 [+5170 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Burgess",
+            "title": "Rep. Michael Burgess, MD: Coronavirus epidemic prompts robust and rapid response from US public health system",
+            "description": "What we are witnessing right now is that thus far during this outbreak, our public health system is working as federal, state, and local health officials work in tandem in this robust, rapid response.",
+            "url": "https://www.foxnews.com/opinion/rep-michael-burgess-md-coronavirus-hearing-in-congress",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e18c9572-f7c1-4713-b3a4-1e807d10c5cb/b75943f2-7f0a-41bb-9b8d-231d72af3aea/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T09:00:35Z",
+            "content": "Over my time in Congress, there are been several serious epidemics in many parts of the world, caused by the Zika, Ebola, MERS, H1N1 and SARS viruses. While there was concern with each of them, there should be more urgent concern for the 2019 novel coronaviru\u2026 [+4925 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Second person with coronavirus sent to Nebraska medical center",
+            "description": "Another American transported to Nebraska medical center after testing positive for coronavirus at military base",
+            "url": "https://www.foxnews.com/health/another-american-transported-to-nebraska-medical-center-after-testing-positive-for-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20055398792235.jpg",
+            "publishedAt": "2020-02-26T08:38:58Z",
+            "content": "Another American Diamond Princess cruise ship evacuee tested positive for the new coronavirus\u00a0and\u00a0was transferred to a health center in Nebraska, increasing\u00a0the total number monitored at the center to 15, officials said on Tuesday.\r\nThe patient was originally\u2026 [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Howard Kurtz",
+            "title": "Trump breaks through media static by whacking Sotomayor, Ginsburg, CNN",
+            "description": "The Democratic freakout over Bernie Sanders may be dominating the news, along with the coronavirus and the stock market plunge, but Donald Trump always finds a way to break through.",
+            "url": "https://www.foxnews.com/media/trump-breaks-through-media-static-by-whacking-sotomayor-ginsburg-cnn",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38c01f9e-5a86-495e-b086-8c9065507788/c6dd5cb7-df8c-47d3-910a-6c55c46a4226/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T08:04:16Z",
+            "content": "The Democratic freakout over Bernie Sanders may be dominating the news, along with the coronavirus and the stock market plunge, but Donald Trump always finds a way to break through.\r\nHe may have been across the globe in India, but that didn\u2019t stop him\u2014and it \u2026 [+5390 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Laura Ingraham calls media 'disgusting' for using coronavirus to attack Trump",
+            "description": "Laura Ingraham took the media to task for using the coronavirus epidemic to attack President Trump when American could be reeling from situation.",
+            "url": "https://www.foxnews.com/media/laura-ingraham-calls-media-disgusting-for-using-coronavirus-to-attack-trump",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/604b42fa-c2e8-48d1-9839-90bbeb210124/536ee993-b825-4485-b596-bcef1fe1e404/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T05:38:02Z",
+            "content": "Laura Ingraham took the media to task for using the coronavirus epidemic to attack President Trump when American could be reeling from situation.\r\nSAN FRANCISCO DECLARES STATE OF EMERGENCY\r\n\"Now, watching the media coverage today, it seems like some of the Tr\u2026 [+1207 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Edmund DeMarche",
+            "title": "San Francisco declares state of emergency over coronavirus",
+            "description": "The mayor of San Francisco declared a state of emergency over coronavirus fears on Tuesday shortly after the Center for Disease Control and Prevention issued a warning that the U.S. will likely see more cases.",
+            "url": "https://www.foxnews.com/health/san-francisco-declares-state-of-emergency-over-coronavirus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1feaf8f6-e113-4405-84ec-548214290354/daefbec6-62ae-4e77-92ec-df563020704e/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T04:38:41Z",
+            "content": "The mayor of San Francisco declared a state of emergency over coronavirus fears on Tuesday shortly after the Center for Disease Control and Prevention issued\u00a0a warning that the U.S. will likely see more cases.\r\nCORONAVIRUS INFECTS US SOLDIER\r\nThere are 57 kno\u2026 [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Gordon Chang praises US for acting 'very, very quickly' against coronavirus spread",
+            "description": "China expert Gordon Chang joined \"The Ingraham Angle\" on Tuesday to react to criticism of the American government's response to the coronavirus epidemic.",
+            "url": "https://www.foxnews.com/media/china-expert-gordon-chang-coronavirus-us-action",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Video-86.jpg",
+            "publishedAt": "2020-02-26T03:57:54Z",
+            "content": "China expert Gordon Chang joined \"The Ingraham Angle\" on Tuesday to react to criticism of the American government's response to the coronavirus epidemic.\r\nChang told host Laura Ingraham that\u00a0despite some critics' claims, the United States acted appropriately \u2026 [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Karl Rove slams Chuck Schumer for 'trying to politicize' coronavirus: 'This is shameful'",
+            "description": "Fox News contributor Karl Rove slammed Senate Minority Leader Chuck Schumer, D-N.Y., Tuesday for \"politicizing\" the Trump administration's effort to contain and prepare for the spread of coronavirus within the United States.",
+            "url": "https://www.foxnews.com/media/karl-rove-chuck-schumer-coronavirus-shameful",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/KarlRoveHannity.jpg",
+            "publishedAt": "2020-02-26T03:52:12Z",
+            "content": "Fox News contributor Karl Rove slammed\u00a0Senate Minority Leader\u00a0Chuck Schumer, D-N.Y., Tuesday\u00a0for \"politicizing\" the Trump administration's effort to contain and prepare for the spread of\u00a0coronavirus within the United States.\r\n\"This is shameful on Schumer's\u00a0pa\u2026 [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Coronavirus infects US soldier for first time, military says",
+            "description": "A U.S. soldier stationed in South Korea has tested positive for the coronavirus and is in self-quarantine at his residence off base,\u00a0the military said Tuesday.",
+            "url": "https://www.foxnews.com/health/coronavirus-infects-us-soldier-first-time",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20056268286564.png",
+            "publishedAt": "2020-02-26T03:16:04Z",
+            "content": "A U.S. soldier stationed in South Korea has tested positive for the coronavirus and is in self-quarantine at his residence off base,\u00a0the military said Tuesday.\r\nThe 23-year-old\u00a0is based at Camp Carroll near the city of\u00a0Daegu, where most of the country's coron\u2026 [+2357 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Rove: Handling of coronavirus is apolitical, Schumer should stay out of it",
+            "description": "Fox News contributor Karl Rove breaks down the Democrats' politicization of the coronavirus on 'Hannity.'",
+            "url": "http://video.foxnews.com/v/6135963562001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e592326-2f58-46f0-8156-d59953097318/6e34f39b-808f-41fb-8039-89814a041a25/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-26T03:03:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Tucker Carlson sounds the alarm: 'America is not ready' for the coronavirus",
+            "description": "Tucker Carlson continued to warn of the potential impact of the coronavirus Tuesday after U.S. officials disclosed that an outbreak in the United States was likely.",
+            "url": "https://www.foxnews.com/media/tucker-carlson-america-not-ready-for-cornavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/TUCKER-CARLSON-WALMART.jpg",
+            "publishedAt": "2020-02-26T02:44:01Z",
+            "content": "Tucker Carlson continued\u00a0to warn of the potential\u00a0impact of the coronavirus\u00a0Tuesday after U.S. officials disclosed that\u00a0an outbreak in the United States was likely.\r\n\"You'll remember that for a month, Western leaders told us that the virus was under control a\u2026 [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Nebraska nurse overseeing quarantine of US coronavirus patients says they are 'doing very well'",
+            "description": "Fox News medical correspondent Dr. Marc Siegel caught up with Nebraska Medicine Executive Director of Emergency Management and Biopreparedness Shelly Schwedhelm Tuesday night in Omaha, where she oversees the department tasked with monitoring Americans infecte\u2026",
+            "url": "https://www.foxnews.com/media/coronavirus-nebraska-medicine-marc-siegel-shelly-schwedhelm",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/SiegelOmaha.jpg",
+            "publishedAt": "2020-02-26T02:27:57Z",
+            "content": "Fox News medical correspondent Dr. Marc Siegel caught up with Nebraska Medicine Executive Director of Emergency Management and Biopreparedness\u00a0Shelly Schwedhelm Tuesday night\u00a0in Omaha, where she oversees the department tasked with monitoring\u00a0Americans infecte\u2026 [+1808 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Dr. Anthony Fauci tells public to be prepared for coronavirus, but still 'do the things you always do'",
+            "description": "National Institute of Allergy and Infectious Diseases (NIAID) Director Dr. Anthony Fauci joined \"Special Report\" Tuesday to provide an update on the coronavirus outbreak after the Centers for Disease Control and Prevention (CDC) warned that it expects the nov\u2026",
+            "url": "https://www.foxnews.com/media/dr-anthony-fauci-coronavirus-vaccine-be-prepared",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/BaierFauci.jpg",
+            "publishedAt": "2020-02-26T00:31:42Z",
+            "content": "National Institute of Allergy and Infectious Diseases (NIAID) Director\u00a0Dr. Anthony Fauci joined \"Special Report\" Tuesday to provide an update on the coronavirus outbreak after the Centers for Disease Control and Prevention (CDC)\u00a0warned that it expects the\u00a0nov\u2026 [+3101 chars]"
+        }
+    ]
+}

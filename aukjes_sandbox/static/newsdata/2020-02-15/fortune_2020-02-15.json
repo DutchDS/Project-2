@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erik Sherman",
+            "title": "Coronavirus may be the straw that breaks the back of oil fracking",
+            "description": "When oil is too cheap, fracking is unprofitable. Add that to existing problems and what got the world through 10 years of escalating oil use.",
+            "url": "https://fortune.com/2020/02/15/coronavirus-oil-prices-fracking/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1087921028.jpg?resize=1200,600",
+            "publishedAt": "2020-02-15T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Erik Sherman",
+            "title": "Coronavirus wreaks havoc on Chinese food producers, sending inflation soaring",
+            "description": "Last month the inflation rate for food and tobacco in China clocked in at 15.2%.",
+            "url": "https://fortune.com/2020/02/15/china-coronavirus-business-impact-inflation-economy/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200155595.jpg?resize=1200,600",
+            "publishedAt": "2020-02-15T20:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Don Reisinger",
+            "title": "Apple\u2019s coronavirus problem",
+            "description": "Apple isn't saying much about Coronavirus, but that hasn't stopped analysts and industry experts from speculating about its impact on iPhone 11 and iPhone 12 shipments.",
+            "url": "https://fortune.com/2020/02/15/apple-coronavirus-iphone-impact/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200013057.jpg?resize=1200,600",
+            "publishedAt": "2020-02-15T14:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "From apple juice to antibiotics: Coronavirus epidemic could cause U.S. shortages",
+            "description": "Early effects are already being felt.",
+            "url": "https://fortune.com/2020/02/15/coronavirus-shortages-supply-chain/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199139745-e1581636009975.jpg?resize=1200,600",
+            "publishedAt": "2020-02-15T12:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "jonathanvanian2015",
+            "title": "Facebook cancels conference while IBM pulls out of one due to coronavirus fears",
+            "description": "Facebook cancelled a marketing conference in San Francisco while IBM pulled out of the RSA security conference in the same city.",
+            "url": "https://fortune.com/2020/02/14/facebook-ibm-cancel-conference-coronavirus-fears/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198895221.jpg?resize=1200,600",
+            "publishedAt": "2020-02-15T01:29:53Z",
+            "content": null
+        }
+    ]
+}

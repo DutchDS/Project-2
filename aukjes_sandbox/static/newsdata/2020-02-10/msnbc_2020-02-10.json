@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Monday's Mini-Report, 2.10.20",
+            "description": "Today's edition of quick hits.",
+            "url": "http://www.msnbc.com/rachel-maddow-show/mondays-mini-report-21020",
+            "urlToImage": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/maddow_theminireport_general.png?itok=yLUr4wsw",
+            "publishedAt": "2020-02-10T22:30:24Z",
+            "content": "Today\u2019s edition of quick hits:\r\n* Afghanistan: Two U.S. troops were killed and six others wounded in an attack Saturday in Nangarhar Province, Afghanistan, a military official said. U.S. and Afghan forces were conducting a joint operation when an individual w\u2026 [+2385 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Chinese authorities raid homes of suspected Coronavirus victims",
+            "description": "Hallie Jackson reports on the latest developments in the fight against the Coronavirus in China, where officials have begun removing citizens from their homes that they suspect may have contracted the disease. The outbreak's death toll has now eclipsed that o\u2026",
+            "url": "https://www.msnbc.com/hallie-jackson/watch/chinese-authorities-raid-homes-of-suspected-coronavirus-victims-78488645967",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hallie_corona_200210_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-10T17:26:07Z",
+            "content": null
+        }
+    ]
+}

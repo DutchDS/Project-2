@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Don Reisinger",
+            "title": "Apple course corrects for the coronavirus to keep its next iPhones on track",
+            "description": "This week's Apple news didn't stop at the company's Chinese production troubles.",
+            "url": "https://fortune.com/2020/02/22/apple-china-coronavirus-iphone/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199287805.jpg?resize=1200,600",
+            "publishedAt": "2020-02-22T14:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Bernhard Warner",
+            "title": "Empty pavilions, taxis without passengers: A quieter Barcelona reveals the damaging reach of coronavirus",
+            "description": "For the past 13 years, techies and telecoms executives have descended upon Barcelona for the the biggest industry event of the year. Its cancellation leaves a big hole in the local economy.",
+            "url": "https://fortune.com/2020/02/22/barcelona-coronavirus-mwc-recover/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1207477932.jpg?resize=1200,600",
+            "publishedAt": "2020-02-22T08:00:00Z",
+            "content": null
+        }
+    ]
+}

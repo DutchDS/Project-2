@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "\u2018Panic situation:\u2019 As coronavirus idles China\u2019s factories, desperation grows for workers, clients and owners",
+            "description": "Thousands of businesses are in limbo, waiting to hear from local authorities on when they can resume operations.",
+            "url": "https://fortune.com/2020/02/11/coronavirus-idles-china-factories-desperation-grows/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199766618.jpg?resize=1200,600",
+            "publishedAt": "2020-02-11T13:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Carnival cruise ship is running out of ports after 4 nations block entry on coronavirus fears",
+            "description": "It's more bad news for Carnival, whose Diamond Princess and its 3,700 passengers are quarantined in the port of Yokohama as authorities battle an increasing number of infections on board.",
+            "url": "https://fortune.com/2020/02/11/carnival-cruise-ship-rejected-4-nations-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1158412321.jpg?resize=1200,600",
+            "publishedAt": "2020-02-11T12:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Karen Yuan",
+            "title": "The dreaded \u2018black swan\u2019\u2014and what that rare event means for the markets",
+            "description": "The coronavirus outbreak has decimated Chinese demand for oil by up to 3 million barrels per day. The impact can be felt beyond crude.",
+            "url": "https://fortune.com/2020/02/11/black-swan-energy-markets/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1186561510.jpg?resize=1200,600",
+            "publishedAt": "2020-02-11T10:07:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Singapore urges calm\u2014but its tourism industry is being pummeled by the coronavirus outbreak",
+            "description": "The Singapore Airshow advocates a \"no contact\" policy, while a business conference is investigated as a possible \"super spreader\" event.",
+            "url": "https://fortune.com/2020/02/11/singapore-coronavirus-cases-tourism/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199767211.jpg?resize=1200,600",
+            "publishedAt": "2020-02-11T09:28:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Can you catch the coronavirus twice? Answers to 5 pressing questions about the worldwide outbreak",
+            "description": "Two experts, a virologist and an infectious disease specialist, break down the basics.",
+            "url": "https://fortune.com/2020/02/11/coronavirus-catch-twice/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199162438.jpg?resize=1200,600",
+            "publishedAt": "2020-02-11T09:13:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "How a cruise ship turns into a coronavirus breeding ground",
+            "description": "For passengers, it began as a carefree voyage. For the coronavirus, it was a chance to run rampant.",
+            "url": "https://fortune.com/2020/02/10/cruise-ship-coronavirus-spreads/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1199786053.jpg?resize=1200,600",
+            "publishedAt": "2020-02-11T03:18:01Z",
+            "content": null
+        }
+    ]
+}

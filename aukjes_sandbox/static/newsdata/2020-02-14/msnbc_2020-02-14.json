@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Americans evacuated from China discuss coronavirus quarantine",
+            "description": "Chris Jansing speaks with a family evacuated from China due to the coronavirus outbreak who have been quarantined on an army base for the past eight days.",
+            "url": "https://www.msnbc.com/velshi-ruhle/watch/americans-evacuated-from-china-discuss-coronavirus-quarantine-78774853997",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_vr_evacuated_200214_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-14T18:56:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "New York City prepares for the coronavirus",
+            "description": "Morning Joe medical contributor Dr. Dave Campbell reports on how New York City is preparing for a potential outbreak of the coronavirus.",
+            "url": "http://www.msnbc.com/morning-joe/watch/new-york-city-prepares-for-the-coronavirus-78754373969",
+            "urlToImage": null,
+            "publishedAt": "2020-02-14T15:08:59Z",
+            "content": null
+        }
+    ]
+}
