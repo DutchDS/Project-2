@@ -14,11 +14,11 @@ A 3 page interactive webpage, which we deployed on Heroku. Please click ![here](
 
 The app lands on the the "World" page where it will plot the latest spread of Corona Virus world wide. When clicking the Show Spread button, the app will run through the maps by day.
 
-![corona_animation_1.gif](static/images/corona_animation_1.gif) 
+![corona_animation_3.gif](static/images/corona_animation_3.gif) 
 
 Scrolling down a bit, a summary section will display the latest aggregated number for the World, China, the World without China and the USA.
 
-![Output_2.png](static/images/Output_2.png
+![Output_2.png](static/images/Output_2.png)
 
 Lastly, a chart with the option to choose an affected country from the drop down box, as well as a 'Top 10 Countries' that are being his the most are displayed.
 
