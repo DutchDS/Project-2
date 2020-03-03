@@ -207,10 +207,7 @@ slider_input.addEventListener('change', function () {                           
   }, false);
 
   day_count = today - current_date
-  counter = Math.ceil((day_count/24/60/60/1000/ + 1))
-  console.log(counter)
-  console.log(today)
+  counter = Math.ceil((day_count/24/60/60/1000 + 1))
 
-  console.log(current_date)
   var sliderselector = d3.select("#date_slider")
   sliderselector.attr("max",counter);
