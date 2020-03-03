@@ -26,13 +26,13 @@ Lastly, a chart with the option to choose an affected country from the drop down
 
 The slider section allows the user to easily 'jump' to a specific day. Map and pop-up data is adjusted on the fly.
 
-![corona_animation_3.gif](static/images/corona_animation_3.gif)
+![corona_animation_5.gif](static/images/corona_animation_5.gif)
 
 The China page is where the project initiated, before the virus went all over the world. It has similar, but less functionality than the worldwide page.
 
 The news page defaults to the last available date and nicely interacts with the slider as well. It provides the user the option to select a date and a news source from a dropdown list interactively.
 
-![corona_animation_3.gif](static/images/corona_animation_4.gif) 
+![corona_animation_4.gif](static/images/corona_animation_4.gif) 
 
 The news facts on the news page that correspond with the selected slider date were created by Meliha Osmanovic.
 The news page that interacts with the slider and allows for interactive selections of date and news source were created by Jim Comas.
