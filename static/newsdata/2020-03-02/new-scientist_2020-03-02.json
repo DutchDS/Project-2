@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Jessica Hamzelou",
+            "title": "Coronavirus: What are the worst symptoms and how deadly is covid-19?",
+            "description": "We are starting to understand how the covid-19 virus may affect people in different ways, depending on their age and underlying health conditions",
+            "url": "https://www.newscientist.com/article/2235847-coronavirus-what-are-the-worst-symptoms-and-how-deadly-is-covid-19/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/03/02123501/pa-50868952.jpg",
+            "publishedAt": "2020-03-02T12:46:20Z",
+            "content": "By Jessica Hamzelou\r\nUse a tissue to blow your nose, and put it in the bin\r\nYui Mok/PA Wire/PA Images\r\nIt has been two months since Chinas health officials described a mysterious virus spreading in Hubei. As of 2 March, the new coronavirus has infected nearly\u2026 [+4679 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Debora MacKenzie",
+            "title": "Coronavirus may have been circulating undetected in the US for 6 weeks",
+            "description": "A shared mutation in the covid-19 virus from two infected people who had no contact suggests the coronavirus has been quietly spreading in the US for weeks",
+            "url": "https://www.newscientist.com/article/2235972-coronavirus-may-have-been-circulating-undetected-in-the-us-for-6-weeks/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/03/02191008/pa-50835176.jpg",
+            "publishedAt": "2020-03-02T19:43:59Z",
+            "content": null
+        }
+    ]
+}

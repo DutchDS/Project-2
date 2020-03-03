@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 39,
+    "totalResults": 47,
     "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "California Reports Second Case of Unknown Origin: Virus Update - Bloomberg",
+            "description": "California Reports Second Case of Unknown Origin: Virus Update Bloomberg Coronavirus spreads to more countries as markets take historic tumble CNN 'We're treated like criminals': South Korean sect feels coronavirus backlash The Guardian Coronavirus live updat\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=9caaa7a0-5a98-11ea-8329-9bd03856309d&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0yOC9nZXJtYW55LWJvb3N0cy1ib3JkZXItY2hlY2tzLWdvb2dsZS1zY3JhcHMtZXZlbnQtdmlydXMtdXBkYXRl",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T21:54:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": "bloomberg",
@@ -34,11 +47,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "TOV: 6 Things About the Coronavirus",
+            "title": "6 Things We Learned on Coronavirus",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-02-28/tov-6-things-about-the-coronavirus-video",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-28/6-things-we-learned-on-coronavirus-video",
             "urlToImage": null,
-            "publishedAt": "2020-02-28T03:32:24Z",
+            "publishedAt": "2020-02-28T03:13:32Z",
             "content": null
         },
         {
@@ -47,11 +60,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "6 Things We Learned on Coronavirus",
+            "title": "TOV: 6 Things About the Coronavirus",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-02-28/6-things-we-learned-on-coronavirus-video",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-28/tov-6-things-about-the-coronavirus-video",
             "urlToImage": null,
-            "publishedAt": "2020-02-28T03:13:32Z",
+            "publishedAt": "2020-02-28T03:32:24Z",
             "content": null
         },
         {
@@ -86,6 +99,19 @@
                 "name": "Bloomberg"
             },
             "author": null,
+            "title": "Baystate Business: Markets, Politics, Coronavirus (Radio)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-28/baystate-business-markets-politics-coronavirus-radio",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T23:25:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
             "title": "Ives Bullish on Tech Despite Coronavirus Concerns",
             "description": null,
             "url": "https://www.bloomberg.com/news/videos/2020-02-28/ives-bullish-on-tech-despite-coronavirus-concerns-video",
@@ -104,6 +130,71 @@
             "url": "https://www.bloomberg.com/news/videos/2020-02-28/engie-sees-no-material-impact-from-coronavirus-video",
             "urlToImage": null,
             "publishedAt": "2020-02-28T12:13:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Fear Factor: Coronavirus Impact and Fed Rate Cuts (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-28/the-fear-factor-coronavirus-impact-and-fed-rate-cuts-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T20:24:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus May Be the Worst Thing Minerd's Ever Seen (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-28/coronavirus-may-be-the-worst-thing-minerd-s-ever-seen-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T23:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Cable Markets, Central Bank Policy, Coronavirus (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-28/the-cable-markets-central-bank-policy-coronavirus-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T18:02:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Sound On: Markets and Coronavirus, SC Primary Preview (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-02-28/sound-on-markets-and-coronavirus-sc-primary-preview-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T23:13:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Germany Steps Up Quarantines to Contain Coronavirus Spread",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-28/germany-steps-up-quarantines-to-contain-coronavirus-spread",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T08:04:55Z",
             "content": null
         },
         {
@@ -138,37 +229,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Germany Steps Up Quarantines to Contain Coronavirus Spread",
+            "title": "BASF Braces for Possible Profit Drop on Coronavirus, Auto Slump",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-28/germany-steps-up-quarantines-to-contain-coronavirus-spread",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-28/basf-braces-for-possible-profit-drop-on-coronavirus-auto-slump",
             "urlToImage": null,
-            "publishedAt": "2020-02-28T08:04:55Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "The Fear Factor: Coronavirus Impact and Fed Rate Cuts (Podcast)",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/audio/2020-02-28/the-fear-factor-coronavirus-impact-and-fed-rate-cuts-podcast",
-            "urlToImage": null,
-            "publishedAt": "2020-02-28T20:24:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "The Cable Markets, Central Bank Policy, Coronavirus (Podcast)",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/audio/2020-02-28/the-cable-markets-central-bank-policy-coronavirus-podcast",
-            "urlToImage": null,
-            "publishedAt": "2020-02-28T18:02:21Z",
+            "publishedAt": "2020-02-28T06:01:46Z",
             "content": null
         },
         {
@@ -190,37 +255,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "BASF Braces for Possible Profit Drop on Coronavirus, Auto Slump",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-28/basf-braces-for-possible-profit-drop-on-coronavirus-auto-slump",
-            "urlToImage": null,
-            "publishedAt": "2020-02-28T06:01:46Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
             "title": "Wall Street Takes a Break From Coronavirus to Fight Lyme",
             "description": null,
             "url": "https://www.bloomberg.com/news/articles/2020-02-28/wall-street-takes-break-from-coronavirus-to-fight-lyme-disease",
             "urlToImage": null,
             "publishedAt": "2020-02-28T20:07:39Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Coronavirus Spread in China Mostly Among Families, WHO Says",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-02-28/coronavirus-spread-in-china-mostly-among-families-report-says",
-            "urlToImage": null,
-            "publishedAt": "2020-02-28T15:45:34Z",
             "content": null
         },
         {
@@ -242,6 +281,45 @@
                 "name": "Bloomberg"
             },
             "author": null,
+            "title": "Coronavirus Spread in China Mostly Among Families, WHO Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-28/coronavirus-spread-in-china-mostly-among-families-report-says",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T15:45:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Uncertainty Surrounding Coronavirus Similar to Category 6 Hurricane: Loews CEO",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-28/uncertainty-surrounding-coronavirus-similar-to-category-6-hurricane-loews-ceo-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T23:16:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "California Reports Second Coronavirus Case of Unknown Origin",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-28/california-reports-second-coronavirus-case-of-unknown-origin",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T23:44:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
             "title": "Vaccine Maker Seeks Production Muscle in Coronavirus Fight",
             "description": null,
             "url": "https://www.bloomberg.com/news/articles/2020-02-28/vaccine-maker-seeks-big-partners-in-rush-for-coronavirus-shot",
@@ -255,11 +333,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Coronavirus vs. Seasonal Flu: Impact on Patients, Health Services",
+            "title": "Coronavirus Could Shut U.S. Schools, Disrupt Transportation, Says Mulvaney",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-02-28/coronavirus-vs-seasonal-flu-impact-on-patients-health-services-video",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-28/coronavirus-could-shut-u-s-schools-disrupt-transportation-says-mulvaney-video",
             "urlToImage": null,
-            "publishedAt": "2020-02-28T15:35:06Z",
+            "publishedAt": "2020-02-28T15:50:07Z",
             "content": null
         },
         {
@@ -268,11 +346,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Coronavirus Could Shut U.S. Schools, Disrupt Transportation, Says Mulvaney",
+            "title": "Coronavirus vs. Seasonal Flu: Impact on Patients, Health Services",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-02-28/coronavirus-could-shut-u-s-schools-disrupt-transportation-says-mulvaney-video",
+            "url": "https://www.bloomberg.com/news/videos/2020-02-28/coronavirus-vs-seasonal-flu-impact-on-patients-health-services-video",
             "urlToImage": null,
-            "publishedAt": "2020-02-28T15:50:07Z",
+            "publishedAt": "2020-02-28T15:35:06Z",
             "content": null
         },
         {
@@ -385,6 +463,19 @@
                 "name": "Bloomberg"
             },
             "author": null,
+            "title": "Powell Opens Door to Fed Rate Cut on \u2018Evolving\u2019 Risks From Virus - Bloomberg",
+            "description": "Powell Opens Door to Fed Rate Cut on \u2018Evolving\u2019 Risks From Virus Bloomberg Fed's Powell warns coronavirus poses 'evolving risks' to economy, vows to support expansion Fox Business Fed opens door to rate cut after week of plunging stocks POLITICO Fed chief hin\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=de0c6320-5a87-11ea-b794-23b63056fd83&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0yOC9wb3dlbGwtc2F5cy1tb25pdG9yaW5nLXZpcnVzLXdpbGwtdXNlLXRvb2xzLWFjdC1hcy1hcHByb3ByaWF0ZQ==",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T19:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
             "title": "Iran, Korea Cases Soar; Outbreak Spreads in Africa: Virus Update - Bloomberg",
             "description": "Iran, Korea Cases Soar; Outbreak Spreads in Africa: Virus Update Bloomberg Live updates: Coronavirus pummels financial markets; Japanese island declares state of emergency The Washington Post Coronavirus Live Updates: Officials Rush to Respond to a Drumbeat o\u2026",
             "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ff9566a0-5a31-11ea-8445-c71fa66e3977&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0yOC9rb3JlYS1jYXNlcy10b3AtMi0zMDAtbmlnZXJpYS1jb25maXJtcy1pbmZlY3Rpb24tdmlydXMtdXBkYXRl",
@@ -429,6 +520,19 @@
             "url": "https://www.bloomberg.com/news/articles/2020-02-28/who-raises-global-risk-for-coronavirus-to-very-high-from-high",
             "urlToImage": null,
             "publishedAt": "2020-02-28T16:32:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Abhishek Vishnoi",
+            "title": "Southeast Asia Sees Heaviest Losses in Coronavirus Sell-Off",
+            "description": "Southeast Asia Sees Heaviest Losses in Coronavirus Sell-Off bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-28/world-s-biggest-coronavirus-victim-in-equities-is-southeast-asia",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T11:59:02Z",
             "content": null
         },
         {

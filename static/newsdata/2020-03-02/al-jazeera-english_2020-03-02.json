@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Ian Morse",
+            "title": "US coronavirus death unsettles Seattle, raises response questions",
+            "description": "Medical experts say the coronavirus has probably been circulating undetected in the US for some time.",
+            "url": "https://www.aljazeera.com/news/2020/03/coronavirus-death-unsettles-seattle-raises-response-questions-200302060733545.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/2/9e6d72006aea4ebf99b3a5f687c1741b_18.jpg",
+            "publishedAt": "2020-03-02T07:52:15Z",
+            "content": "Seattle, United States - It took less than a month after China alerted the World Health Organization to the emergence of a new coronavirus in the country for the infection to cross the Pacific Ocean, and another month for it to claim its first life in the Uni\u2026 [+7204 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Grim economic forecasts as coronavirus spreads",
+            "description": "The world's peak economic body, the OECD, says coronavirus could make the global economy shrink for the first quarter since the 2008 financial crisis.",
+            "url": "https://www.aljazeera.com/news/2020/03/grim-economic-forecasts-coronavirus-spreads-200302140859836.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/3/2/image-20200302140902527.jpg",
+            "publishedAt": "2020-03-02T14:08:59Z",
+            "content": "The world's peak economic body, the OECD, says the new coronavirus could make the global economy shrink for the first quarter since the 2008 financial crisis.\r\nAlready China's manufacturing sector says factory activity hit record lows in February.\r\nBut the ef\u2026 [+105 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US coronavirus death toll rises to 6",
+            "description": "Four more deaths reported in Washington state, where officials had previously said two people had died from the virus.",
+            "url": "https://www.aljazeera.com/news/2020/03/coronavirus-death-toll-rises-6-200302203641200.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/2/4486f3f9bfbb45f6bc1b3c87a7b9a0fa_18.jpg",
+            "publishedAt": "2020-03-02T22:16:26Z",
+            "content": "Four more people have died in the US state of Washington after being infected with the coronavirus, bringing the death toll in the state and country to six, authorities said on Monday.\r\nDr Jeff Duchin, chief health officer for the Seattle and King County Publ\u2026 [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "South Korea church leader apologises over coronavirus outbreak",
+            "description": "South Korea has the largest number of infections outside China, with the total rising to 4,335.",
+            "url": "https://www.aljazeera.com/news/2020/03/south-korea-church-leader-apologises-coronavirus-outbreak-200302140334740.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/3/2/image-20200302140337503.jpg",
+            "publishedAt": "2020-03-02T14:03:34Z",
+            "content": "The leader of the church at the centre of the coronavirus outbreak in South Korea has publicly apologised for the first time.\r\nSouth Korea has the largest number of infections outside China - at 4,335.\r\nAl Jazeera's Rob McBride reports from the capital, Seoul."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kate Mayberry",
+            "title": "Algeria, Egypt confirm more coronavirus cases: Live updates",
+            "description": "Spread of virus outside China continues to accelerate as governments step up efforts to contain infections.",
+            "url": "https://www.aljazeera.com/news/2020/03/algeria-egypt-confirm-coronavirus-cases-live-updates-200301232150803.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/1/00a418bf615b46cfbdaa131332d48bb8_18.jpg",
+            "publishedAt": "2020-03-02T00:04:47Z",
+            "content": "Hello and welcome to Al Jazeera's live updates on the new coronavirus as it continues to spread from its epicentre in central China to countries around the world.\r\nI'm Kate Mayberry in Kuala Lumpur, taking over from Mersiha Gadzo.\r\nFirst, a recap of the lates\u2026 [+894 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Patrick Gathara",
+            "title": "Kenya needs to stop panicking and start preparing for coronavirus",
+            "description": "We should stop wasting time trying to stop the virus from entering Kenya and start preparing for the outbreak instead.",
+            "url": "https://www.aljazeera.com/indepth/opinion/kenya-stop-panicking-start-preparing-coronavirus-200302110915576.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/2/9503823d02064de6b8149d461d12b15b_18.jpg",
+            "publishedAt": "2020-03-02T15:46:52Z",
+            "content": "Kenyans are a worried lot. As the coronavirus outbreak continues to spread across the globe, there are increasing questions being raised about the measures - or more accurately, the lack of measures - the government is taking to protect the population.\r\nBy th\u2026 [+5988 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Polls open in Israel's third election in less than a year",
+            "description": "Another deadlock is expected as PM Netanyahu and rival Gantz failed to reach a power-sharing deal last year.",
+            "url": "https://www.aljazeera.com/news/2020/03/polls-open-israel-election-year-200302055708258.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/2/c6ab11131dbe4b23b16df2534fc63138_18.jpg",
+            "publishedAt": "2020-03-02T06:47:00Z",
+            "content": "Israelis are heading to polling stations to cast their ballots in their third general election in less than a year after the two largest parties failed to achieve a power-sharing government.\r\nOpinion polls in the lead-up to Saturday's vote forecast a tight ra\u2026 [+3006 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Super Tuesday: 6 things to know ahead of the big day in the US",
+            "description": "By the end of the night, US election watchers will either have a clear frontrunner or an even murkier race than before.",
+            "url": "https://www.aljazeera.com/news/2020/02/super-tuesday-6-big-day-200228195559613.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/28/ab3210d0ff5c4ce89ee1a6923a08120a_18.jpg",
+            "publishedAt": "2020-03-02T14:50:47Z",
+            "content": "Practically speaking, the race for the Democratic nomination for president of the United States has been little more than a show until now. None of the early voting states offered much in the way of delegates for the candidates (barely 4 percent of the total)\u2026 [+5758 chars]"
+        }
+    ]
+}

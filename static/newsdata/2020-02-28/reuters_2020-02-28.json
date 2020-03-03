@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 413,
+    "totalResults": 419,
     "articles": [
         {
             "source": {
@@ -60,12 +60,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Thailand reports one new coronavirus case, total reaches 41 - health official",
-            "description": "Thailand recorded one new case of coronavirus, bringing the total in the country to 41 since January, a senior health official said on Friday.",
-            "url": "https://www.reuters.com/article/us-china-health-thailand-case-idUSKCN20M0FS",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496309296&w=1200&r=LYNXNPEG1R0A5",
-            "publishedAt": "2020-02-28T04:45:51Z",
-            "content": "BANGKOK (Reuters) - Thailand recorded one new case of coronavirus, bringing the total in the country to 41 since January, a senior health official said on Friday. \r\nThe new case is a 25-year-old Thai man, a tour guide who recently returned from South Korea an\u2026 [+437 chars]"
+            "title": "Mainland China reports 327 new confirmed coronavirus cases on February 27",
+            "description": "Mainland China had 327 new confirmed cases of coronavirus infections on Thursday, the country's National Health Commission said on Friday, down from 433 cases a day earlier.",
+            "url": "https://www.reuters.com/article/us-china-health-cases-idUSKCN20M00L",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496218437&w=1200&r=LYNXNPEG1R00A",
+            "publishedAt": "2020-02-28T00:09:56Z",
+            "content": "BEIJING (Reuters) - Mainland China had 327 new confirmed cases of coronavirus infections on Thursday, the country\u2019s National Health Commission said on Friday, down from 433 cases a day earlier. \r\nThat brings the total accumulated number of confirmed cases in \u2026 [+369 chars]"
         },
         {
             "source": {
@@ -73,12 +73,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Mainland China reports 327 new confirmed coronavirus cases on February 27",
-            "description": "Mainland China had 327 new confirmed cases of coronavirus infections on Thursday, the country's National Health Commission said on Friday, down from 433 cases a day earlier.",
-            "url": "https://www.reuters.com/article/us-china-health-cases-idUSKCN20M00L",
-            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496218437&w=1200&r=LYNXNPEG1R00A",
-            "publishedAt": "2020-02-28T00:09:56Z",
-            "content": "BEIJING (Reuters) - Mainland China had 327 new confirmed cases of coronavirus infections on Thursday, the country\u2019s National Health Commission said on Friday, down from 433 cases a day earlier. \r\nThat brings the total accumulated number of confirmed cases in \u2026 [+369 chars]"
+            "title": "Thailand reports one new coronavirus case, total reaches 41 - health official",
+            "description": "Thailand recorded one new case of coronavirus, bringing the total in the country to 41 since January, a senior health official said on Friday.",
+            "url": "https://www.reuters.com/article/us-china-health-thailand-case-idUSKCN20M0FS",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496309296&w=1200&r=LYNXNPEG1R0A5",
+            "publishedAt": "2020-02-28T04:45:51Z",
+            "content": "BANGKOK (Reuters) - Thailand recorded one new case of coronavirus, bringing the total in the country to 41 since January, a senior health official said on Friday. \r\nThe new case is a 25-year-old Thai man, a tour guide who recently returned from South Korea an\u2026 [+437 chars]"
         },
         {
             "source": {
@@ -99,19 +99,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "EU health ministers to hold extraordinary virus talks next week",
-            "description": "European Union health ministers will hold an extraordinary meeting on March 6 to discuss the coronavirus outbreak, an EU official said.",
-            "url": "https://www.reuters.com/article/us-china-health-eu-idUSKCN20M2JG",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-28T16:33:43Z",
-            "content": "BRUSSELS (Reuters) - European Union health ministers will hold an extraordinary meeting on March 6 to discuss the coronavirus outbreak, an EU official said. \r\nEU health ministers held a first extraordinary meeting earlier in February on the epidemic, where th\u2026 [+131 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "All schools in Iran to close for three days over coronavirus concerns: health minister",
             "description": "All schools in Iran will close for three days starting from Saturday over coronavirus concerns, Iran's health minister announced on state TV.",
             "url": "https://www.reuters.com/article/us-china-health-iran-education-idUSKCN20M1W8",
@@ -125,25 +112,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Bahrain reports two new cases of coronavirus, one a Saudi national",
-            "description": "Bahrain reported two new cases of coronavirus on Friday, one of them a Saudi Arabian national, taking the total there to 38.",
-            "url": "https://www.reuters.com/article/us-health-bahrain-idUSKCN20M2E6",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496556250&w=1200&r=LYNXNPEG1R1I3",
-            "publishedAt": "2020-02-28T15:52:27Z",
-            "content": "CAIRO (Reuters) - Bahrain reported two new cases of coronavirus on Friday, one of them a Saudi Arabian national, taking the total there to 38. \r\nThe health ministry said the other reported case was a Bahraini national, and that both new cases had come from Ir\u2026 [+86 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Kenya's high court orders suspension of flights from China over coronavirus",
-            "description": "Kenya's High Court on Friday ordered flights from China to be temporarily suspended over the coronavirus outbreak, following a petition by the Law Society of Kenya.",
-            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/1d_WvCCbI2c/kenyas-high-court-orders-suspension-of-flights-from-china-over-coronavirus-idUSKCN20M1MP",
-            "urlToImage": null,
-            "publishedAt": "2020-02-28T11:58:38Z",
-            "content": null
+            "title": "EU health ministers to hold extraordinary virus talks next week",
+            "description": "European Union health ministers will hold an extraordinary meeting on March 6 to discuss the coronavirus outbreak, an EU official said.",
+            "url": "https://www.reuters.com/article/us-china-health-eu-idUSKCN20M2JG",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-28T16:33:43Z",
+            "content": "BRUSSELS (Reuters) - European Union health ministers will hold an extraordinary meeting on March 6 to discuss the coronavirus outbreak, an EU official said. \r\nEU health ministers held a first extraordinary meeting earlier in February on the epidemic, where th\u2026 [+131 chars]"
         },
         {
             "source": {
@@ -189,13 +163,26 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
+            "author": null,
+            "title": "Kenya's high court orders suspension of flights from China over coronavirus",
+            "description": "Kenya's High Court on Friday ordered flights from China to be temporarily suspended over the coronavirus outbreak, following a petition by the Law Society of Kenya.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/1d_WvCCbI2c/kenyas-high-court-orders-suspension-of-flights-from-china-over-coronavirus-idUSKCN20M1MP",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T11:58:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
             "author": "Reuters Editorial",
-            "title": "Almost 60 confirmed cases of coronavirus in Germany: Health Ministry spokeswoman",
-            "description": "There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again.",
-            "url": "https://www.reuters.com/article/us-china-health-ministry-idUSKCN20M1I5",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-28T10:53:26Z",
-            "content": "BERLIN (Reuters) - There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again. \r\nAsked how many confirmed cases of coronavirus in Germany t\u2026 [+179 chars]"
+            "title": "Bahrain reports two new cases of coronavirus, one a Saudi national",
+            "description": "Bahrain reported two new cases of coronavirus on Friday, one of them a Saudi Arabian national, taking the total there to 38.",
+            "url": "https://www.reuters.com/article/us-health-bahrain-idUSKCN20M2E6",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496556250&w=1200&r=LYNXNPEG1R1I3",
+            "publishedAt": "2020-02-28T15:52:27Z",
+            "content": "CAIRO (Reuters) - Bahrain reported two new cases of coronavirus on Friday, one of them a Saudi Arabian national, taking the total there to 38. \r\nThe health ministry said the other reported case was a Bahraini national, and that both new cases had come from Ir\u2026 [+86 chars]"
         },
         {
             "source": {
@@ -215,6 +202,19 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
+            "author": null,
+            "title": "Germany enacts new health security measures against coronavirus infections",
+            "description": "A German government crisis committee on Friday enacted new measures to combat the coronavirus outbreak that include the widening of cross-border travel guidelines and the cancellation of major international events.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/EdHosaQn8lg/germany-enacts-new-health-security-measures-against-coronavirus-infections-idUSKCN20M34J",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T20:39:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
             "author": "Reuters Editorial",
             "title": "UK says number of coronavirus cases has risen to 20",
             "description": "Britain's health ministry said on Friday that the number of people infected with coronavirus in the United Kingdom had risen to 20, after another patient in England had tested positive for the disease.",
@@ -228,13 +228,26 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": null,
-            "title": "Germany enacts new health security measures against coronavirus infections",
-            "description": "A German government crisis committee on Friday enacted new measures to combat the coronavirus outbreak that include the widening of cross-border travel guidelines and the cancellation of major international events.",
-            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/EdHosaQn8lg/germany-enacts-new-health-security-measures-against-coronavirus-infections-idUSKCN20M34J",
-            "urlToImage": null,
-            "publishedAt": "2020-02-28T20:39:40Z",
-            "content": null
+            "author": "Reuters Editorial",
+            "title": "Almost 60 confirmed cases of coronavirus in Germany: Health Ministry spokeswoman",
+            "description": "There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again.",
+            "url": "https://www.reuters.com/article/us-china-health-ministry-idUSKCN20M1I5",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-28T10:53:26Z",
+            "content": "BERLIN (Reuters) - There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again. \r\nAsked how many confirmed cases of coronavirus in Germany t\u2026 [+179 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Martyn Herman",
+            "title": "UAE coronavirus scare confines Danish champion Morkov to Berlin hotel",
+            "description": "Danish rider Michael Morkov faces an anxious wait alone in a Berlin hotel room to learn if he can compete in the world track championships, after being caught up in fallout from a coronavirus scare in the Gulf.",
+            "url": "https://www.reuters.com/article/us-china-health-cycling-idUSKCN20M28T",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496539683&w=1200&r=LYNXNPEG1R1G4",
+            "publishedAt": "2020-02-28T15:08:57Z",
+            "content": "BERLIN (Reuters) - Danish rider Michael Morkov faces an anxious wait alone in a Berlin hotel room to learn if he can compete in the world track championships, after being caught up in fallout from a coronavirus scare in the Gulf. \r\nNational champion Morkov, 3\u2026 [+2550 chars]"
         },
         {
             "source": {
@@ -267,26 +280,13 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Martyn Herman",
-            "title": "UAE coronavirus scare confines Danish champion Morkov to Berlin hotel",
-            "description": "Danish rider Michael Morkov faces an anxious wait alone in a Berlin hotel room to learn if he can compete in the world track championships, after being caught up in fallout from a coronavirus scare in the Gulf.",
-            "url": "https://www.reuters.com/article/us-china-health-cycling-idUSKCN20M28T",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496539683&w=1200&r=LYNXNPEG1R1G4",
-            "publishedAt": "2020-02-28T15:08:57Z",
-            "content": "BERLIN (Reuters) - Danish rider Michael Morkov faces an anxious wait alone in a Berlin hotel room to learn if he can compete in the world track championships, after being caught up in fallout from a coronavirus scare in the Gulf. \r\nNational champion Morkov, 3\u2026 [+2550 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Consumer spending, inflation cool; spotlight on Fed amid coronavirus outbreak",
-            "description": "U.S. consumer spending slowed in January and could lose further momentum as the fast-spreading coronavirus outbreak, which has sparked a stock market sell-off and revived fears of a recession, causes households to tighten their purse strings.",
-            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/Rz_-tjnIvy8/consumer-spending-inflation-cool-spotlight-on-fed-amid-coronavirus-outbreak-idUSKCN20M24P",
-            "urlToImage": null,
-            "publishedAt": "2020-02-28T18:05:19Z",
-            "content": null
+            "author": "Reuters Editorial",
+            "title": "Factbox: Global central bankers on coronavirus, possibility of rate cuts",
+            "description": "With the rapid global spread of the new coronavirus and the U.S. stock market suffering its worst week since the Great Recession, central bankers around the world are under rising pressure to reduce borrowing costs to create a cushion against economic harm. S\u2026",
+            "url": "https://www.reuters.com/article/us-china-health-centralbanks-quotes-fact-idUSKCN20M37J",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496679017&w=1200&r=LYNXNPEG1R22C",
+            "publishedAt": "2020-02-28T21:27:34Z",
+            "content": "SAN FRANCISCO (Reuters) - With the rapid global spread of the new coronavirus and the U.S. stock market suffering its worst week since the Great Recession, central bankers around the world are under rising pressure to reduce borrowing costs to create a cushio\u2026 [+3543 chars]"
         },
         {
             "source": {
@@ -306,26 +306,13 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "Factbox: Global central bankers on coronavirus, possibility of rate cuts",
-            "description": "With the rapid global spread of the new coronavirus and the U.S. stock market suffering its worst week since the Great Recession, central bankers around the world are under rising pressure to reduce borrowing costs to create a cushion against economic harm. S\u2026",
-            "url": "https://www.reuters.com/article/us-china-health-centralbanks-quotes-fact-idUSKCN20M37J",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496679017&w=1200&r=LYNXNPEG1R22C",
-            "publishedAt": "2020-02-28T21:27:34Z",
-            "content": "SAN FRANCISCO (Reuters) - With the rapid global spread of the new coronavirus and the U.S. stock market suffering its worst week since the Great Recession, central bankers around the world are under rising pressure to reduce borrowing costs to create a cushio\u2026 [+3543 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "German newspaper cites Health Ministry as saying ITB travel fair should be canceled",
-            "description": "Germany's Bild newspaper on Friday cited the Health Ministry as saying that its new coronavirus criteria, according to which organizers must assess the safety of their events, meant Berlin's ITB international travel fair should be canceled.",
-            "url": "https://www.reuters.com/article/us-china-health-itb-idUSKCN20M297",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496540791&w=1200&r=LYNXNPEG1R1G6",
-            "publishedAt": "2020-02-28T15:12:00Z",
-            "content": "BERLIN (Reuters) - Germany\u2019s Bild newspaper on Friday cited the Health Ministry as saying that its new coronavirus criteria, according to which organizers must assess the safety of their events, meant Berlin\u2019s ITB international travel fair should be canceled.\u2026 [+261 chars]"
+            "author": null,
+            "title": "Consumer spending, inflation cool; spotlight on Fed amid coronavirus outbreak",
+            "description": "U.S. consumer spending slowed in January and could lose further momentum as the fast-spreading coronavirus outbreak, which has sparked a stock market sell-off and revived fears of a recession, causes households to tighten their purse strings.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/Rz_-tjnIvy8/consumer-spending-inflation-cool-spotlight-on-fed-amid-coronavirus-outbreak-idUSKCN20M24P",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T18:05:19Z",
+            "content": null
         },
         {
             "source": {
@@ -346,12 +333,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Quarantine measures taken at two Abu Dhabi hotels after Italian guests contract coronavirus: WAM",
-            "description": "Guests at two Abu Dhabi hotels who interacted with two Italian professional cyclists with coronavirus have been placed under quarantine in the hotels, the state news agency of the United Arab Emirates WAM reported on Friday.",
-            "url": "https://www.reuters.com/article/us-china-health-emirates-idUSKCN20M1UW",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-28T12:33:49Z",
-            "content": "DUBAI (Reuters) - Guests at two Abu Dhabi hotels who interacted with two Italian professional cyclists with coronavirus have been placed under quarantine in the hotels, the state news agency of the United Arab Emirates WAM reported on Friday. \r\nThe final two \u2026 [+435 chars]"
+            "title": "German newspaper cites Health Ministry as saying ITB travel fair should be canceled",
+            "description": "Germany's Bild newspaper on Friday cited the Health Ministry as saying that its new coronavirus criteria, according to which organizers must assess the safety of their events, meant Berlin's ITB international travel fair should be canceled.",
+            "url": "https://www.reuters.com/article/us-china-health-itb-idUSKCN20M297",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496540791&w=1200&r=LYNXNPEG1R1G6",
+            "publishedAt": "2020-02-28T15:12:00Z",
+            "content": "BERLIN (Reuters) - Germany\u2019s Bild newspaper on Friday cited the Health Ministry as saying that its new coronavirus criteria, according to which organizers must assess the safety of their events, meant Berlin\u2019s ITB international travel fair should be canceled.\u2026 [+261 chars]"
         },
         {
             "source": {
@@ -372,25 +359,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "White House adviser: More U.S. coronavirus cases likely but won't necessarily 'skyrocket'",
-            "description": "The number of additional coronavirus cases in the United States is likely to increase but that does not mean they will \"skyrocket\" in North America, White House economic adviser Larry Kudlow said on Friday.",
-            "url": "https://www.reuters.com/article/us-china-health-usa-kudlow-idUSKCN20M2FV",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496561206&w=1200&r=LYNXNPEG1R1J4",
-            "publishedAt": "2020-02-28T16:03:00Z",
-            "content": "WASHINGTON (Reuters) - The number of additional coronavirus cases in the United States is likely to increase but that does not mean they will \u201cskyrocket\u201d in North America, White House economic adviser Larry Kudlow said on Friday. \r\nKudlow, in an interview wit\u2026 [+204 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Rami Ayyub",
-            "title": "Coronavirus fears lead Holy Land Catholic churches to give communion by hand only",
-            "description": "Roman Catholic authorities in Jerusalem have instructed their priests to give communion by hand only, rather than placing the wafers on worshippers' tongues, and to empty holy water fonts - as precautions against the spread of the coronavirus.",
-            "url": "https://www.reuters.com/article/us-china-health-religion-jerusalem-idUSKCN20M20K",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496506294&w=1200&r=LYNXNPEG1R18O",
-            "publishedAt": "2020-02-28T13:40:50Z",
-            "content": "JERUSALEM (Reuters) - Roman Catholic authorities in Jerusalem have instructed their priests to give communion by hand only, rather than placing the wafers on worshippers\u2019 tongues, and to empty holy water fonts - as precautions against the spread of the corona\u2026 [+1816 chars]"
+            "title": "Quarantine measures taken at two Abu Dhabi hotels after Italian guests contract coronavirus: WAM",
+            "description": "Guests at two Abu Dhabi hotels who interacted with two Italian professional cyclists with coronavirus have been placed under quarantine in the hotels, the state news agency of the United Arab Emirates WAM reported on Friday.",
+            "url": "https://www.reuters.com/article/us-china-health-emirates-idUSKCN20M1UW",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-28T12:33:49Z",
+            "content": "DUBAI (Reuters) - Guests at two Abu Dhabi hotels who interacted with two Italian professional cyclists with coronavirus have been placed under quarantine in the hotels, the state news agency of the United Arab Emirates WAM reported on Friday. \r\nThe final two \u2026 [+435 chars]"
         },
         {
             "source": {
@@ -437,6 +411,32 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
+            "title": "White House adviser: More U.S. coronavirus cases likely but won't necessarily 'skyrocket'",
+            "description": "The number of additional coronavirus cases in the United States is likely to increase but that does not mean they will \"skyrocket\" in North America, White House economic adviser Larry Kudlow said on Friday.",
+            "url": "https://www.reuters.com/article/us-china-health-usa-kudlow-idUSKCN20M2FV",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496561206&w=1200&r=LYNXNPEG1R1J4",
+            "publishedAt": "2020-02-28T16:03:00Z",
+            "content": "WASHINGTON (Reuters) - The number of additional coronavirus cases in the United States is likely to increase but that does not mean they will \u201cskyrocket\u201d in North America, White House economic adviser Larry Kudlow said on Friday. \r\nKudlow, in an interview wit\u2026 [+204 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Rami Ayyub",
+            "title": "Coronavirus fears lead Holy Land Catholic churches to give communion by hand only",
+            "description": "Roman Catholic authorities in Jerusalem have instructed their priests to give communion by hand only, rather than placing the wafers on worshippers' tongues, and to empty holy water fonts - as precautions against the spread of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-religion-jerusalem-idUSKCN20M20K",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496506294&w=1200&r=LYNXNPEG1R18O",
+            "publishedAt": "2020-02-28T13:40:50Z",
+            "content": "JERUSALEM (Reuters) - Roman Catholic authorities in Jerusalem have instructed their priests to give communion by hand only, rather than placing the wafers on worshippers\u2019 tongues, and to empty holy water fonts - as precautions against the spread of the corona\u2026 [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
             "title": "Hong Kong finds coronavirus in pet dog samples, unclear if infected",
             "description": "Hong Kong authorities said on Friday they quarantined a pet dog of a coronavirus patient after its nasal and oral samples tested \"weak positive\" for the virus, though they added they did not yet have evidence that it can be transmitted to pets.",
             "url": "https://www.reuters.com/article/us-china-health-hongkong-dog-idUSKCN20M00V",
@@ -462,19 +462,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "Hong Kong tycoon to roll out surgical masks as supplies run short",
-            "description": "A Hong Kong tycoon unveiled plans on Friday to produce 200,000 masks a day from April, to be handed out to residents of the Asian financial hub grappling with scarcity amid a coronavirus outbreak that has killed two people and infected more than 90.",
-            "url": "https://www.reuters.com/article/us-china-health-hongkong-tycoon-idUSKCN20M1A1",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496410678&w=1200&r=LYNXNPEG1R0PV",
-            "publishedAt": "2020-02-28T09:34:02Z",
-            "content": "HONG KONG (Reuters) - A Hong Kong tycoon unveiled plans on Friday to produce 200,000 masks a day from April, to be handed out to residents of the Asian financial hub grappling with scarcity amid a coronavirus outbreak that has killed two people and infected m\u2026 [+657 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": null,
             "title": "U.S. to invoke special powers to boost production of protective gear for coronavirus",
             "description": "The United States will invoke special powers to boost production of masks, gloves, gowns and other items to protect against the new coronavirus, Health and Human Services Secretary Alex Azar said on Friday, as the Trump administration was criticized by Democr\u2026",
@@ -482,6 +469,19 @@
             "urlToImage": null,
             "publishedAt": "2020-02-28T23:00:53Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Hong Kong tycoon to roll out surgical masks as supplies run short",
+            "description": "A Hong Kong tycoon unveiled plans on Friday to produce 200,000 masks a day from April, to be handed out to residents of the Asian financial hub grappling with scarcity amid a coronavirus outbreak that has killed two people and infected more than 90.",
+            "url": "https://www.reuters.com/article/us-china-health-hongkong-tycoon-idUSKCN20M1A1",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496410678&w=1200&r=LYNXNPEG1R0PV",
+            "publishedAt": "2020-02-28T09:34:02Z",
+            "content": "HONG KONG (Reuters) - A Hong Kong tycoon unveiled plans on Friday to produce 200,000 masks a day from April, to be handed out to residents of the Asian financial hub grappling with scarcity amid a coronavirus outbreak that has killed two people and infected m\u2026 [+657 chars]"
         },
         {
             "source": {
@@ -606,32 +606,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "U.N. chief says window for containment of coronavirus narrowing",
-            "description": "U.N. Secretary-General Antonio Guterres said on Friday that containment of the global spread of coronavirus was possible \"but the window of opportunity is narrowing.\"",
-            "url": "https://www.reuters.com/article/us-china-health-un-guterres-idUSKCN20M2SU",
-            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496606552&w=1200&r=LYNXNPEG1R1R1",
-            "publishedAt": "2020-02-28T18:07:47Z",
-            "content": "(Reuters) - U.N. Secretary-General Antonio Guterres said on Friday that containment of the global spread of coronavirus was possible \u201cbut the window of opportunity is narrowing.\u201d \r\n\u201cThis not a time for panic it is time to be prepared fully prepared,\u201d he told \u2026 [+243 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "U.S. offer to help Iran in dealing with coronavirus 'ridiculous': Iran foreign ministry spokesman",
-            "description": "America's offer to help Iran in dealing with coronavirus is \"ridiculous,\" Iran's foreign ministry spokesman Abbas Mousavi said on Friday, according to the Mehr news agency.",
-            "url": "https://www.reuters.com/article/us-china-health-iran-foreign-ministry-idUSKCN20M2WD",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496619732&w=1200&r=LYNXNPEG1R1TI",
-            "publishedAt": "2020-02-28T18:42:30Z",
-            "content": "DUBAI (Reuters) - America\u2019s offer to help Iran in dealing with coronavirus is \u201cridiculous,\u201d Iran\u2019s foreign ministry spokesman Abbas Mousavi said on Friday, according to the Mehr news agency. \r\nU.S. Secretary of State Mike Pompeo said the United States had off\u2026 [+471 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "U.S. Congress offices advised to set coronavirus contingency operations",
             "description": "Members of the U.S. House of Representatives on Friday were advised to establish plans for alternative work arrangements in case the coronavirus becomes widespread in the United States.",
             "url": "https://www.reuters.com/article/us-china-health-usa-house-idUSKCN20M33O",
@@ -658,12 +632,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "At least 210 people have died from coronavirus in Iran: BBC Persian",
-            "description": "At least 210 people have died from coronavirus in Iran, in various cities, as of Thursday night, BBC Persian reported on Friday, citing hospital sources.",
-            "url": "https://www.reuters.com/article/us-china-health-iran-casualties-idUSKCN20M2RL",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496602890&w=1200&r=LYNXNPEG1R1QV",
-            "publishedAt": "2020-02-28T17:58:34Z",
-            "content": "DUBAI (Reuters) - At least 210 people have died from coronavirus in Iran, in various cities, as of Thursday night, BBC Persian reported on Friday, citing hospital sources. \r\nAn Iranian health ministry spokesman said on Friday that 34 people have died in Iran \u2026 [+110 chars]"
+            "title": "U.N. chief says window for containment of coronavirus narrowing",
+            "description": "U.N. Secretary-General Antonio Guterres said on Friday that containment of the global spread of coronavirus was possible \"but the window of opportunity is narrowing.\"",
+            "url": "https://www.reuters.com/article/us-china-health-un-guterres-idUSKCN20M2SU",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496606552&w=1200&r=LYNXNPEG1R1R1",
+            "publishedAt": "2020-02-28T18:07:47Z",
+            "content": "(Reuters) - U.N. Secretary-General Antonio Guterres said on Friday that containment of the global spread of coronavirus was possible \u201cbut the window of opportunity is narrowing.\u201d \r\n\u201cThis not a time for panic it is time to be prepared fully prepared,\u201d he told \u2026 [+243 chars]"
         },
         {
             "source": {
@@ -671,12 +645,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Lufthansa to cut flight capacity due to coronavirus spread",
-            "description": "German airline group Lufthansa said it will cut the number of short- and medium-haul flights in response to the accelerated spread of the coronavirus.",
-            "url": "https://www.reuters.com/article/us-china-health-lufthansa-idUSKCN20M2U7",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496611533&w=1200&r=LYNXNPEG1R1RR",
-            "publishedAt": "2020-02-28T18:21:18Z",
-            "content": "FRANKFURT (Reuters) - German airline group Lufthansa (LHAG.DE) said it will cut the number of short- and medium-haul flights in response to the accelerated spread of the coronavirus. \r\n\u201cWithin the coming weeks, the number of short- and medium-haul flights wil\u2026 [+602 chars]"
+            "title": "U.S. offer to help Iran in dealing with coronavirus 'ridiculous': Iran foreign ministry spokesman",
+            "description": "America's offer to help Iran in dealing with coronavirus is \"ridiculous,\" Iran's foreign ministry spokesman Abbas Mousavi said on Friday, according to the Mehr news agency.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-foreign-ministry-idUSKCN20M2WD",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496619732&w=1200&r=LYNXNPEG1R1TI",
+            "publishedAt": "2020-02-28T18:42:30Z",
+            "content": "DUBAI (Reuters) - America\u2019s offer to help Iran in dealing with coronavirus is \u201cridiculous,\u201d Iran\u2019s foreign ministry spokesman Abbas Mousavi said on Friday, according to the Mehr news agency. \r\nU.S. Secretary of State Mike Pompeo said the United States had off\u2026 [+471 chars]"
         },
         {
             "source": {
@@ -709,19 +683,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Emilio Parodi",
-            "title": "As coronavirus slams Italy, paralysis and anxiety spread",
-            "description": "At the epicenter of Europe's worst outbreak of coronavirus to date, daily lives have taken on an eerie, aimless calm. It's at night that the worry takes over.",
-            "url": "https://www.reuters.com/article/us-china-health-italy-paralysis-insight-idUSKCN20M2WB",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496619745&w=1200&r=LYNXNPEG1R1TP",
-            "publishedAt": "2020-02-28T18:43:26Z",
-            "content": "MILAN (Reuters) - At the epicenter of Europe\u2019s worst outbreak of coronavirus to date, daily lives have taken on an eerie, aimless calm. It\u2019s at night that the worry takes over. \r\n\u201cYou can hear the ambulances coming and going, and maybe they\u2019re going to sick p\u2026 [+10532 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": "Reuters Editorial",
             "title": "Iran health ministry spokesman rejects BBC Persian report of 210 deaths from coronavirus",
             "description": "Iran's health ministry spokesman in a tweet on Friday rejected a report by BBC Persian that at least 210 people have died from coronavirus in the country.",
@@ -729,6 +690,19 @@
             "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496612972&w=1200&r=LYNXNPEG1R1S1",
             "publishedAt": "2020-02-28T18:26:40Z",
             "content": "DUBAI (Reuters) - Iran\u2019s health ministry spokesman in a tweet on Friday rejected a report by BBC Persian that at least 210 people have died from coronavirus in the country. \r\nThe spokesman, Kianush Jahanpur, announced earlier in the day that 34 people have di\u2026 [+93 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Emilio Parodi",
+            "title": "As coronavirus slams Italy, paralysis and anxiety spread",
+            "description": "At the epicenter of Europe's worst outbreak of coronavirus to date, daily lives have taken on an eerie, aimless calm. It's at night that the worry takes over.",
+            "url": "https://www.reuters.com/article/us-china-health-italy-paralysis-insight-idUSKCN20M2WB",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496619745&w=1200&r=LYNXNPEG1R1TP",
+            "publishedAt": "2020-02-28T18:43:26Z",
+            "content": "MILAN (Reuters) - At the epicenter of Europe\u2019s worst outbreak of coronavirus to date, daily lives have taken on an eerie, aimless calm. It\u2019s at night that the worry takes over. \r\n\u201cYou can hear the ambulances coming and going, and maybe they\u2019re going to sick p\u2026 [+10532 chars]"
         },
         {
             "source": {
@@ -749,12 +723,25 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Almost 60 confirmed cases of coronavirus in Germany: Health Ministry spokeswoman",
-            "description": "There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again.",
-            "url": "https://www.reuters.com/article/us-china-health-ministry-idUSKCN20M1I5",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-28T10:53:26Z",
-            "content": "BERLIN (Reuters) - There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again. \r\nAsked how many confirmed cases of coronavirus in Germany t\u2026 [+179 chars]"
+            "title": "Lufthansa to cut flight capacity due to coronavirus spread",
+            "description": "German airline group Lufthansa said it will cut the number of short- and medium-haul flights in response to the accelerated spread of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-lufthansa-idUSKCN20M2U7",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496611533&w=1200&r=LYNXNPEG1R1RR",
+            "publishedAt": "2020-02-28T18:21:18Z",
+            "content": "FRANKFURT (Reuters) - German airline group Lufthansa (LHAG.DE) said it will cut the number of short- and medium-haul flights in response to the accelerated spread of the coronavirus. \r\n\u201cWithin the coming weeks, the number of short- and medium-haul flights wil\u2026 [+602 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "At least 210 people have died from coronavirus in Iran: BBC Persian",
+            "description": "At least 210 people have died from coronavirus in Iran, in various cities, as of Thursday night, BBC Persian reported on Friday, citing hospital sources.",
+            "url": "https://www.reuters.com/article/us-china-health-iran-casualties-idUSKCN20M2RL",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496602890&w=1200&r=LYNXNPEG1R1QV",
+            "publishedAt": "2020-02-28T17:58:34Z",
+            "content": "DUBAI (Reuters) - At least 210 people have died from coronavirus in Iran, in various cities, as of Thursday night, BBC Persian reported on Friday, citing hospital sources. \r\nAn Iranian health ministry spokesman said on Friday that 34 people have died in Iran \u2026 [+110 chars]"
         },
         {
             "source": {
@@ -781,6 +768,19 @@
             "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496662470&w=1200&r=LYNXNPEG1R212",
             "publishedAt": "2020-02-28T20:39:40Z",
             "content": "FRANKFURT (Reuters) - A German government crisis committee on Friday enacted new measures to combat the coronavirus outbreak that include the widening of cross-border travel guidelines and the cancellation of major international events. \r\nIt expanded regulati\u2026 [+250 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Almost 60 confirmed cases of coronavirus in Germany: Health Ministry spokeswoman",
+            "description": "There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again.",
+            "url": "https://www.reuters.com/article/us-china-health-ministry-idUSKCN20M1I5",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-28T10:53:26Z",
+            "content": "BERLIN (Reuters) - There are almost 60 confirmed cases of coronavirus in Germany, a spokeswoman for the Health Ministry said on Friday, adding that number included people who were now healthy again. \r\nAsked how many confirmed cases of coronavirus in Germany t\u2026 [+179 chars]"
         },
         {
             "source": {
@@ -865,19 +865,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "China appoints new deputy party secretary in Shanghai",
-            "description": "China's Communist Party's ruling Central Committee named a new deputy party secretary for Shanghai on Friday, after the previous deputy party secretary Ying Yong was transferred to head Hubei province to lead the fight against the coronavirus epidemic.",
-            "url": "https://www.reuters.com/article/us-china-health-shanghai-idUSKCN20M03X",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496239264&w=1200&r=LYNXNPEG1R02K",
-            "publishedAt": "2020-02-28T01:13:30Z",
-            "content": "BEIJING (Reuters) - China\u2019s Communist Party\u2019s ruling Central Committee named a new deputy party secretary for Shanghai on Friday, after the previous deputy party secretary Ying Yong was transferred to head Hubei province to lead the fight against the coronavi\u2026 [+224 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": null,
             "title": "Quarantine measures taken at two Abu Dhabi hotels after Italian guests contract coronavirus: WAM",
             "description": "Guests at two Abu Dhabi hotels who interacted with two Italians diagnosed with coronavirus have been placed under quarantine in the hotels, the state news agency of the United Arab Emirates WAM reported on Friday.",
@@ -898,6 +885,45 @@
             "urlToImage": null,
             "publishedAt": "2020-02-28T13:40:50Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China appoints new deputy party secretary in Shanghai",
+            "description": "China's Communist Party's ruling Central Committee named a new deputy party secretary for Shanghai on Friday, after the previous deputy party secretary Ying Yong was transferred to head Hubei province to lead the fight against the coronavirus epidemic.",
+            "url": "https://www.reuters.com/article/us-china-health-shanghai-idUSKCN20M03X",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496239264&w=1200&r=LYNXNPEG1R02K",
+            "publishedAt": "2020-02-28T01:13:30Z",
+            "content": "BEIJING (Reuters) - China\u2019s Communist Party\u2019s ruling Central Committee named a new deputy party secretary for Shanghai on Friday, after the previous deputy party secretary Ying Yong was transferred to head Hubei province to lead the fight against the coronavi\u2026 [+224 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Rebecca Spalding",
+            "title": "Biotechnology trade group taps former Biogen CEO as its coronavirus czar",
+            "description": "The Biotechnology Innovation Organization (BIO), the biotechnology industry's largest trade association, told Reuters on Friday that former Biogen Inc CEO George Scangos would coordinate its response to the global coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-biotechnology-scangos-idUSKCN20M3EI",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-28T23:48:07Z",
+            "content": "(Reuters) - The Biotechnology Innovation Organization (BIO), the biotechnology industry\u2019s largest trade association, told Reuters on Friday that former Biogen Inc (BIIB.O) CEO George Scangos would coordinate its response to the global coronavirus outbreak. \r\n\u2026 [+1972 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Lebanon says schools to be closed from Feb. 29-March 8 amid coronavirus: education ministry statement",
+            "description": "Lebanon announced on Friday it was closing the country's schools effective Feb. 29 until March 8 as a precautionary measure against the spread of coronavirus, an education ministry statement said.",
+            "url": "https://www.reuters.com/article/us-china-health-lebanon-education-idUSKCN20M341",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496661274&w=1200&r=LYNXNPEG1R20W",
+            "publishedAt": "2020-02-28T20:36:12Z",
+            "content": "BEIRUT (Reuters) - Lebanon announced on Friday it was closing the country\u2019s schools effective Feb. 29 until March 8 as a precautionary measure against the spread of coronavirus, an education ministry statement said. \r\nLebanon on Friday confirmed the country\u2019s\u2026 [+143 chars]"
         },
         {
             "source": {
@@ -930,26 +956,13 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "Lebanon says schools to be closed from Feb. 29-March 8 amid coronavirus: education ministry statement",
-            "description": "Lebanon announced on Friday it was closing the country's schools effective Feb. 29 until March 8 as a precautionary measure against the spread of coronavirus, an education ministry statement said.",
-            "url": "https://www.reuters.com/article/us-china-health-lebanon-education-idUSKCN20M341",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496661274&w=1200&r=LYNXNPEG1R20W",
-            "publishedAt": "2020-02-28T20:36:12Z",
-            "content": "BEIRUT (Reuters) - Lebanon announced on Friday it was closing the country\u2019s schools effective Feb. 29 until March 8 as a precautionary measure against the spread of coronavirus, an education ministry statement said. \r\nLebanon on Friday confirmed the country\u2019s\u2026 [+143 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "David Stanway",
-            "title": "Explainer: Coronavirus reappears in discharged patients, raising questions in containment fight",
-            "description": "A growing number of discharged coronavirus patients in China and elsewhere are testing positive after recovering, sometimes weeks after being allowed to leave the hospital, which could make the epidemic harder to eradicate.",
-            "url": "https://www.reuters.com/article/us-china-health-reinfection-explainer-idUSKCN20M124",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496388247&w=1200&r=LYNXNPEG1R0MR",
-            "publishedAt": "2020-02-28T08:30:58Z",
-            "content": "SHANGHAI/LONDON (Reuters) - A growing number of discharged coronavirus patients in China and elsewhere are testing positive after recovering, sometimes weeks after being allowed to leave the hospital, which could make the epidemic harder to eradicate. \r\nOn We\u2026 [+4246 chars]"
+            "author": "Joyce Zhou",
+            "title": "Hong Kongers turn out for indie club's last performance as coronavirus forces closure",
+            "description": "Hundreds of Hong Kongers sporting face masks pulsated under strobe lights at a reknowned indie club for the last time on Thursday as cancellations by performers due to the coronavirus have forced the venue to close.",
+            "url": "https://www.reuters.com/article/us-china-health-hongkong-nightlife-idUSKCN20M1MX",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496455236&w=1200&r=LYNXNPEG1R0YP",
+            "publishedAt": "2020-02-28T11:31:46Z",
+            "content": "HONG KONG (Reuters) - Hundreds of Hong Kongers sporting face masks pulsated under strobe lights at a reknowned indie club for the last time on Thursday as cancellations by performers due to the coronavirus have forced the venue to close. \r\nThe music house kno\u2026 [+2669 chars]"
         },
         {
             "source": {
@@ -969,6 +982,19 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
+            "author": "David Stanway",
+            "title": "Explainer: Coronavirus reappears in discharged patients, raising questions in containment fight",
+            "description": "A growing number of discharged coronavirus patients in China and elsewhere are testing positive after recovering, sometimes weeks after being allowed to leave the hospital, which could make the epidemic harder to eradicate.",
+            "url": "https://www.reuters.com/article/us-china-health-reinfection-explainer-idUSKCN20M124",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496388247&w=1200&r=LYNXNPEG1R0MR",
+            "publishedAt": "2020-02-28T08:30:58Z",
+            "content": "SHANGHAI/LONDON (Reuters) - A growing number of discharged coronavirus patients in China and elsewhere are testing positive after recovering, sometimes weeks after being allowed to leave the hospital, which could make the epidemic harder to eradicate. \r\nOn We\u2026 [+4246 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
             "author": "Reuters Editorial",
             "title": "North Korea leader Kim oversees military drills, holds meeting to discuss virus: KCNA",
             "description": "North Korean leader Kim Jong Un oversaw military drills on Friday, state media KCNA said on Saturday, a rare public outing amid efforts to prevent an outbreak of the coronavirus in the isolated country.",
@@ -976,19 +1002,6 @@
             "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496686619&w=1200&r=LYNXNPEG1R22Y",
             "publishedAt": "2020-02-28T21:45:28Z",
             "content": "SEOUL (Reuters) - North Korean leader Kim Jong Un oversaw military drills on Friday, state media KCNA said on Saturday, a rare public outing amid efforts to prevent an outbreak of the coronavirus in the isolated country. \r\nKim also held a meeting of the rulin\u2026 [+182 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Joyce Zhou",
-            "title": "Hong Kongers turn out for indie club's last performance as coronavirus forces closure",
-            "description": "Hundreds of Hong Kongers sporting face masks pulsated under strobe lights at a reknowned indie club for the last time on Thursday as cancellations by performers due to the coronavirus have forced the venue to close.",
-            "url": "https://www.reuters.com/article/us-china-health-hongkong-nightlife-idUSKCN20M1MX",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496455236&w=1200&r=LYNXNPEG1R0YP",
-            "publishedAt": "2020-02-28T11:31:46Z",
-            "content": "HONG KONG (Reuters) - Hundreds of Hong Kongers sporting face masks pulsated under strobe lights at a reknowned indie club for the last time on Thursday as cancellations by performers due to the coronavirus have forced the venue to close. \r\nThe music house kno\u2026 [+2669 chars]"
         },
         {
             "source": {
@@ -1035,6 +1048,19 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
+            "title": "Geneva car show canceled due to corona woes",
+            "description": "The Geneva car show that was set to begin next week has been canceled, organizers Palexpo said on Friday, blaming Swiss government heath measures designed to contain coronavirus.",
+            "url": "https://www.reuters.com/article/us-autoshow-geneva-cancellation-idUSKCN20M1NH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-02-28T11:33:47Z",
+            "content": "FRANKFURT (Reuters) - The Geneva car show that was set to begin next week has been canceled, organizers Palexpo said on Friday, blaming Swiss government heath measures designed to contain coronavirus. \r\nSwitzerland on Friday banned large events expected to dr\u2026 [+510 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
             "title": "Bullard: Fed already insured against shocks like coronavirus",
             "description": "The Federal Reserve has already insured against shocks like the coronavirus, St. Louis Federal Reserve bank president James Bullard said on Friday.",
             "url": "https://www.reuters.com/article/us-usa-fed-bullard-rates-idUSKCN20M2BC",
@@ -1054,19 +1080,6 @@
             "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
             "publishedAt": "2020-02-28T17:02:06Z",
             "content": "ROME (Reuters) - Italy\u2019s flagship carrier Alitalia said on Friday it was reducing flights on 38 national and international routes because coronavirus was leading to fewer passengers. \r\nThe carrier said in a statement seats on the domestic Genoa-Rome route wer\u2026 [+121 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Geneva car show canceled due to corona woes",
-            "description": "The Geneva car show that was set to begin next week has been canceled, organizers Palexpo said on Friday, blaming Swiss government heath measures designed to contain coronavirus.",
-            "url": "https://www.reuters.com/article/us-autoshow-geneva-cancellation-idUSKCN20M1NH",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-02-28T11:33:47Z",
-            "content": "FRANKFURT (Reuters) - The Geneva car show that was set to begin next week has been canceled, organizers Palexpo said on Friday, blaming Swiss government heath measures designed to contain coronavirus. \r\nSwitzerland on Friday banned large events expected to dr\u2026 [+510 chars]"
         },
         {
             "source": {
@@ -1112,19 +1125,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "EasyJet warns of softer Italian demand in wake of coronavirus",
-            "description": "British budget airline easyJet warned on Friday it had seen a significant softening of demand and load factors into and out of its northern Italian bases and slower demand in other European markets due to coronavirus.",
-            "url": "https://www.reuters.com/article/us-china-health-easyjet-idUSKCN20M0U5",
-            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496362122&w=1200&r=LYNXNPEG1R0IA",
-            "publishedAt": "2020-02-28T07:19:58Z",
-            "content": "LONDON (Reuters) - British budget airline easyJet (EZJ.L) warned on Friday it had seen a significant softening of demand and load factors into and out of its northern Italian bases and slower demand in other European markets due to coronavirus. \r\nAs a result \u2026 [+400 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": "Abhinav Ramnarayan",
             "title": "As coronavirus fears grow, private equity eyes distressed investments",
             "description": "Major private equity firms, which have built up big distressed debt funds in recent years, are ready to snap up assets on the cheap if the coronavirus outbreak causes deeper market disruptions, executives told an industry meeting this week.",
@@ -1132,6 +1132,19 @@
             "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496550644&w=1200&r=LYNXNPEG1R1HL",
             "publishedAt": "2020-02-28T15:38:13Z",
             "content": "BERLIN (Reuters) - Major private equity firms, which have built up big distressed debt funds in recent years, are ready to snap up assets on the cheap if the coronavirus outbreak causes deeper market disruptions, executives told an industry meeting this week.\u2026 [+3817 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "EasyJet warns of softer Italian demand in wake of coronavirus",
+            "description": "British budget airline easyJet warned on Friday it had seen a significant softening of demand and load factors into and out of its northern Italian bases and slower demand in other European markets due to coronavirus.",
+            "url": "https://www.reuters.com/article/us-china-health-easyjet-idUSKCN20M0U5",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496362122&w=1200&r=LYNXNPEG1R0IA",
+            "publishedAt": "2020-02-28T07:19:58Z",
+            "content": "LONDON (Reuters) - British budget airline easyJet (EZJ.L) warned on Friday it had seen a significant softening of demand and load factors into and out of its northern Italian bases and slower demand in other European markets due to coronavirus. \r\nAs a result \u2026 [+400 chars]"
         },
         {
             "source": {
@@ -1177,19 +1190,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Liz Lee",
-            "title": "Malaysia's AirAsia X defers A330neo deliveries as coronavirus crimps demand",
-            "description": "Malaysian long-haul budget airline AirAsia X Bhd said it will defer delivery of 78 Airbus SE A330neo planes and consider other changes to reduce its fleet as the coronavirus dents demand.",
-            "url": "https://www.reuters.com/article/us-airasia-group-results-idUSKCN20L1NX",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496304951&w=1200&r=LYNXNPEG1Q0X4",
-            "publishedAt": "2020-02-28T04:29:02Z",
-            "content": "KUALA LUMPUR/SYDNEY (Reuters) - Malaysian long-haul budget airline AirAsia X Bhd (AIRX.KL) said it will defer delivery of 78 Airbus SE (AIR.PA) A330neo planes and consider other changes to reduce its fleet as the coronavirus dents demand. \r\nAirAsia X said lat\u2026 [+2159 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": "Reuters Editorial",
             "title": "China's big airlines resume some global flights halted by coronavirus",
             "description": "China's three biggest airlines have restored a fraction of the international flights they halted in the wake of a coronavirus outbreak, heeding a call from the aviation regulator as business activity recovers slowly.",
@@ -1197,6 +1197,19 @@
             "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496423975&w=1200&r=LYNXNPEG1R0SJ",
             "publishedAt": "2020-02-28T10:10:17Z",
             "content": "BEIJING (Reuters) - China\u2019s three biggest airlines have restored a fraction of the international flights they halted in the wake of a coronavirus outbreak, heeding a call from the aviation regulator as business activity recovers slowly. \r\nAir China (601111.SS\u2026 [+971 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Liz Lee",
+            "title": "Malaysia's AirAsia X defers A330neo deliveries as coronavirus crimps demand",
+            "description": "Malaysian long-haul budget airline AirAsia X Bhd said it will defer delivery of 78 Airbus SE A330neo planes and consider other changes to reduce its fleet as the coronavirus dents demand.",
+            "url": "https://www.reuters.com/article/us-airasia-group-results-idUSKCN20L1NX",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496304951&w=1200&r=LYNXNPEG1Q0X4",
+            "publishedAt": "2020-02-28T04:29:02Z",
+            "content": "KUALA LUMPUR/SYDNEY (Reuters) - Malaysian long-haul budget airline AirAsia X Bhd (AIRX.KL) said it will defer delivery of 78 Airbus SE (AIR.PA) A330neo planes and consider other changes to reduce its fleet as the coronavirus dents demand. \r\nAirAsia X said lat\u2026 [+2159 chars]"
         },
         {
             "source": {
@@ -1229,26 +1242,13 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "Take Five: The virus data fog",
-            "description": "We'll soon get the first proper glimpse at the economic damage the coronavirus is inflicting. China's official Purchasing Managers' Index is due on Saturday, and is expected to show the sharpest manufacturing contraction since the 2008 global financial crisis.",
-            "url": "https://www.reuters.com/article/us-global-markets-themes-idUSKCN20M2HG",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496569406&w=1200&r=LYNXNPEG1R1KD",
-            "publishedAt": "2020-02-28T16:24:18Z",
-            "content": "LONDON (Reuters) - 1/DATA DIAGNOSIS \r\nWe\u2019ll soon get the first proper glimpse at the economic damage the coronavirus is inflicting. China\u2019s official Purchasing Managers\u2019 Index is due on Saturday, and is expected to show the sharpest manufacturing contraction \u2026 [+5217 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Goldman expects 75 bps of Fed rate cuts by June",
-            "description": "Goldman Sachs expects the coronavirus to drive the Federal Reserve to cut U.S. interest rates by 75 basis points by June it said on Friday, implying as many as three cuts starting at its next meeting in March.",
-            "url": "https://www.reuters.com/article/us-usa-fed-goldman-idUSKCN20M2NV",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496589592&w=1200&r=LYNXNPEG1R1OG",
-            "publishedAt": "2020-02-28T17:14:09Z",
-            "content": "LONDON (Reuters) - Goldman Sachs expects the coronavirus to drive the Federal Reserve to cut U.S. interest rates by 75 basis points by June it said on Friday, implying as many as three cuts starting at its next meeting in March. \r\nTraders are pricing in a 72%\u2026 [+794 chars]"
+            "author": "Francesco Canepa",
+            "title": "ECB rate setters see no need for action as coronavirus spreads",
+            "description": "The European Central Bank does not need to take immediate action in response to the coronavirus epidemic, two ECB policymakers said on Friday, confounding market bets on a rate cut.",
+            "url": "https://www.reuters.com/article/us-china-health-bundesbank-ecb-idUSKCN20M1SU",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496476155&w=1200&r=LYNXNPEG1R12T",
+            "publishedAt": "2020-02-28T12:22:40Z",
+            "content": "FRANKFURT/BRUSSELS (Reuters) - The European Central Bank does not need to take immediate action in response to the coronavirus epidemic, two ECB policymakers said on Friday, confounding market bets on a rate cut. \r\nThe central bank governors of Germany and Li\u2026 [+2092 chars]"
         },
         {
             "source": {
@@ -1268,39 +1268,39 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Francesco Canepa",
-            "title": "ECB rate setters see no need for action as coronavirus spreads",
-            "description": "The European Central Bank does not need to take immediate action in response to the coronavirus epidemic, two ECB policymakers said on Friday, confounding market bets on a rate cut.",
-            "url": "https://www.reuters.com/article/us-china-health-bundesbank-ecb-idUSKCN20M1SU",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496476155&w=1200&r=LYNXNPEG1R12T",
-            "publishedAt": "2020-02-28T12:22:40Z",
-            "content": "FRANKFURT/BRUSSELS (Reuters) - The European Central Bank does not need to take immediate action in response to the coronavirus epidemic, two ECB policymakers said on Friday, confounding market bets on a rate cut. \r\nThe central bank governors of Germany and Li\u2026 [+2092 chars]"
+            "author": "Reuters Editorial",
+            "title": "Goldman expects 75 bps of Fed rate cuts by June",
+            "description": "Goldman Sachs expects the coronavirus to drive the Federal Reserve to cut U.S. interest rates by 75 basis points by June it said on Friday, implying as many as three cuts starting at its next meeting in March.",
+            "url": "https://www.reuters.com/article/us-usa-fed-goldman-idUSKCN20M2NV",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496589592&w=1200&r=LYNXNPEG1R1OG",
+            "publishedAt": "2020-02-28T17:14:09Z",
+            "content": "LONDON (Reuters) - Goldman Sachs expects the coronavirus to drive the Federal Reserve to cut U.S. interest rates by 75 basis points by June it said on Friday, implying as many as three cuts starting at its next meeting in March. \r\nTraders are pricing in a 72%\u2026 [+794 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Thyagaraju Adinarayan",
-            "title": "Going viral: Six charts and the $6 trillion loss",
-            "description": "The rapid worldwide spread of coronavirus and the economic implications of the outbreak have triggered the biggest weekly stock market rout since the 2008 financial crisis, wiping $6 trillion off global equities.",
-            "url": "https://www.reuters.com/article/us-china-health-markets-global-idUSKCN20M2F6",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496565240&w=1200&r=LYNXNPEG1R1JT",
-            "publishedAt": "2020-02-28T16:12:29Z",
-            "content": "LONDON (Reuters) - Capitulation? Perhaps. \r\nThe rapid worldwide spread of coronavirus and the economic implications of the outbreak have triggered the biggest weekly stock market rout since the 2008 financial crisis, wiping $6 trillion off global equities. \r\n\u2026 [+2960 chars]"
+            "author": "Reuters Editorial",
+            "title": "Take Five: The virus data fog",
+            "description": "We'll soon get the first proper glimpse at the economic damage the coronavirus is inflicting. China's official Purchasing Managers' Index is due on Saturday, and is expected to show the sharpest manufacturing contraction since the 2008 global financial crisis.",
+            "url": "https://www.reuters.com/article/us-global-markets-themes-idUSKCN20M2HG",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496569406&w=1200&r=LYNXNPEG1R1KD",
+            "publishedAt": "2020-02-28T16:24:18Z",
+            "content": "LONDON (Reuters) - 1/DATA DIAGNOSIS \r\nWe\u2019ll soon get the first proper glimpse at the economic damage the coronavirus is inflicting. China\u2019s official Purchasing Managers\u2019 Index is due on Saturday, and is expected to show the sharpest manufacturing contraction \u2026 [+5217 chars]"
         },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Anshuman Daga",
-            "title": "Lion Air puts $500 million IPO on hold as global equity markets tumble: sources",
-            "description": "Indonesia's Lion Air has deferred plans for an initial public offering (IPO) due to a sharp fall in global stock markets, people close to the matter said on Friday, as the spreading coronavirus sparks worries of a global pandemic.",
-            "url": "https://www.reuters.com/article/us-china-health-lion-air-ipo-idUSKCN20M0PL",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496346630&w=1200&r=LYNXNPEG1R0FM",
-            "publishedAt": "2020-02-28T06:36:31Z",
-            "content": "SINGAPORE/HONG KONG (Reuters) - Indonesia\u2019s Lion Air has deferred plans for an initial public offering (IPO) due to a sharp fall in global stock markets, people close to the matter said on Friday, as the spreading coronavirus sparks worries of a global pandem\u2026 [+2123 chars]"
+            "author": "Reuters Editorial",
+            "title": "Uniqlo reopens more China stores, most partner factories restart",
+            "description": "Fast Retailing <983.T>, which operates casual clothing chain Uniqlo, said on Friday it had reopened more than 100 stores in China in the past week, while 125 remained closed due to the coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-uniqlo-idUSKCN20M0RQ",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200228&t=2&i=1496354045&w=1200&r=LYNXNPEG1R0HA",
+            "publishedAt": "2020-02-28T06:58:58Z",
+            "content": "TOKYO (Reuters) - Fast Retailing 983.T, which operates casual clothing chain Uniqlo, said on Friday it had reopened more than 100 stores in China in the past week, while 125 remained closed due to the coronavirus outbreak. \r\nThe company operates 750 Uniqlo st\u2026 [+1138 chars]"
         }
     ]
 }

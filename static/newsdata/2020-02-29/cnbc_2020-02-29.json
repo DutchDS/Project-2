@@ -1,0 +1,422 @@
+{
+    "status": "ok",
+    "totalResults": 32,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Thomas Franck",
+            "title": "Trump calls for lower rates amid coronavirus fallout: 'We need a Fed that's going to be a leader'",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/02/29/we-need-a-fed-thats-going-to-be-a-leader-trump-calls-for-debt-refinancing-amid-coronavirus-fallout.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105306732-1530541742841trump_fed.jpg?v=1530541837",
+            "publishedAt": "2020-02-29T18:41:48Z",
+            "content": "This is breaking news. Please check back for updates.\r\nPresident \u00a0on Saturday doubled down on his criticism of the Federal Reserve and what he sees as its reluctance to lower interest rates in the midst of coronavirus fears and its potential impact on the Ame\u2026 [+2216 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Bertha Coombs",
+            "title": "Health care stocks see worst week in two decades",
+            "description": "Part of investors' worries surround the uncertainty over the potential impact of a widespread Covid-19 outbreak in the United States. But that's not all that's worrying investors.",
+            "url": "https://www.cnbc.com/2020/02/28/health-care-stocks-see-worst-week-in-two-decades.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106414665-1582844326296gettyimages-1203739611.jpeg?v=1582844438",
+            "publishedAt": "2020-02-29T15:01:00Z",
+            "content": "A man wears a facemask while pushing his shopping cart in Alhambra, California on February 27, 2020.\r\nThis week's market sell-off over coronavirus fears hit health insurance and hospital stocks especially hard. The S&amp;P 500 Managed Health Care sector had i\u2026 [+4655 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Noah Higgins-Dunn",
+            "title": "New coronavirus case in California is 'evidence of community transmission,' county health officials say",
+            "description": "The Santa Clara Public Health Department announced a third case of coronavirus in the county possibly transmitted through community spread, which brings the total number of coronavirus cases in California to 10 and the total number of cases in the U.S. to 63.",
+            "url": "https://www.cnbc.com/2020/02/28/coronavirus-california-health-officials-confirm-second-us-case-of-unknown-origin.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106414665-1582844326296gettyimages-1203739611.jpeg?v=1582844438",
+            "publishedAt": "2020-02-29T00:36:14Z",
+            "content": "The Santa Clara Public Health Department confirmed Friday the nation's second coronavirus patient with no relevant travel history or clear link to another infected person or at-risk group, indicating that the virus may be spreading undetected in local communi\u2026 [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Greek police fire teargas on migrants at border with Turkey",
+            "description": "Greek police fired teargas toward migrants who were gathered on its border with Turkey and demanding entry on Saturday.",
+            "url": "https://www.cnbc.com/2020/02/29/greek-police-fire-teargas-on-migrants-at-border-with-turkey.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106417297-1582970818933gettyimages-1204098242.jpg?v=1582970875",
+            "publishedAt": "2020-02-29T10:08:00Z",
+            "content": "Greek police fired teargas toward migrants who were gathered on its border with Turkey and demanding entry on Saturday, as a crisis over Syria abruptly moved onto the European Union's doorstep. \r\n The Greek government reiterated its promise to keep migrants o\u2026 [+2523 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Thomas Franck",
+            "title": "Trump says the coronavirus is the Democrats' 'new hoax'",
+            "description": "President Donald Trump spoke on Friday from a campaign rally in North Charleston, South Carolina.",
+            "url": "https://www.cnbc.com/2020/02/28/trump-says-the-coronavirus-is-the-democrats-new-hoax.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106331207-1578687282899gettyimages-1192765367.jpeg?v=1582935118",
+            "publishedAt": "2020-02-29T00:38:32Z",
+            "content": "This is breaking news. Please check back for updates.\r\nPresident Donald Trump said Friday that Democrats are using the virulent coronavirus as a \"hoax\" to damage him and his administration.\r\n\"The Democrats are politicizing the coronavirus,\" he said from a cam\u2026 [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Automakers are 'scrambling' for parts and preparing war rooms as coronavirus spreads",
+            "description": "Auto companies have established task forces and war rooms to monitor and combat the coronavirus from impacting their manufacturing, supply chains and employees.",
+            "url": "https://www.cnbc.com/2020/02/29/automakes-scramble-for-parts-prepare-war-rooms-as-coronavirus-spreads.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105745179-1550462956908gettyimages-1129579552.jpeg?v=1582260109",
+            "publishedAt": "2020-02-29T15:14:26Z",
+            "content": "Cars wait for shipping overseas at Lianyungang Port on February 14, 2019 in Lianyungang, Jiangsu Province of China.\r\nAutomakers are scrambling to find parts and prevent shortages in their supply chains as the spread of the coronavirus rattles markets and thre\u2026 [+6348 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Buy stocks slowly \u2014 'we're getting closer to a bottom,' Jim Cramer says",
+            "description": "\"I'm urging you to have a lot of cash on the sidelines and put money to work gradually 'cause there may be more bad [coronavirus] stories\" next week, the \"Mad Money\" host said.",
+            "url": "https://www.cnbc.com/2020/02/28/jim-cramer-buy-stocks-slowly-were-getting-closer-to-a-bottom.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102422462-financial-data-female.jpg?v=1582928765",
+            "publishedAt": "2020-02-29T00:17:03Z",
+            "content": "Wall Street is in deep correction territory, stocks have been discounted and the embargo on putting money in securities is now over after a tough week of trading shrouded in coronavirus uncertainty, CNBC's Jim Cramer said Friday.\r\n\"We've had back-to-back days\u2026 [+2529 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kif Leswing",
+            "title": "Game Developers Conference postpones March event because of coronavirus",
+            "description": "The San Francisco conference was scheduled for March 16 through March 20. GDC organizers didn't announce new dates.",
+            "url": "https://www.cnbc.com/2020/02/28/game-developers-conference-postpones-march-event-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105955079-1559917514063gettyimages-1137144231.jpeg?v=1559917651",
+            "publishedAt": "2020-02-29T00:24:00Z",
+            "content": "Game Developers Conference, a major annual event for video game programmers and designers in San Francisco, has been postponed due to concerns around the spread of the coronavirus, organizers said in a statement on Friday.\r\nThe conference was scheduled for Ma\u2026 [+1541 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sarah Whitten",
+            "title": "Coronavirus travel restrictions make buying tickets for plays, concerts and sporting events a tough call",
+            "description": "Travel restrictions aimed at stemming the spread of coronavirus are sparking worries about lower attendance and ticket sales at sporting events and concerts, members of the ticketing industry said.",
+            "url": "https://www.cnbc.com/2020/02/29/coronavirus-travel-restrictions-to-hit-concert-and-sports-venues.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106313659-1577469448973gettyimages-671712025.jpg?v=1577469500",
+            "publishedAt": "2020-02-29T17:01:01Z",
+            "content": "Travel restrictions aimed at stemming the spread of coronavirus are sparking worries about lower attendance and ticket sales at sporting events and concerts, members of the ticketing industry said.\r\nIt's the combination of people not being able to travel and \u2026 [+5402 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Here's how the pros are navigating the wild swings in the stock market",
+            "description": "CNBC spoke with two professionals navigating these wild market swings.",
+            "url": "https://www.cnbc.com/2020/02/29/heres-how-the-pros-are-navigating-the-wild-swings-in-the-stock-market.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106415956-1582904522026nyse.jpg?v=1582904593",
+            "publishedAt": "2020-02-29T17:33:00Z",
+            "content": "Concerns over the coronavirus' impact on corporate earnings and the global economy sent stocks careening lower this week, spooking near-term traders and long-term investors alike.\r\nThe Dow Jones Industrial Average and S&amp;P 500\u00a0each plummeted more than 11% \u2026 [+686 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Coronavirus live updates: France bans large gatherings, US cases raise concern over local transmission",
+            "description": "The French government banned public gatherings with more than 5,000 people on Saturday.",
+            "url": "https://www.cnbc.com/2020/02/29/coronavirus-live-updates-france-bans-large-gatherings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106369130-1580655448721gettyimages-1197805992.jpeg?v=1582986194",
+            "publishedAt": "2020-02-29T14:35:39Z",
+            "content": "A couple wearing a mask in front of the Eiffel Tower.\r\nThis is a live blog. Please check back for updates.\r\nAll times below are in Eastern Standard time.\r\n<ul><li>Total confirmed cases: More than 85,000</li><li>Total deaths: At least 2,933</li></ul>\r\n9:26 am:\u2026 [+2645 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Thomas Franck",
+            "title": "The Dow is up 38% since Trump's election, down from 61% in a matter of days amid sell-off",
+            "description": "What was once a 61% Dow gain just 16 days ago on Feb. 12 has eroded to a far thinner 38.6% rally as the index fell from an all-time high.",
+            "url": "https://www.cnbc.com/2020/02/29/the-dow-is-up-38percent-since-trumps-election-down-from-61percent-in-a-matter-of-days-amid-sell-off.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104072985-RTX2RG0T.jpg?v=1529452170",
+            "publishedAt": "2020-02-29T16:13:00Z",
+            "content": "The week's blistering stock sell-off has slashed the Dow Jones Industrial Average's gains since President Donald Trump's election.\r\nWhat was once a 61% Dow gain just 16 days ago on Feb. 12 has eroded to a far thinner 38.6% rally as the index fell from an all-\u2026 [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Everything Jim Cramer said about the stock market on 'Mad Money,' including market calendar, close to bottom, green investing",
+            "description": "CNBC's Jim Cramer gave a preview of what's on his earnings calendar next week and offered more stock picks for this volatile environment.",
+            "url": "https://www.cnbc.com/2020/02/28/jim-cramers-mad-money-recap-stock-picks-feb-28-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102422462-financial-data-female.jpg?v=1582928765",
+            "publishedAt": "2020-02-29T02:20:36Z",
+            "content": "CNBC's Jim Cramer gave a preview of what's on his earnings calendar next week. The \"Mad Money\" host offered more stock picks for this volatile market environment. Later in the show, he sat down with Hannon Armstrong CEO Jeff Eckel to talk environmentally cons\u2026 [+3696 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Washington state confirms first US death from coronavirus",
+            "description": "The U.S. reported on Saturday its first death from the coronavirus in Washington state.",
+            "url": "https://www.cnbc.com/2020/02/29/washington-state-confirms-first-us-death-from-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106417373-1582985677386gettyimages-1203862852.jpeg?v=1582985712",
+            "publishedAt": "2020-02-29T18:24:31Z",
+            "content": "The U.S. reported on Saturday its first death from the coronavirus in King County in Washington state.\u00a0\r\nJamie Nixon, a public information officer with the Washington State Department of Health, said that a patient in the state has died from the infection. Of\u2026 [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Cramer's week ahead: 'Get ready for another rough day on Monday'",
+            "description": "CNBC's Jim Cramer gave a preview of the corporate earnings and economic data that he has circled on his calendar next week.",
+            "url": "https://www.cnbc.com/2020/02/28/cramers-week-ahead-get-ready-for-another-rough-day-on-monday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416757-1582928509231gettyimages-1203953839.jpeg?v=1582928553",
+            "publishedAt": "2020-02-29T00:23:34Z",
+            "content": "CNBC's Jim Cramer said Friday that the stock market remains in a feeble position, the bond market is flashing a warning sign and the investment community should be prepared for more coronavirus uncertainty.\r\nThe Dow Jones Industrial Average, now in correction\u2026 [+4024 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kenneth Kiesnoski",
+            "title": "Here's how to get overseas medical coverage as coronavirus spreads",
+            "description": "Overseas travelers should always invest in a medical travel plan. With a potential coronavirus pandemic chilling the world travel market, here's how shop for coverage.",
+            "url": "https://www.cnbc.com/2020/02/29/how-to-get-overseas-medical-insurance-during-the-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106414444-1582838706148gettyimages-1203588507.jpeg?v=1582838753",
+            "publishedAt": "2020-02-29T16:22:23Z",
+            "content": "If you plan to travel abroad and are worried about medical coverage due to the coronavirus outbreak, there may not be a need to panic or cancel your trip just yet.\r\nTravel insurance policies that include emergency medical and evacuation coverage are still ava\u2026 [+7696 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China factory activity shrank at its fastest rate on record in February",
+            "description": "The somber readings provide the first official snapshot of the state of the Chinese economy since the outbreak of the coronavirus epidemic which has killed almost 3,000 people in mainland China and infected about 80,000.",
+            "url": "https://www.cnbc.com/2020/02/29/china-pmi-factory-activity-shrank-at-fastest-rate-on-record-in-february.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416954-1582943924235gettyimages-1203800582.jpeg?v=1582944315",
+            "publishedAt": "2020-02-29T02:49:13Z",
+            "content": "Factory activity in China contracted at the fastest pace on record in February, highlighting the damage from the coronavirus outbreak on the world's second-largest economy.\r\n China's official Purchasing Managers' Index (PMI) fell to a record low of 35.7 in Fe\u2026 [+3275 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "US postpones summit with ASEAN leaders amid coronavirus fears, sources say",
+            "description": "The United States has decided to postpone a meeting with leaders of Southeast Asian countries it had planned to host on March 14 due to worries about the coronavirus outbreak, two U.S. officials familiar with the matter said on Friday.",
+            "url": "https://www.cnbc.com/2020/02/29/us-postpones-summit-with-asean-leaders-amid-coronavirus-fears-sources.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416977-1582948734867gettyimages-1180045316.jpeg?v=1582948878",
+            "publishedAt": "2020-02-29T04:02:58Z",
+            "content": "The United States has decided to postpone a meeting with leaders of Southeast Asian countries it had planned to host on March 14 due to worries about the coronavirus outbreak, two U.S. officials familiar with the matter said on Friday.\r\nU.S. President Donald \u2026 [+2245 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jacob Pramuk",
+            "title": "Mike Bloomberg buys 3-minute primetime ad on CBS, NBC to address coronavirus outbreak",
+            "description": "In taped remarks, Mike Bloomberg casts himself as the steady leader needed to face the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/29/coronavirus-bloomberg-buys-3-minute-ad-on-cbs-nbc-to-address-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106397933-15821172858262020-02-12t202320z_672687554_rc28ze9ay9ra_rtrmadp_3_usa-election-bloomberg.jpg?v=1582117353",
+            "publishedAt": "2020-02-29T21:28:47Z",
+            "content": "White House hopeful Mike Bloomberg bought three minutes of network TV time to deliver remarks about the coronavirus outbreak Sunday night as he tries to contrast his leadership style from President Donald Trump's.\u00a0\r\nThe former New York mayor's campaign will r\u2026 [+937 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Spencer Kimball",
+            "title": "NCAA faces pressure to hold March Madness without audience to protect players from coronavirus",
+            "description": "\"In regard to the NCAA's March Madness Tournament and other athletic events, there should be a serious discussion about holding competitions without an audience present,\" the group added.",
+            "url": "https://www.cnbc.com/2020/02/29/coronavirus-ncaa-faces-pressure-to-hold-march-madness-without-audience.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105799987-1552929031443gettyimages-932950108.jpeg?v=1552929080",
+            "publishedAt": "2020-02-29T22:53:22Z",
+            "content": "The National College Players Association is calling on the NCAA to consider holding the March Madness men's basketball tournament without an audience in order to protect players from the coronavirus.\r\n\"In the wake of the emerging coronavirus pandemic, the NCA\u2026 [+1908 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Kempe",
+            "title": "Op-Ed: Coronavirus could be a bigger test for the EU than the refugee crisis",
+            "description": "The impact of coronavirus on Europe's future has the potential to be even more significant than the migrant crisis, particularly as it unfolds in almost biblical fashion atop a plague of other European maladies, writes Frederick Kempe.",
+            "url": "https://www.cnbc.com/2020/02/28/coronavirus-could-be-a-bigger-test-for-the-eu-than-the-refugee-crisis.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416662-1582925147100gettyimages-1203910856.jpeg?v=1582925197",
+            "publishedAt": "2020-02-29T13:01:01Z",
+            "content": "Tourist wearing a protective respiratory mask tours outside the Colosseo monument (Colisee, Coliseum) in downtown Rome on February 28, 2020 amid fear of Covid-19 epidemic.\r\nThe coronavirus pounded the European Union this week with the biggest test of its poli\u2026 [+6817 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Spencer Kimball",
+            "title": "Trump considering travel restrictions at US southern border over coronavirus",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/02/29/trump-considering-travel-restrictions-at-us-southern-border-over-coronavirus.html",
+            "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+            "publishedAt": "2020-02-29T19:33:50Z",
+            "content": "President Donald Trump on Saturday said his administration was also considering travel restrictions at the U.S.-Mexico border, after his administration announced new restrictions on travel to Iran and heightened advisories for areas in South Korea and Italy.\u00a0\u2026 [+482 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "News Corp, owner of Wall Street Journal, halts nonessential travel for employees due to coronavirus",
+            "description": "The New York-based media company, which owns The Wall Street Journal and HarperCollins Publishers, joins a growing list of U.S. companies that are restricting employee travel as the coronavirus intensifies.",
+            "url": "https://www.cnbc.com/2020/02/29/news-corp-halts-nonessential-travel-for-all-employees-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104087007-RTX2CDIC.jpg?v=1478556948",
+            "publishedAt": "2020-02-29T17:57:32Z",
+            "content": "News Corp has halted nonessential business travel for its employees as of yesterday due to concerns over the coronavirus outbreak, a spokesperson confirmed to CNBC.\u00a0\r\n\"I can confirm that as of yesterday we have made the decision that all News Corp employees s\u2026 [+1077 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Seema Mody",
+            "title": "3M ramps up N95 respirator production as demand surges from global coronavirus outbreak",
+            "description": "From the streets of Beijing to Milan Fashion Week, people around the world are turning to protective masks and respirators to try and reduce the risk of infection amid the global outbreak of coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/28/3m-ramps-up-n95-respirator-production-amid-global-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357453-1580152303341gettyimages-1195396399.jpeg?v=1580784394",
+            "publishedAt": "2020-02-29T00:35:33Z",
+            "content": "From the streets of Beijing to Milan Fashion Week, people around the world are turning to protective masks and respirators to try and reduce the risk of infection amid the global outbreak of coronavirus.\r\nDemand is so high that it's increasingly difficult to \u2026 [+2894 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "United Airlines offers pilots a month off as coronavirus prompts flight cuts",
+            "description": "United Airlines is offering pilots a month off with reduced pay as coronavirus prompts them to cut flights, according to a union letter.",
+            "url": "https://www.cnbc.com/2020/02/29/coronavirus-prompts-united-airlines-to-offer-pilots-a-month-for-flight-cuts.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416950-1582943196771united_2019-06-05t192857z_1365278444_rc18de66ac30_rtrmadp_3_ual-environment.jpg?v=1582943259",
+            "publishedAt": "2020-02-29T03:09:34Z",
+            "content": "United Airlines is offering pilots to take a month off at reduced pay, according to a union memo sent on Friday, a measure that follows flight cuts due to the spread of coronavirus.\r\nUnited on Friday announced service reductions throughout Asia because of the\u2026 [+1713 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Thomas Franck",
+            "title": "House pushes to vote on funding for coronavirus response next week, Pelosi says",
+            "description": "House Speaker Nancy Pelosi announced that the chamber would vote on a response package to the coronavirus sometime in the coming week.",
+            "url": "https://www.cnbc.com/2020/02/29/house-to-vote-on-funding-for-coronavirus-response-pelosi-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106328797-15785872029842020-01-09t162345z_1803456313_rc2gce9mpeej_rtrmadp_3_usa-trump-impeachment.jpg?v=1578587258",
+            "publishedAt": "2020-02-29T22:00:34Z",
+            "content": "House Speaker Nancy Pelosi\u00a0said on Saturday that the chamber would vote on a response package to the coronavirus sometime in the coming week.\r\n\"The American people expect a well-coordinated, fully-funded response that appropriately addresses this public healt\u2026 [+1135 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Salvador Rodriguez",
+            "title": "Meet Redfora, the start-up making 'earthquake bags' to prepare people for disasters",
+            "description": "San Francisco start-up Redfora is the maker of the Earthquake Bag, an emergency-preparedness kit that has seen it sales climb alongside disasters like the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/02/28/start-up-redfora-makes-earthquake-bags-to-prepare-people-for-disaster.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106409585-1582674488679founderphoto.jpg?v=1582674600",
+            "publishedAt": "2020-02-29T14:46:01Z",
+            "content": "Zach Miller and Skyler Hallgren are the co-founders of San Francisco start-up Redfora, the maker of the Earthquake Bag emergency-preparedness kits.\r\nAfter Zach Miller, Skyler Hallgren and their buddies felt a mild earthquake in2015, the San Francisco group of\u2026 [+5655 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lauren Hirsch",
+            "title": "Coronavirus may turn the 2020 presidential campaign upside down",
+            "description": "As companies like Facebook cancel events, candidates may soon need to consider new ways of reaching their base, like streaming video.",
+            "url": "https://www.cnbc.com/2020/02/29/coronavirus-could-disrupt-2020-presidential-campaign.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106401353-1582233142312gettyimages-1207558831.jpeg?v=1582233230",
+            "publishedAt": "2020-02-29T22:50:00Z",
+            "content": "Presidential campaigns have shown no signs of adjusting their event schedules even as the coronavirus outbreak prompts several companies to cancel or postpone events.\r\nFor instance, the Democratic primary race's front-runner, Sen. Bernie Sanders, is holding a\u2026 [+5695 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Thomas Franck",
+            "title": "US expands Iran travel restrictions over coronavirus, raises advisory for regions in South Korea and Italy",
+            "description": "Trump approved the expansion of travel restrictions against Iran and recommends Americans do not travel to regions of Italy and South Korea.",
+            "url": "https://www.cnbc.com/2020/02/29/us-expands-iran-travel-restrictions-over-coronavirus-raises-advisory-for-regions-in-south-korea-and-italy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106412187-1582762431315gettyimages-1203531319.jpeg?v=1582997104",
+            "publishedAt": "2020-02-29T19:26:29Z",
+            "content": "President Donald Trump\u00a0authorized the expansion of travel restrictions against Iran and the new recommendation that Americans refrain from visiting regions of Italy and South Korea impacted by the coronavirus.\r\nVice President Mike Pence detailed the heightene\u2026 [+3403 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Annie Palmer",
+            "title": "Amazon sellers scramble to keep products in stock amid coronavirus outbreak",
+            "description": "Third-party sellers with Chinese suppliers say factory closures have made it hard to keep products in stock.",
+            "url": "https://www.cnbc.com/2020/02/29/amazon-sellers-scramble-to-keep-products-in-stock-amid-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106398285-1582127217254rts306vj.jpg?v=1582127283",
+            "publishedAt": "2020-02-29T14:16:01Z",
+            "content": "A woman wears a masks in Chinatown following the outbreak of the novel coronavirus, in Chicago, Illinois, U.S. January 30, 2020.\r\nFor Zev Bernard, who sells baseball and softball equipment on Amazon, February tends to be one of the busiest times of the year, \u2026 [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Karen Firestone",
+            "title": "Op-Ed: I've seen bubbles burst - this isn't a bubble",
+            "description": "Despite more potential downside, the U.S. equity market is not in a bubble at all.",
+            "url": "https://www.cnbc.com/2020/02/28/op-ed-ive-seen-bubbles-burst---this-isnt-a-bubble.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416767-15829288667542020-02-28t212807z_1382350130_rc2x9f9n8rbo_rtrmadp_3_usa-stocks.jpg?v=1582928929",
+            "publishedAt": "2020-02-29T13:31:01Z",
+            "content": "In light of the tumultuous move in global stocks this week, I found it comforting, in that it-could-be-worse sense, to think about some excessively priced assets I've watched up close, as well as from a distance.\r\nOne day within the dot.com bubble stands out \u2026 [+4185 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Melissa Lee",
+            "title": "Square CFO on earnings, millennial marketing and coronavirus",
+            "description": "Square CFO Amrita Ahuja sits down with CNBC's Kate Rooney to discuss the payment company's better-than-expected earnings, growing cash app business and coronavirus risk.",
+            "url": "https://www.cnbc.com/video/2020/02/28/square-cfo-on-earnings-millennial-marketing-and-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416887-6ed3-req-rooney-square-022820.jpg?v=1582934979",
+            "publishedAt": "2020-02-29T00:58:22Z",
+            "content": null
+        }
+    ]
+}

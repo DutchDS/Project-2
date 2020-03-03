@@ -1,7 +1,33 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 41,
     "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jason Silverstein",
+            "title": "Mike Pence said smoking \"doesn't kill\" and faced criticism for his response to HIV. Now he's leading the coronavirus response - CBS News",
+            "description": "Mike Pence said smoking \"doesn't kill\" and faced criticism for his response to HIV. Now he's leading the coronavirus response CBS News Pence tells Rush Limbaugh, who said coronavirus has been overhyped: 'We're all in this together' NBCNews.com Gov. Jay Inslee\u2026",
+            "url": "https://www.cbsnews.com/news/coronavirus-mike-pence-health-science-smoking-hiv/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/10/24/6fa4308b-b45f-42ae-a059-29b84f9264d7/thumbnail/1200x630/a7dfae40c4c09c717a9d25baf1f9ab46/gettyimages-1176382353.jpg",
+            "publishedAt": "2020-02-28T23:30:00Z",
+            "content": "When President Trump announced Wednesday that Vice President Mike Pence will lead the administration's\u00a0response to the coronavirus, he said Pence \"has a talent for this.\"But some public health experts have\u00a0raised alarms not only about Pence's lack of medical \u2026 [+4955 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. health officials confirmed second case of community coronavirus",
+            "description": "A second coronavirus case has been confirmed in California. The World Health Organization on Friday raised its risk alert to \u201cvery high\" for the coronavirus outbreak. Carter Evans reports.",
+            "url": "https://www.cbsnews.com/video/u-s-health-officials-confirmed-second-case-of-community-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/412c58fe-92dc-43f3-9eab-35e418687468/thumbnail/1200x630/a0184208182ac2beaea71cc622dda64d/0228-en-secondcoronavirus-evans-2037700-640x360.jpg",
+            "publishedAt": "2020-02-28T23:45:21Z",
+            "content": null
+        },
         {
             "source": {
                 "id": "cbs-news",
@@ -34,11 +60,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "2/27/20: CBSN Evening News",
-            "description": "Investors pull funds over coronavirus fears; University of Denver preserves music from slavery",
-            "url": "https://www.cbsnews.com/video/22720-cbsn-evening-news/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/10146537-e664-439b-b823-b627c55aaf5d/thumbnail/1200x630/89e9c769a8719539b6eca0723a22dc2e/0227-cbsn-full-2036661-640x360.jpg",
-            "publishedAt": "2020-02-28T02:35:15Z",
+            "title": "2/27: CBS Evening News",
+            "description": "U.S. stock market drops amid coronavirus fears; Group wants to preserve African American \"spirituals\"",
+            "url": "https://www.cbsnews.com/video/022720-cbs-evening-news/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/bef525b3-97cb-480f-8622-547aad1b6013/thumbnail/1200x630/2574ecc22da39ef09bd897a164d1eee9/0227-en-full-2036679-640x360.jpg",
+            "publishedAt": "2020-02-28T04:00:34Z",
             "content": null
         },
         {
@@ -47,11 +73,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "2/27: CBS Evening News",
-            "description": "U.S. stock market drops amid coronavirus fears; Group wants to preserve African American \"spirituals\"",
-            "url": "https://www.cbsnews.com/video/022720-cbs-evening-news/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/bef525b3-97cb-480f-8622-547aad1b6013/thumbnail/1200x630/2574ecc22da39ef09bd897a164d1eee9/0227-en-full-2036679-640x360.jpg",
-            "publishedAt": "2020-02-28T04:00:34Z",
+            "title": "2/27/20: CBSN Evening News",
+            "description": "Investors pull funds over coronavirus fears; University of Denver preserves music from slavery",
+            "url": "https://www.cbsnews.com/video/22720-cbsn-evening-news/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/10146537-e664-439b-b823-b627c55aaf5d/thumbnail/1200x630/89e9c769a8719539b6eca0723a22dc2e/0227-cbsn-full-2036661-640x360.jpg",
+            "publishedAt": "2020-02-28T02:35:15Z",
             "content": null
         },
         {
@@ -99,12 +125,25 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "House lawmakers to get briefing on coronavirus",
-            "description": "New measures are in place in California this morning after the first apparent U.S. case with unknown origin. The female patient is battling the virus despite no recent foreign travel or known contact with another infected person. CBS News correspondent Carter\u2026",
-            "url": "https://www.cbsnews.com/video/house-lawmakers-to-get-briefing-on-coronavirus/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/9fcb3c2f-d987-4cfa-9633-ca4b74724e81/thumbnail/1200x630/a946997a9814ab1cc1e669da373cca96/0228-cbsnam-coronavirusbriefing-2036936-640x360.jpg",
-            "publishedAt": "2020-02-28T14:43:26Z",
+            "title": "Finance expert explains markets' coronavirus dip",
+            "description": "Panic over a coronavirus outbreak could send the stock market into its worst week since the 2008 financial crisis. The Dow Jones industrial average saw its worst one-day point drop in history on Thursday as it lost an entire year\u2019s worth of gains over the cou\u2026",
+            "url": "https://www.cbsnews.com/video/finance-expert-explains-markets-coronavirus-dip/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/8d829f0c-4d5d-4bf4-b008-8932fc713d22/thumbnail/1200x630/dee8f94784ea2625184795014097e4f4/0228-ctm-coronviruseconomy-schlesinger-2036836-640x360.jpg",
+            "publishedAt": "2020-02-28T13:18:56Z",
             "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "HHS watchdog to review agency's coronavirus response",
+            "description": "The decision comes as the Trump administration's response to the virus is under scrutiny.",
+            "url": "https://www.cbsnews.com/news/coronavirus-health-human-services-inspector-general-response/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/637a1a45-5c39-44b2-984c-0d056b4918db/thumbnail/1200x630/e2447973dfdb28522c0b6183cc1e095f/gettyimages-1203531103.jpg",
+            "publishedAt": "2020-02-28T16:08:08Z",
+            "content": "The Health and Human Services' Office of Inspector General will conduct a comprehensive review of the agency's coronavirus response efforts, CBS News reports.\u00a0\r\nThe news comes after an HHS official filed a complaint alleging U.S. workers aided coronavirus eva\u2026 [+1533 chars]"
         },
         {
             "source": {
@@ -125,25 +164,12 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Finance expert explains markets' coronavirus dip",
-            "description": "Panic over a coronavirus outbreak could send the stock market into its worst week since the 2008 financial crisis. The Dow Jones industrial average saw its worst one-day point drop in history on Thursday as it lost an entire year\u2019s worth of gains over the cou\u2026",
-            "url": "https://www.cbsnews.com/video/finance-expert-explains-markets-coronavirus-dip/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/8d829f0c-4d5d-4bf4-b008-8932fc713d22/thumbnail/1200x630/dee8f94784ea2625184795014097e4f4/0228-ctm-coronviruseconomy-schlesinger-2036836-640x360.jpg",
-            "publishedAt": "2020-02-28T13:18:56Z",
+            "title": "House lawmakers to get briefing on coronavirus",
+            "description": "New measures are in place in California this morning after the first apparent U.S. case with unknown origin. The female patient is battling the virus despite no recent foreign travel or known contact with another infected person. CBS News correspondent Carter\u2026",
+            "url": "https://www.cbsnews.com/video/house-lawmakers-to-get-briefing-on-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/9fcb3c2f-d987-4cfa-9633-ca4b74724e81/thumbnail/1200x630/a946997a9814ab1cc1e669da373cca96/0228-cbsnam-coronavirusbriefing-2036936-640x360.jpg",
+            "publishedAt": "2020-02-28T14:43:26Z",
             "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
-            "title": "HHS watchdog to review agency's coronavirus response",
-            "description": "The decision comes as the Trump administration's response to the virus is under scrutiny.",
-            "url": "https://www.cbsnews.com/news/coronavirus-health-human-services-inspector-general-response/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/26/637a1a45-5c39-44b2-984c-0d056b4918db/thumbnail/1200x630/e2447973dfdb28522c0b6183cc1e095f/gettyimages-1203531103.jpg",
-            "publishedAt": "2020-02-28T16:08:08Z",
-            "content": "The Health and Human Services' Office of Inspector General will conduct a comprehensive review of the agency's coronavirus response efforts, CBS News reports.\u00a0\r\nThe news comes after an HHS official filed a complaint alleging U.S. workers aided coronavirus eva\u2026 [+1533 chars]"
         },
         {
             "source": {
@@ -267,6 +293,19 @@
                 "id": "cbs-news",
                 "name": "CBS News"
             },
+            "author": "CBS News",
+            "title": "Coronavirus fears lead to worst week on Wall Street since 2008",
+            "description": "Coronavirus fears caused stocks to fall for the seventh straight day. Traders blamed the lack of consistent message from the Trump administration. Nikki Battiste reports.",
+            "url": "https://www.cbsnews.com/video/coronavirus-fears-lead-to-worst-week-on-wall-street-since-2008/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/29/3a08e686-40c9-4efb-a4a0-e39b654c4428/thumbnail/1200x630/99495b518d5380dfa6c649be858ea4b5/0228-en-coronaviruswallstreet-battiste-2037709-640x360.jpg",
+            "publishedAt": "2020-02-28T23:52:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
             "author": "Irina Ivanova",
             "title": "As coronavirus spreads, here's what's been canceled or closed",
             "description": "Geneva Auto Show is the latest mass gathering to be called off as governments try to stem the spread of disease.",
@@ -274,19 +313,6 @@
             "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/28/ebf09a3a-c3b1-4446-9543-5a2897322b0c/thumbnail/1200x630/79841b1e6a559d01b33fce625089a6ba/coronavirus-2020-02-28t125421z-710675402-rc2l9f9pbp1a-rtrmadp-3-china-health.jpg",
             "publishedAt": "2020-02-28T19:43:35Z",
             "content": "The global coronavirus continues to spread, already sickening more than 83,000 people and killing more than 2,800. In the U.S., at least 60 people were being treated for COVID-19, and a case in California has led the Centers for Disease Control to warn the U.\u2026 [+3643 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Megan Cerullo",
-            "title": "Coronavirus causes first U.S. drug shortage, FDA says",
-            "description": "Antibiotics and anesthetics especially at risk, agency warns, as up to 90% of their ingredients come from China.",
-            "url": "https://www.cbsnews.com/news/coronavirus-human-drug-shortage-food-drug-administration/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/19/3318304e-e646-4554-8342-203822a22a05/thumbnail/1200x630/710784242dbae21c2181db10d50612a4/screen-shot-2020-02-19-at-5-16-59-pm.png",
-            "publishedAt": "2020-02-28T16:30:43Z",
-            "content": "The U.S. Food and Drug Administration is warning of shortages of at least one drug as the spread of the coronavirus\u00a0disrupts the pharmaceutical industry's global supply chain.\u00a0\r\nThe agency on Thursday said that, for the first time since the outbreak, a drugma\u2026 [+8242 chars]"
         },
         {
             "source": {
@@ -313,6 +339,19 @@
             "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/80aaf40b-e838-483c-a160-73e9be83e4fd/thumbnail/1200x630/68bf16e08d8db876b648c860764bea46/gettyimages-1144539387.jpg",
             "publishedAt": "2020-02-28T21:18:12Z",
             "content": "The Centers for Disease Control and Prevention this week called on Americans to start preparing for a potential coronavirus outbreak in the U.S., raising questions about what measures employers large and small may need to deploy to protect their workers while\u2026 [+6975 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Coronavirus causes first U.S. drug shortage, FDA says",
+            "description": "Antibiotics and anesthetics especially at risk, agency warns, as up to 90% of their ingredients come from China.",
+            "url": "https://www.cbsnews.com/news/coronavirus-human-drug-shortage-food-drug-administration/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/19/3318304e-e646-4554-8342-203822a22a05/thumbnail/1200x630/710784242dbae21c2181db10d50612a4/screen-shot-2020-02-19-at-5-16-59-pm.png",
+            "publishedAt": "2020-02-28T16:30:43Z",
+            "content": "The U.S. Food and Drug Administration is warning of shortages of at least one drug as the spread of the coronavirus\u00a0disrupts the pharmaceutical industry's global supply chain.\u00a0\r\nThe agency on Thursday said that, for the first time since the outbreak, a drugma\u2026 [+8242 chars]"
         },
         {
             "source": {
@@ -359,19 +398,6 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Eye Opener: Global markets dive amid coronavirus panic",
-            "description": "Stock markets around the world take a nosedive as governments scramble to take urgent steps to contain the spread of the coronavirus. Also, 33 Turkish soldiers were killed in an Assad air raid in Idlib, the last Syrian province held by opposition forces. All \u2026",
-            "url": "https://www.cbsnews.com/video/eye-opener-global-markets-dive-amid-coronavirus-panic/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/62b31d2b-ca2c-4cd3-8974-476d286ed3f1/thumbnail/1200x630/6fee7cc39be94253f25748db1ab49d8d/0228-ctm-7ameyeopener-2036743-640x360.jpg",
-            "publishedAt": "2020-02-28T12:17:15Z",
-            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
             "title": "Schools nationwide trying to stay ahead of any coronavirus arrival",
             "description": "Online lessons being prepared, trips overseas being scrapped, \"perfect attendance\" awards even being rethought",
             "url": "https://www.cbsnews.com/news/coronavirus-arrival-schools-nationwide-trying-to-stay-ahead/",
@@ -397,6 +423,19 @@
                 "id": "cbs-news",
                 "name": "CBS News"
             },
+            "author": "CBS News",
+            "title": "Eye Opener: Global markets dive amid coronavirus panic",
+            "description": "Stock markets around the world take a nosedive as governments scramble to take urgent steps to contain the spread of the coronavirus. Also, 33 Turkish soldiers were killed in an Assad air raid in Idlib, the last Syrian province held by opposition forces. All \u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-global-markets-dive-amid-coronavirus-panic/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/62b31d2b-ca2c-4cd3-8974-476d286ed3f1/thumbnail/1200x630/6fee7cc39be94253f25748db1ab49d8d/0228-ctm-7ameyeopener-2036743-640x360.jpg",
+            "publishedAt": "2020-02-28T12:17:15Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
             "author": "Grace Segers",
             "title": "Watch live: Trump holds rally in South Carolina ahead of Democratic primary",
             "description": "The South Carolina Democratic primary is taking place on Saturday.",
@@ -416,6 +455,32 @@
             "url": "https://www.cbsnews.com/video/what-you-need-to-know-as-coronavirus-outbreak-reaches-decisive-point/",
             "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/cb4f5ede-beac-4fcc-a76a-be719dc5fdd8/thumbnail/1200x630/010189f9ccb5d0ab64e1c632052092bc/0228-cbsn-whcoronavirusresponse-nsqnsr-2037033-640x360.jpg",
             "publishedAt": "2020-02-28T16:57:18Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "In last South Carolina push, Democrats lash out against Trump over coronavirus crisis",
+            "description": "Even as health officials scramble to contain its spread, the debate over the coronavirus is spilling over onto the campaign trail. Democrats spent the day before the South Carolina primary lashing out at President Trump for his handling of the crisis, while M\u2026",
+            "url": "https://www.cbsnews.com/video/in-last-south-carolina-push-democrats-lash-out-against-trump-over-coronavirus-crisis/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/28/787fe60e-6114-4f04-bbc3-7fff6b35b573/thumbnail/1200x630/26c6ed0764e55fd5a8fbc6c724443d42/0228-en-demsbashtrumpcorona-okeefe-2037746-640x360.jpg",
+            "publishedAt": "2020-02-28T23:56:46Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "New cases of coronaviruses spreading faster outside of China",
+            "description": "New cases of coronavirus are spreading faster in the rest of the world other than in China. United Airlines suspended some flights to some parts of Asia, and the U.S. State Department is advising Americans to reconsider traveling to Italy. Charlie D\u2019Agata rep\u2026",
+            "url": "https://www.cbsnews.com/video/new-cases-of-coronaviruses-spreading-faster-outside-of-china/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/29/b84dc52a-8a1e-4911-b2e0-b024c2c3c160/thumbnail/1200x630/dacdfae093194ca40ce4e8b0417dd4dd/0228-en-coronavirusworld-dagata-2037721-640x360.jpg",
+            "publishedAt": "2020-02-28T23:53:56Z",
             "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
         },
         {

@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 48,
+    "totalResults": 54,
     "articles": [
         {
             "source": {
@@ -46,6 +46,19 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
+            "author": "John Hudson",
+            "title": "Pompeo clashes with Democratic lawmakers in testy Capitol Hill hearing - The Washington Post",
+            "description": "Pompeo clashes with Democratic lawmakers in testy Capitol Hill hearing The Washington Post Pompeo clashes with lawmakers over coronavirus and Iran in tense hearing CNN Democrat gets in heated exchange with Pompeo at hearing: 'Do you believe coronavirus is a h\u2026",
+            "url": "https://www.washingtonpost.com/national-security/pompeo-clashes-with-lawmakers-in-testy-capitol-hill-hearing/2020/02/28/a3cc9c50-5a48-11ea-8753-73d96000faae_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/yAGoxKqUpTZnvAcmjKgj7bcg_2U=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FEUGJ7C2JUI6VK3ICAPM73BFGI.jpg",
+            "publishedAt": "2020-02-28T17:30:00Z",
+            "content": "It is shameful that you are going to talk to a special interest group, while only giving two hours to the House Foreign Affairs Committee, said Rep. Ted Lieu (D-Calif.). Pompeo is expected to speak at the Conservative Political Action Conferences annual meeti\u2026 [+3559 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
             "author": "Thomas Heath, Rachel Siegel",
             "title": "Global markets, Wall Street drag out week-long free fall as coronavirus crisis worsens - The Washington Post",
             "description": "Global markets, Wall Street drag out week-long free fall as coronavirus crisis worsens The Washington Post Pandemic fears send investors running as Wall Street confirms correction Reuters UK Weeklong stock market rout deepens as virus worries spread KOB View \u2026",
@@ -79,6 +92,19 @@
             "urlToImage": "https://www.washingtonpost.com/resizer/68KIWoDzEnVr4SrC8f2DXb1OI5Y=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOFPGZCUYMI6VAGOG6UNIJTMBE.jpg",
             "publishedAt": "2020-02-28T14:39:00Z",
             "content": "But the best remedy for the coronavirus which has sickened more than 83,000 people worldwide and killed nearly 3,000 could lie beyond Washingtons immediate powers.\r\nCentral banks dont make vaccines, said David Kotok, chairman of Cumberland Advisors.\r\nThe stoc\u2026 [+6805 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dan Lamothe",
+            "title": "Inside the U.S. military\u2019s historic week in Afghanistan ahead of a peace deal with the Taliban - The Washington Post",
+            "description": "Inside the U.S. military\u2019s historic week in Afghanistan ahead of a peace deal with the Taliban The Washington Post US to sign historic deal with Taliban, Trump announces, beginning end of US war in Afghanistan and withdrawal of American troops ABC News Corona\u2026",
+            "url": "https://www.washingtonpost.com/national-security/inside-the-us-militarys-historic-week-in-afghanistan-ahead-of-a-possible-peace-deal-with-the-taliban/2020/02/28/308ac3b6-5a3e-11ea-ab68-101ecfec2532_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/bEOtCxebtvQL9-FtWlBpZilEwE4=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGZKICCZTMI6VDX5B6IEXXMAK4.jpg",
+            "publishedAt": "2020-02-28T17:23:00Z",
+            "content": "Afghan officials said violence was down about 80 percent nationwide. But the attacks prompted Army Gen. Austin Scott Miller, the top U.S. commander in Afghanistan, to direct his staff to speak to Taliban leaders about restraining their fighters.\r\nThe message \u2026 [+9568 chars]"
         },
         {
             "source": {
@@ -144,6 +170,19 @@
             "urlToImage": "https://www.washingtonpost.com/resizer/b0-0xLSJGDL0If2L1q_uDp4MyNY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZPGOBBS2B4I6VDX5B6IEXXMAK4.jpg",
             "publishedAt": "2020-02-28T14:53:00Z",
             "content": "After smashing vial, Chinas Sun Yang brings scrutiny, controversy to swimming championships\r\nAt issue was an attempt to collect a blood sample from Sun at his residence in September 2018. In testimony before the court, evidence was presented that a security g\u2026 [+4143 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Avi Selk",
+            "title": "It\u2019s \u2018America vs. Socialism\u2019 as the CPAC conference previews Trump\u2019s reelection strategy - The Washington Post",
+            "description": "It\u2019s \u2018America vs. Socialism\u2019 as the CPAC conference previews Trump\u2019s reelection strategy The Washington Post Self-belief surges as Trump's conservative faithful plan four more years The Guardian Trump-supporting Diamond and Silk trash Bernie Sanders at CPAC T\u2026",
+            "url": "https://www.washingtonpost.com/arts-entertainment/2020/02/28/its-america-vs-socialism-cpac-conference-previews-trumps-reelection-strategy/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/gOtCnbtYQK26ah1qWiO5Rbe0O7A=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RTKYTS2FYI6VDX5B6IEXXMAK4.jpg",
+            "publishedAt": "2020-02-28T22:06:00Z",
+            "content": "Two hours later, these few dozen people joined the broader CPAC audience in a cavernous ballroom, where President Trump campaign adviser Katrina Pierson urged them to bring home Donald J. Trump a win in 2020.\r\nThe best part about that, she promised, is we get\u2026 [+6732 chars]"
         },
         {
             "source": {
@@ -228,12 +267,12 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Tory Newmyer",
-            "title": "The Finance 202: Stocks set for deeper downturn as investors look past Trump\u2019s coronavirus response",
-            "description": "So far, the markets have erased a third of their gains since Trump\u2019s election.",
-            "url": "https://www.washingtonpost.com/politics/the-finance-202-stocks-set-for-deeper-downturn-as-investors-look-past-trumps-coronavirus-response/2020/02/28/7356e410-acdd-421b-905f-d4adc32c4ace_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+            "author": "Paige Winfield Cunningham",
+            "title": "The Health 202: The Trump administration is providing a lot of mixed messages on coronavirus outbreak",
+            "description": "The messengers keep changing, too.",
+            "url": "https://www.washingtonpost.com/politics/the-health-202-the-trump-administration-is-providing-a-lot-of-mixed-messages-on-coronavirus-outbreak/2020/02/28/f3ea93c8-cb3d-4a7c-809a-521979f2dba0_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
             "urlToImage": null,
-            "publishedAt": "2020-02-28T13:06:00Z",
+            "publishedAt": "2020-02-28T12:43:06Z",
             "content": null
         },
         {
@@ -241,12 +280,12 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Paige Winfield Cunningham",
-            "title": "The Health 202: The Trump administration is providing a lot of mixed messages on coronavirus outbreak",
-            "description": "The messengers keep changing, too.",
-            "url": "https://www.washingtonpost.com/politics/the-health-202-the-trump-administration-is-providing-a-lot-of-mixed-messages-on-coronavirus-outbreak/2020/02/28/f3ea93c8-cb3d-4a7c-809a-521979f2dba0_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
+            "author": "Tory Newmyer",
+            "title": "The Finance 202: Stocks set for deeper downturn as investors look past Trump\u2019s coronavirus response",
+            "description": "So far, the markets have erased a third of their gains since Trump\u2019s election.",
+            "url": "https://www.washingtonpost.com/politics/the-finance-202-stocks-set-for-deeper-downturn-as-investors-look-past-trumps-coronavirus-response/2020/02/28/7356e410-acdd-421b-905f-d4adc32c4ace_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics",
             "urlToImage": null,
-            "publishedAt": "2020-02-28T12:43:06Z",
+            "publishedAt": "2020-02-28T13:06:00Z",
             "content": null
         },
         {
@@ -293,19 +332,6 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Ishaan Tharoor",
-            "title": "Coronavirus epidemic reveals a world in political crisis",
-            "description": "Panic over the coronavirus outbreak has highlighted the failings of a global political class.",
-            "url": "https://www.washingtonpost.com/world/2020/02/28/coronavirus-epidemic-reveals-world-political-crisis/",
-            "urlToImage": "https://www.washingtonpost.com/resizer/OD9YaSRwe_1Ht2SyW05gubKP-dc=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSOVW7SXIUI6VDX5B6IEXXMAK4.jpg",
-            "publishedAt": "2020-02-28T05:00:00Z",
-            "content": "There is every indication that the world will soon enter a pandemic phase, Australian Prime Minister Scott Morrison, whose country has confirmed at least 23 cases of coronavirus, told reporters in Canberra. The emergence of a new sort of coronavirus case in t\u2026 [+5500 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
             "author": "Associated Press",
             "title": "Nigeria announces first confirmed case of new coronavirus in sub-Saharan Africa",
             "description": "Nigeria announces first confirmed case of new coronavirus in sub-Saharan Africa",
@@ -313,6 +339,19 @@
             "urlToImage": "",
             "publishedAt": "2020-02-28T05:12:17Z",
             "content": "ABUJA, Nigeria Nigeria announces first confirmed case of new coronavirus in sub-Saharan Africa.\r\nCopyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ishaan Tharoor",
+            "title": "Coronavirus epidemic reveals a world in political crisis",
+            "description": "Panic over the coronavirus outbreak has highlighted the failings of a global political class.",
+            "url": "https://www.washingtonpost.com/world/2020/02/28/coronavirus-epidemic-reveals-world-political-crisis/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/OD9YaSRwe_1Ht2SyW05gubKP-dc=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSOVW7SXIUI6VDX5B6IEXXMAK4.jpg",
+            "publishedAt": "2020-02-28T05:00:00Z",
+            "content": "There is every indication that the world will soon enter a pandemic phase, Australian Prime Minister Scott Morrison, whose country has confirmed at least 23 cases of coronavirus, told reporters in Canberra. The emergence of a new sort of coronavirus case in t\u2026 [+5500 chars]"
         },
         {
             "source": {
@@ -449,6 +488,19 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
+            "author": "Craig Timberg",
+            "title": "Facebook, YouTube, Twitter remove coronavirus misinformation. So why not other types of lies?",
+            "description": "Misinformation experts have praised Facebook, Twitter, YouTube and other social media platforms for removing misleading information about coronavirus. But that praise comes with a question: If the platforms can move against coronavirus misinformation so quick\u2026",
+            "url": "https://www.washingtonpost.com/technology/2020/02/28/facebook-twitter-amazon-misinformation-coronavirus/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/m91eaRcIpfQYg3z-Ko9Y6co9OwY=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IRVAQFCEIEI6VGOHDX6UEQNC7Y.jpg",
+            "publishedAt": "2020-02-28T23:16:03Z",
+            "content": "But this praise has come with a caveat: If tech companies can move to promote truth on a fast-moving public-health crisis, why do they struggle to do the same on other important issues?\r\nA Facebook policy lets politicians lie in ads, leaving Democrats fearing\u2026 [+8615 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
             "author": "Deborah Seligsohn",
             "title": "The coronavirus and the collapse of the U.S.-China health relationship under Trump",
             "description": "The coronavirus and the collapse of the U.S.-China health relationship under Trump washingtonpost.com",
@@ -456,6 +508,19 @@
             "urlToImage": "https://www.washingtonpost.com/resizer/mGdXg-LlhM_2mTQbGnEofosesnU=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MVYQOMCZXMI6VDX5B6IEXXMAK4.jpg",
             "publishedAt": "2020-02-28T19:31:30Z",
             "content": "Back before the 2003 SARS outbreak the first of these novel coronavirus outbreaks China had a development program that focused almost entirely on economic growth while under-investing in public health and other welfare spending. The result was lost lives, maj\u2026 [+4520 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Washington Post Staff",
+            "title": "What is coronavirus: Symptoms, how it spreads, how to avoid it",
+            "description": "What is coronavirus: Symptoms, how it spreads, how to avoid it washingtonpost.com",
+            "url": "https://www.washingtonpost.com/health/2020/02/28/what-you-need-know-about-coronavirus/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T18:00:48Z",
+            "content": null
         },
         {
             "source": {
@@ -489,12 +554,12 @@
                 "name": "The Washington Post"
             },
             "author": "Associated Press",
-            "title": "Fire kills 5 in residential building in Iranian city of Qom",
-            "description": "A fire that erupted in a residential building in the Iranian city of Qom has killed at least five people, including a 2-year-old, and injured 38",
-            "url": "https://www.washingtonpost.com/world/middle_east/fire-kills-5-in-residential-building-in-iranian-city-of-qom/2020/02/28/1d143d8a-5a11-11ea-8efd-0f904bdd8057_story.html",
+            "title": "German unemployment steady at 5% in February",
+            "description": "Germany's Federal Labor Agency is reporting that unemployment remained steady in February in the country, despite overall weakness in Europe's largest economy",
+            "url": "https://www.washingtonpost.com/world/europe/german-unemployment-steady-at-5percent-in-february/2020/02/28/6a624d24-5a30-11ea-8efd-0f904bdd8057_story.html",
             "urlToImage": "",
-            "publishedAt": "2020-02-28T10:00:14Z",
-            "content": "Firefighters evacuated 160 people who were trapped in their apartments when the fire broke out around 3 a.m. The TV said nearly all cars in the buildings garage were destroyed in the fire.\r\nQom, where the faithful are drawn to a famous Shiite shrine, has been\u2026 [+514 chars]"
+            "publishedAt": "2020-02-28T13:44:18Z",
+            "content": "Germanys state statistics agency reported two weeks ago that the country saw zero economic growth in the fourth quarter and a mediocre 0.6% increase for the whole year.\r\nThe countrys troubles are a central problem for the 19-country eurozone economy and the E\u2026 [+770 chars]"
         },
         {
             "source": {
@@ -502,12 +567,12 @@
                 "name": "The Washington Post"
             },
             "author": "Associated Press",
-            "title": "German unemployment steady at 5% in February",
-            "description": "Germany's Federal Labor Agency is reporting that unemployment remained steady in February in the country, despite overall weakness in Europe's largest economy",
-            "url": "https://www.washingtonpost.com/world/europe/german-unemployment-steady-at-5percent-in-february/2020/02/28/6a624d24-5a30-11ea-8efd-0f904bdd8057_story.html",
+            "title": "Fire kills 5 in residential building in Iranian city of Qom",
+            "description": "A fire that erupted in a residential building in the Iranian city of Qom has killed at least five people, including a 2-year-old, and injured 38",
+            "url": "https://www.washingtonpost.com/world/middle_east/fire-kills-5-in-residential-building-in-iranian-city-of-qom/2020/02/28/1d143d8a-5a11-11ea-8efd-0f904bdd8057_story.html",
             "urlToImage": "",
-            "publishedAt": "2020-02-28T13:44:18Z",
-            "content": "Germanys state statistics agency reported two weeks ago that the country saw zero economic growth in the fourth quarter and a mediocre 0.6% increase for the whole year.\r\nThe countrys troubles are a central problem for the 19-country eurozone economy and the E\u2026 [+770 chars]"
+            "publishedAt": "2020-02-28T10:00:14Z",
+            "content": "Firefighters evacuated 160 people who were trapped in their apartments when the fire broke out around 3 a.m. The TV said nearly all cars in the buildings garage were destroyed in the fire.\r\nQom, where the faithful are drawn to a famous Shiite shrine, has been\u2026 [+514 chars]"
         },
         {
             "source": {
@@ -521,6 +586,19 @@
             "urlToImage": "https://www.washingtonpost.com/resizer/oemblLdxxsF4dx9SbyI1YaR8lqE=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2RWLGC2JYI6VGZV3322AJ6UOA.jpg",
             "publishedAt": "2020-02-28T17:44:15Z",
             "content": "Israels chief election officer this week briefed lawmakers on her agencys pop-up precautions, a possible glimpse at how the outbreak could alter normal procedures in balloting planned around the world later this year.\r\nIn tents across Israel, quarantined vote\u2026 [+5180 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Abha Bhattarai",
+            "title": "Facebook, Amazon and other companies rethink travel policies in wake of coronavirus outbreak",
+            "description": "Hotels around the country have begun reporting a rise in group cancellations. Airlines, meanwhile, are doing away with cancellation fees as jittery travelers rethink their plans.",
+            "url": "https://www.washingtonpost.com/business/2020/02/28/coronavirus-cancel-travel/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/myGnPkQvNyOxjpIGwdbWioSxd2k=/1440x0/smart/d1i4t8bqe7zgj6.cloudfront.net/02-26-2020/t_b19fa2c5f4454d5aa98bdd37a55d1abf_name_airport_bloomberg_2.jpg",
+            "publishedAt": "2020-02-28T23:33:53Z",
+            "content": "The cancellations are starting to move toward North America, said Scott Solombrino, executive director of the Global Business Travel Association, which estimates that the slowdown in global travel has already cost American businesses $7 billion this year. Obv\u2026 [+4504 chars]"
         },
         {
             "source": {

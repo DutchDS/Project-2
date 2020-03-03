@@ -1,0 +1,513 @@
+{
+    "status": "ok",
+    "totalResults": 39,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Sen. Cotton: China could've prevented coronavirus from spreading",
+            "description": "Arkansas Republican Senator Tom Cotton slams China for responsibility in coronavirus outbreak.",
+            "url": "http://video.foxnews.com/v/6137137464001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/569b8e2f-9d22-4656-ae71-f9b4fea0f0f9/9fbfa86e-3dbe-46e8-bf89-68fb904fcdbd/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T02:39:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "CPAC attendees react to the politicization of coronavirus",
+            "description": "Fox Nation host and Fox News contributor Lawrence Jones asks CPAC attendees about Democrats turning the coronavirus outbreak into a political weapon.",
+            "url": "http://video.foxnews.com/v/6137131812001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/152f4fb9-e10e-43a4-b892-74901742d4d0/02daa77e-c266-4024-9d27-3669ebe1569c/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T02:20:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Fox News Rundown Extra: What Life Is Like For A Coronavirus Patient",
+            "description": "Carl Goldman was a passenger on the Diamond Princess Cruise and has been diagnosed with the coronavirus. He joins the Rundown to tell his story.",
+            "url": "https://radio.foxnews.com/2020/02/29/the-fox-news-rundown-2-29-2020-2/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/04/rundown-featured.png",
+            "publishedAt": "2020-02-29T10:00:01Z",
+            "content": "Concerns over the coronavirus infected both Wall Street and Main Street this week, causing major market losses and triggering the Trump Administration to launch a special task force to ease fears.\r\nOne American remaining calm, however, is somebody who is actu\u2026 [+951 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Trey Gowdy: It 'breaks my heart' to see coronavirus politicized, it should be 'unifying'",
+            "description": "Former Republican South Carolina congressman Trey Gowdy said it \"breaks [his] heart to see [coronavirus] politicized.\"",
+            "url": "https://www.foxnews.com/media/trey-gowdy-coronavirus-politicization-united-states-washington",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/TREY-GOWDY.jpg",
+            "publishedAt": "2020-02-29T18:45:30Z",
+            "content": "Former RepublicanSouth Carolinacongressman Trey Gowdy\u00a0said it \"breaks [his] heart to see [coronavirus] politicized.\"\r\nIn a Saturday morning interview on \"Cavuto LIVE\" with host Neil Cavuto, Gowdy echoed the words of Senate Majority Leader Mitch McConnell.\r\n\"I\u2026 [+2711 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Coronavirus: 5 unusual ways people reacted",
+            "description": "Flights to China have been halted, television show productions shut down and new restrictions on who can visit where instituted.",
+            "url": "https://www.foxnews.com/us/cornavirus-unusual-reactions",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20055226221212.jpg",
+            "publishedAt": "2020-02-29T01:52:49Z",
+            "content": "Flights to China have been halted, television show productions shut down and new restrictions on who can visit where have been instituted.\r\nThese are some of the measures being undertaken as fears over the coronavirus continue to spread wherever cases are rep\u2026 [+4605 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Dr. Marc Siegel: No need to panic about coronavirus, no role for politics in fight against outbreak",
+            "description": "There's no need to hit the \"panic button\" on coronavirus yet, Fox News medical contributor Dr. Marc Siegel said Saturday.",
+            "url": "https://www.foxnews.com/media/dr-marc-siegel-coronavirus-new-cases-confirmed",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/123cca22-SIEGEL.jpg",
+            "publishedAt": "2020-02-29T13:25:43Z",
+            "content": "There's no need to hit the \"panic button\" on the\u00a0coronavirus, Fox News medical contributor Dr. Marc Siegel said Saturday.\r\nAppearing on \"Fox &amp; Friends Weekend,\" Siegel said President Trump was right when he said\u00a0the United States\u00a0must\u00a0continue to be \"vigi\u2026 [+2237 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Robert Gearty",
+            "title": "Coronavirus prompts France to ban gatherings of more than 5,000",
+            "description": "The coronavirus outbreak led France on Saturday to ban \u201cconfined\u201d public gatherings of more than 5,000 people.",
+            "url": "https://www.foxnews.com/world/coronavirus-prompts-france-to-ban-gatherings-of-more-than-5000",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20059505895349.jpg",
+            "publishedAt": "2020-02-29T15:25:09Z",
+            "content": "The coronavirus outbreak led France on Saturday to ban \u201cconfined\u201d public gatherings of more than 5,000 people.\r\nThe ban was announced as the French government reported 16 new coronavirus cases, raising the total of confirmed cases in the country to 73, up fro\u2026 [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Newt Gingrich",
+            "title": "Newt Gingrich: Asking the right questions about coronavirus",
+            "description": "If we approach the challenge of the coronavirus as serious adults, there is no reason to believe we can\u2019t solve both the health and the economic problems.",
+            "url": "https://www.foxnews.com/opinion/newt-gingrich-asking-the-right-questions-about-coronavirus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af43db39-985c-4cc1-abfa-f39e5db31b3a/609fb9cc-f83e-45c0-bbda-7e93667cdfe1/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T11:00:31Z",
+            "content": "After listening to the Democrats attack President Trump and smear Vice President Mike Pence over the coronavirus, it hit me that it is vital for Republicans to focus on the virus \u2013 specifically its challenges to human health, jobs, and the economy.\r\nThere is \u2026 [+5877 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "US may use Defense Production Act to boost supplies of coronavirus protective gear",
+            "description": "The Trump administration is considering using special executive powers to ramp up U.S. production of protective face masks and clothing to combat the domestic spread of coronavirus.",
+            "url": "https://www.foxnews.com/health/us-may-use-defense-production-act-to-boost-supplies-of-coronavirus-protective-gear",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/17_AP20023402601886.jpg",
+            "publishedAt": "2020-02-29T11:20:25Z",
+            "content": "The Trump administration is considering using special executive powers to ramp up U.S. production of protective face masks and clothing to combat the domestic spread of coronavirus.\r\nHealth and Human Services Secretary Alex Azar said Friday that the\u00a0administr\u2026 [+1401 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sam Dorman",
+            "title": "CNN host compares Bernie Sanders to coronavirus: Can either 'be stopped?'",
+            "description": "CNN host Michael Smerconish warned on Saturday that both Sen. Bernie Sanders, I-Vt., and the coronavirus could have unpredictable impacts on the 2020 presidential election.",
+            "url": "https://www.foxnews.com/media/smerconish-cnn-bernie-sanders-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Smerconish-Bernie-Sanders-FACEBOOK-AP.jpg",
+            "publishedAt": "2020-02-29T19:36:30Z",
+            "content": "CNN host Michael Smerconish warned on Saturday that both Sen. Bernie Sanders, I-Vt., and the coronavirus could have unpredictable impacts on the 2020 presidential election.\r\n\"Can either coronavirus or Bernie Sanders be stopped?\" Smerconish said. A CNN chyron \u2026 [+1070 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Marisa Schultz",
+            "title": "Trump holds press conference on coronavirus after first American dies from outbreak",
+            "description": "President Trump will address the nation Saturday afternoon from the White House briefing room on coronavirus, amid news of the first American death tied to the outbreak.",
+            "url": "https://www.foxnews.com/politics/trump-holds-press-conference-after-first-american-dies-from-coronavirus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76dfae3e-efe1-448f-92b4-827114c0098c/ee4a7dfe-5702-4424-9772-02da5224a3d7/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T18:31:57Z",
+            "content": "President Trump will address the nation Saturday afternoon from the White House briefing room on coronavirus, amid news of the first American death tied to the outbreak.\r\nTrump announced his 1:30 p.m. ET press conference on Twitter on Saturday as Vice Preside\u2026 [+2578 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sam Dorman",
+            "title": "Trump campaign accuses media of lying about POTUS calling coronavirus a 'hoax'",
+            "description": "The Trump campaign is denouncing media coverage of the president's Thursday rally, arguing that they falsely accused him of calling the coronavirus a \"hoax.\"",
+            "url": "https://www.foxnews.com/media/trump-campaign-media-coronavirus-hoax",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/2370eca5-Donald-Trump.jpg",
+            "publishedAt": "2020-02-29T22:10:10Z",
+            "content": "The Trump campaign is denouncing media coverage of the president's Thursday rally, arguing that they falsely accused him of calling the coronavirus a \"hoax.\"\r\nA long list of major media outlets and figures made that claim. \"Trump rallies his base to treat cor\u2026 [+3451 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Coronavirus advisory for Italy: State Dept. raises travel warning",
+            "description": "The State Department is urging Americans to reconsider travel to Italy amid a coronavirus outbreak that has claimed 21 lives in that country.",
+            "url": "https://www.foxnews.com/politics/coronavirus-advisory-state-dept-raises-travel-warning-for-italy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20059514979303.jpg",
+            "publishedAt": "2020-02-29T02:19:32Z",
+            "content": "The State Department is urging Americans to reconsider travel to Italy amid a coronavirus outbreak that has claimed 21 lives in that country.\r\nThe agency updated\u00a0its travel warning to its second-highest level amid news that nearly 900 people in Italy have bee\u2026 [+1081 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joshua Nelson",
+            "title": "Former Sen. Chuck Hagel says coronavirus crisis proves 'Congress has become captive to raw partisanship\u2019",
+            "description": "Former Sen. Chuck Hagel told Fox News Friday that the coronavirus outbreak should bring members of both parties together, rather than be used for political division.",
+            "url": "https://www.foxnews.com/media/chuck-hagel-coronavirus-crisis-congress-raw-partisanship",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Screen-Shot-2020-02-28-at-8.00.21-PM.png",
+            "publishedAt": "2020-02-29T01:46:50Z",
+            "content": "Former\u00a0Sen.\u00a0Chuck Hagel told Fox News Friday that the coronavirus\u00a0outbreak should bring members of both parties together, rather than be\u00a0used for political division.\r\n\u201cUnfortunately, our Congress has been captive to raw partisanship instead of compromise and \u2026 [+1650 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Washington state confirms 2 new coronavirus cases, 1 of unknown origin",
+            "description": "Washington state health officials confirmed two new presumptive cases of coronavirus late Friday, including a teenager who hadn\u2019t traveled out of the U.S. recently.",
+            "url": "https://www.foxnews.com/health/washington-state-confirms-2-new-coronavirus-cases-1-of-unknown-origin",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c265772d-4460-4fa4-ab65-89a14433d797/75e057c5-42bc-48a5-a3cb-adb7f5843c20/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T10:02:03Z",
+            "content": "Washington\u00a0state health officials confirmed two new presumptive cases of coronavirus\u00a0late Friday, including a teenager who hadn\u2019t traveled out of the U.S. recently.\r\nThe teen was\u00a0in home isolation and the student's high school, in Snohomish County north of\u00a0Se\u2026 [+1737 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sam Dorman",
+            "title": "Bill Maher: 'Bright side' of coronavirus controversy is it might make people dislike Trump",
+            "description": "HBO host Bill Maher denied rooting for failure in the administration's response to the coronavirus, but said President Trump's alleged incompetence would \"finally\" turn people against him.",
+            "url": "https://www.foxnews.com/media/bill-maher-coronavirus-controversy-bright-side",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/marr-trump.jpg",
+            "publishedAt": "2020-02-29T19:39:38Z",
+            "content": "HBO host Bill Maher denied rooting for failure in the administration's response to the coronavirus, but said President Trump's alleged incompetence would \"finally\" turn people against him.\r\n\"I'm going to look on the bright side of this and say that I think th\u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sam Dorman",
+            "title": "Coronavirus patient says disease 'not the scary thing that everyone thinks it is'",
+            "description": "A man who tested positive for the coronavirus told Fox News on Saturday that he felt fine and thought people should stop freaking out about the illness.",
+            "url": "https://www.foxnews.com/media/coronavirus-patient-disease-not-scary",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Mark-Jorgensen-FOX.jpg",
+            "publishedAt": "2020-02-29T17:09:12Z",
+            "content": "A man who tested positive for the coronavirus told Fox News on Saturday that people should stop freaking out about the outbreak.\r\n\"I'm not the one to advise the experts on this, but I personally believe that it's not the scary thing that everyone thinks it is\u2026 [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Iran prepares to test 'tens of thousands' for coronavirus as number of confirmed cases spikes",
+            "description": "Iran is preparing for the possibility of \u201ctens of thousands\u201d of people getting tested for the new coronavirus as the number of confirmed cases spiked again Saturday.",
+            "url": "https://www.foxnews.com/world/iran-test-coronavirus-cases-spike",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20059594982999.jpg",
+            "publishedAt": "2020-02-29T16:53:54Z",
+            "content": "Iran is preparing for the possibility of \u201ctens of thousands\u201d of people getting tested for the new coronavirus as the number of confirmed cases spiked again Saturday, an official said, underscoring the fear both at home and abroad over the outbreak in the Isla\u2026 [+6248 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "Trump's coronavirus travel restrictions: What you need to know",
+            "description": "To help contain the spread of the novel coronavirus, President Trump has directed the State Department to issue new travel restrictions for certain countries. Here's what you need to know.",
+            "url": "https://www.foxnews.com/us/trump-pence-coronavirus-travel-restrictions-what-to-know",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Trump-Coronavirus-press-thumb-copy.jpg",
+            "publishedAt": "2020-02-29T21:32:20Z",
+            "content": "To help contain the spread of the novel coronavirus, President Trump has directed the State Department to issue new travel restrictions for certain countries. Here's what you need to know.\r\nDuring a Saturday press conference at the White House, Vice President\u2026 [+3289 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "CPAC attendees rip Democrats over reaction to coronavirus: 'It's their next game'",
+            "description": "Fox News contributor and \"Hannity\" 2020 correspondent Lawrence Jones spoke Friday with attendees of this year's Conservative Political Action Conference who are unhappy with Democrats for their politicization of the coronavirus outbreak.",
+            "url": "https://www.foxnews.com/media/lawrence-jones-cpac-attendees-democrats-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/JonesCPAC720.jpg",
+            "publishedAt": "2020-02-29T03:10:01Z",
+            "content": "Fox News contributor and \"Hannity\" 2020 correspondent Lawrence Jones spoke Friday with attendees of this year's Conservative Political Action Conference\u00a0who are unhappy with Democrats for their politicization of the coronavirus outbreak.\r\n\"Do you think that t\u2026 [+1346 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Joe Concha: Mainstream media's blame game with Trump hurting important coronavirus reporting",
+            "description": "The media's willingness to blame President Trump -- in addition to recent blatant criticism from Democratic lawmakers -- is negatively affecting important aspects of reporting on the deadly coronavirus, The Hill's media reporter Joe Concha said Saturday.",
+            "url": "https://www.foxnews.com/media/joe-concha-media-coronavirus-response-president-trump-blame-game",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/JOE-CONCHA.jpg",
+            "publishedAt": "2020-02-29T14:21:34Z",
+            "content": "The mainstream\u00a0media\u00a0is so eager\u00a0to blame President Trump\u00a0for his handling of the coronavirus\u00a0outbreak that important health information isn't getting out to the\u00a0public, The Hill's media reporter Joe Concha said Saturday.\r\nAppearing on\u00a0\"Fox &amp; Friends Week\u2026 [+1861 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Shaw",
+            "title": "Trump, Dr. Fauci both deny health official 'muzzled' on coronavirus",
+            "description": "President Trump on Saturday rejected reports that Dr. Anthony Fauci -- the director of the National Institute of Allergy and Infectious Diseases -- was muzzled from speaking to the public about the dangers of the coronavirus.",
+            "url": "https://www.foxnews.com/politics/president-trump-denies-muzzling-fauci",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a778d373-2942-445d-9a07-acb549c114eb/db5de71e-60ef-4996-8664-3ec6869c2ab5/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T20:04:13Z",
+            "content": "President Trump on Saturday rejected reports that Dr. Anthony Fauci -- the director of the National Institute of Allergy and Infectious Diseases -- was muzzled from speaking to the public about the dangers of the coronavirus.\r\n\u201cThat\u2019s a very dishonest questio\u2026 [+2092 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "2nd coronavirus case of 'unknown origin' confirmed in California: CDC",
+            "description": "A second novel coronavirus case of \"unknown origin\" was discovered in the state of California on Friday, after a Santa Clara County resident reportedly tested positive for the disease.",
+            "url": "https://www.foxnews.com/us/second-coronavirus-case-unknown-origin-confirmed-california-cdc",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20030595268074-1.jpg",
+            "publishedAt": "2020-02-29T00:48:03Z",
+            "content": "A second coronavirus case of \"unknown origin\" was confirmed in the state of California on Friday, after a Santa Clara County resident reportedly tested positive for the disease.\r\nThe Centers for Disease Control and Prevention (CDC) said\u00a0that officials are \u201caw\u2026 [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Over China, cornavirus coincides with plummet in nitrogen dioxide",
+            "description": "The coronavirus is coinciding with \"significant decreases\" in nitrogen dioxide over China, according to NASA, as authorities there continue to place more people under quarantines and some businesses remain closed amid the outbreak.",
+            "url": "https://www.foxnews.com/science/china-cornvirus-coincides-plummet-nitrogen-dioxide",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/3e5f8fe4-CV.jpg",
+            "publishedAt": "2020-02-29T03:29:14Z",
+            "content": "The coronavirus is coinciding with \"significant decreases\" in nitrogen dioxide over China, according to\u00a0NASA, as authorities there continue to place more people under quarantines and some businesses remain\u00a0closed amid the outbreak.\r\nPollution monitoring satel\u2026 [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joshua Nelson",
+            "title": "Cotton calls China travel ban 'the single most consequential and valuable thing' done to slow coronavirus",
+            "description": "Sen. Tom Cotton, R-Ark., praised the Trump administration Friday amid a flood of attacks by critics in the media and by Democratic lawmakers over its handling of the coronavirus outbreak.",
+            "url": "https://www.foxnews.com/media/tom-cotton-trump-china-travel-ban-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Screen-Shot-2020-02-28-at-9.54.13-PM.png",
+            "publishedAt": "2020-02-29T03:26:24Z",
+            "content": "Sen. Tom\u00a0Cotton, R-Ark., praised the\u00a0Trump\u00a0administration Friday amid a flood of attacks by critics in the media and by\u00a0Democratic lawmakers over its handling of the coronavirus outbreak.\r\n\u201cThis is just an example of President\u2019s critics, criticizing anything \u2026 [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "Second coronavirus case of 'unknown origin' confirmed in California, CDC says",
+            "description": "A second novel coronavirus case of \"unknown origin\" was discovered in the state of California on Friday, after a Santa Clara County resident reportedly tested positive for the disease.",
+            "url": "https://www.foxnews.com/health/second-coronavirus-case-unknown-origin-confirmed-california-cdc",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20059002682408.jpg",
+            "publishedAt": "2020-02-29T00:48:03Z",
+            "content": "A second coronavirus case of \"unknown origin\" was confirmed in the state of California on Friday, after a Santa Clara County resident reportedly tested positive for the disease.\r\nThe Centers for Disease Control and Prevention (CDC) said\u00a0that officials are \u201caw\u2026 [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joshua Nelson",
+            "title": "Marc Seigel slams 'bunch of alarmists' at World Health Organization: 'They always overstate the problem\u2019",
+            "description": "Fox News medical correspondent Dr. Marc Seigel on Friday called the World Health Organization \u201calarmist\u201d for raising their assessment of the global coronavirus risk from \u201chigh\u201d to \u201cvery high.\u201d",
+            "url": "https://www.foxnews.com/media/dr-marc-seigel-who-alarmists-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Dr.MarcSiegel228.jpg",
+            "publishedAt": "2020-02-29T00:44:09Z",
+            "content": "Fox News medical correspondent\u00a0Dr. Marc Seigel criticized\u00a0the World Health Organization (WHO)\u00a0as \u201ca bunch of alarmists\u201d Friday for raising their assessment of the global coronavirus risk from \u201chigh\u201d to \u201cvery high.\u201d\r\nA \u201cvery high\u201d global risk assessment is the\u2026 [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Debra Messing blames Trump for coronavirus while citing false stats: 'He puts Americans in mortal danger'",
+            "description": "Debra Messing is the latest liberal to blame President Trump for the coronavirus, but there's one small problem with her argument: it's based on outdated information, according to a new report.",
+            "url": "https://www.foxnews.com/entertainment/debra-messing-blames-trump-coronavirus-mortal-danger-false-information",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/debra-messing-donald-trump-reuters-ap.jpg",
+            "publishedAt": "2020-02-29T19:02:20Z",
+            "content": "Debra Messing is the latest liberal to blame President Trump for the coronavirus, but there's one small problem with her argument: it's based on inaccurate information, according to a new report.\r\nThe 51-year-old actress took to Twitter on Friday in response \u2026 [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Oregon coronavirus patient is grade-school employee; school closed for deep cleaning, officials say",
+            "description": "An elementary school in Oregon will remain closed through Wednesday after an employee became the first presumptive case of coronavirus in the state, the Lake Oswego School District confirmed on its website.",
+            "url": "https://www.foxnews.com/health/oregon-coronavirus-patient-is-grade-school-employee-school-closed-for-deep-cleaning-officials-say",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/c3c3ef69-146607538.jpg",
+            "publishedAt": "2020-02-29T08:06:48Z",
+            "content": "An elementary\u00a0school in Oregon\u00a0will remain closed through Wednesday after an employee became the first presumptive case of coronavirus\u00a0in the state, the Lake Oswego School District confirmed on its website.\r\nThe district\u00a0said its 430-student Forest Hills Elem\u2026 [+2041 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Van Hipp",
+            "title": "Van Hipp: Containing coronavirus -- key steps to take right now to get ahead of the outbreak",
+            "description": "We can get ahead of the coronavirus and contain it if we employ American ingenuity and innovativeness the right way and let our world-class military infectious disease physicians and scientists lead the charge.",
+            "url": "https://www.foxnews.com/opinion/van-hipp-containing-coronavirus-key-steps-to-take-right-now-to-get-ahead-of-the-outbreak",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b64722a0-9aef-4f15-889a-198f97586138/2aa59678-5db5-4548-94fe-1fb75467897c/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T19:59:52Z",
+            "content": "The coronavirus has now claimed its first American life. President Trump assured Americans from the White House on Saturday that\u00a0there is \"no reason to panic\" as he announced expanded travel restrictions for Iran, South Korea and Italy over the virus.\r\nThe ve\u2026 [+6059 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "New York Post",
+            "title": "Coronavirus stock sell-off: Meet the face of Wall Street's absolute worst moments",
+            "description": "Wall Street trader Peter Tuchman has been captured freaking out on camera more than a dozen times during some of the most catastrophic financial crashes of the past two decades \u2014 including the mortgage-lending stock dive of 2007 and the coronavirus-fueled plu\u2026",
+            "url": "https://www.foxnews.com/us/coronavirus-wall-street-sell-off-peter-tuchman",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20058564620279.jpg",
+            "publishedAt": "2020-02-29T12:23:14Z",
+            "content": "Meet the face of your money going down the drain.\r\nWall Street trader Peter Tuchman has been captured freaking out on camera more than a dozen times during some of the most catastrophic financial crashes of the past two decades \u2014 including the mortgage-lendin\u2026 [+1893 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Kris Kobach warns southern border could be 'wide-open doorway' for those infected with coronavirus",
+            "description": "While President Trump \"did the right thing\" by shuttering ports of entry to people coming in from China in reaction to the coronavirus outbreak, the southern border is still not secured leaving the United States exposed, former Kansas Secretary of State Kris \u2026",
+            "url": "https://www.foxnews.com/media/kris-kobach-coronavirus-border-security-chinese-national-immigrants",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/KRIS-KOBACH.jpg",
+            "publishedAt": "2020-02-29T17:35:32Z",
+            "content": "While President Trump \"did the right thing\" by shuttering ports of entry to people coming in from China in reaction to the coronavirus outbreak,\u00a0the southern border is still not secured, leaving the United States exposed, former KansasSecretary of State Kris \u2026 [+3280 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Person dies from coronavirus in Washington state, first in the US, health officials say",
+            "description": "",
+            "url": "https://www.foxnews.com/us/person-dies-from-coronavirus-in-washington-state-first-in-the-us-health-officials-say",
+            "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+            "publishedAt": "2020-02-29T18:09:42Z",
+            "content": "Washington state health officials say one person has died from coronavirus, the first person to die from the disease in the U.S, according to the Associated Press.\r\nThis is a developing story. Check back for updates."
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alex Pappas",
+            "title": "Trump holds rally in North Charleston on eve of Dems' South Carolina primary",
+            "description": "President Trump took the stage to rally supporters in North Charleston on Friday evening and accused his Democratic critics of \"politicizing\" the coronavirus virus, a day before Democrats head to the polls in South Carolina to vote for their nominee to face h\u2026",
+            "url": "https://www.foxnews.com/politics/trump-rallies-in-north-charleston-on-eve-of-south-carolina-primary",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/TrumpColorado022120.jpg",
+            "publishedAt": "2020-02-29T00:09:13Z",
+            "content": "President Trump took the stage to rally supporters in North Charleston on Friday evening and accused his Democratic critics of \"politicizing\" the coronavirus virus, a day before Democrats head to the polls in South Carolina to vote for their nominee to face h\u2026 [+2733 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "Maryland man arrested after stabbing woman with syringe of semen: police",
+            "description": "Maryland police revealed Friday that a woman stabbed outside a parking lot earlier this month was attacked by a man wielding a syringe full of semen.",
+            "url": "https://www.foxnews.com/us/maryland-man-arrested-stab-woman-syringe-semen",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Thomas-Bryon-Stemen-Security-Anne-Arundel-County-Police.jpg",
+            "publishedAt": "2020-02-29T17:48:09Z",
+            "content": "Maryland police revealed Friday that a woman stabbed outside a parking lot earlier this month was attacked by a man wielding a syringe full of semen.\r\nThomas Bryon Stemen, 51, was arrested Tuesday and charged with first and second-degree assault and reckless \u2026 [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Singman",
+            "title": "Trump to address CPAC on closing day of conference",
+            "description": "President Trump is expected to speak at the Conservative Political Action Conference Saturday afternoon for the fourth time in his presidency.",
+            "url": "https://www.foxnews.com/politics/trump-to-address-cpac-2020",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3826c2-fa21-4062-8700-1ea3297fa813/caa4a80a-1b82-433d-b53c-d8bbeb6b960d/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T20:14:57Z",
+            "content": "NATIONAL HARBOR, Md.-- President Trump is expected to speak at the Conservative Political Action Conference Saturday afternoon for the fourth time in his presidency.\r\nThe president is slated to deliver his address to CPAC on the closing day of the gathering\u00a0a\u2026 [+1867 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Lindsey Graham on US-Taliban peace agreement: 'Let's give it a try'",
+            "description": "America should give the peace agreement with the Taliban a chance, Sen. Lindsey Graham, R-S.C., said Saturday.",
+            "url": "https://www.foxnews.com/media/lindsey-graham-us-taliban-peace-deal-pompeo-trump",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/GRAHAM.jpg",
+            "publishedAt": "2020-02-29T21:07:23Z",
+            "content": "America should give\u00a0the peace agreement with the Taliban a chance, Sen. Lindsey Graham, R-S.C., said Saturday.\r\nIn an interview on \"Fox &amp; Friends Weekend\" with hosts Dean Cain, Pete Hegseth\u00a0and Jedidiah Bila, Graham said he will believe there is peace\u00a0whe\u2026 [+5247 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Singman",
+            "title": "Trump fires up CPAC: President blisters 2020 Democrats, rips \u2018low life\u2019 Romney",
+            "description": "President Trump rallied the core of the conservative activist base Saturday with a fiery address mercilessly mocking his potential Democratic presidential foes, railing against the \u201cWashington swamp\u201d and shaming Republican Sen. Mitt Romney for defecting on th\u2026",
+            "url": "https://www.foxnews.com/politics/trump-fires-up-cpac",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d3826c2-fa21-4062-8700-1ea3297fa813/caa4a80a-1b82-433d-b53c-d8bbeb6b960d/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T20:14:57Z",
+            "content": "NATIONAL HARBOR, Md. -- President Trump rallied the core of the conservative activist base Saturday with a fiery address mercilessly mocking his potential Democratic presidential foes, railing against the \u201cWashington swamp\u201d and shaming Republican Sen. Mitt Ro\u2026 [+6299 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tucker Carlson",
+            "title": "Tucker Carlson: Stop & frisk isn't racist, it saved lives",
+            "description": "Let's put politics aside. The only problem Mike Bloomberg has with stop & frisk is that he's apologizing for it.",
+            "url": "https://www.foxnews.com/opinion/tucker-carlson-stop-and-frisk-saved-lives",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dde3f24e-8354-4001-9973-53b5efe60f41/ad016728-b79e-4901-aa47-87f858c0c553/1280x720/match/image.jpg",
+            "publishedAt": "2020-02-29T16:18:23Z",
+            "content": "Ever since he began his effort to buy the Democratic nomination, Michael Bloomberg has been attacked by all sides for the stop &amp; frisk policies he used for 12 years as mayor of New York City.\r\nUnder those policies, police were encouraged to stop and quest\u2026 [+5710 chars]"
+        }
+    ]
+}

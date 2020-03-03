@@ -1,5 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 0,
-    "articles": []
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Honor Whiteman",
+            "title": "Letter from the Editor: The importance of accurate reporting - Medical News Today",
+            "description": "Letter from the Editor: The importance of accurate reporting Medical News Today Coronavirus: Big breakthrough in COVID-19 treatment! Scientists decode how it infects lungs The Financial Express How long can coronavirus survive on surfaces? Times of India The \u2026",
+            "url": "https://www.medicalnewstoday.com/articles/letter-from-the-editor-the-importance-of-accuracy",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/iStock-1065782416-1200x628.jpg",
+            "publishedAt": "2020-02-28T15:22:30Z",
+            "content": "In recent weeks, the novel coronavirus, or COVID-19, has dominated the media across the globe.\r\nAccording to a telebriefing that the Centers for Disease Control and Prevention (CDC) held earlier this week, we could be looking at a pandemic in the United State\u2026 [+3109 chars]"
+        }
+    ]
 }

@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "John Hirschauer, John Hirschauer",
+            "title": "Coronavirus Commentary: \u2018We\u2019re Living in an Age of Xenophobia\u2019",
+            "description": "Presidential biographer Jon Meachem and Richard Haass of the Council on Foreign Relations joined Morning Joe last Thursday to discuss the Trump administration\u2019s response to the coronavirus. J\u2026",
+            "url": "https://www.nationalreview.com/corner/coronavirus-commentary-were-living-in-an-age-of-xenophobia/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-south-korea-35.jpg?resize=300%2C300&ssl=1",
+            "publishedAt": "2020-02-29T18:26:18Z",
+            "content": null
+        }
+    ]
+}

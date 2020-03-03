@@ -124,19 +124,6 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
-            "author": "Christina Zhao",
-            "title": "Chuck Schumer Accuses Trump of 'Hiding the Truth' After Report Claims Pence Will Control Public Coronavirus Messaging",
-            "description": "\"President Trump should have learned the lesson that China did: Hiding the truth makes things more dangerous,\" the Senate Minority Leader tweeted.",
-            "url": "https://www.newsweek.com/chuck-schumer-accuses-trump-hiding-truth-after-report-claims-pence-will-control-public-1489632",
-            "urlToImage": "https://d.newsweek.com/en/full/1570124/schumer.jpg",
-            "publishedAt": "2020-02-28T02:22:02Z",
-            "content": "Senate Minority Leader Chuck Schumer on Thursday accused President Donald Trump of attempting to hide the truth about the new coronavirus from Americans after the White House reportedly moved to tighten messaging about the disease by health officials and scie\u2026 [+2739 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
             "author": "Matt Keeley",
             "title": "Trump's 'The Perfect President' for Coronavirus as He's a 'Germaphobe,' 'Border Hawk' and 'Tough on China,' Says Fox News' Jesse Watters",
             "description": "\"Now, the containment strategy so far is working. Not one single American has died in the United States, and according to John Hopkins University, America is the best prepared country in the entire world for this,\" Watters said.",
@@ -144,6 +131,19 @@
             "urlToImage": "https://d.newsweek.com/en/full/1570131/jesse-watters.jpg",
             "publishedAt": "2020-02-28T03:09:21Z",
             "content": "Fox News host Jesse Watters said Thursday that President Donald Trump is uniquely qualified to stop the coronavirus, because he's \"a germaphobe who's tough on China.\"\r\nOn Thursday's episode of The Five, in response to fellow host Juan Williams' statements tha\u2026 [+2690 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Christina Zhao",
+            "title": "Chuck Schumer Accuses Trump of 'Hiding the Truth' After Report Claims Pence Will Control Public Coronavirus Messaging",
+            "description": "\"President Trump should have learned the lesson that China did: Hiding the truth makes things more dangerous,\" the Senate Minority Leader tweeted.",
+            "url": "https://www.newsweek.com/chuck-schumer-accuses-trump-hiding-truth-after-report-claims-pence-will-control-public-1489632",
+            "urlToImage": "https://d.newsweek.com/en/full/1570124/schumer.jpg",
+            "publishedAt": "2020-02-28T02:22:02Z",
+            "content": "Senate Minority Leader Chuck Schumer on Thursday accused President Donald Trump of attempting to hide the truth about the new coronavirus from Americans after the White House reportedly moved to tighten messaging about the disease by health officials and scie\u2026 [+2739 chars]"
         },
         {
             "source": {
@@ -202,6 +202,19 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
+            "author": "Dan Cancian",
+            "title": "Coronavirus Japan Update: Tokyo Olympics 2020 Odds-On to Be Canceled, According to Bookmakers",
+            "description": "Irish bookmaker Paddy Power shortens odds on Tokyo Olympics not being held to 4/6, making a cancelation odds-on.",
+            "url": "https://www.newsweek.com/coronavirus-japan-update-tokyo-olympics-2020-odds-canceled-according-bookmakers-1489739",
+            "urlToImage": "https://d.newsweek.com/en/full/1568056/tokyo-2020-olympic-games.jpg",
+            "publishedAt": "2020-02-28T16:25:19Z",
+            "content": "The outbreak of coronavirus has reached such an extent that this summer's Olympic Games are now likelier to be canceled than to go ahead, according to a major bookmaker.\r\nIrish oddsmaker Paddy Power has shifted odds on a cancelation of the 2020 Olympic Games \u2026 [+4094 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
             "author": "Jenni Fink",
             "title": "Who's At Risk of Getting the Coronavirus Disease? International Experts Detail COVID-19 Susceptibility in Report",
             "description": "The virus poses a greater risk to certain demographics than others, according to a team of 25 international experts.",
@@ -215,13 +228,13 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
-            "author": "Dan Cancian",
-            "title": "Coronavirus Japan Update: Tokyo Olympics 2020 Odds-On to Be Canceled, According to Bookmakers",
-            "description": "Irish bookmaker Paddy Power shortens odds on Tokyo Olympics not being held to 4/6, making a cancelation odds-on.",
-            "url": "https://www.newsweek.com/coronavirus-japan-update-tokyo-olympics-2020-odds-canceled-according-bookmakers-1489739",
-            "urlToImage": "https://d.newsweek.com/en/full/1568056/tokyo-2020-olympic-games.jpg",
-            "publishedAt": "2020-02-28T16:25:19Z",
-            "content": "The outbreak of coronavirus has reached such an extent that this summer's Olympic Games are now likelier to be canceled than to go ahead, according to a major bookmaker.\r\nIrish oddsmaker Paddy Power has shifted odds on a cancelation of the 2020 Olympic Games \u2026 [+4094 chars]"
+            "author": "Jenni Fink",
+            "title": "Thinking About Getting a Mask to Protect Against Coronavirus? What You Need to Know",
+            "description": "Certain masks have sold out on Amazon and demand sparked a surge in prices, but experts warned wearing a mask could actually increase your chances of getting the virus.",
+            "url": "https://www.newsweek.com/coronavirus-mask-n95-respirator-united-states-1489621",
+            "urlToImage": "https://d.newsweek.com/en/full/1570115/coronavirus-united-states-face-mask.jpg",
+            "publishedAt": "2020-02-28T10:00:01Z",
+            "content": "The spread of COVID-19 has caused a run on face masks, but experts advised Americans against wearing one to try to reduce the chance they'll contract the virus.\r\nOn Tuesday, the Centers for Disease Control and Prevention confirmed the first case of the virus \u2026 [+4504 chars]"
         },
         {
             "source": {
@@ -248,19 +261,6 @@
             "urlToImage": "https://d.newsweek.com/en/full/1570190/statista-covid-19-coronavirus-cases.jpg",
             "publishedAt": "2020-02-28T13:34:18Z",
             "content": "Fears over the rapid spread of the COVID-19 coronavirus have been growing, with California reportedly monitoring around 8,400 people after the first possible case of person-to-person transmission of unknown origin was confirmed this week.\r\nCases have been con\u2026 [+9284 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Jenni Fink",
-            "title": "Thinking About Getting a Mask to Protect Against Coronavirus? What You Need to Know",
-            "description": "Certain masks have sold out on Amazon and demand sparked a surge in prices, but experts warned wearing a mask could actually increase your chances of getting the virus.",
-            "url": "https://www.newsweek.com/coronavirus-mask-n95-respirator-united-states-1489621",
-            "urlToImage": "https://d.newsweek.com/en/full/1570115/coronavirus-united-states-face-mask.jpg",
-            "publishedAt": "2020-02-28T10:00:01Z",
-            "content": "The spread of COVID-19 has caused a run on face masks, but experts advised Americans against wearing one to try to reduce the chance they'll contract the virus.\r\nOn Tuesday, the Centers for Disease Control and Prevention confirmed the first case of the virus \u2026 [+4504 chars]"
         },
         {
             "source": {

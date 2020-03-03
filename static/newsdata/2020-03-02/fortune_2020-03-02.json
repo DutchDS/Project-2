@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Anne Sraders",
+            "title": "Coronavirus spreads to a previously healthy sector: corporate earnings",
+            "description": "From Apple to Coca-Cola, here are the big companies revising earnings outlooks due to coronavirus.",
+            "url": "https://fortune.com/2020/03/02/coronavirus-spreads-to-corporate-earnings/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1202430229.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "Pharma vet and former Biogen chief to lead biotech industry\u2019s coronavirus response",
+            "description": "George Scangos, now the CEO of Vir, will coordinate the biotech industry's coronavirus response.",
+            "url": "https://fortune.com/2020/03/02/coronavirus-czar-biotech-george-scangos/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/George-Scangos-coronavirus-czar-biotech.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T15:47:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Demands to cancel SXSW grow amid coronavirus fears as organizers tout new guests",
+            "description": "Organizers prefer to focus on Hillary Clinton\u2019s appearance, rather than coronavirus and a 17,000+ person petition.",
+            "url": "https://fortune.com/2020/03/02/coronavirus-sxsw-petition-cancel-hillary-clinton/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/IMG_2710.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T16:19:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "The coronavirus is giving China cover to expand its surveillance. What happens when the virus is gone?",
+            "description": "Improved facial recognition tech and mandatory registrations track potential coronavirus carriers.",
+            "url": "https://fortune.com/2020/03/01/coronavirus-china-surveillance-tracking/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1201747143.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T04:55:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "kdunn6",
+            "title": "Coronavirus is threatening a manufacturing comeback in the Eurozone",
+            "description": "The virus is hitting delivery lead times and inventories in the bloc",
+            "url": "https://fortune.com/2020/03/02/manufacturing-eurozone-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1203875207.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T10:13:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "James Nosek",
+            "title": "Japanese electronics maker Sharp will start making face masks to meet coronavirus demand",
+            "description": "Electronics maker Sharp Corp. said Monday it will start making surgical masks, which are in high demand because of the virus outbreak",
+            "url": "https://fortune.com/2020/03/02/coronavirus-face-masks-shortage-sharp-corp/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Japan-Coronavirus-Masks-Store.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T15:45:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "James Nosek",
+            "title": "Dow surges 5% on hopes for central bank help on the economy",
+            "description": "The Dow Jones Industrial Average surged more than 1,200 points, or 5%, on hopes that central banks will take action to shelter the global economy from the effects of the coronavirus outbreak.",
+            "url": "https://fortune.com/2020/03/02/dow-jones-surge-is-economy-stock-market-today/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Dow-surges-five-percent.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T21:54:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Coronavirus stock market slide hits pause as another central bank promises \u2018appropriate\u2019 actions",
+            "description": "Investors are putting their faith in central banks\u2014again",
+            "url": "https://fortune.com/2020/03/02/stock-market-today-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1209235196-1.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T07:19:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "lbelanger225",
+            "title": "Coronavirus concerns push baseball\u2019s final Olympic qualifying event to June",
+            "description": "The World Baseball Softball Conference announced Monday the qualification event scheduled for April 1-5 had been postponed to June 17-21.",
+            "url": "https://fortune.com/2020/03/02/coronavirus-baseball-qualifying-olympics-june/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1188147804.jpg?resize=1200,600",
+            "publishedAt": "2020-03-02T16:00:00Z",
+            "content": null
+        }
+    ]
+}

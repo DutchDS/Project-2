@@ -1,0 +1,292 @@
+{
+    "status": "ok",
+    "totalResults": 22,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "First U.S. Coronavirus Death",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-02-29/first-u-s-coronavirus-death-video",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T18:55:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Washington State Authorities Identify 2 Coronavirus Cases",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/washington-state-authorities-identify-2-new-coronavirus-cases",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T05:41:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Oregon Says First Coronavirus Case Result of Community Spread",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/oregon-says-first-coronavirus-case-result-of-community-spread",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T03:06:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Iranian Coronavirus Cases Jump as More Officials Infected",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/iranian-coronavirus-cases-jump-as-more-officials-infected",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T11:52:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trump's Coronavirus Response Bedeviled by Missteps, Raising Risk",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/trump-s-coronavirus-response-bedeviled-by-missteps-raising-risk",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trump Team Testing 'Off-the-Shelf' Drugs to Cure Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/trump-team-testing-off-the-shelf-drugs-to-cure-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T20:28:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Switzerland to Lower Economic Forecast Over Coronavirus: Reuters",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/switzerland-to-lower-economic-forecast-over-coronavirus-reuters",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T16:06:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trump Pivots to Criticize Fed on Need for Coronavirus Response",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/trump-pivots-to-criticize-fed-on-need-for-coronavirus-response",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T19:45:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "U.S., Australia Report First Coronavirus Deaths: Virus Update - Bloomberg",
+            "description": "U.S., Australia Report First Coronavirus Deaths: Virus Update Bloomberg Trump calls outbreak a 'hoax,' South Korea has record jump in cases CNBC Iran prepares to test 'tens of thousands' for coronavirus as number of confirmed cases spikes Fox News Italy and F\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ca2948c0-5b61-11ea-9082-2516e1e8fc46&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0yOS91LXMtcmVwb3J0cy1maXJzdC1kZWF0aC10ZXN0aW5nLWV4cGFuZHMtZ2xvYmFsbHktdmlydXMtdXBkYXRl",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T22:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Iran Says 43 People Have Died From Coronavirus; 593 Confirmed Cases",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/ap-newsalert-iran-health-ministry-spokesman-says-43-dead-amid-593-confirmed-cases-of-the-new-coronavirus-in-the-islamic",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T09:59:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "President Trump Says First U.S. Coronavirus Death Was 'High-Risk Patient'",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/trump-says-first-u-s-coronavirus-death-was-high-risk-patient",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T19:18:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Japan\u2019s Abe Seeks to Defuse Virus Criticism With Cash, Testing - Bloomberg",
+            "description": "Japan\u2019s Abe Seeks to Defuse Virus Criticism With Cash, Testing Bloomberg Japan PM Abe seeks citizens' help in coronavirus fight as Olympics to go ahead Reuters In Graying Japan, Many Are Vulnerable but Few Are Being Tested The New York Times Coronavirus May C\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=717bfa60-5b16-11ea-af12-979574573a92&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMi0yOS9qYXBhbi1zLWFiZS1wbGFucy1zZWNvbmQtdmlydXMtcGFja2FnZS1vZi0yNzAtYmlsbGlvbi15ZW4=",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T09:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Cecile Daurat",
+            "title": "Global Profit Warnings Are Spreading as Fast as the Virus",
+            "description": "The world\u2019s biggest companies have started sounding the alarm.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/global-profit-warnings-are-spreading-as-fast-as-the-virus",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLvM_r.Sm5p8/v0/1200x800.jpg",
+            "publishedAt": "2020-02-29T01:15:00Z",
+            "content": "The world\u2019s biggest companies have started sounding the alarm.\r\nFrom \r\nApple Inc. to \r\nMicrosoft Corp., Danone and \r\nDiageo Plc, the U.K. maker of Johnnie Walker whiskey, the corporate world has seen a sharp increase in profit warnings about a financial hit f\u2026 [+6548 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pope Francis Cancels Audiences for 3rd Day Over Apparent Cold",
+            "description": "Pope Francis canceled official engagements for the third day in a row Saturday as he battled an apparent cold.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/pope-cancels-audiences-for-third-day-with-apparent-cold",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1ByUzvgCVJU/v1/1200x800.jpg",
+            "publishedAt": "2020-02-29T10:36:19Z",
+            "content": "Pope Francis during Ash Wednesday Service at Santa Sabina Basilica, on Feb.\u00a026.\u00a0\r\nSource: Vatican Pool via Getty Images\u00a0\r\nVatican City (AP) -- Pope Francis canceled official engagements for the third day in a row Saturday as he battled an apparent cold.\r\nThe \u2026 [+1822 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mario Parker",
+            "title": "Trump to Rally Conservatives as Coronavirus Sinks Stock Markets",
+            "description": "President Donald Trump will address a gathering of his most fervent supporters outside Washington on Saturday, as he faces extraordinary new pressure on his administration from the coronavirus outbreak that has left U.S. stock markets badly shaken.",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/trump-to-rally-conservatives-as-coronavirus-sinks-stock-markets",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izEL_NZ1IzTU/v1/1200x800.jpg",
+            "publishedAt": "2020-02-29T02:41:00Z",
+            "content": "President Donald Trump will address a gathering of his most fervent supporters outside Washington on Saturday, as he faces extraordinary new pressure on his administration from the coronavirus outbreak that has left U.S. stock markets badly shaken.\r\nThe annua\u2026 [+3810 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Michael Winfrey",
+            "title": "Coronavirus Goes Global, Super Tuesday Approaches: Weekend Reads",
+            "description": "The threat of the coronavirus went global\u00a0this week, prompting Japan to shut schools, Germany and other countries to impose quarantines\u00a0and sowing chaos in markets.\u00a0Democratic presidential candidates face-off in South Carolina for the last primary before Supe\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/coronavirus-goes-global-super-tuesday-approaches-weekend-reads-k77m5fco",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivm24pKaR3fY/v0/1200x800.jpg",
+            "publishedAt": "2020-02-29T13:00:24Z",
+            "content": "The threat of the coronavirus went global\u00a0this week, prompting Japan to shut schools, Germany and other countries to impose quarantines\u00a0and sowing chaos in markets.\u00a0\r\nDemocratic presidential candidates face-off in South Carolina for the last primary before Su\u2026 [+4457 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mark Niquette",
+            "title": "Bloomberg Buys Airtime Anti-Virus Ad: Campaign Update",
+            "description": "Michael Bloomberg said Saturday he\u2019s buying three minutes of airtime on CBS and NBC Sunday night for what he\u2019s billing as an \u201caddress to the nation\u201d on the threat of the coronavirus and to criticize President Donald Trump\u2019s response.\u201cThe coronavirus is spread\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/bloomberg-buys-airtime-for-long-anti-virus-ad-campaign-update",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irGKsT5wy2G4/v0/1200x630.png",
+            "publishedAt": "2020-02-29T20:57:19Z",
+            "content": "Michael Bloomberg said Saturday he\u2019s buying three minutes of airtime on CBS and NBC Sunday night for what he\u2019s billing as an \u201caddress to the nation\u201d on the threat of the coronavirus and to criticize President Donald Trump\u2019s response.\r\n\u201cThe coronavirus is spre\u2026 [+2010 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Ian Fisher",
+            "title": "U.S. Reports Its First Fatality; Testing Expands: Virus Update",
+            "description": "The U.S.\u2019s first coronavirus fatality was a man in his 50s, Washington State health officials said. The state might be dealing with a potential outbreak at a health facility that cares for the elderly. Another 27 residents have respiratory symptoms, as have 2\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/u-s-reports-first-death-testing-expands-globally-virus-update",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7.51__UiIw4/v1/1200x745.jpg",
+            "publishedAt": "2020-02-29T22:13:00Z",
+            "content": "Soldiers wearing protective suits spray disinfectant at the Dongdaegu train station in Daegu, South Korea on Feb. 29.\r\nThe U.S.\u2019s first coronavirus fatality was a man in his 50s, Washington State health officials said. The state might be dealing with a potent\u2026 [+11334 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Latest: China Factory Activity Weakest on Record",
+            "description": "Coronavirus Latest: China Factory Activity Weakest on Record bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/china-feb-manufacturing-pmi-at-35-7-est-45-0",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T01:44:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Vernon Silver",
+            "title": "Virus News Italy and EU: Italian Coronavirus Cases Top 1,000",
+            "description": "Virus News Italy and EU: Italian Coronavirus Cases Top 1,000 bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/italy-s-total-known-coronavirus-infections-top-1-000-cases",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T17:37:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Iran Says 'Tens of Thousands' May Get Tested for Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/bahrain-threatens-untested-from-iran-with-arrest-amid-virus",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T10:37:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "FDA Policy Change Takes Aim at Coronavirus Test Shortages",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-02-29/fda-policy-change-takes-aim-at-u-s-coronavirus-test-shortages",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T18:22:20Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 18,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump: First U.S. death from coronavirus was a 'medically high risk' patient",
+            "description": "President Trump held a news conference to discuss coronavirus and the first confirmed U.S. death from the outbreak.",
+            "url": "https://www.msnbc.com/msnbc/watch/trump-discusses-first-confirmed-death-from-coronavirus-in-the-u-s-79712837963",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_msnbc_brk_trump_confirmed_death_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T20:01:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Pence announces 'additional travel restrictions on Iran' amid coronavirus outbreak",
+            "description": "Vice President Mike Pence announced that President Trump had approved additional travel restrictions against Iran to combat the spread of the coronavirus outbreak.",
+            "url": "http://www.msnbc.com/msnbc/watch/pence-announces-additional-travel-restrictions-on-iran-amid-coronavirus-outbreak-79713861705",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T20:11:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Velshi: The damage done to our trust in this government over coronavirus",
+            "description": "MSNBC\u2019s Ali Velshi discusses why the trust Americans have in our government and it\u2019s handling of the coronavirus may take a long time to heal.",
+            "url": "https://www.msnbc.com/ali-velshi/watch/velshi-the-damage-done-to-our-trust-in-this-government-over-coronavirus-79690821843",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_velshi_pencecoronavirus_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T14:54:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "New coronavirus cases test readiness of U.S. response protocols",
+            "description": "Dr. Joseph Fair, virologist and infectious disease specialist, talks with Rachel Maddow about concerns for the health of medical professionals and others who may have come into contact with newly diagnosed coronavirus patients.",
+            "url": "https://www.msnbc.com/rachel-maddow/watch/new-coronavirus-cases-test-readiness-of-u-s-response-protocols-79722053676",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_maddow_fair_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T23:24:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Former Health Dept. secretary criticizes Trump coronavirus response",
+            "description": "The Trump administration is not preparing properly for the worldwide coronavirus outbreak that is now impacting the United States, according to the 21st U.S. secretary of Health and Human Services, Kathleen Sebelius, who contrasts Donald Trump\u2019s leadership to\u2026",
+            "url": "https://www.msnbc.com/am-joy/watch/trump-coronavirus-response-lacking-former-obama-official-says-79709253962",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_joy_coronavirus_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T19:23:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Window of opportunity for containing coronavirus rapidly closing",
+            "description": "Donald McNeil, science and health reporter for the New York Times, talks with Rachel Maddow about early assessments of the rate of transmission and rate of lethality of the new coronavirus.",
+            "url": "https://www.msnbc.com/rachel-maddow/watch/window-of-opportunity-for-containing-coronavirus-rapidly-closing-79661125924",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_maddow_mcneil1_200218_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T04:59:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Michael Moore: Trump calling coronavirus 'hoax' is 'dangerous'",
+            "description": "Oscar-winning documentary filmmaker Michael Moore blasts the presidents for attacking Democrats in the wake of fears over the coronavirus.",
+            "url": "https://www.msnbc.com/11th-hour/watch/michael-moore-trump-calling-coronavirus-hoax-is-dangerous-79660613973",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_bwms_moore_coronavirus_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T04:44:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "First U.S. coronavirus death confirmed in Washington state",
+            "description": "The first confirmed death from coronavirus in the United States has been confirmed in Washington state. NBC's Scott Cohn has details.",
+            "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/first-u-s-coronavirus-death-confirmed-in-washington-state-79708741750",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_witt_brk_coronavirus_death_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T18:25:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Elizabeth Warren on Mike Pence leading the coronavirus response: \u2018I cannot think of a worse person\u2019",
+            "description": "Elizabeth Warren: \u201cHe\u2019s actually the one guy around who has experience in dealing with a virus that gets out of control, only he\u2019s the guy who went in exactly the wrong direction\u2026I cannot think of a worse person to put in charge of dealing with the coronaviru\u2026",
+            "url": "https://www.msnbc.com/all-in/watch/elizabeth-warren-on-mike-pence-leading-the-coronavirus-response-i-cannot-think-of-a-worse-person-79653957908",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hayes_warren_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T01:52:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Buttigieg on black voters: I\u2019m determined to keep reaching out",
+            "description": "2020 Democratic presidential candidate Pete Buttigieg discusses the South Carolina primary, the Trump administration\u2019s coronavirus response, and his leadership background versus other candidates, also telling Joy Reid of his continuing black voter outreach, \u2018\u2026",
+            "url": "https://www.msnbc.com/am-joy/watch/pete-buttigieg-on-south-carolina-primary-black-voter-outreach-79706181865",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_joy_petebuttigieg_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T17:36:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Oregon officials announce first presumed case of coronavirus",
+            "description": "Rachel Maddow relays breaking news that health officials in Oregon have announced the state's first presumptive case of novel coronavirus, which would be the third community-spread case in the U.S. with no known origin.",
+            "url": "https://www.msnbc.com/rachel-maddow/watch/oregon-officials-announce-first-presumed-case-of-coronavirus-79657029971",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_maddow_oregon_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T03:00:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump faces crisis of confidence and competence over coronavirus",
+            "description": "Ron Klain, Pres. Obama's Ebola Czar, and Laurie Garrett, Pulitzer Prize-winning reporter covering global pandemics, say the Trump administration has not inspired confidence nor shown competence in how it is combating coronavirus.",
+            "url": "https://www.msnbc.com/the-last-word/watch/trump-faces-crisis-of-confidence-and-competence-over-coronavirus-79660101777",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_lw_coronavirus_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T04:28:14Z",
+            "content": "Ron Klain, Pres. Obama's Ebola Czar, and Laurie Garrett, Pulitzer Prize-winning reporter covering global pandemics, say the Trump administration has not inspired confidence nor shown competence in how it is combating coronavirus.Feb. 29, 2020"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Trump calls coronavirus fear the Dems' 'new hoax' as more cases are confirmed",
+            "description": "While fears and the number of coronavirus cases keep growing, Trump held a rally and Mike Pence - who the president put in charge of the government's response - held a fundraiser.",
+            "url": "http://www.msnbc.com/11th-hour/watch/trump-calls-coronavirus-fear-the-dems-new-hoax-as-more-cases-are-confirmed-79659589888",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T04:43:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "'This is what we expected': Azar discusses risk of coronavirus in the U.S.",
+            "description": "Health and Human Services Secretary Alex Azar claimed that the risk of coronavirus to most Americans \"remains low\" after the first confirmed death from the virus in the U.S.",
+            "url": "https://www.msnbc.com/msnbc/watch/azar-assures-the-risk-of-coronavirus-to-americans-remains-low-79715397887",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_msnbc_brk_azar_coronavirus_expectation_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T20:25:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Coronavirus fears cause stocks to plunge in worst week since 2008 financial crisis",
+            "description": "Former Obama and Clinton Economic Adviser Gene Sperling tells Ali Velshi that the stock market is plummeting due to lack of information and testing as well as consumer fears about coronavirus: \"Some of that consumer activity will go away and it will not neces\u2026",
+            "url": "https://www.msnbc.com/the-last-word/watch/coronavirus-fears-cause-stocks-to-plunge-in-worst-week-since-2008-financial-crisis-79661125598",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_lw_sperling_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T04:31:40Z",
+            "content": "Former Obama and Clinton Economic Adviser Gene Sperling tells Ali Velshi that the stock market is plummeting due to lack of information and testing as well as consumer fears about coronavirus: \"Some of that consumer activity will go away and it will not neces\u2026 [+125 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "U.S. prep for coronavirus challenged by resource limitations",
+            "description": "Donald McNeil, science and health reporter for the New York Times, talks with Rachel Maddow about the staffing and equipment that may be necessary to handle an outbreak of coronavirus in the United States and where the U.S. is facing challenges in meeting tho\u2026",
+            "url": "https://www.msnbc.com/rachel-maddow/watch/u-s-prep-for-coronavirus-challenged-by-resource-limitations-79663173680",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_maddow_mcneil2_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T05:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "WaPo: Second coronavirus case confirmed in California",
+            "description": "Per the Washington Post, a second person in California has contracted the coronavirus without having traveled to any affected areas.",
+            "url": "http://www.msnbc.com/hardball/watch/wapo-second-coronavirus-case-confirmed-in-california-79647302001",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T00:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "Trump calls coronavirus fear the Dems' 'new hoax' as more cases are confirmed",
+            "description": "While fears and the number of coronavirus cases keep growing, Trump held a rally and Mike Pence - who the president put in charge of the government's response - held a fundraiser.",
+            "url": "https://www.msnbc.com/11th-hour/watch/trump-calls-coronavirus-fear-the-dems-new-hoax-as-more-cases-are-confirmed-79659589888",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_bwms_day1135_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T05:01:55Z",
+            "content": null
+        }
+    ]
+}

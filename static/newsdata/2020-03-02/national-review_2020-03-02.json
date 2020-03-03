@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "Coronavirus Kills Adviser to Iran\u2019s Supreme Leader",
+            "description": "An adviser to Iranian Supreme Leader Ayatollah Ali Khamenei has died after he was infected with the coronavirus, which has infected several other top Iranian officials as well.",
+            "url": "https://www.nationalreview.com/news/coronavirus-kills-adviser-to-irans-supreme-leader/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/RTS32F97.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-03-02T17:08:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Health Officials Report Four New Coronavirus Deaths in Washington State, Bringing Death Toll to Six",
+            "description": "Officials in Washington State have confirmed four new deaths from Wuhan coronavirus in King County, bringing the state's death toll to six.",
+            "url": "https://www.nationalreview.com/news/coronavirus-washington-state-health-officials-report-four-new-coronavirus-deaths-bringing-death-toll-to-six/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/coronavirus-washington-state.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-02T20:09:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Cuomo Reveals First NYC Coronavirus Patient Is a Health Care Worker",
+            "description": "Andrew Cuomo revealed Monday that the first person to test positive for coronavirus in New York city was a health worker who had traveled to Iran.",
+            "url": "https://www.nationalreview.com/news/cuomo-reveals-first-nyc-coronavirus-patient-is-a-health-care-worker/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-022820-14.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-02T14:23:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Jim Geraghty, Jim Geraghty",
+            "title": "The Coronavirus Is Dramatic Enough As Is, Thank You",
+            "description": "The coronavirus is really serious, and thus, it doesn\u2019t really need any extra hype or drama.",
+            "url": "https://www.nationalreview.com/corner/the-coronavirus-is-dramatic-enough-as-is-thank-you/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-south-korea-10.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-02T16:28:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Rich Lowry, Rich Lowry",
+            "title": "What Should We Conclude from the Silent Spread of Coronavirus?",
+            "description": "An interesting piece at Slate argues that it is an encouraging sign that the effects of the disease are usually fairly mild.",
+            "url": "https://www.nationalreview.com/corner/what-should-we-conclude-from-the-silent-spread-of-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/china-coronavirus-patients.jpg?resize=300%2C300&ssl=1",
+            "publishedAt": "2020-03-02T14:39:50Z",
+            "content": null
+        }
+    ]
+}

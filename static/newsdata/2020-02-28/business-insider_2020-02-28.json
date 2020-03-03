@@ -85,19 +85,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Bob Bryan",
-            "title": "The Fed may be powerless to contain the economic fallout from the coronavirus",
-            "description": "The coronavirus is sparking concerns of a major economic downturn. The question then becomes what the Federal Reserve should do in response to the situation. Many economists argue that the Fed shouldn't cut interest rates, because the nature of the coronaviru\u2026",
-            "url": "https://markets.businessinsider.com/news/stocks/federal-reserve-response-to-coronavirus-hit-to-us-world-economy-2020-2-1028949561",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5c381cf4bd77306acd63baf3-2400/ap19010670774543.jpg",
-            "publishedAt": "2020-02-28T12:52:11Z",
-            "content": "(AP Photo/Carolyn Kaster)\r\nAs a massive international public health response to the coronavirus is underway across the globe, economists agree that the coronavirus will produce some drag on global economic growth.\r\nIn fact, some observers are worried that the\u2026 [+6639 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Bill Bostock",
             "title": "Sub-Saharan Africa just recorded its first coronavirus case. The WHO and Bill Gates have warned that Africa can't deal with an outbreak.",
             "description": "A case of the novel coronavirus was found in Nigeria on Friday, stoking concerns about the African continent's ability to deal with a major outbreak. Algeria, Egypt, and Nigeria, have reported one case each, leaving experts fearing that many more cases could \u2026",
@@ -105,6 +92,19 @@
             "urlToImage": "https://i.insider.com/5e58e765fee23d0f1e6680e3?width=1200&format=jpeg",
             "publishedAt": "2020-02-28T11:30:32Z",
             "content": "Nigeria reported its first case of the novel coronavirus on Friday \u2014 becoming the first such infection in sub-Saharan Africa \u2014 igniting experts' fears that Africa's \"fragile healthcare systems\" will struggle to cope with the outbreak.\r\nThe victim, an Italian \u2026 [+4706 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Bob Bryan",
+            "title": "The Fed may be powerless to contain the economic fallout from the coronavirus",
+            "description": "The coronavirus is sparking concerns of a major economic downturn. The question then becomes what the Federal Reserve should do in response to the situation. Many economists argue that the Fed shouldn't cut interest rates, because the nature of the coronaviru\u2026",
+            "url": "https://markets.businessinsider.com/news/stocks/federal-reserve-response-to-coronavirus-hit-to-us-world-economy-2020-2-1028949561",
+            "urlToImage": "https://images.markets.businessinsider.com/image/5c381cf4bd77306acd63baf3-2400/ap19010670774543.jpg",
+            "publishedAt": "2020-02-28T12:52:11Z",
+            "content": "(AP Photo/Carolyn Kaster)\r\nAs a massive international public health response to the coronavirus is underway across the globe, economists agree that the coronavirus will produce some drag on global economic growth.\r\nIn fact, some observers are worried that the\u2026 [+6639 chars]"
         },
         {
             "source": {
@@ -179,10 +179,10 @@
             "author": "Carmen Reinicke",
             "title": "Mortgage rates fall to the lowest since 2012 amid coronavirus fears",
             "description": "On Friday, the average rate on the 30-year fixed mortgage hit 3.23%, down from 3.42% at the beginning of the week, according to Mortgage News Daily. That's the lowest rate since September 2012. Mortgage rates have been pushed lower by falling US Treasury yiel\u2026",
-            "url": "https://markets.businessinsider.com/news/stocks/mortgage-rates-hit-multiyear-low-coronavirus-housing-markets-fear-yield-2020-2-1028951038",
-            "urlToImage": "https://images.markets.businessinsider.com/image/5683ee7cc08a801b008b5d70-1280/house-for-sale.jpg",
+            "url": "https://www.businessinsider.com/mortgage-rates-hit-multiyear-low-coronavirus-housing-markets-fear-yield-2020-2",
+            "urlToImage": "https://i.insider.com/5683ee7cc08a801b008b5d70?width=1200&format=jpeg",
             "publishedAt": "2020-02-28T20:23:19Z",
-            "content": "Wikimedia Commons\r\n<ul><li>On Friday, the average rate on the 30-year fixed mortgage hit 3.23%, down from 3.42% at the beginning of the week, according to Mortgage News Daily.</li><li>That's the lowest rate since September 2012. Mortgage rates have been pushe\u2026 [+2136 chars]"
+            "content": "<ul><li>On Friday, the average rate on the 30-year fixed mortgage hit 3.23%, down from 3.42% at the beginning of the week, according to Mortgage News Daily.</li><li>That's the lowest rate since September 2012. Mortgage rates have been pushed lower by falling \u2026 [+2108 chars]"
         },
         {
             "source": {
@@ -192,10 +192,10 @@
             "author": "Carmen Reinicke",
             "title": "Mortgage rates fall to the lowest since 2012 amid coronavirus fears",
             "description": "On Friday, the average rate on the 30-year fixed mortgage hit 3.23%, down from 3.42% at the beginning of the week, according to Mortgage News Daily. That's the lowest rate since September 2012. Mortgage rates have been pushed lower by falling US Treasury yiel\u2026",
-            "url": "https://www.businessinsider.com/mortgage-rates-hit-multiyear-low-coronavirus-housing-markets-fear-yield-2020-2",
-            "urlToImage": "https://i.insider.com/5683ee7cc08a801b008b5d70?width=1200&format=jpeg",
+            "url": "https://markets.businessinsider.com/news/stocks/mortgage-rates-hit-multiyear-low-coronavirus-housing-markets-fear-yield-2020-2-1028951038",
+            "urlToImage": "https://images.markets.businessinsider.com/image/5683ee7cc08a801b008b5d70-1280/house-for-sale.jpg",
             "publishedAt": "2020-02-28T20:23:19Z",
-            "content": "<ul><li>On Friday, the average rate on the 30-year fixed mortgage hit 3.23%, down from 3.42% at the beginning of the week, according to Mortgage News Daily.</li><li>That's the lowest rate since September 2012. Mortgage rates have been pushed lower by falling \u2026 [+2108 chars]"
+            "content": "Wikimedia Commons\r\n<ul><li>On Friday, the average rate on the 30-year fixed mortgage hit 3.23%, down from 3.42% at the beginning of the week, according to Mortgage News Daily.</li><li>That's the lowest rate since September 2012. Mortgage rates have been pushe\u2026 [+2136 chars]"
         },
         {
             "source": {
@@ -241,19 +241,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Bradley Saacks",
-            "title": "Citadel, BlackRock, and D1 Capital are racking up hundreds of millions in gains as coronavirus fears tank airlines, cruises, and movie-theater stocks",
-            "description": "Ken Griffin's Citadel, Larry Fink's BlackRock, and Daniel Sundheim's D1 Capital led the money managers are gaining from short positions on stocks hit hard by the coronavirus. Citadel made millions on short positions on European airlines, while BlackRock had a\u2026",
-            "url": "https://www.businessinsider.com/citadel-blackrock-d1-short-positions-in-coronavirus-related-shorts-2020-2",
-            "urlToImage": "https://i.insider.com/5e56eaa3fee23d5d687a5f89?width=1200&format=jpeg",
-            "publishedAt": "2020-02-28T16:56:18Z",
-            "content": "What might end up being the worst week for stocks in over a decade hurt a little less for some asset managers.\r\nBlackRock, Citadel, D1 Capital, and Adelphi Capital were all able to make millions on short positions of airlines, cruise companies, movie theaters\u2026 [+2326 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Gwen Everett",
             "title": "'Risk of a credit event surging' BofA says as coronavirus-fearing investors race out of the market's riskiest bonds",
             "description": "The risk of a credit event is surging, according to Bank of America, with high-yield debt seeing billions in outflows. New issuances have come to a standstill, Societe Generale said. It's one of a slew of risk markets pummeled by this week's coronavirus sell-\u2026",
@@ -261,6 +248,19 @@
             "urlToImage": "https://images.markets.businessinsider.com/image/5ade21a619ee861f008b469c-1200/rtx1tmwe.jpg",
             "publishedAt": "2020-02-28T15:52:06Z",
             "content": "REUTERS/Lucas Jackson\r\n<ul><li>The risk of a credit event is surging, according to Bank of America, with high-yield debt seeing billions in outflows.</li><li>New issuances have come to a standstill, Societe Generale said.</li><li>It's one of a slew of risk ma\u2026 [+2279 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Bradley Saacks",
+            "title": "Citadel, BlackRock, and D1 Capital are racking up hundreds of millions in gains as coronavirus fears tank airlines, cruises, and movie-theater stocks",
+            "description": "Ken Griffin's Citadel, Larry Fink's BlackRock, and Daniel Sundheim's D1 Capital led the money managers are gaining from short positions on stocks hit hard by the coronavirus. Citadel made millions on short positions on European airlines, while BlackRock had a\u2026",
+            "url": "https://www.businessinsider.com/citadel-blackrock-d1-short-positions-in-coronavirus-related-shorts-2020-2",
+            "urlToImage": "https://i.insider.com/5e56eaa3fee23d5d687a5f89?width=1200&format=jpeg",
+            "publishedAt": "2020-02-28T16:56:18Z",
+            "content": "What might end up being the worst week for stocks in over a decade hurt a little less for some asset managers.\r\nBlackRock, Citadel, D1 Capital, and Adelphi Capital were all able to make millions on short positions of airlines, cruise companies, movie theaters\u2026 [+2326 chars]"
         },
         {
             "source": {
@@ -306,19 +306,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Hilary Brueck",
-            "title": "Women say they're washing their hands significantly more than men as the coronavirus spreads around the world",
-            "description": "As the novel coronavirus spreads around the globe, public health experts continue to stress that the best way to protect yourself from getting sick is to wash your hands frequently and diligently. Insider polled more than 1,000 people across the US on Thursda\u2026",
-            "url": "https://www.businessinsider.com/coronavirus-women-are-washing-their-hands-significantly-more-than-men-2020-2",
-            "urlToImage": "https://i.insider.com/5ac7aca468987519008b496e?width=1200&format=jpeg",
-            "publishedAt": "2020-02-28T20:42:00Z",
-            "content": "Wash your hands.\r\nIt's the simplest, cheapest, most effective and straightforward piece of advice health experts are handing out in the face of a novel coronavirus outbreak that's rapidly circling the globe.\r\nSo far, more than 83,000 people have come down wit\u2026 [+6418 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Anna Medaris Miller",
             "title": "Experts suggest stocking up on your medicines to prepare for a coronavirus outbreak, but insurance restrictions could get in the way for now",
             "description": "Experts are recommending people stock up on critical medications in order to prepare for a coronavirus outbreak in the US. But some consumers are worried that's not possible since insurance companies put limits on how much of a medicine you can pick up at onc\u2026",
@@ -326,6 +313,19 @@
             "urlToImage": "https://i.insider.com/5e4578024b661b38905574d2?width=1200&format=jpeg",
             "publishedAt": "2020-02-28T18:58:00Z",
             "content": "Melissa Chang has lived with depression for 17 years, the better part of her adult life. She's spent tens of thousands of dollars on doctors, therapists, and special treatments, but has struggled to find a solution that lacks serious side effects.\u00a0\r\nThen, abo\u2026 [+6462 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hilary Brueck",
+            "title": "Women say they're washing their hands significantly more than men as the coronavirus spreads around the world",
+            "description": "As the novel coronavirus spreads around the globe, public health experts continue to stress that the best way to protect yourself from getting sick is to wash your hands frequently and diligently. Insider polled more than 1,000 people across the US on Thursda\u2026",
+            "url": "https://www.businessinsider.com/coronavirus-women-are-washing-their-hands-significantly-more-than-men-2020-2",
+            "urlToImage": "https://i.insider.com/5ac7aca468987519008b496e?width=1200&format=jpeg",
+            "publishedAt": "2020-02-28T20:42:00Z",
+            "content": "Wash your hands.\r\nIt's the simplest, cheapest, most effective and straightforward piece of advice health experts are handing out in the face of a novel coronavirus outbreak that's rapidly circling the globe.\r\nSo far, more than 83,000 people have come down wit\u2026 [+6418 chars]"
         },
         {
             "source": {
@@ -852,19 +852,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Bob Bryan",
-            "title": "The Fed may be powerless to contain the economic fallout from the coronavirus",
-            "description": "The coronavirus is sparking concerns of a major economic downturn. The question then becomes what the Federal Reserve should do in response to the situation. Many economists argue that the Fed shouldn't cut interest rates, because the nature of the coronaviru\u2026",
-            "url": "https://www.businessinsider.com/federal-reserve-response-to-coronavirus-hit-to-us-world-economy-2020-2",
-            "urlToImage": "https://i.insider.com/5e5877d6fee23d65796ac543?width=1200&format=jpeg",
-            "publishedAt": "2020-02-28T12:52:11Z",
-            "content": "As a massive international public health response to the coronavirus is underway across the globe, economists agree that the coronavirus will produce some drag on global economic growth.\r\nIn fact, some observers are worried that the drag could drive the globa\u2026 [+6611 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Eliza Relman and Kayla Epstein",
             "title": "Fox News is downplaying the coronavirus even though its older audience is more vulnerable to the virus",
             "description": "Some of the most prominent right-wing media personalities are downplaying the threat posed by the Wuhan coronavirus and accusing Democrats of exaggerating the crisis to score political points. The Fox News hosts' comments echo the White House's talking points\u2026",
@@ -872,6 +859,19 @@
             "urlToImage": "https://i.insider.com/5e5959b2fee23d0ff4545752?width=1200&format=jpeg",
             "publishedAt": "2020-02-28T22:11:57Z",
             "content": "Some of President Donald Trump's most vocal supporters in right-wing media are downplaying the threat posed by the Wuhan coronavirus and accusing Democrats of overstating the crisis to score political points.\u00a0\r\nSean Hannity, whose prime-time program is the mo\u2026 [+5669 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Bob Bryan",
+            "title": "The Fed may be powerless to contain the economic fallout from the coronavirus",
+            "description": "The coronavirus is sparking concerns of a major economic downturn. The question then becomes what the Federal Reserve should do in response to the situation. Many economists argue that the Fed shouldn't cut interest rates, because the nature of the coronaviru\u2026",
+            "url": "https://www.businessinsider.com/federal-reserve-response-to-coronavirus-hit-to-us-world-economy-2020-2",
+            "urlToImage": "https://i.insider.com/5e5877d6fee23d65796ac543?width=1200&format=jpeg",
+            "publishedAt": "2020-02-28T12:52:11Z",
+            "content": "As a massive international public health response to the coronavirus is underway across the globe, economists agree that the coronavirus will produce some drag on global economic growth.\r\nIn fact, some observers are worried that the drag could drive the globa\u2026 [+6611 chars]"
         },
         {
             "source": {
@@ -982,19 +982,6 @@
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Sarah Al-Arshani",
-            "title": "Trump claimed coronavirus could 'disappear' in the United States, adding to the administration's mixed messages",
-            "description": "President Donald Trump said the COVID-19 virus could eventually \"disappear\" in the US after it potentially gets worse, CNN reported. It's unclear if the virus will disappear but some experts told Business Insider that it's possible the virus becomes endemic l\u2026",
-            "url": "https://www.businessinsider.com/coronavirus-trump-claims-covid-19-could-disappear-2020-2",
-            "urlToImage": "https://i.insider.com/5e5876cbfee23d71de462b56?width=1200&format=jpeg",
-            "publishedAt": "2020-02-28T07:06:22Z",
-            "content": "President Donald Trump said on Thursday that the new coronavirus would eventually be contained and \"disappear\" in the US, CNN reported.\u00a0\r\n\"We have done an incredible job. We're going to continue,\" Trump said during a Black History Month reception at the White\u2026 [+3361 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Theron Mohamed",
             "title": "Warren Buffett discussed Apple, bitcoin, coronavirus, and Bernie Sanders in an interview this week. Here are his 18 best quotes. (BRK.A)",
             "description": "Warren Buffett tackled a bunch of topics in a lengthy CNBC interview this week. The billionaire investor talked about Apple, bitcoin, coronavirus, the Democratic presidential race, his death, and other subjects. The Berkshire Hathaway CEO's 18 best quotes are\u2026",
@@ -1002,6 +989,19 @@
             "urlToImage": "https://images.markets.businessinsider.com/image/5b3a055b4e04d328008b45c5-1024/gettyimages-492444164-1.jpg",
             "publishedAt": "2020-02-28T17:28:43Z",
             "content": "Paul Morigi / Stringer / Getty Images\r\nWarren Buffett is renowned for making witty and insightful comments that many investors turn to for guidance.\r\nThe 89-year-old investor and Berkshire Hathaway CEO offered several gems about Apple, bitcoin, coronavirus, t\u2026 [+3492 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Al-Arshani",
+            "title": "Trump claimed coronavirus could 'disappear' in the United States, adding to the administration's mixed messages",
+            "description": "President Donald Trump said the COVID-19 virus could eventually \"disappear\" in the US after it potentially gets worse, CNN reported. It's unclear if the virus will disappear but some experts told Business Insider that it's possible the virus becomes endemic l\u2026",
+            "url": "https://www.businessinsider.com/coronavirus-trump-claims-covid-19-could-disappear-2020-2",
+            "urlToImage": "https://i.insider.com/5e5876cbfee23d71de462b56?width=1200&format=jpeg",
+            "publishedAt": "2020-02-28T07:06:22Z",
+            "content": "President Donald Trump said on Thursday that the new coronavirus would eventually be contained and \"disappear\" in the US, CNN reported.\u00a0\r\n\"We have done an incredible job. We're going to continue,\" Trump said during a Black History Month reception at the White\u2026 [+3361 chars]"
         },
         {
             "source": {

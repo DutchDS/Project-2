@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kelly Cannon",
+            "title": "Election officials scrambling to address coronavirus concerns ahead of Super Tuesday",
+            "description": "Concerns have sprouted for election officials, as a potential coronavirus outbreak in the United States could influence how votes are cast on Super Tuesday and beyond.",
+            "url": "https://abcnews.go.com/Politics/election-officials-scrambling-address-coronavirus-concerns-ahead-super/story?id=69255531",
+            "urlToImage": "https://s.abcnews.com/images/Politics/sc-primary-line-gty-ps-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-01T09:33:45Z",
+            "content": "With fears of the novel coronavirus spreading gripping Americans following the first death in the U.S. and just days before Super Tuesday -- when voters in 14 states and one territory head to the polls -- election officials in some areas are scrambling to ass\u2026 [+5993 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Julia Jacobo",
+            "title": "Global death toll of coronavirus reaches nearly 3,000",
+            "description": "The global death toll of coronavirus has reached nearly 3,000 people as countries around the world continue to report their findings to the World Health Organization.",
+            "url": "https://abcnews.go.com/US/global-death-toll-coronavirus-reaches-3000-confirmed-cases/story?id=69319279",
+            "urlToImage": "https://s.abcnews.com/images/International/coronavirus-1-gty-er-200301_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-01T15:08:53Z",
+            "content": "The global death toll of coronavirus has reached nearly 3,000 people as countries around the world continue to report their findings to the World Health Organization.\r\nAt least 70 cases and one death have been detected in the U.S., according to the Centers fo\u2026 [+3357 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "WATCH: Biden projected winner of South Carolina primary",
+            "description": "Joe Biden\u2019s first primary win of 2020 would come from the most diverse state to vote so far, and it could signal what to expect on Super Tuesday.",
+            "url": "https://abcnews.go.com/Politics/video/biden-projected-winner-south-carolina-primary-69311663",
+            "urlToImage": "https://s.abcnews.com/images/Politics/200229_spev_biden_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-01T01:27:41Z",
+            "content": "<li>Now Playing: Voters go to the polls in South Carolina as candidates make their last-minute push\r\n</li><li>Now Playing: Inside SC's forgotten county: 'Black voters need to be heard\r\n</li><li>Now Playing: Tom Steyer ends his campaign for president\r\n</li><li\u2026 [+1288 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Adia Robinson",
+            "title": "Secretary Alex Azar says HHS is 'ramping up' testing for coronavirus - ABC News",
+            "description": "Secretary Alex Azar says HHS is 'ramping up' testing for coronavirus ABC News Exclusive: HHS Sec. Azar gives coronavirus update on 'Fox News Sunday' Fox News Head of HHS says 'partisan sniping' during coronavirus crisis is 'unnecessary' | TheHill The Hill 'No\u2026",
+            "url": "https://abcnews.go.com/Politics/secretary-alex-azar-hhs-ramping-testing-coronavirus/story?id=69308111",
+            "urlToImage": "https://s.abcnews.com/images/Politics/azar-gty-er-200211_hpMain_2_16x9_992.jpg",
+            "publishedAt": "2020-03-01T17:03:45Z",
+            "content": "As the Trump administration anticipates the further spread of the novel coronavirus, the Department of Health and Human Services secretary said on ABC's \"This Week\" that it was \"ramping up\" testing for the virus.\r\n\"I think it's very important that we treat th\u2026 [+3935 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran raises death toll from new coronavirus to 54 as number of infected cases jumps overnight to 978 people nationwide",
+            "description": "Iran raises death toll from new coronavirus to 54 as number of infected cases jumps overnight to 978 people nationwide",
+            "url": "https://abcnews.go.com/International/wireStory/iran-raises-death-toll-coronavirus-54-number-infected-69318326",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-01T11:07:32Z",
+            "content": "TEHRAN, Iran -- \r\nIran raises death toll from new coronavirus to 54 as number of infected cases jumps overnight to 978 people nationwide."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NASSER KARIMI Associated Press",
+            "title": "Iran raises death toll to 54 from new coronavirus",
+            "description": "Iran's Health Ministry raised on Sunday the nationwide death toll from the new coronavirus to 54 as the number of infected cases jumped overnight to 978 people",
+            "url": "https://abcnews.go.com/International/wireStory/iran-raises-death-toll-54-coronavirus-69318367",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_36f8dda75af94cb4866ce4d0b4b65b5a_16x9_992.jpg",
+            "publishedAt": "2020-03-01T11:38:04Z",
+            "content": "TEHRAN, Iran -- \r\nIran's health ministry raised on Sunday the nationwide death toll from the new coronavirus to 54 as the number of infected cases jumped overnight to 978 people.\r\nThe ministry's spokesman Kianoush Jahanpour said new cases were confirmed in a \u2026 [+1685 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Virus fears close down France's Louvre Museum",
+            "description": "The spreading coronavirus epidemic has shut down France's Louvre Museum",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/virus-fears-close-frances-louvre-museum-69319092",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_b63d4ef7c4a44c75910af19bf03353f0_16x9_992.jpg",
+            "publishedAt": "2020-03-01T13:36:47Z",
+            "content": "PARIS -- \r\nThe spreading coronavirus epidemic shut down France's Louvre Museum on Sunday, with workers who guard its trove of artworks fearful of being contaminated by the museum's flow of visitors from around the world.\r\nWe are very worried because we have v\u2026 [+1231 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "UK reports 12 new coronavirus cases, bringing tally to 35",
+            "description": "British health authorities say the number of people infected with the new coronavirus has risen by 12, bringing the country's overall tally to 35",
+            "url": "https://abcnews.go.com/Health/wireStory/uk-reports-12-coronavirus-cases-bringing-tally-35-69319839",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_6918d1fbe9cb431f96d63968b7ad8736_16x9_992.jpg",
+            "publishedAt": "2020-03-01T14:22:31Z",
+            "content": "LONDON -- \r\nBritish health authorities on Sunday announced 12 more confirmed cases of the new coronavirus, bringing the country's overall tally to 35.\r\nThe government's chief medical officer, Prof. Chris Whitty, said one of the new patients had no relevant tr\u2026 [+593 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "France's Louvre Museum forced to shut its doors after workers voice fears of becoming infected with coronavirus",
+            "description": "France's Louvre Museum forced to shut its doors after workers voice fears of becoming infected with coronavirus",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/frances-louvre-museum-forced-shut-doors-workers-voice-69319025",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-01T13:28:02Z",
+            "content": "PARIS -- \r\nFrance's Louvre Museum forced to shut its doors after workers voice fears of becoming infected with coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Virus fears close down France's Louvre Museum",
+            "description": "The spreading coronavirus epidemic has shut down France's Louvre Museum",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-fears-close-frances-louvre-museum-69319208",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_b63d4ef7c4a44c75910af19bf03353f0_16x9_992.jpg",
+            "publishedAt": "2020-03-01T13:41:32Z",
+            "content": "PARIS -- \r\nThe spreading coronavirus epidemic shut down France's Louvre Museum on Sunday, with workers who guard its trove of art works fearful of being contaminated by the museum's flow of visitors from around the world.\r\nWe are very worried because we have \u2026 [+512 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Associated Press",
+            "title": "Iran raises death toll to 54 from new coronavirus",
+            "description": "The number of infected cases jumped overnight to 978 people.",
+            "url": "https://abcnews.go.com/US/wireStory/iran-raises-death-toll-54-coronavirus-69318327",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_36f8dda75af94cb4866ce4d0b4b65b5a_16x9_992.jpg",
+            "publishedAt": "2020-03-01T11:26:48Z",
+            "content": "Iran's Health Ministry raised on Sunday the nationwide death toll from the new coronavirus to 54 as the number of infected cases jumped overnight to 978 people.\r\nMinistry spokesman Kianoush Jahanpour said new cases were confirmed in a number of cities, includ\u2026 [+961 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Dominican Republic reports first case of new virus",
+            "description": "Health officials in the Dominican Republic have reported the first confirmed case of the new coronavirus in the tourist-rich Caribbean, a 62-year-old Italian citizen",
+            "url": "https://abcnews.go.com/International/wireStory/dominican-republic-reports-case-virus-69321344",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-01T16:52:32Z",
+            "content": "SANTO DOMINGO, Dominican Republic -- \r\nHealth officials in the Dominican Republic on Sunday reported the first confirmed case of the new coronavirus in the tourist-rich Caribbean, a 62-year-old Italian citizen.\r\nPublic Health Minister Rafael S\u00e1nchez C\u00e1rdenas \u2026 [+1281 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus: Over 86,000 infected globally, over 2,900 deaths",
+            "description": "A new virus that first emerged in China has infected more than 86,000 people and caused more than 2,900 deaths",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-86000-infected-globally-2900-deaths-69316826",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_d347bef0ad044f908ef2d19ab8cf4913_16x9_992.jpg",
+            "publishedAt": "2020-03-01T05:34:53Z",
+            "content": "A viral outbreak that began in China has infected more than 86,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures, based on WHO and\u2026 [+1167 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLEEN BARRY Associated Press",
+            "title": "Friendly kissing poses European dilemma as virus spreads",
+            "description": "When French President Emmanuel Macron leaned in to give Premier Giuseppe Conte the Italian double-cheek kiss on two separate occasions during a Franco-Italian summit this week, it was much more than a greeting",
+            "url": "https://abcnews.go.com/Business/wireStory/friendly-kissing-poses-european-dilemma-virus-spreads-69317954",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_44417224a65b49a7b4f289231c9c0c05_16x9_992.jpg",
+            "publishedAt": "2020-03-01T08:19:22Z",
+            "content": "MILAN -- \r\nWhen French President Emmanuel Macron leaned in to give Premier Giuseppe Conte the Italian double-cheek kiss not once, but on two separate occasions, during a Franco-Italian summit in Naples this week, it was much more than a greeting.\r\nIt was a si\u2026 [+4688 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Virus shuts famed French church in Rome",
+            "description": "The French community church in Rome, St. Louis of the French, closed its doors to the public on Sunday, reportedly after a priest was infected with a new virus",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/virus-shuts-famed-french-church-rome-69319996",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_39273285f2a946a386533ee4a8064e59_16x9_992.jpg",
+            "publishedAt": "2020-03-01T14:26:27Z",
+            "content": "MILAN -- \r\nThe French community church in Rome, St. Louis of the French, closed its doors to the public on Sunday after a priest was infected with a new virus. \r\nThe church in the historic center of Rome is famous for three paintings by the Baroque master Car\u2026 [+1051 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MOGOMOTSI MAGOME Associated Press",
+            "title": "South Africa to repatriate citizens stranded in Wuhan, China",
+            "description": "South Africa is set to evacuate 151 citizens from the Chinese city of Wuhan as a new virus continues to spread across the globe",
+            "url": "https://abcnews.go.com/Health/wireStory/south-africa-repatriate-citizens-stranded-wuhan-china-69318755",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-01T12:38:02Z",
+            "content": "JOHANNESBURG -- \r\nSouth Africa is set to evacuate 151 citizens from the Chinese city of Wuhan as a new virus continues to spread across the globe, authorities said Sunday.\r\nThe South Africans will be evacuated in a military operation that will see them quaran\u2026 [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DARLENE SUPERVILLE Associated Press",
+            "title": "Officials seek to calm public as new US virus cases reported",
+            "description": "Vice President Mike Pence is trying to reassure Americans that the federal government is working to make sure state and local authorities are able to test for coronavirus in the communities",
+            "url": "https://abcnews.go.com/Health/wireStory/officials-seek-calm-public-us-virus-cases-reported-69321829",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_66653e427048400fa3a220cc67016bbb_16x9_992.jpg",
+            "publishedAt": "2020-03-01T18:07:37Z",
+            "content": "WASHINGTON -- \r\nVice President Mike Pence sought Sunday to reassure the American public that the federal government is working to make sure state and local authorities are able to test for coronavirus, as the number of U.S. cases grew following reports of the\u2026 [+5289 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Energy conference in Houston canceled amid COVID-19 concerns",
+            "description": "The organizers of a high-profile energy summit in Houston have canceled this year\u2019s gathering due to concerns over a new coronavirus that has killed thousands of people worldwide",
+            "url": "https://abcnews.go.com/Health/wireStory/energy-conference-houston-canceled-amid-covid-19-concerns-69322253",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-01T18:47:32Z",
+            "content": "HOUSTON -- \r\nThe organizers of a high-profile energy summit held annually in Houston announced Sunday they have canceled this years gathering due to concerns over the new coronavirus that has killed thousands of people worldwide.\r\nThe CERAWeek conference is t\u2026 [+1638 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "TOM KRISHER AP Auto Writer",
+            "title": "Insider Q&A: Dana Inc. CEO on electric vehicles, coronavirus",
+            "description": "Auto parts maker Dana Inc., CEO Jim Kamsickas is like everyone else in the business",
+            "url": "https://abcnews.go.com/Business/wireStory/insider-qa-dana-ceo-electric-vehicles-coronavirus-69321728",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_37496800c4aa47b2832a0b13f09949b2_16x9_992.jpg",
+            "publishedAt": "2020-03-01T18:01:30Z",
+            "content": "TOLEDO, Ohio -- \r\nAt auto parts maker Dana Inc., CEO Jim Kamsickas is like everyone else in the business, trying to manage competing needs for spending on electric vehicles of the future while keeping business associated with the internal combustion engine.\r\n\u2026 [+5686 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MOGOMOTSI MAGOME Associated Press",
+            "title": "South Africa to repatriate citizens stranded in Wuhan, China",
+            "description": "South Africa is set to evacuate 151 citizens from the Chinese city of Wuhan as a new virus continues to spread across the globe",
+            "url": "https://abcnews.go.com/Business/wireStory/south-africa-repatriate-citizens-stranded-wuhan-china-69318756",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-01T12:38:17Z",
+            "content": "JOHANNESBURG -- \r\nSouth Africa is set to evacuate 151 citizens from the Chinese city of Wuhan as a new virus continues to spread across the globe, authorities said Sunday.\r\nThe South Africans will be evacuated in a military operation that will see them quaran\u2026 [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLEEN BARRY Associated Press",
+            "title": "Virus cases in Italy soar 40%; US urges Americans not to go",
+            "description": "Italian authorities announced Sunday that the number of people infected with the new coronavirus in Italy has risen 40% to 1,576 in 24 hours, while another five people have died",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-cases-italy-soar-40-us-urges-americans-69321637",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_39273285f2a946a386533ee4a8064e59_16x9_992.jpg",
+            "publishedAt": "2020-03-01T17:52:18Z",
+            "content": "MILAN -- \r\nThe number of people infected in Italy with the new coronavirus rose 40% to 1,576 in just 24 hours, Italian authorities announced Sunday, adding that five more infected people had died. The news came as a new U.S. government advisory urged American\u2026 [+2816 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FOSTER KLUG Associated Press",
+            "title": "Virus outbreak batters economies, raises fear of spread",
+            "description": "Amid fears about where the next outbreak of a fast-spreading new virus would appear, infections and deaths continued to rise across the globe Sunday, emptying streets of tourists and workers, shaking economies and rewriting the realities of daily life",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-outbreak-batters-economies-raises-fear-spread-69317251",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_b3cc7185f1594a02a7c96630592a8308_16x9_992.jpg",
+            "publishedAt": "2020-03-01T05:52:33Z",
+            "content": "TOKYO -- \r\nAmid fears about where the next outbreak of a fast-spreading new virus would appear, infections and deaths continued to rise across the globe Sunday, emptying streets of tourists and workers, shaking economies and rewriting the realities of daily l\u2026 [+6660 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "STAN CHOE and CHRISTOPHER RUGABER AP Business Writers",
+            "title": "Markets want Fed to save them. Why its tools might not work.",
+            "description": "As stocks tumble on worries about a fast-spreading virus, investors have been clamoring for the superheroes of the financial world to ride to the rescue once again",
+            "url": "https://abcnews.go.com/Business/wireStory/markets-fed-save-tools-work-69321044",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_38feb4af5baa4e2081d34213e24233e7_16x9_992.jpg",
+            "publishedAt": "2020-03-01T16:20:33Z",
+            "content": "NEW YORK -- \r\nAs stocks around the world tumble on worries about a fast-spreading virus, investors have been clamoring for the superheroes of the financial world to ride to the rescue once again.\r\nYet this time, there are doubts: Can central banks really fix \u2026 [+6698 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Italy says its coronavirus infections jump 40% to 1,576 and deaths of infected people rise to 34",
+            "description": "Italy says its coronavirus infections jump 40% to 1,576 and deaths of infected people rise to 34",
+            "url": "https://abcnews.go.com/Health/wireStory/italy-coronavirus-infections-jump-40-1576-deaths-infected-69321549",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-01T17:30:17Z",
+            "content": "ROME -- \r\nItaly says its coronavirus infections jump 40% to 1,576 and deaths of infected people rise to 34."
+        }
+    ]
+}
