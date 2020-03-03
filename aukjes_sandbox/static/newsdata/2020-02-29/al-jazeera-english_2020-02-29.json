@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Kim warns of 'serious consequences' if virus spreads to N Korea",
+            "description": "North Korean leader calls for stronger efforts to guard against the new coronavirus outbreak that has spread globally.",
+            "url": "https://www.aljazeera.com/news/2020/02/kim-warns-consequences-virus-spreads-korea-200229061648473.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/29/32fec8c6681941d8b90c8434234922eb_18.jpg",
+            "publishedAt": "2020-02-29T07:43:06Z",
+            "content": "North Korean leader Kim Jong Un has called for stronger efforts to guard against coronavirus, saying there will be \"serious consequences\" if the outbreak spreads to the country.\r\nNorth Korea has not reported a single case of\u00a0COVID-19, which has killed more th\u2026 [+1869 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "How the coronavirus outbreak is affecting the global economy",
+            "description": "Will the economic impact of the coronavirus be on par with the 2008 financial crisis? Plus, Argentina and death default.",
+            "url": "https://www.aljazeera.com/programmes/countingthecost/2020/02/coronavirus-outbreak-affecting-global-economy-200229125804909.html",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T13:28:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Amid coronavirus fear, African boxers vie for 2020 Olympic berths",
+            "description": "In Senegal, Africa's best boxers are still trying to qualify for Tokyo 2020 despite doubts of cancellations because of the coronavirus.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-fear-african-boxers-vie-2020-olympic-berths-200229153225112.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/29/image-20200229153226908.jpg",
+            "publishedAt": "2020-02-29T15:32:25Z",
+            "content": "With 146 days to the opening of Tokyo Olympic Games, there are still doubts as to whether it will go ahead because of the coronavirus outbreak.\r\nBut athletes around the world are doing all they can to make it to Japan.\r\nAl Jazeera's Nicolas Haque reports from\u2026 [+84 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Lebanon asks schools and universities to close over coronavirus",
+            "description": "The country has so far registered seven cases of the new virus.",
+            "url": "https://www.aljazeera.com/news/2020/02/lebanon-asks-schools-universities-close-coronavirus-200229152102382.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/29/40a6259478d04075862a76eba92d0457_18.jpg",
+            "publishedAt": "2020-02-29T17:12:07Z",
+            "content": "Beirut, Lebanon -\u00a0Lebanon has asked all schools, universities and nurseries to close until March 8 as a precautionary measure against the new coronavirus.\r\nThe country has so far registered seven cases of the virus that was first detected in China late last y\u2026 [+4754 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US reports first death due to coronavirus in Washington state",
+            "description": "US President Donald Trump says deceased person was a 'medically high-risk patient' in her late 50s.",
+            "url": "https://www.aljazeera.com/news/2020/02/reports-death-due-coronavirus-200229183250291.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/29/bfbe8a5f6ad04676916ec261fe843422_18.jpg",
+            "publishedAt": "2020-02-29T19:28:06Z",
+            "content": "A woman in her late 50s has died of COVID-19, US President Donald Trump has announced, marking the first death due to the new coronavirus in the country.\r\nIn a televised speech on Saturday, Trump described the victim as a \"medically high-risk patient\" and a \"\u2026 [+1416 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Sen Nguyen",
+            "title": "All infected patients in Vietnam cured: A coronavirus miracle?",
+            "description": "World Health Organization officials and health experts say swift response crucial in containing virus in the country.",
+            "url": "https://www.aljazeera.com/news/2020/02/infected-patients-vietnam-cured-coronavirus-miracle-200228035007608.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/29/8e6b836cb217434e99a7445cdb205831_18.jpg",
+            "publishedAt": "2020-02-29T04:20:16Z",
+            "content": "Ho Chi Minh, Vietnam - Amid the rapid spread of the coronavirus outbreak around the world, Vietnam announced earlier this week that all 16 infected patients in the country have been discharged from the hospital, having been declared cured of the deadly diseas\u2026 [+7464 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Fresh details emerge about Nigeria's first coronavirus case",
+            "description": "Italian man traveled through Lagos to another state before he was put in quarantine, authorities say.",
+            "url": "https://www.aljazeera.com/news/2020/02/fresh-details-emerge-nigeria-coronavirus-case-200229072628827.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/29/b6be104c817641f8a51bc31bf52ce326_18.jpg",
+            "publishedAt": "2020-02-29T09:45:59Z",
+            "content": "An Italian man who has been confirmed to be Nigeria's first coronavirus case after arriving from Milan was in the country for almost two full days before being isolated, travelling through Lagos and visiting another state.\r\nThe case has prompted a scramble by\u2026 [+1966 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Qatar reports first coronavirus case in citizen who was in Iran",
+            "description": "The 36-year-old patient is in stable condition, the health ministry said, and had been quarantined since Thursday.",
+            "url": "https://www.aljazeera.com/news/2020/02/qatar-reports-coronavirus-case-citizen-iran-200229144225648.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2017/6/25/1bbaa8299e494dcaa776ef72419d5e23_18.jpg",
+            "publishedAt": "2020-02-29T15:35:06Z",
+            "content": "Qatar\u00a0has reported its first case of the new coronavirus as infections continue to rise outside of China, where the rapidly spreading virus was first detected late last year.\r\nThe Gulf state's health ministry said on Saturday the\u00a0patient is a 36-year-old Qata\u2026 [+2419 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus lockdown in China raises mental health concerns",
+            "description": "Counselling hotlines have been set up in China for those struggling to cope.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-lockdown-china-raises-mental-health-concerns-200229110758698.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/29/image-20200229110800992.jpg",
+            "publishedAt": "2020-02-29T11:07:58Z",
+            "content": "Strict regulations to control the spread of coronavirus in China are taking a toll on mental health as people are confined to their homes for weeks.\r\nHealth professionals say millions are struggling to cope with anxiety and fears over the future.\r\nThose under\u2026 [+126 chars]"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 17,
+    "totalResults": 21,
     "articles": [
         {
             "source": {
@@ -66,6 +66,19 @@
             "urlToImage": "https://www.aljazeera.com/mritems/images/2020/2/28/image-20200228185815976.jpg",
             "publishedAt": "2020-02-28T18:58:14Z",
             "content": "Iraqs government has banned large public gatherings as coronavirus spreads. Its also ordered cafes, restaurants and clubs to close.\r\nBut in Baghdad, life appears to be going on as normal and some business owners think the government's response is exaggerated.\u2026 [+53 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "Coronavirus outbreak 'getting bigger': All the latest updates",
+            "description": "WHO warning comes after Nigeria records first case in sub-Saharan Africa, as number of cases worldwide surpass 83,000.",
+            "url": "https://www.aljazeera.com/news/2020/02/coronavirus-outbreak-bigger-latest-updates-200228232914773.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/28/dbf2f3c67b23436abb786a93a190b58e_18.jpg",
+            "publishedAt": "2020-02-28T23:57:52Z",
+            "content": "Hopes that the coronavirus would be contained to China have vanished as the first case in sub-Saharan Africa was announced in Nigeria, while number of infections continue to grow in Europe pounding stock markets amid fears of a global recession.\r\nOn Friday, t\u2026 [+2646 chars]"
         },
         {
             "source": {
@@ -202,6 +215,32 @@
                 "id": "al-jazeera-english",
                 "name": "Al Jazeera English"
             },
+            "author": "Al Jazeera",
+            "title": "Facebook cancels annual conference as virus fears rattle firms - Aljazeera.com",
+            "description": "Facebook cancels annual conference as virus fears rattle firms Aljazeera.com Daily Crunch: Facebook cancels F8 over coronavirus concerns TechCrunch Coronavirus concerns prompt cancellation of Facebook F8 developer conference CNET Facebook Cancels Its Biggest \u2026",
+            "url": "https://www.aljazeera.com/ajimpact/facebook-cancels-annual-conference-virus-fears-rattle-firms-200228030208672.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/1/29/b5826666a88246f198f40e4d2d1fe419_18.jpg",
+            "publishedAt": "2020-02-28T05:07:00Z",
+            "content": "Facebook Inc\u00a0is cancelling its annual developer conference due to fears over the coronavirus, as growing concerns about the economic effects of the global outbreak drove stocks in the United States to tumble for a sixth straight day.\r\nFacebook's F8 conference\u2026 [+4813 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Hoarders: Americans stock-up on supplies as virus fear spreads - Al Jazeera America",
+            "description": "Hoarders: Americans stock-up on supplies as virus fear spreads Al Jazeera America View Full Coverage on Google News",
+            "url": "https://www.aljazeera.com/ajimpact/hoarders-americans-stock-supplies-virus-fear-spreads-200228222803123.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/28/1d6554ce8b7249c18cab4c6ddadc439c_18.jpg",
+            "publishedAt": "2020-02-28T23:30:00Z",
+            "content": "American consumers awoke this week to the coronavirus threat and are beginning to display a symptom of the illness seen in Asia and Europe - hoarding.\r\nNothing in the United States yet resembles what Italy witnessed in recent days - where supermarket shelves \u2026 [+4099 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
             "author": "Violet Law",
             "title": "'Message is clear': China jails Hong Kong publisher Gui Minhai",
             "description": "Damage to the publishing industry in Hong Kong is complete, say critics, after Minhai sentenced to 10 years in prison.",
@@ -209,6 +248,19 @@
             "urlToImage": "https://www.aljazeera.com/mritems/Images/2016/1/18/e9a8f76014cd41cfb26482029a83e0b7_18.jpg",
             "publishedAt": "2020-02-28T12:43:57Z",
             "content": "Hong Kong, China - For seven months last year, millions of demonstrators took to the streets of Hong Kong to beat back proposed legislation that would override the independent judiciary in the semi-autonomous Chinese territory by allowing for the extradition \u2026 [+4604 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Wall Street reckoning: Coronavirus drives worst week since 2008 - Aljazeera.com",
+            "description": "Wall Street reckoning: Coronavirus drives worst week since 2008 Aljazeera.com Stocks post worst week since the financial crisis CNN Wall Street has worst week since 2008; S&P 500 drops 11.5% - Business News Castanet.net The Dow just lost 12% in one week. Here\u2026",
+            "url": "https://www.aljazeera.com/ajimpact/wall-street-reckoning-coronavirus-drives-worst-week-2008-200228211904654.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/28/7bb1ddf2221d47e59a0f253a9b86384c_18.jpg",
+            "publishedAt": "2020-02-28T22:52:00Z",
+            "content": "Market pundits tend to embrace overblown words to describe big market moves to the downside: \"bloodbath\", \"pounding\" and \"nosedive\".\u00a0\r\nBut all of those metaphors are fair game given the swiftness and severity of the sell-off that swept global stock markets th\u2026 [+4010 chars]"
         },
         {
             "source": {

@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kate Mayberry",
+            "title": "China reports 573 new COVID-19 cases: Live updates",
+            "description": "China continues to battle virus that has spread around the world with hot-spots in Europe and the Middle East.",
+            "url": "https://www.aljazeera.com/news/2020/03/china-reports-573-covid-19-cases-live-updates-200229235831749.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/1/d115b5935d314521991bd8da50c1d06d_18.jpg",
+            "publishedAt": "2020-03-01T00:38:39Z",
+            "content": "Hello and welcome to Al Jazeera's continuing coverage of the coronavirus.\r\nThis is Kate Mayberry\u00a0keeping track of the latest developments on the outbreak\u00a0from our bureau in Kuala Lumpur.\r\nThe virus continued to spread around the world on Saturday with countri\u2026 [+1268 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China says more than half of coronavirus patients cured",
+            "description": "In China, 573 new infections have been recorded but health authorities insist they are getting on top of the outbreak.",
+            "url": "https://www.aljazeera.com/news/2020/03/china-coronavirus-patients-cured-200301135019963.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/3/1/image-20200301135022049.jpg",
+            "publishedAt": "2020-03-01T13:50:19Z",
+            "content": "The United States has raised travel warnings after recording its first coronavirus death in Washington state. Thailand and Australia have also reported their first fatalities.\r\nIn China, 573 new infections have been recorded but health authorities insist they\u2026 [+167 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Linus Unah",
+            "title": "'Nigeria will deal with this': High alert after coronavirus case",
+            "description": "Experts say Nigeria is prepared to contain new virus following a successful response to Ebola more than five years ago.",
+            "url": "https://www.aljazeera.com/news/2020/03/deal-high-alert-coronavirus-case-200301140838366.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/1/d6eba923492d47399c658a58a587514c_18.jpg",
+            "publishedAt": "2020-03-01T15:46:17Z",
+            "content": "Abuja, Nigeria - Health authorities in Nigeria are ramping up efforts to detect and contain the new coronavirus after Africa's most populous country confirmed its first case, calling on citizens to avoid panicking or spreading unverified information about the\u2026 [+6904 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Shawn Yuan",
+            "title": "How China is using AI and big data to combat coronavirus outbreak",
+            "description": "Authorities in China step up surveillance and roll out new artificial intelligence tools to fight deadly epidemic.",
+            "url": "https://www.aljazeera.com/news/2020/03/china-ai-big-data-combat-coronavirus-outbreak-200301063901951.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/1/18cac5557bbb4d7997dd1ebc10094c65_18.jpg",
+            "publishedAt": "2020-03-01T10:01:05Z",
+            "content": "Chengdu, China - Sitting at the entrance of Chengdu's East Railway Station, Fu Guobin stared at a screen displaying infrared images of people passing through the station's gates. As each person entered, a number popped up next to their image indicating their \u2026 [+7615 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Qatar bans travellers from Egypt over coronavirus fears",
+            "description": "Egypt reported its first coronavirus case on February 14, saying the infected person was a foreign national.",
+            "url": "https://www.aljazeera.com/news/2020/03/qatar-bans-travellers-egypt-coronavirus-fears-200301163724833.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/1/86102e1f7e714d569f92ef84ce3b8188_18.jpg",
+            "publishedAt": "2020-03-01T18:25:48Z",
+            "content": "Authorities in Qatar have\u00a0temporarily banned all arrivals from Egypt, except Qatari citizens, over fears of the spread of deadly coronavirus.\r\n\"As a public health measure, the State of Qatar has imposed a temporary entrance restriction to its territories on a\u2026 [+2550 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Philippines: Church attendance hits low over coronavirus fears",
+            "description": "Fears over coronavirus outbreak keep people away from Sunday mass services in the country with the largest Roman Catholic community in Asia.",
+            "url": "https://www.aljazeera.com/news/2020/03/philippines-church-attendance-hits-coronavirus-fears-200301170105120.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/3/1/image-20200301170107716.jpg",
+            "publishedAt": "2020-03-01T17:01:05Z",
+            "content": "The Philippines is home to the largest Roman Catholic community in Asia, and churches can traditionally rely on a strong showing for Sunday mass services.\r\nBut fears over a coronavirus spread have had a dramatic effect on attendance.\r\nAl Jazeera's Barnaby Lo \u2026 [+32 chars]"
+        }
+    ]
+}

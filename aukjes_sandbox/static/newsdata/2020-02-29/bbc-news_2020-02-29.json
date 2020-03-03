@@ -1,0 +1,305 @@
+{
+    "status": "ok",
+    "totalResults": 23,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: South Korea sees its largest rise in coronavirus cases",
+            "description": "The country has almost 600 new confirmed coronavirus cases, bringing the total to 2,931.",
+            "url": "https://www.bbc.co.uk/news/world-51685908",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0F62/production/_111083930_gettyimages-1201959519.jpg",
+            "publishedAt": "2020-02-29T03:33:50Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The outbreak has been linked to the south-eastern city of Daegu\r\nSouth Korea has recorded its largest rise in coronavirus infections in a single day, with 594 new cases confirmed on Friday.\r\nThe increase brings the t\u2026 [+4145 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Trump calls criticism Democrat 'hoax'",
+            "description": "The president said criticism of his reaction to the coronavirus outbreak is a Democrat-led \"hoax\".",
+            "url": "https://www.bbc.co.uk/news/av/world-us-canada-51687159/coronavirus-trump-calls-criticism-democrat-hoax",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/167FE/production/_111085129_p085685c.jpg",
+            "publishedAt": "2020-02-29T09:06:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Rescuing China's animals during the outbreak",
+            "description": "Activists are struggling to keep up as pet owners fall ill, are quarantined or abandon their animals.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51614957",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3670/production/_111063931_i.jpg",
+            "publishedAt": "2020-02-29T02:40:14Z",
+            "content": "Image copyrightSuppliedImage caption\r\n Animal rescue groups say they are seeing an increasing number of animals abandoned across the country\r\nVolunteers in China say they're struggling to keep up with the number of animals being abandoned as the country battl\u2026 [+4642 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Cyclist Morkov felt 'really guilty' he might have had coronavirus & then passed it on",
+            "description": "Michael Morkov says he felt \"really guilty\" he might have had coronavirus and then passed it on after travelling to the Track Cycling World Championships from the UAE Tour.",
+            "url": "https://www.bbc.co.uk/sport/cycling/51687434",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/C18C/production/_111084594_morkov_getty.jpg",
+            "publishedAt": "2020-02-29T09:40:57Z",
+            "content": "Michael Morkov has been cleared to compete in Berlin by the UCI after 34 hours in isolation\r\nMichael Morkov says he felt \"really guilty\" he might have had coronavirus and then passed it on after travelling to the Track Cycling World Championships from the UAE\u2026 [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Lazio 2-0 Bologna: Simone Inzaghi's side go top for first time since 2010",
+            "description": "Lazio go top of the Serie A table for the first time in almost a decade thanks to victory over Bologna.",
+            "url": "https://www.bbc.co.uk/sport/football/51690365",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/33E8/production/_111088231_lazio.jpg",
+            "publishedAt": "2020-02-29T15:58:51Z",
+            "content": "Luis Alberto scored Lazio's opener before setting up their second\r\nLazio went top of the Serie A table for the first time in almost a decade thanks to victory over Bologna. \r\nThey took advantage of the fact previous leaders Juventus' game against third-placed\u2026 [+860 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Slovakia election: Double murder haunts voters",
+            "description": "The murder of journalist Jan Kuciak and his fianc\u00e9e convulsed Slovak politics.",
+            "url": "https://www.bbc.co.uk/news/world-europe-51657803",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p061dv6x.jpg",
+            "publishedAt": "2020-02-29T03:51:18Z",
+            "content": "Media captionTens of thousands march in Slovakia calling for early elections in 2018\r\nSlovakia votes on Saturday in its first general election since an investigative journalist and his fianc\u00e9e were murdered in 2018.\r\nThe shooting of Jan Kuciak and Martina Kus\u2026 [+5425 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Chinese manufacturing hits record low amid coronavirus outbreak",
+            "description": "The latest economic data shows the virus is having a bigger impact than the 2008 financial crisis.",
+            "url": "https://www.bbc.co.uk/news/business-51689178",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1368/production/_111086940_hi060291106.jpg",
+            "publishedAt": "2020-02-29T13:36:19Z",
+            "content": "Image copyrightAFPImage caption\r\n Economic data shows the virus is hitting Chinese factories harder than the 2008 financial crisis\r\nFactory activity in China fell to a record low in February, as manufacturers closed their operations to contain the spread of c\u2026 [+1531 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: 'Drive-through' testing centre set up in Antrim",
+            "description": "Meanwhile churches have made changes to services including stopping physical interaction.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51688135",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA72/production/_111081006_dac98bcf-42e2-416f-b430-00b90426ea8e.jpg",
+            "publishedAt": "2020-02-29T11:49:54Z",
+            "content": "Image copyrightSPLImage caption\r\n The first case of coronavirus in Northern Ireland was confirmed on Thursday\r\nA \"drive-through\" coronavirus testing centre has been set up at Antrim Area Hospital following the first case being diagnosed in Northern Ireland.\r\n\u2026 [+4812 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: NI schools cancel ski trips over Italian outbreak",
+            "description": "Sacred Heart Grammar in Newry and Dunclug College in Ballymena were to leave for Folgaria on Saturday.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51688902",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/142F6/production/_111087628_gettyimages-640234466.jpg",
+            "publishedAt": "2020-02-29T18:24:08Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Sacred Heart Grammar and Dunclug College were due to leave for Folgaria on Saturday\r\nTwo schools in Northern Ireland have cancelled ski trips to Italy amid concerns over the coronavirus outbreak.\r\nSacred Heart Gramma\u2026 [+2472 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: First case confirmed in Republic of Ireland",
+            "description": "The case is associated with travel from an affected area in Italy, rather than contact with a confirmed case in Ireland.",
+            "url": "https://www.bbc.co.uk/news/world-europe-51693259",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EF53/production/_97176216_breaking_news_bigger.png",
+            "publishedAt": "2020-02-29T21:34:18Z",
+            "content": "The first case of the coronavirus has been confirmed in the Republic of Ireland.\r\nThe patient is a male in the eastern part of the country, according to the Health Protection Surveillance Centre.\r\nIt said he is currently receiving appropriate medical care,. \r\u2026 [+2193 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: US confirms first death of \u2018high-risk\u2019 patient",
+            "description": "President Donald Trump says more cases are \"likely\" but urges people not to panic.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-51692577",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2331/production/_111090090_mediaitem111088397.jpg",
+            "publishedAt": "2020-02-29T20:10:50Z",
+            "content": "Image copyrightReutersImage caption\r\n A medical team prepares to visit a person who has ben exposed to the coronavirus in Seattle\r\nThe US has reported its first death from the coronavirus, in the north-west state of Washington. \r\nPresident Donald Trump said t\u2026 [+5044 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Hunt for source of UK-infected case",
+            "description": "Officials are trying to find out how a man in Surrey caught Covid-19 and tracing those who he met.",
+            "url": "https://www.bbc.co.uk/news/uk-51684624",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/874E/production/_111083643_hi060309657.jpg",
+            "publishedAt": "2020-02-29T02:27:24Z",
+            "content": "Image copyrightPA MediaImage caption\r\n The World Health Organization has raised its global risk assessment to its highest level\r\nHealth officials are trying to discover how a man in England caught coronavirus, after he became the first person to infected with\u2026 [+5507 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Scotland's papers: Coronavirus shocks economy and pistols in the post",
+            "description": "The global economic fall out from the Coronavirus features on the front pages of Scotland's newspapers.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51687547",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13C2/production/_111085050_i-feb29.png",
+            "publishedAt": "2020-02-29T09:13:28Z",
+            "content": "Hunt for source of UK-infected coronavirus caseOfficials are trying to find out how a man in Surrey caught Covid-19 - and trace those he met."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: France bans large indoors gatherings in bid to curb virus",
+            "description": "The government prohibits gatherings of more than 5,000 people to try to stop coronavirus spreading.",
+            "url": "https://www.bbc.co.uk/news/world-europe-51690657",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1124/production/_111088340_86f32eef-e626-431f-a018-f0522a53d3eb.jpg",
+            "publishedAt": "2020-02-29T16:47:55Z",
+            "content": "Image copyrightAFPImage caption\r\n One of the two people of died of the Covid-19 disease in France was a schooteacher\r\nFrance has banned all indoor gatherings of more than 5,000 people, as part of efforts to contain the country's coronavirus outbreak.\r\nMeasure\u2026 [+3242 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: 'I've been waiting four days for NHS 111 to call'",
+            "description": "People returning from travel report delays and contradictions when they seek coronavirus advice.",
+            "url": "https://www.bbc.co.uk/news/uk-51660694",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147CC/production/_111061938_halltimms.jpg",
+            "publishedAt": "2020-02-29T00:42:05Z",
+            "content": "Image caption\r\n Dean Hall has not heard back from 111, while Carole Timms received contradictory advice\r\nA man who returned from Italy with a fever said he waited four days with no call back from NHS 111 clinicians.\r\nDean Hall, who works on IT projects involv\u2026 [+5359 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Misinformation and false medical advice spreads in Iran",
+            "description": "Misleading content and conspiracy theories appear on Iranian social media.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-51677530",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A4F/production/_111076367_topimage.jpg",
+            "publishedAt": "2020-02-29T06:07:48Z",
+            "content": "Image copyrightAFP/GETTY IMAGES\r\nIran has been scrambling to control the outbreak of the coronavirus this week, but the spread of online misinformation is presenting a new challenge to the authorities.\u00a0\r\nFalse or misleading medical advice, fake letters or rem\u2026 [+4056 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Juventus v Inter among five Serie A matches postponed because of coronavirus",
+            "description": "Five Serie A matches this weekend have been postponed because of coronavirus, including Juventus' game at home to Inter Milan.",
+            "url": "https://www.bbc.co.uk/sport/football/51688379",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+            "publishedAt": "2020-02-29T11:19:11Z",
+            "content": "Five Serie A matches this weekend have been postponed because of coronavirus, including Juventus' game at home to Inter Milan.\r\nThe matches were initially going to be played behind closed doors, but Serie A took the decision on Saturday morning to call them o\u2026 [+81 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "What are the chances of dying from coronavirus?",
+            "description": "The current best guess of a 1% death rate does not apply to everyone.",
+            "url": "https://www.bbc.co.uk/news/health-51674743",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4873/production/_111074581_gettyimages-1203459555.jpg",
+            "publishedAt": "2020-02-29T00:40:15Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n More than 50 countries have now confirmed cases\r\nResearchers currently think that between five and 40 coronavirus cases in 1,000 will result in death, with a best guess of nine in 1,000 or about 1%. \r\nBut it depends \u2026 [+4058 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Nasa images show China pollution clear amid slowdown",
+            "description": "Nasa says major decreases in nitrogen dioxide levels are \"at least partly\" linked to the outbreak.",
+            "url": "https://www.bbc.co.uk/news/world-asia-51691967",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/155CA/production/_111089478_china_trop_2020056.png",
+            "publishedAt": "2020-02-29T18:41:19Z",
+            "content": "Image copyrightNASA\r\nSatellite images have shown a dramatic decline in pollution levels over China, which is \"at least partly\" due to an economic slowdown prompted by the coronavirus, US space agency Nasa says.\r\nNasa maps show how levels of nitrogen dioxide h\u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Scottish Gossip: Celtic, Rangers, Hibernian, Hearts, Aberdeen, Copenhagen",
+            "description": "Copenhagen players accuse Scottish police of heavy-handed tactics, unusual training tools at Hearts...",
+            "url": "https://www.bbc.co.uk/sport/football/51687638",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5844/production/_102969522_fgsdgd.jpg",
+            "publishedAt": "2020-02-29T09:05:31Z",
+            "content": "FOOTBALL GOSSIP\r\nLeague leaders Celtic would not be guaranteed the Premiership title if coronavirus leads to mass cancellation of sports events, with no specific provision in the SPFL rule book to cover such a scenario. (Sun) \r\nHibs head coach Jack Ross insis\u2026 [+1594 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "US signs historic deal with Afghan Taliban",
+            "description": "The agreement signed in Qatar could lead to the withdrawal of US troops from Afghanistan. But what justice does peace with the Taliban provide to the group's victims? Also in the programme: South Korea deploys the army to disinfect a city hit hard by the coro\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq56p7q34q1",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0856wmr.jpg",
+            "publishedAt": "2020-02-29T14:17:00Z",
+            "content": "The agreement signed in Qatar could lead to the withdrawal of US troops from Afghanistan. But what justice does peace with the Taliban provide to the group's victims?\r\nAlso in the programme: South Korea deploys the army to disinfect a city hit hard by the cor\u2026 [+176 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "England v Wales: Pivac-Gatland comparison unfair - Alun Wyn Jones",
+            "description": "Wales captain Alun Wyn Jones says it will be harsh to judge new coach Wayne Pivac on a possible unwanted Six Nations statistic.",
+            "url": "https://www.bbc.co.uk/sport/rugby-union/51667652",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/03C8/production/_111086900_cdf_200220_walesrugbytraining35.jpg",
+            "publishedAt": "2020-02-29T22:00:12Z",
+            "content": "Wayne Pivac retained Alun Wyn Jones as Wales captain after taking over from Warren Gatland following the 2019 World Cup\r\n<table><tr><th>Guinness Six Nations: England v Wales</th></tr>\r\n<tr><td>Venue: Twickenham Stadium Date: Saturday, 7 March Kick-off: 16:45 \u2026 [+3807 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Week in Pictures: 22-28 February",
+            "description": "A gallery selection of news photographs taken around the world this week.",
+            "url": "https://www.bbc.co.uk/news/in-pictures-51644666",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17CA7/production/_111074479_hi060239588.jpg",
+            "publishedAt": "2020-02-29T00:33:01Z",
+            "content": "A selection of news photographs taken around the world this week.\r\nImage copyrightLiu Xingzhe / EPAImage caption\r\n A couple kiss each other with their masks off while waiting for a train in Shanghai, China. More than a month since the Covid-19 outbreak, the s\u2026 [+3439 chars]"
+        }
+    ]
+}

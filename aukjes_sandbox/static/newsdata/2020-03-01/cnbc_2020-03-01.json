@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 18,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lauren Thomas",
+            "title": "More than 15,000 coronavirus testing kits are on the way to health professionals, Pence says",
+            "description": "More than 15,000 coronavirus testing kits are in the mail this weekend, en route to health professionals, according to Vice President Mike Pence.",
+            "url": "https://www.cnbc.com/2020/03/01/pence-15000-coronavirus-testing-kits-on-way-to-health-professionals.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106371631-1580827631883gettyimages-1198601733.jpeg?v=1583072657",
+            "publishedAt": "2020-03-01T14:58:00Z",
+            "content": "More than 15,000 coronavirus testing kits are in the mail this weekend en route to health professionals, according to Vice President Mike Pence.\r\nThere has been a concern that\u00a0capacity is limited across the country to conduct tests amid a potential epidemic. \u2026 [+1765 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matt Clinch",
+            "title": "Europe could see other surprise coronavirus outbreaks like Italy's, WHO chief warns",
+            "description": "\"Europe may have some surprises like Italy. You know, other developed countries in Europe may have surprises,\" Tedros Adhanom Ghebreyesus told CNBC's Hadley Gamble.",
+            "url": "https://www.cnbc.com/2020/03/01/europe-could-see-other-surprise-coronavirus-outbreaks-like-italys-who-chief-warns.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416662-1582925147100gettyimages-1203910856.jpeg?v=1582925197",
+            "publishedAt": "2020-03-01T13:33:44Z",
+            "content": "The World Health Organization's director-general cautioned Sunday that other countries within the European Union might see coronavirus outbreaks similar to the rapid spread seen in Italy.\r\nItaly has 1,128 confirmed cases as of Sunday, according to the WHO, wh\u2026 [+2159 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Maggie Fitzgerald",
+            "title": "Goldman Sachs sees three coronavirus market scenarios",
+            "description": "Even Goldman's most bullish scenario has the S&P 500 gaining just about 5% in 2020.",
+            "url": "https://www.cnbc.com/2020/03/01/goldman-sachs-sees-three-coronavirus-market-scenarios.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106412258-1582766110770gettyimages-1203051251.jpeg?v=1582858070",
+            "publishedAt": "2020-03-01T19:08:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lauren Thomas",
+            "title": "'We knew this was coming': Biden criticizes Trump administration's coronavirus response",
+            "description": "Former Vice President Joe Biden on Sunday criticized President Donald Trump's response to the coronavirus outbreak here in the U.S., saying Trump's administration was largely unprepared.",
+            "url": "https://www.cnbc.com/2020/03/01/biden-criticizes-trump-administrations-coronavirus-response.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106325046-1578425558933rts2xje2.jpg?v=1578425634",
+            "publishedAt": "2020-03-01T15:36:16Z",
+            "content": "Former Vice President Joe Biden on Sunday criticized President Donald Trump's response to the coronavirus outbreak here in the U.S., accusing the administration of being largely unprepared.\r\n\"We knew this was coming ... back as far as January,\" the current De\u2026 [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Awaiting US stock futures open at 6 pm after Wall Street's worst week since 2008",
+            "description": "Investors braced for the U.S. stock futures open Sunday at 6 p.m. after rising concerns around the coronavirus sent equities tumbling last week.",
+            "url": "https://www.cnbc.com/2020/03/01/awaiting-us-stock-futures-open-at-6-pm-after-wall-streets-worst-week-since-2008.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106367398-1580494873303rts2yecc.jpg?v=1582299929",
+            "publishedAt": "2020-03-01T21:27:18Z",
+            "content": "Investors braced for the U.S. stock futures open Sunday at 6 p.m. after rising concerns around the coronavirus sent equities tumbling last week.\r\nThe Dow Jones Industrial Average, S&amp;P 500 and Nasdaq Composite all fell more than 10% last week, their bigges\u2026 [+2284 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lauren Thomas",
+            "title": "CERAWeek energy conference canceled over concerns about coronavirus outbreak",
+            "description": "The annual CERAWeek energy conference, which was scheduled to take place in Houston from March 9 to March 13, has been canceled due to the increased spread of coronavirus, IHSMarkit announced.",
+            "url": "https://www.cnbc.com/2020/03/01/ceraweek-energy-conference-canceled-over-concerns-about-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103428715-GettyImages-512312318.jpg?v=1583087721",
+            "publishedAt": "2020-03-01T17:54:01Z",
+            "content": "The annual CERAWeek energy conference, which was scheduled to take place in Houston from March 9 to March 13, has been canceled due to the increased spread of coronavirus, according to IHSMarkit, the consultancy that has held the event every year since 1981.\r\u2026 [+1723 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "Asia stocks set to fall as Chinese manufacturing activity plunges below expectations",
+            "description": "China's official Purchasing Managers' Index (PMI) fell to 35.7 in February \u2060\u2014 the lowest level on record.",
+            "url": "https://www.cnbc.com/2020/03/02/asia-markets-china-economy-caixin-pmi-coronavirus-in-focus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106356703-1580129954467preview.jpg?v=1583105281",
+            "publishedAt": "2020-03-01T23:35:00Z",
+            "content": "Stocks in Asia were set to decline on Monday as official Chinese manufacturing data released over the weekend came in much worse than expected.\r\nFutures pointed to a lower open for Japanese stocks. The Nikkei futures contract in Chicago was at 21,030 while it\u2026 [+2993 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Ted Kemp",
+            "title": "Coronavirus live updates: China reports 573 new cases",
+            "description": "The number of newly reported deaths in mainland China stood at 35, down from 47 on the previous day, bringing the total death toll there to 2,870.",
+            "url": "https://www.cnbc.com/2020/03/01/coronavirus-live-updates-china-reports-573-new-cases.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106417675-1583023688677gettyimages-1204086995.jpeg?v=1583025496",
+            "publishedAt": "2020-03-01T01:17:00Z",
+            "content": "This is a live blog. Please check back for updates.\r\nAll times below are in Beijing time.\r\n<ul><li>Total confirmed cases: More than 85,000</li><li>Total deaths: At least 2,941</li></ul>\r\n9:35 am: South Korea reports 376 new coronavirus cases\r\nSouth Korea adde\u2026 [+2449 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "United postpones new pilot class amid coronavirus outbreak",
+            "description": "The airline has reduced its service throughout Asia due to the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/03/01/united-postpones-new-pilot-class-amid-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106418270-1583083959421gettyimages-1089840426.jpeg?v=1583083990",
+            "publishedAt": "2020-03-01T17:34:14Z",
+            "content": "United Airlines\u00a0is postponing the start dates for some new pilots this month, according to people familiar with the matter.\r\nA class of pilots that was supposed to start training this week has been postponed, said the people, who spoke on the condition of ano\u2026 [+2825 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Stephanie Landsman",
+            "title": "Coronavirus poses 'significant threat' to Trump's re-election, top economist Mark Zandi says",
+            "description": "Moody's Analytics Mark Zandi warns Wall Street is underestimating the economic damage from a coronavirus pandemic.",
+            "url": "https://www.cnbc.com/2020/03/01/coronavirus-is-significant-threat-to-economy-and-trump-mark-zandi.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416725-1582927008126gettyimages-1204034435.jpeg?v=1582927078",
+            "publishedAt": "2020-03-01T22:01:00Z",
+            "content": "Moody's Analytics Mark Zandi warns Wall Street is underestimating the damage from a coronavirus pandemic both on the economy and President Donald Trump's re-election campaign.\r\n\"Right now, we don't have a whole lot of confidence. I mean he can't seem to get o\u2026 [+1948 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eunice Yoon",
+            "title": "'This is truly a nightmare': How one businesswoman's flight to China ended in coronavirus quarantine",
+            "description": "Businesswoman Bian Jingjing has a message about the coronavirus to the world: be more prepared.",
+            "url": "https://www.cnbc.com/2020/03/01/businesswoman-quarantined-in-beijing-over-coronavirus-says-be-prepared.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106418284-1583085435885chinaflighttest.jpg?v=1583087179",
+            "publishedAt": "2020-03-01T18:28:00Z",
+            "content": "Businesswoman Bian Jingjing has a message about the coronavirus for the world: be more prepared.\r\nThe Aeroflot flight she boarded on Friday in Moscow had two passengers infected with the virus. As a result, she is now quarantined in a Beijing hotel.\r\n\"I was p\u2026 [+3272 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Markets Sunday live updates: Awaiting stock futures open",
+            "description": "A discussion of the latest market-moving news, including the coronavirus.",
+            "url": "https://www.cnbc.com/2020/03/01/markets-sunday-live-updates-awaiting-stock-futures-open.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106414302-15828373785182020-02-27t145944z_1793445115_rc229f9u9tjj_rtrmadp_3_usa-stocks.jpg?v=1582837427",
+            "publishedAt": "2020-03-01T20:57:00Z",
+            "content": "Traders work on the floor at the New York Stock Exchange (NYSE) in New York, U.S., February 27, 2020.\r\n4:06 pm: Shockingly bad China economic data\r\nChina's official Purchasing Managers' Index (PMI), a gauge for its manufacturing sector, plunged to a record lo\u2026 [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Coronavirus live updates: Australia, Thailand and US report first deaths over weekend",
+            "description": "Australia, Thailand and the U.S. all reported their first death from the coronavirus over the weekend as the outbreak continues to stretch across the globe.",
+            "url": "https://www.cnbc.com/2020/03/01/coronavirus-live-updates-australia-thailand-and-us-report-first-deaths-over-weekend.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106417677-1583023892946gettyimages-1203890526.jpeg?v=1583023995",
+            "publishedAt": "2020-03-01T13:46:26Z",
+            "content": "People wearing face masks walk on the promenade of the Bund along the Huangpu River in Shanghai on February 28, 2020.\r\n8:30 am:\u00a0Australia, Thailand and U.S. report first virus-related deaths over weekend\u00a0\r\nAustralia, Thailand and the U.S. all reported their f\u2026 [+2465 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "WHO chief on coronavirus: Global markets 'should calm down and try to see the reality'",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/03/01/who-chief-on-coronavirus-global-markets-should-calm-down-see-reality.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106369637-1580739181178gettyimages-1197376971.jpeg?v=1580739278",
+            "publishedAt": "2020-03-01T08:17:11Z",
+            "content": "Market panic over the fast-spreading new coronavirus is uncalled for, the World Health Organization's director-general said Sunday as governments around the world rush to contain its spread.\r\n\"Global markets should calm down and try to see the reality,\"\u00a0Tedro\u2026 [+1276 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Virus recession? Top economist Ed Hyman sees zero US growth the next two quarters",
+            "description": "\"More cases are showing up in the U.S. and seem likely to be just the start,\" Ed Hyman said. \"Scope, severity, and duration are uncertain.\"",
+            "url": "https://www.cnbc.com/2020/03/01/top-economist-ed-hyman-sees-zero-us-growth-next-two-quarters.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105328501-1531487573571gettyimages-609931900.jpeg?v=1572271752",
+            "publishedAt": "2020-03-01T21:09:22Z",
+            "content": "Ed Hyman, a widely followed economist on Wall Street, said the coronavirus outbreak could end up causing a recession in the U.S. and slashed his U.S. GDP forecast to zero growth in the second and third quarters of this year\r\n\"More cases are showing up in the \u2026 [+2061 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "JPMorgan, Citi and Goldman Sachs all believe there hasn't been enough pain to call a bottom yet",
+            "description": "It's too soon to rush back into stocks after the market suffered its worst week since 2008 amid coronavirus concerns, strategists warned.",
+            "url": "https://www.cnbc.com/2020/03/01/jpmorgan-citi-and-goldman-sachs-all-believe-there-hasnt-been-enough-pain-to-call-a-bottom-yet.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105650645-1546012140513rtx6k3tr.jpg?v=1583095725",
+            "publishedAt": "2020-03-01T21:47:03Z",
+            "content": "It's too soon to rush back into stocks after the market suffered its worst week since the financial crisis amid coronavirus concerns, strategists at major U.S. banks warned.\r\nThe Dow Jones Industrial Average, S&amp;P 500 and Nasdaq Composite all fell more tha\u2026 [+3149 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Thomson Reuters halts employee travel to China and South Korea over coronavirus outbreak",
+            "description": "The parent of Reuters News joins a growing list of major corporations that are halting employee travel due to coronavirus concerns, including Amazon, Facebook and News Corp.",
+            "url": "https://www.cnbc.com/2020/03/01/thomson-reuters-halts-employee-travel-to-china-south-korea-over-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105608441-1543946096848rts24u4a.jpg?v=1543946218",
+            "publishedAt": "2020-03-01T20:24:56Z",
+            "content": "Media giant Thomson Reuters has canceled non-essential business travel for its employees to mainland China, Hong Kong and South Korea over mounting fears of the deadly coronavirus outbreak, a spokesperson confirmed to CNBC.\u00a0\r\n\"Thomson Reuters has halted all n\u2026 [+966 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Santoli",
+            "title": "A full analysis of the market turmoil: What Wall Street pros are watching before jumping back in",
+            "description": "CNBC's Michael Santoli on whether we are facing an economic-reckoning or just a weeks-Sanlong panic that fades quickly for the market.",
+            "url": "https://www.cnbc.com/2020/03/01/santoli-a-full-analysis-of-the-sell-off-traders-see-a-reflex-rally-soon-but-unclear-if-it-can-be-trusted.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416138-15829081335212020-02-28t153819z_1301788503_rc2r9f9xbwfz_rtrmadp_3_usa-stocks.jpg?v=1582908188",
+            "publishedAt": "2020-03-01T22:01:07Z",
+            "content": "The stock market has rushed with historic speed to an extreme place. This means, among plenty else, that the tape is becoming stressed and stretched in a way that tends to precede the kind of reflex rally that is sudden, powerful and probably untrustworthy.\r\n\u2026 [+7492 chars]"
+        }
+    ]
+}

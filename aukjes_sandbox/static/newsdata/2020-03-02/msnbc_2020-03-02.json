@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Second death from coronavirus reported in U.S.",
+            "description": "Dr. Amesh Adalja from Johns Hopkins Center for Health Security discusses the latest coronavirus developments.",
+            "url": "http://www.msnbc.com/morning-joe-first-look/watch/second-death-from-coronavirus-reported-in-u-s-79798341658",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T10:59:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Doctors weigh in on the spread of coronavirus",
+            "description": "Drs. Joseph Fair and Ezekiel Emanuel discuss the latest details in the transmission of the coronavirus.",
+            "url": "https://www.msnbc.com/morning-joe/watch/doctors-weigh-in-on-the-spread-of-coronavirus-79805509632",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mj_zeke_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T13:37:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Dems, Trump, and officials clash over coronavirus",
+            "description": "President Trump continues to blame news coverage for the fear and anxiety surrounding the outbreak",
+            "url": "https://www.msnbc.com/deadline-white-house/watch/dems-trump-and-officials-clash-over-coronavirus-79840837824",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_wh_deadline_coronavirus_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T22:31:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "'Hundreds' may have coronavirus in Washington state",
+            "description": "NBC correspondent, Gadi Schwartz brings the latest from Washington state where six people have died from the coronavirus.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/-hundreds-may-have-coronavirus-in-washington-state-79840837632",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_clip_gadiwashington_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T22:15:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump: We've asked pharmaceutical companies to 'accelerate' coronavirus vaccine",
+            "description": "President Donald Trump said that he believes holding campaign rallies is \"very safe\" amid coronavirus concerns and explained that his administration has asked pharmaceutical companies to try to \"accelerate\" their work on a vaccine.",
+            "url": "https://www.msnbc.com/msnbc/watch/trump-talks-potential-coronavirus-vaccine-pharmaceutical-companies-79813701681",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_msnbc_brk_trump_corona_vaccine_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T16:10:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Dr. Fauci: Coronavirus now at 'outbreak' and 'likely pandemic proportions'",
+            "description": "Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases and a leading expert on coronavirus, says the disease is now at \"outbreak,\" and even \"likely pandemic proportions.\"",
+            "url": "https://www.msnbc.com/msnbc/watch/dr-fauci-coronavirus-now-at-outbreak-and-likely-pandemic-proportions-79827013761",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_msnbc_fauci_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T18:35:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "De Blasio: 'For a lot of people' coronavirus is 'manageable'",
+            "description": "Mayor Bill de Blasio discusses the first coronavirus case in New York City.",
+            "url": "http://www.msnbc.com/mtp-daily/watch/de-blasio-for-a-lot-of-people-coronavirus-is-manageable-79841861592",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T22:16:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Quarantined patient speaks as coronavirus cases grow",
+            "description": "Carl Goldman tested positive for coronavirus after being a passenger on the quarantined Diamond Princess cruise ship. Goldman joins Katy Tur by phone from his quarantine in Omaha, Nebraska to discuss his experience so far.",
+            "url": "http://www.msnbc.com/katy-tur/watch/quarantined-patient-speaks-as-coronavirus-cases-grow-79834181600",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T20:35:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "More coronavirus cases reported in California",
+            "description": "As voting for the California Democratic primary begins, some voters are concerned about the growing threat of coronavirus in the state. California Lieutenant Governor Eleni Kounalakis joins Katy Tur.",
+            "url": "https://www.msnbc.com/katy-tur/watch/more-coronavirus-cases-reported-in-california-79835205508",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_tur_TurCAGovenor_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T20:53:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Coronavirus may have been circulating in U.S. undetected for six weeks, report says",
+            "description": "A new report from the New York Times says coronavirus may have been circulating undetected in Washington state for six weeks. Gadi Schwartz reports from Kirkland, Washington.",
+            "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/coronavirus-may-have-been-circulating-in-u-s-undetected-for-six-weeks-report-says-79820357526",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mitchell_coronavriuswash_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T17:26:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "What to do if you think you have the coronavirus",
+            "description": "Yasmin Vossoughian talks with infectious disease specialist Dr. Amesh Adalja about the symptoms of the coronavirus, and what people should do if they feel sick.",
+            "url": "https://www.msnbc.com/ali-velshi/watch/what-to-do-if-you-think-you-have-the-coronavirus-79837253770",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_velshi_adalja_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T21:27:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Three additional coronavirus deaths announced in Washington state, bringing total to five",
+            "description": "Three more people have died from the virus in Washington state, public health officials announced Monday. The latest deaths bring the total to five in the state and in the United States, health officials said.",
+            "url": "https://www.msnbc.com/katy-tur/watch/three-additional-coronavirus-deaths-announced-in-washington-state-bringing-total-to-five-79829061787",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_tur_woronavirusdeaths_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T19:28:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "NJ Governor: It\u2019s \u201cno time to panic\u201d over coronavirus",
+            "description": "Coronavirus has now spread to 14 states across the US. Governor Phil Murphy (D-NJ) joins Yasmin Vossoughian to discuss the steps New Jersey\u2019s government is taking to prepare for what could be a pandemic, despite having no confirmed cases in the state at this \u2026",
+            "url": "https://www.msnbc.com/ali-velshi/watch/nj-governor-it-s-no-time-to-panic-over-coronavirus-79839301636",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_velshi_murphy_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T21:41:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Dr. Vanessa Kerry: 'We had weeks to prepare ourselves' for coronavirus",
+            "description": "Dr. Vanessa Kerry, CEO of Seed Global Health and a critical care physician at Massachusetts General Hospital, joins Andre Mitchell to discuss the response to coronavirus and what actions people should take if they believe they might be sick.",
+            "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/dr-vanessa-kerry-we-had-weeks-to-prepare-ourselves-for-coronavirus-79825477554",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mitchell_kerry_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T18:14:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Scaramucci: Trump 'covered up' things that didn't need to be covered up",
+            "description": "As markets look to rally after the worst week since the financial crisis, CNBC's Dominic Chu and former White House Communications Director Anthony Scaramucci join Stephanie Ruhle to discuss the lack of trust in the White House and the way the White House's r\u2026",
+            "url": "https://www.msnbc.com/stephanie-ruhle/watch/scaramucci-trump-covered-up-things-that-didn-t-need-to-be-covered-up-79812165521",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_ruhle_cblock_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T15:39:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Coronavirus kills 4 more in Washington state, bringing total to 6",
+            "description": "Four more people have died from the virus in Washington state, public health officials announced Monday. The latest deaths bring the total to six in the state and in the United States. 93 cases have been confirmed in the U.S., and at least 9 patients have",
+            "url": "http://www.msnbc.com/msnbc/watch/coronavirus-kills-4-more-in-washington-state-bringing-total-to-6-79832645853",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T20:13:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "Trump, the Coronavirus, and the 'hoax' that isn't a hoax",
+            "description": "Trump has an unfortunate habit of describing stories he doesn't like as \"hoaxes.\" But during a public-health emergency, this habit is worse than usual.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/trump-coronavirus-hoax-isn-t-hoax-n1146806",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3249951/200229-donald-trump-al-1151_b9d970468a8abe71468a62dcc1a42eee.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T13:07:33Z",
+            "content": "Donald Trump spent months attacking his Russia scandal as a \"hoax,\" though it was quite real. Late last year, the president attacked the Ukraine scandal that led to his impeachment as a \"hoax,\" though each of the core allegations was proven true. A couple of \u2026 [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Misinformation, social media threatens coronavirus response",
+            "description": "Joshua Johnson shares his thoughts on the misinformation on the coronavirus and how it impacts the response to the virus.",
+            "url": "http://www.msnbc.com/mtp-daily/watch/misinformation-social-media-threatens-coronavirus-response-79841861818",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T22:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "VP Pence: 'Will listen to experts,' watch cases' for...",
+            "description": "Hallie Jackson asks Vice President Mike Pence what new travel restrictions could look like as coronavirus continues to spread.",
+            "url": "http://www.msnbc.com/mtp-daily/watch/vp-pence-will-listen-to-experts-watch-cases-for-additional-travel-restrictions-79843397719",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T23:06:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Pence delivers coronavirus update: Vaccine could go to trials...",
+            "description": "Vice President Pence delivers an update on coronavirus and a timeline for a possible vaccine, but states that the risk to the American people \"remains low.\"",
+            "url": "https://www.msnbc.com/mtp-daily/watch/pence-delivers-coronavirus-update-vaccine-could-go-to-trials-within-next-6-weeks-79843397504",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_full_pencecoronavirus_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T22:46:00Z",
+            "content": null
+        }
+    ]
+}

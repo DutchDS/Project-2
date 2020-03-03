@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Rachel Schallom",
+            "title": "Coronavirus rumors spread on an app cripple LA\u2019s Koreatown restaurants",
+            "description": "The rumor and the impact on the restaurants was a prime example of how fears of the virus combined with the speed and reach of social media can quickly cripple the healthiest of businesses and focus suspicion on ethnic communities.",
+            "url": "https://fortune.com/2020/03/01/coronavirus-rumors-koreatown-restaurants-los-angeles/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/AP20060046359316.jpg?resize=1200,600",
+            "publishedAt": "2020-03-01T16:00:00Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,435 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Joe: WH response on virus has been one mistake after another",
+            "description": "The Morning Joe panel reacts to statements from White House chief of staff Mick Mulvaney, who suggested that Americans should ignore media reports about the coronavirus.",
+            "url": "https://www.msnbc.com/morning-joe/watch/joe-wh-response-has-been-one-mistake-after-another-79619141741",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mj_last_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T17:00:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Fmr. Ebola Czar: U.S 'so far behind' on Coronavirus response",
+            "description": "The former White House Ebola Coordinator Ron Klain joins Hallie Jackson to speak about the Trump administration's response to the Coronavirus crisis. Klain argues that now is not the time to hear from those \"playing politics,\" and instead the response effort \u2026",
+            "url": "https://www.msnbc.com/hallie-jackson/watch/fmr-ebola-czar-u-s-so-far-behind-on-coronavirus-response-79616069607",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hallie_klain_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T16:00:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump dissembling, mixed messages hurt U.S. coronavirus response",
+            "description": "Ron Klain, head of the U.S. response to the Ebola crisis, talks with Rachel Maddow about the problem of Donald Trump's dishonesty combined with the administration's micromanaging of information for government experts hurting the important, necessary messaging\u2026",
+            "url": "https://www.msnbc.com/rachel-maddow/watch/trump-dissembling-mixed-messages-hurt-u-s-coronavirus-response-79588421960",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_maddow_klain_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T04:54:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Troubling reports about Trump administration\u2019s response to coronavirus outbreak",
+            "description": "Questions are building about the White House response to coronavirus. A whistleblower report said federal workers weren\u2019t given training or protective gear when dealing with quarantined Americans evacuated from areas where the virus was present. Government he\u2026",
+            "url": "https://www.msnbc.com/msnbc/watch/troubling-reports-about-trump-administration-s-response-to-coronavirus-outbreak-79601221888",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_msnbc_brk_daythatwas_200228.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T11:52:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Rep. Garamendi: CDC made 'very gross mistake' with Coronavirus evacuees",
+            "description": "Congressman John Garamendi (D-CA) joins Hallie Jackson to discuss the ongoing Coronavirus crisis. With the first newly transmitted case occurring in his district, Garamendi fires at the CDC for \"failing to take immediate, aggressive action\" when receiving eva\u2026",
+            "url": "https://www.msnbc.com/hallie-jackson/watch/rep-garamendi-cdc-made-very-gross-mistake-with-coronavirus-evacuees-79614021568",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hallie_garamendi_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T15:34:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Pelosi concerned over Pence\u2019s ability to handle coronavirus duties due to science-averse past",
+            "description": "In a press conference, Nancy Pelosi expressed concern over VP Mike Pence's ability to handle the coronavirus duties placed on him by President Donald Trump, and discusses his prior handling of a HIV epidemic in Indiana.",
+            "url": "https://www.msnbc.com/deadline-white-house/watch/pelosi-concerned-over-pence-s-ability-to-handle-coronavirus-duties-due-to-science-averse-past-79618117781",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_wh_deadline_pelosipence_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T17:01:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "'Tip of the iceberg': Doctor raises alarm over coronavirus-related drug shortages",
+            "description": "Dr. Matt McCarthy, author of \"Superbugs: The Race To Stop an Epidemic,\" discusses coronavirus-related drug shortages with Stephanie Ruhle. \"We're just starting to see the tip of the iceberg with this,\" he says. \"Things are not fine.\"",
+            "url": "https://www.msnbc.com/stephanie-ruhle/watch/-tip-of-the-iceberg-doctor-raises-alarm-over-coronavirus-related-drug-shortages-79615045726",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_ruhle_drug_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T15:44:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Chris Matthews: Trump sees coronavirus as opportunity to divide the country",
+            "description": "President Trump blamed the stock market drops of Monday and Tuesday on Tuesday night's Democratic debate, not market concerns about the coronavirus.  Chris says \u201cThere are times and events, like the threat of the coronavirus, when we need to trust what govern\u2026",
+            "url": "https://www.msnbc.com/hardball/watch/chris-matthews-trump-sees-coronavirus-as-opportunity-to-divide-the-country-79579205905",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hardball_matthews1_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T01:00:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Doctor: WH coronavirus response a \u2018colossal failure\u2019",
+            "description": "Dr. Matthew McCarthy, an infectious disease doctor and the author of \"Superbugs: The Race To Stop An Epidemic\" tells Lawrence O'Donnell it is \"outrageous\" that the Trump admin. is not focusing on making test kits available to measure and treat coronavirus cas\u2026",
+            "url": "https://www.msnbc.com/the-last-word/watch/doctor-wh-coronavirus-response-a-colossal-failure-79587909604",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/MCCARTHY_0227.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T04:20:54Z",
+            "content": "Dr. Matthew McCarthy, an infectious disease doctor and the author of \"Superbugs: The Race To Stop An Epidemic\" tells Lawrence O'Donnell it is \"outrageous\" that the Trump admin. is not focusing on making test kits available to measure and treat coronavirus cas\u2026 [+15 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "U.S. braces for more coronavirus cases",
+            "description": "The coronavirus has caused people to ask a lot of questions, but what about when the answers are wrong? NBC's Dylan Byers and infectious disease specialist Dr. Matt McCarthy join Stephanie Ruhle to discuss the importance of the truth, but only if you hear it.",
+            "url": "https://www.msnbc.com/stephanie-ruhle/watch/u-s-braces-for-more-coronavirus-cases-79619141881",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_ruhle_eblock_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T17:11:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump team's coronavirus rhetoric at odds with scientists and health experts",
+            "description": "The Trump White House's upbeat response to the coronavirus health scare is directly at odds with the federal government's own scientists and health experts.",
+            "url": "https://www.msnbc.com/11th-hour/watch/trump-team-s-coronavirus-rhetoric-at-odds-with-scientists-and-health-experts-79587397970",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_bwms_science_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T04:13:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump: Coronavirus will disappear one day \u2018like a miracle\u2019",
+            "description": "The Trump administration tries to downplay the fears over coronavirus as the World Health Organization describes the global risk as \u201cvery high",
+            "url": "https://www.msnbc.com/deadline-white-house/watch/trump-coronavirus-will-disappear-one-day-like-a-miracle-79636549723",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_wh_deadline_coronavirus_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T21:31:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Dow drops 800 at open, extending worst week since financial crisis",
+            "description": "The stock market cratered again on Friday, marking the seventh day of a massive sell-off sparked by rising fears about the coronavirus epidemic. The Dow Jones Industrial Average plunged by 800 points at the opening bell, with the S&P 500 and the Nasdaq each f\u2026",
+            "url": "https://www.msnbc.com/stephanie-ruhle/watch/dow-drops-800-at-open-extending-worst-week-since-financial-crisis-79609925841",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_ruhle_dow800_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T14:46:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Long list of tasks awaits would-be managers of coronavirus outbreak",
+            "description": "Dr. Ezekiel Emanuel, former Obama health policy adviser, talks with Rachel Maddow about some of the steps that would be taken by anyone wishing to properly manage the preparation and response to the potential spread of coronavirus in the United States.",
+            "url": "http://www.msnbc.com/rachel-maddow/watch/long-list-of-tasks-awaits-would-be-managers-of-coronavirus-outbreak-79587909672",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T04:30:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump's handling of coronavirus 'could go off the rails'",
+            "description": "Philip Rucker of The Washington Post reports his sources inside the White House say aides are concerned with how Trump will handle the delicate response needed to a public health scare like coronavirus.",
+            "url": "https://www.msnbc.com/11th-hour/watch/trump-s-handling-of-coronavirus-could-go-off-the-rails-79589445567",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_bwms_rails_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T04:36:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Rep. Garamendi: Trump admin coronavirus response \u2018reprehensible,\u2019 \u2018dangerous\u2019",
+            "description": "Rep. John Garamendi, whose constituent has been infected with coronavirus, slams the Trump administration's response to the outbreak. He says officials don't know who is ill and early testing is not allowed to be done. Garamendi says the result \"God help us, \u2026",
+            "url": "https://www.msnbc.com/the-last-word/watch/rep-garamendi-trump-admin-coronavirus-response-reprehensible-dangerous-79589445504",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_lw_garamendi_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T04:21:40Z",
+            "content": "Rep. John Garamendi, whose constituent has been infected with coronavirus, slams the Trump administration's response to the outbreak. He says officials don't know who is ill and early testing is not allowed to be done. Garamendi says the result \"God help us, \u2026 [+29 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Rpts: Trump team's coronavirus response mired by protocol breakdown",
+            "description": "The Washington Post was first to break the news of a whistleblower who says federal workers greeted evacuated Americans returning from the center of the coronavirus outbreak in China without proper training or infection control protection leading to",
+            "url": "http://www.msnbc.com/11th-hour/watch/rpts-trump-team-s-coronavirus-response-mired-by-protocol-breakdown-79587909546",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T04:11:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Psychiatrist on Trump\u2019s \u2018dangerous\u2019 response to coronavirus crisis",
+            "description": "Dr. Lance Dodes, a contributor to bestselling \u201cDangerous Case of Donald Trump,\u201d tells Lawrence O\u2019Donnell that President Trump is a \u201ccon man\u201d who is making the current public health crisis \u201call about himself\u201d- which could have grave results for Americans.",
+            "url": "http://www.msnbc.com/the-last-word/watch/psychiatrist-on-trump-s-dangerous-response-to-coronavirus-crisis-79587909614",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T04:21:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Is Trump team's coronavirus response making things worse on Wall Street?",
+            "description": "Stock markets hate uncertainty. So we discuss with NBC News Sr. Business Correspondent Stephanie Ruhle how the confused coronavirus messaging from the Trump administration could be making things worse for investors.",
+            "url": "https://www.msnbc.com/11th-hour/watch/is-trump-team-s-coronavirus-response-making-things-worse-on-wall-street-79588421606",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_bwms_stocks_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T04:22:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "CDC issues new testing guidance for health care workers",
+            "description": "Rep. Jimmy Gomez of California joins Katy Tur to discuss the reports of a whistle blower claiming that U.S. workers responding to the coronavirus lacked proper training and protective gear.",
+            "url": "https://www.msnbc.com/katy-tur/watch/cdc-issues-new-testing-guidance-for-health-care-workers-79633477964",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_tur_TurGomez_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T20:47:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Dr. Christopher Mores: We need to look to our leaders to put together the best coronavirus response plan",
+            "description": "Dr. Christopher Mores, a professor of global health at George Washington University, joins Geoff Bennett to provide his expert advice to families, businesses, and the response team as the World Health Organization increases their risk assessment of coronaviru\u2026",
+            "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/dr-christopher-mores-we-need-to-look-to-our-leaders-to-put-together-the-best-coronavirus-response-plan-79622725660",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mitchell_mores_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T18:10:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "NYT: Whistleblower says US workers responding to coronavirus lacked training, gear",
+            "description": "The New York Times is reporting that federal health employees may have interacted with Americans possibly exposed to the corona virus without proper training or equipment. According to a whistleblower's report, federal officials \"admonished\" the staff members\u2026",
+            "url": "https://www.msnbc.com/hardball/watch/nyt-whistleblower-says-us-workers-responding-to-coronavirus-lacked-training-gear-79577669757",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_hardball_azar_200227_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T00:17:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Coronavirus continues to rattle the stock market",
+            "description": "CNBC's Sara Eisen reports on the economic impact of the coronavirus.",
+            "url": "http://www.msnbc.com/morning-joe/watch/coronavirus-continues-to-rattle-the-stock-market-79606341958",
+            "urlToImage": null,
+            "publishedAt": "2020-02-28T14:04:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Coronavirus continues rattling the stock market",
+            "description": "CNBC's Dominic Chu joins Morning Joe to discuss the impact the coronavirus is having on the global economy.",
+            "url": "https://www.msnbc.com/morning-joe/watch/coronavirus-continues-rattling-the-stock-market-79600197985",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mj_dom_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T12:00:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Sen. Durbin: We should be realistic about coronavirus",
+            "description": "Sen. Dick Durbin, D-Ill., discusses the WH response to the coronavirus and why he says it's not a media story. Sen. Durbin also discusses congressional response and the South Carolina primary.",
+            "url": "https://www.msnbc.com/morning-joe/watch/sen-durbin-we-should-be-realistic-about-coronavirus-79610949842",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mj_durbin_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T15:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Trump, Pence give mixed messages on partisanship, virus response",
+            "description": "Both the president and vice president have delivered seemingly contradictory messages this week on partisanship and responding to the growing threat of the coronavirus. So, which message should the country heed?",
+            "url": "https://www.msnbc.com/morning-joe/watch/trump-pence-give-mixed-messages-on-partisanship-virus-response-79602245559",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mj_mixed_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T11:42:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Mike Bloomberg: I believe Sanders would lose to Trump",
+            "description": "In an MSNBC exclusive, 2020 Democratic candidate Mike Bloomberg talks with Kasie Hunt about why he says the U.S. shouldn't trust Trump to handle the coronavirus crisis and why he says if Sen. Sanders gets the nomination, he will lose to Trump.",
+            "url": "https://www.msnbc.com/morning-joe/watch/mike-bloomberg-i-believe-sanders-would-lose-to-trump-79603269528",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mj_bloom1_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T12:22:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "A line on the coronavirus outbreak Trump may come to regret",
+            "description": "Trump explicitly said the total number of U.S. coronavirus cases will soon go from 15 to \"close to zero.\" That's dangerously untrue.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/line-coronavirus-outbreak-trump-may-come-regret-n1144686",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3245976/200226-donald-trump-coronavirus-presser-ew-644p_e64fa0e26f7250815b8047c5b8e5fed9.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T13:04:34Z",
+            "content": "Early on during Wednesday's White House briefing on the coronavirus outbreak, Health and Human Services Secretary Alex Azar stressed an important and accurate point. \"[W]hat every one of our experts and leaders have been saying for more than a month now remai\u2026 [+2995 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "White House's Mulvaney: Coronavirus coverage 'all about' hurting Trump",
+            "description": "As far as the acting White House chief of staff is concerned, coronavirus coverage is \"all about\" an elaborate attempt to undermine Trump.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/white-house-s-mulvaney-coronavirus-coverage-all-about-hurting-trump-n1144861",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_45/3058356/191018-mick-mulvaney-mc-1246_42b1c4b5c4dfd7366f91d91a01eb329f.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-02-28T17:06:53Z",
+            "content": "Rush Limbaugh this week told his audience that \"this coronavirus thing\" is being \"weaponized as yet another element to bring down Donald Trump.\" He added, \"I'm dead right on this. The coronavirus is the common cold, folks.\" A day later, the host kept this goi\u2026 [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "Trump says he can reassemble a health security team quickly (he can't)",
+            "description": "After disbanding his global health security team, Trump says he can reassemble it quickly. It'd be great if that were true, but it's not.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/trump-says-he-can-reassemble-health-security-team-quickly-he-n1144776",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3248141/200228-donald-trump-al-0758_355ca0cf2b2cd3694a833b99fc74985e.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T14:49:17Z",
+            "content": "As the federal response to the coronavirus outbreak continues to take shape, among the most important recent reports on the issue is thisForeign Policy piece from a month ago, which said the United States \"has never been less prepared for a pandemic.\"\r\nOf par\u2026 [+2083 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "How concerned are public health officials about misinformation...",
+            "description": "Washington Post health reporter, Lena Sun, on the mixed messaging about coronavirus and its impact on the public health.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/how-concerned-are-public-health-officials-about-misinformation-surrounding-coronavirus-79640133934",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mtpd_clip_lenasun_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T22:30:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Coronavirus sparks sell-off, health officials stay on edge",
+            "description": "The number of coronavirus cases continue to rise and stocks continue to fall. A look at how the Trump administration might be giving mixed messages.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/coronavirus-sparks-sell-off-health-officials-stay-on-edge-79640645538",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mtpd_clip_open1_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T22:16:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Coronavirus fears hit global stocks as Trump administration...",
+            "description": "The stock markets continue to take a tumble on the back of coronavirus concerns, as President Trump's NEC Director Larry Kudlow advises investors not to \"overreact.\" Stephanie Ruhle joins Geoff Bennett with the latest from the New York Stock Exchange and Gene\u2026",
+            "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/coronavirus-fears-hit-global-stocks-as-trump-administration-response-comes-under-scrutiny-79621701872",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/n_mitchell_stocks_200228_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-28T18:38:00Z",
+            "content": null
+        }
+    ]
+}

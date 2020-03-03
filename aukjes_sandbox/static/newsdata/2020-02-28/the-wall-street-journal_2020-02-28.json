@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 12,
+    "totalResults": 13,
     "articles": [
         {
             "source": {
@@ -14,6 +14,19 @@
             "urlToImage": "https://images.wsj.net/im-158861/social",
             "publishedAt": "2020-02-28T18:27:00Z",
             "content": "Coronavirus infections among Irans senior leaders are raising questions over the extent of an outbreak that has become a flashpoint in the world-wide spread of the virus.\r\nA week after Iranian authorities confirmed the first virus case in the country, at leas\u2026 [+97 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Stephanie Armour, Andrew Restuccia",
+            "title": "Democrats Press for Data on Coronavirus Whistleblower Complaint - The Wall Street Journal",
+            "description": "Democrats Press for Data on Coronavirus Whistleblower Complaint The Wall Street Journal HHS whistleblower claims US workers received coronavirus evacuees without proper precautions CNN Dem Senator Grills Azar Over Coronavirus Whistleblower, Says HHS Put 'Gene\u2026",
+            "url": "https://www.wsj.com/articles/democrats-press-for-data-on-coronavirus-whistleblower-complaint-11582930247",
+            "urlToImage": "https://images.wsj.net/im-159120/social",
+            "publishedAt": "2020-02-28T22:50:00Z",
+            "content": "WASHINGTONCongressional Democrats on Friday pressed the Trump administration for more information about a whistleblower complaint alleging that federal employees were sent to work at coronavirus quarantine locations without adequate safety protocols and then \u2026 [+272 chars]"
         },
         {
             "source": {

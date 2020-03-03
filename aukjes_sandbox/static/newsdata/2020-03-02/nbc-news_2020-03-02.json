@@ -1,0 +1,656 @@
+{
+    "status": "ok",
+    "totalResults": 50,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Watch live: Pence gives update on coronavirus threat - NBC News",
+            "description": "Watch live coverage as Vice President Pence provides an update on the coronavirus threat to the U.S., along with Ambassador Deborah Birx, the White House coronavirus response coordinator.",
+            "url": "https://www.nbcnews.com/video/watch-live-pence-gives-update-on-coronavirus-threat-79834693619",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/pence-live.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T21:48:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Watch live: Washington state governor gives update on coronavirus deaths - NBC News",
+            "description": "Watch live: Washington state governor gives update on coronavirus deaths NBC News Washington State Governor Gives Update On Coronavirus Deaths | NBC News (Live Stream) NBC News Washington, Florida Governors Declare State of Emergency for Coronavirus U.S. News\u2026",
+            "url": "https://www.nbcnews.com/video/watch-live-washington-state-governor-gives-update-on-coronavirus-deaths-79835717652",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/inslee-live.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:05:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David K. Li",
+            "title": "4 more coronoavirus deaths reported in Washington state, bringing death toll to 6",
+            "description": "Five had succumbed in King County and one more in Snohomish County, health officials announced Monday.",
+            "url": "https://www.nbcnews.com/news/us-news/4-more-coronoavirus-deaths-reported-washington-state-bringing-death-toll-n1147281",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_10/3251956/200302-frank-riedo-king-county-death-coronavirus-ew-227p_71f0a62e9e6e85da524f23a201137d34.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T20:06:00Z",
+            "content": "At least six people have died in Washington state from the coronavirus after four more deaths were reported on Monday, authorities said said.\r\n.@DocJeffD: We are reporting 4 new cases today. Of the 4 cases, 2 have died. In addition, 1 of our previously report\u2026 [+668 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "The Democratic presidential contest increasingly looks like a two-person race",
+            "description": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/democratic-presidential-contest-increasingly-looks-two-person-race-n1146846",
+            "urlToImage": "https://static.euronews.com/articles/4538908/1000x563_nbc-200302-sanders-biden-mc-1231_bdffedd7ebbdee355af2c980c7db6073.jpg",
+            "publishedAt": "2020-03-02T13:34:00Z",
+            "content": "WASHINGTON \u2014 A lot sure has changed in the last eight days \u2014 Bernie Sanders' lopsided victory in Nevada, Jim Clyburn's endorsement of Biden, Biden's own dominating win in South Carolina and Pete Buttigieg's exit from the race.\r\nAnd a lot might end up changing\u2026 [+8148 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ahiza Garc\u00eda-Hodges",
+            "title": "From soccer to the Olympics, Coronavirus fears are taking a toll on sporting events",
+            "description": "From soccer games to marathons, concerns about the coronavirus outbreak have led sports organizers to cancel or modify major events across the globe.",
+            "url": "https://www.nbcnews.com/business/business-news/soccer-olympics-coronavirus-fears-are-taking-toll-sporting-events-n1146781",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3243566/200225-japan-olympics-al-1317_a12600935199491b2d20e05808e5431f.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T13:20:20Z",
+            "content": "From soccer games to marathons, concerns about coronavirus have led sports organizers to cancel or modify major events across the globe. With more than 80,000 reported cases of the disease, the viral outbreak continues to create uncertainty about future compe\u2026 [+2595 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lucy Bayly",
+            "title": "Wall Street takes a deep breath after worst week in a decade",
+            "description": "Wall Street rebounded Monday morning after weathering its worst week in a decade amid rising fears that the coronavirus will ding the global economy and stunt growth.",
+            "url": "https://www.nbcnews.com/business/markets/wall-street-takes-deep-breath-after-worst-week-decade-n1146886",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3251416/200302-nyse-mn-0925_96cf6a6748db1359d7ff72505f1a67ec.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T14:31:00Z",
+            "content": "Wall Street rebounded Monday morning after weathering its worst week in a decade amid rising fears that the coronavirus will ding the global economy and stunt growth.\r\nThe Dow Jones Industrial Average opened the first week of March with a gain of around 220 p\u2026 [+1527 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Nightly News Full Broadcast (March 1st)",
+            "description": "Pete Buttigieg to suspend presidential campaign, Washington state nursing home quarantined after first U.S. coronavirus death, and police shooting on Chicago train under investigation.",
+            "url": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-march-1st-79782469879",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/020-03-02T020225Z_1312956314_RC2EBF98MO8N_RTRMADP_3_USA-ELECTION-BUTTIGIEG.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T01:50:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "President Trump appears to have boxed in the Senate by nominating Ratcliffe as intel chief",
+            "description": "The Senate must confirm as DNI a Texas congressman who inflated his resume, or leave in place an acting director without significant intel experience.",
+            "url": "https://www.nbcnews.com/politics/national-security/president-trump-appears-have-boxed-senate-nominating-ratcliffe-intel-chief-n1147276",
+            "urlToImage": "https://static.euronews.com/articles/4540772/1000x563_nbc-190219-richard-grenell-germany-cs-941a_b93abc3015cf42801775b2dbe2728fdc.jpg",
+            "publishedAt": "2020-03-02T21:16:00Z",
+            "content": "WASHINGTON \u2014 With the country distracted by a spreading coronavirus and a Democratic primary battle, President Donald Trump appears to have boxed in the Senate on the crucial question of who will lead the intelligence community in the months leading up to the\u2026 [+4553 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ethan Sacks and Corky Siemaszko",
+            "title": "New York will battle the coronavirus with more testing and bleach",
+            "description": "New York Gov. Cuomo seeking $40 million from the state Legislature to counter the coronavirus after the first case was confirmed.",
+            "url": "https://www.nbcnews.com/news/us-news/new-york-will-battle-coronavirus-more-testing-bleach-n1147226",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3251976/200302-andrew-cuomo-bill-de-blasio-ew-257p_4d7bcdbd891fcd5e5f65afd54f7e6a1b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T21:08:00Z",
+            "content": "Now that the coronavirus has arrived in New York City, Gov. Andrew Cuomo is warning residents to brace themselves for a smell with an overpowering, yet familiar, bouquet bleach.\r\nCity workers, as part of the concerted effort to keep the virus from spreading, \u2026 [+5571 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "Worried you have the coronavirus? Here's exactly what you should do.",
+            "description": "For starters, don't panic: \"The vast majority of cases are going to be mild, and people are going to recover just like they do from a cold or flu-like illness.\"",
+            "url": "https://www.nbcnews.com/health/health-news/worried-you-have-coronavirus-here-s-exactly-what-you-should-n1146996",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3251611/200302-coronavirus-microscope-covid-19-se-1106a_6263bd17ffef38cb1c4dc945723ce1f2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T22:17:00Z",
+            "content": "With a growing number of cases of the new coronavirus confirmed across the United States, having a sore throat or some sniffles might feel like a cause for concern. But in most cases, there is no reason to worry, experts say.\r\nIf you have symptoms of the coro\u2026 [+7133 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Dr. Fauci discusses coronavirus amid community spread",
+            "description": "Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases and a leading expert on coronavirus, discusses the virus amid community spread.",
+            "url": "https://www.nbcnews.com/video/dr-fauci-discusses-coronavirus-amid-community-spread-79835717662",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/f_mo_fauci_corona_200302.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T21:00:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Americans stock up as coronavirus cases grow",
+            "description": "Should the coronavirus grow into a pandemic, Homeland Security recommends having a two-week supply of food on hand. The virus\u2019 spread has also forced the cancellation of trade shows and conferences.",
+            "url": "https://www.nbcnews.com/nightly-news/video/americans-stock-up-as-coronavirus-cases-grow-79845445871",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_tco_coronavirus_preps_and_travel_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:45:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Special polling booths opened for quarantined Israeli voters amid coronavirus concerns",
+            "description": "Designated polling stations were set up for voters in Israel\u2019s general election who were under home quarantine as a precaution against spreading coronavirus.",
+            "url": "https://www.nbcnews.com/video/israeli-voters-quarantined-as-coronavirus-precaution-get-sterile-polling-booths-79796805730",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/fb76b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T10:42:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Top government health official warns Americans of coronavirus spread",
+            "description": "In an in-depth interview with NBC News\u2019 Richard Engel, Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, says the coronavirus outbreak will reach \u201clikely pandemic proportions.\u201d",
+            "url": "https://www.nbcnews.com/nightly-news/video/top-government-health-official-warns-americans-of-coronavirus-spread-79844933984",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_ren_coronavirus_frauci_intv_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:43:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus concerns may lead to new travel restrictions",
+            "description": "In addition to what\u2019s already in place for China, Italy, and South Korea, President Trump hinted at the possibility of more restrictions in \u201ccountries where they\u2019re having more of a breakout.\u201d",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-concerns-may-lead-to-new-travel-restrictions-79847493545",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_hja_coronavirus_wh_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:44:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Seoul department store disinfected as South Korean coronavirus cases spike",
+            "description": "With the number of confirmed COVID-19 cases spiking over 4,000, a South Korean department store stepped up its disinfection efforts on Monday as shoppers lined up from early hours to buy face masks.",
+            "url": "https://www.nbcnews.com/video/seoul-department-store-disinfected-as-south-korean-coronavirus-cases-spike-79794757729",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/cb24d.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T09:12:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Cuomo reviews N.Y.\u2019s first coronavirus case, assures public \u2018it is deep breath time\u2019",
+            "description": "Governor Andrew Cuomo briefed the press on the state\u2019s first confirmed case of coronavirus, but assured the public that New York \u201chas the best health care system in the world\u201d and \u201cthis is not our first rodeo.\u201d",
+            "url": "https://www.nbcnews.com/video/gov-cuomo-briefs-press-on-new-york-s-first-coronavirus-case-assures-public-79810117975",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/cuomothumb.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T15:36:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Cities take drastic measures as coronavirus death toll rises in U.S.",
+            "description": "There are now over 100 confirmed cases in more than a dozen states across the country.",
+            "url": "https://www.nbcnews.com/nightly-news/video/cities-take-drastic-measures-as-coronavirus-death-toll-rises-in-u-s-79845445827",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_mal_coronavirus_us_200302_1583193946149.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:42:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Marianna Sotomayor, Liz Brown-Kaiser",
+            "title": "Biden rakes in endorsements after definitive South Carolina win",
+            "description": "Following Joe Biden\u2019s resounding victory in the South Carolina Democratic primary Saturday, the former Vice President has racked up about 20 influential endorsements.",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1147141",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T17:59:02Z",
+            "content": "WASHINGTON\u00a0 Following Joe Bidens resounding victory in the South Carolina Democratic primary Saturday, the former Vice President has racked up about 20 influential endorsements spanning from activists to current and former members of Congress. More support co\u2026 [+28070 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jason Abbruzzese",
+            "title": "Elizabeth Warren releases coronavirus plan",
+            "description": "Sen. Elizabeth Warren released a new plan on Monday to address the health and economic threats of the new coronavirus",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146981",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T16:06:51Z",
+            "content": "Sen. Elizabeth Warren released a new plan on Monday to address the health and economic threats of the new coronavirus. She had previously released a plan to counter the virus' health effects and a spending bill in the Senate.\r\nThe plan released Monday include\u2026 [+5325 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ahiza Garc\u00eda-Hodges",
+            "title": "SXSW doubles down on coronavirus fears, says event will go on, adds more speakers",
+            "description": "SXSW doubles down on coronavirus fears, says event will go on, adds more speakers",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147341",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T20:49:00Z",
+            "content": "South by Southwest, the annual media and music event in Austin, Texas, has doubled down in the face of coronavirus fears, adding speakers such as Hillary Clinton, Andrew Yang and Beto ORourke as other major events cancel or postpone as the epidemic spreads ac\u2026 [+4507 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jason Abbruzzese",
+            "title": "Beware coronavirus hoaxes \u2014 including those that claim to be from the WHO",
+            "description": "Beware coronavirus hoaxes \u2014 including those that claim to be from the WHO",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147306",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T20:56:08Z",
+            "content": "Scammers have already been taking advantage of fear about the new coronavirus to bilk people out of money and they're getting more polished.\r\nCybersecurity company Proofpoint found that some fake emails are using the branding of legitimate companies and organ\u2026 [+4331 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Laura Strickler, Suzy Khimm",
+            "title": "FEMA prepping for possible coronavirus emergency declaration",
+            "description": "FEMA is planning for the possibility that Trump could make an emergency declaration to bring in extra funds and personnel to assist the administration's coronavirus response.",
+            "url": "https://www.nbcnews.com/news/us-news/fema-prepping-possible-coronavirus-emergency-declaration-n1147016",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3251496/200302-washington-coronavirus-mn-1015_e4b29544ef19c24883c0dc599317e742.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T16:17:44Z",
+            "content": "The Federal Emergency Management Agency is planning for the possibility that President Donald Trump could make an emergency declaration to bring in extra funds and personnel to assist the administration's coronavirus response, according to internal documents \u2026 [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "Worried you have the coronavirus? Here's exactly what you should do",
+            "description": "If you have symptoms of the coronavirus, there are the steps that doctors and public health officials recommend you take.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147466",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T22:26:04Z",
+            "content": "With a growing number of cases of the new coronavirus confirmed across the United States, having a sore throat or some sniffles might feel like a cause for concern. But in most cases, there is no reason to worry, experts say.\r\nIf you have\u00a0symptoms\u00a0of the coro\u2026 [+3295 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Fred Imbert, CNBC",
+            "title": "Dow futures drop more than 200 points, indicating another rough week for Wall Street",
+            "description": "Investors braced for another turbulent week as stock futures tumbled on Sunday night as concerns around the coronavirus kept Wall Street under pressure.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146656",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T01:02:22Z",
+            "content": "Investors braced for another turbulent week as stock futures tumbled Sunday night as concerns around the coronavirus kept Wall Street under pressure.\r\nDow Jones Industrial Average futures dropped more than 300 points, indicating a loss of 342 points at Monday\u2026 [+5888 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tim Stelloh",
+            "title": "Three more people diagnosed with coronavirus in Northern California",
+            "description": "Three more people were diagnosed with novel coronavirus in Northern California, raising the number of confirmed cases in Santa Clara County to 7, public health officials said Sunday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146651",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T01:08:24Z",
+            "content": "Three more people were diagnosed with novel coronavirus in Northern California, raising the number of confirmed cases in Santa Clara County to seven, public health officials said Sunday.\r\nIt wasnt immediately clear how one of the patients contracted the virus\u2026 [+6723 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "North Korea fires unidentified projectiles",
+            "description": "North Korea fired two unidentified projectiles into its eastern sea Monday as it resumes weapons tests after a hiatus possibly forced by the coronavirus crisis.",
+            "url": "https://www.nbcnews.com/news/world/north-korea-fires-unidentified-projectiles-n1146701",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_09/3251026/200301-kim-jong-un-rd-1135p_b5276efd234e0ecccc51a6d9ad1eab46.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-02T04:44:27Z",
+            "content": "SEOUL, South Korea North Korea fired two unidentified projectiles into its eastern sea on Monday as it begins to resume weapons demonstrations after a months-long hiatus that could have been forced by the coronavirus crisis in Asia.\r\nThe launches from an area\u2026 [+2367 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Patrick Smith, Yuliya Talmazan",
+            "title": "Number of coronavirus cases in the U.K. rises to 40",
+            "description": "The United Kingdom now has at least 40 confirmed cases of COVID-19, the disease caused by the coronavirus, the government confirmed Monday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146911",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T14:38:14Z",
+            "content": "The United Kingdom now has at least 40 confirmed cases of COVID-19, the disease caused by the coronavirus, the government confirmed Monday.\r\nThe country has tested 13,525 people, meaning just 0.29 percent were positive.\r\nBritish Prime Minister Boris Johnson s\u2026 [+8530 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani",
+            "title": "Vice President Pence: \"It's a good time to wash your hands.\"",
+            "description": "Vice President Mike Pence offered his condolences as the American death toll from coronavirus cases in the country rose to six Monday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147496",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:15:49Z",
+            "content": "Vice President Mike Pence speaks along with members of the coronavirus take force during a press briefing at the White House on March 2, 2020.Mandel Ngan / AFP - Getty Images\r\nVice President Mike Pence offered his condolences as the U.S. coronavirus death tol\u2026 [+1445 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Anita Hassan",
+            "title": "Las Vegas casinos brace for loss of Chinese tourism as coronavirus spreads",
+            "description": "American casino companies warned that the coronavirus outbreak could affect their Las Vegas properties, which draw high rollers and tourists from China.",
+            "url": "https://www.nbcnews.com/news/us-news/las-vegas-casinos-brace-loss-chinese-tourism-coronavirus-spreads-n1147071",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3251671/200302-stock-bellagio-fountains-las-vegas-ew-1130a_9871cdb4dc2a297a5c23606397c94118.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T17:30:00Z",
+            "content": "LAS VEGAS Five days a week, Lexi McKimmey strides the Las Vegas Strip as a showgirl, dressed in a sequined bikini and sparkly silver boots. She takes pictures with tourists and chats with them about where they're from.\r\nOver the past few weeks, after the U.S.\u2026 [+5449 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Michelle Chen",
+            "title": "Stopping the coronavirus requires health care access and paid sick leave. America's in trouble.",
+            "description": "If knowing you're infected and then self-quarantining is necessary to stop the spread of coronavirus, the American economic system is going to fail us.",
+            "url": "https://www.nbcnews.com/think/opinion/stopping-coronavirus-requires-health-care-access-paid-sick-leave-america-ncna1147056",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3251756/200302-think-crowded-subway-se-1225p_24d135ab8ce44cdff083af0bef8ffc8b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T18:15:00Z",
+            "content": "Now that the the COVID-19 virus is spreading rapidly around the world, the Trump administration is scrambling to calm the public's fears about catching it. While Trump's claims about the nation's preparedness are severely exaggerated, the preparedness of indi\u2026 [+6437 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ali Velshi",
+            "title": "Could coronavirus fears hit the markets again this week?",
+            "description": "Last week's stock market drops were nowhere near the top 10 biggest drops on major markets. What could this week hold for investors?",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146746",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T11:18:15Z",
+            "content": "This week Im looking to see whether investors will struggle with the stock market sell-off, as they did last week, or whether there is panic selling, when the majority of trades through the course of the day are made at a lower price than the trades before, w\u2026 [+8998 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tatyana Chistikova",
+            "title": "Russia confirms first case",
+            "description": "Russia's first coronavirus patient has been diagnosed in Moscow, according to the Federal Welfare Service. The patient is a Russian citizen who had been in Italy and returned to Moscow on Feb. 23.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146956",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T15:29:20Z",
+            "content": "NY governor: 'It's deep breath time'\r\nNew York Gov. Andrew Cuomo urged people across the state to \"relax,\" saying at a news conference Monday morning that \"it's deep breath time.\"\r\n\"Excuse our arrogance as New Yorkers,\" Cuomo said. \"We think we have the best \u2026 [+8132 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniella Silva",
+            "title": "2 quarantined women released from University of Nebraska Medical Center",
+            "description": "The University of Nebraska Medical Center announced Monday two women who were quarantined over the novel coronavirus outbreak after going on a cruise would be heading home after testing negative for the disease.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147086",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T17:06:30Z",
+            "content": "Two women who were quarantined after going on a cruise will head home after testing negative for the novel coronavirus, the University of Nebraska Medical Center announced Monday.\r\nJoanne Kirkland, of Tennessee, and Jeri Serratti-Goldman, of California, said \u2026 [+3770 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tim Stelloh",
+            "title": "Florida Gov. Ron DeSantis declares health emergency after two coronavirus cases",
+            "description": "Florida Gov. Ron DeSantis declared a public health emergency Sunday after two people tested presumptively positive for COVID-19.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146691",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T03:34:13Z",
+            "content": "Florida Gov. Ron DeSantis declared a public health emergency Sunday after officials reported two presumptive cases of COVID-19, the disease caused by the new coronavirus.\r\nThe cases must still be confirmed by the Centers for Disease Control and Prevention, bu\u2026 [+7967 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "County in Washington to buy motel for isolated patients",
+            "description": "Washington state to buy motel for isolated patients",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147526",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:45:24Z",
+            "content": "Officials in King county, Washington said they plan to buy a local motel and set up modular units that will be used to isolate people who have been diagnosed with coronavirus.\u00a0\r\nThese modular units will be set up in publicly-owned parking lots and other avail\u2026 [+4784 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ann-Kathrin Pohlers, Charlene Gubash",
+            "title": "First case in Tunisia; four new cases in Qatar",
+            "description": "First case in Tunisia; four new cases in Qatar",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147006",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T16:11:46Z",
+            "content": "Tunisia's Ministry of Health announced the country's first case Monday: a 40-year-old Tunisian national who had recently returned from Italy.\r\nQatar's main news agency, meanwhile, announced four new cases bringing the nationwide total to seven.\r\nElizabeth War\u2026 [+4372 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Vivian Manning-Schaffel",
+            "title": "How to wash your hands properly, according to doctors",
+            "description": "Believe it or not, there's a right way to wash your hands.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146711",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T07:15:40Z",
+            "content": "Hand-washing is the easiest way to prevent the spread the\u00a0coronavirus\u00a0and the common flu.\u00a0Believe it or not, theres a right way to wash your hands. The\u00a0Centers for Disease Control (CDC) breaks it down into these five steps:\r\n<ol><li>Wet your hands (to the wri\u2026 [+8228 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Edelman",
+            "title": "Trump claims 'it's very safe' to hold political rallies",
+            "description": "Trump, responding to questions from reporters Monday about whether it was safe to hold large political rallies amid the spread of the virus, said: \"I think it's very safe.\"",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147011",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T16:14:00Z",
+            "content": "President Trump, responding to questions from reporters Monday about whether it was safe to hold large political rallies amid the spread of the virus, said: I think its very safe.\r\nHe said he would use a meeting later in the day between his administrations co\u2026 [+4501 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniel Arkin",
+            "title": "World's largest shipping container conference is canceled",
+            "description": "TPM, a trade conference for the cargo shipping industry that was set to open Sunday in Long Beach, California, has been canceled amid concerns about the outbreak, the event's sponsors announced Monday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146986",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T15:58:33Z",
+            "content": "NASA's data shows Chinas air pollution plummets amid outbreak\r\nData from NASA's pollution monitoring satellites shows significant decreases over China in the concentration of nitrogen dioxide, a gas that contributes to air pollution a change that's \"at\u00a0least \u2026 [+5342 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Charlene Gubash",
+            "title": "Saudi Arabia confirms first case",
+            "description": "The first confirmed case in Saudi Arabia is a citizen who traveled from Iran through Bahrain and did not disclose his presence at the Saudi port, the Saudi Ministry of Health said Monday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147121",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T17:24:54Z",
+            "content": "2 quarantined women released from University of Nebraska Medical Center\r\nTwo women who were quarantined after going on a cruise will head home after testing negative for the novel coronavirus, the University of Nebraska Medical Center announced Monday.\r\nJoann\u2026 [+3843 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniel Arkin",
+            "title": "NY governor: 'It's deep breath time'",
+            "description": "New York Gov. Andrew Cuomo urged people across the state to \"relax,\" saying at a news conference Monday morning that \"it's deep breath time.\"",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146931",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T15:05:00Z",
+            "content": "New York Gov. Andrew Cuomo urged people across the state to \"relax,\" saying at a news conference Monday morning that \"it's deep breath time.\"\r\n\"Excuse our arrogance as New Yorkers,\" Cuomo said. \"We think we have the best health care system on the planet right\u2026 [+8094 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erik Ortiz",
+            "title": "Coronavirus prompts a dozen schools in Washington state to close, others weigh options",
+            "description": "A growing number of schools in western Washington state and Oregon are scrambling this week to temporarily close and sanitize classrooms.",
+            "url": "https://www.nbcnews.com/news/us-news/coronavirus-prompts-dozen-schools-washington-state-close-others-weigh-options-n1145496",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3248386/200228-bothell-high-school-ew-1022a_cc3e19f6357b98749318fed1705491b2.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T21:36:59Z",
+            "content": "A growing number of schools in western Washington state and Oregon are scrambling this week to temporarily close and sanitize classrooms following the confirmation of additional cases of coronavirus and at least six deaths linked to the disease in Washington.\u2026 [+8141 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniel Arkin",
+            "title": "Oregon identifies third case",
+            "description": "Oregon health officials have identified a third case of the virus: an adult from Umatilla County who is hospitalized in Walla Walla, Washington.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147186",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T18:28:00Z",
+            "content": "Oregon health officials have identified a third case of the virus: an adult from\u00a0Umatilla County who is hospitalized in Walla Walla, Washington.\r\nThe third case is not likely to have traveled to a part of the world with known cases of the virus, the state sai\u2026 [+3646 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nbc News",
+            "title": "2nd person dies in Washington from coronavirus",
+            "description": "Another person has died in Washington State from novel coronavirus in what local health officials on Sunday called an \u201coutbreak.\u201d",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146676",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T02:40:47Z",
+            "content": "A second person has died in Washington from COVID-19, the disease from coronavirus, health officials said Sunday.\r\nThe man, who was in his 70s, had underlying health conditions, they said.\r\nThe announcement came one day after officials said a man in his 50s i\u2026 [+7637 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniel Arkin",
+            "title": "Infectious diseases chief: Don't panic, but take this seriously",
+            "description": "In an interview with NBC News' Richard Engel, Dr. Anthony Fauci also said a \"major outbreak\" might require state and local officials to essentially bring public life to a standstill.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147241",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T19:10:00Z",
+            "content": "The National Institutes of Healths top infectious disease chief said he believes the coronavirus has now reached outbreak proportions and likely pandemic proportions,\" imploring Americans not to panic but urging them to take the spread of the virus seriously.\u2026 [+3190 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nbc News",
+            "title": "First coronavirus case reported in New York state",
+            "description": "New York State reported its first case of COVID-19 on Sunday, after a woman contracted the virus on a recent trip to Iran, officials said.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146661",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T01:25:35Z",
+            "content": "New York State reported its first case of coronavirus on Sunday after a woman contracted the virus during a recent trip to Iran, officials said.\r\nIn a statement, New York Gov. Andrew Cuomo said the woman, who is in her late 30s, is isolated in her home with r\u2026 [+7501 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nbc News",
+            "title": "Coronavirus: NASA's data shows China's air pollution plummet amid outbreak",
+            "description": "Data from NASA's pollution monitoring satellites shows significant decreases over China in the concentration of nitrogen dioxide, a gas that contributes to air pollution.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1146946",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T15:44:16Z",
+            "content": "Data from NASA's pollution monitoring satellites shows significant decreases over China in the concentration of nitrogen dioxide, a gas that contributes to air pollution a change that's \"at\u00a0least partly related to the economic slowdown following the outbreak \u2026 [+8984 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniel Arkin",
+            "title": "Officials announce 2 new cases in California",
+            "description": "Santa Clara County's public health department confirmed two new cases Monday, bringing the county's total number to nine.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147211",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T18:47:40Z",
+            "content": "Santa Clara County's public health department confirmed two new cases Monday, bringing the county's total number to nine.\u00a0\r\nThe eighth and ninth cases are adult males who are both under home isolation, public health officials said in a statement.\r\nOregon iden\u2026 [+3924 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Associated Press",
+            "title": "Israelis vote in unprecedented third election in less than a year",
+            "description": "Israelis voted Monday in the country's unprecedented third election in less than a year after political parties failed to form coalitions in previous elections.",
+            "url": "https://www.nbcnews.com/news/world/israelis-vote-unprecedented-third-election-less-year-n1146766",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_10/3251176/200302-israel-elections-mc-1109_a77155e5505a2ff3fc5c7be48c518615.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-02T12:03:32Z",
+            "content": "JERUSALEM Israelis voted Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.\r\nNetanyahu, the longest-se\u2026 [+4974 chars]"
+        }
+    ]
+}

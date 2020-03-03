@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 56,
+    "totalResults": 57,
     "articles": [
         {
             "source": {
@@ -66,6 +66,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
             "publishedAt": "2020-02-28T10:27:40Z",
             "content": "To start a new subscription or to activate digital access included in your print subscription, click the Sign Up button below. You can choose between Subscriber Plus, and receive unlimited access to Richmond.com, or Sports Plus for access to our exclusive spo\u2026 [+154 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Health officials confirm second case of novel coronavirus in person not known to have previous contact.",
+            "description": "SAN JOSE (AP) \u2014 Health officials confirm second case of novel coronavirus in person not known to have previous contact.",
+            "url": "https://apnews.com/3276cb551b374696179bb42725d82ba0",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/custom/image/77758902-e169-11e5-a168-77ef9f7ff013.png",
+            "publishedAt": "2020-02-28T23:48:43Z",
+            "content": "Katherine Johnson, a mathematician who calculated rocket trajectories and earth orbits for NASAs early space missions and was later portrayed in the 2016 film Hidden Figures, about pioneering black female aerospace workers, has died. She was 101."
         },
         {
             "source": {
@@ -228,19 +241,6 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By CHRISTOPHER RUGABER AP Economics Writer",
-            "title": "US consumer spending slowed in January while incomes jumped",
-            "description": "WASHINGTON (AP) \u2014 Americans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose.",
-            "url": "https://apnews.com/0e9bfbec997e1120c37bd02f917008c5",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/f7/ef757602-e6ac-59da-ac39-03ec6f20124f/5e5919bbe8ccb.image.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-02-28T13:40:58Z",
-            "content": "WASHINGTON (AP) Americans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose.\r\nThe Commerce Department said Friday that consumer spending increased 0.2% last m\u2026 [+1864 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
             "author": "",
             "title": "Connecticut health lab approved to test for COVID-19",
             "description": "ROCKY HILL, Conn. (AP) \u2014 The Connecticut Department of Public Health has received federal approval to run diagnostic testing for the coronavirus.",
@@ -248,6 +248,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
             "publishedAt": "2020-02-28T19:25:33Z",
             "content": "ROCKY HILL, Conn. (AP) The Connecticut Department of Public Health has received federal approval to run diagnostic testing for the coronavirus.\r\nGov. Ned Lamont announced Friday that the department's lab in Rocky Hill has been approved as a COVID-19 testing s\u2026 [+1094 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By CHRISTOPHER RUGABER AP Economics Writer",
+            "title": "US consumer spending slowed in January while incomes jumped",
+            "description": "WASHINGTON (AP) \u2014 Americans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose.",
+            "url": "https://apnews.com/0e9bfbec997e1120c37bd02f917008c5",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/f7/ef757602-e6ac-59da-ac39-03ec6f20124f/5e5919bbe8ccb.image.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-28T13:40:58Z",
+            "content": "WASHINGTON (AP) Americans pulled back on their spending in January, even as their incomes surged, a sign the economy was growing modestly before the threat of coronavirus arose.\r\nThe Commerce Department said Friday that consumer spending increased 0.2% last m\u2026 [+1864 chars]"
         },
         {
             "source": {
@@ -280,39 +293,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "ERIC TUCKER Associated Press",
-            "title": "Pompeo jousts with Dems at hearing, 1st since impeachment",
-            "description": "WASHINGTON (AP) \u2014 Secretary of State Mike Pompeo defended the Trump administration's response to the spreading coronavirus and faced contentious questions from Democrats about an airstrike that killed Iran's most powerful general.",
-            "url": "https://apnews.com/5e51559d162eb91d2aa800301aebf878",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/26/c2668a94-226e-5917-a744-3b5884c0fc89/5e5932ab33f67.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-02-28T15:28:03Z",
-            "content": "WASHINGTON (AP) Secretary of State Mike Pompeo defended the Trump administration's response to the spreading coronavirus and faced contentious questions from Democrats about an airstrike that killed Iran's most powerful general.\r\nDemocrats on the House Foreig\u2026 [+2588 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "By JON GAMBRELL Associated Press",
-            "title": "Cycling race canceled with 2 virus cases, Froome quarantined",
-            "description": "DUBAI, United Arab Emirates (AP) \u2014 A major cycling race in the United Arab Emirates was canceled early Friday after two Italians tested positive for the new coronavirus, setting off a quarantine that also ensnared four-time Tour de France winner\u2026",
-            "url": "https://apnews.com/256ccda7a310f6ea498aee047a5a828c",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/62/162dda4a-e1d0-5ca7-88d3-a19f19de29e1/5e589765cd90b.image.jpg?crop=1745%2C982%2C0%2C102&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-02-28T04:04:13Z",
-            "content": "DUBAI, United Arab Emirates (AP) A major cycling race in the United Arab Emirates was canceled early Friday after two Italians tested positive for the new coronavirus, setting off a quarantine that also ensnared four-time Tour de France winner Chris Froome of\u2026 [+2583 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
             "author": "",
-            "title": "Maine pols oppose funding virus response with heat aid cut",
-            "description": "PORTLAND, Maine (AP) \u2014 Members of the Maine congressional delegation are opposed to a plan from President Donald Trump to divert millions of dollars in heating assistance to the country's response to coronavirus.",
-            "url": "https://apnews.com/702492b5eb6fb1954e59c5f1ab0b9e1f",
+            "title": "Arizona universities cancel China, South Korea study abroad",
+            "description": "PHOENIX (AP) \u2014 Two large Arizona universities have canceled study abroad programs in several Asian countries amid fears over the spread of the new coronavirus that was first detected in China.",
+            "url": "https://apnews.com/6b879f421d65acfe79684758a0646bfb",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-02-28T17:26:12Z",
-            "content": "PORTLAND, Maine (AP) Members of the Maine congressional delegation are opposed to a plan from President Donald Trump to divert millions of dollars in heating assistance to the country's response to coronavirus.\r\nThe president wants to use $37 million from the\u2026 [+778 chars]"
+            "publishedAt": "2020-02-28T17:57:02Z",
+            "content": "PHOENIX (AP) Two large Arizona universities have canceled study abroad programs in several Asian countries amid fears over the spread of the new coronavirus that was first detected in China.\r\nThe University of Arizona and Arizona State University canceled the\u2026 [+1435 chars]"
         },
         {
             "source": {
@@ -345,26 +332,39 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "",
-            "title": "Arizona universities cancel China, South Korea study abroad",
-            "description": "PHOENIX (AP) \u2014 Two large Arizona universities have canceled study abroad programs in several Asian countries amid fears over the spread of the new coronavirus that was first detected in China.",
-            "url": "https://apnews.com/6b879f421d65acfe79684758a0646bfb",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-02-28T17:57:02Z",
-            "content": "PHOENIX (AP) Two large Arizona universities have canceled study abroad programs in several Asian countries amid fears over the spread of the new coronavirus that was first detected in China.\r\nThe University of Arizona and Arizona State University canceled the\u2026 [+1435 chars]"
+            "author": "By JON GAMBRELL Associated Press",
+            "title": "Cycling race canceled with 2 virus cases, Froome quarantined",
+            "description": "DUBAI, United Arab Emirates (AP) \u2014 A major cycling race in the United Arab Emirates was canceled early Friday after two Italians tested positive for the new coronavirus, setting off a quarantine that also ensnared four-time Tour de France winner\u2026",
+            "url": "https://apnews.com/256ccda7a310f6ea498aee047a5a828c",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/62/162dda4a-e1d0-5ca7-88d3-a19f19de29e1/5e589765cd90b.image.jpg?crop=1745%2C982%2C0%2C102&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-28T04:04:13Z",
+            "content": "DUBAI, United Arab Emirates (AP) A major cycling race in the United Arab Emirates was canceled early Friday after two Italians tested positive for the new coronavirus, setting off a quarantine that also ensnared four-time Tour de France winner Chris Froome of\u2026 [+2583 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By RICARDO ALONSO-ZALDIVAR Associated Press",
-            "title": "Whistleblower: Feds helping evacuees lacked virus protection",
-            "description": "WASHINGTON (AP) \u2014 A government whistleblower has filed a complaint alleging that some federal workers did not have the necessary protective gear or training when they were deployed to help Americans evacuated from China during the coronavirus outbreak.",
-            "url": "https://apnews.com/c80d86633aa077b04ca430606c1e10fc",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/d/ed/ded3c532-ae93-52de-b2ef-cbbbe99d6b2b/5e585f31a0cc7.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-02-28T00:04:53Z",
-            "content": "WASHINGTON (AP) A government whistleblower has filed a complaint alleging that some federal workers did not have the necessary protective gear or training when they were deployed to help Americans evacuated from China during the coronavirus outbreak.\r\nThe com\u2026 [+2642 chars]"
+            "author": "ERIC TUCKER Associated Press",
+            "title": "Pompeo jousts with Dems at hearing, 1st since impeachment",
+            "description": "WASHINGTON (AP) \u2014 Secretary of State Mike Pompeo defended the Trump administration's response to the spreading coronavirus and faced contentious questions from Democrats about an airstrike that killed Iran's most powerful general.",
+            "url": "https://apnews.com/5e51559d162eb91d2aa800301aebf878",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/26/c2668a94-226e-5917-a744-3b5884c0fc89/5e5932ab33f67.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-28T15:28:03Z",
+            "content": "WASHINGTON (AP) Secretary of State Mike Pompeo defended the Trump administration's response to the spreading coronavirus and faced contentious questions from Democrats about an airstrike that killed Iran's most powerful general.\r\nDemocrats on the House Foreig\u2026 [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Maine pols oppose funding virus response with heat aid cut",
+            "description": "PORTLAND, Maine (AP) \u2014 Members of the Maine congressional delegation are opposed to a plan from President Donald Trump to divert millions of dollars in heating assistance to the country's response to coronavirus.",
+            "url": "https://apnews.com/702492b5eb6fb1954e59c5f1ab0b9e1f",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-02-28T17:26:12Z",
+            "content": "PORTLAND, Maine (AP) Members of the Maine congressional delegation are opposed to a plan from President Donald Trump to divert millions of dollars in heating assistance to the country's response to coronavirus.\r\nThe president wants to use $37 million from the\u2026 [+778 chars]"
         },
         {
             "source": {
@@ -378,6 +378,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
             "publishedAt": "2020-02-28T21:53:12Z",
             "content": "WASHINGTON (AP) The White House and the National Academy of Sciences have established a committee of experts on infectious diseases to build on Trump administration efforts to confront the new coronavirus threat. One goal is to discourage misinformation and p\u2026 [+964 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By RICARDO ALONSO-ZALDIVAR Associated Press",
+            "title": "Whistleblower: Feds helping evacuees lacked virus protection",
+            "description": "WASHINGTON (AP) \u2014 A government whistleblower has filed a complaint alleging that some federal workers did not have the necessary protective gear or training when they were deployed to help Americans evacuated from China during the coronavirus outbreak.",
+            "url": "https://apnews.com/c80d86633aa077b04ca430606c1e10fc",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/d/ed/ded3c532-ae93-52de-b2ef-cbbbe99d6b2b/5e585f31a0cc7.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-02-28T00:04:53Z",
+            "content": "WASHINGTON (AP) A government whistleblower has filed a complaint alleging that some federal workers did not have the necessary protective gear or training when they were deployed to help Americans evacuated from China during the coronavirus outbreak.\r\nThe com\u2026 [+2642 chars]"
         },
         {
             "source": {
@@ -436,19 +449,6 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By DAVID EGGERT Associated Press",
-            "title": "Michigan governor urges steps to limit spread of new virus",
-            "description": "LANSING, Mich. (AP) \u2014 Gov. Gretchen Whitmer on Friday urged residents to follow simple steps to help limit the spread of a new type of virus that has not been confirmed in Michigan but could be eventually.",
-            "url": "https://apnews.com/1269b152397bd45c914e6c204986d0f0",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
-            "publishedAt": "2020-02-28T14:44:29Z",
-            "content": "LANSING, Mich. (AP) Gov. Gretchen Whitmer on Friday urged residents to follow simple steps to help limit the spread of a new type of virus that has not been confirmed in Michigan but could be eventually.\r\nPeople should wash their hands, not touch their face, \u2026 [+1115 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
             "author": "",
             "title": "Pope sick a 2nd day with apparent cold, cancels audiences",
             "description": "VATICAN CITY (AP) \u2014 Pope Francis canceled his official audiences Friday after apparently coming down with a cold.",
@@ -456,6 +456,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/4c/34c83677-1135-5e71-b74e-ef7a98ad96ba/5e57b02a0b090.image.jpg?crop=1758%2C989%2C0%2C95&resize=1120%2C630&order=crop%2Cresize",
             "publishedAt": "2020-02-28T09:18:44Z",
             "content": "VATICAN CITY (AP) Pope Francis canceled his official audiences Friday after apparently coming down with a cold.\r\nThe Vatican said the 83-year-old pontiff celebrated morning Mass as usual and greeted participants at the end. He planned to keep his private meet\u2026 [+845 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DAVID EGGERT Associated Press",
+            "title": "Michigan governor urges steps to limit spread of new virus",
+            "description": "LANSING, Mich. (AP) \u2014 Gov. Gretchen Whitmer on Friday urged residents to follow simple steps to help limit the spread of a new type of virus that has not been confirmed in Michigan but could be eventually.",
+            "url": "https://apnews.com/1269b152397bd45c914e6c204986d0f0",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
+            "publishedAt": "2020-02-28T14:44:29Z",
+            "content": "LANSING, Mich. (AP) Gov. Gretchen Whitmer on Friday urged residents to follow simple steps to help limit the spread of a new type of virus that has not been confirmed in Michigan but could be eventually.\r\nPeople should wash their hands, not touch their face, \u2026 [+1115 chars]"
         },
         {
             "source": {

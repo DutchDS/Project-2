@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 96,
+    "totalResults": 98,
     "articles": [
         {
             "source": {
@@ -20,6 +20,19 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
+            "author": "Dawn Kopecki",
+            "title": "Coronavirus live updates: Dow caps worst week since financial crisis, California health officials say new case is evidence of community transmission",
+            "description": "U.S. stocks capped their worst week since the financial crisis as coronavirus cases climbed to 83,800 and deaths topped 2,864.",
+            "url": "https://www.cnbc.com/2020/02/28/coronavirus-latest-updates-china-hubei.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416635-1582924578203gettyimages-1203951849.jpeg?v=1582924626",
+            "publishedAt": "2020-02-28T22:54:38Z",
+            "content": "People are getting checked in their vehicles at a drive-through coronavirus clinic on February 27, 2020, in Goyang, South Korea.\r\nThis is a live blog. Please check back for updates.\r\nAll times below are in Beijing time.\r\n7:43 am: Dow caps worst week for Wall \u2026 [+4325 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
             "author": "Elliot Smith",
             "title": "European stocks set to fall further into correction terriotry as coronavirus grips markets",
             "description": "European stocks are set to extend a historic week of losses on Friday as the coronavirus outbreak continues to pummel global markets into correction territory.",
@@ -33,19 +46,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Jeff Cox",
-            "title": "Trump says he hopes the Fed gets involved 'soon' to combat market sell-off from coronavirus",
-            "description": "President Donald Trump leaned on the Federal Reserve for help to deal with ramifications from the coronavirus impact on the stock market and the economy.",
-            "url": "https://www.cnbc.com/2020/02/28/trump-says-he-hopes-the-fed-gets-involved-soon-to-combat-market-sell-off-from-coronavirus.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106401243-1582232398939rts32t58.jpg?v=1582232465",
-            "publishedAt": "2020-02-28T20:52:58Z",
-            "content": "President Donald Trump leaned on the Federal Reserve for help to deal with ramifications from the coronavirus impact on the stock market and the economy.\r\n\"I hope the Fed gets involved, and I hope they get involved soon,\" Trump said during a scrum with report\u2026 [+912 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Lauren Thomas",
             "title": "US malls 'will be hit hard' if coronavirus worsens, new study shows",
             "description": "If the coronavirus spreads further in the U.S., that could mean really bad news for U.S. mall owners, according to new survey data.",
@@ -53,6 +53,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106376707-1581000320698gettyimages-1198912449.jpeg?v=1582839340",
             "publishedAt": "2020-02-28T04:10:01Z",
             "content": "If the coronavirus spreads further in the U.S., that could mean really bad news for U.S. mall owners, according to new survey data.\r\nFifty-eight percent of people say they are likely to avoid public areas, such as shopping centers and entertainment venues, if\u2026 [+3314 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Trump says he hopes the Fed gets involved 'soon' to combat market sell-off from coronavirus",
+            "description": "President Donald Trump leaned on the Federal Reserve for help to deal with ramifications from the coronavirus impact on the stock market and the economy.",
+            "url": "https://www.cnbc.com/2020/02/28/trump-says-he-hopes-the-fed-gets-involved-soon-to-combat-market-sell-off-from-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106401243-1582232398939rts32t58.jpg?v=1582232465",
+            "publishedAt": "2020-02-28T20:52:58Z",
+            "content": "President Donald Trump leaned on the Federal Reserve for help to deal with ramifications from the coronavirus impact on the stock market and the economy.\r\n\"I hope the Fed gets involved, and I hope they get involved soon,\" Trump said during a scrum with report\u2026 [+912 chars]"
         },
         {
             "source": {
@@ -215,19 +228,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Jake Novak",
-            "title": "Op-Ed: Finally, a real job for the vice president",
-            "description": "In the face of what may be the most serious threat to the American homeland during his presidency, President Trump has made a stunning and groundbreaking decision: he actually gave the vice president an important job, Jake Novak writes.",
-            "url": "https://www.cnbc.com/2020/02/28/op-ed-finally-a-real-job-for-the-vice-president.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106412253-1582765789409gettyimages-1203531326.jpeg?v=1582765865",
-            "publishedAt": "2020-02-28T16:21:57Z",
-            "content": "In the face of what may be the most serious threat to the American homeland during his presidency, President Trump has made a stunning and groundbreaking decision: he actually gave the vice president an important job.\r\nIn this case, it's actually an urgent an\u2026 [+4247 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Michael Bloom",
             "title": "Here are Friday's biggest analyst calls of the day: Disney, Dollar General, Uber, Royal Caribbean & more",
             "description": "Here are the biggest calls on Wall Street on Friday.",
@@ -235,6 +235,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106357464-1580152950377rts2zom3.jpg?v=1580700310",
             "publishedAt": "2020-02-28T13:24:14Z",
             "content": "BMO named Disney a top pick and said it would use any weakness from the coronavirus as a buying opportunity.\r\n\"For DIS, there is no change to our long-term view owing to the virus (or the CEO change, on which we offer more thoughts within), and we believe the\u2026 [+899 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jake Novak",
+            "title": "Op-Ed: Finally, a real job for the vice president",
+            "description": "In the face of what may be the most serious threat to the American homeland during his presidency, President Trump has made a stunning and groundbreaking decision: he actually gave the vice president an important job, Jake Novak writes.",
+            "url": "https://www.cnbc.com/2020/02/28/op-ed-finally-a-real-job-for-the-vice-president.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106412253-1582765789409gettyimages-1203531326.jpeg?v=1582765865",
+            "publishedAt": "2020-02-28T16:21:57Z",
+            "content": "In the face of what may be the most serious threat to the American homeland during his presidency, President Trump has made a stunning and groundbreaking decision: he actually gave the vice president an important job.\r\nIn this case, it's actually an urgent an\u2026 [+4247 chars]"
         },
         {
             "source": {
@@ -267,19 +280,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Lauren Feiner",
-            "title": "Netflix is one of the best performers in the S&P 500 this week as stay-at-home stocks stay the course",
-            "description": "Stay-at-home stocks fared better than the wider market this week as world health officials ratcheted up warnings about the coronavirus.",
-            "url": "https://www.cnbc.com/2020/02/28/netflix-is-at-top-sp-500-performer-this-week-amid-coronavirus-fears.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106188014-1571340949715gettyimages-1139367887.jpeg?v=1582240610",
-            "publishedAt": "2020-02-28T16:03:52Z",
-            "content": "Netflix is one of the top ten performers in the S&amp;P 500 this week as stay-at-home stocks fared better than the rest of the market while health officials ratcheted up warnings about the impact of the COVID-19 coronavirus.\r\nNetflix shares were down about 5%\u2026 [+1142 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Jesse Pound",
             "title": "Plunging rates in the US are rewriting the history books",
             "description": "The 10-year Treasury yield has fallen more than 20 basis points since Monday as global equities sold off in response to the spreading coronavirus.",
@@ -287,6 +287,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106083525-1580500304122chart.jpg?v=1580500328",
             "publishedAt": "2020-02-28T18:29:31Z",
             "content": "The coronavirus outbreak has pushed the yield on the 10-year Treasury bond to historic lows, marking the latest milestone in what has been a decades-long decline.\r\nThe moves have put the daily rate at levels not seen since at least the 1960s. According to dat\u2026 [+3025 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lauren Feiner",
+            "title": "Netflix is one of the best performers in the S&P 500 this week as stay-at-home stocks stay the course",
+            "description": "Stay-at-home stocks fared better than the wider market this week as world health officials ratcheted up warnings about the coronavirus.",
+            "url": "https://www.cnbc.com/2020/02/28/netflix-is-at-top-sp-500-performer-this-week-amid-coronavirus-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106188014-1571340949715gettyimages-1139367887.jpeg?v=1582240610",
+            "publishedAt": "2020-02-28T16:03:52Z",
+            "content": "Netflix is one of the top ten performers in the S&amp;P 500 this week as stay-at-home stocks fared better than the rest of the market while health officials ratcheted up warnings about the impact of the COVID-19 coronavirus.\r\nNetflix shares were down about 5%\u2026 [+1142 chars]"
         },
         {
             "source": {
@@ -371,19 +384,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Maggie Fitzgerald",
-            "title": "Global stock markets have lost $6 trillion in value in six days",
-            "description": "The coronavirus-driven market sell-off has wiped $6 trillion in value from the global markets in the past six days, according to S&P Dow Jones Indices.",
-            "url": "https://www.cnbc.com/2020/02/28/global-stock-markets-have-lost-6-trillion-in-value-in-six-days.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106413963-1582825420570gettyimages-1203253307r.jpg?v=1582890517",
-            "publishedAt": "2020-02-28T12:25:00Z",
-            "content": "Global markets have lost $6 trillion in value over the past six days, according to S&amp;P Dow Jones Indices.\r\nStock markets around the world are plunging into correction territory as investors fear the surging of coronavirus cases outside of China will escal\u2026 [+1339 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Reuters",
             "title": "Geneva car show canceled due to coronavirus fears",
             "description": "The Geneva car show that was set to begin next week has been canceled, organizers Palexpo said on Friday, blaming Swiss government heath measures designed to contain coronavirus.",
@@ -397,13 +397,13 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Kif Leswing",
-            "title": "Tim Cook says he's 'optimistic' that China has the coronavirus situation under control",
-            "description": "\"I mean, if you look at the numbers, they're coming day by day by day. So I'm very optimistic there,\" Cook said in an interview.",
-            "url": "https://www.cnbc.com/2020/02/28/apple-ceo-cook-optimistic-china-has-the-coronavirus-under-control.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105812718-1553529408705gettyimages-1137707983.jpeg?v=1553529430",
-            "publishedAt": "2020-02-28T17:57:20Z",
-            "content": "Apple CEO Tim Cook said on Thursday that he believes that China is getting the situation related to the COVID-19 coronavirus under control.\r\n\"I mean, if you look at the numbers, they're coming day by day by day. So I'm very optimistic there,\" Cook said in an \u2026 [+1845 chars]"
+            "author": "Maggie Fitzgerald",
+            "title": "Global stock markets have lost $6 trillion in value in six days",
+            "description": "The coronavirus-driven market sell-off has wiped $6 trillion in value from the global markets in the past six days, according to S&P Dow Jones Indices.",
+            "url": "https://www.cnbc.com/2020/02/28/global-stock-markets-have-lost-6-trillion-in-value-in-six-days.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106413963-1582825420570gettyimages-1203253307r.jpg?v=1582890517",
+            "publishedAt": "2020-02-28T12:25:00Z",
+            "content": "Global markets have lost $6 trillion in value over the past six days, according to S&amp;P Dow Jones Indices.\r\nStock markets around the world are plunging into correction territory as investors fear the surging of coronavirus cases outside of China will escal\u2026 [+1339 chars]"
         },
         {
             "source": {
@@ -417,6 +417,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/105193299-GettyImages-927680886.jpg?v=1552935624",
             "publishedAt": "2020-02-28T18:58:51Z",
             "content": "A Google employee has tested positive for the coronavirus at its office in Zurich, the company confirmed Friday.\r\n\"We can confirm that one employee from our Zurich office has been diagnosed with the coronavirus. They were in the Zurich office for a limited ti\u2026 [+1509 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kif Leswing",
+            "title": "Tim Cook says he's 'optimistic' that China has the coronavirus situation under control",
+            "description": "\"I mean, if you look at the numbers, they're coming day by day by day. So I'm very optimistic there,\" Cook said in an interview.",
+            "url": "https://www.cnbc.com/2020/02/28/apple-ceo-cook-optimistic-china-has-the-coronavirus-under-control.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105812718-1553529408705gettyimages-1137707983.jpeg?v=1553529430",
+            "publishedAt": "2020-02-28T17:57:20Z",
+            "content": "Apple CEO Tim Cook said on Thursday that he believes that China is getting the situation related to the COVID-19 coronavirus under control.\r\n\"I mean, if you look at the numbers, they're coming day by day by day. So I'm very optimistic there,\" Cook said in an \u2026 [+1845 chars]"
         },
         {
             "source": {
@@ -761,6 +774,19 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
+            "author": "Elliot Smith",
+            "title": "Global stocks head for worst week since the financial crisis amid fears of a possible pandemic",
+            "description": "Stock markets around the world are tumbling into correction territory as fears of a possible pandemic escalate, with cases of the new coronavirus surging outside China.",
+            "url": "https://www.cnbc.com/2020/02/28/global-stocks-head-for-worst-week-since-financial-crisis-on-coronavirus-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103330904-GettyImages-153651996.jpg?v=1529470540",
+            "publishedAt": "2020-02-28T09:35:38Z",
+            "content": "Stock markets around the world are tumbling into correction territory as fears of a possible pandemic escalate, with cases of the new coronavirus surging outside China.\r\nMore than 83,000 people in around 50 countries have now been infected. World Health Organ\u2026 [+2034 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
             "author": "Silvia Amaro",
             "title": "Coronavirus is already impacting the UK economy, Bank of England's Carney says",
             "description": "The United Kingdom is already seeing an economic impact from the coronavirus outbreak, the outgoing Bank of England governor told Sky News.",
@@ -787,19 +813,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Elliot Smith",
-            "title": "Global stocks head for worst week since the financial crisis amid fears of a possible pandemic",
-            "description": "Stock markets around the world are tumbling into correction territory as fears of a possible pandemic escalate, with cases of the new coronavirus surging outside China.",
-            "url": "https://www.cnbc.com/2020/02/28/global-stocks-head-for-worst-week-since-financial-crisis-on-coronavirus-fears.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103330904-GettyImages-153651996.jpg?v=1529470540",
-            "publishedAt": "2020-02-28T09:35:38Z",
-            "content": "Stock markets around the world are tumbling into correction territory as fears of a possible pandemic escalate, with cases of the new coronavirus surging outside China.\r\nMore than 83,000 people in around 50 countries have now been infected. World Health Organ\u2026 [+2034 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Yun Li",
             "title": "Stock rout may deepen in the week ahead as coronavirus impact starts to show up in economic data",
             "description": "The market might have more room to fall as the coronavirus damage starts to creep into upcoming economic data, analysts warned.",
@@ -813,19 +826,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Eric Rosenbaum",
-            "title": "40% of biggest companies say coronavirus caused 'major decrease' in demand from China: CFO survey",
-            "description": "Forty percent of a CFO survey group representing the world's biggest corporations tell CNBC the coronavirus COVID-19 has caused a \"major decrease\" in demand from China.",
-            "url": "https://www.cnbc.com/2020/02/27/coronavirus-caused-major-decrease-in-china-demand-cfo-survey.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106402909-1582294013526rts32wgc.jpg?v=1582294141",
-            "publishedAt": "2020-02-28T00:16:01Z",
-            "content": "Many big companies say they've already taken a big hit in 2020 from the coronavirus with a \"major decrease\" in demand from China cited by 40% of chief financial officers responding to a flash survey of the CNBC Global CFO Council.\r\nA majority of chief financi\u2026 [+3631 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Daniella Silva and Daniel Arkin",
             "title": "'Fear versus dreams': Coronavirus spread sparks fears for American travelers",
             "description": "With spring and summer coming, some Americans are concerned about or reconsidering their travel plans as the novel coronavirus continues to spread.",
@@ -833,6 +833,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106415744-1582897025087gettyimages-1203910888.jpeg?v=1582897105",
             "publishedAt": "2020-02-28T14:08:04Z",
             "content": "Summer Mutz's dream of visiting Europe was finally arriving this weekend a trip to Rome, Vienna and Paris with a friend. But with the novel coronavirus sweeping the globe and the number of cases in Italy surging, what once seemed like a wonderful milestone wa\u2026 [+5112 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eric Rosenbaum",
+            "title": "40% of biggest companies say coronavirus caused 'major decrease' in demand from China: CFO survey",
+            "description": "Forty percent of a CFO survey group representing the world's biggest corporations tell CNBC the coronavirus COVID-19 has caused a \"major decrease\" in demand from China.",
+            "url": "https://www.cnbc.com/2020/02/27/coronavirus-caused-major-decrease-in-china-demand-cfo-survey.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106402909-1582294013526rts32wgc.jpg?v=1582294141",
+            "publishedAt": "2020-02-28T00:16:01Z",
+            "content": "Many big companies say they've already taken a big hit in 2020 from the coronavirus with a \"major decrease\" in demand from China cited by 40% of chief financial officers responding to a flash survey of the CNBC Global CFO Council.\r\nA majority of chief financi\u2026 [+3631 chars]"
         },
         {
             "source": {
@@ -891,19 +904,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Lilian Wu",
-            "title": "Virus disclosure in China was delayed because disease control group lacks authority, top scientist says",
-            "description": "China's Center for Disease Control and Prevention has such low status in the country that there was a delay in alerting higher authorities to the new coronavirus, widely-followed epidemiologist Zhong Nanshan said at a press conference Thursday.",
-            "url": "https://www.cnbc.com/2020/02/28/chinas-cdc-lacks-authority-to-alert-public-on-virus-scientist-says.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106392430-1581706487946gettyimages-1198601716.jpeg?v=1581706518",
-            "publishedAt": "2020-02-28T12:38:35Z",
-            "content": "A CDC worker marks the tube after collecting biomaterial from a suspected 2019-nCoV patient for nucleic acid tests in a hotel for isolated people in Wuhan in central China's Hubei province Tuesday, Feb. 04, 2020.\r\nChina's Center for Disease Control and Preven\u2026 [+2565 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Robert Frank",
             "title": "Rolls Royce's China sales fall 'close to zero' due to coronavirus",
             "description": "Sales of Rolls-Royces have fallen \"pretty close to zero\" in China due to the spread of coronavirus, but the company sees early signs of possible recovery, the company's CEO told CNBC.",
@@ -917,6 +917,19 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
+            "author": "Lilian Wu",
+            "title": "Virus disclosure in China was delayed because disease control group lacks authority, top scientist says",
+            "description": "China's Center for Disease Control and Prevention has such low status in the country that there was a delay in alerting higher authorities to the new coronavirus, widely-followed epidemiologist Zhong Nanshan said at a press conference Thursday.",
+            "url": "https://www.cnbc.com/2020/02/28/chinas-cdc-lacks-authority-to-alert-public-on-virus-scientist-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106392430-1581706487946gettyimages-1198601716.jpeg?v=1581706518",
+            "publishedAt": "2020-02-28T12:38:35Z",
+            "content": "A CDC worker marks the tube after collecting biomaterial from a suspected 2019-nCoV patient for nucleic acid tests in a hotel for isolated people in Wuhan in central China's Hubei province Tuesday, Feb. 04, 2020.\r\nChina's Center for Disease Control and Preven\u2026 [+2565 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
             "author": "Reuters",
             "title": "Mylan warns of possible drug shortages, financial hit due to coronavirus",
             "description": "Drugmaker Mylan said on Thursday it expects the coronavirus outbreak to impact its financial results and warned of drug shortages in case of continued spread of the virus, sending shares of the company down 3.6%.",
@@ -924,19 +937,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/104319122-20170303-1030-2332.jpg?v=1488567193",
             "publishedAt": "2020-02-28T11:33:09Z",
             "content": "Drugmaker Mylan said on Thursday it expects the coronavirus outbreak to impact its financial results and warned of drug shortages in case of continued spread of the virus, sending shares of the company down 3.6%.\r\nThe outbreak has so far mainly battered China\u2026 [+1918 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
-            "author": "Kevin Breuninger",
-            "title": "Trump advisor Larry Kudlow urges calm on coronavirus: 'Stocks look pretty cheap to me'",
-            "description": "Kudlow said that investors shouldn't \"rule out more optimistic options,\" noting that there's no guarantee cases of the disease will \"skyrocket\" in the U.S.",
-            "url": "https://www.cnbc.com/2020/02/28/trump-aide-kudlow-urges-calm-on-coronavirus-stocks-look-pretty-cheap.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106415971-1582904958527gettyimages-1194136391r.jpg?v=1582905022",
-            "publishedAt": "2020-02-28T16:09:00Z",
-            "content": "National Economic Council Director Larry Kudlow urged calm Friday as global fears about the deadly coronavirus sent stocks plummeting once again.\r\nKudlow, President Donald Trump's top economic advisor, said in a Fox Business interview that investors shouldn't\u2026 [+1334 chars]"
         },
         {
             "source": {
@@ -963,6 +963,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106254001-1576162361416djt.jpg?v=1580482989",
             "publishedAt": "2020-02-28T20:52:13Z",
             "content": "Trump administration officials are considering a tax cut package as part of the White House's economic response to the coronavirus outbreak, The Washington Post reported Friday, citing five people with knowledge of the planning.\r\nThose people also discussed w\u2026 [+1660 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger",
+            "title": "Trump advisor Larry Kudlow urges calm on coronavirus: 'Stocks look pretty cheap to me'",
+            "description": "Kudlow said that investors shouldn't \"rule out more optimistic options,\" noting that there's no guarantee cases of the disease will \"skyrocket\" in the U.S.",
+            "url": "https://www.cnbc.com/2020/02/28/trump-aide-kudlow-urges-calm-on-coronavirus-stocks-look-pretty-cheap.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106415971-1582904958527gettyimages-1194136391r.jpg?v=1582905022",
+            "publishedAt": "2020-02-28T16:09:00Z",
+            "content": "National Economic Council Director Larry Kudlow urged calm Friday as global fears about the deadly coronavirus sent stocks plummeting once again.\r\nKudlow, President Donald Trump's top economic advisor, said in a Fox Business interview that investors shouldn't\u2026 [+1334 chars]"
         },
         {
             "source": {
@@ -1249,6 +1262,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106415744-1582897025087gettyimages-1203910888.jpeg?v=1582897105",
             "publishedAt": "2020-02-28T15:29:39Z",
             "content": "World Health Organization officials said Friday they are increasing the risk assessment of the coronavirus, which has spread to at least 49 countries in a matter of weeks, to \"very high\" across the world.\r\n\"We have now increased our assessment of the risk of \u2026 [+1044 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Cnbc",
+            "title": "Mulvaney on calming the markets: 'Turn your televisions off for 24 hours'",
+            "description": "CNBC's Eamon Javers reports on Acting White House Chief of Staff Mick Mulvaney's latest comments on coronavirus market sell-off.",
+            "url": "https://www.cnbc.com/video/2020/02/28/mulvaney-calming-markets-coronavirus-squawk-box.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106415846-920javersmulvaney.jpg?v=1582901055",
+            "publishedAt": "2020-02-28T16:21:42Z",
+            "content": null
         }
     ]
 }

@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "First U.S. Coronavirus Death Confirmed in Washington State, Mike Pence Announces New Travel Restrictions On Iran",
+            "description": "Several Washington state health agencies confirmed Saturday afternoon that the country's first coronavirus death occurred and that multiple new cases of coronavirus have been detected in the region.",
+            "url": "https://www.newsweek.com/first-us-coronavirus-death-confirmed-washington-state-mike-pence-announces-new-travel-1489863",
+            "urlToImage": "https://d.newsweek.com/en/full/1570327/italy-coronavirus.jpg",
+            "publishedAt": "2020-02-29T19:08:38Z",
+            "content": "Several Washington state health agencies confirmed Saturday afternoon that the country's first coronavirus death occurred and that multiple new cases of coronavirus have been detected in the region.\r\nKing County Public Health and the Washington Department of \u2026 [+2982 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Eddy Rodriguez",
+            "title": "Amid Coronavirus, U.S. Adopts Travel Restriction For Iran, Increases Advisory To 'Do Not Travel' For Italy and South Korea",
+            "description": "The Trump administration is implementing additional travel related measures in attempts to reduce the spread of the novel coronavirus.",
+            "url": "https://www.newsweek.com/amid-coronavirus-us-adopts-travel-restriction-iran-increases-advisory-do-not-travel-italy-1489868",
+            "urlToImage": "https://d.newsweek.com/en/full/1570335/trump-pence.jpg",
+            "publishedAt": "2020-02-29T22:48:16Z",
+            "content": "The Trump administration announced travel restrictions to Iran and raised the alert level for travel advisories to Italy and South Korea over COVID-19 concerns at a press conference Saturday.\r\n\"The president authorized action today to add additional travel re\u2026 [+3224 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "How the Coronavirus is Affecting the U.S. Economy, From Cancelled Conferences to Historic Stock Market Lows",
+            "description": "Financial markets have suffered historic losses and major companies have cancelled or withdrawn from key events and restricted travel for employees due to coronavirus fears.",
+            "url": "https://www.newsweek.com/how-coronavirus-affecting-us-economy-cancelled-conferences-historic-stock-market-lows-1489804",
+            "urlToImage": "https://d.newsweek.com/en/full/1570373/nyse.jpg",
+            "publishedAt": "2020-02-29T00:02:50Z",
+            "content": "The growing COVID-19 coronavirus health crisis has been dealing heavy damage to the economy, damaging financial markets and causing major companies to cancel events and place restrictions on employees.\r\nAmazon and Google have instructed their employees to lim\u2026 [+3491 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "Trump Administration's Coronavirus Response is 'Worsening Market Fears' Says Expert",
+            "description": "The president has dismissed criticism of his administration's response to coronavirus, which has led to a slump in the markets this week.",
+            "url": "https://www.newsweek.com/donald-trump-coronavirus-china-democrats-1489840",
+            "urlToImage": "https://d.newsweek.com/en/full/1570210/new-york-stock-exchange.jpg",
+            "publishedAt": "2020-02-29T15:36:07Z",
+            "content": "Upbeat announcements by the administration of President Donald Trump which downplay the financial impact of coronavirus are actually hurting market confidence, an expert has warned.\r\nThe White House is facing increasing scrutiny over its response to the coron\u2026 [+3120 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "CNN Criticized For Comparing Bernie Sanders' Campaign to Coronavirus, Not Fact-Checking 'Communist' Accusation Made By Guest",
+            "description": "Supporters of Vermont Senator Bernie Sanders' campaign criticized CNN and host Michael Smerconish over a Saturday segment which compared his campaign's rise to that of the coronavirus spreading across the globe.",
+            "url": "https://www.newsweek.com/cnn-criticized-comparing-bernie-sanders-campaign-coronavirus-not-fact-checking-communist-1489872",
+            "urlToImage": "https://d.newsweek.com/en/full/1570455/michael-smerconish-cnn-bernie-sanders.jpg",
+            "publishedAt": "2020-02-29T22:32:33Z",
+            "content": "Supporters of Vermont Senator Bernie Sanders' campaign criticized CNN and host Michael Smerconish over a Saturday segment which compared his campaign's rise to that of the coronavirus spreading across the globe.\r\nMembers of the Sanders campaign and his suppor\u2026 [+3273 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Newt Gingrich",
+            "title": "Newt Gingrich: Asking the Right Questions on Coronavirus Is What's Important Now | Opinion",
+            "description": "Ignore the petty Democrats. The Trump administration and congressional Republicans have an opportunity to show their leadership.",
+            "url": "https://www.newsweek.com/newt-gingrich-asking-right-questions-coronavirus-whats-important-now-opinion-1489790",
+            "urlToImage": "https://d.newsweek.com/en/full/1570335/trump-pence.jpg",
+            "publishedAt": "2020-02-29T11:00:02Z",
+            "content": "After listening to the Democrats attack President Donald Trump and smear Vice President Mike Pence over the coronavirus, it hit me that it is vital for Republicans to focus on the virusspecifically, its challenges to human health, jobs and the economy.\r\nThere\u2026 [+5777 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Eddy Rodriguez",
+            "title": "Pete Buttigieg Calls For Coronavirus Response 'Based On Science,' Not Politics After Trump Says Democrats Are Politicizing Outbreak",
+            "description": "\"Our lives depend on the wisdom and the judgment of the president at a time like this. What we should be seeing is not only a reliance on science and an insistence on moving politics away from this, but the kind of coordination that is uniquely the leadership\u2026",
+            "url": "https://www.newsweek.com/pete-buttigieg-calls-coronavirus-response-based-science-not-politics-after-trump-says-1489854",
+            "urlToImage": "https://d.newsweek.com/en/full/1568865/pete-buttigieg.jpg",
+            "publishedAt": "2020-02-29T19:28:41Z",
+            "content": "Presidential candidate Pete Buttigieg said he was \"disturbed\" Saturday by President Donald Trump's use of the word hoax surrounding the coronavirus epidemic and called for a reliance on science to fight the disease.\r\n\"It's critically important that the admini\u2026 [+4073 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "Coronavirus Update: 4 New Cases in U.S., 594 in South Korea As Number of Infected Worldwide Tops 83,000",
+            "description": "China remains the most infected country with over 73,000 cases, but Italy and South Korea have seen significant increases in the number of those diagnosed.",
+            "url": "https://www.newsweek.com/coronavirus-update-4-new-cases-us-594-south-korea-number-infected-worldwide-tops-83000-1489842",
+            "urlToImage": "https://d.newsweek.com/en/full/1570416/coronavirus-wash-hands-community-spread.jpg",
+            "publishedAt": "2020-02-29T16:42:28Z",
+            "content": "Coronavirus cases in the United States rose to at least 64 by early Saturday morning and the number of affected countries climbed to almost 60 as Mexico, New Zealand, Nigeria and the Netherlands reported their first signs of an impending outbreak.\r\nAccording \u2026 [+3041 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jeffery Martin",
+            "title": "Trump Blames Dem Immigration Policy for Coronavirus: 'Border Security is Also Health Security'",
+            "description": "\"Whether it's the virus that we're talking about or many other health threats, the Democrat policy of open borders is a direct threat to the health and wellbeing of all Americans,\" Trump said at a Friday campaign rally.",
+            "url": "https://www.newsweek.com/trump-blames-dem-immigration-policy-coronavirus-border-security-also-health-security-1489813",
+            "urlToImage": "https://d.newsweek.com/en/full/1570378/donald-trump.jpg",
+            "publishedAt": "2020-02-29T01:18:24Z",
+            "content": "While talking about the coronavirus outbreak to a campaign rally crowd in North Charleston, South Carolina on Friday, President Donald Trump said the immigration policy instituted by the Democrats was \"a direct threat.\"\r\n\"We must understand that border securi\u2026 [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Kim Jong Un Refuses Coronavirus Equipment While Demanding 'Absolute Obedience' in Quarantine",
+            "description": "North Korea has taken drastic measures to prevent the incursion of the virus, placing hundred of foreign nationals under month-long quarantines and locking ambassadors in their quarters.",
+            "url": "https://www.newsweek.com/coronavirus-north-korea-refuses-united-nations-1489829",
+            "urlToImage": "https://d.newsweek.com/en/full/1570402/north-korean-kim-jong-un-may-2016.jpg",
+            "publishedAt": "2020-02-29T12:17:16Z",
+            "content": "North Korea has closed its borders from foreigners in a bid to prevent an outbreak of the coronavirus, refusing the humanitarian efforts of the United Nations, which is prepared to export goggles, thermometers, and stethoscopes to the country to help fight th\u2026 [+4420 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "James Crowley",
+            "title": "Professor Who Correctly Predicted 7 of Last 8 Elections Says Bernie Sanders Will Win Nomination Or Democrats Will See Brokered Convention",
+            "description": "\"To knock [Sanders] out -- that would be a big surprise, but I think you could make it close enough to go into multiple rounds of voting, particularly if some of the lesser contenders win some primaries,\" Allan Lichtman told Newsweek.",
+            "url": "https://www.newsweek.com/allan-lichtman-predicts-broken-dnc-convention-primaries-super-tuesday-1489837",
+            "urlToImage": "https://d.newsweek.com/en/full/1570412/democrats.jpg",
+            "publishedAt": "2020-02-29T17:00:35Z",
+            "content": "A political science professor with a history of correctly predicting the outcome of U.S. presidential elections said Democratic Party could be facing a broken national convention when it comes to determining who will be nominated to face President Donald Trum\u2026 [+4865 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Ramsey Touchberry",
+            "title": "Trump Says 'Far-Left Radicals' Want to Turn America Into A 'Country You Would Not Recognize' in CPAC Speech",
+            "description": "Trump fully embraced the conservative event's \"America vs. Socialism\" theme as Republicans try to paint Democrats in the run-up to November as a party increasingly open to socialism thanks to Senator Bernie Sanders' popularity in the Democratic primary.",
+            "url": "https://www.newsweek.com/trump-says-far-left-radicals-want-turn-america-country-you-would-not-recognize-cpac-speech-1489874",
+            "urlToImage": "https://d.newsweek.com/en/full/1570461/trump-cpac-democrats-socialism.jpg",
+            "publishedAt": "2020-02-29T23:55:00Z",
+            "content": "President Donald Trump was in his element Saturday, walking onto a stage before thousands of enthusiastic attendees of this year's Conservative Political Action Conference to the tunes of \"God Bless America.\"\r\nComing from the White House, where he'd just give\u2026 [+4182 chars]"
+        }
+    ]
+}

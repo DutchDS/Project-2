@@ -1,0 +1,409 @@
+{
+    "status": "ok",
+    "totalResults": 31,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Official reveals details about coronavirus death",
+            "description": "Officials in Washington discuss the first death from coronavirus in the United States.",
+            "url": "https://www.cnn.com/videos/health/2020/02/29/coronavirus-victim-united-states-washington-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229182348-first-coronavirus-death-presser-washington-super-tease.jpg",
+            "publishedAt": "2020-02-29T23:30:40Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Pence: We could have more coronavirus deaths",
+            "description": "Vice President Mike Pence said there could be more deaths in the US from coronavirus, despite the fact most Americans face a low risk.",
+            "url": "https://www.cnn.com/videos/politics/2020/02/29/mike-pence-coronavirus-sotu-tapper-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229184237-mike-pence-sotu-intv-03012020-super-tease.jpg",
+            "publishedAt": "2020-02-29T23:51:51Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Trump updates media after first US coronavirus death",
+            "description": "President Donald Trump updates the media following the first confirmed death in the US due to the coronavirus.",
+            "url": "https://www.cnn.com/videos/politics/2020/02/29/trump-coronavirus-us-death-update-white-house-briefing-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229140135-donald-trump-2-29-20-01-super-tease.jpg",
+            "publishedAt": "2020-02-29T19:16:06Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kate Sullivan, CNN",
+            "title": "Bloomberg to air coronavirus address in 3-minute TV ad",
+            "description": "Democratic presidential candidate Michael Bloomberg will air a three-minute recorded address on the coronavirus outbreak on Sunday night.",
+            "url": "https://www.cnn.com/2020/02/29/politics/michael-bloomberg-coronavirus-address/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200219114606-106-bloomberg-lead-image-super-tease.jpg",
+            "publishedAt": "2020-02-29T22:53:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "A woman in Oregon and a high school boy in Washington state are the latest presumptive positives, officials say",
+            "description": "There are now at least four US coronavirus cases without any related travel history, health officials say.",
+            "url": "https://www.cnn.com/2020/02/29/health/us-coronavirus-saturday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229033143-coronavirus-testing-development-super-tease.jpg",
+            "publishedAt": "2020-02-29T10:51:52Z",
+            "content": "(CNN)There are now at least four US coronavirus cases without any related travel history, health officials say.\r\nA woman in Oregon and a high school boy in Washington state are presumptive positives, meaning the tests were conducted at local labs but the resu\u2026 [+4955 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "HHS secretary: From day one this is what we predicted",
+            "description": "HHS Secretary Alex Azar tells reporters that the risk for contracting coronavirus remains low in the US.",
+            "url": "https://www.cnn.com/videos/health/2020/02/29/alex-azar-hhs-secretary-wh-coronavirus-presser-sot-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229143240-alex-azar-super-tease.jpg",
+            "publishedAt": "2020-02-29T19:49:36Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Authorities don't know how this woman got the coronavirus",
+            "description": "CNN correspondents from around the world report on how communities are handling the novel coronavirus. Watch \"Full Circle\" weeknights at 5 p.m. ET.",
+            "url": "https://www.cnn.com/videos/health/2020/02/28/coronavirus-california-italy-china-korea-acfc-full-episode-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228181848-hospital-coronavirus-ca-super-tease.jpg",
+            "publishedAt": "2020-02-29T00:48:22Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Inside South Korea's epicenter of the coronavirus outbreak - CNN",
+            "description": "Inside South Korea's epicenter of the coronavirus outbreak CNN Coronavirus: South Korea reported more than 800 new cases in a day - Business Insider Business Insider South Korea Coronavirus Cases Rise as China Touts Recoveries Wall Street Journal South Korea \u2026",
+            "url": "https://www.cnn.com/videos/world/2020/02/29/coronavirus-center-south-korea-watson-pkg-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228215054-daegu-south-korea-coronavirus-epicenter-watson-pkg-super-tease.jpg",
+            "publishedAt": "2020-02-29T02:58:49Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Leah Asmelash, CNN",
+            "title": "The surgeon general wants Americans to stop buying face masks",
+            "description": "US Surgeon General Jerome Adams says Americans should stop buying face masks over fears of coronavirus.",
+            "url": "https://www.cnn.com/2020/02/29/health/face-masks-coronavirus-surgeon-general-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200214171738-coronavirus-efecto-mercados-economia-economias-paises-afectados-portafolio-global-cnnee-00000000-super-tease.jpg",
+            "publishedAt": "2020-02-29T23:10:31Z",
+            "content": "Seriously people- STOP BUYING MASKS! \r\nThey are NOT effective in preventing general public from catching #Coronavirus, but if healthcare providers can't get them to care for sick patients, it puts them and our communities at risk! https://t.co/UxZRwxxKL9\r\n\u2014 U\u2026 [+55 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "New US coronavirus cases of unknown origin",
+            "description": null,
+            "url": "https://www.cnn.com/collections/int-coranavirus-20-02-2020/",
+            "urlToImage": null,
+            "publishedAt": "2020-02-29T06:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Scientists race to develop coronavirus vaccine",
+            "description": "Scientists around the world are racing to develop a vaccine for the coronavirus. CNN's Sanjay Gupta has more.",
+            "url": "https://www.cnn.com/videos/health/2020/02/29/coronavirus-vaccine-gupta-pkg-ebof-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228111204-01-coronavirus-treatment-testing-0205-super-tease.jpg",
+            "publishedAt": "2020-02-29T01:54:42Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ralph Ellis, Simon Cullen and Jonny Hallam, CNN",
+            "title": "Briton Nazanin Zaghari-Ratcliffe believes she contracted coronavirus in Iranian prison, her family says",
+            "description": "Nazanin Zaghari-Ratcliffe, the British-Iranian mother jailed in Iran on espionage charges, believes she has contracted coronavirus in Evin Prison outside Tehran, according to a family statement released Saturday.",
+            "url": "https://www.cnn.com/2020/02/29/world/nazanin-zaghari-ratcliffe-coronavirus-iranian-prison/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/171107125504-01-nazanin-zaghari-ratcliffe-super-tease.jpg",
+            "publishedAt": "2020-02-29T20:38:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Lemon slams Trump administration for reaction to coronavirus",
+            "description": "CNN's Don Lemon breaks down the \"lackluster response\" from President Trump and White House officials to coronavirus and massive losses in the stock market.",
+            "url": "https://www.cnn.com/videos/politics/2020/02/29/coronavirus-trump-white-house-response-dons-take-ctn-sot-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228230410-don-lemon-ctn-dons-take-022819-super-tease.jpg",
+            "publishedAt": "2020-02-29T04:21:03Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maegan Vazquez, CNN",
+            "title": "Trump to give update on US response to coronavirus",
+            "description": "President Donald Trump is expected to deliver remarks at the White House Saturday to discuss the latest novel coronavirus developments. The update will follow a briefing from his coronavirus task force earlier in the day.",
+            "url": "https://www.cnn.com/2020/02/29/politics/trump-coronavirus-outbreak/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228173405-trump-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-29T18:15:15Z",
+            "content": "(CNN)President Donald Trump is expected to deliver remarks at the White House Saturday to discuss the latest novel coronavirus developments. The update will follow a briefing from his coronavirus task force earlier in the day.\r\nLess than an hour before Trump \u2026 [+1164 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Across Italy, families cope with lockdown",
+            "description": "CNN's Ben Wedeman talks to families in Italy who are trying to maintain normalcy amid the requisite lockdown over coronavirus in parts of the country.",
+            "url": "https://www.cnn.com/videos/world/2020/02/29/coronavirus-italy-lockdown-family-wedeman-pkg-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229110942-italy-coronavirus-lockdown-super-tease.jpg",
+            "publishedAt": "2020-02-29T16:27:39Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Caroline Kelly, CNN",
+            "title": "Pence: 'We could have more' coronavirus deaths",
+            "description": "Vice President Mike Pence said Saturday that while most Americans face a low risk from coronavirus, more US deaths could be imminent following the nation's first confirmed fatality.",
+            "url": "https://www.cnn.com/2020/02/29/politics/pence-sotu-americans-coronavirus-cnntv/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229184237-mike-pence-sotu-intv-03012020-super-tease.jpg",
+            "publishedAt": "2020-02-29T23:52:10Z",
+            "content": "(CNN)Vice President Mike Pence said Saturday that while most Americans face a low risk from coronavirus, more US deaths could be imminent following the nation's first confirmed fatality.\r\n\"We know there will be more cases,\" Pence told CNN's Jake Tapper in a c\u2026 [+1840 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Morse, CNN",
+            "title": "Juventus against Inter Milan among five additional Italian soccer matches postponed due to coronavirus",
+            "description": "Five Italian top-flight soccer games have been postponed this weekend due to concerns over the coronavirus outbreak.",
+            "url": "https://edition.cnn.com/2020/02/29/football/serie-a-postponement-matches-coronavirus-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228101118-san-siro-empty-super-tease.jpg",
+            "publishedAt": "2020-02-29T13:48:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler and Caroline Kelly, CNN",
+            "title": "State Department raises travel advisory for Italy amid coronavirus outbreak",
+            "description": "The US State Department on Friday raised its travel advisory for Italy to the second-highest-level warning, Level 3: Reconsider Travel, due to the novel coronavirus.",
+            "url": "https://www.cnn.com/2020/02/28/politics/coronavirus-travel-advisory-italy-reconsider-travel/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228171620-coronavirus-go-there-super-tease.jpg",
+            "publishedAt": "2020-02-29T00:29:46Z",
+            "content": "(CNN)The US State Department on Friday raised its travel advisory for Italy to the second-highest-level warning, Level 3: Reconsider Travel, due to the novel coronavirus.\r\nThe move comes as Italy has suffered at least 650 cases and 17 deaths from the coronavi\u2026 [+1308 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Joe Lockhart",
+            "title": "Trump is failing the leadership test on coronavirus",
+            "description": "There are several steps Trump should take immediately that will both help address the spread of coronavirus and boost his political standing, writes Joe Lockhart",
+            "url": "https://www.cnn.com/2020/02/29/opinions/trump-failing-leadership-test-coronavirus-opinion-lockhart/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226145549-111-trump-lead-image-super-tease.jpg",
+            "publishedAt": "2020-02-29T16:31:07Z",
+            "content": "Joe Lockhart was White House press secretary from 1998 to 2000 in President Bill Clinton's administration. He co-hosts the podcast \"Words Matter.\" The opinions expressed in this commentary are his own. View more opinion at CNN.\r\n (CNN)Ranking high among the P\u2026 [+7274 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ray Sanchez and Pauline Lockwood, CNN",
+            "title": "Pet dog in Hong Kong in quarantine after testing 'weak positive' for coronavirus",
+            "description": "A pet dog has been placed in quarantine in Hong Kong after it tested a \"weak positive\" for the novel coronavirus, authorities said.",
+            "url": "https://www.cnn.com/2020/02/29/asia/hong-kong-pet-dog-coronavirus-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226112357-01-hong-kong-coronavirus-0225-super-tease.jpg",
+            "publishedAt": "2020-02-29T16:54:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Betsy Klein, Dan Merica, Jason Hoffman and Kaitlan Collins, CNN",
+            "title": "Agriculture Secretary Sonny Perdue calls coronavirus a 'pandemic'",
+            "description": "Agriculture Secretary Sonny Perdue on Friday called the coronavirus a \"pandemic,\" using a term that has not been used by the White House or government health agencies as the Trump administration struggles to stay on message in response to the virus' outbreak.",
+            "url": "https://www.cnn.com/2020/02/29/politics/sonny-perdue-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190828094912-01-sonny-perdue-donald-trump-file-super-tease.jpg",
+            "publishedAt": "2020-02-29T05:51:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michael Nedelman and Gina Yu, CNN",
+            "title": "Health care braces for shortages of supplies due to coronavirus",
+            "description": "The US Food and Drug Administration is aware of \"spot shortages,\" but nothing widespread yet, of medical devices due to the coronavirus epidemic. Of particular concern are personal protective equipment such as masks, respirators, gloves and surgical gowns.",
+            "url": "https://www.cnn.com/2020/02/29/health/fda-medical-device-mask-hospital-shortage/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229100420-01-medical-mask-production-super-tease.jpg",
+            "publishedAt": "2020-02-29T16:20:12Z",
+            "content": "(CNN)The US Food and Drug Administration has contacted dozens of medical device manufacturers whose facilities in China may be at risk of creating shortages in the supply chain -- and indeed, some facilities have already been disrupted by the coronavirus outb\u2026 [+10414 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris and Alexandra Meeks, CNN",
+            "title": "More than 120 UC Davis health care staff in self-quarantine after possible exposure to coronavirus",
+            "description": "About 124 health care workers -- including at least 36 nurses -- are under self-quarantine after possible exposure to the coronavirus patient admitted to UC Davis Medical Center last week, a nurse union said.",
+            "url": "https://www.cnn.com/2020/02/29/health/uc-davis-health-care-workers-self-quarantine/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228194124-uc-davis-medical-center-super-tease.jpg",
+            "publishedAt": "2020-02-29T09:39:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Scottie Andrew and Jessie Yeung, CNN",
+            "title": "Masks can't stop the coronavirus in the US, but hysteria has led to bulk-buying, price-gouging and serious fear for the future",
+            "description": "Panic over the novel coronavirus is hitting a fever pitch in the US. And despite repeated pleas from health officials not to purchase them, Americans can't stop snatching up masks and respirators.",
+            "url": "https://www.cnn.com/2020/02/29/health/coronavirus-mask-hysteria-us-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228132230-01-coronavirus-masks-super-tease.jpg",
+            "publishedAt": "2020-02-29T10:14:34Z",
+            "content": "(CNN)Panic over the novel coronavirus is hitting a fever pitch in the US. And despite repeated pleas from health officials not to purchase them, Americans can't stop snatching up masks and respirators.\r\nThe mask boom has prompted sellers to jack up prices and\u2026 [+10277 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kathryn Vasel, CNN Business",
+            "title": "Sick employees should stay home to fight coronavirus. But many don't have sick leave",
+            "description": "The government is urging people who are sick to stay at home to help prevent the spread of coronavirus. But for workers who don't have paid sick leave, staying home when they aren't feeling well can be financially devastating.",
+            "url": "https://www.cnn.com/2020/02/29/success/unpaid-sick-leave-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228144803-pedestrians-new-york-coronavirus-mask-0227-super-tease.jpg",
+            "publishedAt": "2020-02-29T16:20:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, John Harwood and Jamie Gangel, CNN",
+            "title": "Tax cuts, tariff relief and travel restrictions: White House hunts for options to contain virus fallout",
+            "description": "President Donald Trump's advisers huddled on Friday to begin developing plans that would both stanch the economic effects of the spreading coronavirus outbreak and impose new restrictions on travelers from Japan and South Korea, according to people familiar w\u2026",
+            "url": "https://www.cnn.com/2020/02/28/politics/coronavirus-white-house-contain-tax-cuts-tariff-relief/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228173405-trump-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-02-29T00:23:52Z",
+            "content": "Washington (CNN)President Donald Trump's advisers huddled on Friday to begin developing plans that would both stanch the economic effects of the spreading coronavirus outbreak and impose new restrictions on travelers from Japan and South Korea, according to p\u2026 [+8426 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maegan Vazquez, CNN",
+            "title": "Trump to rally conservative base at CPAC amid escalating coronavirus concerns",
+            "description": "President Donald Trump will likely use a speech Saturday at the Conservative Political Action Conference held near Washington to rally his base ahead of the election amid concerns about the growing coronavirus health crisis and fears about its effect on the e\u2026",
+            "url": "https://www.cnn.com/2020/02/29/politics/donald-trump-cpac-2020/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228074701-01-trump-coronavirus-presser-0226-super-tease.jpg",
+            "publishedAt": "2020-02-29T14:23:43Z",
+            "content": "(CNN)President Donald Trump will likely use a speech Saturday at the Conservative Political Action Conference held near Washington to rally his base ahead of the election amid concerns about the growing coronavirus health crisis and fears about its effect on \u2026 [+1601 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Barbara Starr and Nicole Gaouette, CNN",
+            "title": "US military scrambles to cope with global 'threat' posed by coronavirus",
+            "description": "In a striking contradiction to White House assertions that the coronavirus is under control, the Pentagon's chief of personnel is sharply warning that the virus poses an increased \"threat\" in areas where US troops and defense personnel are located around the \u2026",
+            "url": "https://www.cnn.com/2020/02/29/politics/us-military-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190122101239-02-us-soldier-file-super-tease.jpg",
+            "publishedAt": "2020-02-29T05:48:48Z",
+            "content": "Washington (CNN)In a striking contradiction to White House assertions that the coronavirus is under control, the Pentagon's chief of personnel is sharply warning that the virus poses an increased \"threat\" in areas where US troops and defense personnel are loc\u2026 [+11442 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "The travel industry is suffering its worst shock since 9/11 because of coronavirus",
+            "description": "It's one of the largest industries in the world, with $5.7 trillion in revenue. It is responsible for an estimated 319 million jobs, or roughly one in 10 people working on the planet. And no sector is more at risk from the novel coronavirus.",
+            "url": "https://www.cnn.com/2020/02/29/business/travel-industry-coronavirus-economic-impact/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228191132-airport-travel-industry-super-tease.jpg",
+            "publishedAt": "2020-02-29T20:02:25Z",
+            "content": "New York (CNN Business)It's one of the largest industries in the world, with $5.7 trillion in revenue. It is responsible for an estimated 319 million jobs, or roughly one in 10 people working on the planet. And no sector is more at risk from the novel coronav\u2026 [+6209 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Hollingsworth, CNN",
+            "title": "Millions of children across the world aren't going to school. It's not just their education that could suffer",
+            "description": "China is battling a deadly coronavirus outbreak that has killed more than 2,700 in the country alone. In a bid to stop the spread of the disease, schools across the country are closed, leaving about 180 million school-aged children in China stuck at home.",
+            "url": "https://www.cnn.com/2020/02/28/asia/remote-school-education-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228160535-coronavirus-schools-2-super-tease.jpg",
+            "publishedAt": "2020-02-29T03:21:21Z",
+            "content": "Hong Kong (CNN)For 18-year-old Huang Yiyang, school starts when she opens up her laptop. \r\nOver the past two weeks, there have been no school bells, bustling corridors, busy canteens or uniforms. Instead of physically traveling to her public school in Shangha\u2026 [+11608 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/julia-hollingsworth\">Julia Hollingsworth</a> and <a href=\"/profiles/steve-george\">Steve George</a>, CNN",
+            "title": "Risk of global spread 'very high' warns WHO as China situation stabilizes",
+            "description": null,
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-02-29-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228201643-piacenza-hospital-italy-0227-super-tease.jpg",
+            "publishedAt": "2020-02-29T01:55:48Z",
+            "content": "If you're just joining us, here's what's been happening over the last few hours.\r\nHighest level of alert: The World Health Organization increased the global risk from the outbreak from high to very high. This thing can go in any direction. Were not underminin\u2026 [+1714 chars]"
+        }
+    ]
+}

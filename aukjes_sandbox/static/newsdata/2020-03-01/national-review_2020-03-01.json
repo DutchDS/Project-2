@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Kevin D. Williamson, Kevin D. Williamson",
+            "title": "Events, Dear Boys",
+            "description": "Maybe we dodge a bullet on coronavirus. Maybe we don\u2019t. But we are not likely to dodge every bullet.",
+            "url": "https://www.nationalreview.com/2020/03/coronavirus-outbreak-government-response-well-defined-role-responsibility-important/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/donald-trump-wh-press-conference.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-01T11:00:23Z",
+            "content": null
+        }
+    ]
+}

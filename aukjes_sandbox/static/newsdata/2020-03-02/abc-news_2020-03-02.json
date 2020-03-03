@@ -1,0 +1,513 @@
+{
+    "status": "ok",
+    "totalResults": 39,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kendall Karson, Rachel Scott",
+            "title": "Focusing on health care, House Democrats target Trump's response to new coronavirus",
+            "description": "House Democrats are investing in a new digital ad campaign targeting the Trump administration\u2019s handling of the novel coronavirus.",
+            "url": "https://abcnews.go.com/Politics/focusing-health-care-house-democrats-target-trumps-response/story?id=69322254",
+            "urlToImage": "https://s.abcnews.com/images/US/coronavirus-trump-ap-rc-200229_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T15:21:30Z",
+            "content": "Amid heightened concerns from Democrats over the Trump administrations handling of the novel coronavirus, House Democrats are investing in a new digital ad campaign targeting Republicans in key districts ahead of the highly-anticipated general election -- the\u2026 [+5027 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jordyn Phelps",
+            "title": "White House takes aggressive public posture amid new coronavirus spread",
+            "description": "President Trump meets Monday with pharmaceutical company executives on developing a vaccine against the new coronavirus, although experts say that could take a year.",
+            "url": "https://abcnews.go.com/Politics/trump-meet-pharmaceutical-companies-vaccine-coronavirus-spreads/story?id=69335907",
+            "urlToImage": "https://s.abcnews.com/images/Politics/trump-8-gty-er-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T17:55:23Z",
+            "content": "The White House on Monday continued to project an image that's it's on on the offensive in how it's handling the new coronavirus , with President Donald Trump set to sit down with pharmaceutical CEOs to discuss efforts to develop a vaccine.\r\nWe've asked them \u2026 [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "US confirms 2nd coronavirus fatality as global death toll nears 3,000",
+            "description": "Two people sickened with the novel coronavirus have died in the United States, as the global death toll from the viral outbreak that began in China nears 3,000.",
+            "url": "https://abcnews.go.com/International/global-death-toll-coronavirus-outbreak-nears-3000-us/story?id=69330366",
+            "urlToImage": "https://s.abcnews.com/images/US/life-care-center-kirkland-washington-health-worker_hpMain_20200302-044152_16x9_992.jpg",
+            "publishedAt": "2020-03-02T09:56:39Z",
+            "content": "Two people sickened with the novel coronavirushave died in the United States, as the global death toll from the viral outbreak that began in China nears 3,000.\r\nBoth patients who succumbed to the newly identified virus, known officially as COVID-19, were resi\u2026 [+2922 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Coronavirus could cut global growth outlook in half, OECD warns",
+            "description": "The global economy is facing its \"greatest danger since the financial crisis\" with the outbreak of the novel coronavirus, according to the OECD.",
+            "url": "https://abcnews.go.com/Business/coronavirus-cut-global-economic-growth-outlook-half-oecd/story?id=69334244",
+            "urlToImage": "https://s.abcnews.com/images/Business/coronavirus-closed-china-04-ap-jef-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T20:35:38Z",
+            "content": "With the outbreak of the novel coronavirus, the global economy is facing its greatest threat since the financial crisis, according to the Organization for Economic Co-operation and Development's interim economic outlook, released Monday.\r\n\"The virus risks giv\u2026 [+3234 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Anthony Trotter, Morgan Winsor",
+            "title": "No plans to cancel Tokyo Olympics amid coronavirus outbreak, organizers say",
+            "description": "Organizers for the 2020 Summer Olympics said that preparations for the upcoming event in Tokyo are \"continuing as planned.\"",
+            "url": "https://abcnews.go.com/International/plans-cancel-postpone-tokyo-2020-olympics-amid-coronavirus/story?id=69281972",
+            "urlToImage": "https://s.abcnews.com/images/International/tokyo-olympics-rings-face-masks-reuters-200302_hpMain_20200302-045601_16x9_992.jpg",
+            "publishedAt": "2020-03-02T17:44:10Z",
+            "content": "TOKYO -- \r\nOrganizers for the 2020 Summer Olympics said that preparations for the upcoming event in Tokyo are \"continuing as planned,\" despite rumors swirling that the games could be canceled or postponed due to an outbreak of the novel coronavirus.\r\nWhen ask\u2026 [+5620 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Dr. Angela N. Baldwin",
+            "title": "How novel coronavirus compares to SARS, MERS and other recent viral outbreaks - ABC News",
+            "description": "How novel coronavirus compares to SARS, MERS and other recent viral outbreaks ABC News How is the coronavirus outbreak going to end? Here\u2019s how similar epidemics played out. The Washington Post Should humans limit their contact with animals to prevent further\u2026",
+            "url": "https://abcnews.go.com/US/coronavirus-compares-sars-mers-recent-viral-outbreaks/story?id=69329364",
+            "urlToImage": "https://s.abcnews.com/images/International/coronavirus-1-gty-er-200301_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T20:51:12Z",
+            "content": "The novel coronavirus has understandably caused a lot of people to worry. Others, however, nonchalantly report a feeling of d\u00e9j\u00e0 vu. It seems like weve been down this road before with SARS, MERS and the swine flu.\r\nSo how does COVID-19 actually stack up again\u2026 [+3627 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran says 66 dead amid 1,501 confirmed cases of the new coronavirus in the Islamic Republic.",
+            "description": "Iran says 66 dead amid 1,501 confirmed cases of the new coronavirus in the Islamic Republic.",
+            "url": "https://abcnews.go.com/International/wireStory/iran-66-dead-amid-1501-confirmed-cases-coronavirus-69331123",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T10:21:32Z",
+            "content": "TEHRAN, Iran -- \r\nIran says 66 dead amid 1,501 confirmed cases of the new coronavirus in the Islamic Republic."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "State radio in Iran says member of council advising its supreme leader dies after falling ill from new coronavirus",
+            "description": "State radio in Iran says member of council advising its supreme leader dies after falling ill from new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/state-radio-iran-member-council-advising-supreme-leader-69330165",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T08:13:02Z",
+            "content": "TEHRAN, Iran -- \r\nState radio in Iran says member of council advising its supreme leader dies after falling ill from new coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RODNEY MUHUMUZA Associated Press",
+            "title": "Africa boosts preparations for possible spread of new virus",
+            "description": "Across Africa, steps are being taken to prepare for \u2014 and to reduce the effects of \u2014 the spread of the new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/africa-boosts-preparations-spread-virus-69335218",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T14:55:33Z",
+            "content": "KAMPALA, Uganda -- \r\nAcross Africa, steps are being taken to prepare for and to reduce the effects of the spread of the new coronavirus. Testing laboratories are being supplied, quarantine and hospital treatment facilities are being readied for patients, and \u2026 [+6370 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NASSER KARIMI and JON GAMBRELL Associated Press",
+            "title": "Iran goes to online briefings as Tehran fights new virus",
+            "description": "Iranian officials were taking new precautions against the outbreak of the new coronavirus there, with even its Foreign Ministry holding an online-only briefing",
+            "url": "https://abcnews.go.com/International/wireStory/iran-online-briefings-tehran-fights-virus-69330065",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_17ed647cc246483bb4e192b82f32f9ac_16x9_992.jpg",
+            "publishedAt": "2020-03-02T07:59:06Z",
+            "content": "TEHRAN, Iran -- \r\nTrying to stem the outbreak of the new coronavirus, Iran on Monday held an online-only briefing by its Foreign Ministry as Britain began evacuating nonessential staff and families from the country which has the highest death toll from the vi\u2026 [+3344 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHRISTINA LARSON AP Science Writer",
+            "title": "China's skies are briefly clearer while factories stay shut",
+            "description": "China\u2019s far-reaching efforts to control the spread of the new coronavirus have shuttered factories, emptied airports and resulted in a steep drop in carbon emissions and other pollutants",
+            "url": "https://abcnews.go.com/Technology/wireStory/chinas-skies-briefly-clearer-factories-stay-shut-69343881",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T21:41:04Z",
+            "content": "WASHINGTON -- \r\nChinas far-reaching efforts to control the spread of the new coronavirus have shuttered factories, emptied airports and resulted in a steep drop in carbon emissions and other pollutants. However, analysts caution that the dip in pollution is l\u2026 [+3495 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "ECB's Lagarde: 'Ready to take targeted action' on economy",
+            "description": "The head of the European Central Bank says Europe's top monetary authority is ready to take \u201cappropriate and targeted measures\u201d if necessary to support the economy against the headwinds from the coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/ecbs-lagarde-ready-targeted-action-economy-69344195",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T22:05:17Z",
+            "content": "FRANKFURT, Germany -- \r\nThe head of the European Central Bank says Europe's top monetary authority is ready to take appropriate and targeted measures if necessary to support the economy against the headwinds from the coronavirus. \r\nChristine Lagarde said in a\u2026 [+226 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Washington state health officials say second person has died in US from coronavirus",
+            "description": "Washington state health officials say second person has died in US from coronavirus",
+            "url": "https://abcnews.go.com/US/wireStory/washington-state-health-officials-person-died-us-coronavirus-69326818",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T02:24:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: Officials: US has 91 coronavirus cases, 2 dead",
+            "description": "U.S. health officials updated the nation\u2019s count of coronavirus cases to 91 on Monday",
+            "url": "https://abcnews.go.com/Health/wireStory/latest-officials-us-91-coronavirus-cases-dead-69338018",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T17:22:03Z",
+            "content": "NEW YORK -- \r\nThe Latest on the new coronavirus outbreak (all times local):\r\n12:15 p.m.\r\nU.S. health officials updated the nations count of coronavirus cases to 91 on Monday.\r\nThe Centers for Disease Control and Prevention said the count includes 45 infection\u2026 [+485 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAVID BAUDER AP Media Writer",
+            "title": "Media faces challenges in covering coronavirus outbreak",
+            "description": "News organizations must walk a fine line in covering coronavirus",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/media-faces-challenges-covering-coronavirus-outbreak-69329806",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_e6bd68782b28403cb4b00dd5fdd9ad43_16x9_992.jpg",
+            "publishedAt": "2020-03-02T07:22:49Z",
+            "content": "NEW YORK -- \r\nCovering the coronavirus story requires careful navigation and constant attention.\r\nNews organizations trying to responsibly report on the growing health crisis are confronted with the task of conveying its seriousness without provoking panic, k\u2026 [+6883 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": null,
+            "title": "Survey: US factories expand in February despite coronavirus",
+            "description": "American factories expanded in February for the second straight month, despite disruptions caused by the coronavirus outbreak",
+            "url": "https://abcnews.go.com/US/wireStory/survey-us-factories-expand-february-coronavirus-69335445",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T15:18:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Dow Jones surges more than 1,200 points on hopes that central banks will act to shelter global economy from coronavirus",
+            "description": "Dow Jones surges more than 1,200 points on hopes that central banks will act to shelter global economy from coronavirus",
+            "url": "https://abcnews.go.com/US/wireStory/dow-jones-surges-1200-points-hopes-central-banks-69343444",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T21:01:02Z",
+            "content": "NEW YORK -- \r\nDow Jones surges more than 1,200 points on hopes that central banks will act to shelter global economy from coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICOLE WINFIELD and COLLEEN BARRY Associated Press",
+            "title": "Italy's health system at limit in virus-struck Lombardy",
+            "description": "The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick",
+            "url": "https://abcnews.go.com/Health/wireStory/italys-health-system-limit-virus-struck-lombardy-69331977",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_8a69342a50b64733851e77b8a9df7f0c_16x9_992.jpg",
+            "publishedAt": "2020-03-02T11:28:35Z",
+            "content": "MILAN -- \r\nThe coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for nursi\u2026 [+2405 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CARLA K. JOHNSON AP Medical Writer",
+            "title": "More testing sheds light on how virus is spreading in US",
+            "description": "An increase in testing for the coronavirus is shedding light on its spread in the United States, including among nursing home residents in one Washington state facility",
+            "url": "https://abcnews.go.com/Health/wireStory/testing-sheds-light-virus-spreading-us-69342604",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_23d8de9f2cdb48f0941d4cd9b770ba1d_16x9_992.jpg",
+            "publishedAt": "2020-03-02T20:15:53Z",
+            "content": "SEATTLE -- \r\nAn increase in testing for the coronavirus began shedding light Monday on how the illness has spread in the United States, including among nursing home residents in one Washington state facility.\r\nU.S. health officials updated the number of COVID\u2026 [+4808 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HOLLY RAMER Associated Press",
+            "title": "Authorities confirm New Hampshire's 1st case of coronavirus",
+            "description": "New Hampshire officials say a hospital employee who recently traveled to Italy is the first person in the state to test positive for the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/authorities-confirm-hampshires-1st-case-coronavirus-69340222",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_a3fb96509a394f1a9b601a71568582c0_16x9_992.jpg",
+            "publishedAt": "2020-03-02T18:36:13Z",
+            "content": "CONCORD, N.H. -- \r\nA hospital employee who recently traveled to Italy is the first person in New Hampshire to test positive for the new coronavirus, state officials said Monday.\r\nThe patient is experiencing mild symptoms and remains at home in Grafton County \u2026 [+1854 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CATHY BUSSEWITZ AP Business Writer",
+            "title": "Oil prices fall as coronavirus spreads outside China",
+            "description": "With the viral outbreak spreading to more countries, the price of oil has dropped precipitously as global demand weakens even further",
+            "url": "https://abcnews.go.com/Travel/wireStory/oil-prices-fall-coronavirus-spreads-china-69328458",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_a4754182219d45bebff0a7f89230afdf_16x9_992.jpg",
+            "publishedAt": "2020-03-02T04:49:33Z",
+            "content": "NEW YORK -- \r\nWith the viral outbreak spreading to more countries, the price of oil has dropped precipitously as global demand weakens even further.\r\nThat has sent shares tumbling for oil giants like Exxon and Chevron while smaller producers with idling rigs \u2026 [+5709 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAKE KANG Associated Press",
+            "title": "Q&A: Wuhan's biggest temporary hospital could close in March",
+            "description": "The head of the largest temporary hospital in the Chinese city at the center of the coronavirus outbreak says his staff has had a heavy workload but should be able to wrap up operations by the end of this month",
+            "url": "https://abcnews.go.com/Health/wireStory/qa-wuhans-biggest-temporary-hospital-close-march-69327671",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_e08f341d8ac64aecb7545366ae7bf0f3_16x9_992.jpg",
+            "publishedAt": "2020-03-02T03:33:19Z",
+            "content": "BEIJING -- \r\nThe head of the largest of 16 temporary hospitals in the Chinese city at the center of the coronavirus outbreak says his staff has had a heavy workload but should be able to wrap up operations by the end of this month.\r\nDr. Zhang Junjian is direc\u2026 [+3492 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AYA BATRAWY Associated Press",
+            "title": "New virus hits Mideast airlines with $100M loss, group says",
+            "description": "An airline industry trade association says the new coronavirus has already cost Middle East airlines about $100 million",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-hits-mideast-airlines-100m-loss-group-69333059",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_8de2300d5d1f49489f84d8d73afd1984_16x9_992.jpg",
+            "publishedAt": "2020-03-02T12:46:02Z",
+            "content": "ABU DHABI, United Arab Emirates -- \r\nMajor travel disruptions due to the new coronavirus have already caused the equivalent of a roughly $100 million loss to airlines in the Middle East, which serves as a connection hub for east-west travel, the industry's ma\u2026 [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAUL WISEMAN AP Economics Writer",
+            "title": "Factories expand despite virus, though deliveries slow",
+            "description": "American factories expanded in February for the second straight month, despite disruptions caused by the coronavirus outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/factories-expand-virus-deliveries-slow-69336375",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_8618a79be32b4756a597a360018ce920_16x9_992.jpg",
+            "publishedAt": "2020-03-02T16:09:57Z",
+            "content": "WASHINGTON -- \r\nAmerican factories expanded in February for the second straight month, despite disruptions caused by the coronavirus outbreak. The winning streak, however, may prove short-lived. \r\nThe Institute for Supply Management, an association of purchas\u2026 [+1544 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICOLE WINFIELD and COLLEEN BARRY Associated Press",
+            "title": "Italy's health system at limit in virus-struck Lombardy",
+            "description": "The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick",
+            "url": "https://abcnews.go.com/Business/wireStory/italys-health-system-limit-virus-struck-lombardy-69331980",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_8a69342a50b64733851e77b8a9df7f0c_16x9_992.jpg",
+            "publishedAt": "2020-03-02T11:28:40Z",
+            "content": "MILAN -- \r\nThe coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for nursi\u2026 [+2405 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stocks open higher on Wall Street following a 7-day rout",
+            "description": "Stocks are opening higher on Wall Street following a seven-day rout brought on by worries that the spreading coronavirus outbreak will stunt the global economy",
+            "url": "https://abcnews.go.com/Business/wireStory/stocks-open-higher-wall-street-day-rout-69334977",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_ffe79945218846b993ad8791b04e862a_16x9_992.jpg",
+            "publishedAt": "2020-03-02T14:46:56Z",
+            "content": "NEW YORK -- \r\nStocks are opening higher on Wall Street following a seven-day rout brought on by worries that the spreading coronavirus outbreak will stunt the global economy. Markets in Asia ended mostly higher and European markets were mixed. U.S. stocks are\u2026 [+6178 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HYUNG-JIN KIM and MATT SEDENSKY Associated Press",
+            "title": "Virus reaches new countries as crisis seems to ease in China",
+            "description": "The coronavirus appeared for the first time in New York, Moscow and Berlin and clusters of the disease surged around the world",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-reaches-countries-crisis-ease-china-69338165",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c52417bd246146c5ac61977a802e6769_16x9_992.jpg",
+            "publishedAt": "2020-03-02T17:27:18Z",
+            "content": "SEOUL, South Korea -- \r\nThe coronavirus appeared for the first time in New York, Moscow and Berlin and clusters of the disease surged around the world, even as new cases in China dropped to their lowest level in six weeks Monday and hundreds of patients were \u2026 [+6974 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YURI KAGEYAMA AP Business Writer",
+            "title": "Japan electronics maker Sharp to make masks at display plant",
+            "description": "Electronics maker Sharp Corp. will start making surgical masks, which are in high demand because of the virus outbreak, using a plant in central Japan that usually makes displays",
+            "url": "https://abcnews.go.com/International/wireStory/japan-electronics-maker-sharp-make-masks-display-plant-69327738",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4b59adce2f454bf6a37606fffbd6459d_16x9_992.jpg",
+            "publishedAt": "2020-03-02T03:41:44Z",
+            "content": "TOKYO -- \r\nElectronics maker Sharp Corp. said Monday it will start making surgical masks, which are in high demand because of the virus outbreak, using a plant in central Japan that usually makes displays. \r\nSharp, owned by Hon Hai Precision Industry Co., als\u2026 [+1109 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Twitter, Costco rise; Carnival, Harley-Davidson fall",
+            "description": "Stocks that moved heavily or traded substantially on Monday: Twitter, Costco rise; Carnival, Harley-Davidson fall",
+            "url": "https://abcnews.go.com/Business/wireStory/twitter-costco-rise-carnival-harley-davidson-fall-69343745",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-02T21:20:32Z",
+            "content": "NEW YORK -- \r\nStocks that moved heavily or traded substantially on Monday:\r\nCarnival Corp., down 40 cents to $33.06.\r\nCruise operators continued to reel over the coronavirus' financial impact on travel and leisure companies.\r\nTwitter Inc., up $2.62 to $35.82.\u2026 [+873 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected 88,000 people, caused 3,000 deaths",
+            "description": "A new virus first detected in China has infected more than 88,000 people globally and caused 3,000 deaths",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-88000-people-caused-3000-deaths-69327404",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ecbf6d9656b04211bdcab33b833dd26c_16x9_992.jpg",
+            "publishedAt": "2020-03-02T03:18:33Z",
+            "content": "A new virus first detected in China has infected more than 88,000 people globally and caused 3,000 deaths. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest fi\u2026 [+1368 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "QASSIM ABDUL-ZAHRA Associated Press",
+            "title": "Iraq's PM-designate withdraws from post, prolonging deadlock",
+            "description": "Iraq's prime minister-designate has announced his withdrawal from the post after failing to secure parliamentary support for his Cabinet selection",
+            "url": "https://abcnews.go.com/International/wireStory/iraqs-pm-designate-withdraws-post-prolonging-deadlock-69329162",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_83dbe2adae1d408f9241646b57860db0_16x9_992.jpg",
+            "publishedAt": "2020-03-02T05:36:54Z",
+            "content": "Baghdad -- \r\nIraq's prime minister-designate announced his withdrawal from the post Sunday night after failing to secure parliamentary support for his Cabinet selection, prolonging the political deadlock in the country amid multiple economic, health and secur\u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YURI KAGEYAMA AP Business Writer",
+            "title": "Japan electronics maker Sharp to make masks at display plant",
+            "description": "Electronics maker Sharp Corp. will start making surgical masks, which are in high demand because of the virus outbreak, using a plant in central Japan that usually makes displays",
+            "url": "https://abcnews.go.com/Business/wireStory/japan-electronics-maker-sharp-make-masks-display-plant-69327897",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4b59adce2f454bf6a37606fffbd6459d_16x9_992.jpg",
+            "publishedAt": "2020-03-02T03:52:02Z",
+            "content": "TOKYO -- \r\nElectronics maker Sharp Corp. said Monday it will start making surgical masks, which are in high demand because of the virus outbreak, using a plant in central Japan that usually makes displays. \r\nSharp, owned by Hon Hai Precision Industry Co., als\u2026 [+1109 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "US construction spending up 1.8% in January to record level",
+            "description": "US construction spending hits record high in January with housing and government spending up sharply",
+            "url": "https://abcnews.go.com/Business/wireStory/us-construction-spending-18-january-record-level-69335820",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_79a17ca6e24e45e6b69e1d23e5288ed3_16x9_992.jpg",
+            "publishedAt": "2020-03-02T15:48:38Z",
+            "content": "WASHINGTON -- \r\nSpending on U.S. construction projects rose to an all-time high in January, helped by strong gains for home construction and government building projects.\r\nThe Commerce Department said Monday that construction spending increased 1.8% in Januar\u2026 [+1640 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ARON HELLER Associated Press",
+            "title": "Israelis vote in 3rd election in a year focused on Netanyahu",
+            "description": "Israelis have begun voting in the country's unprecedented third election in less than a year",
+            "url": "https://abcnews.go.com/International/wireStory/israelis-vote-3rd-election-year-focused-netanyahu-69328769",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_28c756775b2949d58a535ee2b13f22e3_16x9_992.jpg",
+            "publishedAt": "2020-03-02T05:08:43Z",
+            "content": "JERUSALEM -- \r\nIsraelis began voting Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.\r\nNetanyahu, th\u2026 [+4796 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HYUNG-JIN KIM and KIM TONG-HYUNG Associated Press",
+            "title": "Patients fill hospitals in more places as new virus expands",
+            "description": "South Korea's viral outbreak surged and millions of children in Japan stayed home from school as officials wrestled with the epidemic in more than 60 countries",
+            "url": "https://abcnews.go.com/Health/wireStory/patients-fill-hospitals-places-virus-expands-69329803",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ad23b74434cd4f52a55b6ad348f84196_16x9_992.jpg",
+            "publishedAt": "2020-03-02T06:58:23Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korea's viral outbreak surged and millions of children in Japan stayed home from school Monday as officials wrestled with the epidemic in more than 60 countries, including the United States, where two people have died.\r\nAs new ba\u2026 [+3591 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "What's Happening: Virus hurts handshakes, elections, Louvre",
+            "description": "The new virus is entering new territories around the world, from megacities to seaside villages",
+            "url": "https://abcnews.go.com/Health/wireStory/happening-virus-hurts-handshakes-elections-louvre-69332917",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c1baf8ec096a42aa878332f16efe82ca_16x9_992.jpg",
+            "publishedAt": "2020-03-02T12:23:28Z",
+            "content": "PARIS -- \r\nThe new virus is entering new territories, from megacities to seaside villages, and casting a fast-growing shadow over the world economy. Heres a look at some of the latest developments:\r\nLONELY MONA LISA\r\nThe Louvre is a magnet for tens of thousan\u2026 [+2919 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ELAINE KURTENBACH AP Business Writer",
+            "title": "Shares come charging back despite growing fallout from virus",
+            "description": "Share prices in Asia have charged back from their retreat last week, with mainland Chinese indexes gaining 3% as data showed progress in restoring factory output after weeks of disruptions from the viral outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/shares-charging-back-growing-fallout-virus-69328457",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_bdf7f2cf2b454eb98642ed7befff6848_16x9_992.jpg",
+            "publishedAt": "2020-03-02T04:47:53Z",
+            "content": "BANGKOK -- \r\nAsian shares came charging back Monday from last week's retreat, with mainland Chinese benchmarks gaining 3% as data showed progress in restoring factory output after weeks of disruptions from the viral outbreak. \r\nStocks have been swooning as in\u2026 [+5208 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Eden David",
+            "title": "How US hospitals are preparing for novel coronavirus",
+            "description": "How US hospitals are preparing for novel coronavirus go.com",
+            "url": "https://abcnews.go.com/Health/us-hospitals-preparing-coronavirus/story?id=69259323",
+            "urlToImage": "https://s.abcnews.com/images/US/Stockpile_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T12:58:27Z",
+            "content": "As the number of novel coronavirus cases continues to grow, doctors on the front lines are describing how they are preparing. Hospitals are mobilizing resources and modifying protocols as new information about the virus emerges.\r\n\"When preparing for an outbre\u2026 [+7134 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Emily Shapiro",
+            "title": "What to do if you think you have coronavirus symptoms",
+            "description": "What to do if you think you have coronavirus symptoms go.com",
+            "url": "https://abcnews.go.com/Health/coronavirus-symptoms/story?id=69334337",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-thailand-gty-aa-20026_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T16:32:56Z",
+            "content": "As more people across the United States test positive for the coronavirus, or COVID-19, it's important to know what to do if you think you have the virus.\r\nIf you develop mild flu-like symptoms, call your doctor or your local health department and mention why\u2026 [+1237 chars]"
+        }
+    ]
+}

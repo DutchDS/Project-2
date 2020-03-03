@@ -45,14 +45,14 @@
             <div class="card-body">
               <div class="jumbotron text-center">
                 <h1>Corona Spread - China</h1>
-                <p><i><div class="range">
-                  <input type="range" min="1" max="36" steps="1" value="1" id="slider">
-                  <output></output>
-                </div></i></p>
+                <p><i><div class="slidecontainer">
+                  <input type="range" min="1" steps="1" value="1" class="slider" id="date_slider">
+                  <br><output></output>
+                </div></i></p>  
                 <p><a class="btn btn-primary btn-lg" href="/" role="button">World</a>
-                  <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
-                  <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
-                  <a class="btn btn-primary btn-lg" href="/news" role="button">news</a></p>
+                  <!-- <a class="btn btn-primary btn-lg" href="/china" role="button">China</a> -->
+                  <!-- <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a> -->
+                  <a class="btn btn-primary btn-lg" href="/news" role="button">News</a></p>
               </div>
             </div>
           </div>
@@ -126,6 +126,11 @@
           <div class="card" style="width: 100%">
             <div class="card-body">
               <div id="bar"></div>  
+              <div class="col-lg-12 col-sm-12" style="text-align: right">
+                <h10 style="text-align: right">Datasource <a href="https://github.com/globalcitizen/2019-wuhan-coronavirus-data/tree/master/data-sources/dxy/data">github.com/globalcitizen/2019-wuhan-coronavirus-data</a></h10>
+
+                <h10>Datasource: github.com/globalcitizen/2019-wuhan-coronavirus-data</h10>
+              </div> 
             </div>
           </div>
         </div>
@@ -175,7 +180,19 @@
       <!-- ########## NEWS GOES HERE ################### -->
       <!-- ############################################ -->
       <div class="row">
-        <div class= "col-lg-12 col-sm-12">
+        <div class="col-lg-4 col-sm-12">
+          <div class="card" style="width: 100%">
+            <div class="card-header">
+              <h3 style="text-align: center">Corona Facts</h3>
+              <p style="text-align: right">from CNN <a href=www.cnn.com">www.cnn.com</a></p>
+            </div>
+            <br>
+            <div class="card-body">
+              <div id="cnn_facts"></div>
+            </div>
+          </div>
+        </div>
+        <div class= "col-lg-8 col-sm-12">
           <br>
           <div class="card" style="width: 100%">
             <!-- The banner message is modified by the newsrender.js based on the date / news source selection -->
@@ -245,6 +262,7 @@
     <script type="text/javascript" src="static/js/china.js"></script>
     <script type="text/javascript" src="static/js/slider_china.js"></script>
     <script type="text/javascript" src="static/js/newsrender.js"></script>
+    <script type="text/javascript" src="static/js/cnnData.js"></script>
 
   </body>
 </html>

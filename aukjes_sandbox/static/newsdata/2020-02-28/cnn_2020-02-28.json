@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 52,
+    "totalResults": 53,
     "articles": [
         {
             "source": {
@@ -138,19 +138,6 @@
                 "name": "CNN"
             },
             "author": null,
-            "title": "Burnett explains why Trump's press conference backfired",
-            "description": "CNN's Erin Burnett explains why President Trump's coronavirus press conference was not calming as the President claimed it was.",
-            "url": "https://www.cnn.com/videos/politics/2020/02/28/erin-burnett-monologue-trump-coronavirus-calming-ebof-vpx.cnn",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227191528-burnett-0227-super-tease.jpg",
-            "publishedAt": "2020-02-28T00:57:27Z",
-            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": null,
             "title": "Stelter on Fox News coronavirus coverage: Wish I could laugh",
             "description": "CNN's Brian Stelter sits with Kate Bolduan to discuss how President Trump's media allies are downplaying the coronavirus.",
             "url": "https://www.cnn.com/videos/media/2020/02/28/stelter-trump-media-allies-downplay-coronavirus-ath-vpx-bts.cnn",
@@ -163,13 +150,13 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Nathaniel Meyersohn, CNN Business",
-            "title": "CVS warns there could be a hand sanitizer shortage",
-            "description": "US drug stores, retailers and suppliers are racing to keep up with surging interest for cleaning products as fears over coronavirus intensify.",
-            "url": "https://www.cnn.com/2020/02/28/business/hand-sanitizers-wipes-cvs-walgreens-coronavirus/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228095745-walgreens-hand-sanitizer-file-restricted-super-tease.jpg",
-            "publishedAt": "2020-02-28T15:43:31Z",
-            "content": null
+            "author": null,
+            "title": "Burnett explains why Trump's press conference backfired",
+            "description": "CNN's Erin Burnett explains why President Trump's coronavirus press conference was not calming as the President claimed it was.",
+            "url": "https://www.cnn.com/videos/politics/2020/02/28/erin-burnett-monologue-trump-coronavirus-calming-ebof-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227191528-burnett-0227-super-tease.jpg",
+            "publishedAt": "2020-02-28T00:57:27Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
         },
         {
             "source": {
@@ -183,6 +170,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228111204-01-coronavirus-treatment-testing-0205-super-tease.jpg",
             "publishedAt": "2020-02-28T22:21:42Z",
             "content": "(CNN)Although physicians still have no vaccine or cure for the novel coronavirus, health officials and pharmaceutical companies around the world are working hard to develop them.\r\nMore than 20 potential vaccines aimed at preventing coronavirus disease are in \u2026 [+5257 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathaniel Meyersohn, CNN Business",
+            "title": "CVS warns there could be a hand sanitizer shortage",
+            "description": "US drug stores, retailers and suppliers are racing to keep up with surging interest for cleaning products as fears over coronavirus intensify.",
+            "url": "https://www.cnn.com/2020/02/28/business/hand-sanitizers-wipes-cvs-walgreens-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228095745-walgreens-hand-sanitizer-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-02-28T15:43:31Z",
+            "content": null
         },
         {
             "source": {
@@ -358,6 +358,19 @@
                 "id": "cnn",
                 "name": "CNN"
             },
+            "author": "Matt Egan, CNN Business",
+            "title": "$3.4 trillion has been wiped out of the stock market in a week",
+            "description": "Confidence is a fragile thing in financial markets. It can vanish in an instant. That's exactly what happened during this coronavirus-fueled mayhem on Wall Street.",
+            "url": "https://www.cnn.com/2020/02/28/investing/dow-stocks-coronavirus-correction/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228114711-02-nyse-0227-super-tease.jpg",
+            "publishedAt": "2020-02-28T12:57:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
             "author": "Paul LeBlanc, CNN",
             "title": "Tom Steyer says Trump 'has already blown' US response to coronavirus",
             "description": "Democratic presidential candidate Tom Steyer said Thursday that President Donald Trump \"has already blown\" the US response to the global spread of the novel coronavirus.",
@@ -385,11 +398,24 @@
                 "name": "CNN"
             },
             "author": "Matt Egan, CNN Business",
-            "title": "$3.4 trillion has been wiped out of the stock market in a week",
-            "description": "Confidence is a fragile thing in financial markets. It can vanish in an instant. That's exactly what happened during this coronavirus-fueled mayhem on Wall Street.",
-            "url": "https://www.cnn.com/2020/02/28/investing/dow-stocks-coronavirus-correction/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228114711-02-nyse-0227-super-tease.jpg",
-            "publishedAt": "2020-02-28T12:57:26Z",
+            "title": "Former Trump economist: Coronavirus could 'absolutely' spark global recession if not contained",
+            "description": "The world economy could stumble into a recession if the coronavirus outbreak is not contained quickly, former White House economist Kevin Hassett warned on Friday.",
+            "url": "https://www.cnn.com/2020/02/28/economy/coronavirus-recession-kevin-hassett/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228112022-kevin-hassett-recession-economy-restricted-super-tease.jpg",
+            "publishedAt": "2020-02-28T17:16:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "Dow falls another 750 points",
+            "description": "US stocks tumbled once again on Friday, as coronavirus fears continue to mount. Equities are on track for their worst week since the financial crisis.",
+            "url": "https://www.cnn.com/2020/02/28/investing/dow-stock-market-today/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228092819-coronavirus-0228-japan-01-super-tease.jpg",
+            "publishedAt": "2020-02-28T14:31:53Z",
             "content": null
         },
         {
@@ -423,32 +449,6 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Anneken Tappe, CNN Business",
-            "title": "Dow falls another 750 points",
-            "description": "US stocks tumbled once again on Friday, as coronavirus fears continue to mount. Equities are on track for their worst week since the financial crisis.",
-            "url": "https://www.cnn.com/2020/02/28/investing/dow-stock-market-today/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228092819-coronavirus-0228-japan-01-super-tease.jpg",
-            "publishedAt": "2020-02-28T14:31:53Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Matt Egan, CNN Business",
-            "title": "Former Trump economist: Coronavirus could 'absolutely' spark global recession if not contained",
-            "description": "The world economy could stumble into a recession if the coronavirus outbreak is not contained quickly, former White House economist Kevin Hassett warned on Friday.",
-            "url": "https://www.cnn.com/2020/02/28/economy/coronavirus-recession-kevin-hassett/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228112022-kevin-hassett-recession-economy-restricted-super-tease.jpg",
-            "publishedAt": "2020-02-28T17:16:50Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
             "author": "Charles Riley and Eoin McSweeney, CNN Business",
             "title": "Geneva car show canceled as coronavirus spreads in Europe",
             "description": "The Geneva Motor Show has been canceled because of coronavirus fears, striking a marquee event from global auto industry's calendar as it braces for a third year of recession.",
@@ -456,6 +456,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200214143707-geneva-international-motor-show-2019-file-super-tease.jpg",
             "publishedAt": "2020-02-28T11:16:04Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stephanie Busari and Bukola Adebayo, CNN",
+            "title": "Nigeria confirms first case of coronavirus in sub Saharan Africa",
+            "description": null,
+            "url": "https://www.cnn.com/2020/02/28/africa/nigeria-confirms-first-case-of-coronavirus-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175729-01-coronavirus-0213-super-tease.jpg",
+            "publishedAt": "2020-02-28T08:50:32Z",
+            "content": "Lagos, Nigeria (CNN)An Italian citizen who traveled to Lagos, Nigeria's economic nerve center, is the first confirmed case of coronavirus in sub Saharan Africa, according to the country's Health Ministry. \r\nThe man works in Nigeria and had returned from Milan\u2026 [+935 chars]"
         },
         {
             "source": {
@@ -488,19 +501,6 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Stephanie Busari and Bukola Adebayo, CNN",
-            "title": "Nigeria confirms first case of coronavirus in sub Saharan Africa",
-            "description": null,
-            "url": "https://www.cnn.com/2020/02/28/africa/nigeria-confirms-first-case-of-coronavirus-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175729-01-coronavirus-0213-super-tease.jpg",
-            "publishedAt": "2020-02-28T08:50:32Z",
-            "content": "Lagos, Nigeria (CNN)An Italian citizen who traveled to Lagos, Nigeria's economic nerve center, is the first confirmed case of coronavirus in sub Saharan Africa, according to the country's Health Ministry. \r\nThe man works in Nigeria and had returned from Milan\u2026 [+935 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
             "author": "Dakin Andone, CNN",
             "title": "A Seattle-area school was closed for cleaning after a staff member's relative was tested for coronavirus",
             "description": "Bothell High School outside Seattle was closed for cleaning on Thursday after a staff member's relative was quarantined and tested for a possible case of the novel coronavirus, school district officials said.",
@@ -527,13 +527,13 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Analysis by Stephen Collinson, CNN",
-            "title": "Trump seeks a 'miracle' as virus fears mount",
-            "description": "President Donald Trump is hoping for a \"miracle\" that will make the coronavirus disappear but tanking stock markets and signs the disease is stalking America are delivering their verdict on his scattershot management of the crisis.",
-            "url": "https://www.cnn.com/2020/02/28/politics/donald-trump-coronavirus-miracle-stock-markets/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
-            "publishedAt": "2020-02-28T05:30:48Z",
-            "content": null
+            "author": "Lauren Dezenski, CNN",
+            "title": "The week in 10 headlines",
+            "description": "Trump returned from India to a mounting economic and health crisis over the novel coronavirus. He's appointed Vice President Mike Pence to oversee the next steps, as the nation and stock market brace for impact.",
+            "url": "https://www.cnn.com/2020/02/28/politics/week-in-review/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228074701-01-trump-coronavirus-presser-0226-super-tease.jpg",
+            "publishedAt": "2020-02-28T23:34:04Z",
+            "content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
         },
         {
             "source": {
@@ -547,6 +547,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228154941-coronavirus-0226-north-korea-01-super-tease.jpg",
             "publishedAt": "2020-02-28T07:52:36Z",
             "content": "Hakone, Japan (CNN)A plan is in the works to evacuate quarantined foreign diplomats from North Korea, a source inside the country has revealed as concerns about the spread of the novel coronavirus grow.\r\nNorth Korea has not confirmed a single case of the viru\u2026 [+3039 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Stephen Collinson, CNN",
+            "title": "Trump seeks a 'miracle' as virus fears mount",
+            "description": "President Donald Trump is hoping for a \"miracle\" that will make the coronavirus disappear but tanking stock markets and signs the disease is stalking America are delivering their verdict on his scattershot management of the crisis.",
+            "url": "https://www.cnn.com/2020/02/28/politics/donald-trump-coronavirus-miracle-stock-markets/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
+            "publishedAt": "2020-02-28T05:30:48Z",
+            "content": null
         },
         {
             "source": {
@@ -631,19 +644,6 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "AJ Willingham, CNN",
-            "title": "5 things to know for February 28: Coronavirus, Taliban, immigration, Syria, Michigan",
-            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
-            "url": "https://www.cnn.com/2020/02/28/us/five-things-february-28-trnd/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228093347-03-coronavirus-0227-restricted-super-tease.jpg",
-            "publishedAt": "2020-02-28T11:10:49Z",
-            "content": "(CNN)Don't turn your calendars over just yet! It's a Leap Year, which means tomorrow is your once-every-four-years bonus day. \r\nHere's what you need to know to Get Up to Speed and Out the Door. \r\n(You can also get \"5 Things You Need to Know Today\" delivered t\u2026 [+5218 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
             "author": "Frank Pallotta, CNN Business",
             "title": "'The Invisible Man' could be a hit. Coronavirus fears might complicate that",
             "description": "Much like how animation helped build Disney's empire, monster movies like 1931's \"Frankenstein\" and 1941's \"The Wolf Man\" helped identify Universal as a major studio in the early days of Hollywood. Now one of the studio's classic monsters, the Invisible Man, \u2026",
@@ -651,6 +651,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228094326-02-the-invisible-man-super-tease.jpg",
             "publishedAt": "2020-02-28T21:14:57Z",
             "content": "New York (CNN Business)Much like how animation helped build Disney's empire, monster movies like 1931's \"Frankenstein\" and 1941's \"The Wolf Man\" helped identify Universal as a major studio in the early days of Hollywood. Now one of the studio's classic monste\u2026 [+3026 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for February 28: Coronavirus, Taliban, immigration, Syria, Michigan",
+            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
+            "url": "https://www.cnn.com/2020/02/28/us/five-things-february-28-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228093347-03-coronavirus-0227-restricted-super-tease.jpg",
+            "publishedAt": "2020-02-28T11:10:49Z",
+            "content": "(CNN)Don't turn your calendars over just yet! It's a Leap Year, which means tomorrow is your once-every-four-years bonus day. \r\nHere's what you need to know to Get Up to Speed and Out the Door. \r\n(You can also get \"5 Things You Need to Know Today\" delivered t\u2026 [+5218 chars]"
         },
         {
             "source": {

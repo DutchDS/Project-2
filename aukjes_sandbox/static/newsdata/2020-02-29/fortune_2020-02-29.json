@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "jakemeth",
+            "title": "To avoid the next coronavirus, we need a vaccine before the outbreak",
+            "description": "Commentary: We need to develop vaccines before deadly outbreaks of coronavirus (which causes COVID-19) or the flu occur.",
+            "url": "https://fortune.com/2020/02/29/coronavirus-covid-19-flu-vaccine/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/coronavirus-vaccine-israel-e1582932537612.jpg?resize=1200,600",
+            "publishedAt": "2020-02-29T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "John Buysse",
+            "title": "One way the wealthy hope to avoid coronavirus? Private jets",
+            "description": "\u201cThey\u2019re not willing to share the cabin with other people.\u201d",
+            "url": "https://fortune.com/2020/02/29/coronavirus-travel-wealthy-avoid-airlines-flying-private-jets/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-863830108.jpg?resize=1200,600",
+            "publishedAt": "2020-02-29T20:34:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Don Reisinger",
+            "title": "Health questions swirled around Apple this week, from coronavirus to a heart study partnership",
+            "description": "Apple CEO Tim Cook thinks Coronavirus is under control in China, but it's still causing plenty of speculation about the future of the iPhone. Meanwhile, Apple is holding another health study and had its shareholder meeting this week.",
+            "url": "https://fortune.com/2020/02/29/apple-news-coronavirus-iphone/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1200789214-e1582926466177.jpg?resize=1200,600",
+            "publishedAt": "2020-02-29T14:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Before the new coronavirus, there was SARS and MERS: Do epidemics ever really end?",
+            "description": "The instinct that epidemics are limited to one point in time is misleading, experts say.",
+            "url": "https://fortune.com/2020/02/29/coronavirus-epidemic-end/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1203849584.jpg?resize=1200,600",
+            "publishedAt": "2020-02-29T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jaclyn Gallucci",
+            "title": "Trump says additional coronavirus cases \u2018likely,\u2019 bans travel to U.S. from Iran",
+            "description": "The U.S. is banning travel to Iran in response to the outbreak of the new coronavirus and elevating travel warnings to regions of Italy and South Korea. Vice President Mike Pence announced the new restrictions and warnings as President Donald Trump said 22 pe\u2026",
+            "url": "https://fortune.com/2020/02/29/first-usa-coronavirus-death-trump/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1204204163.jpg?resize=1200,600",
+            "publishedAt": "2020-02-29T19:17:51Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Coronavirus outbreak continues with two new cases in Washington state",
+            "description": "The coronavirus outbreak continues to rise in the U.S. with two more cases confirmed in Washington state. That makes 74 confirmed cases of COVID-19 in the U.S. The White House is telling Americans the disease is still under control as they urge the public to \u2026",
+            "url": "https://www.msnbc.com/msnbc/watch/coronavirus-outbreak-continues-with-two-new-cases-in-washington-state-79769157915",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/AFP_1PI06M.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-01T19:13:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Do face masks actually help prevent coronavirus?",
+            "description": "Dr. Natalie Azar and Joshua Jackson discuss the seriousness of COVID-19 virus and whether or not face masks, including N95 masks.",
+            "url": "https://www.msnbc.com/msnbc/watch/do-face-masks-actually-help-prevent-coronavirus-79775301637",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_msnbc_masks_200301_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-01T21:17:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "American with coronavirus: 'It hasn't been that bad for me'",
+            "description": "Carl Goldman, an American who contracted the COVID-19 virus on the Diamond Princess cruise ship, discusses his experience with Alex Witt after writing about his experience in The Washington Post.",
+            "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/american-with-coronavirus-it-hasn-t-been-that-bad-for-me-79765573899",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_witt_coronaviruspatient_200301_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-01T18:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Fmr. Obama official: Truth on coronavirus is science not politics",
+            "description": "The Donald Trump administration\u2019s coronavirus response is discussed by former Obama official Dr. Kavita Patel who tells Joy Reid that the statements of Trump administration leaders such as Sec. of State Mike Pompeo are, \u2018sending a message to the world that th\u2026",
+            "url": "https://www.msnbc.com/am-joy/watch/trump-s-coronavirus-response-criticized-by-former-obama-official-79766597873",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_joy_coronavirus_200301_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-01T18:16:03Z",
+            "content": null
+        }
+    ]
+}

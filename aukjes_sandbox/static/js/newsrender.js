@@ -144,8 +144,8 @@ function buildNewsTableBanner(dateStr, source) {
   // console.log("buildNewsTableBanner:", banner);
   parentdiv
     .html("")
-    .append("h2")
-    .text(`Coronavirus news from ${source} for ${dateStr}`)
+    .append("h3")
+    .html(`Coronavirus news from ${source} <br> for ${dateStr}`)
     .attr('style', 'text-align: center');
 
   // required newsapi.org attribution https://newsapi.org/terms

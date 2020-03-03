@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Matthew Choi",
+            "title": "Biden on Trump: \u2018This is a guy who doesn\u2019t know what he\u2019s doing\u2019",
+            "description": "He assails the president\u2019s leadership on the coronavirus epidemic.",
+            "url": "https://www.politico.com/news/2020/03/01/coronavirus-biden-trump-leadership-118391",
+            "urlToImage": "https://static.politico.com/1b/56/d8bbca734a72a7285e3aea033864/20200301-joe-biden-gty-773.jpg",
+            "publishedAt": "2020-03-01T16:03:35Z",
+            "content": "Former Vice President Joe Biden. | Sean Rayford/Getty Images\r\nDemocratic presidential candidate Joe Biden criticized President Donald Trump's reaction to the coronavirus outbreak, using it as a rebuke to the president's derision toward the former vice preside\u2026 [+719 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Matthew Choi",
+            "title": "Pence: 15,000 coronavirus testing kits released over weekend",
+            "description": "The vice president acknowledges the U.S. has lagged behind on testing.",
+            "url": "https://www.politico.com/news/2020/03/01/pence-coronavirus-testing-kits-118383",
+            "urlToImage": "https://static.politico.com/3f/20/b49032994cd084613538a0a1b1ff/20200301-pence-gty-773.jpg",
+            "publishedAt": "2020-03-01T14:40:18Z",
+            "content": "Vice President Mike Pence. | Mark Wilson/Getty Images\r\nVice President Mike Pence announced Sunday the release of 15,000 testing kits for the novel coronavirus and said the administration plans to release an additional 50,000 in response to the growing threat \u2026 [+706 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "David Cohen",
+            "title": "Pence: It\u2019s OK for local schools to shut down over the coronavirus",
+            "description": "But the vice president also cautioned against overreacting to the epidemic.",
+            "url": "https://www.politico.com/news/2020/03/01/mike-pence-coronavirus-local-schools-118381",
+            "urlToImage": "https://static.politico.com/a3/6e/3fd0bd4d43e0aa76a19970eb4c66/20200301-pence-ap-773.jpg",
+            "publishedAt": "2020-03-01T13:11:16Z",
+            "content": "Those are decisions that governors in consultation with local health officials will make as they deem that necessary, he said in response to host Chuck Todd asking about the closing of schools in some locales. But other than in areas where there are individua\u2026 [+807 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Tina Nguyen",
+            "title": "Trump rallies conservatives \u2014 and drops charges of a coronavirus 'hoax'",
+            "description": "The president took a slightly softer tone after facing criticism for his rhetoric and the first American died from the virus.",
+            "url": "https://www.politico.com/news/2020/02/29/trump-rallies-conservatives-drops-charges-of-coronavirus-hoax-118361",
+            "urlToImage": "https://static.politico.com/9d/41/a237bd6c49ed9c94258ea8571ee4/200229-donald-trump-gty-773.jpg",
+            "publishedAt": "2020-03-01T00:09:56Z",
+            "content": "Trump reassured supporters that those who had been infected were doing well, and that everything would turn out for the best, though he did not acknowledge the first death from the fast-spreading virus. Trump even briefly sought to play the role of political \u2026 [+3236 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Nahal Toosi",
+            "title": "China's man in Washington navigates the perilous politics of coronavirus",
+            "description": "Cui Tankei is a smooth-talking ambassador in an impossible position.",
+            "url": "https://www.politico.com/news/2020/03/01/coronavirus-ambassador-cui-tiankai-118376",
+            "urlToImage": "https://static.politico.com/f5/0c/e02c90e44b90abc128aa42597cf4/200229-cui-tiankai-ap-773.jpg",
+            "publishedAt": "2020-03-01T12:00:00Z",
+            "content": "It would be a tricky position for any diplomat. But Cui, a 67-year-old veteran of the Chinese Foreign Ministry, has added burdens. He is by nature a cautious man, and Americans who know him say hes a skilled and reliable interlocutor. But he serves an opaque \u2026 [+12037 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Dan Goldberg",
+            "title": "Pence warns that more coronavirus cases are coming",
+            "description": "Pence and HHS Secretary Alex Azar made the rounds of the Sunday morning shows, while top government scientists and public health experts have no television appearances scheduled.",
+            "url": "https://www.politico.com/news/2020/03/01/pence-azar-coronavirus-morning-shows-118411",
+            "urlToImage": "https://static.politico.com/ec/f1/c529c20a4f4e95868ab8ab14f154/20200301-mike-pence-vp-gty-773.jpg",
+            "publishedAt": "2020-03-01T16:00:14Z",
+            "content": "HHS Secretary Alex Azar. | Evan Vucci/AP Photo\r\nPence, who President Donald Trump tapped to lead the response to the outbreak, said the risk of contracting the virus in the United States remains low and that 15,000 testing kits are in the mail on their way to\u2026 [+2081 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Matthew Choi",
+            "title": "Alex Azar: War powers on the table to increase medical supplies",
+            "description": "The Trump administration is requiring manufacturers to make their orders top priority.",
+            "url": "https://www.politico.com/news/2020/03/01/coronavirus-azar-war-powers-medical-supplies-118392",
+            "urlToImage": "https://static.politico.com/de/a3/2585ca434b40b98d9a046af7abf0/20200301-azar-ap-773.jpg",
+            "publishedAt": "2020-03-01T16:00:06Z",
+            "content": "The Trump administration reiterated on Sunday that it was taking the threat of the virus seriously, while also trying to temper any alarmist messaging. Vice President Mike Pence, whom President Donald Trump appointed to lead the administration's coronavirus e\u2026 [+1065 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Alex Thompson",
+            "title": "Warren comes out swinging after South Carolina drubbing",
+            "description": "She hits all her rivals, including Bernie Sanders, who she said \"fails to get things done.\"",
+            "url": "https://www.politico.com/news/2020/02/29/elizabeth-warren-south-carolina-118374",
+            "urlToImage": "https://static.politico.com/a2/d6/5fb5897947a1ad79d24641c9ecf4/200229-elizabeth-warren-ap-773.jpg",
+            "publishedAt": "2020-03-01T03:17:39Z",
+            "content": "Warrens shift comes at a low point for her candidacy. She has not placed first or second in any of the four contests before next weeks Super Tuesday. \r\nIll be the first to say that the first four contests havent gone exactly as Id hoped, she said. But Super T\u2026 [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jake Sherman and Anna Palmer",
+            "title": "POLITICO Playbook: The return of Joe Biden?",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/playbook/2020/03/01/the-return-of-joe-biden-488445",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-01T15:42:26Z",
+            "content": "Former Vice President Joe Bidenmade the rounds on the Sunday shows this morning after his South Carolina victory. | Scott Olson/Getty Images\r\nDRIVING THE DAY\r\nJOE BIDENS CAMPAIGN plans to use last nights massive victory in South Carolina to make the case to v\u2026 [+19176 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Kyle Cheney",
+            "title": "Dems tread cautiously on Trump investigations after impeachment",
+            "description": "With Republicans fully embracing the president, Democrats say they have few options in their arsenal.",
+            "url": "https://www.politico.com/news/2020/03/01/trump-investigations-congress-118182",
+            "urlToImage": "https://static.politico.com/ef/1b/ebdf22794639bc8c6bc2e733cd57/200205-schiff-ap-773.jpg",
+            "publishedAt": "2020-03-01T12:00:51Z",
+            "content": "As a result, the investigations that animated the House's Trump-focused oversight work since taking the majority in 2019 has gone relatively quiet just as Trump has embarked on a government-wide retribution campaign and appeared less restrained than ever befo\u2026 [+9332 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Rishika Dugyala",
+            "title": "Alex Azar: Need to treat Americans as \u2018adults\u2019 on coronavirus",
+            "description": "\u201cWe\u2019re going to work to protect the American people with every tool that we\u2019ve got.\u201d",
+            "url": "https://www.politico.com/news/2020/03/01/alex-azar-coronavirus-americans-118398",
+            "urlToImage": "https://static.politico.com/3b/f9/435f374f4ea8b66b7c670a32a7d6/20200301-alex-azar-gty-773.jpg",
+            "publishedAt": "2020-03-01T16:17:59Z",
+            "content": "Azar wouldnt classify the coronavirus as a pandemic: I'm going to leave it for the World Health Organization to decide if we're there. But he said \"we have the capability in the field to test 75,000 people,\" and that number would expand dramatically over the \u2026 [+900 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Dan Goldberg",
+            "title": "Schumer calls for Medicare to cover coronavirus vaccine that is still in development",
+            "description": "Several vaccines are in development in the U.S. and abroad. But they are still in early stages.",
+            "url": "https://www.politico.com/news/2020/03/01/schumer-medicare-coronavirus-vaccine-118460",
+            "urlToImage": "https://static.politico.com/10/f0/597e842e43baae5c54f3aa30727d/20200301-schumer-ap-773.jpg",
+            "publishedAt": "2020-03-01T18:42:11Z",
+            "content": "A spokesperson for Schumer said they do not have a cost estimate yet for Medicare but believe it will save money in the long run if it prevents people from becoming ill.\r\nMy plan to have Medicare fully cover the cost of the vaccine will mean no senior will be\u2026 [+473 chars]"
+        }
+    ]
+}

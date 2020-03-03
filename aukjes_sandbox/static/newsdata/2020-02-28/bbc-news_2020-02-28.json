@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 40,
     "articles": [
         {
             "source": {
@@ -27,6 +27,19 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A79C/production/_111080924_hi060306773.jpg",
             "publishedAt": "2020-02-28T18:11:56Z",
             "content": "Image copyrightAFPImage caption\r\n The WHO has raised the risk but data shows there is not yet a global pandemic\r\nThe World Health Organization (WHO) has upgraded the global risk of the coronavirus outbreak to \"very high\" - its top level of risk assessment.\r\nB\u2026 [+3460 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Markets fall as Covid-19 spreads around the world - BBC News",
+            "description": "Coronavirus: Markets fall as Covid-19 spreads around the world BBC News Coronavirus outbreak: All the latest updates Al Jazeera English 'We're treated like criminals': South Korean sect feels coronavirus backlash The Guardian Live updates: Oregon coronavirus \u2026",
+            "url": "https://www.bbc.co.uk/news/live/world-51669434",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.2/bbc_news_logo.png",
+            "publishedAt": "2020-02-28T02:41:47Z",
+            "content": "An Italian-Nigerian footballer has reportedly become the first professional player to be infected with the coronavirus.\r\nKing Paul Akpan Udoh, 22, who plays for Pianese in Serie C, was diagnosed on Thursday and has been quarantined, media outlets have reporte\u2026 [+739 chars]"
         },
         {
             "source": {
@@ -430,6 +443,19 @@
             "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0853gxv.jpg",
             "publishedAt": "2020-02-28T15:21:00Z",
             "content": "The first case of the coronavirus in sub-Saharan Africa has been confirmed in Nigeria.\r\nAlso on the programme: the NATO chief has called on Russia and Syria to stop their offensive in Syrias Idlib province, halt what he called their indiscriminate air attacks\u2026 [+418 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "WHO says global risk of the coronavirus is \u201cvery high\u201d",
+            "description": "The BBC understands more than 200 people have died in Iran, as the outbreak worsens. Also: The UN describes the rising conflict in Idlib as one of the most alarming moments of the Syrian War, and the US and Taliban are set to sign a peace deal.",
+            "url": "https://www.bbc.co.uk/programmes/p0855b4d",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p07zqpb8.jpg",
+            "publishedAt": "2020-02-28T23:34:00Z",
+            "content": "The BBC understands more than 200 people have died in Iran, as the outbreak worsens. Also: The UN describes the rising conflict in Idlib as one of the most alarming moments of the Syrian War, and the US and Taliban are set to sign a peace deal."
         },
         {
             "source": {

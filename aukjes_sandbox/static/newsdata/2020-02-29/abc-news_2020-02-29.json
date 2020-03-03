@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "totalResults": 30,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Dr. Angela N. Baldwin, Sony Salzman",
+            "title": "Self-quarantine may provide option to slow spread of coronavirus",
+            "description": "The CDC is warning Americans to prepare for the spread of novel coronavirus.",
+            "url": "https://abcnews.go.com/Health/quarantine-provide-option-slow-spread-coronavirus/story?id=69299482",
+            "urlToImage": "https://s.abcnews.com/images/International/coronavirus-us-gty-rc-200228_hpMain_1_16x9_992.jpg",
+            "publishedAt": "2020-02-29T15:51:57Z",
+            "content": "Some people show up to work no matter what -- snow, hail, sleet or illness. But muscling through is not always the best choice when sick. People are commonly told to stay home when they're sick to avoid spreading their germs.\r\nThe thought process with self-is\u2026 [+4333 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "William Mansell",
+            "title": "High school student latest coronavirus community spread victim",
+            "description": "A high school student in Washington is the latest person in the U.S. confirmed to have the coronavirus.",
+            "url": "https://abcnews.go.com/US/high-school-student-washington-latest-coronavirus-community-spread/story?id=69301655",
+            "urlToImage": "https://s.abcnews.com/images/US/1204040043-022920_hpMain_20200229-024812_16x9_992.jpg",
+            "publishedAt": "2020-02-29T11:45:01Z",
+            "content": "A high school student in the state of Washington is the latest U.S. resident to preliminary test positive for the coronavirus and is part of a growing group of victims that were diagnosed with COVID-19 due to community spread.\r\nHealth officials in Snohomish C\u2026 [+4273 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Liz Alesse",
+            "title": "Did Trump try to cut the CDC's budget as Democrats claim?: ANALYSIS",
+            "description": "Did President Trump try to cut the Centers for Disease Control's budget amid the COVID-19 crisis as Democrats claim? An ABC News analysis.",
+            "url": "https://abcnews.go.com/Politics/trump-cut-cdcs-budget-democrats-claim-analysis/story?id=69233170",
+            "urlToImage": "https://s.abcnews.com/images/US/cdc-headquarters-gty-rc-200228_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-29T00:36:19Z",
+            "content": "President Donald Trump is taking heat from Democrats for proposing budget cuts to the Centers for Disease Control and Prevention amid growing fears about a new coronavirus outbreak in the United States, but administration officials say CDC funding has steadil\u2026 [+5429 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Benjamin Siegel, Armando Garcia",
+            "title": "Campaign plans 2,400 events in 30 states ahead of Super Tuesday...",
+            "description": "Campaign plans 2,400 events in 30 states ahead of Super Tuesday... (First column, 8th story, link ) Related stories: Bernie or brokered: Dem race at critical crossroads... Big leads in California, Texas... WEEKEND: New Coalition Put to Test in S Carolina... A\u2026",
+            "url": "https://abcnews.go.com/Politics/bloomberg-campaign-plans-2400-events-30-states-ahead/story?id=69300673",
+            "urlToImage": "https://s.abcnews.com/images/Politics/1209355832_022920_hpMain_20200229-001811_16x9_992.jpg",
+            "publishedAt": "2020-02-29T14:07:38Z",
+            "content": "Former New York City Mayor Mike Bloomberg's campaign on Saturday will begin a massive voter outreach push, with plans to hold more than 2,400 events across 30 states ahead of Super Tuesday, ABC News has learned.\r\nThe mobilization drive, beginning as the rest \u2026 [+4394 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran Health Ministry spokesman says 43 dead amid 593 confirmed cases of the new coronavirus in the Islamic Republic",
+            "description": "Iran Health Ministry spokesman says 43 dead amid 593 confirmed cases of the new coronavirus in the Islamic Republic",
+            "url": "https://abcnews.go.com/International/wireStory/iran-health-ministry-spokesman-43-dead-amid-593-69302454",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T09:59:52Z",
+            "content": "TEHRAN, Iran -- \r\nIran Health Ministry spokesman says 43 dead amid 593 confirmed cases of the new coronavirus in the Islamic Republic."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Bahrain threatens untested from Iran with arrest amid virus",
+            "description": "Bahrain threatened legal prosecution against travelers who came from Iran and hadn't been tested for the new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/bahrain-threatens-untested-iran-arrest-amid-virus-69300053",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_94ee23d764144badaa0c72122abda7e1_16x9_992.jpg",
+            "publishedAt": "2020-02-29T05:01:31Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nBahrain on Saturday threatened legal prosecution against travelers who came from Iran and hadn't been tested for the new coronavirus, and also barred public gatherings for two weeks as confirmed cases across the wider Mideast \u2026 [+2245 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Health Ministry spokesman says Iran preparing for possibility of \u2018tens of thousands\u2019 coming to test for new coronavirus.",
+            "description": "Health Ministry spokesman says Iran preparing for possibility of \u2018tens of thousands\u2019 coming to test for new coronavirus.",
+            "url": "https://abcnews.go.com/International/wireStory/health-ministry-spokesman-iran-preparing-possibility-tens-thousands-69302620",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T10:31:17Z",
+            "content": "TEHRAN, Iran -- \r\nHealth Ministry spokesman says Iran preparing for possibility of tens of thousands coming to test for new coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Italian authorities report coronavirus cases are up to 1,128, including eight more deaths for a total of 29",
+            "description": "Italian authorities report coronavirus cases are up to 1,128, including eight more deaths for a total of 29",
+            "url": "https://abcnews.go.com/International/wireStory/italian-authorities-report-coronavirus-cases-1128-including-deaths-69306110",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T17:23:17Z",
+            "content": "MILAN -- \r\nItalian authorities report coronavirus cases are up to 1,128, including eight more deaths for a total of 29."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "GONZALO SOLANO Associated Press",
+            "title": "Ecuador reports 1st new virus case; Mexico confirms a third",
+            "description": "Officials in Ecuador have confirmed the first case of the new coronavirus in the South American nation and Mexico has reported a third case",
+            "url": "https://abcnews.go.com/International/wireStory/ecuador-reports-1st-virus-case-mexico-confirms-69306211",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_84b8fa29a7454131b41d4f8ca68f7e82_16x9_992.jpg",
+            "publishedAt": "2020-02-29T17:45:33Z",
+            "content": "QUITO, Ecuador -- \r\nOfficials in Ecuador on Saturday confirmed the first case of the new coronavirus in the South American nation and Mexico reported a third case.\r\nEcuador's Health Minister Catalina Andramu\u00f1o Zeballos said a 70-year-old Ecuadoran woman who l\u2026 [+2237 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Virus fears keep hundreds of cruise passengers at sea",
+            "description": "Operators of a British cruise ship that was turned away from its destination due to fears of the new coronavirus say they've chartered planes to ferry passengers home",
+            "url": "https://abcnews.go.com/International/wireStory/virus-fears-hundreds-cruise-passengers-sea-69308112",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T20:26:32Z",
+            "content": "MEXICO CITY -- \r\nOperators of a British cruise ship that was turned away from its destination due to fears of the new coronavirus said Saturday they have chartered planes to ferry passengers home but don't yet have permission to dock anywhere.\r\nThe Braemar, w\u2026 [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Trump says 22 patients in United States have coronavirus and more are likely",
+            "description": "Trump says 22 patients in United States have coronavirus and more are likely",
+            "url": "https://abcnews.go.com/Health/wireStory/trump-22-patients-united-states-coronavirus-69306930",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T19:02:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DARLENE SUPERVILLE Associated Press",
+            "title": "Trump to discuss coronavirus threat Saturday at White House",
+            "description": "President Donald Trump says he'll address the nation about the coronavirus threat",
+            "url": "https://abcnews.go.com/Health/wireStory/trump-discuss-coronavirus-threat-saturday-white-house-69306217",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_d6429293c1764bc28d8c3752d7017a7e_16x9_992.jpg",
+            "publishedAt": "2020-02-29T18:09:32Z",
+            "content": "WASHINGTON -- \r\nPresident Donald Trump said Saturday he'll address the nation about the coronavirus threat, after health officials disclosed a second case of coronavirus in the U.S. in someone who had not traveled internationally or had close contact with som\u2026 [+1736 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BRIAN MELLEY Associated Press",
+            "title": "Restaurants in LA's Koreatown reel amid coronavirus rumor",
+            "description": "Fears of the coronavirus combined with the speed and reach of social media can quickly cripple the healthiest of businesses",
+            "url": "https://abcnews.go.com/Health/wireStory/restaurants-las-koreatown-reel-amid-coronavirus-rumor-69300094",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T05:04:18Z",
+            "content": "LOS ANGELES -- \r\nIn a Koreatown restaurant known for its beef bone broth soup, the lunchtime crowd Friday was half its normal size. The reason was a virulent rumor about a customer with coronavirus.\r\nHan Bat Shul Lung Tang was one of five restaurants that los\u2026 [+4675 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Anger flares anew over France's divisive pension reforms",
+            "description": "France's government is invoking a sparingly used special power to push divisive pension reforms though parliament without a vote",
+            "url": "https://abcnews.go.com/International/wireStory/anger-flares-anew-frances-divisive-pension-reforms-69307405",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_520022451b3c4cd3a68e6bb799759e8a_16x9_992.jpg",
+            "publishedAt": "2020-02-29T19:23:22Z",
+            "content": "PARIS -- \r\nFrance's government invoked a sparingly used special power Saturday to push contested pension reforms though parliament without a vote by furious opposition lawmakers. \r\nPrime Minister Edouard Philippe's surprise announcement that he was cutting sh\u2026 [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ROBERT JABLON, LISA BAUMANN and ANDREW SELSKY Associated Press",
+            "title": "New coronavirus cases of unknown origin found on West Coast",
+            "description": "Health officials in California, Oregon and Washington state worried about the novel coronavirus spreading through West Coast communities after confirming three patients were infected by unknown means",
+            "url": "https://abcnews.go.com/US/wireStory/coronavirus-cases-unknown-origin-found-west-coast-69301250",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_4dd20c421d0145509e93578f43897925_16x9_992.jpg",
+            "publishedAt": "2020-02-29T06:00:55Z",
+            "content": "Health officials in California, Oregon and Washington state worried about the novel coronavirus spreading through West Coast communities after confirming three patients were infected by unknown means.\r\nThe patients an older Northern California woman with chro\u2026 [+7687 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ROBERT JABLON and AMY TAXIN Associated Press",
+            "title": "Feds won't put quarantined passengers in Southern California",
+            "description": "The federal government says it won\u2019t try to move dozens of cruise ship passengers quarantined because of coronavirus fears to a facility in densely populated Southern California",
+            "url": "https://abcnews.go.com/US/wireStory/feds-put-quarantined-passengers-southern-california-69297279",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T01:35:17Z",
+            "content": "LOS ANGELES -- \r\nThe federal government announced Friday that it wont try to move dozens of cruise ship passengers quarantined because of coronavirus fears to a facility in densely populated Southern California.\r\nA judge was expected to rule next Monday on wh\u2026 [+960 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CATHY BUSSEWITZ AP Business Writer",
+            "title": "Oil prices fall as coronavirus spreads outside China",
+            "description": "With the viral outbreak spreading to more countries, the price of oil has dropped precipitously as global demand weakens even further",
+            "url": "https://abcnews.go.com/Travel/wireStory/oil-prices-fall-coronavirus-spreads-china-69303386",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T12:49:32Z",
+            "content": "NEW YORK -- \r\nWith the viral outbreak spreading to more countries, the price of oil has dropped precipitously as global demand weakens even further.\r\nThat has sent shares tumbling for oil giants like Exxon and Chevron while smaller producers with idling rigs \u2026 [+5709 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLEEN BARRY Associated Press",
+            "title": "Italy hoteliers: US travel advisory 'final blow' to tourism",
+            "description": "An Italian hotel federation says a U.S. government advisory urging Americans to reconsider travel to Italy due to the spread of a coronavirus is the \u201cfinal blow\u201d to the nation's tourism industry",
+            "url": "https://abcnews.go.com/Travel/wireStory/italy-hoteliers-us-travel-advisory-final-blow-tourism-69303384",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3e92153d2cb04d4eb609922a9c9022a9_16x9_992.jpg",
+            "publishedAt": "2020-02-29T12:47:32Z",
+            "content": "MILAN -- \r\nA U.S. government advisory urging Americans to reconsider travel to Italy due to the spread of a new virus is the final blow to the nation's tourism industry, the head of Italy's hotel federation said Saturday. \r\nLate Friday, the U.S. government is\u2026 [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW SELSKY Associated Press",
+            "title": "Oregon has 1st coronavirus case: elementary school employee",
+            "description": "Oregon's first corinavirus case emerged on Friday",
+            "url": "https://abcnews.go.com/Health/wireStory/oregon-1st-coronavirus-case-elementary-school-employee-69298619",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_7b91e7f0615843cba01c0760482a26f2_16x9_992.jpg",
+            "publishedAt": "2020-02-29T03:07:47Z",
+            "content": "SALEM, Ore. -- \r\nOregon's first corinavirus case emerged on Friday, and the infected person worked at an elementary school in the Portland area, which will be temporarily closed, authorities said.\r\nThe case was not a person under monitoring or a person under \u2026 [+4000 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARI YAMAGUCHI Associated Press",
+            "title": "Japan's leader announces $2.5B package to help fight virus",
+            "description": "Japanese Prime Minister Shinzo Abe has announced a $2.5 billion emergency economic package to help fight the coronavirus as he seeks the public's support for his government's fight against the outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/japans-leader-announces-25b-package-fight-virus-69304520",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_e17b768905014ebe8f3582172d530245_16x9_992.jpg",
+            "publishedAt": "2020-02-29T14:43:49Z",
+            "content": "TOKYO -- \r\nJapanese Prime Minister Shinzo Abe on Saturday announced a 270 billion yen ($2.5 billion) emergency economic package to help fight the coronavirus as he sought the public's support for his government's fight against the outbreak.\r\nAbe said at a new\u2026 [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARI YAMAGUCHI Associated Press",
+            "title": "Virus effects take hold as Trump calls criticisms a 'hoax'",
+            "description": "The effects of the coronavirus outbreak are taking hold worldwide, even as President Donald Trump denounces criticisms of his response to the threat as a \u201choax\" cooked up by his political enemies",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-effects-hold-trump-calls-criticisms-hoax-69300825",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c6c4daff53c449bc86a9959b0586c153_16x9_992.jpg",
+            "publishedAt": "2020-02-29T05:36:05Z",
+            "content": "TOKYO -- \r\nThe coronavirus outbreak's impact on the world economy grew more alarming on Saturday, even as President Donald Trump denounced criticisms of his response to the threat as a hoax\" cooked up by his political enemies. \r\nNew data released by manufactu\u2026 [+7701 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANIRUDDHA GHOSAL and YANAN WANG Associated Press",
+            "title": "As virus spreads, other countries can learn from China",
+            "description": "As the coronavirus spreads around the world, International health authorities are hoping countries can learn a few lessons from China _ namely, that quarantines can be effective and acting fast is crucial",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-spreads-countries-learn-china-69300925",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-29T05:32:48Z",
+            "content": "BEIJING -- \r\nAs the new coronavirus spread rapidly in central China, the countrys authoritarian government took a very authoritarian step: It ordered the unprecedented lockdown of 60 million people in the hardest-hit province.\r\nThe shutdown of public transpor\u2026 [+4355 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Pope cancels audiences for third day with apparent cold",
+            "description": "Pope Francis has canceled official engagements for the third day in a row as he battles an apparent cold",
+            "url": "https://abcnews.go.com/International/wireStory/pope-cancels-audiences-day-apparent-cold-69302655",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_720135d0f9a04c63a402805b6ec71e3c_16x9_992.jpg",
+            "publishedAt": "2020-02-29T10:36:32Z",
+            "content": "VATICAN CITY -- \r\nPope Francis canceled official engagements for the third day in a row Saturday as he battled an apparent cold.\r\nThe 83-year-old pope, who lost part of a lung to a respiratory illness as a young man, has never canceled so many official audien\u2026 [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW SELSKY Associated Press",
+            "title": "Wash. state sees 1st virus death in US, declares emergency",
+            "description": "The governor of Washington state declared a state of emergency Saturday after a man died there of COVID-19, the first such reported death in the United States",
+            "url": "https://abcnews.go.com/Health/wireStory/wash-state-sees-1st-virus-death-us-declares-69309864",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_f225a2687c89443e85c1ef2e7ce0ba46_16x9_992.jpg",
+            "publishedAt": "2020-02-29T22:18:30Z",
+            "content": "The governor of Washington declared a state of emergency Saturday after a man died there of COVID-19, the first such reported death in the United States. More than 50 people in a nursing facility are sick and being tested for the virus. \r\nGov. Jay Inslee dire\u2026 [+6199 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BY THOMAS ADAMSON AP Fashion Writer",
+            "title": "Westwood mixes message of ecology with regal Paris fashion",
+            "description": "A singer at Vivienne Westwood's eco-minded Paris Fashion Week show serenaded guests about fighting for the environment",
+            "url": "https://abcnews.go.com/International/wireStory/westwood-mixes-message-ecology-regal-paris-fashion-69306492",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_5cdc58203a194ffcaf772851d5f74679_16x9_992.jpg",
+            "publishedAt": "2020-02-29T18:40:06Z",
+            "content": "PARIS -- \r\nA singer at Vivienne Westwood's eco-minded Paris Fashion Week show serenaded guests about fighting for the environment. Elie Saab's 1970's-inspired show was a study in the bow collar. Agnes B. canceled her show scheduled for Saturday in response to\u2026 [+4253 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus: Over 85,000 infected globally, over 2,900 deaths",
+            "description": "A new virus that first emerged in China has infected more than 85,000 people and caused more than 2,900 deaths",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-85000-infected-globally-2900-deaths-69302654",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ccf59cbfbddd43b1a2c3d1eb43c25bb0_16x9_992.jpg",
+            "publishedAt": "2020-02-29T10:33:47Z",
+            "content": "A viral outbreak that began in China has infected more than 85,000 people globally. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest figures:\r\nMainland China:\u2026 [+1050 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KIM TONG-HYUNG Associated Press",
+            "title": "North Korean leader calls for stronger anti-virus efforts",
+            "description": "North Korean leader Kim Jong Un has called for stronger anti-virus efforts to guard against COVID-19, saying there will be \u201cserious consequences\u201d if the illness spreads to the country",
+            "url": "https://abcnews.go.com/Health/wireStory/north-korean-leader-calls-stronger-anti-virus-efforts-69296970",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_10a332d97c62421a910baffc204cc272_16x9_992.jpg",
+            "publishedAt": "2020-02-29T01:20:52Z",
+            "content": "SEOUL, South Korea -- \r\nNorth Korean leader Kim Jong Un has called for stronger anti-virus efforts to guard against COVID-19, saying there will be serious consequences if the illness spreads to the country. \r\nDuring a ruling party meeting, Kim called for the \u2026 [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Protesters decry Cypriot crossing closures over virus",
+            "description": "Dozens of people have pushed aside police barriers to protest the closing of a crossing point in the capital of ethnically divided Cyprus",
+            "url": "https://abcnews.go.com/Health/wireStory/protesters-decry-cypriot-crossing-closures-virus-69303501",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_5e962c862f6d4634a7db5d0c64744923_16x9_992.jpg",
+            "publishedAt": "2020-02-29T13:14:55Z",
+            "content": "NICOSIA, Cyprus -- \r\nDozens of people pushed aside police barriers on Saturday to protest the closing of a crossing point in the medieval core of the capital of ethnically divided Cyprus. \r\nProtesters chanted and held aloft placards to voice their opposition \u2026 [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JONATHAN LEMIRE and JOSH BOAK Associated Press",
+            "title": "Trump tries to shift blame as virus outbreak rattles markets",
+            "description": "Who is to blame for the plunge in financial markets",
+            "url": "https://abcnews.go.com/Business/wireStory/trump-shift-blame-virus-outbreak-rattles-markets-69300145",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3aa52cb1e4e1466ea426fb58c1d0b3e2_16x9_992.jpg",
+            "publishedAt": "2020-02-29T05:06:04Z",
+            "content": "WASHINGTON -- \r\nAs global markets plunged amid growing fears about the coronavirus outbreak, President Donald Trump and his allies pulled from a familiar playbook Friday and blamed others for the slide. It's a challenging sell for a president who has lashed h\u2026 [+6000 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "France banning large gatherings to slow spread of virus",
+            "description": "France is banning all large indoor public gatherings to slow the spread of a coronavirus epidemic",
+            "url": "https://abcnews.go.com/International/wireStory/france-banning-large-gatherings-slow-spread-virus-69304453",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_53b8d367f9a444e28391b1c75ab586df_16x9_992.jpg",
+            "publishedAt": "2020-02-29T14:38:47Z",
+            "content": "PARIS -- \r\nFrance is banning all indoor public gatherings of more than 5,000 people to slow the spread of a coronavirus epidemic.\r\nThe cancellation of large gatherings in confined spaces was announced by Health Minister Olivier Veran after special government \u2026 [+377 chars]"
+        }
+    ]
+}

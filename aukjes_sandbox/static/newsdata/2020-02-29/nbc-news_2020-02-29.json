@@ -1,0 +1,526 @@
+{
+    "status": "ok",
+    "totalResults": 40,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lauren Egan",
+            "title": "Trump calls coronavirus Democrats' 'new hoax'",
+            "description": "President Donald Trump accused Democrats of \u201cpoliticizing\u201d the deadly coronavirus during a campaign rally here on Friday, claiming that the outbreak is \u201ctheir new hoax\u201d as he continued to downplay the risk in the U.S.",
+            "url": "https://www.nbcnews.com/politics/donald-trump/trump-calls-coronavirus-democrats-new-hoax-n1145721",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3249561/200228-donald-trump-maga-rally-south-carolina-ac-732p_f6c39d434bd113524795711dc481a0f6.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T02:35:55Z",
+            "content": "NORTH CHARLESTON, S.C. President Donald Trump accused Democrats of politicizing the deadly coronavirus during a campaign rally here on Friday, claiming that the outbreak is their new hoax as he continued to downplay the risk in the U.S.\r\nNow the Democrats are\u2026 [+1688 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nicole Acevedo and The Associated Press",
+            "title": "To fight coronavirus, France urges no more greetings with kisses",
+            "description": "The French health minister said he is recommending people cut back on \"la bise,\" the custom of giving greetings with kisses, or air kisses, on the cheeks.",
+            "url": "https://www.nbcnews.com/news/world/fight-coronavirus-france-urges-no-more-greetings-kisses-bans-large-n1145906",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3249956/200229-paris-al-1155_2f33add3dea53c769f911b09e93d108b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T17:40:00Z",
+            "content": "France announced Saturday that it is banning gatherings of more than 5,000 people in confined spaces and recommending that people stop greeting each other with kisses.\r\nThe announcement comes as the French government ramps up its efforts to slow the spread of\u2026 [+782 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reed Galen",
+            "title": "What Trump's coronavirus response shows about the problems with his White House",
+            "description": "Everything about our politics, and now our public health, is dictated by the whims, fears and sometimes fantasies of Trump.",
+            "url": "https://www.nbcnews.com/think/opinion/trump-s-coronavirus-response-highlights-why-his-white-house-always-ncna1145071",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_09/3247191/200227-donald-trump-mike-pence-ew-219p_51bf91137fab0bdebeca7865ed6e5d06.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T09:45:11Z",
+            "content": "As concern about the COVID-19, the new coronavirus, grows globally and here at home, the White Houses response has brought into stark relief why being president is about much more than performance art, using a bullhorn to shout down opponents and staging rall\u2026 [+6826 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Trump accuses Democrats, media of politicizing coronavirus",
+            "description": "At a campaign rally in South Carolina, President Trump said the press was in \u201chysteria mode\u201d and accused Democrats of politicizing the response to the new coronavirus.",
+            "url": "https://www.nbcnews.com/video/trump-accuses-democrats-media-of-politicizing-coronavirus-79651909625",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/f_mo_la_trump_virus_200228.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T00:45:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "South Korea mobilizes army in effort to stop spread of coronavirus",
+            "description": "Soldiers in South Korea were deployed to spray disinfectant in Daegu, a city at the center of the coronavirus outbreak.",
+            "url": "https://www.nbcnews.com/video/south-korea-mobilizes-army-in-effort-to-stop-spread-of-coronavirus-79711301555",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/f_tov_lon_southkoreacorona_200229.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T19:32:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Health officials say U.S. coronavirus death was man with underlying issues",
+            "description": "Washington state health officials provide an update on the first U.S. coronavirus death and say that the patient was a man with underlying health issues.",
+            "url": "https://www.nbcnews.com/video/washington-state-officials-say-first-u-s-coronavirus-death-was-man-with-underlying-issues-79720517637",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202002/1204217803.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T22:13:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "White House announces new travel restrictions over coronavirus concerns",
+            "description": "President Trump Saturday afternoon held a press conference to announce new measures to combat the coronavirus and to ask Americans to remain calm. Vice President Pence said the U.S. would bar foreign nationals who have visited Iran in the last 14-days, and ur\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/white-house-announces-new-travel-restrictions-over-coronavirus-concerns-79723077559",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_kod_coronavirus_white_house_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T23:37:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "How hospitals are preparing for potential coronavirus patients",
+            "description": "NBC\u2019s Steve Patterson visits a medical center in Oakland, California, where staff have prepared an entire floor to deal with a potential coronavirus outbreak. Staff are conducting drills using isolation rooms meant to contain the spread of infections.",
+            "url": "https://www.nbcnews.com/nightly-news/video/how-hospitals-are-preparing-for-potential-coronavirus-patients-79723589513",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_spa_coronavirus_hospital_prep_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T23:56:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "First person dies from coronavirus in the U.S. in Washington state",
+            "description": "The CDC says the man was likely infected from community spread. Two other new cases were identified at a nursing facility in the state, also from suspected community spread, where officials now believe there could be an outbreak.",
+            "url": "https://www.nbcnews.com/nightly-news/video/first-person-dies-from-coronavirus-in-the-u-s-in-washington-state-79722053839",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202002/nn_gsc_coronavirus_200229_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T23:35:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nicole Acevedo",
+            "title": "First coronavirus death in the U.S. happens in Washington state",
+            "description": "Health officials said on Saturday a coronavirus patient has died in Washington state. This would be the first coronavirus-related death in the United States.",
+            "url": "https://www.nbcnews.com/news/us-news/1st-coronavirus-death-u-s-officials-say-n1145931",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3248291/200228-coronavirus-al-0932_5d0e4002e9d07ae2f36d7ee6d7402cf0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T18:19:20Z",
+            "content": "Health officials in Washington state said on Saturday a coronavirus patient has died.\r\nThe death is the first from coronavirus illness COVID-19 in the United States.\r\nLet our news meet your inbox. The news and stories that matters, delivered weekday mornings.\u2026 [+1089 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "France bans large gatherings to slow spread of coronavirus",
+            "description": "France bans gatherings of more than 5,000 due to coronavirus",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145831",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T15:50:00Z",
+            "content": "The French government on Saturday said it is banning public gatherings of more than 5,000 people in an effort to slow the spread of coronavirus, an announcement that comes as the country reports 16 new cases.\r\nAll public gatherings of more than 5,000 people i\u2026 [+10066 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nicole Acevedo",
+            "title": "Washington's governor declares state of emergency after coronavirus death",
+            "description": "Washington state declares state of emergency after coronavirus death",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145996",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T21:00:54Z",
+            "content": "Washington Gov. Jay Inslee\u00a0declared a state of emergency\u00a0to direct agencies to use all resources necessary to prepare for and respond to and outbreak after\u00a0the nation's first death from\u00a0coronavirus\u00a0illness COVID-19 occurred in the state.\r\nThis will allow us t\u2026 [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nicole Acevedo",
+            "title": "First coronavirus death in U.S. occurs in Washington state",
+            "description": "First coronavirus death in U.S. occurs in Washington state",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145941",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T18:31:00Z",
+            "content": "To speed up coronavirus testing the FDA will allow use of labs\r\nThe U.S. Food and Drug Administration (FDA) on Saturday said it will allow laboratories to immediately use tests they have developed and validated to achieve more rapid testing capacity for the c\u2026 [+5969 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Kuwait urges citizens to avoid traveling",
+            "description": "Kuwait has urged its citizens to avoid traveling over concerns about coronavirus",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145796",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T09:12:30Z",
+            "content": "Kuwait has urged its citizens to avoid traveling over concerns of coronavirus contamination, a health ministry official told a media conference Saturday.\r\nThe Gulf state has not registered any new coronavirus infections over the past 24 hours, she said.\r\nThe \u2026 [+9954 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Associated Press",
+            "title": "Kim Jong Un says there will be 'serious consequences' if coronavirus spreads in North Korea",
+            "description": "Kim Jong Un says there will be 'serious consequences' if coronavirus spreads in North Korea",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145806",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T10:49:06Z",
+            "content": "North Korean leader Kim Jong Un has called for stronger anti-virus efforts to guard against COVID-19, saying there will be \"serious consequences\" if the illness spreads to the country.\r\nDuring a ruling party meeting, Kim called for the country's anti-epidemic\u2026 [+10371 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nicole Acevedo",
+            "title": "Ecuador announces its first coronavirus case",
+            "description": "Ecuador's Health Ministry confirms the country's first case of coronavirus case.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145896",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T16:06:00Z",
+            "content": "Ecuador's Health Ministry said Saturday morning that it has confirmed the country's first case of coronavirus.\r\nMinister of Public Health Catalina\u00a0Andramu\u00f1o said at\u00a0a press conference\u00a0in Spanish that an Ecuadorian citizen who resides in Spain arrived in Ecuad\u2026 [+9102 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "China reports plunge in manufacturing activity",
+            "description": "Manufacturing activity in China has been weakening as the coronavirus continues spreading.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145926",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T22:26:00Z",
+            "content": "Factory activity in\u00a0China\u00a0contracted at the fastest pace on record in February, highlighting the damage from the coronavirus outbreak on the worlds second-largest economy,\u00a0CNBC reported.\r\nChinas official Purchasing Managers Index fell to a record low of 35.7 \u2026 [+5098 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "How long does the new coronavirus remain active on surfaces?",
+            "description": "How long does the new coronavirus remain active on surfaces? Researchers are working to find out.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145971",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T21:21:00Z",
+            "content": "As a new coronavirus spreads quickly around the world, U.S. health officials say they are \"aggressively\" assessing how long it can survive on surfaces to better understand the risk of transmission.\r\nBased on what is known about similar coronaviruses, disease \u2026 [+5074 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters, Amin Hossein Khodadadi",
+            "title": "Iran's coronavirus death toll rises to 43, the highest outside of China",
+            "description": "Iran's coronavirus death toll rises to 43, the highest outside of China",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145821",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T14:51:02Z",
+            "content": "Irans death toll from the coronavirus outbreak has reached 43, a\u00a0spokesman for the country's Health Ministry,\u00a0told state TV on Saturday, adding that the number of infected people across the country has reached 593.\r\nUnfortunately nine people died of the virus\u2026 [+10375 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Joe Murphy",
+            "title": "Coronavirus by the numbers, Feb. 27",
+            "description": "As of now: The U.S. is at 63 cases, which includes 9 recoveries. Globally, 84,094 cases have been confirmed, this includes more than 39,000 recoveries and more than 2,900 deaths.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145706",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T01:41:01Z",
+            "content": "As of now: The U.S. is at 63 cases, which includes nine recoveries. Globally, 84,094 cases have been confirmed, this includes more than 39,000 recoveries and more than 2,900 deaths.\r\nIn the last 24 hours, more than 700 confirmed cases, more than 50 deaths and\u2026 [+7248 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke",
+            "title": "UK cases of coronavirus climb to 23",
+            "description": "The British Department of Health said the number of coronavirus cases in the United Kingdom had risen to 23, as of Saturday at 9 a.m.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145836",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T15:29:00Z",
+            "content": "The British Department of Health said the number of coronavirus cases in the United Kingdom had risen to 23, as of Saturday at 9 a.m.\u00a0\r\nMore than 10,480 people in the county have been tested for the virus, with 10,460 of them confirmed as negative, according \u2026 [+10724 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Oregon reports presumptive case of coronavirus",
+            "description": "Oregon has its first \"presumptive case\" of COVID-19, but Centers for Disease Control and Prevention will confirm the positive result from a local test, health authorities said Friday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145741",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T02:52:00Z",
+            "content": "Oregon health authorities say that they have the states first presumptive case of the coronavirus illness known as COVID-19 and that the patient has no known travel exposure and is likely\u00a0an instance of community spread.\r\nA local test of the person, who lives\u2026 [+7945 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Democratic candidates hit Trump's coronavirus 'hoax' claim",
+            "description": "Joe Biden called Trump's claim that the coronavirus is the Democrats' \"new hoax\" \"bizarre\" and \"absolutely dangerous\"",
+            "url": "https://www.nbcnews.com/politics/2020-election/democratic-candidates-hit-trump-s-coronavirus-hoax-claim-n1145911",
+            "urlToImage": "https://static.euronews.com/articles/4536494/1000x563_nbc-200229-donald-trump-al-1151_b9d970468a8abe71468a62dcc1a42eee.jpg",
+            "publishedAt": "2020-02-29T17:45:23Z",
+            "content": "Democratic presidential candidates on Saturday ripped Donald Trump's claim that the coronavirusis the Democrats' \"new hoax,\" calling the charge \"dangerous\" and \"disturbing.\"\r\nTrump made the assertion during a rally in South CarolinaFriday night, where he told\u2026 [+3881 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Maia Davis",
+            "title": "Trump announces additional travel restrictions and warnings",
+            "description": "President Donald Trump and Vice President Mike Pence on Saturday announced additional travel restrictions involving Iran and increased warnings about travel to Italy and South Korea to combat the coronavirus.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145966",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T20:03:43Z",
+            "content": "President Donald Trump and Vice President Mike Pence on Saturday announced additional travel restrictions involving Iran and increased warnings about travel to Italy and South Korea to combat the coronavirus.\r\nThe announcement at a White House press conferenc\u2026 [+5286 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke",
+            "title": "UConn cancels official travel to Italy, urges study-abroad students to return to U.S.",
+            "description": "The University of Connecticut said Saturday it was canceling all official travel to Italy and urged students already in the country for its study-abroad program to return to the United States as soon as possible.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145976",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T22:30:17Z",
+            "content": "The\u00a0University of Connecticut said Saturday it was canceling all official travel to Italy and urged students already in the country for the university's study-abroad program to return to the United States as soon as possible.\u00a0\r\nMore than 300 students at UConn\u2026 [+5888 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Game Developers Conference postpones San Francisco event amid coronavirus spread",
+            "description": "The Game Developers Conference planned next month in San Francisco has been postponed amid the spread of the coronavirus illness known as COVID-19. Amazon Web Services and Microsoft had previously said they would withdraw over fears of the virus.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145711",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T01:59:00Z",
+            "content": "Organizers of the Game Developers Conference scheduled for next month in San Francisco have postponed the event amid a coronavirus outbreak that has spread from China to countries around the world.\r\nOrganizers in an announcement Friday did not explicitly ment\u2026 [+7865 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "The scene in North Charleston",
+            "description": "Voters are hitting the polls in South Carolina",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145946",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T18:46:41Z",
+            "content": "First coronavirus death in U.S. occurs in Washington state\r\nHealth officials in Washington state said on Saturday\u00a0a coronavirus patient has died.\r\nThe death is the first from coronavirus illness COVID-19 in the United States.\r\nRead the full story here.\r\nTo sp\u2026 [+6223 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dennis Romero, Todd Miyazawa",
+            "title": "California town wins fight to keep out coronavirus patients from cruise ship",
+            "description": "In a court filing late Friday the federal government said it no longer wanted to use a Costa Mesa, California site to house coronavirus patients.",
+            "url": "https://www.nbcnews.com/news/us-news/california-town-wins-fight-keep-out-coronavirus-patients-cruise-ship-n1145756",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_09/3249711/200228-coronavirus-california-ac-1158p_f9b5af880e38f7001beed04669ad0b15.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T05:47:00Z",
+            "content": "The federal government said it has canceled plans to use an empty Orange County, California, building to house 35 or more Golden State coronavirus patients who were evacuated from the virus-plagued Diamond Princess cruise ship in Asia.\r\nA government filing Fr\u2026 [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "South Korea urges people to stay indoors after biggest daily spike in cases",
+            "description": "South Korea urges people to stay indoors after biggest daily spike in coronavirus cases, with 594 new cases taking the tally to 2,931.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145791",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T08:24:46Z",
+            "content": "South Korea urged citizens on Saturday to stay indoors as it warned of a \"critical moment\" in its battle on the coronavirus after recording the biggest daily jump in infections, with 594 new cases taking the tally to 2,931.\r\nThe country is grappling with the \u2026 [+10287 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke",
+            "title": "Factory workers in China produce hazardous material suits",
+            "description": "The Zhejiang Ugly Duck Industry garment factory in Wenzhou had to stop its production of winter coats due to the coronavirus.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145876",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T15:59:00Z",
+            "content": "France bans large gatherings to slow spread of coronavirus\r\nThe French government on Saturday said it is banning public gatherings of more than 5,000 people in an effort to slow the spread of coronavirus, an announcement that comes as the country reports 16 n\u2026 [+9385 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Josh Lederman, Carol E. Lee",
+            "title": "U.S. postpones Asian summit in Las Vegas amid coronavirus fears",
+            "description": "The U.S. has called off a special summit of ASEAN, the Association of Southeast Asian Nations, that had been scheduled to be held in Las Vegas next month over fears of the novel coronavirus illness.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145681",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T01:18:02Z",
+            "content": "WASHINGTON The Trump administration has called off a major summit of Asian leaders next month in Las Vegas amid growing alarm over\u00a0the coronavirus, two U.S. officials tell NBC News.\r\nThe United States had planned to host a special summit of ASEAN, the Associa\u2026 [+7211 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "To speed up coronavirus testing the FDA will allow use of labs",
+            "description": "The U.S. Food and Drug Administration (FDA) on Saturday said it will allow laboratories to immediately use tests they have developed and validated to achieve more rapid testing capacity for the coronavirus in the country.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145901",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T18:28:16Z",
+            "content": "The U.S. Food and Drug Administration (FDA) on Saturday said it will allow laboratories to immediately use tests they have developed and validated to achieve more rapid testing capacity for the coronavirus.\r\nUnder this policy, we expect certain laboratories w\u2026 [+6575 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Mosheh Gains, Stella Kim",
+            "title": "Navy's Pacific Fleet to schedule 14 days between ports amid coronavirus spread",
+            "description": "The U.S. Navy's Pacific Fleet will schedule a minimum of 14 days between ports in order to monitor for the coronavirus illness COVID-19, an defense official said. There are no indications any Navy personnel have it.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145751",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T03:40:36Z",
+            "content": "The U.S. Navys Pacific Fleet will schedule a minimum of 14 days between ports in order to monitor for symptoms of the coronavirus illness COVID-19, a defense official said.\r\nThere are no indications that any Navy personnel has contracted the coronavirus illne\u2026 [+8764 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "2 new presumptive cases reported in Washington state, including high school student",
+            "description": "There are two new presumptive positive cases of COVID-19 in Washington state, including a high school student who has no known travel history. That student is doing well. A woman who returned to Seattle from South Korea is also doing well, officials said.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145766",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T04:48:00Z",
+            "content": "Washington state health officials on Friday announced two new preliminary positive cases of the coronavirus illness COVID-19, including a high school student with no known travel history or exposure to known infected people.\r\nThe cases are being classified as\u2026 [+9705 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Two students at Palo Alto school district sent home after possible parent exposure",
+            "description": "Two students at Palo Alto schools were sent home after a parent may have been exposed to COVID-19, the district said. There are no cases of any students, staff or parents with reported symptoms, the superintendent said.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145731",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T03:11:00Z",
+            "content": "Two students in the Palo Alto Unified School District in Californias Santa Clara County were sent home and will be excluded from school after a parent may have been exposed to the coronavirus illness COVID-19, the superintendent said.\r\nSuperintendent Don Aust\u2026 [+8265 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dennis Romero",
+            "title": "California town wins fight to keep out coronavirus patients from cruise ship",
+            "description": "The federal government said it would no longer seek to send patients to a former assisted living center in the center of California's Costa Mesa after the city sued.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145776",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T05:52:31Z",
+            "content": "2 new presumptive cases reported in Washington state, including high school student\r\nWashington state health officials on Friday announced two new preliminary positive cases of the coronavirus illness COVID-19, including a high school student with no known tr\u2026 [+8670 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniella Silva, Suzanne Ciechalski, Corky Siemaszko",
+            "title": "Semester at Sea students fear being stuck on ship as coronavirus spreads around globe",
+            "description": "Students in the Semester at Sea program fear being stuck on a ship as they have been denied some ports due to the spread of the coronavirus illness COVID-19 that has been spreading to countries around the world.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145701",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T01:50:00Z",
+            "content": "Some 550 students taking part in the venerable\u00a0Semester at Sea program\u00a0have been trapped on a ship for about two weeks amid the spread of the coronavirus illness known as COVID-19.\r\n\"We feel completely confined, there's nothing around us, student Kylie Menish\u2026 [+7859 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Trump to hold 1:30 p.m. press conference on coronavirus",
+            "description": "Watch the livestream on nbcnews.com",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1145916",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T17:28:04Z",
+            "content": "Ecuador announces its first coronavirus case\r\nEcuador's Health Ministry said Saturday morning that it has confirmed the country's first case of coronavirus.\r\nMinister of Public Health Catalina\u00a0Andramu\u00f1o said at\u00a0a press conference\u00a0in Spanish that an Ecuadorian\u2026 [+8023 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Number of coronavirus cases from unknown source growing in U.S.",
+            "description": "Three new presumptive or confirmed COVID-19 cases in the U.S. were announced Friday in which the source of the infection is not known, bringing that number to four.",
+            "url": "https://www.nbcnews.com/news/us-news/number-coronavirus-cases-unknown-source-growing-u-s-n1145781",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_09/3249766/1208884349_3e989c6a3f3204b978b0d3d25b9b50c1.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T07:21:00Z",
+            "content": "Three new confirmed or presumptive cases of the coronavirus illness COVID-19 contracted from an unknown source were reported Friday, bringing the total number of what could be \"community spread\" cases in the United States to four.\r\nThe patients from these fou\u2026 [+3515 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Trump to give update as first death in U.S. from virus is announced",
+            "description": "The president announced the briefing following reports of additional cases in the United States.",
+            "url": "https://www.nbcnews.com/politics/donald-trump/coronavirus-trump-give-update-white-house-saturday-n1145921",
+            "urlToImage": "https://static.euronews.com/articles/4536552/1000x563_nbc-200227-donald-trump-mike-pence-ew-219p_51bf91137fab0bdebeca7865ed6e5d06.jpg",
+            "publishedAt": "2020-02-29T18:17:52Z",
+            "content": "President Donald Trump announced he'd hold a press briefing on the international coronavirus outbreak at the White House on Saturday afternoon as health officials in Washington state announced the first death in the U.S. from the virus.\r\nThe unexpected announ\u2026 [+1260 chars]"
+        }
+    ]
+}

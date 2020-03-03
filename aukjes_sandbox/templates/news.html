@@ -22,11 +22,9 @@
 
     <!-- d3 JavaScript -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
-    <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
-
-    <!-- Leaflet-Choropleth JavaScript -->
-    <!-- <script type="text/javascript" src="static/js/choropleth.js"></script> -->
-
+    <!-- Moment Javascript-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+      
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
@@ -42,56 +40,109 @@
             <div class="card" style="width: 100%">
               <div class="card-body">
                 <div class="jumbotron text-center">
-                  <h1>Corona Spread - News</h1>
-                  <p><i>Let's see how this virus spreads</i></p>
+                  <h1>Corona Spread - Worldwide</h1>
+                  <p><i><div class="slidecontainer">
+                    <input type="range" min="1" max='42' steps="1" value="1" class="slider" id="date_slider">
+                    <br><output></output>
+                  </div></i></p>         
                   <p><a class="btn btn-primary btn-lg" href="/" role="button">World</a>
                     <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
-                    <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
-                    <a class="btn btn-primary btn-lg" href="/news" role="button">news</a></p>
+                    <!-- <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a> -->
+                    <!-- <a class="btn btn-primary btn-lg" href="/news" role="button">news</a></p> -->
                 </div>
               </div>
             </div>
           </div>
         </div>
         <br>
-    <!-- *********************SECOND ROW*********************************   -->    
+    <!-- *********************FOURTH ROW - NEWS*********************************   -->
+        <!-- ############################################ -->
+        <!-- ########## NEWS GOES HERE ################### -->
+        <!-- ############################################ -->
+
         <div class="row">
-          <div class="col-lg-8 col-sm-12">
+          <div class="col-lg-4 col-sm-12">
             <div class="card" style="width: 100%">
+              <div class="card-header">
+                <h3 style="text-align: center">Corona Facts</h3>
+                <p style="text-align: right">from CNN <a href=www.cnn.com">www.cnn.com</a></p>
+              </div>
+              <br>
               <div class="card-body">
-          <!-- ############################################ -->
-          <!-- ########## INSERT MAP HERE ################# -->
-          <!-- ############################################ -->
-                <div id="map"></div>      
+                <div id="cnn_facts"></div>
               </div>
             </div>
-            <br>
           </div>
-        </div>
-        <!-- <br> -->
-    <!-- *********************THRID ROW*********************************   -->
-        <div class="row">
           <div class= "col-lg-8 col-sm-12">
-            <br>
             <div class="card" style="width: 100%">
+              <!-- The banner message is modified by the newsrender.js based on the date / news source selection -->
+              <div class="card-header">
+                <h3 id="news-banner" class="text-left">Corona News of the Day</h3>
+              </div>
+
+              <!-- Selector for a news source.  newsrender.js listens for on change event-->
+              <div class="input-group mb-1">
+                <div class="input-group-prepend">
+                  <label class="input-group-text" for="inputGroupSelect01">Select a News Source</label>
+                </div>
+                <!-- Will update newsrender.js to set these options automatically. but this demos for now-->
+                <select class="custom-select" id="news_source">
+                  <option selected>Choose...</option>
+                  <option value="bbc-news">BBC News</option>
+                  <option value="newsweek">Newsweek</option>
+                  <option value="the-washington-post">The Washington Post</option>
+                  <option value="the-wall-street-journal">The Wall Street Journal</option>
+                  <option value="al-jazeera-english">Al Jazeera English</option>
+                  <option value="medical-news-today">Medical News Today</option>
+                </select>
+              </div>
+              
+              <!-- Selector for date.  newsrender.js listens for on change event -->
+              <!-- when time slider is integrated, we can hide this and update newsrender.js to listen for change in date in timeslider-->
+              <div class="input-group mb-1">
+                <div class="input-group-append">
+                  <label class="input-group-text" for="inputGroupSelect02">Select a Date</label>
+                </div>
+                <!-- Will update newsrender.js to set these options automatically. but this demos for now-->
+                <select class="custom-select" id="corona-date">
+                  <option selected>Choose...</option>
+                  <option value="2020-02-27">2020-02-27</option>
+                  <option value="2020-02-26">2020-02-26</option>
+                  <option value="2020-02-25">2020-02-25</option>
+                  <option value="2020-02-24">2020-02-24</option>
+                  <div role="separator" class="dropdown-divider"></div>
+                  <option value="2020-01-25">2020-01-25</option>
+                  <option value="2020-01-24">2020-01-24</option>
+                </select>
+              </div>
+
+              <!-- newsrender.js now automatically fils the table header and table body -->
+              <!-- table body is filled based on date and news source selections -->
               <div class="card-body">
-              <!-- ############################################ -->
-              <!-- ########## INSERT BAR CHART ################ -->
-              <!-- ############################################ -->
-                <div id="bar"></div>  
-              <!-- <h2 class="text-center"><strong>Spread over time</strong></h2> -->
+                <table id="news-table" class="table table-striped">
+                  <thead id="news-header">
+                      <tr>
+                          <th class="table-head">Date</th>
+                          <th scope="col" class="table-head">Source</th>
+                          <th scope="col" class="table-head">Headline</th>
+                          <th scope="col" class="table-head">Image</th>
+                      </tr>
+                  </thead>
+                  <tbody id="news-body"></tbody>
+                </table>
+              </div>
+            </div> 
           </div>
-        </div>
         <br>
-    <!-- *********************FOURTH ROW*********************************   -->
-      </div>
-    </div>
       </div>
     
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script type="text/javascript" src="static/js/config.js"></script>
-    <script type="text/javascript" src="static/js/china_bar.js"></script>
-    <script type="text/javascript" src="static/js/china.js"></script>
+    <script type="text/javascript" src="static/js/world_bar.js"></script>
+    <script type="text/javascript" src="static/js/world.js"></script>
+    <script type="text/javascript" src="static/js/slider_world.js"></script>
+    <script type="text/javascript" src="static/js/newsrender.js"></script>
+    <script type="text/javascript" src="static/js/cnnData.js"></script>
 
   </body>
 </html>

@@ -1,20 +1,7 @@
 {
     "status": "ok",
-    "totalResults": 56,
+    "totalResults": 57,
     "articles": [
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Erin Schumaker",
-            "title": "How Americans can prepare for coronavirus if it spreads here",
-            "description": "While scientists are working to contain coronavirus and come up with effective treatments, health experts say people can still prepare and guard against infection.",
-            "url": "https://abcnews.go.com/Health/americans-prepare-coronavirus-spreads/story?id=69186419",
-            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-travelers-03-gty-jef-200227_hpMain_16x9_992.jpg",
-            "publishedAt": "2020-02-28T01:32:54Z",
-            "content": "The coronavirus, or COVID-19, has infected dozens of Americans and thousands more across the world.\r\nWhile scientists are working to contain the outbreak and come up with effective treatments, health experts say people can still prepare and guard against infe\u2026 [+9449 chars]"
-        },
         {
             "source": {
                 "id": "abc-news",
@@ -27,6 +14,19 @@
             "urlToImage": "https://s.abcnews.com/images/US/trump-black-history-2-sh-rc-200228_hpMain_16x9_992.jpg",
             "publishedAt": "2020-02-28T17:01:24Z",
             "content": "As the stock market on Friday continued to nosedive over CoVID-19 fears, the White House defended President Donald Trump's response to the new coronavirus as he and his supporters continued to downplay the threat and accuse Democrats and the news media of hyp\u2026 [+9862 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Erin Schumaker",
+            "title": "How Americans can prepare for coronavirus if it spreads here",
+            "description": "While scientists are working to contain coronavirus and come up with effective treatments, health experts say people can still prepare and guard against infection.",
+            "url": "https://abcnews.go.com/Health/americans-prepare-coronavirus-spreads/story?id=69186419",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-travelers-03-gty-jef-200227_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-02-28T01:32:54Z",
+            "content": "The coronavirus, or COVID-19, has infected dozens of Americans and thousands more across the world.\r\nWhile scientists are working to contain the outbreak and come up with effective treatments, health experts say people can still prepare and guard against infe\u2026 [+9449 chars]"
         },
         {
             "source": {
@@ -99,12 +99,12 @@
                 "name": "ABC News"
             },
             "author": "The Associated Press",
-            "title": "Nigeria confirms coronavirus, first in sub-Saharan Africa",
-            "description": "Nigeria's health authorities have reported the country's first case of a new coronavirus in Lagos, the first confirmed case of the disease in sub-Saharan Africa",
-            "url": "https://abcnews.go.com/International/wireStory/nigeria-confirms-coronavirus-saharan-africa-69274261",
+            "title": "Swiss government bans all events over 1,000 people",
+            "description": "The Swiss government says it is banning all \"public and private\" events in the country as a measure against the spread of the coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/swiss-government-bans-events-1000-people-69276865",
             "urlToImage": "null",
-            "publishedAt": "2020-02-28T05:23:36Z",
-            "content": "ABUJA, Nigeria -- \r\nNigeria's health authorities have reported the country's first case of a new coronavirus in Lagos, the first confirmed case of the disease in sub-Saharan Africa. \r\nThe Commissioner for Health for Lagos, Nigeria's largest city, said Friday \u2026 [+361 chars]"
+            "publishedAt": "2020-02-28T09:32:04Z",
+            "content": "GENEVA -- \r\nThe Swiss government announced an immediate ban Friday on all \"public and private\" events in the country involving more than 1,000 people as a measure to halt the spread of COVID-19.\r\nThe measure announced Friday comes will last until at least Mar\u2026 [+1016 chars]"
         },
         {
             "source": {
@@ -112,12 +112,12 @@
                 "name": "ABC News"
             },
             "author": "The Associated Press",
-            "title": "Swiss government bans all events over 1,000 people",
-            "description": "The Swiss government says it is banning all \"public and private\" events in the country as a measure against the spread of the coronavirus",
-            "url": "https://abcnews.go.com/International/wireStory/swiss-government-bans-events-1000-people-69276865",
+            "title": "Nigeria confirms coronavirus, first in sub-Saharan Africa",
+            "description": "Nigeria's health authorities have reported the country's first case of a new coronavirus in Lagos, the first confirmed case of the disease in sub-Saharan Africa",
+            "url": "https://abcnews.go.com/International/wireStory/nigeria-confirms-coronavirus-saharan-africa-69274261",
             "urlToImage": "null",
-            "publishedAt": "2020-02-28T09:32:04Z",
-            "content": "GENEVA -- \r\nThe Swiss government announced an immediate ban Friday on all \"public and private\" events in the country involving more than 1,000 people as a measure to halt the spread of COVID-19.\r\nThe measure announced Friday comes will last until at least Mar\u2026 [+1016 chars]"
+            "publishedAt": "2020-02-28T05:23:36Z",
+            "content": "ABUJA, Nigeria -- \r\nNigeria's health authorities have reported the country's first case of a new coronavirus in Lagos, the first confirmed case of the disease in sub-Saharan Africa. \r\nThe Commissioner for Health for Lagos, Nigeria's largest city, said Friday \u2026 [+361 chars]"
         },
         {
             "source": {
@@ -144,6 +144,19 @@
             "urlToImage": "null",
             "publishedAt": "2020-02-28T01:22:26Z",
             "content": "SEOUL, South Korea -- \r\nSouth Korea reports 256 additional cases of new coronavirus, raising its total to 2,022."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Health officials confirm second case of novel coronavirus in person not known to have previous contact.",
+            "description": "Health officials confirm second case of novel coronavirus in person not known to have previous contact.",
+            "url": "https://abcnews.go.com/US/wireStory/health-officials-confirm-case-coronavirus-person-previous-contact-69295585",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T23:49:00Z",
+            "content": "SAN JOSE -- \r\nHealth officials confirm second case of novel coronavirus in person not known to have previous contact."
         },
         {
             "source": {
@@ -280,19 +293,6 @@
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "RICARDO ALONSO-ZALDIVAR Associated Press",
-            "title": "Whistleblower: Feds helping evacuees lacked virus protection",
-            "description": "A government whistleblower has filed a complaint alleging that federal workers did not have the necessary protective gear or training when they were deployed to help victims of the coronavirus evacuated from China",
-            "url": "https://abcnews.go.com/Health/wireStory/whistleblower-feds-helping-evacuees-lacked-virus-protection-69268385",
-            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_be43003bd1cf42bc97088d6584d0f60d_16x9_992.jpg",
-            "publishedAt": "2020-02-28T00:05:50Z",
-            "content": "WASHINGTON -- \r\nA government whistleblower has filed a complaint alleging that some federal workers did not have the necessary protective gear or training when they were deployed to help Americans evacuated from China during the coronavirus outbreak.\r\nThe com\u2026 [+2491 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
             "author": "RICK CALLAHAN and TOM DAVIES Associated Press",
             "title": "Pence's handling of 2015 HIV outbreak gets new scrutiny",
             "description": "Vice President Mike Pence's handling of an HIV outbreak in southern Indiana when he was governor is getting new scrutiny now that President Donald Trump has tasked him with overseeing the U.S. response to the new coronavirus threat",
@@ -313,6 +313,19 @@
             "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3aa52cb1e4e1466ea426fb58c1d0b3e2_16x9_992.jpg",
             "publishedAt": "2020-02-28T21:37:55Z",
             "content": "WASHINGTON -- \r\nAs global markets plunged amid growing fears about the coronavirus outbreak, President Donald Trump and his allies pulled from a familiar playbook Friday and blamed others for the slide. It's a challenging sell for a president who has lashed h\u2026 [+5899 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RICARDO ALONSO-ZALDIVAR Associated Press",
+            "title": "Whistleblower: Feds helping evacuees lacked virus protection",
+            "description": "A government whistleblower has filed a complaint alleging that federal workers did not have the necessary protective gear or training when they were deployed to help victims of the coronavirus evacuated from China",
+            "url": "https://abcnews.go.com/Health/wireStory/whistleblower-feds-helping-evacuees-lacked-virus-protection-69268385",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_be43003bd1cf42bc97088d6584d0f60d_16x9_992.jpg",
+            "publishedAt": "2020-02-28T00:05:50Z",
+            "content": "WASHINGTON -- \r\nA government whistleblower has filed a complaint alleging that some federal workers did not have the necessary protective gear or training when they were deployed to help Americans evacuated from China during the coronavirus outbreak.\r\nThe com\u2026 [+2491 chars]"
         },
         {
             "source": {
@@ -359,12 +372,12 @@
                 "name": "ABC News"
             },
             "author": "The Associated Press",
-            "title": "Fire kills 5 in residential building in Iranian city of Qom",
-            "description": "A fire that erupted in a residential building in the Iranian city of Qom has killed at least five people, including a 2-year-old, and injured 38",
-            "url": "https://abcnews.go.com/International/wireStory/fire-kills-residential-building-iranian-city-qom-69277061",
-            "urlToImage": "null",
-            "publishedAt": "2020-02-28T09:57:32Z",
-            "content": "TEHRAN, Iran -- \r\nA fire erupted in a residential building in the Iranian city of Qom before dawn on Friday, killing at least five people, including a 2-year-old, and injuring 38, Irans state TV reported.\r\nThe report did not say what caused the blaze at the 2\u2026 [+828 chars]"
+            "title": "German unemployment steady at 5% in February",
+            "description": "Germany's Federal Labor Agency is reporting that unemployment remained steady in February in the country, despite overall weakness in Europe's largest economy",
+            "url": "https://abcnews.go.com/International/wireStory/german-unemployment-steady-february-69280915",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_082dd7ebfbf441849637f750ca99726e_16x9_992.jpg",
+            "publishedAt": "2020-02-28T13:43:43Z",
+            "content": "BERLIN -- \r\nUnemployment remained steady in February in Germany, despite overall weakness in Europe's largest economy, the Federal Labor Agency said Friday.\r\nThe rate sat at 5%, when adjusted for seasonal factors the figure used by most economists where it ha\u2026 [+1011 chars]"
         },
         {
             "source": {
@@ -372,12 +385,12 @@
                 "name": "ABC News"
             },
             "author": "The Associated Press",
-            "title": "German unemployment steady at 5% in February",
-            "description": "Germany's Federal Labor Agency is reporting that unemployment remained steady in February in the country, despite overall weakness in Europe's largest economy",
-            "url": "https://abcnews.go.com/International/wireStory/german-unemployment-steady-february-69280915",
-            "urlToImage": "https://s.abcnews.com/images/International/WireAP_082dd7ebfbf441849637f750ca99726e_16x9_992.jpg",
-            "publishedAt": "2020-02-28T13:43:43Z",
-            "content": "BERLIN -- \r\nUnemployment remained steady in February in Germany, despite overall weakness in Europe's largest economy, the Federal Labor Agency said Friday.\r\nThe rate sat at 5%, when adjusted for seasonal factors the figure used by most economists where it ha\u2026 [+1011 chars]"
+            "title": "Fire kills 5 in residential building in Iranian city of Qom",
+            "description": "A fire that erupted in a residential building in the Iranian city of Qom has killed at least five people, including a 2-year-old, and injured 38",
+            "url": "https://abcnews.go.com/International/wireStory/fire-kills-residential-building-iranian-city-qom-69277061",
+            "urlToImage": "null",
+            "publishedAt": "2020-02-28T09:57:32Z",
+            "content": "TEHRAN, Iran -- \r\nA fire erupted in a residential building in the Iranian city of Qom before dawn on Friday, killing at least five people, including a 2-year-old, and injuring 38, Irans state TV reported.\r\nThe report did not say what caused the blaze at the 2\u2026 [+828 chars]"
         },
         {
             "source": {

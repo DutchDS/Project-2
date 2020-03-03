@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 39,
+    "totalResults": 43,
     "articles": [
         {
             "source": {
@@ -125,19 +125,6 @@
                 "name": "Breitbart News"
             },
             "author": "Pam Key",
-            "title": "Dem Rep. Garamendi Threatens Don Jr. on Coronavirus Comments \u2014 If I See Him \u2018There Would Be A Serious Altercation\u2019",
-            "description": "Representative John Garamendi (D-CA) threatened Donald Trump Jr. on MSNBC on Friday after Trump\u00a0said Democrats want coronavirus to spread to hurt President Donald Trump. | Clips",
-            "url": "https://www.breitbart.com/clips/2020/02/28/dem-rep-garamendi-threatens-don-jr-on-coronavirus-comments-if-i-see-him-there-would-be-a-serious-altercation/",
-            "urlToImage": "https://media.breitbart.com/media/2019/09/garamendi-640x335.jpg",
-            "publishedAt": "2020-02-28T16:55:11Z",
-            "content": "Representative John Garamendi (D-CA) threatened Donald Trump Jr. on MSNBC on Friday after Trump\u00a0said Democrats want coronavirus to spread to hurt President Donald Trump.\r\nHost Hallie Jackson asked, \u201cWhen you look at the discussion around coronavirus as it exi\u2026 [+1470 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Pam Key",
             "title": "FNC\u2019s Wallace: Trump Coronavirus Presser \u2018Clearly Didn\u2019t\u2019 Ease Concerns \u2014 \u2018The Next Day The Markets Fell\u2019",
             "description": "Fox News anchor Chris Wallace argued Friday on \"America\u2019s Newsroom\" that President Donald Trump\u2019s coronavirus press conference \"clearly didn\u2019t\" ease concerns. | Clips",
             "url": "https://www.breitbart.com/clips/2020/02/28/fncs-wallace-trump-coronavirus-presser-clearly-didnt-ease-concerns-the-next-day-the-markets-fell/",
@@ -150,39 +137,13 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Simon Kent",
-            "title": "Pet Dog in Hong Kong Tests Positive for Coronavirus",
-            "description": "A Hong Kong coronavirus patient has revealed her pet dog has a \u201clow level\u201d of the virus, local health authorities confirmed early Friday.",
-            "url": "https://www.breitbart.com/asia/2020/02/28/pet-dog-in-hong-kong-tests-positive-for-coronavirus/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/coronavirus-dog-640x335.jpg",
-            "publishedAt": "2020-02-28T13:23:37Z",
-            "content": "A Hong Kong coronavirus patient has revealed her pet dog has a low level of the virus, local health authorities confirmed early Friday.\r\nThe dog tested weak positive for the coronavirus, the citys agricultural and fisheries department said in a statement, wit\u2026 [+1932 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Dr. Susan Berry",
-            "title": "GOP Sen. Mike Braun: \u2018Schumer Trying to Weaponize Coronavirus Politically\u2019",
-            "description": "Sen. Mike Braun said the U.S. is ready to manage the coronavirus, even as Sen. Chuck Schumer tries to \u201cweaponize\u201d it to win political points.",
-            "url": "https://www.breitbart.com/health/2020/02/27/gop-sen-mike-braun-schumer-trying-to-weaponize-coronavirus-politically/",
-            "urlToImage": "https://media.breitbart.com/media/2018/09/Chuck-Schumer.png",
-            "publishedAt": "2020-02-28T01:45:07Z",
-            "content": "Indiana Sen. Mike Braun (R) affirmed that the United States is in as good a shape and as prepared as any nation to manage the coronavirus, given the infrastructure the country has, while Democrats like Sen. Chuck Schumer (D-NY) are trying to weaponize the inf\u2026 [+2911 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Oliver JJ Lane",
-            "title": "First British Citizen Dies of Coronavirus, Sixth Fatality From Quarantined Ship",
-            "description": "A passenger from a cruise ship which was quarantined in Japan has died, the first Briton known to have succumbed to Coronavirus worldwide.",
-            "url": "https://www.breitbart.com/europe/2020/02/28/first-british-citizen-dies-of-coronavirus-sixth-fatality-from-quarantined-ship/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1203632843-e1582903382535-640x335.jpg",
-            "publishedAt": "2020-02-28T15:26:21Z",
-            "content": "A passenger from the Diamond Princess cruise ship which was quarantined in Japan earlier this month has died, the first British citizen known to have succumbed to Coronavirus worldwide.\r\nAn unnamed British citizen has died in Japan of Coronavirus, the sixth p\u2026 [+1347 chars]"
+            "author": "Pam Key",
+            "title": "Dem Rep. Garamendi Threatens Don Jr. on Coronavirus Comments \u2014 If I See Him \u2018There Would Be A Serious Altercation\u2019",
+            "description": "Representative John Garamendi (D-CA) threatened Donald Trump Jr. on MSNBC on Friday after Trump\u00a0said Democrats want coronavirus to spread to hurt President Donald Trump. | Clips",
+            "url": "https://www.breitbart.com/clips/2020/02/28/dem-rep-garamendi-threatens-don-jr-on-coronavirus-comments-if-i-see-him-there-would-be-a-serious-altercation/",
+            "urlToImage": "https://media.breitbart.com/media/2019/09/garamendi-640x335.jpg",
+            "publishedAt": "2020-02-28T16:55:11Z",
+            "content": "Representative John Garamendi (D-CA) threatened Donald Trump Jr. on MSNBC on Friday after Trump\u00a0said Democrats want coronavirus to spread to hurt President Donald Trump.\r\nHost Hallie Jackson asked, \u201cWhen you look at the discussion around coronavirus as it exi\u2026 [+1470 chars]"
         },
         {
             "source": {
@@ -202,6 +163,32 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
+            "author": "Oliver JJ Lane",
+            "title": "First British Citizen Dies of Coronavirus, Sixth Fatality From Quarantined Ship",
+            "description": "A passenger from a cruise ship which was quarantined in Japan has died, the first Briton known to have succumbed to Coronavirus worldwide.",
+            "url": "https://www.breitbart.com/europe/2020/02/28/first-british-citizen-dies-of-coronavirus-sixth-fatality-from-quarantined-ship/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1203632843-e1582903382535-640x335.jpg",
+            "publishedAt": "2020-02-28T15:26:21Z",
+            "content": "A passenger from the Diamond Princess cruise ship which was quarantined in Japan earlier this month has died, the first British citizen known to have succumbed to Coronavirus worldwide.\r\nAn unnamed British citizen has died in Japan of Coronavirus, the sixth p\u2026 [+1347 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Amy Furr",
+            "title": "Police Departments Offer to \u2018Test\u2019 Meth for Coronavirus",
+            "description": "Police departments in Merrill, Wisconsin, and Johnson City, Texas, are trying to catch potential criminals by playing upon their coronavirus fears.",
+            "url": "https://www.breitbart.com/crime/2020/02/28/police-departments-offer-to-test-meth-for-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2018/05/GettyImages-458902784.png",
+            "publishedAt": "2020-02-28T17:17:45Z",
+            "content": "Police departments in Merrill, Wisconsin, and Johnson City, Texas, are trying to catch potential criminals by playing upon their coronavirus fears.\r\nWednesday, the Merrill Police Department issued a public service announcement (PSA) on its Facebook page to wa\u2026 [+2663 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
             "author": "John Carney",
             "title": "Fed Chair Jerome Powell Announces Fed Will Act as Appropriate to Stem Coronavirus Damage to Economy",
             "description": "In a rare unscheduled statement, Fed chair Powell sent a signal to financial markets that the Fed is taking the coronavirus threat seriously. | Economy",
@@ -209,6 +196,32 @@
             "urlToImage": "https://media.breitbart.com/media/2018/12/fed-Jerome-Powell-little-bit-fingers-getty.jpg",
             "publishedAt": "2020-02-28T19:46:17Z",
             "content": "Fed Chair Jerome Powell signaled that the Federal Reserve stands ready to take action to support the economy in the face of heightened risk and fear of the global coronavirus outbreak.\r\n\u201cThe fundamentals of the U.S. economy remain strong. However, the coronav\u2026 [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Dr. Susan Berry",
+            "title": "GOP Sen. Mike Braun: \u2018Schumer Trying to Weaponize Coronavirus Politically\u2019",
+            "description": "Sen. Mike Braun said the U.S. is ready to manage the coronavirus, even as Sen. Chuck Schumer tries to \u201cweaponize\u201d it to win political points.",
+            "url": "https://www.breitbart.com/health/2020/02/27/gop-sen-mike-braun-schumer-trying-to-weaponize-coronavirus-politically/",
+            "urlToImage": "https://media.breitbart.com/media/2018/09/Chuck-Schumer.png",
+            "publishedAt": "2020-02-28T01:45:07Z",
+            "content": "Indiana Sen. Mike Braun (R) affirmed that the United States is in as good a shape and as prepared as any nation to manage the coronavirus, given the infrastructure the country has, while Democrats like Sen. Chuck Schumer (D-NY) are trying to weaponize the inf\u2026 [+2911 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Simon Kent",
+            "title": "Pet Dog in Hong Kong Tests Positive for Coronavirus",
+            "description": "A Hong Kong coronavirus patient has revealed her pet dog has a \u201clow level\u201d of the virus, local health authorities confirmed early Friday.",
+            "url": "https://www.breitbart.com/asia/2020/02/28/pet-dog-in-hong-kong-tests-positive-for-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/coronavirus-dog-640x335.jpg",
+            "publishedAt": "2020-02-28T13:23:37Z",
+            "content": "A Hong Kong coronavirus patient has revealed her pet dog has a low level of the virus, local health authorities confirmed early Friday.\r\nThe dog tested weak positive for the coronavirus, the citys agricultural and fisheries department said in a statement, wit\u2026 [+1932 chars]"
         },
         {
             "source": {
@@ -306,6 +319,19 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
+            "author": "Joel B. Pollak",
+            "title": "New England Journal of Medicine: Coronavirus Could Be No Worse than Flu",
+            "description": "An editorial published Friday in the New England Journal of Medicine speculated that the coronavirus currently causing panic in world markets could turn out no worse than \"a severe seasonal influenza\" in terms of mortality.",
+            "url": "https://www.breitbart.com/health/2020/02/28/new-england-journal-of-medicine-coronavirus-could-be-no-worse-than-flu/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/Stethoscope-Getty-640x335.jpg",
+            "publishedAt": "2020-02-28T22:11:22Z",
+            "content": "An editorial published Friday in the\u00a0New\u00a0England Journal of Medicine speculated that the coronavirus currently causing panic in world markets could turn out no worse than \u201ca severe seasonal influenza\u201d in terms of mortality.\r\nCiting an analysis of the availabl\u2026 [+1889 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
             "author": "Jeff Poor",
             "title": "Mark Levin: The Last People I Want Playing Doctor Are Chuck Schumer and Nancy Pelosi",
             "description": "Thursday on Fox News, conservative talker Mark Levin criticized Senate Minority Leader Chuck Schumer (D-NY) and House Speaker Nancy Pelosi (D-CA) for their attacks on President Donald Trump regarding his administration's handling of the coronavirus. | Clips",
@@ -319,13 +345,13 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Joel B. Pollak",
-            "title": "New England Journal of Medicine: Coronavirus Could Be No Worse than Flu",
-            "description": "An editorial published Friday in the New England Journal of Medicine speculated that the coronavirus currently causing panic in world markets could turn out no worse than \"a severe seasonal influenza\" in terms of mortality.",
-            "url": "https://www.breitbart.com/health/2020/02/28/new-england-journal-of-medicine-coronavirus-could-be-no-worse-than-flu/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/Stethoscope-Getty-640x335.jpg",
-            "publishedAt": "2020-02-28T22:11:22Z",
-            "content": "An editorial published Friday in the\u00a0New\u00a0England Journal of Medicine speculated that the coronavirus currently causing panic in world markets could turn out no worse than \u201ca severe seasonal influenza\u201d in terms of mortality.\r\nCiting an analysis of the availabl\u2026 [+1889 chars]"
+            "author": "Pam Key",
+            "title": "Al Sharpton: The \u2018Danger\u2019 of Trump Is He Has No Compassion",
+            "description": "Network host Al Sharpton said Friday on\u00a0MSNBC the danger of\u00a0President Donald Trump was he had no compassion, which Sharpton claimed was evidenced in the Trump's administration's response to the coronavirus outbreak. | Clips",
+            "url": "https://www.breitbart.com/clips/2020/02/28/al-sharpton-the-danger-of-trump-is-he-has-no-compassion/",
+            "urlToImage": "https://media.breitbart.com/media/2019/07/Al-Sharpton-640x335.jpg",
+            "publishedAt": "2020-02-28T23:34:28Z",
+            "content": "Network host Al Sharpton said Friday on\u00a0MSNBC the danger of\u00a0President Donald Trump was he had no compassion, which Sharpton claimed was evidenced in the Trump\u2019s administration\u2019s response to the coronavirus outbreak.\r\nWhen asked by a reporter\u00a0on the White Hous\u2026 [+1940 chars]"
         },
         {
             "source": {
@@ -358,19 +384,6 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Ian Hanchett",
-            "title": "Pence: \u2018The Risk of the Spread of the Coronavirus in the U.S. Remains Low\u2019",
-            "description": "During an interview aired on Thursday's broadcast of the Fox News Channel's \"Hannity,\" Vice President Mike Pence declared that \"The risk of the spread of | Clips During an interview aired on Thursday\u2019s broadcast of the Fox News Channel\u2019s \u201cHannity,\u201d Vice Presi\u2026",
-            "url": "https://www.breitbart.com/clips/2020/02/27/pence-the-risk-of-the-spread-of-the-coronavirus-in-the-u-s-remains-low/",
-            "urlToImage": "https://media.breitbart.com/media/2019/12/GettyImages-1176383090-640x335.jpg",
-            "publishedAt": "2020-02-28T04:42:57Z",
-            "content": "During an interview aired on Thursday\u2019s broadcast of the Fox News Channel\u2019s \u201cHannity,\u201d Vice President Mike Pence declared that \u201cThe risk of the spread of the coronavirus in the United States of America remains low.\u201d\r\nPence said [relevant remarks begin around \u2026 [+947 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
             "author": "Trent Baker",
             "title": "Trump Jr.: Dems Hoping for Coronavirus Disaster a \u2018New Level of Sickness\u2019",
             "description": "Friday, Donald Trump, Jr., son of President Donald Trump, sounded off on the coronavirus outbreak and the media and the Democrats seemingly hoping for the pandemic to come to the United States with the plan to blame his father for it as seen by a recent op-ed\u2026",
@@ -378,6 +391,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/02/Trump-Jr-228-640x335.jpg",
             "publishedAt": "2020-02-28T16:10:18Z",
             "content": "Friday, Donald Trump, Jr., son of President Donald Trump, sounded off on the coronavirus outbreak and the media and the Democrats seemingly hoping for the pandemic to come to the United States with the plan to blame his father for it as seen by a recent op-ed\u2026 [+1082 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Ian Hanchett",
+            "title": "Pence: \u2018The Risk of the Spread of the Coronavirus in the U.S. Remains Low\u2019",
+            "description": "During an interview aired on Thursday's broadcast of the Fox News Channel's \"Hannity,\" Vice President Mike Pence declared that \"The risk of the spread of | Clips During an interview aired on Thursday\u2019s broadcast of the Fox News Channel\u2019s \u201cHannity,\u201d Vice Presi\u2026",
+            "url": "https://www.breitbart.com/clips/2020/02/27/pence-the-risk-of-the-spread-of-the-coronavirus-in-the-u-s-remains-low/",
+            "urlToImage": "https://media.breitbart.com/media/2019/12/GettyImages-1176383090-640x335.jpg",
+            "publishedAt": "2020-02-28T04:42:57Z",
+            "content": "During an interview aired on Thursday\u2019s broadcast of the Fox News Channel\u2019s \u201cHannity,\u201d Vice President Mike Pence declared that \u201cThe risk of the spread of the coronavirus in the United States of America remains low.\u201d\r\nPence said [relevant remarks begin around \u2026 [+947 chars]"
         },
         {
             "source": {
@@ -397,13 +423,13 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Ian Hanchett",
-            "title": "Gabbard: Suspend Flights from Japan, South Korea, and Italy",
-            "description": "On Thursday's broadcast of the Fox Business Network's \"Evening Edit,\" 2020 Democratic presidential candidate Rep. Tulsi Gabbard (D-HI) called for the | Clips On Thursday's broadcast of the Fox Business Network's \"Evening Edit,\" 2020 Democratic presidential ca\u2026",
-            "url": "https://www.breitbart.com/clips/2020/02/27/gabbard-suspend-flights-from-japan-south-korea-and-italy/",
-            "urlToImage": "https://media.breitbart.com/media/2020/01/GettyImages-1192757693-640x335.png",
-            "publishedAt": "2020-02-28T06:32:06Z",
-            "content": "On Thursday\u2019s broadcast of the Fox Business Network\u2019s \u201cEvening Edit,\u201d 2020 Democratic presidential candidate Rep. Tulsi Gabbard (D-HI) called for the suspension of flights from Japan, South Korea, and Italy to combat the spread of the coronavirus.\r\nGabbard sa\u2026 [+971 chars]"
+            "author": "Frances Martel",
+            "title": "Kenyan Court Blocks China Flights After Public Uproar",
+            "description": "A Nairobi high court suspended flights connecting Kenya to China on Friday after a recording of a China Southern flight landing in the capital triggered a widespread public backlash the day before.",
+            "url": "https://www.breitbart.com/national-security/2020/02/28/kenyan-court-blocks-china-flights-after-public-uproar/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-1203951616-640x335.jpg",
+            "publishedAt": "2020-02-28T22:42:21Z",
+            "content": "A Nairobi high court suspended flights connecting Kenya to China on Friday after a recording of a China Southern flight landing in the capital triggered a widespread public backlash the day before.\r\nThe Kenyan government has refused to repatriate Kenyan natio\u2026 [+5030 chars]"
         },
         {
             "source": {
@@ -417,6 +443,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/02/Rick-Scott-228-640x335.jpg",
             "publishedAt": "2020-02-28T16:56:49Z",
             "content": "While speaking with Fox News Channel\u2019s \u201cAmerica\u2019s Newsroom\u201d on Friday, Sen. Rick Scott (R-FL) called on the\u00a0Centers for Disease Control and Prevention (CDC) to set up a 24/7 hotline to help combat the coronavirus in the United States.\r\nScott stressed the impo\u2026 [+954 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Ian Hanchett",
+            "title": "Gabbard: Suspend Flights from Japan, South Korea, and Italy",
+            "description": "On Thursday's broadcast of the Fox Business Network's \"Evening Edit,\" 2020 Democratic presidential candidate Rep. Tulsi Gabbard (D-HI) called for the | Clips On Thursday's broadcast of the Fox Business Network's \"Evening Edit,\" 2020 Democratic presidential ca\u2026",
+            "url": "https://www.breitbart.com/clips/2020/02/27/gabbard-suspend-flights-from-japan-south-korea-and-italy/",
+            "urlToImage": "https://media.breitbart.com/media/2020/01/GettyImages-1192757693-640x335.png",
+            "publishedAt": "2020-02-28T06:32:06Z",
+            "content": "On Thursday\u2019s broadcast of the Fox Business Network\u2019s \u201cEvening Edit,\u201d 2020 Democratic presidential candidate Rep. Tulsi Gabbard (D-HI) called for the suspension of flights from Japan, South Korea, and Italy to combat the spread of the coronavirus.\r\nGabbard sa\u2026 [+971 chars]"
         },
         {
             "source": {
@@ -469,6 +508,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/02/GettyImages-859969750-640x335.jpg",
             "publishedAt": "2020-02-28T01:34:05Z",
             "content": "Experts on China at a Conservative Political Action Conference (CPAC) panel on Thursday sounded the alarm about the Communist nation\u2019s efforts to defeat the United States and without ever having to fire a shot.\r\nThe experts on the panel, hosted by the Committ\u2026 [+3367 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Frances Martel",
+            "title": "Anti-Communist Hong Kong Media Mogul Jimmy Lai Arrested",
+            "description": "Hong Kong police arrested the owner of anti-communist newspaper Apple Daily, Jimmy Lai, along with pro-democracy Labour Party vice-chair Lee Cheuk-yan and former lawmaker Yeung Sum, on Friday morning for participating in protests in August.",
+            "url": "https://www.breitbart.com/asia/2020/02/28/anti-communist-hong-kong-media-mogul-jimmy-lai-arrested/",
+            "urlToImage": "https://media.breitbart.com/media/2019/09/Jimmy-Lai-cloth-head-pro-democracy-protest-getty-640x335.jpg",
+            "publishedAt": "2020-02-28T16:44:04Z",
+            "content": "Hong Kong police arrested the owner of anti-communist newspaper\u00a0Apple Daily, Jimmy Lai, along with pro-democracy Labour Party vice-chair Lee Cheuk-yan and former lawmaker\u00a0Yeung Sum, on Friday morning for participating in protests in August.\r\nThe arrests happe\u2026 [+5118 chars]"
         },
         {
             "source": {
