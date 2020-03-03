@@ -73,21 +73,32 @@ data = [{'Date': 'December 31, 2019',
 'Comment': " President Donald Trump places Vice President Mike Pence in charge of the US government response to the novel coronavirus, amid growing criticism of the White House's handling of the outbreak."
 }];
 
-function renderAllFact() {
-    d3.select("#cnn_facts")
-     .data(data)
-     .enter()
-    .append("span")
-    .html(function(d) {
-        return ( `<h5>${d.Date}  </h5> <p>${d.Comment} </p>`); 
-     });  
+function renderAllFacts() {
+    var cnnFactDiv = d3.select("#cnn_facts");
+    console.log("renderAllFacts: div obj:", cnnFactDiv);
+
+    data.forEach(fact => {
+        cnnFactDiv
+            .append("span")
+            .html ( `<h5>${fact.Date}  </h5> <p>${fact.Comment} </p>`);  
+    })
+
+    // cnnFactDiv
+    //     .data(data)
+    //     .enter()
+    //     .append("span")
+    //     .html(function(d) {
+    //         return ( `<h5>${d.Date}  </h5> <p>${d.Comment} </p>`); 
+    //  });  
 }   
 
-function renderFact(d) {
-    console.log (d);
-    d3.select("#cnn_facts")
-   .append("span")
-   .html ( `<h5>${d.Date}  </h5> <p>${d.Comment} </p>`);  
+function renderFact(fact) {
+    var cnnFactDiv = d3.select("#cnn_facts");
+    console.log("renderFact: div obj:", cnnFactDiv);
+    console.log (fact);
+    cnnFactDiv
+        .append("span")
+        .html ( `<h5>${fact.Date}  </h5> <p>${fact.Comment} </p>`);  
 
 }
 
@@ -96,15 +107,52 @@ function renderfactbydate(date) {
     var facts = data.filter(fact => fact.Date === date);
 
     console.log("renderfactbydate", facts);
-    facts.forEach(element => {
-        renderFact(element);   
+
+    var cnnFactDiv = d3.select("#cnn_facts");
+    cnnFactDiv.html("");
+    facts.forEach(fact => {
+        cnnFactDiv
+            .append("span")
+            .html ( `<h5>${fact.Date}  </h5> <p>${fact.Comment} </p>`);    
     });
+}
+
+function addListeners() {
+    const slider_input = document.querySelector('input');
+    slider_input.addEventListener('input', function () {  
+        // console.log("slider event listner value:", this.value);
+        // console.log("slider day_one", day_one);
+        // console.log("slider_day", slider_day);
     
+        // note 1: day_one is a global variable set by slider_china.js or slider_world.js
+        //         e.g. for china  day_one = moment("27/01/2020", "DD/MM/YYYY"); 
+        //         e.g. for world  day_one = moment("22/01/2020", "DD/MM/YYYY"); 
+        // note 2: "moment()" is from moment.js library that Vamsi referenced and loaded to help with manipulating date objecs
+        // note 3: mySliderDate will be a string in the form of "YYYY-MM-DD" (e.g. "2020-02-28"). 
+        //         Use the moment() call below to change this format to what is needed for update logic
+    
+        mySliderDate = moment(day_one,"DD/MM/YYYY")
+          .add((this.value-1),'day')  // calculate what date is selected
+          .format("MMMM DD, YYYY");      // format the date as 'YYYY-MM-DD'
+    
+        console.log("mySliderDate", mySliderDate);
+    
+        // newsrender handles the time slider date change by
+        // 1.  setting the date value seleted in the newsDate selecter
+        // 2.  triggering a change event on the newsDate selector 
+        //     so that listner can react and update the news table
+        renderfactbydate(mySliderDate);
+    });
+}   
+// renderFact(data[0]); 
+// renderAllFacts();
+
+function initializeFacts() {
+    renderfactbydate("February 26, 2020" );
+    addListeners();
 
 }
 
-// renderFact(data[0]); 
-// // renderAllFact();
-// renderfactbydate("February 26, 2020" )
+initializeFacts();
 
 
