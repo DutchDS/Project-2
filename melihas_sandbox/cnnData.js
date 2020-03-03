@@ -74,7 +74,7 @@ data = [{'Date': 'December 31, 2019',
 }];
 
 function renderAllFact() {
-    d3.select("#cnnData")
+    d3.select("#cnn_facts")
      .data(data)
      .enter()
     .append("span")
@@ -85,7 +85,7 @@ function renderAllFact() {
 
 function renderFact(d) {
     console.log (d);
-    d3.select("#cnnData")
+    d3.select("#cnn_facts")
    .append("span")
    .html ( `<h5>${d.Date}  </h5> <p>${d.Comment} </p>`);  
 
@@ -103,8 +103,8 @@ function renderfactbydate(date) {
 
 }
 
-renderFact(data[0]); 
-// renderAllFact();
-renderfactbydate("February 26, 2020" )
+// renderFact(data[0]); 
+// // renderAllFact();
+// renderfactbydate("February 26, 2020" )
 
 
