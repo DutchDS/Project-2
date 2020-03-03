@@ -110,7 +110,9 @@ var barLayout = {
             family: 'Arial, Helvetica, sans-serif',
             size: 16,
             color: "white"
-            }
+            },
+        yaxis: {fixedrange: true},
+        xaxis: {fixedrange: true}
         
 
     };

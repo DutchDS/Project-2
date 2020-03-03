@@ -41,9 +41,9 @@
               <div class="card-body">
                 <div class="jumbotron text-center">
                   <h1>Corona Spread - Worldwide</h1>
-                  <p><i><div class="range">
-                    <input type="range" min="1" max="36" steps="1" value="1" id="slider">
-                    <output></output>
+                  <p><i><div class="slidecontainer">
+                    <input type="range" min="1" steps="1" value="1" class="slider" id="date_slider">
+                    <br><output></output>
                   </div></i></p>         
                     <a class="btn btn-primary btn-lg" id="selectAll" role="button">Show Spread</a>
                     <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
@@ -156,7 +156,10 @@
           <!-- ############################################ -->
             <div class="card" style="width: 100%">
               <div class="card-body">
-                <div id="bar"></div>  
+                <div id="bar"></div>
+                <div class="col-lg-12 col-sm-12" style="text-align: right">
+                  <h10 style="text-align: right">Datasource <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series">githubusercontent.com/cSSEGISandData/COVID-10</a></h10>
+                </div>  
               </div>
             </div>
             <br>
@@ -201,17 +204,17 @@
             <br>
           </div>
         </div>
-    <!-- *********************FOURTH ROW*********************************   -->
+    <!-- *********************FOURTH ROW - NEWS*********************************   -->
         <!-- ############################################ -->
         <!-- ########## NEWS GOES HERE ################### -->
         <!-- ############################################ -->
         <div class="row">
-          <div class= "col-lg-12 col-sm-12">
+          <div class= "col-lg-8 col-sm-12">
             <br>
             <div class="card" style="width: 100%">
               <!-- The banner message is modified by the newsrender.js based on the date / news source selection -->
               <div class="card-header">
-                <h2 id="news-banner" class="text-left">Corona News of the Day</h2>
+                <h3 id="news-banner" class="text-left">Corona News of the Day</h3>
               </div>
 
               <!-- Selector for a news source.  newsrender.js listens for on change event-->
@@ -267,7 +270,14 @@
               </div>
             </div> 
           </div>
-        </div>
+        <!-- ***************************FOURTH ROW - FACTS************************ -->
+          <div class="col-lg-4 col-sm-12">
+            <div></div>
+            <div class="card" style="width: 100%">
+              <div class="card-header">
+              </div>
+            </div>
+          </div>
         <br>
       </div>
     

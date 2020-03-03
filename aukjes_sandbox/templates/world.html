@@ -45,7 +45,7 @@
                     <input type="range" min="1" max="36" steps="1" value="1" id="slider">
                     <output></output>
                   </div></i></p>         
-                    <a type="submit" class="btn btn-primary btn-lg" id="selectAll" role="button">Show Spread</a>
+                    <a class="btn btn-primary btn-lg" id="selectAll" role="button">Show Spread</a>
                     <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
                     <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
                     <a class="btn btn-primary btn-lg" href="/news" role="button">news</a></p>
@@ -82,30 +82,52 @@
               <div class="col-lg-12 col-sm-12">
                 <div class="card" style="width: 100%">
                   <div class="card-body">
+
+                    <div class="row">
+                      <div class="col-lg-2 col-sm-2">
+                        {% for i in world_max_date %}
+                        <h4 id="selectDate" type="text"><strong>{{ i[0] }}</strong></h4>
+                        {% endfor %}
+                      </div>
+                      <div class="col-lg-2 col-sm-2">
+                      </div>
+                      <div class="col-lg-2 col-sm-2" style="text-align: center">
+                        <h5><strong>Total: </strong><br>
+                      </div>
+                      <div class="col-lg-2 col-sm-2" style="text-align: center">
+                        <h5><strong>Sick:</strong><br>
+                      </div>
+                      <div class="col-lg-2 col-sm-2" style="text-align: center">
+                        <h5><strong>Cured:</strong><br>
+                      </div>                                             
+                      <div class="col-lg-2 col-sm-2" style="text-align: center">
+                        <h5><strong>Dead:</strong><br>
+                      </div>
+                    </div>
                     <div class="row">
                         {% for i in world_sum %}
-                        <div class="col-lg-2 col-sm-2">
-                          <h3 id="selectDate" type="text">{{ i[0] }}</h3>
+                        <div class="col-lg-1 col-sm-1">
+                          <!-- <h5 id="selectDate" type="text">{{ i[0] }}</h5> -->
+                        </div>
+                        <div class="col-lg-3 col-sm-3">
+                          <h5>{{ i[8] }}</h5>
                         </div>
                         <div class="col-lg-2 col-sm-2" style="text-align: center">
-                          <h5><strong>Total: </strong><br>
-                            {{ i[1] }}<br>(100%)</h5>
+                            {{ i[1] }}<br>(100%)</h5><br>
+                            <p></p>
                         </div>
                         <div class="col-lg-2 col-sm-2" style="text-align: center">
-                          <h5><strong>Sick: </strong><br>
-                          {{ i[2] }}<br>({{ i[5] }}%)</h5>
+                          {{ i[2] }}<br>({{ i[5] }}%)</h5><br>
                         </div>
                         <div class="col-lg-2 col-sm-2" style="text-align: center">
-                          <h5><strong>Cured: </strong><br>
-                          {{ i[3] }}<br>({{ i[6] }}%)</h5>
+                          {{ i[3] }}<br>({{ i[6] }}%)</h5><br>
                         </div>                     
-                          
                         <div class="col-lg-2 col-sm-2" style="text-align: center">
-                          <h5><strong>Dead: </strong><br>
-                          {{ i[4] }}<br>({{ i[7] }}%)</h5>
+                          {{ i[4] }}<br>({{ i[7] }}%)</h5><br>
                         </div>
                           {% endfor %}
                       </div>
+
                     <!-- On: {{world_sum[0]}} --- Total Cases: {{world_sum[4]}} --- Total Confirmed: {{world_sum[1]}} -->
                     </div>
                   </div>
@@ -251,8 +273,6 @@
     
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script type="text/javascript" src="static/js/config.js"></script>
-    <!-- <script type="text/javascript" src="static/js/china_bar.js"></script>
-    <script type="text/javascript" src="static/js/china.js"></script> -->
     <script type="text/javascript" src="static/js/world_bar.js"></script>
     <script type="text/javascript" src="static/js/world.js"></script>
     <script type="text/javascript" src="static/js/slider_world.js"></script>

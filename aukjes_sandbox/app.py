@@ -36,7 +36,7 @@ def world():
         query_text = query_text + text
         
     result_set = engine.execute(query_text)
-    print(result_set)
+
     result_sum = []
 
     query_str = open('static/sql/world_summary.sql')
@@ -46,8 +46,18 @@ def world():
         query_text = query_text + text
 
     result_sum = engine.execute(query_text)
-  
-    return render_template("world.html", world_facts=result_set, world_sum=result_sum)
+
+    max_date = []
+
+    query_str = open('static/sql/world_max_date.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    max_date = engine.execute(query_text)
+
+    return render_template("world.html", world_facts=result_set, world_sum=result_sum, world_max_date=max_date)
 
 @app.route("/china")
 def china(): 

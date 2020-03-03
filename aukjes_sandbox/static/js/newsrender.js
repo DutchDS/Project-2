@@ -8,6 +8,8 @@ var newsSrcPromise = d3.json(newsapi_source_json );
 
 // dates to select from
 dates = [
+  '2020-03-01',
+  '2020-02-29',
   '2020-02-28',
   '2020-02-27',
   '2020-02-26',
@@ -138,10 +140,24 @@ function buildNewsTableSelectors() {
 function buildNewsTableBanner(dateStr, source) {
   // console.log(`------ Enter buildNewsBanner datStr=${dateStr}, source=${source} -----`)
   var banner = d3.select("#news-banner");
+  var parentdiv = banner.select(function() { return this.parentNode; })
   // console.log("buildNewsTableBanner:", banner);
-  banner
+  parentdiv
     .html("")
-    .text(`Coronavirus news from ${source} for ${dateStr}`);
+    .append("h2")
+    .text(`Coronavirus news from ${source} for ${dateStr}`)
+    .attr('style', 'text-align: center');
+
+  // required newsapi.org attribution https://newsapi.org/terms
+  // get the parent div of the banner 
+
+  parentdiv
+    .append('p')
+    .text('Powered by News Api  ')
+    .attr('style', 'text-align: right')
+    .append('a')
+    .attr('href', 'https://newsapi.org')
+    .text('https://newsapi.org');
 
     // console.log(`------ Exit buildNewsBanner datStr=${dateStr}, source=${source} -----`)
 }
@@ -203,7 +219,7 @@ function buildNewsTableBody(articles) {
     // <td> cell for Article Title </td>
     cell = row.append("td");
     cell.attr('scope', 'row')
-      .html(`<a href=${article.url} target="_blank" > &nbsp${article.title}&nbsp </a>`)
+      .html(`<h5><a href=${article.url} target="_blank" > &nbsp${article.title}&nbsp </a></h5>`)
 
     // <td> cell for image
     if (article.urlToImage && (article.urlToImage != "null")) {
@@ -265,44 +281,58 @@ function addListeners() {
   const newsDateSelect = d3.select("#corona-date");
   const newsSrcSelect = d3.select("#news_source");
 
+  // add listener to handle change on the news date selector
   newsDateSelect.on("change", function() {
-    newsDate = this.value
-    newsSrc = newsSrcSelect.property('value');
+    newsDate = this.value   // get the new date
+    newsSrc = newsSrcSelect.property('value');  // get the currently selected news source
     
-    // console.log("#corona-date selector value change, this.value: ", this.value);
-    // // console.log("#corona-date selector value change, node.value: ", d3.select('#corona-date').node.value);
+    // console.log("#corona-date selector value change, (this.value) : ", this.value);
     // console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
   
+    // render an updated banner and body of the news table
     renderNewsBanner(newsDate, newsSrc);
     renderNewsForDate(newsDate, newsSrc);
   });
   
+  // add listener to hande change on the news source selector
   newsSrcSelect.on("change", function() {
-    newsSrc = this.value
-    newsDate = newsDateSelect.property('value')
+    newsSrc = this.value  // get the new news source
+    newsDate = newsDateSelect.property('value') // get the currently selected news date
   
-    // console.log("#news_source selector value change, this.value: ", this.value);
-    // // console.log("#news_source selector value change, node.value: ", d3.select('#news_source').node.value);
+    // console.log("#news_source selector value change, (this.value) : ", this.value);
     // console.log("#news_source selector value change, property(value): ", d3.select('#news_source').property('value'));
   
+    // render an updated banner and body of the news table
     renderNewsBanner(newsDate, newsSrc);
     renderNewsForDate(newsDate, newsSrc);
   });
 
+  // add listener for time slider date change using 'input' event
   slider_input.addEventListener('input', function () {  
     console.log("slider event listner value:", this.value);
     console.log("slider day_one", day_one);
     console.log("slider_day", slider_day);
 
+    // note 1: day_one is a global variable set by slider_china.js or slider_world.js
+    //         e.g. for china  day_one = moment("27/01/2020", "DD/MM/YYYY"); 
+    //         e.g. for world  day_one = moment("22/01/2020", "DD/MM/YYYY"); 
+    // note 2: "moment()" is from moment.js library that Vamsi referenced and loaded to help with manipulating date objecs
+    // note 3: mySliderDate will be a string in the form of "YYYY-MM-DD" (e.g. "2020-02-28"). 
+    //         Use the moment() call below to change this format to what is needed for update logic
+
     mySliderDate = moment(day_one,"DD/MM/YYYY")
-      .add((this.value-1),'day')
-      .format("YYYY-MM-DD");  
+      .add((this.value-1),'day')  // calculate what date is selected
+      .format("YYYY-MM-DD");      // format the date as 'YYYY-MM-DD'
 
     console.log("mySliderDate", mySliderDate);
-    
+
+    // newsrender handles the time slider date change by
+    // 1.  setting the date value seleted in the newsDate selecter
+    // 2.  triggering a change event on the newsDate selector 
+    //     so that listner can react and update the news table
     newsDateSelect
       .property('value', mySliderDate)
-      .dispatch('change');
+      .dispatch('change');  
 
   }, false);
 }

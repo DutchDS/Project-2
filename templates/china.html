@@ -45,10 +45,10 @@
             <div class="card-body">
               <div class="jumbotron text-center">
                 <h1>Corona Spread - China</h1>
-                <p><i><div class="range">
-                  <input type="range" min="1" max="36" steps="1" value="1" id="slider">
-                  <output></output>
-                </div></i></p>
+                <p><i><div class="slidecontainer">
+                  <input type="range" min="1" steps="1" value="1" class="slider" id="date_slider">
+                  <br><output></output>
+                </div></i></p>  
                 <p><a class="btn btn-primary btn-lg" href="/" role="button">World</a>
                   <a class="btn btn-primary btn-lg" href="/china" role="button">China</a>
                   <a class="btn btn-primary btn-lg" href="/slider" role="button">Slider</a>
@@ -126,6 +126,11 @@
           <div class="card" style="width: 100%">
             <div class="card-body">
               <div id="bar"></div>  
+              <div class="col-lg-12 col-sm-12" style="text-align: right">
+                <h10 style="text-align: right">Datasource <a href="https://github.com/globalcitizen/2019-wuhan-coronavirus-data/tree/master/data-sources/dxy/data">github.com/globalcitizen/2019-wuhan-coronavirus-data</a></h10>
+
+                <h10>Datasource: github.com/globalcitizen/2019-wuhan-coronavirus-data</h10>
+              </div> 
             </div>
           </div>
         </div>
