@@ -119,31 +119,53 @@ function renderfactbydate(date) {
 
 function addListeners() {
     const slider_input = document.querySelector('input');
-    slider_input.addEventListener('input', function () {  
-        // console.log("slider event listner value:", this.value);
-        // console.log("slider day_one", day_one);
-        // console.log("slider_day", slider_day);
+    const newsDateSelect = d3.select("#corona-date");
+    const newsSrcSelect = d3.select("#news_source");
+  
+    // add listener to handle change on the news date selector
+    newsDateSelect.on("change.fact", function() {
+      newsDate = this.value   // get the new date
+      newsSrc = newsSrcSelect.property('value');  // get the currently selected news source
+      
+    //   console.log("#corona-date selector value change, (this.value) : ", this.value);
+    //   console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
     
-        // note 1: day_one is a global variable set by slider_china.js or slider_world.js
-        //         e.g. for china  day_one = moment("27/01/2020", "DD/MM/YYYY"); 
-        //         e.g. for world  day_one = moment("22/01/2020", "DD/MM/YYYY"); 
-        // note 2: "moment()" is from moment.js library that Vamsi referenced and loaded to help with manipulating date objecs
-        // note 3: mySliderDate will be a string in the form of "YYYY-MM-DD" (e.g. "2020-02-28"). 
-        //         Use the moment() call below to change this format to what is needed for update logic
-    
-        mySliderDate = moment(day_one,"DD/MM/YYYY")
-          .add((this.value-1),'day')  // calculate what date is selected
+        factDate = moment(newsDate)//"DD/MM/YYYY")
+        //   .add((this.value-1),'day')  // calculate what date is selected
           .format("MMMM DD, YYYY");      // format the date as 'YYYY-MM-DD'
     
-        console.log("mySliderDate", mySliderDate);
-    
-        // newsrender handles the time slider date change by
-        // 1.  setting the date value seleted in the newsDate selecter
-        // 2.  triggering a change event on the newsDate selector 
-        //     so that listner can react and update the news table
-        renderfactbydate(mySliderDate);
+        console.log("factDateListener: ", factDate);
+        renderfactbydate(factDate);
     });
-}   
+}
+
+// function addListeners() {
+//     const slider_input = document.querySelector('input');
+//     slider_input.addEventListener('input', function () {  
+//         // console.log("slider event listner value:", this.value);
+//         // console.log("slider day_one", day_one);
+//         // console.log("slider_day", slider_day);
+    
+//         // note 1: day_one is a global variable set by slider_china.js or slider_world.js
+//         //         e.g. for china  day_one = moment("27/01/2020", "DD/MM/YYYY"); 
+//         //         e.g. for world  day_one = moment("22/01/2020", "DD/MM/YYYY"); 
+//         // note 2: "moment()" is from moment.js library that Vamsi referenced and loaded to help with manipulating date objecs
+//         // note 3: mySliderDate will be a string in the form of "YYYY-MM-DD" (e.g. "2020-02-28"). 
+//         //         Use the moment() call below to change this format to what is needed for update logic
+    
+//         mySliderDate = moment(day_one,"DD/MM/YYYY")
+//           .add((this.value-1),'day')  // calculate what date is selected
+//           .format("MMMM DD, YYYY");      // format the date as 'YYYY-MM-DD'
+    
+//         console.log("mySliderDate", mySliderDate);
+    
+//         // newsrender handles the time slider date change by
+//         // 1.  setting the date value seleted in the newsDate selecter
+//         // 2.  triggering a change event on the newsDate selector 
+//         //     so that listner can react and update the news table
+//         renderfactbydate(mySliderDate);
+//     });
+// }   
 // renderFact(data[0]); 
 // renderAllFacts();
 

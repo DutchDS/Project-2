@@ -40,7 +40,7 @@
             <div class="card" style="width: 100%">
               <div class="card-body">
                 <div class="jumbotron text-center">
-                  <h1>Corona Spread - Worldwide</h1>
+                  <h1>Coronavirus Facts and News</h1>
                   <p><i><div class="slidecontainer">
                     <input type="range" min="1" max='42' steps="1" value="1" class="slider" id="date_slider">
                     <br><output></output>
@@ -77,9 +77,10 @@
             <div class="card" style="width: 100%">
               <!-- The banner message is modified by the newsrender.js based on the date / news source selection -->
               <div class="card-header">
-                <h3 id="news-banner" class="text-left">Corona News of the Day</h3>
+                <div id="news-banner">
+                  <h3 class="text-left">Corona News of the Day</h3>
+                </div>
               </div>
-
               <!-- Selector for a news source.  newsrender.js listens for on change event-->
               <div class="input-group mb-1">
                 <div class="input-group-prepend">
