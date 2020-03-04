@@ -118,24 +118,43 @@ function renderfactbydate(date) {
 }
 
 function addListeners() {
-    const slider_input = document.querySelector('input');
     const newsDateSelect = d3.select("#corona-date");
-    const newsSrcSelect = d3.select("#news_source");
+    const factToggler = d3.select('#fact-toggle')
   
     // add listener to handle change on the news date selector
     newsDateSelect.on("change.fact", function() {
-      newsDate = this.value   // get the new date
-      newsSrc = newsSrcSelect.property('value');  // get the currently selected news source
+        // factToggler is set to show facts by date
+        if (!factToggler.property('checked')) {
+            let newsDate = this.value   // get the new date
+            
+            //   console.log("#corona-date selector value change, (this.value) : ", this.value);
+            //   console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
+
+            factDate = moment(newsDate) //"YYYY-MM-DD")
+                .format("MMMM DD, YYYY");      // format the date as 'Month 01, 2020'
+
+            console.log("factDateListener: ", factDate);
+            renderfactbydate(factDate);
+        }
+    });
+
+    // factToggler.on("change", function() {
+    $('#fact-toggle').change(function() {
+        console.log("Fact Toggler Changed: ", $(this).prop('checked'));
+      if ($(this).prop('checked')) {
+            // if toggle is on - renderAllFacts
+            renderAllFacts();
+
+        } else {
+            // if toggle is checked off - renderFactByDate
+            let newsDate = newsDateSelect.property('value');
+            factDate = moment(newsDate) //"YYYY-MM-DD")
+            .format("MMMM DD, YYYY");      // format the date as 'Month 01, 2020'
       
-    //   console.log("#corona-date selector value change, (this.value) : ", this.value);
-    //   console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
-    
-        factDate = moment(newsDate)//"DD/MM/YYYY")
-        //   .add((this.value-1),'day')  // calculate what date is selected
-          .format("MMMM DD, YYYY");      // format the date as 'YYYY-MM-DD'
-    
-        console.log("factDateListener: ", factDate);
-        renderfactbydate(factDate);
+            console.log("factDate Toggler: ", factDate);
+            renderfactbydate(factDate);
+
+        }
     });
 }
 
@@ -170,8 +189,9 @@ function addListeners() {
 // renderAllFacts();
 
 function initializeFacts() {
-    renderfactbydate("February 26, 2020" );
     addListeners();
+    renderAllFacts();
+    //renderfactbydate("February 26, 2020" );
 
 }
 
