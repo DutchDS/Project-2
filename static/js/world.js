@@ -57,11 +57,11 @@ function task(i) {
 function chooseColor(x) {
     if (x == 0)
       color = "transparent"
-    else if (x >= 1 & x <= 5)
+    else if (x >= 1 & x <= 10)
       color = "#f7a1f3"
-    else if (x <= 50)
+    else if (x <= 100)
       color = "#f15be9"
-    else if (x <= 500)
+    else if (x <= 1000)
       color = "#eb14e0"
     else if (x <= 5000)
       color = "#a40e9d"
@@ -133,10 +133,10 @@ function create_legend() {
     legend.onAdd = function(map) {
       var div = L.DomUtil.create("div", "legend");
       div.innerHTML += "<h4>Corona Cases</h4>";
-      div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 5</span><br>';
-      div.innerHTML += '<i style="background: #f15be9"></i><span>6 - 50</span><br>';
-      div.innerHTML += '<i style="background: #eb14e0"></i><span>51 - 500</span><br>';
-      div.innerHTML += '<i style="background: #a40e9d"></i><span>501 - 5000</span><br>';
+      div.innerHTML += '<i style="background: #f7a1f3"></i><span>1 - 10</span><br>';
+      div.innerHTML += '<i style="background: #f15be9"></i><span>11 - 100</span><br>';
+      div.innerHTML += '<i style="background: #eb14e0"></i><span>101 - 1000</span><br>';
+      div.innerHTML += '<i style="background: #a40e9d"></i><span>1001 - 5000</span><br>';
       div.innerHTML += '<i style="background: #5e085a"></i><span>> 5000</span><br>';  
 
       return div;
@@ -148,7 +148,7 @@ legend.addTo(myMap);
 /// Function reload. Called by button Show Spread. Used to animate virus spread
 function reload() {
   day_count = today - current_date
-  counter = Math.ceil((day_count/24/60/60/1000/ + 1))
+  counter = Math.ceil((day_count/24/60/60/1000 + 1))
   for (var i = 0; i < counter; i++)  {  
     task(i); 
     } 
