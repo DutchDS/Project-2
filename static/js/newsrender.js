@@ -8,6 +8,7 @@ var newsSrcPromise = d3.json(newsapi_source_json );
 
 // dates to select from
 dates = [
+  '2020-03-04',
   '2020-03-03',
   '2020-03-02',
   '2020-03-01',
@@ -47,7 +48,10 @@ dates = [
   '2020-01-27',
   '2020-01-26',
   '2020-01-25',
-  '2020-01-24'
+  '2020-01-24',
+  '2020-01-23',
+  '2020-01-22',
+  '2020-01-21'
   ]
 
 // news source ids to select from
