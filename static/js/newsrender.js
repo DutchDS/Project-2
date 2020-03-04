@@ -8,6 +8,8 @@ var newsSrcPromise = d3.json(newsapi_source_json );
 
 // dates to select from
 dates = [
+  '2020-03-03',
+  '2020-03-02',
   '2020-03-01',
   '2020-02-29',
   '2020-02-28',
@@ -138,11 +140,14 @@ function buildNewsTableSelectors() {
 //  function to build the news table banner
 //  
 function buildNewsTableBanner(dateStr, source) {
-  // console.log(`------ Enter buildNewsBanner datStr=${dateStr}, source=${source} -----`)
-  var banner = d3.select("#news-banner");
-  var parentdiv = banner.select(function() { return this.parentNode; })
-  // console.log("buildNewsTableBanner:", banner);
-  parentdiv
+  console.log(`buildNewsBanner(${dateStr}, ${source})`);
+  // var banner = d3.select("#news-banner");
+  // var parentdiv = banner.select(function() { return this.parentNode; })
+
+  var parentdiv = d3.select("#news-banner");
+  console.log("buildNewsTableBanner, parentdiv", parentdiv);
+
+  parentdiv 
     .html("")
     .append("h3")
     .html(`Coronavirus news from ${source} <br> for ${dateStr}`)
@@ -259,7 +264,7 @@ function renderNewsForDate(dateStr, newsSourceId) {
 // render the news banner with dateStr and news source name info
 function renderNewsBanner(dateStr, newsSourceId) {
   // newsapi_source_json = `/static/newsdata/newsapi_sources.json`;
-  // console.log("NEW WAY OF USING THE PROMISE")
+  console.log(`renderNewsBanner(${dateStr}, ${newsSourceId})`)
     var sourceName = "";
     newsSrcPromise.then(function(newsSrcs) {
       // console.log("renderNewsBanner newsSources: ", newsSrcs);
@@ -286,8 +291,8 @@ function addListeners() {
     newsDate = this.value   // get the new date
     newsSrc = newsSrcSelect.property('value');  // get the currently selected news source
     
-    // console.log("#corona-date selector value change, (this.value) : ", this.value);
-    // console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
+    console.log("#corona-date selector value change, (this.value) : ", this.value);
+    console.log("#corona-date  selector value change, property(value): ", d3.select('#corona-date').property('value'));
   
     // render an updated banner and body of the news table
     renderNewsBanner(newsDate, newsSrc);
@@ -295,7 +300,8 @@ function addListeners() {
   });
   
   // add listener to hande change on the news source selector
-  newsSrcSelect.on("change", function() {
+  // https://stackoverflow.com/questions/14749182/how-to-register-multiple-external-listeners-to-the-same-selection-in-d3
+  newsSrcSelect.on("change.news", function() {
     newsSrc = this.value  // get the new news source
     newsDate = newsDateSelect.property('value') // get the currently selected news date
   
@@ -345,7 +351,7 @@ function initializeNewsTable() {
   buildNewsTableHeader();
   buildNewsTableSelectors();
 
-  var initialDate = "2020-02-27"
+  var initialDate = "2020-03-03"
   var initialSrc = "bbc-news"
 
   addListeners();
