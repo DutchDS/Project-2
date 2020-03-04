@@ -280,19 +280,6 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Associated Press",
-            "title": "Dominican Republic, France report Caribbean virus cases",
-            "description": "Health officials in the Dominican Republic and France have reported the first confirmed cases of the new coronavirus in the tourist-rich Caribbean",
-            "url": "https://www.washingtonpost.com/world/the_americas/dominican-republic-france-report-caribbean-virus-cases/2020/03/01/fcf9e616-5c23-11ea-ac50-18701e14e06d_story.html",
-            "urlToImage": "",
-            "publishedAt": "2020-03-02T01:20:23Z",
-            "content": "France, meanwhile, reported three cases on the Caribbean islands of Guadeloupe, the first in one of Frances overseas territories.\r\nThe announcements came shortly before the Braemar cruise ship, which had been denied entry to the Dominican Republic due to the \u2026 [+1377 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
             "author": "Nasser Karimi and Jon Gambrell\u2009|\u2009AP",
             "title": "Iran goes to online briefings as Tehran fights new virus",
             "description": "Iranian officials were taking new precautions against the outbreak of the new coronavirus there, with even its Foreign Ministry holding an online-only briefing",
@@ -300,6 +287,19 @@
             "urlToImage": "",
             "publishedAt": "2020-03-02T07:56:25Z",
             "content": "The council advises Supreme Leader Ayatollah Ali Khamenei, as well as settles disputes between the supreme leader and parliament.\r\nHis death comes as other top officials have contracted the virus in Iran, which has the highest death toll in the world after Ch\u2026 [+4014 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Associated Press",
+            "title": "Dominican Republic, France report Caribbean virus cases",
+            "description": "Health officials in the Dominican Republic and France have reported the first confirmed cases of the new coronavirus in the tourist-rich Caribbean",
+            "url": "https://www.washingtonpost.com/world/the_americas/dominican-republic-france-report-caribbean-virus-cases/2020/03/01/fcf9e616-5c23-11ea-ac50-18701e14e06d_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-03-02T01:20:23Z",
+            "content": "France, meanwhile, reported three cases on the Caribbean islands of Guadeloupe, the first in one of Frances overseas territories.\r\nThe announcements came shortly before the Braemar cruise ship, which had been denied entry to the Dominican Republic due to the \u2026 [+1377 chars]"
         },
         {
             "source": {

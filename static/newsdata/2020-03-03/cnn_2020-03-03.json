@@ -1,0 +1,734 @@
+{
+    "status": "ok",
+    "totalResults": 56,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Diamond and Gregory Wallace, CNN",
+            "title": "US officials want more traveler information from airlines to aid coronavirus response",
+            "description": "US officials are pressing airlines to collect and share more data on international travelers with federal health officials combating the coronavirus, two officials tell CNN.",
+            "url": "https://www.cnn.com/2020/03/02/politics/us-officials-airlines-collect-traveler-data/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302140730-us-traveler-airport-0301-super-tease.jpg",
+            "publishedAt": "2020-03-03T02:23:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "Up and down: Stock market has no idea how to react to cut",
+            "description": "Stocks fluctuated wildly on Tuesday after the Federal Reserve slashed interest rates by a half point to help protect the US economy against the fallout from coronavirus.",
+            "url": "https://www.cnn.com/2020/03/03/investing/dow-stock-market-today/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303105316-02-nyse-0302-super-tease.jpg",
+            "publishedAt": "2020-03-03T15:28:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "See health official quickly correct Trump at roundtable chat",
+            "description": "CNN's Erin Burnett discusses claims made by President Donald Trump about the coronavirus that have completely contradicted what scientists have reported.",
+            "url": "https://www.cnn.com/videos/politics/2020/03/03/burnett-monologue-trump-scientist-coronavirus-reaction-ebof-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302192417-burnett-trump-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-03-03T00:27:21Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe, CNN",
+            "title": "The future: Here is how 3 other infectious outbreaks ended",
+            "description": "It has been more than a month since the World Health Organization declared the novel coronavirus a public health emergency of international concern. Since the outbreak began, there have been more than 90,000 cases of the virus worldwide and more than 3,100 de\u2026",
+            "url": "https://www.cnn.com/2020/03/03/health/coronavirus-outbreaks-resolutions/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302232925-03-major-health-outbreaks-super-tease.jpg",
+            "publishedAt": "2020-03-03T10:23:09Z",
+            "content": "(CNN)It has been more than a month since the World Health Organization declared the novel coronavirus a public health emergency of international concern. Since the outbreak began, there have been more than 90,000 cases of the virus worldwide and more than 3,1\u2026 [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ryan Browne, CNN",
+            "title": "US Navy to self-quarantine ships in Europe",
+            "description": "The US Navy's 6th Fleet is instituting a 14-day self-quarantine between port visits by US Navy ships in Europe over concerns of the coronavirus, according to two US Navy officials, a move intended to bring the fleet inline with instructions from the US Pacifi\u2026",
+            "url": "https://www.cnn.com/2020/03/03/politics/navy-coronavirus-self-quarantine-ships-europe/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303180035-us-navy-6th-fleet-super-tease.jpg",
+            "publishedAt": "2020-03-03T22:57:39Z",
+            "content": "(CNN)The US Navy's 6th Fleet is instituting a 14-day self-quarantine between port visits by US Navy ships in Europe over concerns of the coronavirus, according to two US Navy officials, a move intended to bring the fleet inline with instructions from the US P\u2026 [+576 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, Kaitlan Collins and Jeremy Diamond, CNN",
+            "title": "Led by a notorious germaphobe, the West Wing braces for coronavirus",
+            "description": "It's a refrain President Donald Trump repeats whenever he encounters a cough, a sneeze or a sniffle.",
+            "url": "https://www.cnn.com/2020/03/03/politics/donald-trump-germaphobe-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180601132510-01-trump-oval-office-file-2017-super-tease.jpg",
+            "publishedAt": "2020-03-03T22:31:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/ben-westcott\">Ben Westcott</a> and Adam Renton, CNN",
+            "title": "The virus has killed six people in Washington state, according to health officials. More than 3,000 have died globally from the outbreak.",
+            "description": "There are now more than 100 infections in the United States, with Washington and California the worst affected states. Follow the latest here.",
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-03-03-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302151908-06-coronavirus-0301-washington-super-tease.jpg",
+            "publishedAt": "2020-03-03T02:08:19Z",
+            "content": "The death toll from the coronavirus has reached 28 in South Korea as the number of new confirmed cases across the country continues to rise.\r\nAnother 600 new infections were announced today by the South Korean Centers for Disease Control and Prevention (KCDC)\u2026 [+330 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy, CNN",
+            "title": "Chinese student assaulted in 'racist' coronavirus attack in London",
+            "description": "A 23-year-old Chinese man studying in London has spoken out about racism linked to the coronavirus after suffering facial injuries in a \"racially aggravated assault.\"",
+            "url": "https://www.cnn.com/2020/03/03/uk/coronavirus-assault-student-london-scli-intl-gbr/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303133412-jonathan-mok-coronavirus-attack-split-super-tease.jpg",
+            "publishedAt": "2020-03-03T18:44:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "How coronavirus is affecting China's largest travel company",
+            "description": "CNN's David Culver visits Trip.com, China's largest travel company, and speaks with CEO Jane Sun about how the novel coronavirus is impacting her business, as well as others in China.",
+            "url": "https://www.cnn.com/videos/business/2020/03/03/coronavirus-outbreak-china-travel-restrictions-tourism-culver-intl-ldn-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303104550-coronavirus-outbreak-china-travel-restrictions-tourism-culver-intl-ldn-vpx-00003208-super-tease.jpg",
+            "publishedAt": "2020-03-03T10:46:40Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Religious group faces homicide probe for coronavirus links",
+            "description": "The South Korean Shincheonji religious group is facing mounting public anger as more than half of the confirmed coronavirus cases in the country have links to the group. CNN's Paula Hancocks looks at the international reach of the group.",
+            "url": "https://www.cnn.com/videos/world/2020/03/03/south-korea-coronavirus-covid-19-shincheonji-homicide-charge-hancocks-intl-hnk-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303144336-shincheonji-event-super-tease.jpg",
+            "publishedAt": "2020-03-03T07:18:54Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amy Woodyatt, CNN",
+            "title": "The bizarre ways that coronavirus is changing etiquette",
+            "description": "On Monday, a German politician did what could have been seen as the ultimate faux paus -- he rejected a handshake from his head of state, Chancellor Angela Merkel.",
+            "url": "https://www.cnn.com/2020/03/03/world/coronavirus-etiquette-intl-scli/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303081942-02-coronavirus-elbow-shake-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T16:32:11Z",
+            "content": "(CNN)On Monday, a German politician did what could have been seen as the ultimate faux paus -- he rejected a handshake from his head of state, Chancellor Angela Merkel. \r\nBut rather than reprimanding him, Merkel smiled and praised German interior minister Hor\u2026 [+4738 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Francesca Street, CNN",
+            "title": "What airlines are doing to sanitize planes",
+            "description": "As new cases of novel coronavirus are growing, the travel industry is feeling the impact -- with vacationers and business people debating whether or not to cancel or postpone trips, and some countries, including the US, implementing travel restrictions.",
+            "url": "https://www.cnn.com/travel/article/airplane-hygiene-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303124007-coronavirus-travel-airplane-super-tease.jpg",
+            "publishedAt": "2020-03-03T13:45:39Z",
+            "content": "But airplanes are still flying, and travelers still traveling, albeit with extra bottles of hand sanitizer and disinfectant wipes in carry-ons.\r\nStill, as you board the aircraft and sit in your seat, you might find yourself reconsidering inflight hygiene -- a\u2026 [+9231 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Charles Riley, CNN Business",
+            "title": "Global markets are hoping for G7 action over the coronavirus. They could be disappointed",
+            "description": "Officials from the world's seven largest advanced economies will hold a conference call Tuesday to discuss their response to the coronavirus outbreak after the number of cases topped 90,000.",
+            "url": "https://www.cnn.com/2020/03/03/business/global-markets-g7-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303105041-steve-mnuchin-0212-super-tease.jpg",
+            "publishedAt": "2020-03-03T11:39:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Japan cancels cherry blossom festivals over virus fears",
+            "description": "Japan's iconic cherry blossom festivals which attract millions of people every year have been canceled due to the novel coronavirus outbreak. CNN's Will Ripley reports from the Meguro River in Tokyo where the empty cherry-blossom-lined river bank is rarely se\u2026",
+            "url": "https://www.cnn.com/videos/world/2020/03/03/japan-coronavirus-covid-19-cherry-blossom-ripley-intl-hnk-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303103556-japan-coronavirus-cherry-blossom-super-tease.jpg",
+            "publishedAt": "2020-03-03T03:27:49Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Joshua Berlinger, CNN",
+            "title": "WHO chief warns 'we are in unchartered territory'",
+            "description": "The head of the World Health Organization (WHO) said that public health officials are operating in \"unchartered territory\" as they combat the spread of the novel coronavirus, which has infected more than 90,000 people across 73 countries and territories as of\u2026",
+            "url": "https://www.cnn.com/2020/03/03/asia/novel-coronavirus-covid-19-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302151908-06-coronavirus-0301-washington-super-tease.jpg",
+            "publishedAt": "2020-03-03T05:09:58Z",
+            "content": "Hong Kong (CNN)The head of the World Health Organization (WHO) said that public health officials are operating in \"unchartered territory\" as they combat the spread of the novel coronavirus, which has infected more than 90,000 people across 73 countries and te\u2026 [+6029 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "A nursing home Washington state is at the center of the US coronavirus outbreak",
+            "description": null,
+            "url": "https://www.cnn.com/collections/virus-2-intl-0303/",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T11:47:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kathryn Vasel, CNN Business",
+            "title": "Coronavirus could mean you'll be working from home. Here's how to stay productive",
+            "description": "As coronavirus continues to spread throughout the US, employees might be asked to work from home.",
+            "url": "https://www.cnn.com/2020/03/03/success/coronavirus-remote-work/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302162035-working-from-home---stock-super-tease.jpg",
+            "publishedAt": "2020-03-03T17:57:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan, CNN Business",
+            "title": "Market mayhem exposes fears about oil companies",
+            "description": "The coronavirus crisis is casting an even darker shadow over the reeling oil industry.",
+            "url": "https://www.cnn.com/2020/03/03/investing/oil-prices-energy-stocks-junk-bonds-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302155753-oil-rig-1009-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T16:48:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rishi Iyengar, CNN Business",
+            "title": "Google cancels its biggest annual event over coronavirus fears",
+            "description": "Google is canceling its biggest event of the year because of concerns about the coronavirus.",
+            "url": "https://www.cnn.com/2020/03/03/tech/google-i-o-canceled-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303155105-google-i-o-developer-conference-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T21:37:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Kari Nixon",
+            "title": "The way we talk about coronavirus matters",
+            "description": "Kari Nixon, a scholar of medical humanities, explains why it's crucial to remember that coronavirus, like all diseases, is about people. She looks back at what the histories of syphilis, HIV and polio can teach us about coronavirus and the impact of 'outbreak\u2026",
+            "url": "https://www.cnn.com/2020/03/03/opinions/coronavirus-history-of-disease-medical-humanities-nixon/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200228144803-pedestrians-new-york-coronavirus-mask-0227-super-tease.jpg",
+            "publishedAt": "2020-03-03T21:36:31Z",
+            "content": "Kari Nixon is an assistant professor of English at Whitworth University and the author of the book \"Kept from All Contagion: Germ Theory, Disease, and the Dilemma of Human Contact in Late Nineteenth-Century Literature.\" Follow her on Twitter @HalfSickShadows.\u2026 [+6526 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe and Kevin Dotson, CNN",
+            "title": "NBA players advised not to high-five fans as coronavirus spreads",
+            "description": "NBA fans might be getting fist bumps over high-fives from players as coronavirus spreads in the United States.",
+            "url": "https://www.cnn.com/2020/03/03/us/coronavirus-nba-avoid-contact-spt/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303005013-coronavirus-nba-avoid-contact-super-tease.jpg",
+            "publishedAt": "2020-03-03T06:23:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aleks Klosok, CNN",
+            "title": "IOC President Thomas Bach looks forward to 'successful' Tokyo 2020",
+            "description": "Olympics chief Thomas Bach says Games organizers are preparing for a \"successful\" Tokyo 2020 despite the ongoing worries around coronavirus.",
+            "url": "https://edition.cnn.com/2020/03/03/sport/olympics-tokyo-2020-thomas-bach-ioc-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226051210-coronavirus-olympics-tokyo-2020-super-tease.jpg",
+            "publishedAt": "2020-03-03T12:20:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dan Merica, CNN",
+            "title": "DNC and RNC officials monitoring how coronavirus could impact summer conventions",
+            "description": "Top officials from the Democratic National Committee and Republican National Committee are monitoring the spread of the coronavirus and gauging how it could impact their respective conventions this summer, officials from both committees tell CNN.",
+            "url": "https://www.cnn.com/2020/03/03/politics/dnc-rnc-coronavirus-summer-conventions/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170215132549-rnc-trump-campaign-hat-super-tease.jpg",
+            "publishedAt": "2020-03-03T21:54:49Z",
+            "content": "(CNN)Top officials from the Democratic National Committee and Republican National Committee are monitoring the spread of the coronavirus and gauging how it could impact their respective conventions this summer, officials from both committees tell CNN.\r\nThe co\u2026 [+3371 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "A state-by-state breakdown of US coronavirus cases",
+            "description": "State governments are working to contain coronavirus cases in the US, as federal officials say more testing for the virus will boost the number of positive cases.",
+            "url": "https://www.cnn.com/2020/03/03/health/us-coronavirus-cases-state-by-state/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303094525-07-coronavirus-0229-washington-state-super-tease.jpg",
+            "publishedAt": "2020-03-03T10:12:25Z",
+            "content": "(CNN)State governments are working to contain coronavirus cases in the US, as federal officials say more testing for the virus will boost the number of positive cases. \r\nOn Tuesday, there were 57 cases across 12 states, as well as 45 cases from individuals re\u2026 [+7565 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rishi Iyengar, CNN Business",
+            "title": "Facebook backs out of SXSW over coronavirus fears",
+            "description": "Facebook will skip one of the tech industry's biggest annual events as companies restrict travel over fears about the novel coronavirus.",
+            "url": "https://www.cnn.com/2020/03/02/tech/facebook-sxsw-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190131143850-01-facebook-file-super-tease.jpg",
+            "publishedAt": "2020-03-03T03:47:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathaniel Meyersohn, CNN Business",
+            "title": "Coronavirus panic shopping tests the resilience of America's stores",
+            "description": "Americans across the country are stocking up on hand sanitizer, cleaning wipes, toilet paper and other products to prepare for the spread of coronavirus.",
+            "url": "https://www.cnn.com/2020/03/03/business/panic-buying-coronavirus-retail-shopping/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303085401-us-walmart-shopper-0302-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T15:23:17Z",
+            "content": "New York (CNN Business)Americans across the country are stocking up on hand sanitizer, cleaning wipes, toilet paper and other products to prepare for the spread of coronavirus.\r\nLong lines at stores and panic buying on cleaning products throughout the country\u2026 [+2266 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Frank Pallotta, CNN Business",
+            "title": "NBC is insured if the Olympics are canceled",
+            "description": "One of the biggest unanswered questions about the coronavirus outbreak is how it might affect the 2020 Olympic games in Tokyo this summer.",
+            "url": "https://www.cnn.com/2020/03/03/media/comcast-olympics-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213050151-olympics-tokyo-2020-super-tease.jpg",
+            "publishedAt": "2020-03-03T19:42:40Z",
+            "content": "New York (CNN Business)One of the biggest unanswered questions about the coronavirus outbreak is how it might affect the 2020 Olympic games in Tokyo this summer.\r\nBrian Roberts, the CEO of Comcast(CMCSA), addressed the concerns on Tuesday, saying that the com\u2026 [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Jerome M. Adams",
+            "title": "Surgeon general: Be cautious, but not afraid of coronavirus",
+            "description": "Jerome Adams writes that Americans should take comfort in knowing that we have the best team in the world to protect them from coronavirus",
+            "url": "https://www.cnn.com/2020/03/03/opinions/coronavirus-prepare-not-panic-opinion-adams/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/120829145900-coughing-man-bed-sick-super-tease.jpg",
+            "publishedAt": "2020-03-03T12:40:03Z",
+            "content": "Vice Adm. Jerome M. Adams, M.D., is the 20th surgeon general of the United States. He is a board-certified anesthesiologist with a master's degree in public health and a member of the President's Coronavirus Task Force. Before being selected for his current p\u2026 [+4207 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Paul R. La Monica, CNN Business",
+            "title": "The Fed just hit the coronavirus panic button",
+            "description": "The stock market -- and President Trump -- really wanted the Federal Reserve to cut interest rates as soon as possible because of concerns about coronavirus. Everybody got their wish.",
+            "url": "https://www.cnn.com/2020/03/03/investing/federal-reserve-interest-rate-cut-coronavirus-emergency/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303102325-02-jerome-powell-0212-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T17:12:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Brian Lowry, CNN",
+            "title": "Streaming could fill the stay-at-home void amid coronavirus fears",
+            "description": "Concerns over coronavirus expsosure might lead more people to stay home and watch Netflix (or Apple TV+ or Hulu etc.), hastening the shift toward consuming entertainment alone.",
+            "url": "https://www.cnn.com/2020/03/03/entertainment/streaming-and-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190823104651-20190823-streaming-services-super-tease.jpg",
+            "publishedAt": "2020-03-03T17:58:58Z",
+            "content": "(CNN)Television has historically benefited from factors that prompt people to stay at home, from bad weather spells to terrorism to economic downturns. For a media industry undergoing a gradual evolution, the question is how much fears stoked by coronavirus w\u2026 [+3602 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anneken Tappe, CNN Business",
+            "title": "The 10-year Treasury yield just dropped below 1% for the first time in history",
+            "description": "The 10-year Treasury bond yield dropped below 1% for the first time in history on Tuesday, as investors grew increasingly worried about the novel coronavirus outbreak.",
+            "url": "https://www.cnn.com/2020/03/03/investing/10-year-treasury-yield-record-low/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302112209-treasury-bond-yield-drop-file-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T19:06:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Hollingsworth, CNN",
+            "title": "Your beloved pet can't catch coronavirus. Here's why one dog tested positive",
+            "description": "They're your furry best friend and a fixture of your home -- but could your beloved cat or dog give you coronavirus?",
+            "url": "https://www.cnn.com/2020/03/02/asia/pets-coronavirus-spread-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302113327-dog-coronavirus-3-super-tease.jpg",
+            "publishedAt": "2020-03-03T02:02:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Diamond and Gregory Wallace, CNN",
+            "title": "US officials want more traveler information from airlines to aid coronavirus response",
+            "description": "US officials are pressing airlines to collect and share more data on international travelers with federal health officials combating the coronavirus, two officials tell CNN.",
+            "url": "https://www.cnn.com/2020/03/02/politics/us-officials-airlines-collect-traveler-data/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302140730-us-traveler-airport-0301-super-tease.jpg",
+            "publishedAt": "2020-03-03T02:23:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by James Phillips",
+            "title": "I'm an emergency doctor. I expect to get coronavirus",
+            "description": "James Phillips writes that as an emergency physician at an urban hospital in Washington, D.C., this is personal: \"I will likely become infected in the next few months. It's just simple math that I have accepted.\" But there are ways to stop the virus from over\u2026",
+            "url": "https://www.cnn.com/2020/03/03/opinions/im-an-emergency-doctor-i-expect-to-get-coronavirus-phillips/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/140805124504-emergency-room-er-hospital-super-tease.jpg",
+            "publishedAt": "2020-03-03T11:05:03Z",
+            "content": "James P. Phillips, MD, is an assistant professor of emergency medicine at the George Washington University, where he serves as chief of the Section of Disaster and Operational Medicine. The opinions expressed in this commentary are his own. View more opinion \u2026 [+6395 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "Up to 1 million people could be tested for coronavirus by the end of the week, officials say",
+            "description": "Up to a million people could be tested for coronavirus by the end of week, the Trump administration said Monday, as cases across the US rose to more than 100 and health officials warned that the number will keep climbing.",
+            "url": "https://www.cnn.com/2020/03/03/health/us-coronavirus-updates-tuesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213161538-cdc-novel-coronavirus-test-kit-super-tease.jpg",
+            "publishedAt": "2020-03-03T07:59:24Z",
+            "content": "Wash your hands often with soap and water for at least 20 seconds. Be sure to wash the backs of your hands and under your nails.\r\n Avoid touching your eyes, mouth or nose\r\n Stay at least 3 feet (1 meter) away from anyone who may be infected. \r\n If you're feel\u2026 [+241 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Egan, CNN Business",
+            "title": "JPMorgan tests coronavirus preparations by asking thousands of employees to work from home",
+            "description": "JPMorgan Chase is bracing for the coronavirus outbreak by asking thousands of its employees to work from home for a day to test contingency plans, a person familiar with the matter told CNN Business.",
+            "url": "https://www.cnn.com/2020/03/03/business/jpmorgan-coronavirus-work-home/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190820144516-jpmorgan-chase-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T22:38:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Priscilla Alvarez, CNN",
+            "title": "Homeland Security facility in Washington state closes after employee visited nursing home affected by coronavirus outbreak",
+            "description": "A Department of Homeland Security facility in King County, Washington, has been temporarily closed after an employee visited a nursing home that was affected by the coronavirus outbreak, acting Homeland Security Secretary Chad Wolf announced Tuesday.",
+            "url": "https://www.cnn.com/2020/03/03/politics/homeland-security-immigration-coronavirus-closure/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181102165132-dhs-logo-file-super-tease.jpg",
+            "publishedAt": "2020-03-03T15:46:55Z",
+            "content": "Washington (CNN)A Department of Homeland Security facility in King County, Washington, has been temporarily closed after an employee visited a nursing home that was affected by the coronavirus outbreak, acting Homeland Security Secretary Chad Wolf announced T\u2026 [+814 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy, CNN",
+            "title": "First coronavirus case in North Carolina linked to Seattle-area nursing home",
+            "description": "The first presumptive case of the novel coronavirus in North Carolina is linked to a Seattle-area nursing home facility where five residents were sick and later died, authorities in the Tar Heel state said Tuesday.",
+            "url": "https://www.cnn.com/2020/03/03/us/north-carolina-coronavirus-case-washington/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303164551-north-carolina-coronavirus-case-washington-link-super-tease.jpg",
+            "publishedAt": "2020-03-03T22:15:56Z",
+            "content": "Wash your hands often with soap and water for at least 20 seconds. Be sure to wash the backs of your hands and under your nails.\r\n Avoid touching your eyes, mouth or nose\r\n Stay at least 3 feet (1 meter) away from anyone who may be infected. \r\n If you're feel\u2026 [+241 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sherisse Pham, CNN Business",
+            "title": "Foxconn, the maker of Apple iPhones, expects production to return to normal this month",
+            "description": "Foxconn, the main assembler of Apple products such as the iPhone and iPad,expects to resume normal production by the end of the month after the coronavirus outbreak forced it to close factories in China in late January.",
+            "url": "https://www.cnn.com/2020/03/03/tech/foxconn-coronavirus-apple/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303003706-foxconn-coronavirus-super-tease.jpg",
+            "publishedAt": "2020-03-03T10:15:59Z",
+            "content": "Hong Kong (CNN Business)Foxconn, the main assembler of Apple(AAPL) products such as the iPhone and iPad,expects to resume normal production by the end of the month after the coronavirus outbreak forced it to close factories in China in late January.\r\nBut the \u2026 [+2823 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Vanessa Kerry",
+            "title": "Opinion: Our flawed health system isn't up to this challenge",
+            "description": "Vanessa Kerry writes that the story of Osmel Martinez Azcue, a man charged over $3,000 for taking responsible action and visiting a hospital to be screened for the novel coronavirus after he returned from China with flu-like symptoms, proves that if we are go\u2026",
+            "url": "https://www.cnn.com/2020/03/02/opinions/coronavirus-highlights-flawed-health-care-system-kerry/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200210182303-u-s-new-york-pedestrian-coronavirus-face-mask--super-tease.jpg",
+            "publishedAt": "2020-03-03T02:28:57Z",
+            "content": "Dr. Vanessa Kerry is a critical care physician at Mass General Hospital, an associate professor at Harvard Medical School and CEO of Seed Global Health, which partners with governments to invest in health care capacity for national, economic and human securit\u2026 [+6924 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amir Vera and Pierre Meilhan, CNN",
+            "title": "Tug-of-war: Texas and federal officials spar over containing virus",
+            "description": "Gay Courter woke up ready with her bags packed Monday after being confined to Lackland Air Force Base in Texas for the last two weeks.",
+            "url": "https://www.cnn.com/2020/03/03/us/san-antonio-texas-federal-government-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302022736-coronavirus-san-antonio-evacuees-0207-super-tease.jpg",
+            "publishedAt": "2020-03-03T07:14:10Z",
+            "content": "San Antonio Mayor Nirenberg wants quarantined patients tested a third time for the coronavirus after a person in the city, who had previously tested negative twice for the virus, and was released by the US CDC, is back in quarantine after a subsequent test ca\u2026 [+88 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Analysis by Stephen Collinson, CNN",
+            "title": "Spread of virus gives White House a grave stress test",
+            "description": "The White House's capacity to control the coronavirus crisis, the credibility of its upbeat messaging and its efforts to build public trust are about to face a grave test as health officials report a spike in confirmed cases and new deaths on US soil.",
+            "url": "https://www.cnn.com/2020/03/03/politics/donald-trump-coronavirus-mike-pence-preparation/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302185709-06-trump-coronavirus-0302-super-tease.jpg",
+            "publishedAt": "2020-03-03T05:02:26Z",
+            "content": "Washington (CNN)The White House's capacity to control the coronavirus crisis, the credibility of its upbeat messaging and its efforts to build public trust are about to face a grave test as health officials report a spike in confirmed cases and new deaths on \u2026 [+7936 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ted Barrett and Manu Raju, CNN",
+            "title": "Vaccine affordability provision a last sticking point in Coronavirus funding package talks in Congress",
+            "description": "Congressional negotiators as of Tuesday afternoon have not finalized a multi-billion supplemental spending bill to respond to the coronavirus outbreak in the US and a final sticking point revolves around how to make an eventual vaccine affordable, according t\u2026",
+            "url": "https://www.cnn.com/2020/03/03/politics/coronavirus-funding-fight-congress/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302175315-01-wh-coronavirus-presser-0302-super-tease.jpg",
+            "publishedAt": "2020-03-03T20:41:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy, Omar Jimenez and Julia Jones, CNN",
+            "title": "Nursing home in Seattle area at the center of US coronavirus outbreak",
+            "description": "Nobody but the people who work at the Life Care Center, home to about 108 patients, and other health care workers are being allowed into the nursing care and rehabilitation facility in the Seattle suburb of Kirkland.",
+            "url": "https://www.cnn.com/2020/03/03/health/life-care-center-nursing-home-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229171705-life-care-center-kirkland-super-tease.jpg",
+            "publishedAt": "2020-03-03T06:14:49Z",
+            "content": "Kirkland, Washington (CNN)Nobody but the people who work at the Life Care Center, home to about 108 patients, and other health care workers are being allowed into the nursing care and rehabilitation facility in the Seattle suburb of Kirkland.\r\nOfficials there\u2026 [+3916 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham, CNN",
+            "title": "5 things to know for March 3: 2020 Dems, coronavirus, Obamacare, Israel, Apple",
+            "description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
+            "url": "https://www.cnn.com/2020/03/03/us/five-things-march-3-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302222212-biden-sanders-split-0302-super-tease.jpg",
+            "publishedAt": "2020-03-03T11:07:45Z",
+            "content": "(CNN)A friendly reminder from a new Harvard Medical School study: If you're not sticking to a regular sleep schedule, you could be hurting your health. Just what you need to heart first thing in the morning! \r\nHere's what you need to know to Get Up to Speed a\u2026 [+5295 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alicia Lee, CNN",
+            "title": "Don't try to make your own hand sanitizer just because there's a shortage from coronavirus",
+            "description": "Recipes for DIY hand sanitizer are popping all over the internet. But experts are wary and even caution against the idea.",
+            "url": "https://www.cnn.com/2020/03/03/health/coronavirus-diy-hand-sanitizer-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/150911164931-hand-sanitizer-stock-super-tease.jpg",
+            "publishedAt": "2020-03-03T17:55:06Z",
+            "content": "(CNN)As anxiety surrounding the novel coronavirus swirls in the US, some stores are struggling to keep up with the demand for hand sanitizer. With the shelves empty and online pharmacies out of stock, people have resorted to making their own.\r\nBut think twice\u2026 [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mark Zandi for CNN Business Perspectives",
+            "title": "The trade war put the economy on its heels. The coronavirus will be much worse",
+            "description": "If the CDC's warning comes to pass, then recession will be difficult to avoid, writes Mark Zandi, chief economist of Moody's Analytics.",
+            "url": "https://www.cnn.com/2020/03/03/perspectives/coronavirus-economy-recession-fed-rate-cut/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303090934-us-economy-vulnerable-coronavirus-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T16:58:57Z",
+            "content": "Mark Zandi is chief economist of Moody's Analytics. He was an advisor to John McCain's 2008 presidential campaign and supported Hillary Clinton in the 2016 presidential election. The opinions expressed in this commentary are his own. \r\nThe coronavirus is an e\u2026 [+4533 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Vanessa Kerry",
+            "title": "Our flawed health system isn't up to the challenge of the coronavirus",
+            "description": "Vanessa Kerry writes that the story of Osmel Martinez Azcue, a man charged over $3,000 for taking responsible action and visiting a hospital to be screened for the novel coronavirus after he returned from China with flu-like symptoms, proves that if we are go\u2026",
+            "url": "https://www.cnn.com/2020/03/02/opinions/coronavirus-highlights-flawed-health-care-system-kerry/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200210182303-u-s-new-york-pedestrian-coronavirus-face-mask--super-tease.jpg",
+            "publishedAt": "2020-03-03T02:22:04Z",
+            "content": "Dr. Vanessa Kerry is a critical care physician at Mass General Hospital, an associate professor at Harvard Medical School and CEO of Seed Global Health, which partners with governments to invest in health care capacity for national, economic and human securit\u2026 [+6924 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sara Ashley O'Brien, CNN Business",
+            "title": "Uber, Lyft warn drivers about coronavirus, but offer no paid sick days",
+            "description": "Sanitizers at driver service locations. Reminders not to discriminate against passengers of any kind. But no paid sick days.",
+            "url": "https://www.cnn.com/2020/03/03/tech/gig-economy-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302153816-lyft-uber-car-restricted-super-tease.jpg",
+            "publishedAt": "2020-03-03T15:22:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Opinion by Aaron David Miller",
+            "title": "Netanyahu scrabbles his way to one of his biggest victories",
+            "description": "We may be in for weeks of political maneuvering as Netanyahu seeks to get to the magic 61 seats -- and for new elections if he ends up not being able to form a government, writes Aaron David Miller.",
+            "url": "https://www.cnn.com/2020/03/03/opinions/israeli-elections-march-2020-miller/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191225170219-benjamin-netanyahu-file-super-tease.jpg",
+            "publishedAt": "2020-03-03T20:13:33Z",
+            "content": "Aaron David Miller is a senior fellow at the Carnegie Endowment for International Peace and author of \"The End of Greatness: Why America Can't Have (and Doesn't Want) Another Great President.\" Miller was a State Department Middle East analyst and negotiator i\u2026 [+5817 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena, CNN Business",
+            "title": "Bentley unveils $2 million roofless car with trim made from 5,000 year-old wood",
+            "description": "Bentley has unveiled the Mulliner Bacalar, a $2 million open-topped car with interior trim that's made from trees that fell 5,000 years ago. Only 12 of these cars will be made, Bentley said.",
+            "url": "https://www.cnn.com/2020/03/03/cars/bentley-bacalar/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302142920-01-bentley-bacalar-super-tease.jpg",
+            "publishedAt": "2020-03-03T09:04:37Z",
+            "content": "(CNN Business)Bentley has unveiled the Mulliner Bacalar, a $2 million open-topped car with interior trim that's made from trees that fell 5,000 years ago. Only 12 of these cars will be made, Bentley said.\r\nThe company had planned to reveal the Bacalar at the \u2026 [+3255 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Tips for responsible reporting about coronavirus - CNN Video",
+            "description": "Brian Stelter speaks with Aleksandra Kuzmanovic of the W.H.O. about the measures being taken to combat the \"infodemic\" of health misinformation on social media. Dr. Seema Yasmin shares best practices for newsrooms that are covering the coronavirus. ( cnn.com )",
+            "url": "https://www.cnn.com/videos/business/2020/03/01/tips-for-responsible-reporting-about-coronavirus.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200301134721-rs-yasmin-super-tease.jpg",
+            "publishedAt": "2020-03-03T02:25:02Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "George Ramsay, CNN",
+            "title": "Inter Milan president calls Serie A counterpart 'clown' over handling impact of coronavirus",
+            "description": "Inter Milan president Steven Zhang has hit out at Serie A president Paolo Dal Pino over the league's rescheduling of fixtures as a result of the novel coronavirus outbreak.",
+            "url": "https://edition.cnn.com/2020/03/03/football/inter-milan-juventus-steven-zhang-paolo-dal-pino-serie-a-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303052504-steven-zhang-super-tease.jpg",
+            "publishedAt": "2020-03-03T12:07:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aleks Klosok, CNN",
+            "title": "UEFA says let's 'not talk about dark scenarios' about Euro 2020 and coronavirus",
+            "description": "Aleksander Ceferin, the President of European football's governing body UEFA, says he is confident that Euro 2020 will go ahead as planned this summer.",
+            "url": "https://edition.cnn.com/2020/03/03/football/coronavirus-euro-2020-uefa-aleksander-ceferin-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200225200909-soccer-coranavirus-mask-super-tease.jpg",
+            "publishedAt": "2020-03-03T13:16:27Z",
+            "content": "(CNN)Aleksander Ceferin, the President of European football's governing body UEFA, says he is confident that Euro 2020 will go ahead as planned this summer.\r\nThere have been ongoing concerns that the tournament, which is Europe's flagship international compet\u2026 [+753 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "More than 100 known coronavirus cases reported across US",
+            "description": "Six people have died in Washington state as more than 100 cases of the novel coronavirus have been reported across the US. CNN's Nick Watt reports.",
+            "url": "https://www.cnn.com/videos/us/2020/03/03/us-coronavirus-watt-pkg-ac360-intl-hnk-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303130215-kirkland-coronavirus-us-super-tease.jpg",
+            "publishedAt": "2020-03-03T13:12:47Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "The bull market is turning 11. Will coronavirus stop its epic run?",
+            "description": "This bull market run has survived a government shutdown and fiscal cliff, but fears of a global pandemic are signaling major volatility may lie ahead.",
+            "url": "https://www.cnn.com/videos/economy/2020/03/02/bull-market-coronavirus-aniversary-dow-jones-stock-orig.cnn-business",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200219113304-wall-street-bull-file-super-tease.jpg",
+            "publishedAt": "2020-03-03T21:31:43Z",
+            "content": "Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds."
+        }
+    ]
+}

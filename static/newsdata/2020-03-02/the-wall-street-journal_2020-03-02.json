@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 12,
+    "totalResults": 13,
     "articles": [
         {
             "source": {
@@ -66,6 +66,19 @@
             "urlToImage": "https://images.wsj.net/im-159449/social",
             "publishedAt": "2020-03-02T18:54:00Z",
             "content": "Saudi Arabia is trying to persuade Russia to join oil producers in an emergency crude-production cut, as the industry grapples with oversupply and operational slowdowns resulting from the spread of the coronavirus.\r\nRepresentatives from the Organization of th\u2026 [+270 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Suzanne Vranica",
+            "title": "Ad Business Likely to Suffer as Firms Brace for Spread of Coronavirus - The Wall Street Journal",
+            "description": "Publicis unit, a large advertising buyer, plans to cut global spending forecast; New York Times warns of slump",
+            "url": "https://www.wsj.com/articles/ad-business-likely-to-suffer-as-firms-brace-for-spread-of-coronavirus-11583190283",
+            "urlToImage": "https://images.wsj.net/im-159788/social",
+            "publishedAt": "2020-03-02T23:14:00Z",
+            "content": "With the coming U.S. presidential election and Summer Olympics, 2020 was expected to be a good year for advertising. Then came the coronavirus.\r\nOne of the worlds largest ad buyers plans to lower its forecast for global advertising spending, which is often am\u2026 [+90 chars]"
         },
         {
             "source": {

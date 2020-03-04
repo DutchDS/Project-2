@@ -1,0 +1,669 @@
+{
+    "status": "ok",
+    "totalResults": 51,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Joohee Cho, Hakyung Kate Lee",
+            "title": "South Korean president declares war on COVID-19 as deaths there reach 31",
+            "description": "More than 5,000 cases of coronavirus have been confirmed in South Korea.",
+            "url": "https://abcnews.go.com/International/south-korean-president-declares-war-covid-19-deaths/story?id=69360757",
+            "urlToImage": "https://s.abcnews.com/images/International/south-korea-facemasks_hpMain_20200224-223213_16x9_992.jpg",
+            "publishedAt": "2020-03-03T17:21:50Z",
+            "content": "SEOUL, South Korea -- \r\nSouth Korean President Moon Jae-in has declared \"war\" on the novel coronavirus after the country has recorded more than 5,000 confirmed cases and more than 30 deaths.\r\nAt least 125,000 people have been tested, and 31 have died from COV\u2026 [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Will Steakin",
+            "title": "Trump hits campaign trail in NC amid mounting coronavirus threat",
+            "description": "President Donald Trump is back on the campaign trial Monday for another counter programming rally amid a mounting coronavirus threat.",
+            "url": "https://abcnews.go.com/Politics/trump-hits-campaign-trail-nc-amid-mounting-coronavirus/story?id=69343620",
+            "urlToImage": "https://s.abcnews.com/images/Politics/trump-rally-supporters-rt-jef-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T00:04:45Z",
+            "content": "President Donald Trump is back on the campaign trial Monday night for another counter programming rally, this time in Charlotte, North Carolina, the day before Super Tuesday, as his administration continues to work to combat the growing threat of the novel co\u2026 [+2557 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW TAYLOR and LISA MASCARO Associated Press",
+            "title": "Lawmakers close in on $7.5B measure to battle coronavirus",
+            "description": "Lawmakers are finalizing a $7.5 billion emergency bill to fund the government's response to the coronavirus outbreak in a burst of bipartisan cooperation",
+            "url": "https://abcnews.go.com/Politics/wireStory/lawmakers-close-75b-measure-battle-coronavirus-69363425",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_638cc2990c264b379da4581fc9184903_16x9_992.jpg",
+            "publishedAt": "2020-03-03T18:05:56Z",
+            "content": "WASHINGTON -- \r\nLawmakers are finalizing a $7.5 billion emergency bill to fund the government's response to the coronavirus outbreak, in a burst of bipartisan cooperation that's atypical of today's Washington.\r\nSen. Chuck Schumer, a caustic critic of Presiden\u2026 [+3375 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stephanie Ebbs",
+            "title": "Washington State senator 'frustrated' residents can't get tested for new coronavirus",
+            "description": "Washington Sen. Patty Murray expressed frustration to CDC officials Tuesday about what she said was a lack of COVID-19 testing available in her hard-hit state.",
+            "url": "https://abcnews.go.com/Politics/washington-state-senator-frustrated-residents-tested-coronavirus/story?id=69358279",
+            "urlToImage": "https://s.abcnews.com/images/Politics/coronavirus1-dc-gty-ml-200303_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T17:02:16Z",
+            "content": "At a congressional hearing Tuesday reviewing the U.S. response to the COVID-19 crisis, Washington Sen. Patty Murray expressed strong frustration to federal health officials over what she said was a lack of testing in her home state where at least six people h\u2026 [+6030 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "Coronavirus live updates: US man with no known connection to hot spots tests positive",
+            "description": "A virus epidemic that started in China about two months ago is now tightening its grip around the globe.",
+            "url": "https://abcnews.go.com/International/coronavirus-outbreak-slows-china-grows-world/story?id=69352520",
+            "urlToImage": "https://s.abcnews.com/images/International/disinfectant-spray-xiaogan-china-getty-200303_hpMain_20200303-044814_16x9_992.jpg",
+            "publishedAt": "2020-03-03T16:08:22Z",
+            "content": "A virus epidemic that started in China about two months ago is now tightening its grip around the globe.\r\nTodays highlights:\r\n<li>COVID-19 does not compare to SARS, MERS or influenza, WHO says.</li><li>Man in \"serious condition\" after testing positive in West\u2026 [+11906 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "After a week of bloodletting, US stock markets rebound sharply",
+            "description": "After some major bloodletting last week, the Dow Jones Industrial Average had its biggest single-day percentage gain since 2009 on Monday, rising nearly 1,300 points.",
+            "url": "https://abcnews.go.com/US/week-bloodletting-us-stock-markets-rebound-sharply/story?id=69344122",
+            "urlToImage": "https://s.abcnews.com/images/Business/nyse-rt-aa-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T00:46:06Z",
+            "content": "After some major bloodletting last week, the Dow Jones Industrial Average had its biggest single-day percentage gain since 2009 on Monday, rising nearly 1,300 points or more than 5%.\r\nThe S&amp;P 500 and Nasdaq similarly rallied Monday, up by 4.6% and 4.49%, \u2026 [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stephanie Ebbs",
+            "title": "Anyone can be tested for COVID-19, subject to a doctor's orders: Pence",
+            "description": "Vice President Pence said the CDC was issuing new guidance that anyone can be tested for COVID19 with no restrictions, subject to a doctor's orders.",
+            "url": "https://abcnews.go.com/Politics/tested-covid-19-subject-doctors-orders-pence/story?id=69366725",
+            "urlToImage": "https://s.abcnews.com/images/US/coronavirus-testkit-sample-5_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T23:55:33Z",
+            "content": "The Centers for Disease Control is issuing new guidance that anyone can be tested for COVID-19 with no restrictions, subject to a doctor's orders, Vice President Mike Pence announced in a briefing with reporters Tuesday evening.\r\nThe CDC's previous guidance w\u2026 [+8473 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAVID McHUGH and ALEXANDRA OLSON AP Business Writers",
+            "title": "Wine, cars: businesses go online as virus hits trade shows",
+            "description": "Trade events are quickly going dark across the globe due to the new coronavirus",
+            "url": "https://abcnews.go.com/Technology/wireStory/wine-cars-businesses-online-virus-hits-trade-shows-69354015",
+            "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_fae0b55ab91d4b8db7352de48b44b6a0_16x9_992.jpg",
+            "publishedAt": "2020-03-03T11:19:02Z",
+            "content": "FRANKFURT, Germany -- \r\nFine wines and hipster gin. Hunting rifles and knives. Contemporary paintings and million-dollar sports cars. They're all marketed at trade events that are quickly going dark across the globe due to the new coronavirus - and taking wit\u2026 [+5588 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran says 77 dead amid 2,336 cases of the new coronavirus in the Islamic Republic",
+            "description": "Iran says 77 dead amid 2,336 cases of the new coronavirus in the Islamic Republic",
+            "url": "https://abcnews.go.com/International/wireStory/iran-77-dead-amid-2336-cases-coronavirus-islamic-69353880",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T10:42:47Z",
+            "content": "TEHRAN, Iran -- \r\nIran says 77 dead amid 2,336 cases of the new coronavirus in the Islamic Republic."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Semiofficial news agencies in Iran report the head of country's emergency medical services is ill with new coronavirus",
+            "description": "Semiofficial news agencies in Iran report the head of country's emergency medical services is ill with new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/semiofficial-news-agencies-iran-report-head-countrys-emergency-69354487",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T12:00:47Z",
+            "content": "TEHRAN, Iran -- \r\nSemiofficial news agencies in Iran report the head of country's emergency medical services is ill with new coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Iran's supreme leader orders armed forces to assist Health Ministry in combating the spread of the new coronavirus",
+            "description": "Iran's supreme leader orders armed forces to assist Health Ministry in combating the spread of the new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/irans-supreme-leader-orders-armed-forces-assist-health-69353637",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T10:22:49Z",
+            "content": "TEHRAN, Iran -- \r\nIran's supreme leader orders armed forces to assist Health Ministry in combating the spread of the new coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Net group says Wikipedia disrupted in Iran amid coronavirus",
+            "description": "An advocacy group says Wikipedia's Farsi-language website appears to be disrupted in Iran after a close confidant to the country's supreme leader died of the new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/net-group-wikipedia-disrupted-iran-amid-coronavirus-69352464",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_28557eed2534472a9ed2f12d5ea0c4a6_16x9_992.jpg",
+            "publishedAt": "2020-03-03T07:49:17Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nWikipedia's Farsi-language website appears to be disrupted in Iran after a close confidant to the country's supreme leader died of the new coronavirus, an activist group said Tuesday, as the Islamic Republic suffers the highes\u2026 [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Washington state reports seventh death from coronavirus",
+            "description": "Washington state reports seventh death from coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/washington-state-reports-seventh-death-coronavirus-69365205",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T19:16:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Washington state health officials report 9 total coronavirus deaths",
+            "description": "Washington state health officials report 9 total coronavirus deaths",
+            "url": "https://abcnews.go.com/Health/wireStory/washington-state-health-officials-report-total-coronavirus-deaths-69366520",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T20:01:10Z",
+            "content": "SEATTLE -- \r\nWashington state health officials report 9 total coronavirus deaths."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The impact of spreading virus",
+            "description": "Ford is banning all corporate air travel with few exceptions due to the coronavirus outbreak",
+            "url": "https://abcnews.go.com/Travel/wireStory/impact-spreading-virus-69364916",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_4377f8f08a3b4d0e960c0a81d7412ce3_16x9_992.jpg",
+            "publishedAt": "2020-03-03T18:50:48Z",
+            "content": "NEW YORK -- \r\nCORPORATE TRAVEL: Ford Motor Co. has banned all corporate air travel with few exceptions due to the coronavirus outbreak.\r\nA person who read a message from CEO Jim Hackett says employees were told of the change Thursday.\r\nThe restrictions are am\u2026 [+734 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAVID McHUGH and ALEXANDRA OLSON AP Business Writers",
+            "title": "Trade show blues: Exhibitions go virtual as virus spreads",
+            "description": "Trade events are quickly going dark across the globe due to the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/trade-show-blues-exhibitions-virtual-virus-spreads-69354523",
+            "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_fae0b55ab91d4b8db7352de48b44b6a0_16x9_992.jpg",
+            "publishedAt": "2020-03-03T12:10:03Z",
+            "content": "FRANKFURT, Germany -- \r\nFine wines and hipster gin. Hunting rifles and knives. Contemporary paintings and million-dollar sports cars. They're all marketed at trade events that are quickly going dark across the globe due to the new coronavirus - and taking wit\u2026 [+5665 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BY JILL LAWLESS and DANICA KIRKA Associated Press",
+            "title": "UK, so far mildly affected, prepares for severe virus spread",
+            "description": "UK Prime Minister Boris Johnson has unveiled its for containing the spread of the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/uk-mildly-affected-prepares-severe-virus-spread-69355809",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_b5b593f13326400b84bbfa7d9aa9479a_16x9_992.jpg",
+            "publishedAt": "2020-03-03T13:15:04Z",
+            "content": "LONDON -- \r\nRetired doctors could be called back to work, police might stop investigating minor crimes and local authorities would may struggle to deal with the burden of extra deaths if a new coronavirus spreads widely across Britain, the government said Tue\u2026 [+4205 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DARLENE SUPERVILLE and CALVIN WOODWARD Associated Press",
+            "title": "A disconnect between Trump and health officials on virus",
+            "description": "President Donald Trump's latest take on the coronavirus is an optimistic one",
+            "url": "https://abcnews.go.com/Health/wireStory/disconnect-trump-health-officials-virus-69368892",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_19fa330970ec44839fc49e5d26986dd1_16x9_992.jpg",
+            "publishedAt": "2020-03-03T22:45:10Z",
+            "content": "WASHINGTON -- \r\nWhom to believe on the coronavirus threat the president saying one thing or the public health officials standing beside him and saying something a little different? \r\nPresident Donald Trumps breezy talk Tuesday of a virus that's got the world \u2026 [+5419 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "US Federal Reserve cuts benchmark interest rate by half-point, most since 2008, to offset coronavirus impact",
+            "description": "US Federal Reserve cuts benchmark interest rate by half-point, most since 2008, to offset coronavirus impact",
+            "url": "https://abcnews.go.com/US/wireStory/us-federal-reserve-cuts-benchmark-interest-rate-half-69358769",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T15:00:47Z",
+            "content": "WASHINGTON -- \r\nUS Federal Reserve cuts benchmark interest rate by half-point, most since 2008, to offset coronavirus impact."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LORI HINNANT Associated Press",
+            "title": "Schools close in French, German virus cluster zones",
+            "description": "Tens of thousands of students in virus cluster zones are home from school in France, with a smaller number in Germany and Poland facing quarantines or days without class",
+            "url": "https://abcnews.go.com/International/wireStory/schools-close-french-german-virus-cluster-zones-69354137",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_25984f6c1a87439abfee846094e56a71_16x9_992.jpg",
+            "publishedAt": "2020-03-03T11:25:18Z",
+            "content": "PARIS -- \r\nTens of thousands of students in virus cluster zones are home from school in France on Tuesday, with a smaller number in Germany and Poland facing quarantines or days without class. \r\nFrance's education minister, Jean-Michel Blanquer, said around 1\u2026 [+1570 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RICARDO ALONSO-ZALDIVAR and MIKE STOBBE Associated Press",
+            "title": "In Congress, questions about overdue testing for coronavirus",
+            "description": "Lawmakers are expressing skepticism about U.S. health officials' claims that long-overdue testing for the new coronavirus would be widely available by the end of the week",
+            "url": "https://abcnews.go.com/Health/wireStory/congress-questions-overdue-testing-coronavirus-69363682",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_a68cf1177607432e9fe28a4391ae035c_16x9_992.jpg",
+            "publishedAt": "2020-03-03T18:04:11Z",
+            "content": "WASHINGTON -- \r\nLawmakers on Tuesday expressed skepticism about U.S. health officials' claims that long-overdue testing for the new coronavirus would be widely available by the end of the week.\r\nHealth officials have said U.S. labs should have the capacity to\u2026 [+4209 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "What's Happening: Olympics may be late, Twitter telecommutes",
+            "description": "Japan's Olympic minister says the games only need to be held in 2020, implying a delay is possible as the new coronavirus continues to spread around the globe",
+            "url": "https://abcnews.go.com/Health/wireStory/happening-olympics-late-twitter-telecommutes-69354359",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_38c115f6dba946f99c1efe58b07815de_16x9_992.jpg",
+            "publishedAt": "2020-03-03T11:52:31Z",
+            "content": "BERLIN -- \r\nMore countries are reporting cases of the new coronavirus while more governments issue travel warnings for their citizens and companies urge employees to work from home to prevent infections. \r\nThese are some of the latest developments Tuesday:\r\nJ\u2026 [+3072 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "GENE JOHNSON and CARLA K. JOHNSON Associated Press",
+            "title": "Tensions rise as U.S. death toll from coronavirus reaches 7",
+            "description": "The death toll from the coronavirus in the U.S. has climbed to seven, with tensions rising over how to contain the outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/tensions-rise-us-death-toll-coronavirus-reaches-69365977",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_0a40e3cb2811456d921a4fc3f5ed3a93_16x9_992.jpg",
+            "publishedAt": "2020-03-03T19:31:47Z",
+            "content": "SEATTLE -- \r\nTensions over how to contain the fast-spreading coronavirus intensified Tuesday in the United States as the death toll climbed to seven and lawmakers expressed doubts about the government's ability to ramp up testing fast enough to deal with the \u2026 [+4126 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Eurozone inflation eases back on lower energy costs",
+            "description": "Inflation across the 19-country eurozone slipped back in February",
+            "url": "https://abcnews.go.com/International/wireStory/eurozone-inflation-eases-back-lower-energy-costs-69354715",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_d651b72c296744848651fa7f57492526_16x9_992.jpg",
+            "publishedAt": "2020-03-03T12:19:07Z",
+            "content": "BRUSSELS -- \r\nInflation across the 19-country eurozone slipped back in February largely as a result of lower energy prices, official figures showed Tuesday.\r\nStatistics agency Eurostat said consumer prices were 1.2% higher in the year to February, down from t\u2026 [+1213 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAVID McHUGH and ALEXANDRA OLSON AP Business Writers",
+            "title": "Wine, cars: businesses go online as virus hits trade shows",
+            "description": "Trade events are quickly going dark across the globe due to the new coronavirus",
+            "url": "https://abcnews.go.com/Business/wireStory/wine-cars-businesses-online-virus-hits-trade-shows-69354290",
+            "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_fae0b55ab91d4b8db7352de48b44b6a0_16x9_992.jpg",
+            "publishedAt": "2020-03-03T11:44:02Z",
+            "content": "FRANKFURT, Germany -- \r\nFine wines and hipster gin. Hunting rifles and knives. Contemporary paintings and million-dollar sports cars. They're all marketed at trade events that are quickly going dark across the globe due to the new coronavirus - and taking wit\u2026 [+5569 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "THOMAS ADAMSON Associated Press",
+            "title": "Chanel hosts pared-down show as virus keeps many VIPs away",
+            "description": "Chanel staged a comparatively low-key affair for Paris Fashion Week as the coronavirus outbreak kept many of the regular VIPs and fashion editors away",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/chanel-hosts-pared-show-virus-vips-69361651",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_57140c4a8ffd44cf87e2cd7f77666c34_16x9_992.jpg",
+            "publishedAt": "2020-03-03T16:43:25Z",
+            "content": "PARIS -- \r\nChanel staged a comparatively low-key affair for Paris Fashion Week as the coronavirus outbreak kept many of the regular VIPs and fashion editors away. The stalwart Parisian design house streamed its show online. Some of the guests who came to see \u2026 [+2637 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "EDITH M. LEDERER Associated Press",
+            "title": "China says North Korea is suffering `negatively' from virus",
+            "description": "China\u2019s U.N. ambassador says North Korea is suffering \u201cnegatively\u201d from the coronavirus and is calling for greater flexibility from the United States and other countries on lifting sanctions against the country",
+            "url": "https://abcnews.go.com/US/wireStory/china-north-korea-suffering-negatively-virus-69346692",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T00:14:47Z",
+            "content": "UNITED NATIONS -- \r\nChinas U.N. ambassador said Monday that North Korea is suffering negatively from the coronavirus and called for greater flexibility from the United States and other countries on lifting sanctions against the country.\r\nZhang Jun told a news\u2026 [+3543 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Cruise ship in Norway awaits virus test on 2 passengers",
+            "description": "A German cruise ship with 1,200 passengers is moored in southern Norway waiting for the test results of two passengers who had been on land to be tested for the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/cruise-ship-norway-awaits-virus-test-passengers-69356687",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_49c5ed64232743f1be3f5624f544c0d2_16x9_992.jpg",
+            "publishedAt": "2020-03-03T13:40:05Z",
+            "content": "COPENHAGEN, Denmark -- \r\nA German cruise ship with 1,200 passengers is moored in southern Norway waiting for the test results of two passengers who had been on land to be tested for the new coronavirus, officials said Tuesday.\r\nThe town of Haugesund, 110 kilo\u2026 [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LOLITA C. BALDOR Associated Press",
+            "title": "Army beginning increased virus screening for new recruits",
+            "description": "The U.S. Army is beginning increased health screenings for all new soldier recruits arriving at the four basic training centers around the country in order to detect the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/army-beginning-increased-virus-screening-recruits-69368036",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T21:54:09Z",
+            "content": "WASHINGTON -- \r\nThe U.S. Army on Tuesday began increased health screenings for all new soldier recruits arriving at the four basic training centers around the country in order to detect the new coronavirus, a senior commander said.\r\nArmy Gen. Paul Funk, head \u2026 [+1799 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSEPH PISANI AP Retail Writer",
+            "title": "Looking for hand sanitizer? Good luck finding it",
+            "description": "Fear of the coronavirus has led people to stock up on hand sanitizer, leaving store shelves empty and online retailers with sky-high prices set by those trying to profit on the rush",
+            "url": "https://abcnews.go.com/US/wireStory/hand-sanitizer-good-luck-finding-69367587",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_d9ff742c13a24373b481a2744e571c26_16x9_992.jpg",
+            "publishedAt": "2020-03-03T21:17:17Z",
+            "content": "NEW YORK -- \r\nThe hand sanitizers on Amazon were overpriced. A Walmart this weekend was completely sold out. Only on his third try was Ken Smith able to find the clear gel at a Walgreens, where three bottles of Purell were left. He bought two.\r\nI didnt want t\u2026 [+4061 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "THOMAS ADAMSON Associated Press",
+            "title": "Chanel hosts pared-down show as virus keeps many VIPs away",
+            "description": "Chanel staged a comparatively low-key affair for Paris Fashion Week as the coronavirus outbreak kept many of the regular VIPs and fashion editors away",
+            "url": "https://abcnews.go.com/Business/wireStory/chanel-hosts-pared-show-virus-vips-69366556",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_b4a3cf9e4a964842abf0fdb8a28ed679_16x9_992.jpg",
+            "publishedAt": "2020-03-03T20:01:52Z",
+            "content": "PARIS -- \r\nLouis Vuitton staged a dazzling cinematic fashion production to cap Paris Fashion Week on Tuesday, with a wall of around 200 human figures dressed in elite fashions spanning human history.\r\nChanel staged a comparatively low-key affair for Paris Fas\u2026 [+4617 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Australia cuts rate to record low 0.5% because of virus",
+            "description": "Australia\u2019s central bank has cut its benchmark interest rate by a quarter of a percentage point to a record low of 0.5% in response to the economic shock of the new coronavirus",
+            "url": "https://abcnews.go.com/Business/wireStory/australia-cuts-rate-record-low-05-virus-69350422",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T03:58:03Z",
+            "content": "CANBERRA, Australia -- \r\nAustralias central bank on Tuesday cut its benchmark interest rate by a quarter of a percentage point to a record low of 0.5% in response to the economic shock of the new coronavirus.\r\nThe reduction at the Reserve Bank of Australias m\u2026 [+714 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: Virus deaths in Italy soar, the most after China",
+            "description": "Italian officials say the number of deaths of coronavirus patients in Italy has more than doubled in a 24-hour period to 79 overall, the most so far outside of China",
+            "url": "https://abcnews.go.com/Business/wireStory/latest-virus-deaths-italy-soar-china-69363463",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_10fafb1652984dc8a688c98c898b5832_16x9_992.jpg",
+            "publishedAt": "2020-03-03T17:48:36Z",
+            "content": "BEIJING -- \r\nThe Latest on the virus outbreak (all times local):\r\n1:35 a.m.\r\nItalian officials say the number of deaths of coronavirus patients in Italy has more than doubled in a 24-hour period to 79 overall, the most so far outside of China.\r\nAccording to t\u2026 [+8836 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "US stocks open lower after G-7 holds off on new stimulus",
+            "description": "Stocks are opening lower on Wall Street after the Group of Seven countries held off on giving the global economy new stimulus to help it cope with the coronavirus outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/us-stocks-open-lower-holds-off-stimulus-69358280",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_fb8523de6a304eed94869b4655e2f880_16x9_992.jpg",
+            "publishedAt": "2020-03-03T14:46:24Z",
+            "content": "NEW YORK -- \r\nStocks are opening lower on Wall Street after the Group of Seven countries held off on giving the global economy new stimulus to help it cope with the coronavirus outbreak. Traders had been keenly awaiting the outcome of Tuesday's conference cal\u2026 [+4259 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The impact of spreading virus on businesses and economy",
+            "description": "The 189-nation International Monetary Fund and its sister lending organization, the World Bank, will replace their regular spring meetings in Washington with a \u201cvirtual format\u201d in response to the coronavirus",
+            "url": "https://abcnews.go.com/Business/wireStory/impact-spreading-virus-businesses-economy-69364969",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_4377f8f08a3b4d0e960c0a81d7412ce3_16x9_992.jpg",
+            "publishedAt": "2020-03-03T18:56:03Z",
+            "content": "NEW YORK -- \r\nPUBLIC FORUMS: The 189-nation International Monetary Fund and its sister lending organization, the World Bank, announced Tuesday that they will replace their regular spring meetings in Washington with a virtual format in response to the coronavi\u2026 [+1588 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "US stocks open lower after G-7 holds off on new stimulus",
+            "description": "Stocks are opening lower on Wall Street after the Group of Seven countries held off on giving the global economy new stimulus to help it cope with the coronavirus outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/us-stocks-open-lower-holds-off-stimulus-69358281",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_fb8523de6a304eed94869b4655e2f880_16x9_992.jpg",
+            "publishedAt": "2020-03-03T14:44:54Z",
+            "content": "NEW YORK -- \r\nStocks are opening lower on Wall Street after the Group of Seven countries held off on giving the global economy new stimulus to help it cope with the coronavirus outbreak. Traders had been keenly awaiting the outcome of Tuesday's conference cal\u2026 [+4259 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSEPH PISANI AP Retail Writer",
+            "title": "Looking for hand sanitizer? Good luck finding it",
+            "description": "Fear of the coronavirus has led people to stock up on hand sanitizer, leaving store shelves empty and online retailers with sky-high prices set by those trying to profit on the rush",
+            "url": "https://abcnews.go.com/Business/wireStory/hand-sanitizer-good-luck-finding-69367588",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_d9ff742c13a24373b481a2744e571c26_16x9_992.jpg",
+            "publishedAt": "2020-03-03T21:17:28Z",
+            "content": "NEW YORK -- \r\nThe hand sanitizers on Amazon were overpriced. A Walmart this weekend was completely sold out. Only on his third try was Ken Smith able to find the clear gel at a Walgreens, where three bottles of Purell were left. He bought two.\r\nI didnt want t\u2026 [+4061 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LORI HINNANT Associated Press",
+            "title": "Schools close in French, German virus cluster zones",
+            "description": "Tens of thousands of students in virus cluster zones are home from school in France, with a smaller number in Germany and Poland facing quarantines or days without class",
+            "url": "https://abcnews.go.com/Health/wireStory/schools-close-french-german-virus-cluster-zones-69356319",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_25984f6c1a87439abfee846094e56a71_16x9_992.jpg",
+            "publishedAt": "2020-03-03T13:30:03Z",
+            "content": "PARIS -- \r\nTens of thousands of students in virus cluster zones are home from school in France on Tuesday, with a smaller number in Germany and Poland facing quarantines or days without class. \r\nFrance's education minister, Jean-Michel Blanquer, said around 1\u2026 [+2276 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KIM TONG-HYUNG Associated Press",
+            "title": "Kim watches N Korea military drill alongside masked officers",
+            "description": "North Korean state media says leader Kim Jong Un supervised an earlier live-fire rocket artillery exercise to confirm his military\u2019s combat readiness and \u201cfurther kindle the flames of training revolution.\"",
+            "url": "https://abcnews.go.com/International/wireStory/kim-watches-korea-military-drill-alongside-masked-officers-69349958",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_d9d4c76f0d77413c9c35e4d9c8729eda_16x9_992.jpg",
+            "publishedAt": "2020-03-03T03:05:31Z",
+            "content": "SEOUL, South Korea -- \r\nNorth Korean leader Kim Jong Un supervised an earlier live-fire rocket artillery exercise to confirm his militarys combat readiness and further kindle the flames of training revolution, state media said Tuesday.\r\nThe report by the Kore\u2026 [+2228 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LORI HINNANT Associated Press",
+            "title": "France seizes control of masks; Europeans close more schools",
+            "description": "France requisitioned protective masks and sent tens of thousands of students home from school while Norway blocked 1,200 passengers on a cruise ship as it awaited virus test results for two travelers",
+            "url": "https://abcnews.go.com/Business/wireStory/france-seizes-control-masks-europeans-close-schools-69361850",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_78fc34abbf1b49a3bb5bf3471f6389c9_16x9_992.jpg",
+            "publishedAt": "2020-03-03T16:48:57Z",
+            "content": "PARIS -- \r\nFrance requisitioned protective masks and sent tens of thousands of students home from school, Norway blocked 1,200 passengers on a cruise ship and Spain isolated dozens of health workers as the new coronavirus spread further Tuesday into Europe. \r\u2026 [+3886 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "G-7 major economies pledge cooperation to deal with virus",
+            "description": "Seven major economies pledged to use \u201call appropriate tools\" to deal with the spreading cornavirus but announced no immediate actions",
+            "url": "https://abcnews.go.com/US/wireStory/major-economies-pledge-cooperation-deal-virus-69355591",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_d4533f592d3a4101905b91488cc4adcb_16x9_992.jpg",
+            "publishedAt": "2020-03-03T13:08:32Z",
+            "content": "WASHINGTON -- \r\nSeven major economies pledged to use all appropriate tools\" to deal with the spreading coronavirus but announced no immediate actions.\r\nThe group of major industrial countries, referred to as the G-7, said Tuesday that it was ready to take act\u2026 [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "YURI KAGEYAMA AP Business Writer",
+            "title": "Tokyo falls back, other Asian markets track Wall St gains",
+            "description": "Shares in most Asian markets have tracked overnight gains on Wall Street, but Tokyo's benchmark fell back as concerns over the virus outbreak chilled buying sentiment",
+            "url": "https://abcnews.go.com/Business/wireStory/tokyo-falls-back-asian-markets-track-wall-st-69352165",
+            "urlToImage": "https://s.abcnews.com/images/Business/WireAP_301a2a19139f4bb48b2b9eacccc28a51_16x9_992.jpg",
+            "publishedAt": "2020-03-03T07:05:48Z",
+            "content": "TOKYO -- \r\nShares in most Asian markets tracked overnight gains on Wall Street, but Tokyo's benchmark fell back Tuesday as gnawing concerns over the virus outbreak chilled buying sentiment. \r\nTraders were awaiting talks between central bankers and other finan\u2026 [+5413 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSEF FEDERMAN Associated Press",
+            "title": "Netanyahu's future still uncertain after Israeli election",
+            "description": "Prime Minister Benjamin Netanyahu's political future remains up in the air after Israel's third election in under a year",
+            "url": "https://abcnews.go.com/International/wireStory/netanyahus-future-uncertain-israeli-election-69364501",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_63071ba2c6fa4b6cabb8df26a1b0d8aa_16x9_992.jpg",
+            "publishedAt": "2020-03-03T19:02:40Z",
+            "content": "JERUSALEM -- \r\nPrime Minister Benjamin Netanyahu's political future remained up in the air Tuesday as preliminary results and exit polls from Israel's third election in under a year indicated the embattled leader would fall short of securing the parliamentary\u2026 [+6557 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "G-7 major economies pledge cooperation to deal with virus",
+            "description": "Seven major economies pledged to use \u201call appropriate tools\" to deal with the spreading cornavirus but announced no immediate actions",
+            "url": "https://abcnews.go.com/Business/wireStory/major-economies-pledge-cooperation-deal-virus-69355662",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T13:08:47Z",
+            "content": "WASHINGTON -- \r\nSeven major economies pledged to use all appropriate tools\" to deal with the spreading coronavirus but announced no immediate actions.\r\nThe group of major industrial countries, referred to as the G-7, said Tuesday that it was ready to take act\u2026 [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Malaysian central bank cuts key rate to counter slowdown",
+            "description": "Malaysia's central bank has reduced its key overnight policy rate to 2.5%, citing worsening economic conditions from the virus outbreak in a growing number of countries",
+            "url": "https://abcnews.go.com/Business/wireStory/malaysian-central-bank-cuts-key-rate-counter-slowdown-69352466",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-03T08:18:32Z",
+            "content": "KUALA LUMPUR, Malaysia -- \r\nMalaysia's central bank reduced its key overnight policy rate by 0.25 percentage points to 2.5% on Tuesday, citing worsening economic conditions from the virus outbreak in a growing number of countries. \r\nThe Bank Negara Malaysia s\u2026 [+1418 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FOSTER KLUG Associated Press",
+            "title": "North Korean swagger may conceal brewing virus disaster",
+            "description": "As a new and frightening virus closes in around it, North Korea presents itself as a fortress, tightening its borders as cadres of health officials stage a monumental disinfection and monitoring program",
+            "url": "https://abcnews.go.com/International/wireStory/north-korean-swagger-conceal-brewing-virus-disaster-69352973",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4952a7f3ec694c1fa8618bc68f60c063_16x9_992.jpg",
+            "publishedAt": "2020-03-03T09:07:01Z",
+            "content": "TOKYO -- \r\nIn these days of infection and fear, a recent propaganda photo sums up the image North Korea wants to show the world, as well as its people: Soldiers with black surgical masks surround leader Kim Jong Un, ensconced in a leather overcoat and sans ma\u2026 [+6558 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KEN MORITSUGU and MATT SEDENSKY Associated Press",
+            "title": "Virus alarms sound worldwide, but China sees crisis ebbing",
+            "description": "China is reporting another encouraging number in the virus epidemic, with a daily tally of 125 new cases",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-alarms-sound-worldwide-china-sees-crisis-ebbing-69351780",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_e09ee27ec04b4421ba25fd35cfbaaf29_16x9_992.jpg",
+            "publishedAt": "2020-03-03T06:22:50Z",
+            "content": "BEIJING -- \r\nIranians hoarded medical supplies, Italians urged doctors out of retirement and South Koreans prepared to pump billions into relief efforts Tuesday as the virus epidemic firmed its hold around the globe.\r\nMushrooming outbreaks in the Mideast, Eur\u2026 [+4050 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "As coronavirus spreads in the US, employers gear up for massive work-from-home experiment",
+            "description": "As coronavirus spreads in the US, employers gear up for massive work-from-home experiment go.com",
+            "url": "https://abcnews.go.com/Business/coronavirus-spreads-us-employers-gear-massive-work-home/story?id=69282662",
+            "urlToImage": "https://s.abcnews.com/images/Business/coronavirus-01-rt-jef-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T10:45:14Z",
+            "content": "As the U.S. braces for possible wider spread of the novel coronavirus, health officials are warning business leaders to make preparations for managing a workforce that can't come into the workplace.\r\n\"Were trying to figure out how to keep the business going w\u2026 [+8066 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Fed cuts interest rates by half a percentage point over coronavirus",
+            "description": "Fed cuts interest rates by half a percentage point over coronavirus go.com",
+            "url": "https://abcnews.go.com/Business/fed-cuts-interest-rates-half-percentage-point-coronavirus/story?id=69358969",
+            "urlToImage": "https://s.abcnews.com/images/Business/coronavirus-8-gty-er-200303_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T15:12:03Z",
+            "content": "The Federal Reserve announced a surprise rate cut of half a percentage point on Tuesday in an effort to mitigate the economic impacts of the coronavirus outbreak on the U.S. economy.\r\n\"The fundamentals of the U.S. economy remain strong,\" a statement from the \u2026 [+2759 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Amazon cracks down on 1 million misleading or price gouged products amid coronavirus",
+            "description": "Amazon cracks down on 1 million misleading or price gouged products amid coronavirus go.com",
+            "url": "https://abcnews.go.com/Business/amazon-cracks-million-misleading-price-gouged-products-amid/story?id=69357582",
+            "urlToImage": "https://s.abcnews.com/images/Business/amazon-coconavirus-rex-aa-200303_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T18:29:52Z",
+            "content": "Amazon has removed more than 1 million products for misleading claims or price gouging amid the novel coronavirus outbreak, the company confirmed Tuesday.\r\n\"There is no place for price gouging on Amazon,\" a company spokesperson told ABC News. \"We are disappoi\u2026 [+3458 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Imran Ali",
+            "title": "Older adults may bear most of the burden if coronavirus spreads",
+            "description": "Older adults may bear most of the burden if coronavirus spreads go.com",
+            "url": "https://abcnews.go.com/Health/older-adults-bear-burden-coronavirus-spreads/story?id=69337637",
+            "urlToImage": "https://s.abcnews.com/images/Health/coronavirus-usa-ap-aa-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-03T03:38:00Z",
+            "content": "As the world faces the coronavirus threat, public health officials and experts are working to help stop its spread and protect the public. While experts are learning more about how the disease can affect the public, there is one certainty: The older populatio\u2026 [+4083 chars]"
+        }
+    ]
+}

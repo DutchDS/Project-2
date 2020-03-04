@@ -59,19 +59,6 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Ahiza Garc\u00eda-Hodges",
-            "title": "From soccer to the Olympics, Coronavirus fears are taking a toll on sporting events",
-            "description": "From soccer games to marathons, concerns about the coronavirus outbreak have led sports organizers to cancel or modify major events across the globe.",
-            "url": "https://www.nbcnews.com/business/business-news/soccer-olympics-coronavirus-fears-are-taking-toll-sporting-events-n1146781",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3243566/200225-japan-olympics-al-1317_a12600935199491b2d20e05808e5431f.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-02T13:20:20Z",
-            "content": "From soccer games to marathons, concerns about coronavirus have led sports organizers to cancel or modify major events across the globe. With more than 80,000 reported cases of the disease, the viral outbreak continues to create uncertainty about future compe\u2026 [+2595 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
             "author": "Lucy Bayly",
             "title": "Wall Street takes a deep breath after worst week in a decade",
             "description": "Wall Street rebounded Monday morning after weathering its worst week in a decade amid rising fears that the coronavirus will ding the global economy and stunt growth.",
@@ -79,6 +66,19 @@
             "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3251416/200302-nyse-mn-0925_96cf6a6748db1359d7ff72505f1a67ec.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-02T14:31:00Z",
             "content": "Wall Street rebounded Monday morning after weathering its worst week in a decade amid rising fears that the coronavirus will ding the global economy and stunt growth.\r\nThe Dow Jones Industrial Average opened the first week of March with a gain of around 220 p\u2026 [+1527 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ahiza Garc\u00eda-Hodges",
+            "title": "From soccer to the Olympics, Coronavirus fears are taking a toll on sporting events",
+            "description": "From soccer games to marathons, concerns about the coronavirus outbreak have led sports organizers to cancel or modify major events across the globe.",
+            "url": "https://www.nbcnews.com/business/business-news/soccer-olympics-coronavirus-fears-are-taking-toll-sporting-events-n1146781",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3243566/200225-japan-olympics-al-1317_a12600935199491b2d20e05808e5431f.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T13:20:20Z",
+            "content": "From soccer games to marathons, concerns about coronavirus have led sports organizers to cancel or modify major events across the globe. With more than 80,000 reported cases of the disease, the viral outbreak continues to create uncertainty about future compe\u2026 [+2595 chars]"
         },
         {
             "source": {
@@ -319,6 +319,19 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
+            "author": "Doha Madani",
+            "title": "Vice President Pence: \"It's a good time to wash your hands.\"",
+            "description": "Vice President Mike Pence offered his condolences as the American death toll from coronavirus cases in the country rose to six Monday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147496",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T23:15:49Z",
+            "content": "Vice President Mike Pence speaks along with members of the coronavirus take force during a press briefing at the White House on March 2, 2020.Mandel Ngan / AFP - Getty Images\r\nVice President Mike Pence offered his condolences as the U.S. coronavirus death tol\u2026 [+1445 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
             "author": "Fred Imbert, CNBC",
             "title": "Dow futures drop more than 200 points, indicating another rough week for Wall Street",
             "description": "Investors braced for another turbulent week as stock futures tumbled on Sunday night as concerns around the coronavirus kept Wall Street under pressure.",
@@ -371,13 +384,13 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Doha Madani",
-            "title": "Vice President Pence: \"It's a good time to wash your hands.\"",
-            "description": "Vice President Mike Pence offered his condolences as the American death toll from coronavirus cases in the country rose to six Monday.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147496",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-02T23:15:49Z",
-            "content": "Vice President Mike Pence speaks along with members of the coronavirus take force during a press briefing at the White House on March 2, 2020.Mandel Ngan / AFP - Getty Images\r\nVice President Mike Pence offered his condolences as the U.S. coronavirus death tol\u2026 [+1445 chars]"
+            "author": "Michelle Chen",
+            "title": "Stopping the coronavirus requires health care access and paid sick leave. America's in trouble.",
+            "description": "If knowing you're infected and then self-quarantining is necessary to stop the spread of coronavirus, the American economic system is going to fail us.",
+            "url": "https://www.nbcnews.com/think/opinion/stopping-coronavirus-requires-health-care-access-paid-sick-leave-america-ncna1147056",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3251756/200302-think-crowded-subway-se-1225p_24d135ab8ce44cdff083af0bef8ffc8b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T18:15:00Z",
+            "content": "Now that the the COVID-19 virus is spreading rapidly around the world, the Trump administration is scrambling to calm the public's fears about catching it. While Trump's claims about the nation's preparedness are severely exaggerated, the preparedness of indi\u2026 [+6437 chars]"
         },
         {
             "source": {
@@ -391,19 +404,6 @@
             "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3251671/200302-stock-bellagio-fountains-las-vegas-ew-1130a_9871cdb4dc2a297a5c23606397c94118.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-02T17:30:00Z",
             "content": "LAS VEGAS Five days a week, Lexi McKimmey strides the Las Vegas Strip as a showgirl, dressed in a sequined bikini and sparkly silver boots. She takes pictures with tourists and chats with them about where they're from.\r\nOver the past few weeks, after the U.S.\u2026 [+5449 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Michelle Chen",
-            "title": "Stopping the coronavirus requires health care access and paid sick leave. America's in trouble.",
-            "description": "If knowing you're infected and then self-quarantining is necessary to stop the spread of coronavirus, the American economic system is going to fail us.",
-            "url": "https://www.nbcnews.com/think/opinion/stopping-coronavirus-requires-health-care-access-paid-sick-leave-america-ncna1147056",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3251756/200302-think-crowded-subway-se-1225p_24d135ab8ce44cdff083af0bef8ffc8b.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-02T18:15:00Z",
-            "content": "Now that the the COVID-19 virus is spreading rapidly around the world, the Trump administration is scrambling to calm the public's fears about catching it. While Trump's claims about the nation's preparedness are severely exaggerated, the preparedness of indi\u2026 [+6437 chars]"
         },
         {
             "source": {
@@ -566,19 +566,6 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Daniel Arkin",
-            "title": "Oregon identifies third case",
-            "description": "Oregon health officials have identified a third case of the virus: an adult from Umatilla County who is hospitalized in Walla Walla, Washington.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147186",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-02T18:28:00Z",
-            "content": "Oregon health officials have identified a third case of the virus: an adult from\u00a0Umatilla County who is hospitalized in Walla Walla, Washington.\r\nThe third case is not likely to have traveled to a part of the world with known cases of the virus, the state sai\u2026 [+3646 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
             "author": "Nbc News",
             "title": "2nd person dies in Washington from coronavirus",
             "description": "Another person has died in Washington State from novel coronavirus in what local health officials on Sunday called an \u201coutbreak.\u201d",
@@ -586,6 +573,19 @@
             "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-02T02:40:47Z",
             "content": "A second person has died in Washington from COVID-19, the disease from coronavirus, health officials said Sunday.\r\nThe man, who was in his 70s, had underlying health conditions, they said.\r\nThe announcement came one day after officials said a man in his 50s i\u2026 [+7637 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Daniel Arkin",
+            "title": "Oregon identifies third case",
+            "description": "Oregon health officials have identified a third case of the virus: an adult from Umatilla County who is hospitalized in Walla Walla, Washington.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147186",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T18:28:00Z",
+            "content": "Oregon health officials have identified a third case of the virus: an adult from\u00a0Umatilla County who is hospitalized in Walla Walla, Washington.\r\nThe third case is not likely to have traveled to a part of the world with known cases of the virus, the state sai\u2026 [+3646 chars]"
         },
         {
             "source": {

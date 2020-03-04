@@ -1,20 +1,7 @@
 {
     "status": "ok",
-    "totalResults": 48,
+    "totalResults": 49,
     "articles": [
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Hollie Silverman, CNN",
-            "title": "New cases of the virus were announced in Oregon, Rhode Island, Washington state, and Florida, bringing the US total to 89, as a second death was confirmed",
-            "description": "The total number of novel coronavirus cases in the United States jumped by two dozen over the weekend, as the first two deaths from the outbreak were confirmed.",
-            "url": "https://www.cnn.com/2020/03/02/health/us-coronavirus-cases-monday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200301171519-01-coronavirus-washington-state-0229-super-tease.jpg",
-            "publishedAt": "2020-03-02T07:17:30Z",
-            "content": "(CNN)The total number of novel coronavirus cases in the United States jumped by two dozen over the weekend, as the first two deaths from the outbreak were confirmed.\r\nNew cases of the virus were announced in Oregon, Rhode Island, Washington state, and Florida\u2026 [+4656 chars]"
-        },
         {
             "source": {
                 "id": "cnn",
@@ -40,6 +27,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302163544-01-trump-coronavirus-0302-super-tease.jpg",
             "publishedAt": "2020-03-02T23:55:48Z",
             "content": "Washington (CNN)President Donald Trump was contradicted by a health expert on his coronavirus task force over the timing for a potential vaccine during a briefing Monday.\r\nTrump was asked about a timeline for a vaccine during the Cabinet Room meeting with pha\u2026 [+2751 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hollie Silverman, CNN",
+            "title": "New cases of the virus were announced in Oregon, Rhode Island, Washington state, and Florida, bringing the US total to 89, as a second death was confirmed",
+            "description": "The total number of novel coronavirus cases in the United States jumped by two dozen over the weekend, as the first two deaths from the outbreak were confirmed.",
+            "url": "https://www.cnn.com/2020/03/02/health/us-coronavirus-cases-monday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200301171519-01-coronavirus-washington-state-0229-super-tease.jpg",
+            "publishedAt": "2020-03-02T07:17:30Z",
+            "content": "(CNN)The total number of novel coronavirus cases in the United States jumped by two dozen over the weekend, as the first two deaths from the outbreak were confirmed.\r\nNew cases of the virus were announced in Oregon, Rhode Island, Washington state, and Florida\u2026 [+4656 chars]"
         },
         {
             "source": {
@@ -228,12 +228,12 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Anneken Tappe, CNN Business",
-            "title": "Dow rises 150 points as it looks to snap 7-day losing streak",
-            "description": "US stocks are rebounding on Monday morning, paring last week's coronavirus-linked losses.",
-            "url": "https://www.cnn.com/2020/03/02/investing/dow-stock-market-today/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302085337-03-nyse-0228-super-tease.jpg",
-            "publishedAt": "2020-03-02T14:48:41Z",
+            "author": "Leah Asmelash, CNN",
+            "title": "Florida governor announces two cases of novel coronavirus in the state",
+            "description": "Two cases of the novel coronavirus have been confirmed in Florida, according to state officials.",
+            "url": "https://www.cnn.com/2020/03/02/us/florida-coronavirus-two-cases-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190111165047-gov-ron-desantis-super-tease.jpg",
+            "publishedAt": "2020-03-02T16:06:46Z",
             "content": null
         },
         {
@@ -241,12 +241,12 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Leah Asmelash, CNN",
-            "title": "Florida governor announces two cases of novel coronavirus in the state",
-            "description": "Two cases of the novel coronavirus have been confirmed in Florida, according to state officials.",
-            "url": "https://www.cnn.com/2020/03/02/us/florida-coronavirus-two-cases-trnd/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190111165047-gov-ron-desantis-super-tease.jpg",
-            "publishedAt": "2020-03-02T16:06:46Z",
+            "author": "Anneken Tappe, CNN Business",
+            "title": "Dow rises 150 points as it looks to snap 7-day losing streak",
+            "description": "US stocks are rebounding on Monday morning, paring last week's coronavirus-linked losses.",
+            "url": "https://www.cnn.com/2020/03/02/investing/dow-stock-market-today/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302085337-03-nyse-0228-super-tease.jpg",
+            "publishedAt": "2020-03-02T14:48:41Z",
             "content": null
         },
         {
@@ -267,6 +267,19 @@
                 "id": "cnn",
                 "name": "CNN"
             },
+            "author": "Clare Duffy, CNN Business",
+            "title": "Dow futures drop as coronavirus fears continue",
+            "description": "Stock futures plummeted Sunday night \u2014 a sign that the markets may be in for another rough week as fears around the coronavirus outbreak continue to mount.",
+            "url": "https://www.cnn.com/2020/03/01/investing/dow-futures-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227091055-wall-street-0203-super-tease.jpg",
+            "publishedAt": "2020-03-02T00:00:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
             "author": "By Hollie Silverman, CNN",
             "title": "Travelers will face new restrictions and cancellations as coronavirus cases grow in the US",
             "description": "Travelers entering the United States will face new protocols as cases of novel coronavirus grow around the world.",
@@ -280,12 +293,12 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Clare Duffy, CNN Business",
-            "title": "Dow futures drop as coronavirus fears continue",
-            "description": "Stock futures plummeted Sunday night \u2014 a sign that the markets may be in for another rough week as fears around the coronavirus outbreak continue to mount.",
-            "url": "https://www.cnn.com/2020/03/01/investing/dow-futures-coronavirus/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200227091055-wall-street-0203-super-tease.jpg",
-            "publishedAt": "2020-03-02T00:00:47Z",
+            "author": "Hanna Ziady, CNN Business",
+            "title": "What global central banks are saying about coronavirus",
+            "description": "Central banks around the world are trying to keep investors calm as the coronavirus outbreak continues to deliver blows to financial markets and the world economy.",
+            "url": "https://www.cnn.com/2020/03/02/business/central-banks-coronavirus/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200225084703-jerome-powell-0212-super-tease.jpg",
+            "publishedAt": "2020-03-02T14:07:49Z",
             "content": null
         },
         {
@@ -306,12 +319,25 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Hanna Ziady, CNN Business",
-            "title": "What global central banks are saying about coronavirus",
-            "description": "Central banks around the world are trying to keep investors calm as the coronavirus outbreak continues to deliver blows to financial markets and the world economy.",
-            "url": "https://www.cnn.com/2020/03/02/business/central-banks-coronavirus/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200225084703-jerome-powell-0212-super-tease.jpg",
-            "publishedAt": "2020-03-02T14:07:49Z",
+            "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
+            "title": "Don't politicize the coronavirus? It's way too late for that",
+            "description": "On Monday, in an interview with Fox News, White House press secretary Stephanie Grisham accused Democrats and the media of trying to politicize the coronavirus.",
+            "url": "https://www.cnn.com/2020/03/02/politics/stephanie-grisham-fox-news-coronavirus-interview/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
+            "publishedAt": "2020-03-02T20:52:16Z",
+            "content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aleks Klosok and Ben Church, CNN",
+            "title": "Australian Grand Prix to go ahead despite coronavirus outbreak, say organizers",
+            "description": "The 2020 Formula One season's opening round will go ahead as planned on March 15, according to the Australian Grand Prix race organizers, despite concerns about coronavirus outbreak.",
+            "url": "https://edition.cnn.com/2020/03/02/motorsport/australian-grand-prix-formula-one-coronavirus-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302125642-aus-open-super-tease.jpg",
+            "publishedAt": "2020-03-02T14:04:42Z",
             "content": null
         },
         {
@@ -332,19 +358,6 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Aleks Klosok and Ben Church, CNN",
-            "title": "Australian Grand Prix to go ahead despite coronavirus outbreak, say organizers",
-            "description": "The 2020 Formula One season's opening round will go ahead as planned on March 15, according to the Australian Grand Prix race organizers, despite concerns about coronavirus outbreak.",
-            "url": "https://edition.cnn.com/2020/03/02/motorsport/australian-grand-prix-formula-one-coronavirus-spt-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302125642-aus-open-super-tease.jpg",
-            "publishedAt": "2020-03-02T14:04:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
             "author": "Chauncey Alcorn, CNN Business",
             "title": "Coronavirus anxiety is devastating Chinese businesses in New York City",
             "description": "Coronavirus panic is decimating the Chinese business sector in New York City as public fear of the deadly disease drives people away from east Asian neighborhoods.",
@@ -352,19 +365,6 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226144914-01-chinatown-new-york-0213-super-tease.jpg",
             "publishedAt": "2020-03-02T15:57:01Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
-            "title": "Don't politicize the coronavirus? It's way too late for that",
-            "description": "On Monday, in an interview with Fox News, White House press secretary Stephanie Grisham accused Democrats and the media of trying to politicize the coronavirus.",
-            "url": "https://www.cnn.com/2020/03/02/politics/stephanie-grisham-fox-news-coronavirus-interview/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200226190946-02-trump-coronavirus-presser-0226-super-tease.jpg",
-            "publishedAt": "2020-03-02T20:52:16Z",
-            "content": "THE POINT -- NOW ON YOUTUBE! \r\nIn each episode of his weekly YouTube show, Chris Cillizza will delve a little deeper into the surreal world of politics. Click to subscribe!"
         },
         {
             "source": {
@@ -462,19 +462,6 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Holly Yan and Kristina Sgueglia, CNN",
-            "title": "New York's first case of coronavirus is a health care worker, and officials say more cases are 'inevitable'",
-            "description": "The state's first novel coronavirus case is a 39-year-old health care worker who had recently returned from Iran. Gov. Andrew Cuomo calls the illness \"flu on steroids.\"",
-            "url": "https://www.cnn.com/2020/03/02/us/new-york-coronavirus-first-case/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200109151323-andrew-cuomo-1029-super-tease.jpg",
-            "publishedAt": "2020-03-02T16:58:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
             "author": "Kelly Mena",
             "title": "Sanitizer and wipes: California preps for Super Tuesday as coronavirus spreads",
             "description": "Election officials in California said Monday that they are preparing for Super Tuesday with hand sanitizer and wipes, but aren't expecting any disruptions from coronavirus even as new cases continue to emerge in the state.",
@@ -488,13 +475,13 @@
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Hollie Silverman, CNN",
-            "title": "A Wuhan evacuee was released from quarantine and later tested positive for the coronavirus",
-            "description": "A person in San Antonio, Texas, who had previously tested negative twice for the coronavirus, and was released by the US Centers for Disease Control and Prevention, is now back in quarantine after a subsequent test came back positive.",
-            "url": "https://www.cnn.com/2020/03/02/health/wuhan-evacuee-san-antonio/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302022736-coronavirus-san-antonio-evacuees-0207-super-tease.jpg",
-            "publishedAt": "2020-03-02T11:47:51Z",
-            "content": "(CNN)A person in San Antonio, Texas, who had previously tested negative twice for the coronavirus, and was released by the US Centers for Disease Control and Prevention, is now back in quarantine after a subsequent test came back positive.\r\nThe individual, wh\u2026 [+3066 chars]"
+            "author": "Holly Yan and Kristina Sgueglia, CNN",
+            "title": "New York's first case of coronavirus is a health care worker, and officials say more cases are 'inevitable'",
+            "description": "The state's first novel coronavirus case is a 39-year-old health care worker who had recently returned from Iran. Gov. Andrew Cuomo calls the illness \"flu on steroids.\"",
+            "url": "https://www.cnn.com/2020/03/02/us/new-york-coronavirus-first-case/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200109151323-andrew-cuomo-1029-super-tease.jpg",
+            "publishedAt": "2020-03-02T16:58:05Z",
+            "content": null
         },
         {
             "source": {
@@ -508,6 +495,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302005452-hainan-airlines-file-super-tease.jpg",
             "publishedAt": "2020-03-02T10:13:11Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hollie Silverman, CNN",
+            "title": "A Wuhan evacuee was released from quarantine and later tested positive for the coronavirus",
+            "description": "A person in San Antonio, Texas, who had previously tested negative twice for the coronavirus, and was released by the US Centers for Disease Control and Prevention, is now back in quarantine after a subsequent test came back positive.",
+            "url": "https://www.cnn.com/2020/03/02/health/wuhan-evacuee-san-antonio/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302022736-coronavirus-san-antonio-evacuees-0207-super-tease.jpg",
+            "publishedAt": "2020-03-02T11:47:51Z",
+            "content": "(CNN)A person in San Antonio, Texas, who had previously tested negative twice for the coronavirus, and was released by the US Centers for Disease Control and Prevention, is now back in quarantine after a subsequent test came back positive.\r\nThe individual, wh\u2026 [+3066 chars]"
         },
         {
             "source": {
@@ -612,6 +612,19 @@
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200107033419-kim-jong-un-file-super-tease.jpg",
             "publishedAt": "2020-03-02T05:55:50Z",
             "content": "Seoul, South Korea (CNN)North Korea has fired two unidentified projectiles from an area near the coastal city of Wonsan into waters between the Korean Peninsula and Japan, South Korea's Joint Chiefs of Staff said Monday. \r\nSouth Korean authorities did not spe\u2026 [+3207 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Timeline: How Trump was out of step with the CDC during coronavirus response",
+            "description": "President Donald Trump and other White House officials are on the attack against the coronavirus, but also against the President\u2019s critics, who say his administration was slow to respond to the burgeoning pandemic and aren\u2019t doing enough to protect Americans.",
+            "url": "https://www.cnn.com/interactive/2020/03/politics/coronavirus-trump-cdc-timeline/",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200302153344-06-trump-coronavirus-presser-0229-story-top.jpg",
+            "publishedAt": "2020-03-02T21:41:56Z",
+            "content": "Washington (CNN) President Donald Trump and other White House officials are on the attack against the coronavirus, but also against the Presidents critics, who say his administration was slow to respond to the burgeoning pandemic and arent doing enough to pro\u2026 [+2293 chars]"
         },
         {
             "source": {

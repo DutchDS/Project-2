@@ -7,12 +7,12 @@
                 "id": "msnbc",
                 "name": "MSNBC"
             },
-            "author": null,
-            "title": "Second death from coronavirus reported in U.S.",
-            "description": "Dr. Amesh Adalja from Johns Hopkins Center for Health Security discusses the latest coronavirus developments.",
-            "url": "http://www.msnbc.com/morning-joe-first-look/watch/second-death-from-coronavirus-reported-in-u-s-79798341658",
-            "urlToImage": null,
-            "publishedAt": "2020-03-02T10:59:39Z",
+            "author": "MSNBC.com",
+            "title": "Doctors weigh in on the spread of coronavirus",
+            "description": "Drs. Joseph Fair and Ezekiel Emanuel discuss the latest details in the transmission of the coronavirus.",
+            "url": "https://www.msnbc.com/morning-joe/watch/doctors-weigh-in-on-the-spread-of-coronavirus-79805509632",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mj_zeke_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T13:37:11Z",
             "content": null
         },
         {
@@ -20,12 +20,12 @@
                 "id": "msnbc",
                 "name": "MSNBC"
             },
-            "author": "MSNBC.com",
-            "title": "Doctors weigh in on the spread of coronavirus",
-            "description": "Drs. Joseph Fair and Ezekiel Emanuel discuss the latest details in the transmission of the coronavirus.",
-            "url": "https://www.msnbc.com/morning-joe/watch/doctors-weigh-in-on-the-spread-of-coronavirus-79805509632",
-            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mj_zeke_200302_1920x1080.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-02T13:37:11Z",
+            "author": null,
+            "title": "Second death from coronavirus reported in U.S.",
+            "description": "Dr. Amesh Adalja from Johns Hopkins Center for Health Security discusses the latest coronavirus developments.",
+            "url": "http://www.msnbc.com/morning-joe-first-look/watch/second-death-from-coronavirus-reported-in-u-s-79798341658",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T10:59:39Z",
             "content": null
         },
         {
@@ -98,6 +98,19 @@
                 "id": "msnbc",
                 "name": "MSNBC"
             },
+            "author": "MSNBC.com",
+            "title": "More coronavirus cases reported in California",
+            "description": "As voting for the California Democratic primary begins, some voters are concerned about the growing threat of coronavirus in the state. California Lieutenant Governor Eleni Kounalakis joins Katy Tur.",
+            "url": "https://www.msnbc.com/katy-tur/watch/more-coronavirus-cases-reported-in-california-79835205508",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_tur_TurCAGovenor_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T20:53:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
             "author": null,
             "title": "Quarantined patient speaks as coronavirus cases grow",
             "description": "Carl Goldman tested positive for coronavirus after being a passenger on the quarantined Diamond Princess cruise ship. Goldman joins Katy Tur by phone from his quarantine in Omaha, Nebraska to discuss his experience so far.",
@@ -112,11 +125,11 @@
                 "name": "MSNBC"
             },
             "author": "MSNBC.com",
-            "title": "More coronavirus cases reported in California",
-            "description": "As voting for the California Democratic primary begins, some voters are concerned about the growing threat of coronavirus in the state. California Lieutenant Governor Eleni Kounalakis joins Katy Tur.",
-            "url": "https://www.msnbc.com/katy-tur/watch/more-coronavirus-cases-reported-in-california-79835205508",
-            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_tur_TurCAGovenor_200302_1920x1080.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-02T20:53:57Z",
+            "title": "What to do if you think you have the coronavirus",
+            "description": "Yasmin Vossoughian talks with infectious disease specialist Dr. Amesh Adalja about the symptoms of the coronavirus, and what people should do if they feel sick.",
+            "url": "https://www.msnbc.com/ali-velshi/watch/what-to-do-if-you-think-you-have-the-coronavirus-79837253770",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_velshi_adalja_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-02T21:27:29Z",
             "content": null
         },
         {
@@ -130,19 +143,6 @@
             "url": "https://www.msnbc.com/andrea-mitchell-reports/watch/coronavirus-may-have-been-circulating-in-u-s-undetected-for-six-weeks-report-says-79820357526",
             "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mitchell_coronavriuswash_200302_1920x1080.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-02T17:26:56Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "msnbc",
-                "name": "MSNBC"
-            },
-            "author": "MSNBC.com",
-            "title": "What to do if you think you have the coronavirus",
-            "description": "Yasmin Vossoughian talks with infectious disease specialist Dr. Amesh Adalja about the symptoms of the coronavirus, and what people should do if they feel sick.",
-            "url": "https://www.msnbc.com/ali-velshi/watch/what-to-do-if-you-think-you-have-the-coronavirus-79837253770",
-            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_velshi_adalja_200302_1920x1080.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-02T21:27:29Z",
             "content": null
         },
         {

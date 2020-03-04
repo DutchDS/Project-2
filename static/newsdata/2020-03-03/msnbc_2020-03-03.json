@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Doctor says at least 12 to 18 months for coronavirus vaccine",
+            "description": "Dr. Amesh Adalja of Johns Hopkins Center for Health Security discusses the president's recent questions about a coronavirus vaccine and he discusses the severity of coronavirus.",
+            "url": "https://www.msnbc.com/morning-joe/watch/doctor-says-at-least-12-to-18-months-for-coronavirus-vaccine-79896645596",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mj_doc_200303_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T16:57:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "How the Fed\u2019s emergency rate cut impacts markets, consumers",
+            "description": "NBC News\u2019 Hans Nichols and Stephanie Ruhle break down the Federal Reserve\u2019s decision to cut borrowing rates in response to the coronavirus outbreak.",
+            "url": "https://www.msnbc.com/hallie-jackson/watch/fed-cuts-rates-by-half-a-point-amid-coronavirus-concerns-79885893682",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_hallie_brk_fed_hans_200303_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T15:17:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Local government officials weigh how to address coronavirus",
+            "description": "The federal government is tasked with coordinating the response to coronavirus. But it\u2019s local governments that will have to make a ton of extremely important decisions in the weeks to come. Karen Bass, California Democratic Congresswoman, and Eric Garcetti, \u2026",
+            "url": "https://www.msnbc.com/all-in/watch/local-government-officials-weigh-how-to-address-coronavirus-79853125516",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_hayes_coronalocal_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T01:50:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "How to be prepared for a coronavirus outbreak",
+            "description": "Ali Velshi talks with Robyn Gershon, a clinical professor of epidemiology at the New York University School of Global Public Health, about what individuals, companies, and communities should be preparing for a possible coronavirus outbreak.",
+            "url": "https://www.msnbc.com/ali-velshi/watch/how-to-be-prepared-for-a-coronavirus-outbreak-79923269923",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_velshi_gershon_200303_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T21:35:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Biden picks up endorsements as Trump holds a rally amid coronavirus spread",
+            "description": "Pete Buttigieg, Amy Klobuchar, and Beto O'Rourke all are endorsing Joe Biden ahead of Super Tuesday as the president holds a rally in North Carolina as his government grapples with its coronavirus response.",
+            "url": "https://www.msnbc.com/11th-hour/watch/biden-picks-up-endorsements-as-trump-holds-a-rally-amid-coronavirus-spread-79858245542",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_bwms_day1138_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T04:20:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "WAPO: Trump aide calls coronavirus response 'complete chaos'",
+            "description": "A Washington Post report paints a 'rudderless' coronavirus response inside the White House as Trump continues to downplay the virus. Dr. Irwin Redlener and Ron Klain react.",
+            "url": "https://www.msnbc.com/11th-hour/watch/wapo-trump-aide-calls-coronavirus-response-complete-chaos-79858757623",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_bwms_coronavirus_200302_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T04:43:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Coronavirus cases grow across U.S. as testing expands",
+            "description": "As the second case of coronavirus is confirmed in New York City, Katy Tur is joined by Dr. Armand Dorian to discuss the tests in place and preventable measures.",
+            "url": "https://www.msnbc.com/katy-tur/watch/coronavirus-cases-grow-across-u-s-as-testing-expands-79921733675",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_tur_TurDorian_200303_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T21:02:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "Even now, Trump can't shake his preoccupation with Obama",
+            "description": "At a White House coronavirus meeting, Trump thought it'd be a good idea to peddle nonsense about Obama and his efforts to combat HIV/AIDS.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/even-now-trump-can-t-shake-his-preoccupation-obama-n1147861",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_04/3201716/200124-donald-trump-barack-obama-se-704p_4d365efc2405fa88c3f1eb846ef56e74.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T17:18:58Z",
+            "content": "Donald Trump hosted a White House meeting yesterday with members of the administration's coronavirus task force and executives from leading American pharmaceutical companies, one of whom broached a subject that piqued the president's interest.\r\nDaniel O'Day, \u2026 [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "Trump's confusion on display during meeting with pharmaceutical execs",
+            "description": "Far from inspiring confidence during a public-health crisis, Trump appeared awfully confused during his televised meeting with pharmaceutical execs.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/trump-s-confusion-display-during-meeting-pharmaceutical-execs-n1147766",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3245211/200226-donald-trump-se-1215p_1f8b9769067a441372234c32bc0490e7.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T13:05:26Z",
+            "content": "In the abstract, White House officials had reason to believe the gathering would be a good idea. Donald Trump, members of the administration's coronavirus task force, and executives from leading American pharmaceutical companies would gather in the West Wing,\u2026 [+2940 chars]"
+        }
+    ]
+}

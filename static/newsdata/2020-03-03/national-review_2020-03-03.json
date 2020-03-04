@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "Iran Says 10 Percent of Iranian Lawmakers Infected With Coronavirus",
+            "description": "Iran revealed Tuesday that nearly 10 percent of Iranian lawmakers have been infected with the coronavirus.",
+            "url": "https://www.nationalreview.com/news/iran-says-10-percent-of-iranian-lawmakers-infected-with-coronavirus/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/iran-corona-edit.jpg?fit=1200%2C676&ssl=1",
+            "publishedAt": "2020-03-03T15:44:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Congress Set to Agree on Coronavirus Funding Bill, Will Avoid FISA Pitfall",
+            "description": "Congress is close to reaching a bipartisan deal on coronavirus funding, with negotiators close to a $7-$8 billion package which could be unveiled Tuesday.",
+            "url": "https://www.nationalreview.com/news/congress-set-to-agree-to-coronavirus-funding-will-avoid-fisa-pitfall/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-022820-17.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-03T13:02:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "\u2018Wrong from Day One\u2019: Trump Slams Fed Chairman over Coronavirus Response",
+            "description": "President Trump on Tuesday slammed the Federal Reserve for not cutting interest rates in response to the coronavirus outbreak across the globe.",
+            "url": "https://www.nationalreview.com/news/wrong-from-day-one-trump-slams-fed-chairman-over-coronavirus-response/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/trump-coronavirus.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-03T14:24:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Miami Woman Says CDC Officials Refused to Test for Coronavirus Despite Doctors Saying She \u2018Most Likely\u2019 Has It",
+            "description": "A Miami woman said Monday that she was told by doctors at Jackson Memorial Hospital that she 'most likely' contracted coronavirus while traveling in Italy.",
+            "url": "https://www.nationalreview.com/news/miami-woman-says-cdc-officials-refused-to-test-for-coronavirus-despite-doctors-saying-she-most-likely-has-it/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/11/cdc-sign-atlanta.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-03T15:00:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Fed Announces First Emergency Rate Cut since 2008 over Coronavirus Scare",
+            "description": "The U.S. Federal Reserve announced Tuesday that it would cut interest rates to mitigate the economic slowdown caused by the coronavirus",
+            "url": "https://www.nationalreview.com/news/fed-announces-first-emergency-rate-cut-since-2008-over-coronavirus-scare/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/Fed.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-03-03T15:54:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "The Editors, The Editors",
+            "title": "Can We Please Be Sober-Minded about the Coronavirus?",
+            "description": "One way to ensure that the virus doesn\u2019t prove as threatening as feared is for American officials to take it seriously.",
+            "url": "https://www.nationalreview.com/2020/03/can-we-please-be-sober-minded-about-the-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/donald-trump-wh-press-conference.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-03T14:58:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "WHO Announces Coronavirus Mortality Rate Has Jumped to 3.4 Percent",
+            "description": "The World Health Organization on Tuesday announced that 3.4 percent of COVID-19 patients worldwide have died from the illness.",
+            "url": "https://www.nationalreview.com/news/coronavirus-world-health-organization-announces-mortality-rate-has-jumped-to-3-point-4-percent/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/coronavirus-030220-37.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-03T20:48:20Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Coronavirus is affecting everything, even Diet Coke",
+            "description": "Coca-Cola warns of possible sweetener shortages for beverages including Diet Coke and Powerade if COVID-19 outbreak drags on.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-diet-coke/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Diet-Coke-Canning-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T16:15:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "James Nosek",
+            "title": "Federal Reserve cuts benchmark rate by half-point",
+            "description": "This occurs after seven major economies pledged to use \u201call appropriate tools\" to deal with the spreading coronavirus.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-fed-rate-cut-benchmark/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Fed-cuts-by-half-.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T15:42:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Other countries are testing patients for coronavirus by the tens of thousands. Why the U.S. is so far behind",
+            "description": "South Korea has a coronavirus test drive-thru. China says its test can detect the virus in 15 minutes.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-us-test/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204087313.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T09:40:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Rising pollution shows China factories bouncing back from coronavirus outbreak",
+            "description": "Nitrogen dioxide levels are rising across China\u2019s industrial heartland. The reddish-brown gas mainly enters the air from burning fossil fuels like oil, coal and natural gas.",
+            "url": "https://fortune.com/2020/03/03/rising-pollution-china-factories-coronavirus-outbreak/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1200760956.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T13:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Apple\u2019s iPhone maker expects its China plants to be operating normally within weeks",
+            "description": "Hon Hai Precision Industry Co.\u2014known as Foxconn\u2014says its China plants should be operating normally by the end of March after resolving severe labor shortages brought on by the coronavirus outbreak.",
+            "url": "https://fortune.com/2020/03/03/apple-iphone-foxconn-expects-china-plants-normally-end-march/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1195290370.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T11:08:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Dria Roland",
+            "title": "India restricts exports of common drugs on fear of coronavirus shortages",
+            "description": "India, the world\u2019s largest maker of generic drugs, placed restrictions on the export of some common medicines as concerns grow over shortages of chemical ingredients with many manufacturers in China shut due to the novel coronavirus outbreak. The drugs includ\u2026",
+            "url": "https://fortune.com/2020/03/03/india-restricts-exports-of-common-drugs/",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T14:41:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "The coronavirus outbreak could drag down debt-bloated companies. These are some of the most vulnerable",
+            "description": "An escalating outbreak that drives off customers and revenue could lead to ratings downgrades, hinder refinancing efforts, and in some cases trigger defaults.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-outbreak-debt-bloated-companies-vulnerable/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204861040.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T10:13:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "John Buysse",
+            "title": "It\u2019s too late for the U.S. to fight the spread of coronavirus with domestic travel restrictions",
+            "description": "\"This virus is already all around the country.\"",
+            "url": "https://fortune.com/2020/03/03/coronavirus-in-us-domestic-travel-restrictions-spread/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1209672210.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T18:20:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Danielle Abril",
+            "title": "Coronavirus concerns have Twitter \u2018strongly encouraging\u2019 its 5,000 worldwide employees to work from home",
+            "description": "The company is making sure internal meetings and other tasks \"are optimized for remote participation.\"",
+            "url": "https://fortune.com/2020/03/02/coronavirus-twitter-work-from-home/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-180572501.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T00:53:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "Testing for coronavirus should be free, but it\u2019s not always that simple",
+            "description": "The simple answer: It's complicated, and evolving.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-testing-price-covid-19-test-cost/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204040372.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T23:35:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Dria Roland",
+            "title": "U.K. warns companies that 20% of workforce could be out as coronavirus cases rise",
+            "description": "As the number of confirmed infections in the U.K. rose to 51, the government published its plan for dealing with the disease. It included an estimate that in a worst-case, a fifth of the workforce\u2014more than 6 million people\u2014could be absent.",
+            "url": "https://fortune.com/2020/03/03/u-k-warns-companies-that-20-percent-of-workforce-could-be-out-as-coronavirus-cases-rise/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/London-Commuters-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T15:29:00Z",
+            "content": null
+        }
+    ]
+}

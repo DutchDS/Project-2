@@ -1,0 +1,461 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Fed's Coronavirus Shock (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-03/fed-s-coronavirus-shock-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T22:47:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Rich and the Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/the-rich-and-the-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T20:52:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Much Could Coronavirus Cost?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/how-much-could-coronavirus-cost-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T23:33:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pope Tests Negative on Coronavirus: Messaggero",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/pope-tests-negative-on-coronavirus-messaggero",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T08:28:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Don't Panic: WHO Spokesman on Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/who-spokesman-on-coronavirus-we-don-t-need-panic-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T10:40:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Senegal Government Confirms Nation's Second Coronavirus Case",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/senegal-government-confirms-nation-s-second-coronavirus-case",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T18:56:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Assessing China's Response to the Coronavirus Outbreak",
+            "description": "Danny\u00a0Russel, a former U.S. assistant secretary of state for East Asia who\u2019s now a vice president of the Asia Society in New York, shares his views on how the Chinese government is dealing with the coronavirus outbreak. He speaks with Shery Ahn and Haidi Stro\u2026",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/assessing-china-s-response-to-the-coronavirus-outbreak-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igLEdmQZD2GI/v5/-1x-1.jpg",
+            "publishedAt": "2020-03-03T04:23:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "IAG CEO: Milan Flight Demand Halved Because of Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-milan-flight-demand-halved-because-of-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T15:03:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Google Cancels I/O Developer Conference on Coronavirus Concern",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/google-cancels-i-o-developer-conference-on-coronavirus-concern",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T20:44:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "United Air Waives Change Fees in March on Coronavirus Fear",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/united-air-waives-change-fees-in-march-on-coronavirus-fear",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T23:03:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Seattle Is Grappling With America's Largest Coronavirus Outbreak",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/quarantine-motel-cached-food-seattle-confronts-a-deadly-virus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T02:32:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Coronavirus Could Impact Hong Kong's Fragile Economy",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/how-coronavirus-could-impact-hong-kong-s-fragile-economy-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T02:03:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "IAG CEO Walsh on Coronavirus Impact, Heathrow Runway, Retirement",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-walsh-on-coronavirus-impact-heathrow-runway-retirement-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T12:50:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "The Coronavirus Checklist: Nine Steps to Protect Your Company",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/the-coronavirus-checklist-nine-steps-to-protect-your-company",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T10:00:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "New York Suburb Has Coronavirus Case Without Travel History",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/nyc-school-closed-as-a-precaution-on-suspected-virus-case",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T14:14:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Max Nisen on the U.S.'s Coronavirus Vulnerabilities (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-03/max-nisen-on-the-u-s-s-coronavirus-vulnerabilities-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T18:04:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Won't Create Much Disruption for Snap-On, CEO Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/coronavirus-won-t-create-much-disruption-for-snap-on-ceo-says-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T14:08:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Ryanair CEO O'Leary on Coronavirus Impact, Boeing's 737 Max Jet",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/ryanair-ceo-o-leary-on-coronavirus-impact-boeing-s-737-max-jet-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T11:29:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Iran Supreme Leader Says 'Let's Not Exaggerate' Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/iran-supreme-leader-says-let-s-not-exaggerate-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T11:53:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Thermo Fisher to Buy Coronavirus Tester Qiagen for $10 Billion",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/thermo-fisher-to-buy-coronavirus-tester-qiagen-for-10-billion-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T20:55:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "More U.S. Coronavirus Travel Restrictions Coming, TSA Chief Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/more-u-s-coronavirus-travel-restrictions-coming-tsa-chief-says-k7cdpbk0",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T21:02:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Matthew Boyle",
+            "title": "Target Forecasts 2020 Profit Toward Lower End of Estimates",
+            "description": "Target Corp. gave a lukewarm outlook for its profit this year -- a sign the retail giant sees some challenges mounting as uncertainty reigns about the impact of the coronavirus outbreak. The shares fell in early trading.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/target-forecasts-2020-profit-toward-lower-end-of-estimates",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPEhxO0WciQ8/v0/1200x800.jpg",
+            "publishedAt": "2020-03-03T11:50:51Z",
+            "content": "Target Corp. gave a lukewarm outlook for its profit this year -- a sign the retail giant sees some challenges mounting as uncertainty reigns about the impact of the coronavirus outbreak. The shares fell in early trading.\r\n<ul><li>Excluding some items, earning\u2026 [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Burning Issues: Stalled IPO Market, EM Credit Stress & Energy Distress",
+            "description": "Airbnb is one of the most anticipated public listings of 2020, and is in danger of being derailed by the spread of the coronavirus. Bloomberg's Sonali Basak, Damian Sassower, Allison McNeely and Lisa Abramowicz discuss how the recent headlines are affecting t\u2026",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/burning-issues-stalled-ipo-market-em-credit-stress-energy-distress-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq2wjG0mdHOw/v5/-1x-1.jpg",
+            "publishedAt": "2020-03-03T23:43:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "These Are Debt-Bloated Companies the Coronavirus Threatens to Drag Down",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/debt-bloated-companies-that-coronavirus-threatens-to-drag-down",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T08:34:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "fiscal Policy to be Used to Cope With Coronavirus Hit (Radio)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-03/fiscal-policy-to-be-used-to-cope-with-coronavirus-hit-radio",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T03:37:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trump Says U.S. Is Moving Aggressively to Develop a Coronavirus Vaccine",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/trump-says-u-s-is-moving-aggressively-to-develop-a-coronavirus-vaccine-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T21:22:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "G-7 Set for Emergency Coronavirus Call With Economy Under Threat",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/g-7-set-for-emergency-coronavirus-call-with-economy-under-threat",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T07:54:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Carney Sees \u2018Powerful\u2019 Global Virus Response as G-7 Call Nears - Bloomberg",
+            "description": "Carney Sees \u2018Powerful\u2019 Global Virus Response as G-7 Call Nears Bloomberg Coronavirus: Mark Carney warns of 'large' short-term economic shock BBC News Central bankers pledge action to ease coronavirus hit to economy Financial Times Stock markets rebound as Mar\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f4644500-5d45-11ea-b8f1-8792f69f0563&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMy0wMy9nLTctc2V0LWZvci1lbWVyZ2VuY3ktY29yb25hdmlydXMtY2FsbC13aXRoLWVjb25vbXktdW5kZXItdGhyZWF0",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T07:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "G-7 Pledges to Fight Virus Risks, Stops Short of Specific Action - Bloomberg",
+            "description": "G-7 Pledges to Fight Virus Risks, Stops Short of Specific Action Bloomberg U.S. cuts rates as G7 pledges action but no quick coronavirus fix Reuters G-7 pledges to use \u2018all appropriate policy tools\u2019 to fight coronavirus MarketWatch What the Coronavirus Demand\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=39a5cac0-5d8d-11ea-a319-f3ebf737514d&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMy0wMy9nLTctc2F5cy1jbG9zZWx5LW1vbml0b3JpbmctdmlydXMtYW5kLXJlYWR5LXRvLXRha2UtYWN0aW9u",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T12:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Americans Cut Back on Trips to the Store as Virus Spreads",
+            "description": "Store visits in the U.S. fell for a fourth straight week at the end of February.",
+            "url": "https://mercury.bloomberg.com/news/Q6MPXUT0AFBI",
+            "urlToImage": "https://www.nreionline.com/sites/nreionline.com/files/shopping%20in%20prep%20for%20corona%20virus-MARK%20RALSTON%20Getty%20Images-1204234225.jpg",
+            "publishedAt": "2020-03-03T19:18:00Z",
+            "content": "(Bloomberg)Visits to U.S. stores fell for a fourth straight week, as confirmed cases of the coronavirus spread across the country.Foot traffic decreased 3.3% in the week through Feb. 28 after gains in January, according to location-data provider Prodco Analyt\u2026 [+1556 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jennifer Jacobs",
+            "title": "Pence Visited School Where Student Is in Coronavirus Quarantine",
+            "description": "Pence Visited School Where Student Is in Coronavirus Quarantine bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/pence-visited-school-where-student-is-in-coronavirus-quarantine",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T14:29:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Ari Altstedter",
+            "title": "India Cuts Drug Exports as Threat of Coronavirus Shortages Rises",
+            "description": "India Cuts Drug Exports as Threat of Coronavirus Shortages Rises bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/india-cuts-drug-exports-as-threat-of-coronavirus-shortages-rises",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T11:34:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Tyler Cowen",
+            "title": "How Fast Will the New Coronavirus Spread? Two Sides of the Debate",
+            "description": "The debate is splitting into two broad camps: Call them the \u201cgrowthers\u201d and the \u201cbase-raters.\u201d",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-03-03/how-fast-will-the-new-coronavirus-spread-two-sides-of-the-debate",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isdmYSq4.tJA/v1/1200x900.jpg",
+            "publishedAt": "2020-03-03T15:17:02Z",
+            "content": "More museums could\u00a0close.\r\nJust how bad will the new coronavirus be? I can\u2019t answer that question, but I have observed the debate splitting into two broad camps: Call them the \u201cgrowthers\u201d and the \u201cbase-raters.\u201d\r\nThe term growthers refers to the notion of expo\u2026 [+4569 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Says Coronavirus Cases Rise to 80,151, Death Toll Climbs to 2,943",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/china-says-coronavirus-cases-rise-to-80-151-death-toll-climbs-to-2-943-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T04:25:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Chester Dawson",
+            "title": "For Elon Musk, Success is Proving Elusive in Japan's Car Market",
+            "description": "For all of Elon Musk\u2019s domination of the burgeoning electric-vehicle business, Tesla Inc. is struggling to get traction in Japan, a market he put on a pedestal early in the automaker\u2019s early days.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/tesla-barely-registers-in-the-world-s-third-largest-auto-market",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT3P5dDMMfik/v0/1200x800.jpg",
+            "publishedAt": "2020-03-03T07:00:00Z",
+            "content": "For all of Elon Musk\u2019s domination of the burgeoning electric-vehicle business, \r\nTesla Inc. is struggling to get traction in Japan, a market he put on a pedestal early in the automaker\u2019s early days.\r\nThe day after taking the electric-car maker public in June \u2026 [+5886 chars]"
+        }
+    ]
+}

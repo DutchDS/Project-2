@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 94,
+    "totalResults": 95,
     "articles": [
         {
             "source": {
@@ -14,6 +14,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/ca_azarcdcaid_012820_0.jpg",
             "publishedAt": "2020-03-02T16:21:57Z",
             "content": "Health and Human Services (HHS) Secretary Alex Azar said Sunday he is personally involved in reviewing a whistleblower complaint alleging federal workers responding to the coronavirus quarantine of Americans evacuated from Wuhan, China, were not given proper \u2026 [+2475 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Anagha Srikanth",
+            "title": "17000 people ask to cancel SXSW amid coronavirus outbreak - The Hill",
+            "description": "17000 people ask to cancel SXSW amid coronavirus outbreak The Hill Fears of coronavirus prompt online petition to cancel SXSW gathering in Austin USA TODAY Demands to cancel SXSW grow amid coronavirus fears as organizers tout new guests Fortune SXSW Sets \u2018Con\u2026",
+            "url": "https://thehill.com/changing-america/enrichment/arts-culture/485476-cancel-sxsw-petition-asks-amid-coronavirus-outbreak",
+            "urlToImage": "https://thehill.com/sites/default/files/ca_austintx_3220istock.jpg",
+            "publishedAt": "2020-03-02T17:59:18Z",
+            "content": "From the Louvre in Paris to Disneyland in Tokyo, countries are shutting down major tourist attractions to stop the spread of the novel coronavirus. But as the first two deaths due to COVID-19 were announced in the U.S., thousands are still expected to arrive \u2026 [+2188 chars]"
         },
         {
             "source": {
@@ -254,13 +267,13 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Rebecca Klar",
-            "title": "Trump, GOP raise $86M in February",
-            "description": "Republicans raised $86 million in February toward efforts to reelect President Trump, the Republican National Committee (RNC) announced on Monday. The RNC, the Trump campaign and authorized joint...",
-            "url": "https://thehill.com/homenews/campaign/485413-trump-gop-raise-86m-in-february",
-            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald4_022920getty.jpg",
-            "publishedAt": "2020-03-02T12:25:51Z",
-            "content": "Republicans raised $86 million in February toward efforts to reelect President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy\u2026 [+2447 chars]"
+            "author": "Brett Samuels",
+            "title": "Trump says he'll complete annual physical in next 90 days",
+            "description": "President Trump on Monday said he plans to return to Walter Reed Medical Center to complete his annual physical within the next 90 days.\"I'm going probably over the next 90 days,\" Trump told reporters as he departe...",
+            "url": "https://thehill.com/homenews/administration/485569-trump-says-hell-complete-annual-physical-in-next-90-days",
+            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald2_022920getty.jpg",
+            "publishedAt": "2020-03-02T22:28:16Z",
+            "content": "President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE on Monday said he plans to return to Walter Reed Medical Ce\u2026 [+1895 chars]"
         },
         {
             "source": {
@@ -280,13 +293,13 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Brett Samuels",
-            "title": "Trump says he'll complete annual physical in next 90 days",
-            "description": "President Trump on Monday said he plans to return to Walter Reed Medical Center to complete his annual physical within the next 90 days.\"I'm going probably over the next 90 days,\" Trump told reporters as he departe...",
-            "url": "https://thehill.com/homenews/administration/485569-trump-says-hell-complete-annual-physical-in-next-90-days",
-            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald2_022920getty.jpg",
-            "publishedAt": "2020-03-02T22:28:16Z",
-            "content": "President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE on Monday said he plans to return to Walter Reed Medical Ce\u2026 [+1895 chars]"
+            "author": "Rebecca Klar",
+            "title": "Trump, GOP raise $86M in February",
+            "description": "Republicans raised $86 million in February toward efforts to reelect President Trump, the Republican National Committee (RNC) announced on Monday. The RNC, the Trump campaign and authorized joint...",
+            "url": "https://thehill.com/homenews/campaign/485413-trump-gop-raise-86m-in-february",
+            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald4_022920getty.jpg",
+            "publishedAt": "2020-03-02T12:25:51Z",
+            "content": "Republicans raised $86 million in February toward efforts to reelect President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy\u2026 [+2447 chars]"
         },
         {
             "source": {
@@ -319,32 +332,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Jonathan Easley",
-            "title": "Top liberal group endorses Sanders for president",
-            "description": "The progressive group Democracy for America (DFA) endorsed Sen. Bernie Sanders for president on Monday, giving the Vermont senator a key ally in the fight for the Democratic presidential nomination.DFA had been on...",
-            "url": "https://thehill.com/homenews/campaign/485453-top-liberal-group-endorses-sanders-for-president",
-            "urlToImage": "https://thehill.com/sites/default/files/sandersbernie_022620gn13_lead.jpg",
-            "publishedAt": "2020-03-02T17:00:15Z",
-            "content": "The progressive group Democracy for America (DFA) endorsed Sen. Bernie SandersBernie SandersThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE\u2026 [+3372 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Justine Coleman",
-            "title": "The Nation endorses Bernie Sanders",
-            "description": "The Nation magazine on Monday endorsed Sen. Bernie Sanders (I-Vt.) to become the Democratic nominee, a day ahead of the Super Tuesday vote.The progressive magazine...",
-            "url": "https://thehill.com/homenews/campaign/485533-the-nation-endorses-bernie-sanders",
-            "urlToImage": "https://thehill.com/sites/default/files/sandersbernie_022820bc2_lead.jpg",
-            "publishedAt": "2020-03-02T20:38:54Z",
-            "content": "The Nation magazine on Monday endorsed Sen. Bernie SandersBernie SandersThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE (I-Vt.) to become t\u2026 [+2799 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Justine Coleman",
             "title": "EMILY's List endorses Warren for president",
             "description": "Democratic women's group EMILY'S List endorsed Sen. Elizabeth Warren (D-Mass.) for president on Monday.The organization, which supports female candidates for office, announced its endorsement hours aft...",
@@ -352,19 +339,6 @@
             "urlToImage": "https://thehill.com/sites/default/files/warrenelizabeth_022920gn3_lead.jpg",
             "publishedAt": "2020-03-02T22:12:49Z",
             "content": "Democratic womens group EMILYS List endorsed Sen. Elizabeth WarrenElizabeth Ann Warren Democratic candidates gear up for a dramatic Super TuesdayButtigieg dropping out of presidential raceSanders, Warren tied in Massachusetts: pollMORE (D-Mass.) for president\u2026 [+3055 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Zack Budryk",
-            "title": "McAuliffe gets trapped in elevator ahead of Biden event",
-            "description": "Former Virginia Gov. Terry McAuliffe (D) tweeted Monday that he and several other supporters of former Vice President Joe Biden's campaign had been trapped in an elevator en route to a press conference in support of him i...",
-            "url": "https://thehill.com/homenews/campaign/485481-mcauliffe-gets-trapped-in-elevator-ahead-of-biden-event",
-            "urlToImage": "https://thehill.com/sites/default/files/govterrymcauliffe_gn.jpg",
-            "publishedAt": "2020-03-02T18:19:50Z",
-            "content": "Former Virginia Gov. Terry McAuliffe (D) tweeted Monday that he and several other supporters of former Vice President Joe BidenJoe Biden Democratic candidates gear up for a dramatic Super TuesdayJuan Williams: Will the GOP ever curb Trump?Obama called Biden t\u2026 [+2165 chars]"
         },
         {
             "source": {
@@ -397,13 +371,39 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Joe Concha",
-            "title": "60 Minutes' ripped for Navy SEAL Eddie Gallagher interview: 'Normalizing a war criminal'",
-            "description": "Critics slammed \"60 Minutes\" for airing an interview Sunday with Eddie Gallagher, a Navy SEAL accused of war crimes in Iraq, with some accusing the influential CBS broadcast news magazine of \"normalizing a war criminal.\"...",
-            "url": "https://thehill.com/homenews/media/485468-60-minutes-ripped-for-navy-seal-eddie-gallagher-interview-normalizing-a-war",
-            "urlToImage": "https://thehill.com/sites/default/files/gallaghereddie_070219getty.jpg",
-            "publishedAt": "2020-03-02T17:33:41Z",
-            "content": "Critics slammed 60 Minutes for airing an interview Sunday with Eddie Gallagher, a Navy SEAL accused of war crimes in Iraq, with some accusing the influential CBS broadcast news magazine of \"normalizing a war criminal.\"\r\nGallagher in July was found not guilty \u2026 [+2488 chars]"
+            "author": "Justine Coleman",
+            "title": "The Nation endorses Bernie Sanders",
+            "description": "The Nation magazine on Monday endorsed Sen. Bernie Sanders (I-Vt.) to become the Democratic nominee, a day ahead of the Super Tuesday vote.The progressive magazine...",
+            "url": "https://thehill.com/homenews/campaign/485533-the-nation-endorses-bernie-sanders",
+            "urlToImage": "https://thehill.com/sites/default/files/sandersbernie_022820bc2_lead.jpg",
+            "publishedAt": "2020-03-02T20:38:54Z",
+            "content": "The Nation magazine on Monday endorsed Sen. Bernie SandersBernie SandersThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE (I-Vt.) to become t\u2026 [+2799 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jonathan Easley",
+            "title": "Top liberal group endorses Sanders for president",
+            "description": "The progressive group Democracy for America (DFA) endorsed Sen. Bernie Sanders for president on Monday, giving the Vermont senator a key ally in the fight for the Democratic presidential nomination.DFA had been on...",
+            "url": "https://thehill.com/homenews/campaign/485453-top-liberal-group-endorses-sanders-for-president",
+            "urlToImage": "https://thehill.com/sites/default/files/sandersbernie_022620gn13_lead.jpg",
+            "publishedAt": "2020-03-02T17:00:15Z",
+            "content": "The progressive group Democracy for America (DFA) endorsed Sen. Bernie SandersBernie SandersThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE\u2026 [+3372 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Zack Budryk",
+            "title": "McAuliffe gets trapped in elevator ahead of Biden event",
+            "description": "Former Virginia Gov. Terry McAuliffe (D) tweeted Monday that he and several other supporters of former Vice President Joe Biden's campaign had been trapped in an elevator en route to a press conference in support of him i...",
+            "url": "https://thehill.com/homenews/campaign/485481-mcauliffe-gets-trapped-in-elevator-ahead-of-biden-event",
+            "urlToImage": "https://thehill.com/sites/default/files/govterrymcauliffe_gn.jpg",
+            "publishedAt": "2020-03-02T18:19:50Z",
+            "content": "Former Virginia Gov. Terry McAuliffe (D) tweeted Monday that he and several other supporters of former Vice President Joe BidenJoe Biden Democratic candidates gear up for a dramatic Super TuesdayJuan Williams: Will the GOP ever curb Trump?Obama called Biden t\u2026 [+2165 chars]"
         },
         {
             "source": {
@@ -417,6 +417,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/debatesouthcarolina_022520getty.jpg",
             "publishedAt": "2020-03-02T19:48:14Z",
             "content": "Presidential candidate Michael BloombergMichael Rubens Bloomberg Democratic candidates gear up for a dramatic Super TuesdayBiden calls for end to humanitarian crisis in GazaButtigieg dropping out of presidential raceMORE said Monday that former White House ho\u2026 [+2440 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Joe Concha",
+            "title": "60 Minutes' ripped for Navy SEAL Eddie Gallagher interview: 'Normalizing a war criminal'",
+            "description": "Critics slammed \"60 Minutes\" for airing an interview Sunday with Eddie Gallagher, a Navy SEAL accused of war crimes in Iraq, with some accusing the influential CBS broadcast news magazine of \"normalizing a war criminal.\"...",
+            "url": "https://thehill.com/homenews/media/485468-60-minutes-ripped-for-navy-seal-eddie-gallagher-interview-normalizing-a-war",
+            "urlToImage": "https://thehill.com/sites/default/files/gallaghereddie_070219getty.jpg",
+            "publishedAt": "2020-03-02T17:33:41Z",
+            "content": "Critics slammed 60 Minutes for airing an interview Sunday with Eddie Gallagher, a Navy SEAL accused of war crimes in Iraq, with some accusing the influential CBS broadcast news magazine of \"normalizing a war criminal.\"\r\nGallagher in July was found not guilty \u2026 [+2488 chars]"
         },
         {
             "source": {
@@ -450,19 +463,6 @@
                 "name": "The Hill"
             },
             "author": "Rebecca Klar",
-            "title": "Susan Rice endorses Biden's presidential campaign",
-            "description": "Former national security adviser and U.N. Ambassador Susan Rice on Monday endorsed Joe Biden for president.Rice, who served in the Obama administration, tweeted her support for Biden as endorseme...",
-            "url": "https://thehill.com/homenews/campaign/485538-susan-rice-endorses-bidens-presidential-campaign",
-            "urlToImage": "https://thehill.com/sites/default/files/rice_susan_021313getty.jpg",
-            "publishedAt": "2020-03-02T20:54:20Z",
-            "content": "Former national security adviser and U.N. Ambassador Susan Rice on Monday endorsed Joe BidenJoe Biden Democratic candidates gear up for a dramatic Super TuesdayJuan Williams: Will the GOP ever curb Trump?Obama called Biden to congratulate him after South Caro\u2026 [+3718 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Rebecca Klar",
             "title": "Sanders has 13 point lead in North Carolina ahead of Super Tuesday: poll",
             "description": "Sen. Bernie Sanders (I-Vt.) leads the Democratic presidential primary field in North Carolina, according to a new poll released a day before voters cast their ballots.Sanders has 31 percent suppo...",
             "url": "https://thehill.com/homenews/campaign/485447-sanders-leads-democratic-field-by-13-points-in-north-carolina-ahead-of",
@@ -476,12 +476,12 @@
                 "name": "The Hill"
             },
             "author": "Rebecca Klar",
-            "title": "Trump official inserted debunked climate change language into scientific documents: report",
-            "description": "An official at the Interior Department has led an effort to insert misleading language about climate change, including some already debunked claims, into official agency reports,...",
-            "url": "https://thehill.com/homenews/campaign/485442-trump-official-inserted-debunked-climate-change-language-into-scientific",
-            "urlToImage": "https://thehill.com/sites/default/files/interior_091619gn2_lead.jpg",
-            "publishedAt": "2020-03-02T15:49:33Z",
-            "content": "An official at the Interior Department has led an effort to insert misleading language about climate change,\u00a0including\u00a0some already debunked claims, into official agency reports, The New York Times reported Monday.\r\nIndur M. Goklany, a longtime department emp\u2026 [+2203 chars]"
+            "title": "Susan Rice endorses Biden's presidential campaign",
+            "description": "Former national security adviser and U.N. Ambassador Susan Rice on Monday endorsed Joe Biden for president.Rice, who served in the Obama administration, tweeted her support for Biden as endorseme...",
+            "url": "https://thehill.com/homenews/campaign/485538-susan-rice-endorses-bidens-presidential-campaign",
+            "urlToImage": "https://thehill.com/sites/default/files/rice_susan_021313getty.jpg",
+            "publishedAt": "2020-03-02T20:54:20Z",
+            "content": "Former national security adviser and U.N. Ambassador Susan Rice on Monday endorsed Joe BidenJoe Biden Democratic candidates gear up for a dramatic Super TuesdayJuan Williams: Will the GOP ever curb Trump?Obama called Biden to congratulate him after South Caro\u2026 [+3718 chars]"
         },
         {
             "source": {
@@ -495,6 +495,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/warrenelizabeth_020120gn7_lead.jpg",
             "publishedAt": "2020-03-02T15:56:24Z",
             "content": "Sen. Elizabeth WarrenElizabeth Ann Warren Democratic candidates gear up for a dramatic Super TuesdayButtigieg dropping out of presidential raceSanders, Warren tied in Massachusetts: pollMORE (D-Mass.) released a plan over the weekend that would aim to fight c\u2026 [+2302 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Rebecca Klar",
+            "title": "Trump official inserted debunked climate change language into scientific documents: report",
+            "description": "An official at the Interior Department has led an effort to insert misleading language about climate change, including some already debunked claims, into official agency reports,...",
+            "url": "https://thehill.com/homenews/campaign/485442-trump-official-inserted-debunked-climate-change-language-into-scientific",
+            "urlToImage": "https://thehill.com/sites/default/files/interior_091619gn2_lead.jpg",
+            "publishedAt": "2020-03-02T15:49:33Z",
+            "content": "An official at the Interior Department has led an effort to insert misleading language about climate change,\u00a0including\u00a0some already debunked claims, into official agency reports, The New York Times reported Monday.\r\nIndur M. Goklany, a longtime department emp\u2026 [+2203 chars]"
         },
         {
             "source": {
@@ -631,19 +644,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Rebecca Klar",
-            "title": "Harry Reid endorses Biden's White House bid",
-            "description": "Former Senate Majority Leader Harry Reid (D-Nev.) on Monday announced he was endorsing former Vice President Joe Biden in his bid for the White House. Reid lauded Biden as the candidate best fit...",
-            "url": "https://thehill.com/homenews/campaign/485511-harry-reid-endorses-bidens-white-house-bid",
-            "urlToImage": "https://thehill.com/sites/default/files/reidharry_gregnash.jpg",
-            "publishedAt": "2020-03-02T19:33:30Z",
-            "content": "Former Senate Majority Leader Harry ReidHarry Mason ReidTo winnow primary field, Obama and other Democrats must speak out\u00a0The Hill's Campaign Report: Gloves off in South CarolinaDemocratic insiders stay on the sidelines in 2020 raceMORE (D-Nev.) on Monday ann\u2026 [+3308 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Justine Coleman",
             "title": "FEMA preparing for Trump emergency declaration on coronavirus: report",
             "description": "The Federal Emergency Management Agency (FEMA) is preparing for President Trump to potentially make an emergency declaration regarding the coronavirus outbreak, NBC News reported Monday.The agenc...",
@@ -651,6 +651,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/coronavirus_airport_022420getty.jpg",
             "publishedAt": "2020-03-02T17:32:14Z",
             "content": "The Federal Emergency Management Agency (FEMA) is preparing for President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?\u2026 [+1971 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Rebecca Klar",
+            "title": "Harry Reid endorses Biden's White House bid",
+            "description": "Former Senate Majority Leader Harry Reid (D-Nev.) on Monday announced he was endorsing former Vice President Joe Biden in his bid for the White House. Reid lauded Biden as the candidate best fit...",
+            "url": "https://thehill.com/homenews/campaign/485511-harry-reid-endorses-bidens-white-house-bid",
+            "urlToImage": "https://thehill.com/sites/default/files/reidharry_gregnash.jpg",
+            "publishedAt": "2020-03-02T19:33:30Z",
+            "content": "Former Senate Majority Leader Harry ReidHarry Mason ReidTo winnow primary field, Obama and other Democrats must speak out\u00a0The Hill's Campaign Report: Gloves off in South CarolinaDemocratic insiders stay on the sidelines in 2020 raceMORE (D-Nev.) on Monday ann\u2026 [+3308 chars]"
         },
         {
             "source": {
@@ -683,13 +696,13 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Jordain Carney and Juliegrace Brufke",
-            "title": "This week: House eyes vote on emergency coronavirus funding",
-            "description": "Lawmakers are racing to clinch a deal on emergency funding to combat the coronavirus as more cases, and the first deaths within the United States, took place over the weekend.The House is expected to vote on billio...",
-            "url": "https://thehill.com/blogs/floor-action/scheduling/485407-this-week-house-eyes-vote-on-emergency-coronavirus-funding",
-            "urlToImage": "https://thehill.com/sites/default/files/pelosinancy_schumercharles_020420gn_lead.jpg",
-            "publishedAt": "2020-03-02T11:01:13Z",
-            "content": "Lawmakers are racing to clinch a deal on emergency funding to combat the coronavirus as more cases, and the first deaths within the United States, took place over the weekend.\u00a0\r\nThe House is expected to vote on billions in funding aimed at combating the illne\u2026 [+14730 chars]"
+            "author": "Sylvan Lane",
+            "title": "Stocks surge past coronavirus fears after worst week since 2008",
+            "description": "The Dow Jones Industrial Average soared 5.1 percent Monday, gaining a record-breaking 1,297 points as stocks recovered some of their losses from Wall Street's worst week in a decade.The Dow shatt...",
+            "url": "https://thehill.com/policy/finance/485559-stocks-surge-past-coronavirus-fears-after-worst-week-since-2008",
+            "urlToImage": "https://thehill.com/sites/default/files/blogs/stocks_trader.jpg",
+            "publishedAt": "2020-03-02T21:39:02Z",
+            "content": "The Dow Jones Industrial Average soared 5.1 percent Monday, gaining a record-breaking 1,297 points as stocks recovered some of their losses from Wall Streets worst week in a decade.\r\nThe Dow shattered its all-time record for points gained in a single day of t\u2026 [+1429 chars]"
         },
         {
             "source": {
@@ -709,13 +722,13 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Sylvan Lane",
-            "title": "Stocks surge past coronavirus fears after worst week since 2008",
-            "description": "The Dow Jones Industrial Average soared 5.1 percent Monday, gaining a record-breaking 1,297 points as stocks recovered some of their losses from Wall Street's worst week in a decade.The Dow shatt...",
-            "url": "https://thehill.com/policy/finance/485559-stocks-surge-past-coronavirus-fears-after-worst-week-since-2008",
-            "urlToImage": "https://thehill.com/sites/default/files/blogs/stocks_trader.jpg",
-            "publishedAt": "2020-03-02T21:39:02Z",
-            "content": "The Dow Jones Industrial Average soared 5.1 percent Monday, gaining a record-breaking 1,297 points as stocks recovered some of their losses from Wall Streets worst week in a decade.\r\nThe Dow shattered its all-time record for points gained in a single day of t\u2026 [+1429 chars]"
+            "author": "Jordain Carney and Juliegrace Brufke",
+            "title": "This week: House eyes vote on emergency coronavirus funding",
+            "description": "Lawmakers are racing to clinch a deal on emergency funding to combat the coronavirus as more cases, and the first deaths within the United States, took place over the weekend.The House is expected to vote on billio...",
+            "url": "https://thehill.com/blogs/floor-action/scheduling/485407-this-week-house-eyes-vote-on-emergency-coronavirus-funding",
+            "urlToImage": "https://thehill.com/sites/default/files/pelosinancy_schumercharles_020420gn_lead.jpg",
+            "publishedAt": "2020-03-02T11:01:13Z",
+            "content": "Lawmakers are racing to clinch a deal on emergency funding to combat the coronavirus as more cases, and the first deaths within the United States, took place over the weekend.\u00a0\r\nThe House is expected to vote on billions in funding aimed at combating the illne\u2026 [+14730 chars]"
         },
         {
             "source": {
@@ -729,6 +742,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/powelljerome_091819upi_lead.jpg",
             "publishedAt": "2020-03-02T22:02:46Z",
             "content": "The Federal Reserve is under pressure from Wall Street to cut interest rates as the financial sector braces for the unknown economic toll of the coronavirus and after markets suffered a weeklong free fall.\r\nPowell said in a Friday statement that the central b\u2026 [+5164 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jessie Hellmann",
+            "title": "Washington state confirms 4 more coronavirus deaths, bringing US death toll to 6",
+            "description": "Health officials on Monday confirmed four deaths from the coronavirus in Washington state, bring the total death toll in the United States to six.Most of those who have died were elderly or had underlying health co...",
+            "url": "https://thehill.com/policy/healthcare/485524-washington-state-confirms-4-more-coronavirus-deaths-bringing-us-death-toll",
+            "urlToImage": "https://thehill.com/sites/default/files/ca_coronavirusus_013020istock_0.jpg",
+            "publishedAt": "2020-03-02T19:48:14Z",
+            "content": "The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax\r\nThe contents of this site are \u00a92020 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc."
         },
         {
             "source": {
@@ -781,19 +807,6 @@
             "urlToImage": "https://thehill.com/sites/default/files/ca_covid19_who_tedros_022420gettyimages.jpg",
             "publishedAt": "2020-03-02T18:28:04Z",
             "content": "There were almost\u00a0nine times more cases of coronavirus reported outside China in the past 24 hours than within that country, according to the World Health Organization.\r\nDuring a press briefing, World Health Organization Director-General Tedros Adhanom Ghebre\u2026 [+1264 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Jessie Hellmann",
-            "title": "Washington state confirms 4 more coronavirus deaths, bringing US death toll to 6",
-            "description": "Health officials on Monday confirmed four deaths from the coronavirus in Washington state, bring the total death toll in the United States to six.Most of those who have died were elderly or had underlying health co...",
-            "url": "https://thehill.com/policy/healthcare/485524-washington-state-confirms-4-more-coronavirus-deaths-bringing-us-death-toll",
-            "urlToImage": "https://thehill.com/sites/default/files/ca_coronavirusus_013020istock_0.jpg",
-            "publishedAt": "2020-03-02T19:48:14Z",
-            "content": "The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax\r\nThe contents of this site are \u00a92020 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc."
         },
         {
             "source": {
@@ -995,19 +1008,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Rebecca Kheel",
-            "title": "Trump nominates first African American Air Force chief",
-            "description": "President Trump has nominated Gen. Charles Brown to be the next Air Force chief of staff, setting Brown up to be the nation's first African American military service chief, the Pentagon announced Monday.If confirme...",
-            "url": "https://thehill.com/policy/defense/485545-trump-nominates-first-african-american-air-force-chief",
-            "urlToImage": "https://thehill.com/sites/default/files/airforcelogo_040618getty.jpg",
-            "publishedAt": "2020-03-02T20:57:00Z",
-            "content": "President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE has nominated Gen. Charles Brown to be the next Air Force c\u2026 [+1406 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Justine Coleman",
             "title": "Neutral Milk Hotel frontman endorses Bernie Sanders",
             "description": "The frontman of the indie rock band Neutral Milk Hotel frontman endorsed Sen. Bernie Sanders (I-Vt.) for president ahead of Super Tuesday.Jeff Mangum, who formed the group in the late 80s, releas...",
@@ -1015,6 +1015,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/sandersbernie_022820bc2_lead.jpg",
             "publishedAt": "2020-03-02T23:51:24Z",
             "content": "The frontman of the indie rock band Neutral Milk Hotel frontman endorsed Sen. Bernie SandersBernie SandersThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's \u2026 [+1394 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Rebecca Kheel",
+            "title": "Trump nominates first African American Air Force chief",
+            "description": "President Trump has nominated Gen. Charles Brown to be the next Air Force chief of staff, setting Brown up to be the nation's first African American military service chief, the Pentagon announced Monday.If confirme...",
+            "url": "https://thehill.com/policy/defense/485545-trump-nominates-first-african-american-air-force-chief",
+            "urlToImage": "https://thehill.com/sites/default/files/airforcelogo_040618getty.jpg",
+            "publishedAt": "2020-03-02T20:57:00Z",
+            "content": "President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE has nominated Gen. Charles Brown to be the next Air Force c\u2026 [+1406 chars]"
         },
         {
             "source": {
@@ -1060,19 +1073,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Rebecca Beitsch",
-            "title": "EPA board: Trump replacement of Obama-era emissions rule may not be as good for society",
-            "description": "The Trump administration's plans for addressing vehicle emissions may not be as good for society as an Obama administration rule, according to a review released Monday by the Environmental Protection Agency's (EPA)...",
-            "url": "https://thehill.com/policy/energy-environment/485560-trump-replacement-of-obama-era-emissions-rule-may-not-be-as-good",
-            "urlToImage": "https://thehill.com/sites/default/files/ca_epa_013020getty.jpg",
-            "publishedAt": "2020-03-02T22:16:16Z",
-            "content": "The Trump administration's plans for addressing vehicle emissions may not be as good for society as an Obama administration rule, according to a review released Monday by the Environmental Protection Agencys (EPA) independent science board.\r\nThe analysis from\u2026 [+2562 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Justine Coleman",
             "title": "Owners of Arizona restaurant say they're facing boycott threats, criticism over Trump support",
             "description": "The owners of a restaurant in Arizona say they are facing boycott threats and criticism for their support of President Trump.Betty and Jorge Rivera, who own Sammy's Mexican Grill in Catalina, Ariz., ne...",
@@ -1080,6 +1080,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_02262020_1.jpg",
             "publishedAt": "2020-03-02T21:37:29Z",
             "content": "The owners of a restaurant in Arizona say they are facing boycott threats and criticism for their support of President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super Tuesday\u2026 [+2228 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Rebecca Beitsch",
+            "title": "EPA board: Trump replacement of Obama-era emissions rule may not be as good for society",
+            "description": "The Trump administration's plans for addressing vehicle emissions may not be as good for society as an Obama administration rule, according to a review released Monday by the Environmental Protection Agency's (EPA)...",
+            "url": "https://thehill.com/policy/energy-environment/485560-trump-replacement-of-obama-era-emissions-rule-may-not-be-as-good",
+            "urlToImage": "https://thehill.com/sites/default/files/ca_epa_013020getty.jpg",
+            "publishedAt": "2020-03-02T22:16:16Z",
+            "content": "The Trump administration's plans for addressing vehicle emissions may not be as good for society as an Obama administration rule, according to a review released Monday by the Environmental Protection Agencys (EPA) independent science board.\r\nThe analysis from\u2026 [+2562 chars]"
         },
         {
             "source": {
@@ -1112,6 +1125,32 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
+            "author": "Naomi Jagoda",
+            "title": "Early data shows charitable giving dipped slightly under Trump tax law",
+            "description": "The Treasury Department on Monday released early data showing a slight drop in charitable giving in the first year under P...",
+            "url": "https://thehill.com/policy/finance/485570-early-data-shows-charitable-giving-dipped-slightly-under-trump-tax-law",
+            "urlToImage": "https://thehill.com/sites/default/files/treasury_072717getty.jpg",
+            "publishedAt": "2020-03-02T22:34:43Z",
+            "content": "The Treasury Department on Monday\u00a0released early data\u00a0showing a slight drop in charitable giving in the first year under President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic S\u2026 [+3226 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Harper Neidig",
+            "title": "Justices divided over Trump push to speed up deportations",
+            "description": "The Supreme Court on Monday appeared divided over the question of whether undocumented immigrants who are caught at the border and marked for expedited deportation have due process rights to challenge their removal from the country in court.",
+            "url": "https://thehill.com/regulation/court-battles/485482-justices-divided-over-trump-push-to-speed-up-deportations",
+            "urlToImage": "https://thehill.com/sites/default/files/article_images/deportation_immigration_getty.jpg",
+            "publishedAt": "2020-03-02T18:12:12Z",
+            "content": "The Supreme Court on Monday appeared divided over the question of whether undocumented immigrants who are caught at the border and marked for expedited deportation have due process rights to challenge their removal from the country in court.\r\nThe justices hea\u2026 [+3227 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
             "author": "Rebecca Kheel",
             "title": "White House withdraws nomination for Pentagon budget chief who questioned Ukraine aid hold",
             "description": "The White House has withdrawn its nomination for Pentagon budget chief after the nominee questioned President Trump's hold on Ukraine military aid that was at the center of the president's impeachment.A Senate aide...",
@@ -1132,32 +1171,6 @@
             "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_022920getty.jpg",
             "publishedAt": "2020-03-02T19:39:42Z",
             "content": "A group of former Republican lawmakers are supporting Manhattan District Attorney Cyrus Vance, Jr. in a case before the Supreme Court over New York prosecutors' grand-jury subpoena for President TrumpDonald John TrumpThis week: House eyes vote on emergency co\u2026 [+2850 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Harper Neidig",
-            "title": "Justices divided over Trump push to speed up deportations",
-            "description": "The Supreme Court on Monday appeared divided over the question of whether undocumented immigrants who are caught at the border and marked for expedited deportation have due process rights to challenge their removal from the country in court.",
-            "url": "https://thehill.com/regulation/court-battles/485482-justices-divided-over-trump-push-to-speed-up-deportations",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/deportation_immigration_getty.jpg",
-            "publishedAt": "2020-03-02T18:12:12Z",
-            "content": "The Supreme Court on Monday appeared divided over the question of whether undocumented immigrants who are caught at the border and marked for expedited deportation have due process rights to challenge their removal from the country in court.\r\nThe justices hea\u2026 [+3227 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Naomi Jagoda",
-            "title": "Early data shows charitable giving dipped slightly under Trump tax law",
-            "description": "The Treasury Department on Monday released early data showing a slight drop in charitable giving in the first year under P...",
-            "url": "https://thehill.com/policy/finance/485570-early-data-shows-charitable-giving-dipped-slightly-under-trump-tax-law",
-            "urlToImage": "https://thehill.com/sites/default/files/treasury_072717getty.jpg",
-            "publishedAt": "2020-03-02T22:34:43Z",
-            "content": "The Treasury Department on Monday\u00a0released early data\u00a0showing a slight drop in charitable giving in the first year under President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic S\u2026 [+3226 chars]"
         },
         {
             "source": {

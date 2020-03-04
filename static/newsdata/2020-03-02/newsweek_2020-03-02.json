@@ -33,6 +33,32 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
+            "author": "Aila Slisco",
+            "title": "ER Doctor Treating Coronavirus Says he Still Doesn't Have a 'Rapid Diagnostic Test Available': 'This is a National Scandal'",
+            "description": "The relatively limited ability to test U.S. patients for coronavirus compared to other countries is a \"national scandal,\" according to an emergency room doctor.",
+            "url": "https://www.newsweek.com/er-doctor-treating-coronavirus-says-he-still-doesnt-have-rapid-diagnostic-test-available-this-1490139",
+            "urlToImage": "https://d.newsweek.com/en/full/1570748/coronavirus-test.jpg",
+            "publishedAt": "2020-03-02T23:50:37Z",
+            "content": "A New York City doctor specializing in infectious diseases called a limited ability to test for the COVID-19 coronavirus in the U.S. a \"national scandal\" on Monday.\r\nDr. Matt McCarthy made the remarks during an appearance on CNBC's Squawk Box. He suggested th\u2026 [+2824 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Seren Morris",
+            "title": "Coronavirus TikTok Videos Posted by World Heath Organization to Combat Misinformation on Social Media Platform",
+            "description": "The WHO has posted two videos to TikTok, sharing advice on how to prevent spreading coronavirus and on who needs to wear respiratory masks.",
+            "url": "https://www.newsweek.com/coronavirus-misinformation-world-health-organization-tiktok-social-media-1490063",
+            "urlToImage": "https://d.newsweek.com/en/full/1570661/covid-19-statista.jpg",
+            "publishedAt": "2020-03-02T16:47:45Z",
+            "content": "The World Health Organization (WHO) has joined TikTok to prevent the spread of coronavirus misinformation online.\r\nThe WHO joined TikTok on Friday, the same day that the organization upgraded the global risk of the coronavirus outbreak to \"very high\" which is\u2026 [+2337 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
             "author": "Alexandra Schonfeld",
             "title": "How the Coronavirus Outbreak Is Impacting Travel: What to Know",
             "description": "As the spread of coronavirus increases, travelers are forgoing\u2014or thinking about forgoing\u2014traveling altogether. Here's how airlines and travelers are reacting to the virus outbreak.",
@@ -53,32 +79,6 @@
             "urlToImage": "https://d.newsweek.com/en/full/1570672/coronavirus-thailand-march-2020.jpg",
             "publishedAt": "2020-03-02T17:03:59Z",
             "content": "Confirmed COVID-19 virus cases continue to rise across the globe, with Thailand and Australia reporting their first deaths, while the Dominican Republic, Indonesia, Jordan and Tunisia reported their first cases. Australia also reported its first case of commu\u2026 [+10906 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Seren Morris",
-            "title": "Coronavirus TikTok Videos Posted by World Heath Organization to Combat Misinformation on Social Media Platform",
-            "description": "The WHO has posted two videos to TikTok, sharing advice on how to prevent spreading coronavirus and on who needs to wear respiratory masks.",
-            "url": "https://www.newsweek.com/coronavirus-misinformation-world-health-organization-tiktok-social-media-1490063",
-            "urlToImage": "https://d.newsweek.com/en/full/1570661/covid-19-statista.jpg",
-            "publishedAt": "2020-03-02T16:47:45Z",
-            "content": "The World Health Organization (WHO) has joined TikTok to prevent the spread of coronavirus misinformation online.\r\nThe WHO joined TikTok on Friday, the same day that the organization upgraded the global risk of the coronavirus outbreak to \"very high\" which is\u2026 [+2337 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Aila Slisco",
-            "title": "ER Doctor Treating Coronavirus Says he Still Doesn't Have a 'Rapid Diagnostic Test Available': 'This is a National Scandal'",
-            "description": "The relatively limited ability to test U.S. patients for coronavirus compared to other countries is a \"national scandal,\" according to an emergency room doctor.",
-            "url": "https://www.newsweek.com/er-doctor-treating-coronavirus-says-he-still-doesnt-have-rapid-diagnostic-test-available-this-1490139",
-            "urlToImage": "https://d.newsweek.com/en/full/1570748/coronavirus-test.jpg",
-            "publishedAt": "2020-03-02T23:50:37Z",
-            "content": "A New York City doctor specializing in infectious diseases called a limited ability to test for the COVID-19 coronavirus in the U.S. a \"national scandal\" on Monday.\r\nDr. Matt McCarthy made the remarks during an appearance on CNBC's Squawk Box. He suggested th\u2026 [+2824 chars]"
         },
         {
             "source": {
@@ -137,6 +137,19 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
+            "author": "David Brennan",
+            "title": "Iran Rejects Trump Offer of Help on Coronavirus as Ayatollah Aide Dies: 'We Don't Need Them'",
+            "description": "Iran is one of the worst affected nations with 1,501 confirmed cases and the highest death toll outside of China at 66.",
+            "url": "https://www.newsweek.com/iran-rejects-donald-trump-offer-help-coronavirus-ayatollah-aide-dies-we-dont-need-them-1489984",
+            "urlToImage": "https://d.newsweek.com/en/full/1570567/iran-coronavirus-donald-trump-offer-help-spread.jpg",
+            "publishedAt": "2020-03-02T11:41:06Z",
+            "content": "An Iranian official has dismissed President Donald Trump's offer of help in fighting the coronavirus, which on Monday claimed the life of a senior aide to Ayatollah Ali Khamenei.\r\nForeign Ministry spokesperson Abbas Mousavi said Monday that the U.S. is seekin\u2026 [+2691 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
             "author": "Christina Zhao",
             "title": "New York Confirms First Coronavirus Case, Governor Andrew Cuomo Says Patient Is Woman in Late 30s",
             "description": "\"There is no reason for undue anxiety\u2014the general risk remains low in New York,\" Cuomo said.",
@@ -183,19 +196,6 @@
             "urlToImage": "https://d.newsweek.com/en/full/1570673/homeless.jpg",
             "publishedAt": "2020-03-02T17:41:21Z",
             "content": "The National Coalition for the Homeless has warned that homeless communities could be \"more at risk for poor health outcomes\" if affected by the coronavirus outbreak.\r\nPublishing an advisory on the outbreak on Wednesday, the NCH warned that \"as with \"any publ\u2026 [+4509 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "David Brennan",
-            "title": "Iran Rejects Trump Offer of Help on Coronavirus as Ayatollah Aide Dies: 'We Don't Need Them'",
-            "description": "Iran is one of the worst affected nations with 1,501 confirmed cases and the highest death toll outside of China at 66.",
-            "url": "https://www.newsweek.com/iran-rejects-donald-trump-offer-help-coronavirus-ayatollah-aide-dies-we-dont-need-them-1489984",
-            "urlToImage": "https://d.newsweek.com/en/full/1570567/iran-coronavirus-donald-trump-offer-help-spread.jpg",
-            "publishedAt": "2020-03-02T11:41:06Z",
-            "content": "An Iranian official has dismissed President Donald Trump's offer of help in fighting the coronavirus, which on Monday claimed the life of a senior aide to Ayatollah Ali Khamenei.\r\nForeign Ministry spokesperson Abbas Mousavi said Monday that the U.S. is seekin\u2026 [+2691 chars]"
         },
         {
             "source": {

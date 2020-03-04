@@ -20,13 +20,13 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Elliot Smith",
-            "title": "Treasury yields mixed as investors monitor coronavirus response",
-            "description": "U.S. government debt prices were mixed Monday morning, with yields coming off record lows as investors monitor the global response to the coronavirus outbreak.",
-            "url": "https://www.cnbc.com/2020/03/02/treasury-yields-mixed-as-investors-monitor-coronavirus-response.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102141293-113215716r.jpg?v=1554403954",
-            "publishedAt": "2020-03-02T06:31:36Z",
-            "content": "U.S. government debt prices\u00a0fell on Monday morning, with yields coming off record lows as investors monitor the global response to the coronavirus outbreak.At around 2:45 a.m. ET, the yield on the benchmark 10-year Treasury note, which moves inversely to pric\u2026 [+927 chars]"
+            "author": "William Feuer",
+            "title": "Watch live: New York officials hold press conference on state's first coronavirus case",
+            "description": "New York officials confirmed on Sunday its first coronavirus case, a woman who recently traveled to Iran and is currently isolated in her home.",
+            "url": "https://www.cnbc.com/2020/03/02/watch-live-new-york-officials-hold-press-conference-on-states-first-coronavirus-case.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2020/02/28/106416725-1582927008126gettyimages-1204034435.1910x1000.jpeg",
+            "publishedAt": "2020-03-02T13:43:31Z",
+            "content": "[The stream is slated to start at 9:45 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nNew York state and city officials are holding a press conference Monday to update the public o\u2026 [+1743 chars]"
         },
         {
             "source": {
@@ -46,13 +46,13 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "William Feuer",
-            "title": "Watch live: New York officials hold press conference on state's first coronavirus case",
-            "description": "New York officials confirmed on Sunday its first coronavirus case, a woman who recently traveled to Iran and is currently isolated in her home.",
-            "url": "https://www.cnbc.com/2020/03/02/watch-live-new-york-officials-hold-press-conference-on-states-first-coronavirus-case.html",
-            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2020/02/28/106416725-1582927008126gettyimages-1204034435.1910x1000.jpeg",
-            "publishedAt": "2020-03-02T13:43:31Z",
-            "content": "[The stream is slated to start at 9:45 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nNew York state and city officials are holding a press conference Monday to update the public o\u2026 [+1743 chars]"
+            "author": "Elliot Smith",
+            "title": "Treasury yields mixed as investors monitor coronavirus response",
+            "description": "U.S. government debt prices were mixed Monday morning, with yields coming off record lows as investors monitor the global response to the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/03/02/treasury-yields-mixed-as-investors-monitor-coronavirus-response.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102141293-113215716r.jpg?v=1554403954",
+            "publishedAt": "2020-03-02T06:31:36Z",
+            "content": "U.S. government debt prices\u00a0fell on Monday morning, with yields coming off record lows as investors monitor the global response to the coronavirus outbreak.At around 2:45 a.m. ET, the yield on the benchmark 10-year Treasury note, which moves inversely to pric\u2026 [+927 chars]"
         },
         {
             "source": {
@@ -163,19 +163,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Kevin Stankiewicz",
-            "title": "Leon Cooperman's advice to regular investors during this market sell-off",
-            "description": "\"Don't be on margin, just know what you own and be patient,\" billionaire investor Leon Cooperman said on CNBC, offering investors advice on how to navigate a volatile market.",
-            "url": "https://www.cnbc.com/2020/03/01/leon-cooperman-to-investors-know-what-you-own-and-be-patient.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105224628-IMG_4181r.jpg?v=1532445240",
-            "publishedAt": "2020-03-02T01:20:00Z",
-            "content": "Leon Cooperman\u00a0offered advice Sunday to investors who are trying to navigate the stock market's volatile reaction to the coronavirus, stressing the importance of avoiding panic.\u00a0\r\nThe billionaire investor and founder of Omega Advisors shared his guidance as\u00a0s\u2026 [+3287 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Matthew J. Belvedere",
             "title": "What to watch: Dow set for another coronavirus-driven drop as Wall Street hopes for Fed help",
             "description": "U.S. stock futures, which were way down and way up overnight, were pointing to a lower open on Monday after Wall Street's worst week since the 2008 financial crisis.",
@@ -183,6 +170,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416767-15829288667542020-02-28t212807z_1382350130_rc2x9f9n8rbo_rtrmadp_3_usa-stocks.jpg?v=1582928929",
             "publishedAt": "2020-03-02T12:47:08Z",
             "content": "BY THE NUMBERS\r\nU.S. stock futures, which were way down and way up overnight, were pointing to a higher open on Monday after Wall Street's worst week since the 2008 financial crisis. Last week, concerns about the spread of the new coronavirus and the economic\u2026 [+4212 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Leon Cooperman's advice to regular investors during this market sell-off",
+            "description": "\"Don't be on margin, just know what you own and be patient,\" billionaire investor Leon Cooperman said on CNBC, offering investors advice on how to navigate a volatile market.",
+            "url": "https://www.cnbc.com/2020/03/01/leon-cooperman-to-investors-know-what-you-own-and-be-patient.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105224628-IMG_4181r.jpg?v=1532445240",
+            "publishedAt": "2020-03-02T01:20:00Z",
+            "content": "Leon Cooperman\u00a0offered advice Sunday to investors who are trying to navigate the stock market's volatile reaction to the coronavirus, stressing the importance of avoiding panic.\u00a0\r\nThe billionaire investor and founder of Omega Advisors shared his guidance as\u00a0s\u2026 [+3287 chars]"
         },
         {
             "source": {
@@ -345,6 +345,19 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
+            "author": "Jessica Dickler",
+            "title": "How to build a cash cushion if the coronavirus disrupts your job",
+            "description": "Many Americans fear the coronavirus outbreak could prevent them from working and getting paid. Here's how to kickstart an emergency fund.",
+            "url": "https://www.cnbc.com/2020/03/02/coronavirus-how-to-build-a-cash-cushion-as-outbreak-spreads.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106419290-1583153815593gettyimages-1204216384.jpeg?v=1583153876",
+            "publishedAt": "2020-03-02T16:38:19Z",
+            "content": "Canned food is one thing. Cash is another.\r\nAs people in the United States prepare for the coronavirus to spread, many are hitting the grocery store and pharmacy.\r\nHowever, what most Americans lack is enough savings on hand to weather a potential storm.\r\nEmer\u2026 [+2245 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
             "author": "Tyler Clifford",
             "title": "Coronavirus facts allowed Wall Street to rally Monday, Jim Cramer says",
             "description": "\"I think stocks soared today because Wall Street realized that the coronavirus might be the equivalent of a severe flu season,\" CNBC's Jim Cramer said.",
@@ -358,13 +371,13 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Jessica Dickler",
-            "title": "How to build a cash cushion if the coronavirus disrupts your job",
-            "description": "Many Americans fear the coronavirus outbreak could prevent them from working and getting paid. Here's how to kickstart an emergency fund.",
-            "url": "https://www.cnbc.com/2020/03/02/coronavirus-how-to-build-a-cash-cushion-as-outbreak-spreads.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106419290-1583153815593gettyimages-1204216384.jpeg?v=1583153876",
-            "publishedAt": "2020-03-02T16:38:19Z",
-            "content": "Canned food is one thing. Cash is another.\r\nAs people in the United States prepare for the coronavirus to spread, many are hitting the grocery store and pharmacy.\r\nHowever, what most Americans lack is enough savings on hand to weather a potential storm.\r\nEmer\u2026 [+2245 chars]"
+            "author": "Pippa Stevens",
+            "title": "Gold has 'immunity' to coronavirus, Goldman says",
+            "description": "As the coronavirus outbreak continues to hammer stocks, Goldman Sachs said gold has immunity to the virus.",
+            "url": "https://www.cnbc.com/2020/03/02/gold-has-immunity-to-coronavirus-goldman-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106324511-15784080339574-gold-pieces_t20_pyokdk.jpg?v=1578408107",
+            "publishedAt": "2020-03-02T14:27:00Z",
+            "content": "As the coronavirus outbreak continues to pressure global markets, Goldman Sachs said there's one asset class that's safe: gold.\r\n\"While so much about the current environment remains unclear, there's one thing that isn't: gold, whichunlike people and our econo\u2026 [+1115 chars]"
         },
         {
             "source": {
@@ -391,19 +404,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/105658058-1546534756475nfp.jpg?v=1582914479",
             "publishedAt": "2020-03-02T15:00:00Z",
             "content": "Manufacturing activity in the U.S. grew at a slower-than-expected pace last month as the coronavirus outbreak dampened sentiment in the sector, data from the Institute for Supply Management showed.\r\nThe ISM manufacturing PMI fell to 50.1 in February from 50.9\u2026 [+695 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
-            "author": "Pippa Stevens",
-            "title": "Gold has 'immunity' to coronavirus, Goldman says",
-            "description": "As the coronavirus outbreak continues to hammer stocks, Goldman Sachs said gold has immunity to the virus.",
-            "url": "https://www.cnbc.com/2020/03/02/gold-has-immunity-to-coronavirus-goldman-says.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106324511-15784080339574-gold-pieces_t20_pyokdk.jpg?v=1578408107",
-            "publishedAt": "2020-03-02T14:27:00Z",
-            "content": "As the coronavirus outbreak continues to pressure global markets, Goldman Sachs said there's one asset class that's safe: gold.\r\n\"While so much about the current environment remains unclear, there's one thing that isn't: gold, whichunlike people and our econo\u2026 [+1115 chars]"
         },
         {
             "source": {
@@ -462,19 +462,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Jordan Novet",
-            "title": "Microsoft sees opportunity in old computers that still need to be upgraded from Windows 7",
-            "description": "Plenty of people are still using Windows 7, and the coronavirus isn't the only factor that makes this cycle more prolonged than usual.",
-            "url": "https://www.cnbc.com/2020/03/02/microsoft-cfo-hood-more-windows-7-opportunity-than-in-past-cycles.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106341092-1579213283673msftcfo.jpg?v=1579213308",
-            "publishedAt": "2020-03-02T22:00:53Z",
-            "content": "Microsoft still sees plenty of opportunity to for customers to upgrade machines from Windows 7 to Windows 10,\u00a0 and not only because of coronavirus fallout.\r\nUsually, Microsoft sees a pronounced increase in revenue around the time it ends support for an older \u2026 [+3212 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Megan Graham",
             "title": "New York Times warns it's seeing a slowdown in ad bookings due to coronavirus fears",
             "description": "The New York Times company says it's seeing a slowdown in advertising bookings that it's associating with \"uncertainty and anxiety\" around the coronavirus.",
@@ -482,6 +469,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106353882-1579878730843dsc02782r.jpg?v=1579878762",
             "publishedAt": "2020-03-02T14:37:45Z",
             "content": "The New York Times Company says it's seeing a slowdown in advertising bookings due to \"uncertainty and anxiety\" caused by the coronavirus, according to a regulatory filing\u00a0issued Monday.\r\nThe company said it has \"begun to see see some economic impact\" from th\u2026 [+1314 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jordan Novet",
+            "title": "Microsoft sees opportunity in old computers that still need to be upgraded from Windows 7",
+            "description": "Plenty of people are still using Windows 7, and the coronavirus isn't the only factor that makes this cycle more prolonged than usual.",
+            "url": "https://www.cnbc.com/2020/03/02/microsoft-cfo-hood-more-windows-7-opportunity-than-in-past-cycles.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106341092-1579213283673msftcfo.jpg?v=1579213308",
+            "publishedAt": "2020-03-02T22:00:53Z",
+            "content": "Microsoft still sees plenty of opportunity to for customers to upgrade machines from Windows 7 to Windows 10,\u00a0 and not only because of coronavirus fallout.\r\nUsually, Microsoft sees a pronounced increase in revenue around the time it ends support for an older \u2026 [+3212 chars]"
         },
         {
             "source": {
@@ -527,19 +527,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Matthew J. Belvedere",
-            "title": "5 things to know before the stock market opens Monday",
-            "description": "U.S. stock futures, which were way down and way up overnight, were pointing to a lower open on Monday after Wall Street's worst week since the 2008 financial crisis.",
-            "url": "https://www.cnbc.com/2020/03/02/5-things-to-know-before-the-stock-market-opens-march-2-2020.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416138-15829081335212020-02-28t153819z_1301788503_rc2r9f9xbwfz_rtrmadp_3_usa-stocks.jpg?v=1582908188",
-            "publishedAt": "2020-03-02T13:16:00Z",
-            "content": "1. Dow set to open lower after wild swings in futures overnight\r\nTraders work on the floor at the New York Stock Exchange (NYSE) in New York, U.S., February 28, 2020.\r\nU.S. stock futures, which were way down and way up overnight, were pointing to a lower open\u2026 [+3420 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Melissa Repko",
             "title": "How grocery stores are trying to prevent 'panic buying' as coronavirus causes stockpiling, emptying shelves",
             "description": "As an outbreak of a new coronavirus causes some U.S. customers to fill up shopping carts and thin out store shelves, industry groups and experts say grocers can tamp down on \"panic buying\" by planning ahead and trying to stay stocked.",
@@ -547,6 +534,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106420241-1583179975068photo-mar-02-11-18-45-am.jpg?v=1583180027",
             "publishedAt": "2020-03-02T21:36:00Z",
             "content": "As an outbreak of a new coronavirus causes some U.S. customers to fill up shopping carts and thin out store shelves, industry groups and experts say grocers can tamp down on \"panic buying\" by planning ahead and trying to stay stocked.\r\nGrocery stores, includi\u2026 [+4316 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Monday",
+            "description": "U.S. stock futures, which were way down and way up overnight, were pointing to a lower open on Monday after Wall Street's worst week since the 2008 financial crisis.",
+            "url": "https://www.cnbc.com/2020/03/02/5-things-to-know-before-the-stock-market-opens-march-2-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416138-15829081335212020-02-28t153819z_1301788503_rc2r9f9xbwfz_rtrmadp_3_usa-stocks.jpg?v=1582908188",
+            "publishedAt": "2020-03-02T13:16:00Z",
+            "content": "1. Dow set to open lower after wild swings in futures overnight\r\nTraders work on the floor at the New York Stock Exchange (NYSE) in New York, U.S., February 28, 2020.\r\nU.S. stock futures, which were way down and way up overnight, were pointing to a lower open\u2026 [+3420 chars]"
         },
         {
             "source": {
@@ -579,19 +579,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Kevin Stankiewicz",
-            "title": "Cramer: 'Unless the Fed can create a vaccine or beat the virus,' rate cuts won't matter",
-            "description": "\"Unless the Fed can create a vaccine or beat the virus, then it really doesn't matter,\" CNBC's Jim Cramer said Monday.",
-            "url": "https://www.cnbc.com/2020/03/02/jim-cramer-coronavirus-vaccine-more-important-than-fed-lowering-rates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106362336-1580327572185gettyimages-1197380071.jpeg?v=1580327637",
-            "publishedAt": "2020-03-02T15:02:00Z",
-            "content": "The cure to the stock market's coronavirus-driven volatility is not lower interest rates from the Federal Reserve,\u00a0CNBC's Jim Cramer said Monday.\r\n\"Unless the Fed can create a vaccine or beat the virus, then it really doesn't matter,\" Cramer said on \"Squawk o\u2026 [+1309 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Yelena Dzhanova",
             "title": "Watch: Mike Pence leads coronavirus briefing as US officials confirm more cases",
             "description": "Vice President Mike Pence is expected to speak at a briefing Monday evening on the administration's efforts to contain the deadly coronavirus outbreak.",
@@ -599,6 +586,19 @@
             "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2020/03/02/106420306-1583182454612gettyimages-1209526244.1910x1000.jpeg",
             "publishedAt": "2020-03-02T21:56:00Z",
             "content": "[The stream is slated to start at 5 p.m. ET. Please refresh the page if you do not see a player above at that time.]\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nVice President Mike Pence is expected to speak at a briefing Monday evening on the administration\u2026 [+945 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Cramer: 'Unless the Fed can create a vaccine or beat the virus,' rate cuts won't matter",
+            "description": "\"Unless the Fed can create a vaccine or beat the virus, then it really doesn't matter,\" CNBC's Jim Cramer said Monday.",
+            "url": "https://www.cnbc.com/2020/03/02/jim-cramer-coronavirus-vaccine-more-important-than-fed-lowering-rates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106362336-1580327572185gettyimages-1197380071.jpeg?v=1580327637",
+            "publishedAt": "2020-03-02T15:02:00Z",
+            "content": "The cure to the stock market's coronavirus-driven volatility is not lower interest rates from the Federal Reserve,\u00a0CNBC's Jim Cramer said Monday.\r\n\"Unless the Fed can create a vaccine or beat the virus, then it really doesn't matter,\" Cramer said on \"Squawk o\u2026 [+1309 chars]"
         },
         {
             "source": {
@@ -618,19 +618,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Jennifer Elias",
-            "title": "Google says its cloud conference will only be held virtually as coronavirus spreads",
-            "description": "The cloud conference drew in 30,000 attendees last year in San Francisco.",
-            "url": "https://www.cnbc.com/2020/03/02/google-says-cloud-next-will-be-held-virtually-as-coronavirus-spreads.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106120359-1568071954183gettyimages-1135936634.jpeg?v=1578964019",
-            "publishedAt": "2020-03-02T23:08:09Z",
-            "content": "Google said on Monday that its upcoming cloud conference will only be held virtually due to the spreading of the coronavirus.\r\nThe company's three-day Google Cloud Next 2020 event was supposed to be held in San Francisco from April 6-8, but will now just be l\u2026 [+1587 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Silvia Amaro",
             "title": "Clashes on Greece's border add to list of problems for EU leaders",
             "description": "The coronavirus keeps spreading across the 27-member bloc and fuels fears of an economic recession.",
@@ -638,6 +625,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106417297-1582970818933gettyimages-1204098242.jpg?v=1582970875",
             "publishedAt": "2020-03-02T14:44:54Z",
             "content": "European leaders are facing an unprecedented range of problems, from new tensions at the Greek border, trade talks with the U.K. and internal divisions over money. All of this while the coronavirus keeps spreading across the 27-member bloc and fuels fears of \u2026 [+3683 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jennifer Elias",
+            "title": "Google says its cloud conference will only be held virtually as coronavirus spreads",
+            "description": "The cloud conference drew in 30,000 attendees last year in San Francisco.",
+            "url": "https://www.cnbc.com/2020/03/02/google-says-cloud-next-will-be-held-virtually-as-coronavirus-spreads.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106120359-1568071954183gettyimages-1135936634.jpeg?v=1578964019",
+            "publishedAt": "2020-03-02T23:08:09Z",
+            "content": "Google said on Monday that its upcoming cloud conference will only be held virtually due to the spreading of the coronavirus.\r\nThe company's three-day Google Cloud Next 2020 event was supposed to be held in San Francisco from April 6-8, but will now just be l\u2026 [+1587 chars]"
         },
         {
             "source": {
@@ -683,19 +683,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Reuters",
-            "title": "Global growth plunging into downturn over coronavirus, OECD says",
-            "description": "The coronavirus outbreak is plunging the world economy into its worst downturn since the global financial crisis, the Organisation for Economic Cooperation and Development warned.",
-            "url": "https://www.cnbc.com/2020/03/02/global-growth-plunging-into-downturn-over-coronavirus-oecd-says.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106406452-1582562801659rts33dya.jpg?v=1582562852",
-            "publishedAt": "2020-03-02T10:54:57Z",
-            "content": "The coronavirus outbreak is plunging the world economy into its worst downturn since the global financial crisis, the Organisation for Economic Cooperation and Development warned on Monday, urging governments and central banks to fight back to avoid an even s\u2026 [+3280 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Holly Ellyatt",
             "title": "Europe stocks set to rally on hopes of stimulus measures to lessen coronavirus impact",
             "description": "European markets are set to open higher Monday as investor sentiment is boosted by promises of a global monetary policy response to mitigate the economic impact of the coronavirus.",
@@ -722,6 +709,19 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
+            "author": "Reuters",
+            "title": "Global growth plunging into downturn over coronavirus, OECD says",
+            "description": "The coronavirus outbreak is plunging the world economy into its worst downturn since the global financial crisis, the Organisation for Economic Cooperation and Development warned.",
+            "url": "https://www.cnbc.com/2020/03/02/global-growth-plunging-into-downturn-over-coronavirus-oecd-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106406452-1582562801659rts33dya.jpg?v=1582562852",
+            "publishedAt": "2020-03-02T10:54:57Z",
+            "content": "The coronavirus outbreak is plunging the world economy into its worst downturn since the global financial crisis, the Organisation for Economic Cooperation and Development warned on Monday, urging governments and central banks to fight back to avoid an even s\u2026 [+3280 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
             "author": "Laura Strickler and Suzy Khimm",
             "title": "FEMA prepping for possible coronavirus emergency declaration",
             "description": "\"To me this is another indication that the president and the White House are finally aware of the gravity of the situation,\" former FEMA official Michael Coen told NBC News.",
@@ -735,19 +735,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Rebecca Fannin, special to CNBC.com",
-            "title": "The rush to deploy robots in China amid the coronavirus outbreak",
-            "description": "Chinese companies are rushing to deploy robots and automation technology as the coronavirus spreads throughout the nation.",
-            "url": "https://www.cnbc.com/2020/03/02/the-rush-to-deploy-robots-in-china-amid-the-coronavirus-outbreak.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106414236-1582834620469gettyimages-1200173430.jpeg?v=1582834773",
-            "publishedAt": "2020-03-02T13:57:07Z",
-            "content": "A patrol robot at a hospital in Shenyang in China's northeastern Liaoning province checks temperatures and identities and disinfects people on Feb, 26, 2020.\r\nMarvin Sepe, CEO of Irvine, California-based CTC Global, has been scrambling to get his company's Ch\u2026 [+10560 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Yun Li",
             "title": "Powell and Mnuchin will lead G-7 emergency call on the coronavirus Tuesday",
             "description": "Global financial ministers and central bankers will hold a conference call on Tuesday to coordinate the financial and economic response to the coronavirus.",
@@ -755,6 +742,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/105956462-1560051900109gettyimages-1148487777.jpeg?v=1560051980",
             "publishedAt": "2020-03-02T22:18:32Z",
             "content": "Global financial ministers and central bankers will hold a conference call on Tuesday to coordinate the financial and economic response to the coronavirus.\r\nThe teleconference call will be led by Treasury Secretary Steven Mnuchin and Federal Reserve Chairman \u2026 [+752 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Rebecca Fannin, special to CNBC.com",
+            "title": "The rush to deploy robots in China amid the coronavirus outbreak",
+            "description": "Chinese companies are rushing to deploy robots and automation technology as the coronavirus spreads throughout the nation.",
+            "url": "https://www.cnbc.com/2020/03/02/the-rush-to-deploy-robots-in-china-amid-the-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106414236-1582834620469gettyimages-1200173430.jpeg?v=1582834773",
+            "publishedAt": "2020-03-02T13:57:07Z",
+            "content": "A patrol robot at a hospital in Shenyang in China's northeastern Liaoning province checks temperatures and identities and disinfects people on Feb, 26, 2020.\r\nMarvin Sepe, CEO of Irvine, California-based CTC Global, has been scrambling to get his company's Ch\u2026 [+10560 chars]"
         },
         {
             "source": {
@@ -865,19 +865,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Melissa Repko",
-            "title": "Target cancels in-person investor day in New York City due to coronavirus",
-            "description": "The Minneapolis-based retailer said executives will have a webcast on Tuesday morning instead.",
-            "url": "https://www.cnbc.com/2020/03/02/target-cancels-in-person-investor-day-in-new-york-city-due-to-coronavirus.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106255717-1574251616696gettyimages-1183440966.jpeg?v=1579092810",
-            "publishedAt": "2020-03-02T15:24:54Z",
-            "content": "Target\u00a0has canceled its in-person analyst and investor meeting in New York City amid concerns about the coronavirus outbreak.\r\nInstead of holding the Tuesday meeting, a company spokeswoman said executives will discuss fourth-quarter results and answer analyst\u2026 [+511 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "William Feuer",
             "title": "Watch live: Seattle-area officials announce emergency declaration over the coronavirus outbreak",
             "description": "King County Executive Dow Constantine will announce an emergency declaration, a county spokesperson said.",
@@ -885,6 +872,19 @@
             "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2020/03/02/106419998-1583172240316gettyimages-462427760.1910x1000.jpeg",
             "publishedAt": "2020-03-02T18:38:31Z",
             "content": "[The stream is slated to start at 2:00 p.m. ET. Please refresh the page if you do not see a player above at that time.]\r\ndiv &gt; div.group &gt; p:first-child\"&gt;\r\nWashington state and King County officials are holding a press conference Monday to announce a\u2026 [+1123 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko",
+            "title": "Target cancels in-person investor day in New York City due to coronavirus",
+            "description": "The Minneapolis-based retailer said executives will have a webcast on Tuesday morning instead.",
+            "url": "https://www.cnbc.com/2020/03/02/target-cancels-in-person-investor-day-in-new-york-city-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106255717-1574251616696gettyimages-1183440966.jpeg?v=1579092810",
+            "publishedAt": "2020-03-02T15:24:54Z",
+            "content": "Target\u00a0has canceled its in-person analyst and investor meeting in New York City amid concerns about the coronavirus outbreak.\r\nInstead of holding the Tuesday meeting, a company spokeswoman said executives will discuss fourth-quarter results and answer analyst\u2026 [+511 chars]"
         },
         {
             "source": {
@@ -917,19 +917,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Jeff Cox",
-            "title": "With the Fed expected to ease, doubts arise over whether rate cuts will help",
-            "description": "Financial markets and the White House are demanding interest rate cuts from the Federal Reserve that may not work and may not even be necessary.",
-            "url": "https://www.cnbc.com/2020/03/02/with-the-fed-expected-to-ease-doubts-arise-over-whether-rate-cuts-will-help.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106292876-1576160131554rts2ujd4.jpg?v=1580238238",
-            "publishedAt": "2020-03-02T19:16:00Z",
-            "content": "Federal Reserve Chair Jerome Powell holds a news conference following the Federal Open Market Committee meeting in Washington, December 11, 2019.\r\nFinancial markets and the White House are demanding interest rate cuts from the Federal Reserve that may not wor\u2026 [+4739 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Lauren Hirsch",
             "title": "Trump defends holding campaign rallies during coronavirus outbreak: 'I think it's very safe'",
             "description": "President Donald Trump on Monday brushed off concerns that holding rallies present a public health risk, even as companies are canceling major events and restricting travel.",
@@ -937,6 +924,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106419846-1583168228803gettyimages-1204075296.jpeg?v=1583168270",
             "publishedAt": "2020-03-02T17:35:00Z",
             "content": "President Donald Trump on Monday brushed off concerns that holding rallies present a public health risk, even as companies are canceling major events and restricting travel.\u00a0\r\n\"These were set up a long time ago,\" Trump told reporters Monday during his White H\u2026 [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "With the Fed expected to ease, doubts arise over whether rate cuts will help",
+            "description": "Financial markets and the White House are demanding interest rate cuts from the Federal Reserve that may not work and may not even be necessary.",
+            "url": "https://www.cnbc.com/2020/03/02/with-the-fed-expected-to-ease-doubts-arise-over-whether-rate-cuts-will-help.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106292876-1576160131554rts2ujd4.jpg?v=1580238238",
+            "publishedAt": "2020-03-02T19:16:00Z",
+            "content": "Federal Reserve Chair Jerome Powell holds a news conference following the Federal Open Market Committee meeting in Washington, December 11, 2019.\r\nFinancial markets and the White House are demanding interest rate cuts from the Federal Reserve that may not wor\u2026 [+4739 chars]"
         },
         {
             "source": {

@@ -1,0 +1,357 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Sarah Owermohle and Sarah Karlin-Smith",
+            "title": "Coronavirus emergency bill held up over vaccine cost concerns",
+            "description": "Democrats are insisting the spending package include significant funding to purchase large amounts of coronavirus diagnostics.",
+            "url": "https://www.politico.com/news/2020/03/03/coronavirus-emergency-bill-119729",
+            "urlToImage": "https://static.politico.com/c3/49/f899fd0a4578819b6b507eb4e3c6/200303-chuck-schumer-getty-773.jpg",
+            "publishedAt": "2020-03-03T21:34:50Z",
+            "content": "The administration's top scientists have said any coronavirus vaccine could be at least a year away from reaching the market. Moderna Therapeutics is working with National Institutes of Health on a vaccine while Johnson &amp; Johnson has received funding from\u2026 [+1467 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Dan Diamond",
+            "title": "CDC blocked FDA official from premises",
+            "description": "Sent to help the administration\u2019s coronavirus response, a test specialist was stopped at CDC\u2019s door and made to wait overnight.",
+            "url": "https://www.politico.com/news/2020/03/03/cdc-blocked-fda-official-premises-119684",
+            "urlToImage": "https://static.politico.com/cd/db/a6414c7e4962a435e07e625de3cc/20200121-cdc-ap-773.jpg",
+            "publishedAt": "2020-03-03T20:23:21Z",
+            "content": "A CDC spokesperson said that the delay was because of a scheduling misunderstanding.\r\n\"On Saturday, February 22, at about 7 p.m., an FDA employee arrived at CDC Roybal campus in Atlanta, a day before what CDC understood to be his scheduled arrival time. Due t\u2026 [+1711 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Brianna Ehley",
+            "title": "Trump's team shifts tone from preventing coronavirus to containing it",
+            "description": "\u201cNow we\u2019re focused on mitigation of the spread, as well as the treatment of the people affected,\u201d Pence said.",
+            "url": "https://www.politico.com/news/2020/03/02/trump-coronavirus-pence-119051",
+            "urlToImage": "https://static.politico.com/33/f6/57299369455886de27d020baf098/200302-penceazar-gty-773.jpg",
+            "publishedAt": "2020-03-03T00:52:09Z",
+            "content": "HHS Secretary Alex Azar stressed the immediate risk to the American public remains low, but added: The degree of risk has the potential to change quickly. He said officials expect more confirmed cases as the U.S.s testing capacity is expected to dramatically \u2026 [+1619 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Quint Forgey",
+            "title": "Trump pummels Fed as economic leaders cope with coronavirus",
+            "description": "The president again urged the central bank to lower interest rates.",
+            "url": "https://www.politico.com/news/2020/03/03/trump-fed-economy-coronavirus-119372",
+            "urlToImage": "https://static.politico.com/f2/eb/d0d76f1a4a85bd34521197a5fc9f/200303-jerome-powell-gty-773.jpg",
+            "publishedAt": "2020-03-03T12:59:53Z",
+            "content": "The presidents posts come hours before a planned interagency meeting led by the White Houses National Economic Council to discuss the coronavirus effect on the U.S. economy. \r\nFinancial ministers and central bankers of the Group of Seven major economies are a\u2026 [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "AMANDA EISENBERG",
+            "title": "De Blasio, Cuomo confirm second case of coronavirus, first to be 'community spread' - Politico",
+            "description": "De Blasio, Cuomo confirm second case of coronavirus, first to be 'community spread' Politico New York confirms second coronavirus case as Jewish schools close over virus fears New York Post Two Buffalo-area families quarantined in their homes, await results o\u2026",
+            "url": "https://www.politico.com/states/new-york/city-hall/story/2020/03/03/de-blasio-cuomo-confirm-second-case-of-coronavirus-first-to-be-community-spread-9421567",
+            "urlToImage": "https://static.politico.com/c1/ed/5a5fe10f4343b680c57c3a7621ae/0302deblascuomo.jpg",
+            "publishedAt": "2020-03-03T14:52:00Z",
+            "content": "New York Gov. Andrew Cuomo and Mayor Bill de Blasio | AP Photo/Mark Lennihan\r\nA Westchester resident has been confirmed as the second case of coronavirus in the state and the first \"community spread\" case Mayor Bill de Blasio and Gov. Andrew Cuomo announced T\u2026 [+3730 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Gabby Orr",
+            "title": "\u2018This is the equivalent of war\u2019: Pence faces the toughest test of the Trump era",
+            "description": "Trump assigned his right-hand man to a role that could shape the president\u2019s fate in an election year. He\u2019s approaching the job with a much different style than the president is deploying.",
+            "url": "https://www.politico.com/news/2020/03/02/trump-coronavirus-pence-119057",
+            "urlToImage": "https://static.politico.com/1d/f7/c15983014cb0aa339324afa029fe/200302-pence-gty-773.jpg",
+            "publishedAt": "2020-03-03T01:07:15Z",
+            "content": "This is the equivalent of war. This is a big deal and people are going to die, and so you cant afford to make mistakes, said former House Speaker Newt Gingrich. \r\nGingrich sent a note to Pence on Sunday praising the discipline he showed during a tough Sunday \u2026 [+8181 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Sam Mintz and Brianna Gurciullo",
+            "title": "CDC may lack contact information for some airline passengers possibly exposed to coronavirus",
+            "description": "Airlines and the CDC disagree about how to fix the problem.",
+            "url": "https://www.politico.com/news/2020/03/03/cdc-coronavirus-airline-passengers-119751",
+            "urlToImage": "https://static.politico.com/ea/2b/433be56a4e6ea5965eceb59ed7e1/200303-coronavirus-airlines-getty-773.jpg",
+            "publishedAt": "2020-03-03T21:50:21Z",
+            "content": "Policy should be developed from knowledgeable people at FAA or DOT so we can begin to better track passengers, DeFazio added. But he noted later that he expected \"they ought to able to figure this out.\"\r\nAs first reported by The Washington Post, the CDC is in\u2026 [+5625 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Matthew Choi",
+            "title": "Trump goes after Dems in Super Tuesday eve rally",
+            "description": "The president laid into Joe Biden and mocked Bernie Sanders and Elizabeth Warren.",
+            "url": "https://www.politico.com/news/2020/03/02/trump-rally-super-tuesday-119040",
+            "urlToImage": "https://static.politico.com/11/72/6930c30a4150b8b143714910784a/200302-trump-msm-773.jpg",
+            "publishedAt": "2020-03-03T02:02:01Z",
+            "content": "Insulting his Democratic rivals formed the bulk of Trumps rally, which came on the eve of the Super Tuesday elections in which 14 states, including North Carolina, will vote. The president laid into Biden, calling him one of his favorite insults, Sleepy Joe, \u2026 [+2821 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Michael Kruse",
+            "title": "Trump Is Turning Coronavirus Into a Useful Enemy",
+            "description": "No longer treated as a hoax, the outbreak is an adversary that\u2014for now\u2014the president is using to play to his strengths.",
+            "url": "https://www.politico.com/news/magazine/2020/03/03/trump-rally-coronavirus-119480",
+            "urlToImage": "https://static.politico.com/8d/7e/045483e54af18ddc517ec399d5e0/trumprally-lede-option1.jpg",
+            "publishedAt": "2020-03-03T18:20:36Z",
+            "content": "No, he said. Im just saying they might be, they might be, they might be making a biggeryou know, who knows? Im not into conspiracy theories.\r\nHe and his wife told me to Google a video on YouTube of a man in China eating live baby mice.\r\nI wondered what the co\u2026 [+1870 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "POLITICO Playbook: The battle for the soul of the Democratic Party",
+            "description": "And Capitol Hill gets close to striking a coronavirus funding deal.",
+            "url": "https://www.politico.com/newsletters/playbook/2020/03/03/the-battle-for-the-soul-of-the-democratic-party-488457",
+            "urlToImage": "https://static.politico.com/b7/4e/4cd699b34e9b8207c5d74255a412/gettyimages-1209971132.jpg",
+            "publishedAt": "2020-03-03T10:59:56Z",
+            "content": "Joe Biden and Bernie Sanders now both have the race they wanted. | Alex Wong/Getty Images\r\nDRIVING THE DAY\r\nGMORNING from MINNEAPOLIS and happy Super Tuesday. \r\nTHIS ISNT AN ELECTION to spend all our time in the battle for the soul of the Democratic Party, JO\u2026 [+21085 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Sarah Ferris and Caitlin Emma",
+            "title": "Hill leaders close to striking emergency coronavirus funding deal",
+            "description": "\"Hopefully we can all reach a bipartisan, bicameral agreement on that soon,\u201d Mitch McConnell says.",
+            "url": "https://www.politico.com/news/2020/03/02/coronavirus-spending-congress-118987",
+            "urlToImage": "https://static.politico.com/14/3b/7bdbcf7045239bde9d4729759a1c/20302-mcconnellgty773.jpg",
+            "publishedAt": "2020-03-03T00:06:59Z",
+            "content": "The Trump administration initially asked for an extra $2.5 billion to fight the coronavirus, half of which would come from other accounts, like the Ebola virus response. But that figure was widely panned by Congressional leaders, who are seeking a far more ro\u2026 [+3640 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Amir A. Afkhami",
+            "title": "Why Iran Is Such a Coronavirus Threat",
+            "description": "For years, Tehran was remarkably good at fighting epidemics. This time, a bungling and an isolated regime is worsening global risk. The U.S. could actually help.",
+            "url": "https://www.politico.com/news/magazine/2020/03/03/iran-used-to-be-better-at-handling-epidemics-then-came-coronavirus-119651",
+            "urlToImage": "https://static.politico.com/ab/e1/5adbf3db41d29c85614cbac80b52/gettyimages-1208577915-773.jpg",
+            "publishedAt": "2020-03-03T22:01:36Z",
+            "content": "But the culture of disease prevention and transparency in Iran began to change with its formal membership in the International Office of Public Health, a precursor to the World Health Organization (WHO), in 1908. With international technical assistance, inclu\u2026 [+6179 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Theodoric Meyer",
+            "title": "How coronavirus could impact K Street",
+            "description": "TikTok adds 2 lobbying firms \u2014 Scott calls for investigation into lawyer representing Maduro regime",
+            "url": "https://www.politico.com/newsletters/politico-influence/2020/03/03/how-coronavirus-could-impact-k-street-488465",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T20:10:13Z",
+            "content": "With David Beavers and Daniel Lippman\r\nHOW CORONAVIRUS COULD IMPACT K STREET: Bruce Mehlman, a co-founder of Mehlman Castagnetti Rosen &amp; Thomas, sent a memo to clients on Monday outlining what to expect as Washington confronts the coronavirus. Congress is\u2026 [+8685 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Sam Mintz",
+            "title": "Trump administration escalates dispute with airlines over coronavirus data",
+            "description": "Pence to meet with airlines on coronavirus \u2014 Amtrak looks to the skies again for new CEO",
+            "url": "https://www.politico.com/newsletters/morning-transportation/2020/03/03/trump-administration-escalates-dispute-with-airlines-over-coronavirus-data-785800",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T15:00:44Z",
+            "content": "Presented by Freight Rail Works\r\nWith help from Tanya Snyder\r\nEditors Note: Morning Transportation is a free version of POLITICO Pro Transportations morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform com\u2026 [+10287 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Melanie Zanona",
+            "title": "The top congressional races to watch on Super Tuesday",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/huddle/2020/03/03/the-top-congressional-primaries-to-watch-on-super-tuesday-488463",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T13:15:18Z",
+            "content": "Presented by Humana\r\nITS A BIRD, ITS A PLANE, ITS SUPER TUESDAY! -- The presidential primary isnt the only storyline to watch on Super Tuesday: there are also a number of down-ballot races that could have major implications for the House and Senate this fall.\u2026 [+14991 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Sarah Owermohle",
+            "title": "'You don't want to go to war with a president'",
+            "description": "How Dr. Anthony Fauci is navigating the coronavirus outbreak in the Trump era.",
+            "url": "https://www.politico.com/news/2020/03/03/anthony-fauci-trump-coronavirus-crisis-118961",
+            "urlToImage": "https://static.politico.com/52/0e/01be71c24c319cd944635f707c44/200302-anthony-fauci-getty-773.jpg",
+            "publishedAt": "2020-03-03T09:30:42Z",
+            "content": "And the truth about coronavirus? I don't think that we are going to get out of this completely unscathed, he said. I think that this is going to be one of those things we look back on and say boy, that was bad.\r\nThe plainspoken scientist with a heavy Brooklyn\u2026 [+6798 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Adam Behsudi",
+            "title": "Lighthizer downplays U.K. concerns on NHS, food safety rules",
+            "description": "EU could sink WTO fisheries talks \u2014 Coronavirus emerges on WTO agenda",
+            "url": "https://www.politico.com/newsletters/morning-trade/2020/03/03/lighthizer-downplays-uk-concerns-on-nhs-food-safety-rules-785809",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T15:00:31Z",
+            "content": "With help from Doug Palmer and Jakob Hanke\r\nEditors Note: Morning Trade is a free version of POLITICO Pro Trades morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tools y\u2026 [+11448 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By David Lim and Adam Cancryn",
+            "title": "Widespread coronavirus testing could still be weeks away",
+            "description": "Public health experts say administration claims on testing capacity are misleading.",
+            "url": "https://www.politico.com/news/2020/03/03/widespread-coronavirus-testing-weeks-away-119846",
+            "urlToImage": "https://static.politico.com/6a/74/305154fc4894b2d55d350295465a/20200303-coronavirus-piece-ap-773.jpg",
+            "publishedAt": "2020-03-03T23:04:00Z",
+            "content": "FDA Commissioner Stephen Hahn said Monday that, by the end of the week, U.S. labs would have enough materials to perform close to 1 million tests. Public health experts say that figure is misleading because it is far larger than the number of samples that can\u2026 [+4849 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Bianca Quilantan",
+            "title": "Education policy divide widens as 2020 race narrows",
+            "description": "House spending panel spotlights child poverty \u2014 Teachers unions talk school infrastructure on the Hill",
+            "url": "https://www.politico.com/newsletters/morning-education/2020/03/03/education-policy-divide-widens-as-2020-race-narrows-785798",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T15:00:07Z",
+            "content": "With help from Nicole Gaudiano\r\nEditors Note: Morning Education is a free version of POLITICO Pro Educations morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tools you c\u2026 [+9453 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Associated Press",
+            "title": "Masked officers join Kim Jong Un at military drill",
+            "description": "North Korea has a live-fire rocket artillery exercise.",
+            "url": "https://www.politico.com/news/2020/03/02/north-korea-kim-military-drill-119320",
+            "urlToImage": "https://static.politico.com/6a/a3/f7d4a827490b9980d7972fa72f21/200302-kju-ap-773.jpg",
+            "publishedAt": "2020-03-03T04:13:45Z",
+            "content": "Kim smiled widely while watching from an observation post. He wore a black fur hat and leather coat but was not wearing a face mask, though other military officials had black masks in an apparent reflection of the countrys campaign against the coronavirus.\r\nA\u2026 [+1628 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Tim Starks",
+            "title": "Are states ready to defend Super Tuesday?",
+            "description": "Encryption and Section 230 \u2014 Alleged Lazarus Group-abetting hackers face sanctions, charges",
+            "url": "https://www.politico.com/newsletters/morning-cybersecurity/2020/03/03/are-states-ready-to-defend-super-tuesday-785812",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T15:00:01Z",
+            "content": "With help from Mike Farrell, Eric Geller, Martin Matishak and Cristiano Lima\r\nEditors Note: Morning Cybersecurity is a free version of POLITICO Pro Cybersecuritys morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pr\u2026 [+9731 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jeremy B. White, Carla Marinucci, Graph Massara and Aaron Leathley",
+            "title": "SUPER TUESDAY! \u2014 Can BIDEN blunt BERNIE in CA? \u2014 Battles for open HILL, HUNTER, COOK, JACOBS seats \u2014 COSTA, COOPER, GLAZER challenged \u2014 BLOOMBERG hunts for TECH help",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/03/03/super-tuesday-can-biden-blunt-bernie-in-ca-battles-for-open-hill-hunter-cook-jacobs-seats-costa-cooper-glazer-challenged-bloomberg-hunts-for-tech-help-488462",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T14:14:20Z",
+            "content": "THE BUZZ: You made it! Its Super Tuesday. Now strap in for a long night (and ensuing weeks) of counting votes.\r\nPresidential results headline today, of course, and were watching to see how Democrats carve up Californias hundreds of delegates.A Bernie Sanders \u2026 [+15704 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Ryan McCrimmon",
+            "title": "Big decision day for Democrats",
+            "description": "Improper ag payments on the rise \u2014 Top organic dairy brand going \u2018carbon positive\u2019",
+            "url": "https://www.politico.com/newsletters/morning-agriculture/2020/03/03/big-decision-day-for-democrats-785811",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T15:00:07Z",
+            "content": "With help from Catherine Boudreau\r\nEditors Note: Morning Agriculture is a free version of POLITICO Pro Agricultures morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tool\u2026 [+9934 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Erin Durkin, Anna Gronewold and Michelle Bocanegra",
+            "title": "New York grapples with coronavirus \u2014 City contemplates service cuts \u2014 ICE sued over immigrant detentions",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-york-playbook/2020/03/03/new-york-grapples-with-coronavirus-city-contemplates-service-cuts-ice-sued-over-immigrant-detentions-488459",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T12:30:12Z",
+            "content": "Presented by the NYS Society of Anesthesiologists\r\nEverybody chill! Thats the message an unusually unified one from two perpetually feuding pols Gov. Andrew Cuomo and Mayor Bill de Blasio stressed as New York grapples with its first case of coronavirus. \r\nThe\u2026 [+21246 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Bernie Becker",
+            "title": "Wait and see on OECD",
+            "description": "Back to Wayfair \u2014 A clean energy try",
+            "url": "https://www.politico.com/newsletters/morning-tax/2020/03/03/wait-and-see-on-oecd-785808",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T15:00:03Z",
+            "content": "With help from Brian Faler \r\nEditors Note: Morning Tax is a free version of POLITICO Pro Taxs morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tools you can use to take \u2026 [+9223 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Stephanie Murray",
+            "title": "What to watch on SUPER TUESDAY \u2014 State reports second CORONAVIRUS case \u2014 Beacon Hill has new top LOBBYING firm",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/massachusetts-playbook/2020/03/03/what-to-watch-on-super-tuesday-state-reports-second-coronavirus-case-beacon-hill-has-new-top-lobbying-firm-488460",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T12:15:32Z",
+            "content": "Presented by Transportation for Massachusetts\r\nGOOD MORNING, MASSACHUSETTS. Its Super Tuesday! Polls are open until 8 p.m.\r\nWHO THE NEWSPAPERS CHOSE Bay State newspapers had a number of Democratic presidential campaigns to choose from this cycle, and many stu\u2026 [+17832 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Katherine Landergan",
+            "title": "Van Drew\u2019s voting record",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/new-jersey-playbook/2020/03/03/van-drews-voting-record-488455",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T11:55:18Z",
+            "content": "Good Tuesday morning!\r\nRep. Jeff Van Drew made national headlines late last year when he left the Democratic Party and became a Republican, amid collapsing Democratic support over his refusal to back impeaching President Donald Trump. \r\nAdvertisement\r\nVan Dre\u2026 [+14050 chars]"
+        }
+    ]
+}

@@ -1,0 +1,552 @@
+{
+    "status": "ok",
+    "totalResults": 42,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'How I survived coronavirus and isolation'",
+            "description": "53-year-old Julie talks about what it's like to be diagnosed with coronavirus and survive the symptoms.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-51714162/how-i-survived-coronavirus-and-isolation",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/190B/production/_111111460_p085g3bx.jpg",
+            "publishedAt": "2020-03-03T00:05:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: China orders travellers quarantined amid outbreak",
+            "description": "China is worried the virus might be imported back into the country.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51718614",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1861/production/_111114260_060395869-1.jpg",
+            "publishedAt": "2020-03-03T08:16:00Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Authorities are also asking overseas Chinese to reconsider travel plans\r\nTravellers from countries with severe coronavirus outbreaks who arrive in southern China will have to undergo a 14-day quarantine, state media \u2026 [+966 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Olympics 'could be postponed' until later in year",
+            "description": "Japan's Olympic minister says the Tokyo 2020 games could be postponed from the summer until later in the year amid fears over the coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/sport/olympics/51717839",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/8DA5/production/_111116263_tokyo2020.jpg",
+            "publishedAt": "2020-03-03T11:27:49Z",
+            "content": "Seiko Hashimoto says Tokyo 2020 organisers are \"doing all we can\" to make sure the Games go ahead as planned\r\nJapan's Olympic minister says the Tokyo 2020 Games could be postponed from the summer until later in the year amid fears over the coronavirus outbrea\u2026 [+974 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: China's tech fights back",
+            "description": "Robots, drones and artificial intelligence are being used by China to fight the disease.",
+            "url": "https://www.bbc.co.uk/news/technology-51717164",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FC3/production/_111113180_gettyimages-1203625451.jpg",
+            "publishedAt": "2020-03-03T12:37:20Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n A robot on display at a hospital in China\r\nDisinfecting robots, smart helmets, thermal camera-equipped drones and advanced facial recognition software are all being deployed in the fight against Covid-19 at the heart\u2026 [+6182 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Juventus v AC Milan: Italian Cup match called off over coronavirus fears",
+            "description": "The Italian Cup semi-final second leg between Juventus and AC Milan in Turin on Wednesday has been postponed over concerns about coronavirus.",
+            "url": "https://www.bbc.co.uk/sport/football/51727065",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/1812/production/_111126160_milan.jpg",
+            "publishedAt": "2020-03-03T22:51:39Z",
+            "content": "Juventus and AC Milan drew 1-1 in the Coppa Italia semi-final first leg\r\nThe Italian Cup semi-final second leg between Juventus and AC Milan in Turin on Wednesday has been postponed over concerns about coronavirus.\r\nIt came as the Civil Protection Agency said\u2026 [+653 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bahrain Grand Prix: Coronavirus fears prompt special measures from organisers",
+            "description": "Bahrain is instigating special measures for Formula 1 personnel working at its grand prix in the wake of the global coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/sport/formula1/51727401",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5B74/production/_111121432_bahrain.jpg",
+            "publishedAt": "2020-03-03T16:25:44Z",
+            "content": "Lewis Hamilton won the Bahrain Grand Prix last year\r\nBahrain is instigating special measures for Formula 1 personnel working at its grand prix later this month in the wake of the global coronavirus outbreak. \r\nThe Gulf state has imposed a 14-day quarantine on\u2026 [+2500 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Quarantined Cofidis riders 'held against their will' and 'treated like plague victims' in UAE",
+            "description": "Cofidis riders are being 'held against their will' and 'treated like plague victims' in the UAE says team president Thierry Vittu",
+            "url": "https://www.bbc.co.uk/sport/cycling/51719324",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/6DF7/production/_111115182_gettyimages-1202926156.jpg",
+            "publishedAt": "2020-03-03T11:27:02Z",
+            "content": "Nathan Haas is one of seven Cofidis riders still under quarantine in the UAE\r\nCofidis riders are being \"held against their will\" and \"treated like plague victims\" in the UAE says team president Thierry Vittu. \r\nThe final two stages of the UAE Tour were cancel\u2026 [+3020 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Wirral school closes after child's parent tests positive",
+            "description": "A child's parent tests positive for coronavirus on Merseyside, prompting the closure of a high school.",
+            "url": "https://www.bbc.co.uk/news/uk-england-merseyside-51725646",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05DE/production/_111120510_mediaitem111120060.jpg",
+            "publishedAt": "2020-03-03T14:38:15Z",
+            "content": "Image copyrightGoogleImage caption\r\n Headteacher Mark Bellamy said he was closing the school as a precaution\r\nA high school on Merseyside has closed after a child's parent tested positive for coronavirus.\r\nMark Bellamy said he had taken the decision to close \u2026 [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Hand sanitiser rationed at chemists as sales surge",
+            "description": "Pharmacy chains say they are limiting hand gel sales as demand spikes amid coronavirus fears.",
+            "url": "https://www.bbc.co.uk/news/uk-51729012",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2794/production/_111123101_88145b4a-3466-4671-95f0-f1e1f0b87187.jpg",
+            "publishedAt": "2020-03-03T18:11:27Z",
+            "content": "Image copyrightAFPImage caption\r\n Some stores have run out of hand sanitisers as people prepare for the virus spreading\r\nHand sanitiser sales are being limited at pharmacy chains as fears over the coronavirus have boosted demand.\r\nBoots and LLoydsPharmacy bot\u2026 [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Newspaper headlines: No-go zones and 'volunteer army' to fight virus",
+            "description": "Most of Tuesday's front pages focus on coronavirus as the PM prepares to lay out his \"battle plan\".",
+            "url": "https://www.bbc.co.uk/news/blogs-the-papers-51715672",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17DAF/production/_111111779_thetimes030320pg1.jpg",
+            "publishedAt": "2020-03-03T00:06:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Student from Singapore hurt in Oxford Street attack",
+            "description": "Jonathan Mok says a group of men told him they didn't \"want your coronavirus in our country\".",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-51722686",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2D33/production/_111117511_copyofuntitleddesign.png",
+            "publishedAt": "2020-03-03T12:14:52Z",
+            "content": "Image copyrightJonathan MokImage caption\r\n Jonathan Mok posted photos of his injuries on Facebook which have since been shared by thousands\r\nA student from Singapore has said he was beaten up by a group of men who told him: \"I don't want your coronavirus in m\u2026 [+1089 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Twitter tells staff to work from home",
+            "description": "The firm has made it mandatory for staff in Hong Kong, Japan and South Korea to work from home.",
+            "url": "https://www.bbc.co.uk/news/business-51700937",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3AFC/production/_111100151_gettyimages-1060578040.jpg",
+            "publishedAt": "2020-03-03T02:46:31Z",
+            "content": "Image copyrightGetty Images\r\nTwitter has told its employees to work from home to help stop the spread of the coronavirus.\r\nIn a blog post, the social media giant said it was mandatory for staff in Hong Kong, Japan and South Korea to work remotely.\r\nThe compan\u2026 [+1683 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: World Bank pledges $12bn in emergency aid",
+            "description": "The organisation said it would prioritise the poorest countries.",
+            "url": "https://www.bbc.co.uk/news/business-51728766",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8EC8/production/_111125563_gettyimages-1135902076.jpg",
+            "publishedAt": "2020-03-03T21:11:49Z",
+            "content": "Image copyrightAFPImage caption\r\n World Bank President David Malpass\r\nThe World Bank has committed $12bn (\u00a39.4bn) in aid for lower income countries grappling with the spread of the coronavirus.\r\nThe emergency package includes low-cost loans, grants and techni\u2026 [+889 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Mark Carney warns of 'large' short-term economic shock",
+            "description": "But the Bank of England governor says the virus's impact on growth will \"ultimately be temporary\".",
+            "url": "https://www.bbc.co.uk/news/business-51720267",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4543/production/_111113771_markcarney2afp.jpg",
+            "publishedAt": "2020-03-03T11:00:42Z",
+            "content": "Image copyrightAFP\r\nBank of England governor Mark Carney has warned that coronavirus could produce a \"large\" but \"ultimately temporary\" shock to the economy.\r\n\"It is beyond the containment phase,\" Mr Carney told the Commons Treasury Committee, before adding t\u2026 [+1613 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US Federal Reserve slashes rates amid coronavirus impact",
+            "description": "America's central bank cuts interest rates by 50 basis points over concerns about the economic impact.",
+            "url": "https://www.bbc.co.uk/news/business-51726954",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A868/production/_111121134_hi051211561-1.jpg",
+            "publishedAt": "2020-03-03T15:20:36Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Federal Reserve chairman Jay Powell\r\nThe US central bank has slashed interest rates in response to mounting concerns about the economic impact of the coronavirus. \r\nThe Federal Reserve lowered its benchmark rate by 5\u2026 [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Foster and O'Neill scale back US trip",
+            "description": "The first and deputy first ministers intend to cancel plans for the New York leg of their itinerary.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51709419",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/575F/production/_110476322_arlenemichellepa.jpg",
+            "publishedAt": "2020-03-03T21:02:37Z",
+            "content": "Image copyrightKelvin Boyes/Press Eye/pa wire\r\nStormont's leaders are set to scale back their St Patrick's Day trip to the US in response to the coronavirus outbreak.\r\nArlene Foster and Michelle O'Neill intend to cancel plans for the New York leg of their iti\u2026 [+4811 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: School closures and travel curbs in UK 'battle plan'",
+            "description": "Measures aim to see ministers have powers to prepare for a widespread outbreak, as cases rise to 39.",
+            "url": "https://www.bbc.co.uk/news/uk-51714703",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p085fj9b.jpg",
+            "publishedAt": "2020-03-03T03:26:43Z",
+            "content": "Media captionBoris Johnson on coronavirus: \"We will face a challenge in the weeks, months ahead\"\r\nThe government is to outline a \"battle plan\" to contain the spread of coronavirus involving possible school closures, event cancellations and bringing NHS staff \u2026 [+4578 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: 450 people tested in Wales for illness",
+            "description": "Wales' chief medical officer says there is \"active surveillance in place\" of patients.",
+            "url": "https://www.bbc.co.uk/news/uk-wales-51720534",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17607/production/_111115759_p08506cj.jpg",
+            "publishedAt": "2020-03-03T10:09:32Z",
+            "content": "A total of 450 people in Wales have been tested for coronavirus, Wales' chief medical officer has said.\r\nOnly one case of the virus, which has infected 86,000 people worldwide, has been confirmed in Wales, in a man from the Swansea area.\r\nDr Frank Atherton sa\u2026 [+366 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Iran holy-shrine-lickers face prison",
+            "description": "Two men face jail in Iran for licking holy shrines in defiance of coronavirus health warnings.",
+            "url": "https://www.bbc.co.uk/news/blogs-trending-51706021",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11013/production/_111115696_iran2.jpg",
+            "publishedAt": "2020-03-03T13:51:33Z",
+            "content": "Image copyrightGetty Images\r\nTwo men in Iran who defied coronavirus health warnings could be jailed and flogged after videos circulated of them licking holy shrines.\r\nIn one of the videos, viewed more than half a million times, a man is seen at the Masumeh sh\u2026 [+3127 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Union group TUC asks for sick pay for all workers",
+            "description": "People on low pay, zero-hours contracts and the self-employed are among those who may not qualify.",
+            "url": "https://www.bbc.co.uk/news/51728676",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1787/production/_111032060_homeworking_getty.jpg",
+            "publishedAt": "2020-03-03T22:54:26Z",
+            "content": "Image copyrightGetty Images\r\nTrade union body the TUC has urged the government to provide support for workers who do not qualify for statutory sick pay in the wake of the coronavirus.\r\nPeople on low incomes, zero-hours contracts and the self-employed are amon\u2026 [+2669 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Up to fifth of UK workers 'off sick at same time'",
+            "description": "Schools may close and police may need to focus on serious crimes if virus takes hold, government says.",
+            "url": "https://www.bbc.co.uk/news/uk-51718917",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1057D/production/_111114966_gettyimages-1210030853.jpg",
+            "publishedAt": "2020-03-03T10:30:05Z",
+            "content": "Image copyrightGetty Images\r\nUp to a fifth of the workforce may be off sick during the peak of a coronavirus epidemic in the UK, the government says in its latest plans. \r\nPolice may need to focus on only responding to the most serious crimes and maintaining \u2026 [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Iran temporarily frees 54,000 prisoners to combat spread",
+            "description": "A judiciary spokesman says the inmates were granted furlough after testing negative for Covid-19.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-51723398",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7B18/production/_111121513_b282ec8a-1404-4e6c-9a35-40efe354922f.jpg",
+            "publishedAt": "2020-03-03T15:53:08Z",
+            "content": "Image copyrightAFPImage caption\r\n The outbreak of Covid-19 in Iran has killed at least 77 people in less than two weeks\r\nIran has temporarily released more than 54,000 prisoners in an effort to combat the spread of the new coronavirus disease in crowded jails\u2026 [+1839 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Bond fans ask for No Time to Die delay due to coronavirus",
+            "description": "Fan site founders say a delay is best for both fans and No Time To Die's box office potential.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-51720354",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/242D/production/_111116290_bond_afp.jpg",
+            "publishedAt": "2020-03-03T11:47:31Z",
+            "content": "Image copyrightAFP\r\nThe founders of two of the most popular James Bond fan sites are asking the studios behind the next Bond film to delay its release due to coronovirus.\r\nNo Time to Die is due for release on 3 April but fans have asked for it to be held back\u2026 [+2465 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jeremy Corbyn says NHS at 94% bed occupancy before coronavirus",
+            "description": "The Labour leader has warned the NHS is at 94% bed occupancy before coronavirus hits.",
+            "url": "https://www.bbc.co.uk/news/av/uk-politics-51729453/jeremy-corbyn-says-nhs-at-94-bed-occupancy-before-coronavirus",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C46/production/_111124130_p085jxzp.jpg",
+            "publishedAt": "2020-03-03T17:53:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "PM: UK 'well prepared' on coronavirus",
+            "description": "Boris Johnson says it is \"highly likely\" that there will be a growing number of cases.",
+            "url": "https://www.bbc.co.uk/news/av/uk-51717746/pm-uk-well-prepared-on-coronavirus",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B95/production/_111114572_p085j0kh.jpg",
+            "publishedAt": "2020-03-03T13:14:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "We have 'established plans' for coronavirus outbreak",
+            "description": "First Minister Nicola Sturgeon sets out Scotland's coronavirus plans as part of the UK action plan.",
+            "url": "https://www.bbc.co.uk/news/av/uk-scotland-51723366/we-have-established-plans-for-coronavirus-outbreak",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0885/production/_111118120_p085ht54.jpg",
+            "publishedAt": "2020-03-03T13:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Steve Clarke: Scotland boss to miss Nations League draw",
+            "description": "Scotland head coach Steve Clarke will not attend Tuesday's Nations League draw in Amsterdam because of the coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/sport/football/51720125",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/45A7/production/_111113871_19683556.jpg",
+            "publishedAt": "2020-03-03T10:07:13Z",
+            "content": "Steve Clarke is two wins away from ending Scotland's 22-year wait to play in a major finals\r\nScotland head coach Steve Clarke will not attend Tuesday's Nations League draw in Amsterdam.\r\nThe Scottish FA said Clarke travelling to the Netherlands would be an \"u\u2026 [+548 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: The 'Wuhan shake' or the elbow bump?",
+            "description": "If the coronavirus has you worried about shaking hands, here are some novel ways to greet people.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-china-51726440/coronavirus-the-wuhan-shake-or-the-elbow-bump",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6F37/production/_111117482_p085jhng.jpg",
+            "publishedAt": "2020-03-03T16:14:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus v Influenza: How do the two viruses compare?",
+            "description": "Ros Atkins from BBC Outside Source takes a closer look at coronavirus and what makes it different from flu.",
+            "url": "https://www.bbc.co.uk/news/av/health-51731122/coronavirus-v-influenza-how-do-the-two-viruses-compare",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8CDE/production/_111126063_p085kq2l.jpg",
+            "publishedAt": "2020-03-03T23:32:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Scotland's papers: Scots warned of coronavirus 'worst case scenario'",
+            "description": "The chief medical officer's forecast on the virus dominates many front pages in Scotland.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51717702",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C04F/production/_111113294_express.jpg",
+            "publishedAt": "2020-03-03T06:42:42Z",
+            "content": "UK to set out plans to tackle coronavirusMeasures aim to see ministers have powers to prepare for a widespread outbreak, as cases rise to 39."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Greggs would pay staff who need to self-isolate",
+            "description": "The sandwich chain had an \"exceptional\" 2019, but cautions that coronavirus could hurt this year's sales.",
+            "url": "https://www.bbc.co.uk/news/business-51718074",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136AC/production/_105123597_gettyimages-1090436378.jpg",
+            "publishedAt": "2020-03-03T08:17:04Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Greggs said its vegan sausage roll had helped boost sales\r\nGreggs boss Roger Whiteside has said his firm would pay staff who have to self-isolate because of coronavirus.\r\n\"Our default position is that we pay contract\u2026 [+4689 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Disney+ UK hints at Simpsons deal",
+            "description": "The new streaming service, which launches in the UK later this month, drops a big clue on Twitter.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-51720363",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C06D/production/_111116294_donut.jpg",
+            "publishedAt": "2020-03-03T14:12:02Z",
+            "content": "Image copyrightDisney+ UK\r\nDon't have a cow, man! It looks like Disney+ will include The Simpsons after all when it launches in the UK later this month.\r\nThe animation didn't feature on the streaming service's UK line-up when it was revealed last week, despit\u2026 [+1715 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "England's Vunipola self-isolating as coronavirus precaution",
+            "description": "England prop Mako Vunipola has gone into self-isolation as a coronavirus precaution and will not face Wales in the Six Nations on Saturday.",
+            "url": "https://www.bbc.co.uk/sport/rugby-union/51721889",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+            "publishedAt": "2020-03-03T15:00:03Z",
+            "content": "<table><tr><th>Guinness Six Nations: England v Wales</th></tr>\r\n<tr><td>Venue: Twickenham Stadium Date: Saturday, 7 March Kick-off: 16:45 GMT</td></tr><tr><td>Coverage: Live on BBC Radio 5 Live Sports, BBC Radio Wales &amp; Radio Cymru, with text commentary o\u2026 [+1342 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "German club Leipzig sorry for ejecting Japanese guests over coronavirus fears",
+            "description": "RB Leipzig apologise to a group of Japanese guests who were asked to leave Sunday's home match amid coronavirus concerns.",
+            "url": "https://www.bbc.co.uk/sport/football/51720134",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5493/production/_111115612_leipzig_epa.jpg",
+            "publishedAt": "2020-03-03T10:06:26Z",
+            "content": "Leipzig drew 1-1 at home to Bayer Leverkusen on Sunday\r\nRB Leipzig have apologised to a group of Japanese guests who were asked to leave Sunday's home match against Bayer Leverkusen amid coronavirus concerns.\r\nStewards at the game were told to conduct \"increa\u2026 [+938 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Calls to NHS helplines increase after virus arrives in Scotland",
+            "description": "There was a spike in calls to NHS 24 on Monday after the first Scot was diagnosed with the virus.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51717705",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0867/production/_111115120_hi060388349.jpg",
+            "publishedAt": "2020-03-03T09:56:38Z",
+            "content": "Image copyrightPA MediaImage caption\r\n Only one case of coronavirus has been confirmed in Scotland so far\r\nThere was a big increase in callers to NHS helplines after the first case of coronavirus in Scotland was confirmed, according to the head of NHS 24. \r\nI\u2026 [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'For now it is business as usual' - football authorities hold coronavirus talks",
+            "description": "Football authorities hold talks with the UK government and public health experts over contingency plans to play matches behind closed doors if the coronavirus outbreak escalates.",
+            "url": "https://www.bbc.co.uk/sport/football/51718945",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/114E1/production/_111118807_gettyimages-1204514910.jpg",
+            "publishedAt": "2020-03-03T13:35:27Z",
+            "content": "Some football fans have started wearing face masks at matches to guard against coronavirus\r\nFootball authorities have held talks with the UK government and public health experts over contingency plans to play matches behind closed doors if the coronavirus out\u2026 [+3553 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: Coronavirus plan, smart camera warning and Patel latest",
+            "description": "Your morning briefing for Tuesday March 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51712892",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1205D/production/_111112837_hi060387042.jpg",
+            "publishedAt": "2020-03-03T06:25:20Z",
+            "content": "If you want to get this briefing by email, sign up here\r\n'Uncharted territory'\r\nImage copyrightEPA\r\nThe head of the World Health Organization has warned the world is in \"uncharted territory\" when it comes to coronavirus, but it is still possible to contain it\u2026 [+5866 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Climate concerns grow amid wettest February on record",
+            "description": "Last month was the wettest ever February in the UK, according to records that stretch back to 1862.",
+            "url": "https://www.bbc.co.uk/news/science-environment-51713172",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7206/production/_111109192_tv059824617.jpg",
+            "publishedAt": "2020-03-03T01:00:07Z",
+            "content": "Image copyrightAFPImage caption\r\n Rainfall from Storm Ciara left the village of Mytholmroyd in Yorkshire's Calder Valley devastated for the second time in five years\r\nLast month was the wettest February in the UK since records began in 1862, according to the \u2026 [+4069 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: South Korea declares 'war' on outbreak",
+            "description": "South Korea has declared \u201cwar\u201d on the coronavirus as cases inside the country approach 5,000, and the World Health Organization chief warns the world is in \u201cuncharted territory\u201d. Also in the programme: EU leaders visit Greece as migrant stand-off with Turkey \u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq571j0htfm",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p085j5g1.jpg",
+            "publishedAt": "2020-03-03T15:14:00Z",
+            "content": "South Korea has declared war on the coronavirus as cases inside the country approach 5,000, and the World Health Organization chief warns the world is in uncharted territory. \r\nAlso in the programme: EU leaders visit Greece as migrant stand-off with Turkey co\u2026 [+324 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Increased Coronavirus death toll in the United States",
+            "description": "The number of confirmed deaths in the western US state of Washington has trebled to six; Exit polls suggest yet another inconclusive Israeli general election - though indicted prime minister Benjamin Netanyahu may remain in office; And scientists sniff out th\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p085gdpb",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p085gdpt.jpg",
+            "publishedAt": "2020-03-03T00:03:00Z",
+            "content": "The number of confirmed deaths in the western US state of Washington has trebled to six; Exit polls suggest yet another inconclusive Israeli general election - though indicted prime minister Benjamin Netanyahu may remain in office; And scientists sniff out th\u2026 [+31 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "US Election 2020: Joe Biden boosted on Super Tuesday",
+            "description": "US Democratic presidential candidate Joe Biden has picked up three endorsements from former rivals on the eve of the most important day in the 2020 White House race so far. On Super Tuesday, voters in 14 states will pick their preferred Democratic candidate f\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p085jjc0",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0853v36.jpg",
+            "publishedAt": "2020-03-03T15:52:00Z",
+            "content": "US Democratic presidential candidate Joe Biden has picked up three endorsements from former rivals on the eve of the most important day in the 2020 White House race so far. On Super Tuesday, voters in 14 states will pick their preferred Democratic candidate f\u2026 [+133 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "EU offers Greece support in migrant stand-off with Turkey",
+            "description": "The European Union's top officials have voiced solidarity with Greece during a visit to the border with Turkey, where a new migrant crisis is looming. Also in the programme: Newshour's Razia Iqbal is in Minnesota for 'Super Tuesday'; and Iran's attempts to li\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq571j0jnnj",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p085kd8n.jpg",
+            "publishedAt": "2020-03-03T23:19:00Z",
+            "content": "The European Union's top officials have voiced solidarity with Greece during a visit to the border with Turkey, where a new migrant crisis is looming. \r\nAlso in the programme: Newshour's Razia Iqbal is in Minnesota for 'Super Tuesday'; and Iran's attempts to \u2026 [+159 chars]"
+        }
+    ]
+}

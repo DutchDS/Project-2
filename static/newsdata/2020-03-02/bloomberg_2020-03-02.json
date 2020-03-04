@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
@@ -112,11 +112,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Le Maire: G7 Finance Ministers to Coordinate on Coronavirus",
+            "title": "Euro-Zone Factories Suffer Supply Disruptions From Coronavirus",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-02/le-maire-g7-finance-ministers-to-coordinate-on-coronavirus",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/euro-zone-factories-suffer-supply-disruptions-from-coronavirus",
             "urlToImage": null,
-            "publishedAt": "2020-03-02T07:05:53Z",
+            "publishedAt": "2020-03-02T09:00:00Z",
             "content": null
         },
         {
@@ -125,11 +125,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Euro-Zone Factories Suffer Supply Disruptions From Coronavirus",
+            "title": "Le Maire: G7 Finance Ministers to Coordinate on Coronavirus",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-02/euro-zone-factories-suffer-supply-disruptions-from-coronavirus",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/le-maire-g7-finance-ministers-to-coordinate-on-coronavirus",
             "urlToImage": null,
-            "publishedAt": "2020-03-02T09:00:00Z",
+            "publishedAt": "2020-03-02T07:05:53Z",
             "content": null
         },
         {
@@ -177,11 +177,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Hyatt Pulls Guidance on Concerns Over Coronavirus Outbreak",
+            "title": "Sound On: 2020, Wall Street Rebound, Coronavirus (Podcast)",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-02/hyatt-pulls-2020-guidance-on-concerns-over-coronavirus-outbreak",
+            "url": "https://www.bloomberg.com/news/audio/2020-03-02/sound-on-2020-wall-street-rebound-coronavirus-podcast",
             "urlToImage": null,
-            "publishedAt": "2020-03-02T22:38:59Z",
+            "publishedAt": "2020-03-02T23:31:36Z",
             "content": null
         },
         {
@@ -190,11 +190,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Sound On: 2020, Wall Street Rebound, Coronavirus (Podcast)",
+            "title": "Hyatt Pulls Guidance on Concerns Over Coronavirus Outbreak",
             "description": null,
-            "url": "https://www.bloomberg.com/news/audio/2020-03-02/sound-on-2020-wall-street-rebound-coronavirus-podcast",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/hyatt-pulls-2020-guidance-on-concerns-over-coronavirus-outbreak",
             "urlToImage": null,
-            "publishedAt": "2020-03-02T23:31:36Z",
+            "publishedAt": "2020-03-02T22:38:59Z",
             "content": null
         },
         {
@@ -358,6 +358,19 @@
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
+            "author": "Jihye Lee",
+            "title": "Korea Sect Leader Seeks Forgiveness for Coronavirus Spike",
+            "description": "Korea Sect Leader Seeks Forgiveness for Coronavirus Spike bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/kneeling-korea-s-sect-leader-seeks-forgiveness-for-virus-spike",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T11:11:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
             "author": "Ferdinando Giugliano",
             "title": "Coronavirus: Italy Shows How to Tackle the Epidemic's Impact",
             "description": "Coronavirus: Italy Shows How to Tackle the Epidemic's Impact bloomberg.com",
@@ -371,12 +384,25 @@
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
-            "author": "Jihye Lee",
-            "title": "Korea Sect Leader Seeks Forgiveness for Coronavirus Spike",
-            "description": "Korea Sect Leader Seeks Forgiveness for Coronavirus Spike bloomberg.com",
-            "url": "https://www.bloomberg.com/news/articles/2020-03-02/kneeling-korea-s-sect-leader-seeks-forgiveness-for-virus-spike",
+            "author": "Paul Gordon",
+            "title": "ECB Joins Central Banks Pledging Coronavirus Action If Needed",
+            "description": "ECB Joins Central Banks Pledging Coronavirus Action If Needed bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/ecb-joins-central-banks-pledging-coronavirus-action-if-needed",
             "urlToImage": null,
-            "publishedAt": "2020-03-02T11:11:43Z",
+            "publishedAt": "2020-03-02T23:21:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jonathan Roeder",
+            "title": "Packaged Food CPB, CAG, GIS, HSY Stocks Rise on Coronavirus Fears",
+            "description": "Packaged Food CPB, CAG, GIS, HSY Stocks Rise on Coronavirus Fears bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/panic-buying-spurs-investors-to-stock-up-on-packaged-food-shares",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T18:20:35Z",
             "content": null
         },
         {
@@ -404,6 +430,19 @@
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuuhfGqjRHZY/v0/1200x675.png",
             "publishedAt": "2020-03-02T14:46:41Z",
             "content": "Market strategists are assessing the damage wrought by last week\u2019s coronavirus-induced turmoil and what it means for trading in coming months. It\u2019s not pretty.\r\nInvestors see an \u201cimpossible trade-off\u201d between a pandemic-induced recession on the one hand, and \u2026 [+3412 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Olivia Carville",
+            "title": "Will Airbnb IPO in 2020? Stock Listing Imperiled by Coronavirus",
+            "description": "Will Airbnb IPO in 2020? Stock Listing Imperiled by Coronavirus bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/airbnb-s-path-to-2020-stock-listing-imperiled-by-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T14:21:30Z",
+            "content": null
         }
     ]
 }

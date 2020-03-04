@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "New Scientist and Press Association",
+            "title": "Coronavirus: UK government reveals action plan to combat an outbreak",
+            "description": "The UK government has published a 27-page document detailing how the country will respond to a growing covid-19 outbreak. Police and health workers may be restricted to urgent duties",
+            "url": "https://www.newscientist.com/article/2236027-coronavirus-uk-government-reveals-action-plan-to-combat-an-outbreak/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/03/03110104/pa-50833826.jpg",
+            "publishedAt": "2020-03-03T11:11:41Z",
+            "content": "By New Scientist and Press Association\r\nThe UK is preparing for an outbreak of covid-19\r\nYui Mok/PA Wire/PA Images\r\nThe coronavirus outbreak could lead to a fifth of workers in the UK staying at home, cause the police to drop low-priority cases and force the \u2026 [+2112 chars]"
+        }
+    ]
+}

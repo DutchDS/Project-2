@@ -124,19 +124,6 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By AYA BATRAWY Associated Press",
-            "title": "New virus hits Mideast airlines with $100M loss, group says",
-            "description": "ABU DHABI, United Arab Emirates (AP) \u2014 Major travel disruptions due to the new coronavirus have already caused the equivalent of a roughly $100 million loss to airlines in the Middle East, which serves as a connection hub for east-west\u2026",
-            "url": "https://apnews.com/912ded78da0253eb29d01db3ee3cc706",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/1d/91d27d6c-89be-50a4-ac6c-23dc9489197c/5e5d03e181d99.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T12:45:35Z",
-            "content": "ABU DHABI, United Arab Emirates (AP) Major travel disruptions due to the new coronavirus have already caused the equivalent of a roughly $100 million loss to airlines in the Middle East, which serves as a connection hub for east-west travel, the industry's ma\u2026 [+2476 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
             "author": "By NASSER KARIMI and JON GAMBRELL Associated Press",
             "title": "Iran: Council member close to supreme leader dies from virus",
             "description": "TEHRAN, Iran (AP) \u2014 A member of a council that advises Iran's supreme leader died Monday after falling sick from the new coronavirus, state radio reported, becoming the first top official to succumb to the illness that is affecting members\u2026",
@@ -176,13 +163,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "",
-            "title": "Washington state health officials say second person has died in US from coronavirus",
-            "description": "SEATTLE (AP) \u2014 Washington state health officials say second person has died in US from coronavirus.",
-            "url": "https://apnews.com/fd861580b3accd9734bab606a8e0232e",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-02T02:23:58Z",
-            "content": "Please purchase a subscription to continue reading.\r\nA subscription is required to continue reading.\r\nIf you are a current subscriber please click Sign Up or Login to activate your digital access. If not, please click Sign Up to subscribe.\r\nIf you are a curre\u2026 [+138 chars]"
+            "author": "By AYA BATRAWY Associated Press",
+            "title": "New virus hits Mideast airlines with $100M loss, group says",
+            "description": "ABU DHABI, United Arab Emirates (AP) \u2014 Major travel disruptions due to the new coronavirus have already caused the equivalent of a roughly $100 million loss to airlines in the Middle East, which serves as a connection hub for east-west\u2026",
+            "url": "https://apnews.com/912ded78da0253eb29d01db3ee3cc706",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/1d/91d27d6c-89be-50a4-ac6c-23dc9489197c/5e5d03e181d99.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T12:45:35Z",
+            "content": "ABU DHABI, United Arab Emirates (AP) Major travel disruptions due to the new coronavirus have already caused the equivalent of a roughly $100 million loss to airlines in the Middle East, which serves as a connection hub for east-west travel, the industry's ma\u2026 [+2476 chars]"
         },
         {
             "source": {
@@ -196,6 +183,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
             "publishedAt": "2020-03-02T07:15:06Z",
             "content": "NEW YORK (AP) Covering the coronavirus story requires careful navigation and constant attention.\r\nNews organizations trying to responsibly report on the growing health crisis are confronted with the task of conveying its seriousness without provoking panic, k\u2026 [+7034 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "Washington state health officials say second person has died in US from coronavirus",
+            "description": "SEATTLE (AP) \u2014 Washington state health officials say second person has died in US from coronavirus.",
+            "url": "https://apnews.com/fd861580b3accd9734bab606a8e0232e",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-03-02T02:23:58Z",
+            "content": "Please purchase a subscription to continue reading.\r\nA subscription is required to continue reading.\r\nIf you are a current subscriber please click Sign Up or Login to activate your digital access. If not, please click Sign Up to subscribe.\r\nIf you are a curre\u2026 [+138 chars]"
         },
         {
             "source": {
@@ -268,12 +268,12 @@
                 "name": "Associated Press"
             },
             "author": "",
-            "title": "Some Washington state schools closed due to coronavirus",
-            "description": "RENTON, Wash. (AP) \u2014 Six schools in the Puget Sound region are closed Monday as a precaution for deep cleaning over coronavirus concerns with an entire district set to close Tuesday for training.",
-            "url": "https://apnews.com/e40f6605eb7f1add5da67a2ba066ee3c",
+            "title": "Testing for coronavirus to be done in Madison, Milwaukee",
+            "description": "MADISON, Wis. (AP) \u2014 Testing for the coronavirus will be done at two locations in Wisconsin rather than be sent out of state to the Centers for Disease Control and Prevention in Atlanta, state health officials announced Monday.",
+            "url": "https://apnews.com/6d8af8787576db4d741c505688786f33",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-02T14:25:53Z",
-            "content": "RENTON, Wash. (AP) Six schools in the Puget Sound region are closed Monday as a precaution for deep cleaning over coronavirus concerns with an entire district set to close Tuesday for training.\r\nKOMO-TV reports at Hazen High School in Renton -- classes were c\u2026 [+2476 chars]"
+            "publishedAt": "2020-03-02T21:19:37Z",
+            "content": "MADISON, Wis. (AP) Testing for the coronavirus will be done at two locations in Wisconsin rather than be sent out of state to the Centers for Disease Control and Prevention in Atlanta, state health officials announced Monday.\r\nThe testing will be done at the \u2026 [+1173 chars]"
         },
         {
             "source": {
@@ -281,12 +281,12 @@
                 "name": "Associated Press"
             },
             "author": "",
-            "title": "Testing for coronavirus to be done in Madison, Milwaukee",
-            "description": "MADISON, Wis. (AP) \u2014 Testing for the coronavirus will be done at two locations in Wisconsin rather than be sent out of state to the Centers for Disease Control and Prevention in Atlanta, state health officials announced Monday.",
-            "url": "https://apnews.com/6d8af8787576db4d741c505688786f33",
+            "title": "Some Washington state schools closed due to coronavirus",
+            "description": "RENTON, Wash. (AP) \u2014 Six schools in the Puget Sound region are closed Monday as a precaution for deep cleaning over coronavirus concerns with an entire district set to close Tuesday for training.",
+            "url": "https://apnews.com/e40f6605eb7f1add5da67a2ba066ee3c",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-02T21:19:37Z",
-            "content": "MADISON, Wis. (AP) Testing for the coronavirus will be done at two locations in Wisconsin rather than be sent out of state to the Centers for Disease Control and Prevention in Atlanta, state health officials announced Monday.\r\nThe testing will be done at the \u2026 [+1173 chars]"
+            "publishedAt": "2020-03-02T14:25:53Z",
+            "content": "RENTON, Wash. (AP) Six schools in the Puget Sound region are closed Monday as a precaution for deep cleaning over coronavirus concerns with an entire district set to close Tuesday for training.\r\nKOMO-TV reports at Hazen High School in Renton -- classes were c\u2026 [+2476 chars]"
         },
         {
             "source": {
@@ -319,6 +319,32 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
+            "author": "By DAKE KANG Associated Press",
+            "title": "Q&A: Wuhan's biggest temporary hospital could close in March",
+            "description": "BEIJING (AP) \u2014 The head of the largest of 16 temporary hospitals in the Chinese city at the center of the coronavirus outbreak says his staff has had a heavy workload but should be able to wrap up operations by\u2026",
+            "url": "https://apnews.com/738a9314c00e4c27b8d77dd8a94458a3",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/c7/7c7b6885-e682-5396-8af1-6296c0e438db/5e5c7e84b8b41.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T03:26:02Z",
+            "content": "BEIJING (AP) The head of the largest of 16 temporary hospitals in the Chinese city at the center of the coronavirus outbreak says his staff has had a heavy workload but should be able to wrap up operations by the end of this month.\r\nDr. Zhang Junjian is direc\u2026 [+3642 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By NICOLE WINFIELD and COLLEEN BARRY Associated Press",
+            "title": "Italy's health system at limit in virus-struck Lombardy",
+            "description": "MILAN (AP) \u2014 The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for\u2026",
+            "url": "https://apnews.com/837274f1bab9af1aab12f1b9481b2d62",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/91/09187a2e-ab0b-5641-9594-3ab4e09f231c/5e5aa732e71c4.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T11:26:41Z",
+            "content": "MILAN (AP) The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for nursi\u2026 [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
             "author": "By RODNEY MUHUMUZA Associated Press",
             "title": "Africa boosts preparations for possible spread of new virus",
             "description": "KAMPALA, Uganda (AP) \u2014 Across Africa, steps are being taken to prepare for \u2014 and to reduce the effects of \u2014 the spread of the new coronavirus. Testing laboratories are being supplied, quarantine and hospital treatment facilities are being readied\u2026",
@@ -332,13 +358,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By DAKE KANG Associated Press",
-            "title": "Q&A: Wuhan's biggest temporary hospital could close in March",
-            "description": "BEIJING (AP) \u2014 The head of the largest of 16 temporary hospitals in the Chinese city at the center of the coronavirus outbreak says his staff has had a heavy workload but should be able to wrap up operations by\u2026",
-            "url": "https://apnews.com/738a9314c00e4c27b8d77dd8a94458a3",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/c7/7c7b6885-e682-5396-8af1-6296c0e438db/5e5c7e84b8b41.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T03:26:02Z",
-            "content": "BEIJING (AP) The head of the largest of 16 temporary hospitals in the Chinese city at the center of the coronavirus outbreak says his staff has had a heavy workload but should be able to wrap up operations by the end of this month.\r\nDr. Zhang Junjian is direc\u2026 [+3642 chars]"
+            "author": "",
+            "title": "Seattle skyscraper, schools close amid virus concerns",
+            "description": "SEATTLE (AP) \u2014 A downtown Seattle skyscraper and about a dozen schools in the area were closed for cleaning Monday after health officials in Washington state announced a second person had died from the new coronavirus.",
+            "url": "https://apnews.com/5443b6dea1bf708ef6610d56c534ab09",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/0e/c0ea33ce-2660-5bdd-8210-24f416acc65d/5e5c3f28f26b1.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T18:11:50Z",
+            "content": "SEATTLE (AP) A downtown Seattle skyscraper and about a dozen schools in the area were closed for cleaning Monday after health officials in Washington state announced a second person had died from the new coronavirus.\r\nResearchers said earlier the COVID-19 vir\u2026 [+3748 chars]"
         },
         {
             "source": {
@@ -359,25 +385,25 @@
                 "name": "Associated Press"
             },
             "author": "",
-            "title": "Seattle skyscraper, schools close amid virus concerns",
-            "description": "SEATTLE (AP) \u2014 A downtown Seattle skyscraper and about a dozen schools in the area were closed for cleaning Monday after health officials in Washington state announced a second person had died from the new coronavirus.",
-            "url": "https://apnews.com/5443b6dea1bf708ef6610d56c534ab09",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/0e/c0ea33ce-2660-5bdd-8210-24f416acc65d/5e5c3f28f26b1.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T18:11:50Z",
-            "content": "SEATTLE (AP) A downtown Seattle skyscraper and about a dozen schools in the area were closed for cleaning Monday after health officials in Washington state announced a second person had died from the new coronavirus.\r\nResearchers said earlier the COVID-19 vir\u2026 [+3748 chars]"
+            "title": "Health care worker identified as state's 1st COVID-19 case",
+            "description": "NEW YORK (AP) \u2014 A health care worker who had recently traveled to Iran was confirmed as the first person in New York to test positive for the new coronavirus disease that has sickened people across the globe, Gov. Andrew\u2026",
+            "url": "https://apnews.com/6b9d9bf2f753ba7944c4dac379b3c5bb",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-03-02T14:10:08Z",
+            "content": "NEW YORK (AP) A health care worker who had recently traveled to Iran was confirmed as the first person in New York to test positive for the new coronavirus disease that has sickened people across the globe, Gov. Andrew Cuomo said Monday.\r\nThe 39-year-old Manh\u2026 [+1371 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By NICOLE WINFIELD and COLLEEN BARRY Associated Press",
-            "title": "Italy's health system at limit in virus-struck Lombardy",
-            "description": "MILAN (AP) \u2014 The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for\u2026",
-            "url": "https://apnews.com/837274f1bab9af1aab12f1b9481b2d62",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/91/09187a2e-ab0b-5641-9594-3ab4e09f231c/5e5aa732e71c4.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T11:26:41Z",
-            "content": "MILAN (AP) The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for nursi\u2026 [+2558 chars]"
+            "author": "",
+            "title": "ECB's Lagarde: 'Ready to take targeted action' on economy",
+            "description": "FRANKFURT, Germany (AP) \u2014 The head of the European Central Bank says Europe's top monetary authority is ready to take \u201cappropriate and targeted measures\u201d if necessary to support the economy against the headwinds from the coronavirus.",
+            "url": "https://apnews.com/3921b4a39fc29ffb2553d5da5377328b",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/c2/8c25511a-53b0-57fe-9f3d-6913709c5efa/5e5d85af57af1.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T22:12:29Z",
+            "content": "FRANKFURT, Germany (AP) The head of the European Central Bank says Europe's top monetary authority is ready to take appropriate and targeted measures if necessary to support the economy against the headwinds from the coronavirus.\r\nChristine Lagarde said in a \u2026 [+860 chars]"
         },
         {
             "source": {
@@ -391,19 +417,6 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/69/76911658-acf3-5b56-910a-cdf5cb317d61/5e55e039d1b2d.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
             "publishedAt": "2020-03-02T06:04:18Z",
             "content": "WASHINGTON (AP) President Donald Trump has not proved to be the bearer of reliable information when calamity threatens and people want straight answers about it. That's happening again as he addresses the prospect of a coronavirus outbreak in the U.S.\r\nWith n\u2026 [+15023 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "",
-            "title": "Woman tests positive for virus after release from quarantine",
-            "description": "SAN ANTONIO (AP) \u2014 A woman who was released from quarantine in San Antonio before health officials learned she had tested positive for the new coronavirus may have exposed up to a dozen people at a hotel before she was\u2026",
-            "url": "https://apnews.com/37889d7552740f9f5f3f2fbca3d00193",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-02T12:51:45Z",
-            "content": "SAN ANTONIO (AP) A woman who was released from quarantine in San Antonio before health officials learned she had tested positive for the new coronavirus may have exposed up to a dozen people at a hotel before she was brought back into isolation, officials sai\u2026 [+1540 chars]"
         },
         {
             "source": {
@@ -436,6 +449,19 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
+            "author": "",
+            "title": "Woman tests positive for virus after release from quarantine",
+            "description": "SAN ANTONIO (AP) \u2014 A woman who was released from quarantine in San Antonio before health officials learned she had tested positive for the new coronavirus may have exposed up to a dozen people at a hotel before she was\u2026",
+            "url": "https://apnews.com/37889d7552740f9f5f3f2fbca3d00193",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-03-02T12:51:45Z",
+            "content": "SAN ANTONIO (AP) A woman who was released from quarantine in San Antonio before health officials learned she had tested positive for the new coronavirus may have exposed up to a dozen people at a hotel before she was brought back into isolation, officials sai\u2026 [+1540 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
             "author": "By JONATHAN J. COOPER Associated Press",
             "title": "Arizona officials say they're prepared for COVID-19",
             "description": "PHOENIX (AP) \u2014 Arizona can now run its own tests for the new coronavirus, and the number of infections is likely to rise as more people get tested, the state's top health official said Monday.",
@@ -443,32 +469,6 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
             "publishedAt": "2020-03-02T23:56:27Z",
             "content": "PHOENIX (AP) Arizona can now run its own tests for the new coronavirus, and the number of infections is likely to rise as more people get tested, the state's top health official said Monday.\r\nDr. Cara Christ said Arizona has no new confirmed cases of the dise\u2026 [+2306 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "",
-            "title": "Health care worker identified as state's 1st COVID-19 case",
-            "description": "NEW YORK (AP) \u2014 A health care worker who had recently traveled to Iran was confirmed as the first person in New York to test positive for the new coronavirus disease that has sickened people across the globe, Gov. Andrew\u2026",
-            "url": "https://apnews.com/6b9d9bf2f753ba7944c4dac379b3c5bb",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-02T14:10:08Z",
-            "content": "NEW YORK (AP) A health care worker who had recently traveled to Iran was confirmed as the first person in New York to test positive for the new coronavirus disease that has sickened people across the globe, Gov. Andrew Cuomo said Monday.\r\nThe 39-year-old Manh\u2026 [+1371 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "",
-            "title": "ECB's Lagarde: 'Ready to take targeted action' on economy",
-            "description": "FRANKFURT, Germany (AP) \u2014 The head of the European Central Bank says Europe's top monetary authority is ready to take \u201cappropriate and targeted measures\u201d if necessary to support the economy against the headwinds from the coronavirus.",
-            "url": "https://apnews.com/3921b4a39fc29ffb2553d5da5377328b",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/c2/8c25511a-53b0-57fe-9f3d-6913709c5efa/5e5d85af57af1.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T22:12:29Z",
-            "content": "FRANKFURT, Germany (AP) The head of the European Central Bank says Europe's top monetary authority is ready to take appropriate and targeted measures if necessary to support the economy against the headwinds from the coronavirus.\r\nChristine Lagarde said in a \u2026 [+860 chars]"
         },
         {
             "source": {
@@ -579,19 +579,6 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "",
-            "title": "What's Happening: Virus hurts handshakes, elections, Louvre",
-            "description": "PARIS (AP) \u2014 The new virus is entering new territories, from megacities to seaside villages, and casting a fast-growing shadow over the world economy. Here\u2019s a look at some of the latest developments:",
-            "url": "https://apnews.com/c4778399743b3d4a8692fd0846517bc2",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/35/a357a370-5939-581f-8d95-d3322d8cd6a8/5e54d71967a86.image.jpg?crop=1761%2C991%2C0%2C93&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T12:21:21Z",
-            "content": "PARIS (AP) The new virus is entering new territories, from megacities to seaside villages, and casting a fast-growing shadow over the world economy. Heres a look at some of the latest developments:\r\nLONELY MONA LISA\r\nThe Louvre is a magnet for tens of thousan\u2026 [+3071 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
             "author": "By HYUNG-JIN KIM and KIM TONG-HYUNG Associated Press",
             "title": "Patients fill hospitals in more places as new virus expands",
             "description": "SEOUL, South Korea (AP) \u2014 South Korea's viral outbreak surged and millions of children in Japan stayed home from school Monday as officials wrestled with the epidemic in more than 60 countries, including the United States, where two people have\u2026",
@@ -605,11 +592,37 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
+            "author": "",
+            "title": "What's Happening: Virus hurts handshakes, elections, Louvre",
+            "description": "PARIS (AP) \u2014 The new virus is entering new territories, from megacities to seaside villages, and casting a fast-growing shadow over the world economy. Here\u2019s a look at some of the latest developments:",
+            "url": "https://apnews.com/c4778399743b3d4a8692fd0846517bc2",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/35/a357a370-5939-581f-8d95-d3322d8cd6a8/5e54d71967a86.image.jpg?crop=1761%2C991%2C0%2C93&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T12:21:21Z",
+            "content": "PARIS (AP) The new virus is entering new territories, from megacities to seaside villages, and casting a fast-growing shadow over the world economy. Heres a look at some of the latest developments:\r\nLONELY MONA LISA\r\nThe Louvre is a magnet for tens of thousan\u2026 [+3071 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
             "author": "By ARON HELLER Associated Press",
             "title": "Israelis vote in 3rd election in a year focused on Netanyahu",
             "description": "JERUSALEM (AP) \u2014 Israelis began voting Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.",
             "url": "https://apnews.com/1465b297a02795783f5d8927b7058c72",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/db/adbfb6a6-27d8-545d-be38-db57ece38ff7/5e5c96e056e43.image.jpg?crop=1762%2C991%2C0%2C92&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T05:06:38Z",
+            "content": "JERUSALEM (AP) Israelis began voting Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.\r\nNetanyahu, th\u2026 [+4946 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By ARON HELLER Associated Press",
+            "title": "Israelis vote in 3rd election in a year focused on Netanyahu",
+            "description": "JERUSALEM (AP) \u2014 Israelis began voting Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.",
+            "url": "https://apnews.com/1465b297a02795783f5d8927b7058c72",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/5/29/52968fc0-625c-52ba-bd1f-fd7877f81ab2/5e5c96c3937e9.image.jpg?crop=1762%2C991%2C0%2C92&resize=1120%2C630&order=crop%2Cresize",
             "publishedAt": "2020-03-02T05:06:38Z",
             "content": "JERUSALEM (AP) Israelis began voting Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.\r\nNetanyahu, th\u2026 [+4946 chars]"
         },
@@ -631,13 +644,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By ARON HELLER Associated Press",
-            "title": "Israelis vote in 3rd election in a year focused on Netanyahu",
-            "description": "JERUSALEM (AP) \u2014 Israelis began voting Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.",
-            "url": "https://apnews.com/1465b297a02795783f5d8927b7058c72",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/5/29/52968fc0-625c-52ba-bd1f-fd7877f81ab2/5e5c96c3937e9.image.jpg?crop=1762%2C991%2C0%2C92&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T05:06:38Z",
-            "content": "JERUSALEM (AP) Israelis began voting Monday in the country's unprecedented third election in less than a year to decide whether longtime Prime Minister Benjamin Netanyahu stays in power despite his upcoming criminal trial on corruption charges.\r\nNetanyahu, th\u2026 [+4946 chars]"
+            "author": "By ALEXANDRA JAFFE and KATHLEEN RONAYNE Associated Press",
+            "title": "Bloomberg's biggest test: winning votes on Super Tuesday",
+            "description": "SELMA, Ala. (AP) \u2014 Moments before Mike Bloomberg stood in the pulpit of Brown Chapel AME Church, the pastor noted that the former New York mayor initially declined an invitation to speak at the church where, 55 years ago, civil\u2026",
+            "url": "https://apnews.com/b4c54167974914845dfaabb54e4759aa",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/3a/03acab7b-bd2a-5864-887a-bbea79c54239/5e5ca4b34648e.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-02T06:06:00Z",
+            "content": "SELMA, Ala. (AP) Moments before Mike Bloomberg stood in the pulpit of Brown Chapel AME Church, the pastor noted that the former New York mayor initially declined an invitation to speak at the church where, 55 years ago, civil rights activists prepared for the\u2026 [+7533 chars]"
         },
         {
             "source": {
@@ -651,19 +664,6 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/60/e601ef60-26bd-5044-99ee-53ac0c07aad4/5e5cd20e19d7a.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
             "publishedAt": "2020-03-02T09:11:04Z",
             "content": "TOKYO (AP) The spreading virus from China has been reported in more than 60 countries and puts the Tokyo Olympics at risk. The Olympics are to open on July 24 less than five months away. The Paralympics follow on Aug. 25.\r\nIOC President Thomas Bach, in an int\u2026 [+5931 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "By ALEXANDRA JAFFE and KATHLEEN RONAYNE Associated Press",
-            "title": "Bloomberg's biggest test: winning votes on Super Tuesday",
-            "description": "SELMA, Ala. (AP) \u2014 Moments before Mike Bloomberg stood in the pulpit of Brown Chapel AME Church, the pastor noted that the former New York mayor initially declined an invitation to speak at the church where, 55 years ago, civil\u2026",
-            "url": "https://apnews.com/b4c54167974914845dfaabb54e4759aa",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/3a/03acab7b-bd2a-5864-887a-bbea79c54239/5e5ca4b34648e.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-02T06:06:00Z",
-            "content": "SELMA, Ala. (AP) Moments before Mike Bloomberg stood in the pulpit of Brown Chapel AME Church, the pastor noted that the former New York mayor initially declined an invitation to speak at the church where, 55 years ago, civil rights activists prepared for the\u2026 [+7533 chars]"
         }
     ]
 }

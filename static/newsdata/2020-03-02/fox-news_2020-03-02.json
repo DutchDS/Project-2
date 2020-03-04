@@ -20,19 +20,6 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Madeline Farber",
-            "title": "Illinois sees 4th coronavirus case in woman in her 70s",
-            "description": "Illinois health officials on Monday announced the state\u2019s fourth case of the deadly coronavirus in a woman in her 70s.",
-            "url": "https://www.foxnews.com/health/illinois-4th-coronavirus-case",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/268ffe36-fefb-45a1-a60c-b3b748c6bf8b/0ea9fec5-e9b0-4a77-a52a-16b8561f7321/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-02T20:03:58Z",
-            "content": "Illinois health officials on Monday announced the state\u2019s fourth case of the coronavirus\u00a0was identified in a woman in her 70s.\r\nThe Illinois Department of Public Health along with the Cook County Department of Public Health announced the patient \u2014 who is the \u2026 [+1642 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
             "author": null,
             "title": "Trump meets with pharmaceutical executives on coronavirus solutions",
             "description": "Cases confirmed in at least 10 U.S. states; Kristin Fisher reports.",
@@ -40,6 +27,19 @@
             "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9602129-321e-42a5-9780-4fd428685c47/6448b990-1f4c-41b4-a369-7cf9c72b506d/1280x720/match/image.jpg",
             "publishedAt": "2020-03-02T23:06:02Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Illinois sees 4th coronavirus case in woman in her 70s",
+            "description": "Illinois health officials on Monday announced the state\u2019s fourth case of the deadly coronavirus in a woman in her 70s.",
+            "url": "https://www.foxnews.com/health/illinois-4th-coronavirus-case",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/268ffe36-fefb-45a1-a60c-b3b748c6bf8b/0ea9fec5-e9b0-4a77-a52a-16b8561f7321/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-02T20:03:58Z",
+            "content": "Illinois health officials on Monday announced the state\u2019s fourth case of the coronavirus\u00a0was identified in a woman in her 70s.\r\nThe Illinois Department of Public Health along with the Cook County Department of Public Health announced the patient \u2014 who is the \u2026 [+1642 chars]"
         },
         {
             "source": {
@@ -79,32 +79,6 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/CoronaTheFive0302.jpg",
             "publishedAt": "2020-03-02T23:12:22Z",
             "content": "Jesse Watters half-jokingly asked the Chinese government to apologize for the coronavirus\u00a0outbreak Monday on\u00a0\"The Five,\"\u00a0saying Beijing was responsible\u00a0for the pandemic.\r\n\"I'd like to just ask the Chinese for a formal apology,\" Watters said as his co-hosts ch\u2026 [+1303 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Andy Puzder",
-            "title": "Andy Puzder: On coronavirus vaccine, Sanders' socialism would hinder private sector innovation we need",
-            "description": "A coronavirus vaccine won\u2019t come\u00a0solely\u00a0from the government.\u00a0 We must count on the tremendous ingenuity and energy of America\u2019s free enterprise system.",
-            "url": "https://www.foxnews.com/opinion/andy-puzder-on-coronavirus-vaccine-sanders-socialism-would-hinder-private-sector-innovation-we-need",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a73e034-7e40-46df-acaa-e4c5422291a3/28150c9a-47bb-468d-a43c-7ebe2d7318bb/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-02T15:12:42Z",
-            "content": "If there\u2019s one thing we should all be able to agree on it\u2019s that the potential impact of the coronavirus is too important to politicize.\u00a0That doesn\u2019t mean our political leaders should remain silent, it simply means they should be constructive --\u00a0if they deem \u2026 [+4880 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Alexandria Hein",
-            "title": "Washing hands key in stopping coronavirus spread: Are you doing it correctly?",
-            "description": "Officials continue to urge people to wash their hands in order to stop the spread of coronavirus, but do you know how to do it properly?",
-            "url": "https://www.foxnews.com/health/washing-hands-stopping-coronavirus-are-you-doing-it-correctly",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b388f01-b664-48bb-a408-24ee3ddb6480/76e23860-16ce-487a-88a7-6e7ee34a56b5/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-02T20:16:56Z",
-            "content": "Countless officials have stressed the importance of hand-washing when it comes to preventing the further spread of coronavirus in the U.S., but how many of us know the proper way of doing so? There are a few general rules to follow when it comes to washing yo\u2026 [+2690 chars]"
         },
         {
             "source": {
@@ -157,6 +131,32 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Costco-1.jpg",
             "publishedAt": "2020-03-02T22:57:25Z",
             "content": "A top doctor at America's\u00a0largest public health system sought to give people more information to help them evaluate the\u00a0dangers posed by the ongoing\u00a0coronavirus outbreak.\r\n\"This is a concerning outbreak,\" said Dr. Syra Madad, who is the senior director of the\u2026 [+2798 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andy Puzder",
+            "title": "Andy Puzder: On coronavirus vaccine, Sanders' socialism would hinder private sector innovation we need",
+            "description": "A coronavirus vaccine won\u2019t come\u00a0solely\u00a0from the government.\u00a0 We must count on the tremendous ingenuity and energy of America\u2019s free enterprise system.",
+            "url": "https://www.foxnews.com/opinion/andy-puzder-on-coronavirus-vaccine-sanders-socialism-would-hinder-private-sector-innovation-we-need",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a73e034-7e40-46df-acaa-e4c5422291a3/28150c9a-47bb-468d-a43c-7ebe2d7318bb/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-02T15:12:42Z",
+            "content": "If there\u2019s one thing we should all be able to agree on it\u2019s that the potential impact of the coronavirus is too important to politicize.\u00a0That doesn\u2019t mean our political leaders should remain silent, it simply means they should be constructive --\u00a0if they deem \u2026 [+4880 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Washing hands key in stopping coronavirus spread: Are you doing it correctly?",
+            "description": "Officials continue to urge people to wash their hands in order to stop the spread of coronavirus, but do you know how to do it properly?",
+            "url": "https://www.foxnews.com/health/washing-hands-stopping-coronavirus-are-you-doing-it-correctly",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b388f01-b664-48bb-a408-24ee3ddb6480/76e23860-16ce-487a-88a7-6e7ee34a56b5/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-02T20:16:56Z",
+            "content": "Countless officials have stressed the importance of hand-washing when it comes to preventing the further spread of coronavirus in the U.S., but how many of us know the proper way of doing so? There are a few general rules to follow when it comes to washing yo\u2026 [+2690 chars]"
         },
         {
             "source": {
@@ -319,19 +319,6 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Victor Garcia",
-            "title": "Rush Limbaugh slams media for 'setting all-time lows' by claiming Trump called coronavirus 'a hoax'",
-            "description": "Rush Limbaugh ripped the media and Democrats Monday, accusing them of \"lying\" by claiming that President Trump called the coronavirus outbreak a hoax and comparing the press' behavior to how they acted during the Russia investigation and the Ukraine controver\u2026",
-            "url": "https://www.foxnews.com/media/rush-limbaugh-media-claiming-trump-coronavirus-hoax",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Rush-Limbaugh.jpg",
-            "publishedAt": "2020-03-02T22:54:25Z",
-            "content": "Rush Limbaugh ripped the media and Democrats Monday, accusing them of \"lying\" by claiming that\u00a0President Trump called the coronavirus\u00a0outbreak a hoax and comparing the press'\u00a0behavior to how they acted during the Russia investigation and the Ukraine controver\u2026 [+2430 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
             "author": "Brooke Singman",
             "title": "Trump calls on US pharmaceutical companies to 'accelerate' efforts on coronavirus vaccine",
             "description": "President Trump said Monday his administration has asked pharmaceutical companies to \u201caccelerate\u201d efforts to create a coronavirus vaccine, just a day after the second confirmed U.S. fatality related to the virus.",
@@ -339,6 +326,19 @@
             "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cada834-07c2-4c5a-bb4a-4b00b86803e4/8bd39618-02f5-418c-b7f9-964a14837089/1280x720/match/image.jpg",
             "publishedAt": "2020-03-02T17:03:26Z",
             "content": "President Trump said Monday his administration has asked\u00a0pharmaceutical companies to \u201caccelerate\u201d efforts to create\u00a0a coronavirus\u00a0vaccine, just a day after the second confirmed U.S. fatality related to the virus.\r\nThe president, sitting alongside Colombian Pr\u2026 [+1784 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Rush Limbaugh slams media for 'setting all-time lows' by claiming Trump called coronavirus 'a hoax'",
+            "description": "Rush Limbaugh ripped the media and Democrats Monday, accusing them of \"lying\" by claiming that President Trump called the coronavirus outbreak a hoax and comparing the press' behavior to how they acted during the Russia investigation and the Ukraine controver\u2026",
+            "url": "https://www.foxnews.com/media/rush-limbaugh-media-claiming-trump-coronavirus-hoax",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Rush-Limbaugh.jpg",
+            "publishedAt": "2020-03-02T22:54:25Z",
+            "content": "Rush Limbaugh ripped the media and Democrats Monday, accusing them of \"lying\" by claiming that\u00a0President Trump called the coronavirus\u00a0outbreak a hoax and comparing the press'\u00a0behavior to how they acted during the Russia investigation and the Ukraine controver\u2026 [+2430 chars]"
         },
         {
             "source": {
@@ -423,19 +423,6 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Madeline Farber",
-            "title": "Coronavirus fears prompt New Hampshire school to ask students, staff back from Europe trip to stay home",
-            "description": "Amid rising global cases of the novel coronavirus and at least two deaths in the U.S., officials with the Kearsarge Regional School District in New London, New Hampshire are asking students and staff who recently returned from a school trip to Europe to stay \u2026",
-            "url": "https://www.foxnews.com/health/coronavirus-new-hampshire-school-students-staff-europe-trip-stay-home",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f12d43-7120-4934-b0a5-72f215b0202e/ffd7ae5f-042c-4e3d-a297-d3c87a6ef47e/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-02T14:18:37Z",
-            "content": "Amid rising global cases of the novel coronavirus and at least two deaths in the U.S., officials with the Kearsarge Regional School District in New London, N.H., are asking students and staff who recently returned from a school trip to Europe to stay home.\r\nS\u2026 [+1853 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
             "author": "Caleb Parke",
             "title": "Coronavirus-linked South Korea sect leader apologizes for virus spread amid murder probe",
             "description": "The leader of a controversial religious sect at the center of the coronavirus outbreak in South Korea apologized Monday as the government in Seoul seeks a murder investigation into the group, saying the church refused to cooperate with efforts to stop the vir\u2026",
@@ -443,6 +430,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/LeeManHee2.jpg",
             "publishedAt": "2020-03-02T15:09:08Z",
             "content": "The leader\u00a0of a\u00a0controversial religious sect at the center of the coronavirus outbreak in South Korea apologized Monday as\u00a0the city of Seoul has started\u00a0a murder investigation into the group, saying the church refused to cooperate with efforts to stop the vir\u2026 [+3495 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus fears prompt New Hampshire school to ask students, staff back from Europe trip to stay home",
+            "description": "Amid rising global cases of the novel coronavirus and at least two deaths in the U.S., officials with the Kearsarge Regional School District in New London, New Hampshire are asking students and staff who recently returned from a school trip to Europe to stay \u2026",
+            "url": "https://www.foxnews.com/health/coronavirus-new-hampshire-school-students-staff-europe-trip-stay-home",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f12d43-7120-4934-b0a5-72f215b0202e/ffd7ae5f-042c-4e3d-a297-d3c87a6ef47e/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-02T14:18:37Z",
+            "content": "Amid rising global cases of the novel coronavirus and at least two deaths in the U.S., officials with the Kearsarge Regional School District in New London, N.H., are asking students and staff who recently returned from a school trip to Europe to stay home.\r\nS\u2026 [+1853 chars]"
         },
         {
             "source": {
@@ -469,6 +469,19 @@
             "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/699a1726-e57c-490e-adaf-9874e4a13cbc/c170db2f-72de-4243-9f43-5c8dd4874961/1280x720/match/image.jpg",
             "publishedAt": "2020-03-02T16:33:19Z",
             "content": "A coronavirus\u00a0patient in San Antonio, Texas, who was released from quarantine by the Centers for Disease Control and Prevention (CDC) later tested positive for the novel virus and is now back in quarantine, according to the city\u2019s mayor.\r\nThe patient, who was\u2026 [+2707 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephen Sorace",
+            "title": "Netanyahu, Gantz face off in Israel\u2019s unprecedented third general election in a year amid coronavirus fears",
+            "description": "Israelis voted in an unprecedented third general election in less than a year Monday to decide whether the power to lead the nation will stay with incumbent Prime Minister Benjamin Netanyahu despite his upcoming trial on corruption charges, or go to his chall\u2026",
+            "url": "https://www.foxnews.com/world/netanyahu-gantz-israel-election-voting",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/netanyahu-gantz-split.jpg",
+            "publishedAt": "2020-03-02T19:51:31Z",
+            "content": "Israelis voted in an unprecedented third general election in less than a year Monday to decide whether the power to lead the nation will stay with incumbent Prime Minister Benjamin Netanyahu despite his upcoming trial on corruption charges, or go to his chall\u2026 [+3312 chars]"
         },
         {
             "source": {
@@ -521,19 +534,6 @@
             "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e706c1-4a56-4fac-80e3-247bc960fcfc/82581c93-315b-4850-a229-f44ad61e7928/1280x720/match/image.jpg",
             "publishedAt": "2020-03-02T19:24:22Z",
             "content": "Health officials in Washington state\u00a0announced three additional\u00a0deaths among coronavirus patients on Monday, bring the total number of fatalities to six. Two of the patients were considered \"new\" cases of COVID-19, while a third death involved a patient who w\u2026 [+1211 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Stephen Sorace",
-            "title": "Netanyahu, Gantz face off in Israel\u2019s unprecedented third general election in a year amid coronavirus fears",
-            "description": "Israelis voted in an unprecedented third general election in less than a year Monday to decide whether the power to lead the nation will stay with incumbent Prime Minister Benjamin Netanyahu despite his upcoming trial on corruption charges, or go to his chall\u2026",
-            "url": "https://www.foxnews.com/world/netanyahu-gantz-israel-election-voting",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/netanyahu-gantz-split.jpg",
-            "publishedAt": "2020-03-02T19:51:31Z",
-            "content": "Israelis voted in an unprecedented third general election in less than a year Monday to decide whether the power to lead the nation will stay with incumbent Prime Minister Benjamin Netanyahu despite his upcoming trial on corruption charges, or go to his chall\u2026 [+3312 chars]"
         },
         {
             "source": {
@@ -618,13 +618,13 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Fox News",
-            "title": "Today on Fox News: March 2, 2020",
-            "description": "",
-            "url": "https://www.foxnews.com/media/today-on-fox-news-march-2-2020",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20059615742139.jpg",
-            "publishedAt": "2020-03-02T09:56:00Z",
-            "content": "STAY TUNED\r\nOn Fox News:\u00a0\r\nFox &amp; Friends, 6 a.m. ET: U.S. Surgeon General Dr. Jerome Adams discusses steps to protect your family from coronavirus. \u00a0Black voters explain why they are ditching the Democrats to support Trump in 2020. Plus, special guests Er\u2026 [+1747 chars]"
+            "author": "Michael Hollan",
+            "title": "Frankfurt Airport temporarily shut down after drone sighting",
+            "description": "Stop flying drones near airports.",
+            "url": "https://www.foxnews.com/travel/frankfurt-airport-shut-down-drone-sighting",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Frankfurt-Airport.jpg",
+            "publishedAt": "2020-03-02T19:14:12Z",
+            "content": "It's time to stop flying drones near airports.\r\nFrankfurt Airport,\u00a0one of Germany\u2019s busiest,\u00a0was forced to shut down for two hours on Monday due to suspected drone activity in the area. Authorities have since conducted a search, and\u00a0continue\u00a0to investigate th\u2026 [+1450 chars]"
         },
         {
             "source": {
@@ -644,13 +644,13 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Michael Hollan",
-            "title": "Frankfurt Airport temporarily shut down after drone sighting",
-            "description": "Stop flying drones near airports.",
-            "url": "https://www.foxnews.com/travel/frankfurt-airport-shut-down-drone-sighting",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Frankfurt-Airport.jpg",
-            "publishedAt": "2020-03-02T19:14:12Z",
-            "content": "It's time to stop flying drones near airports.\r\nFrankfurt Airport,\u00a0one of Germany\u2019s busiest,\u00a0was forced to shut down for two hours on Monday due to suspected drone activity in the area. Authorities have since conducted a search, and\u00a0continue\u00a0to investigate th\u2026 [+1450 chars]"
+            "author": "Fox News",
+            "title": "Today on Fox News: March 2, 2020",
+            "description": "",
+            "url": "https://www.foxnews.com/media/today-on-fox-news-march-2-2020",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20059615742139.jpg",
+            "publishedAt": "2020-03-02T09:56:00Z",
+            "content": "STAY TUNED\r\nOn Fox News:\u00a0\r\nFox &amp; Friends, 6 a.m. ET: U.S. Surgeon General Dr. Jerome Adams discusses steps to protect your family from coronavirus. \u00a0Black voters explain why they are ditching the Democrats to support Trump in 2020. Plus, special guests Er\u2026 [+1747 chars]"
         },
         {
             "source": {

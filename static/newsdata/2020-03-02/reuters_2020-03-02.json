@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 330,
+    "totalResults": 331,
     "articles": [
         {
             "source": {
@@ -86,19 +86,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Coronavirus alert: Russian Cossacks told not to kiss icons",
-            "description": "Russian Cossacks have been told by one of their leaders not to kiss icons or clerics' hands to try to prevent the spread of the coronavirus.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-russia-religion-idUSKBN20P2QM",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497788548&w=1200&r=LYNXMPEG2123E",
-            "publishedAt": "2020-03-02T18:15:02Z",
-            "content": "MOSCOW (Reuters) - Russian Cossacks have been told by one of their leaders not to kiss icons or clerics\u2019 hands to try to prevent the spread of the coronavirus. \r\nThe order was issued by Gennadiy Kovalev, head of the Council of Cossack Hetmans (leaders) of Rus\u2026 [+861 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "Algeria reports two new coronavirus cases, bringing the total to five",
             "description": "Algeria reported two new coronavirus cases on Monday, which brings the total of confirmed cases to five, state news agency said quoting a statement from health ministry.",
             "url": "https://www.reuters.com/article/us-health-coronavirus-algeria-idUSKBN20P2YK",
@@ -111,39 +98,13 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": null,
-            "title": "France's Macron cancels events to focus on coronavirus response",
-            "description": "French President Emmanuel Macron canceled two scheduled events this week to focus on France's response to the coronavirus crisis, his office said on Monday.",
-            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/vYP-uJDSbR0/frances-macron-cancels-events-to-focus-on-coronavirus-response-idUSKBN20P1OD",
-            "urlToImage": null,
-            "publishedAt": "2020-03-02T11:58:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": "Reuters Editorial",
-            "title": "Italian coronavirus deaths rise to 52, number of cases climbs above 2000",
-            "description": "The death toll from an outbreak of coronavirus in Italy has risen by 18 over the past 24 hours to 52, the Civil Protection Agency said on Monday.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-casualties-idUSKBN20P2NO",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-03-02T17:28:56Z",
-            "content": "ROME (Reuters) - The death toll from an outbreak of coronavirus in Italy has risen by 18 over the past 24 hours to 52, the Civil Protection Agency said on Monday. \r\nThe accumulative number of cases in the country which has been hardest hit by the virus in Eur\u2026 [+341 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Imani Moise",
-            "title": "Citigroup and Wells Fargo restrict all cross border travel as coronavirus spreads",
-            "description": "Citigroup Inc and Wells Fargo & Co have restricted all cross-border travel by employees in response to the rapidly spreading coronavirus outbreak.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-citigroup-idUSKBN20P2OS",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-03-02T17:48:56Z",
-            "content": "(Reuters) - Citigroup Inc and Wells Fargo &amp; Co have restricted all cross-border travel by employees in response to the rapidly spreading coronavirus outbreak. \r\nCiti\u2019s policy expands travel restrictions put in place last week as the virus, which has no kn\u2026 [+1707 chars]"
+            "title": "Coronavirus alert: Russian Cossacks told not to kiss icons",
+            "description": "Russian Cossacks have been told by one of their leaders not to kiss icons or clerics' hands to try to prevent the spread of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-russia-religion-idUSKBN20P2QM",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497788548&w=1200&r=LYNXMPEG2123E",
+            "publishedAt": "2020-03-02T18:15:02Z",
+            "content": "MOSCOW (Reuters) - Russian Cossacks have been told by one of their leaders not to kiss icons or clerics\u2019 hands to try to prevent the spread of the coronavirus. \r\nThe order was issued by Gennadiy Kovalev, head of the Council of Cossack Hetmans (leaders) of Rus\u2026 [+861 chars]"
         },
         {
             "source": {
@@ -235,6 +196,45 @@
             "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497784565&w=1200&r=LYNXMPEG2122H",
             "publishedAt": "2020-03-02T18:03:15Z",
             "content": "BRUSSELS (Reuters) - The European Parliament will limit access to visitors for three weeks, its president said on Monday, as part of precautionary measures to reduce the spread of the coronavirus. \r\nParliamentary activity will continue, but seminars, events a\u2026 [+709 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "France's Macron cancels events to focus on coronavirus response",
+            "description": "French President Emmanuel Macron canceled two scheduled events this week to focus on France's response to the coronavirus crisis, his office said on Monday.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/vYP-uJDSbR0/frances-macron-cancels-events-to-focus-on-coronavirus-response-idUSKBN20P1OD",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T11:58:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Italian coronavirus deaths rise to 52, number of cases climbs above 2000",
+            "description": "The death toll from an outbreak of coronavirus in Italy has risen by 18 over the past 24 hours to 52, the Civil Protection Agency said on Monday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-casualties-idUSKBN20P2NO",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-02T17:28:56Z",
+            "content": "ROME (Reuters) - The death toll from an outbreak of coronavirus in Italy has risen by 18 over the past 24 hours to 52, the Civil Protection Agency said on Monday. \r\nThe accumulative number of cases in the country which has been hardest hit by the virus in Eur\u2026 [+341 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Imani Moise",
+            "title": "Citigroup and Wells Fargo restrict all cross border travel as coronavirus spreads",
+            "description": "Citigroup Inc and Wells Fargo & Co have restricted all cross-border travel by employees in response to the rapidly spreading coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-citigroup-idUSKBN20P2OS",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-02T17:48:56Z",
+            "content": "(Reuters) - Citigroup Inc and Wells Fargo &amp; Co have restricted all cross-border travel by employees in response to the rapidly spreading coronavirus outbreak. \r\nCiti\u2019s policy expands travel restrictions put in place last week as the virus, which has no kn\u2026 [+1707 chars]"
         },
         {
             "source": {
@@ -385,32 +385,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "China's president says research centers to be set up to help contain coronavirus",
-            "description": "China's president Xi Jinping said that a series of national clinical research centers would be set up to help contain the coronavirus outbreak, state television CCTV reported on Monday.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-president-idUSKBN20P1OF",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497703748&w=1200&r=LYNXMPEG2119P",
-            "publishedAt": "2020-03-02T12:00:18Z",
-            "content": "BEIJING (Reuters) - China\u2019s president Xi Jinping said that a series of national clinical research centers would be set up to help contain the coronavirus outbreak, state television CCTV reported on Monday. \r\nXi, speaking on a visit to several medicine institu\u2026 [+417 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Hyonhee Shin",
-            "title": "South Korea seeks murder charges as coronavirus kills more than 3,000 worldwide",
-            "description": "South Korea sought murder charges against leaders of a secretive church at the center of a ballooning coronavirus outbreak in the country on Monday as the global death toll rose above 3,000.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-idUSKBN20P1LO",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497703862&w=1200&r=LYNXMPEG2117W",
-            "publishedAt": "2020-03-02T12:10:38Z",
-            "content": "SEOUL/BEIJING (Reuters) - South Korea sought murder charges against leaders of a secretive church at the center of a ballooning coronavirus outbreak in the country on Monday as the global death toll rose above 3,000. \r\nWorld stock markets regained some calm a\u2026 [+5453 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "Iceland confirms first three cases of coronavirus, in patients returning from Italy",
             "description": "The first three cases of people infected with coronavirus have been confirmed in Iceland, the country's Department of Civil Protection and Emergency Management said in a statement late on Sunday.",
             "url": "https://www.reuters.com/article/uk-health-coronavirus-iceland-idUSKBN20P195",
@@ -430,6 +404,32 @@
             "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497667528&w=1200&r=LYNXMPEG210DZ",
             "publishedAt": "2020-03-02T04:18:26Z",
             "content": "SYDNEY (Reuters) - Australia\u2019s chief medical officer said on Monday it was no longer possible to completely prevent people with the coronavirus from entering the country, citing concerns about outbreaks in Japan and South Korea. \r\nAustralia, one of the first \u2026 [+2306 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China's president says research centers to be set up to help contain coronavirus",
+            "description": "China's president Xi Jinping said that a series of national clinical research centers would be set up to help contain the coronavirus outbreak, state television CCTV reported on Monday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-president-idUSKBN20P1OF",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497703748&w=1200&r=LYNXMPEG2119P",
+            "publishedAt": "2020-03-02T12:00:18Z",
+            "content": "BEIJING (Reuters) - China\u2019s president Xi Jinping said that a series of national clinical research centers would be set up to help contain the coronavirus outbreak, state television CCTV reported on Monday. \r\nXi, speaking on a visit to several medicine institu\u2026 [+417 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Hyonhee Shin",
+            "title": "South Korea seeks murder charges as coronavirus kills more than 3,000 worldwide",
+            "description": "South Korea sought murder charges against leaders of a secretive church at the center of a ballooning coronavirus outbreak in the country on Monday as the global death toll rose above 3,000.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-idUSKBN20P1LO",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497703862&w=1200&r=LYNXMPEG2117W",
+            "publishedAt": "2020-03-02T12:10:38Z",
+            "content": "SEOUL/BEIJING (Reuters) - South Korea sought murder charges against leaders of a secretive church at the center of a ballooning coronavirus outbreak in the country on Monday as the global death toll rose above 3,000. \r\nWorld stock markets regained some calm a\u2026 [+5453 chars]"
         },
         {
             "source": {
@@ -541,12 +541,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Latvia reports its first coronavirus case: ministry",
-            "description": "Latvia said on Monday it had confirmed its first case of the new coronavirus.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-latvia-idUSKBN20P2IU",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-03-02T16:52:54Z",
-            "content": "RIGA (Reuters) - Latvia said on Monday it had confirmed its first case of the new coronavirus. \r\n\u201cThe health ministry confirms that the first patient has been diagnosed with the coronavirus in Latvia,\u201d the health ministry said in a statement. It gave no furth\u2026 [+66 chars]"
+            "title": "Factbox: Airlines suspend flights due to coronavirus outbreak",
+            "description": "Airlines have been suspending flights or modifying services in response to the coronavirus outbreak.",
+            "url": "https://www.reuters.com/article/us-china-health-airlines-factbox-idUSKBN20P2YY",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497823333&w=1200&r=LYNXMPEG212CH",
+            "publishedAt": "2020-03-02T19:55:39Z",
+            "content": "(Reuters) - Airlines have been suspending flights or modifying services in response to the coronavirus outbreak. \r\nBelow are details (in alphabetical order): \r\nAIRLINES THAT HAVE CANCELLED ALL FLIGHTS TO MAINLAND CHINA \r\n**American Airlines (AAL.O) has extend\u2026 [+10295 chars]"
         },
         {
             "source": {
@@ -554,12 +554,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Factbox: Airlines suspend flights due to coronavirus outbreak",
-            "description": "Airlines have been suspending flights or modifying services in response to the coronavirus outbreak.",
-            "url": "https://www.reuters.com/article/us-china-health-airlines-factbox-idUSKBN20P2YY",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497823333&w=1200&r=LYNXMPEG212CH",
-            "publishedAt": "2020-03-02T19:55:39Z",
-            "content": "(Reuters) - Airlines have been suspending flights or modifying services in response to the coronavirus outbreak. \r\nBelow are details (in alphabetical order): \r\nAIRLINES THAT HAVE CANCELLED ALL FLIGHTS TO MAINLAND CHINA \r\n**American Airlines (AAL.O) has extend\u2026 [+10295 chars]"
+            "title": "Latvia reports its first coronavirus case: ministry",
+            "description": "Latvia said on Monday it had confirmed its first case of the new coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-latvia-idUSKBN20P2IU",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-02T16:52:54Z",
+            "content": "RIGA (Reuters) - Latvia said on Monday it had confirmed its first case of the new coronavirus. \r\n\u201cThe health ministry confirms that the first patient has been diagnosed with the coronavirus in Latvia,\u201d the health ministry said in a statement. It gave no furth\u2026 [+66 chars]"
         },
         {
             "source": {
@@ -599,84 +599,6 @@
             "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
             "publishedAt": "2020-03-02T17:02:23Z",
             "content": "DAKAR (Reuters) - Senegal\u2019s health minister on Monday announced the first case of coronavirus in the country, the second case in sub-Saharan Africa after one was confirmed in Nigeria last week. \r\nThe patient is a French man who lives in Senegal and flew back \u2026 [+816 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Hubei, epicenter of China's coronavirus outbreak, reports sharp drop in new cases",
-            "description": "China's central Hubei province, the epicenter of the country's coronavirus outbreak, reported less than 200 cases of new infections for the first time since January.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-china-toll-idUSKBN20P01K",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497596060&w=1200&r=LYNXMPEG2100Z",
-            "publishedAt": "2020-03-02T00:50:36Z",
-            "content": "BEIJING (Reuters) - China\u2019s central Hubei province, the epicenter of the country\u2019s coronavirus outbreak, reported less than 200 cases of new infections for the first time since January. \r\nHubei had 196 new confirmed cases on Sunday, the National Health Commis\u2026 [+839 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Masked and gloved: Israelis in quarantine from coronavirus vote in election",
-            "description": "Paramedics dressed in head-to-toe protective gear stood guard at dedicated polling stations where Israelis under quarantine from the coronavirus voted in Monday's election.",
-            "url": "https://www.reuters.com/article/us-israel-election-health-coronavirus-idUSKBN20P1BZ",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-03-02T10:21:46Z",
-            "content": "JERUSALEM (Reuters) - Paramedics dressed in head-to-toe protective gear stood guard at dedicated polling stations where Israelis under quarantine from the coronavirus voted in Monday\u2019s election. \r\nOne by one, voters in face masks and gloves who have been isol\u2026 [+1461 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "France's Macron cancels events to focus on coronavirus response",
-            "description": "French President Emmanuel Macron canceled two scheduled events this week to focus on France's response to the coronavirus crisis, his office said on Monday.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-macron-idUSKBN20P1OD",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497703805&w=1200&r=LYNXMPEG2119N",
-            "publishedAt": "2020-03-02T11:58:48Z",
-            "content": "PARIS (Reuters) - French President Emmanuel Macron canceled two scheduled events this week to focus on France\u2019s response to the coronavirus crisis, his office said on Monday. \r\nA visit to southwestern France on Wednesday was postponed while his attendance at \u2026 [+250 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "WHO technical team arrives in Iran to support coronavirus response",
-            "description": "A team from the World Health Organization (WHO) arrived in Tehran on Monday to support Iran's response to a coronavirus outbreak, the WHO said on Monday.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-iran-who-idUSKBN20P2DW",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-03-02T15:56:13Z",
-            "content": "DUBAI (Reuters) - A team from the World Health Organization (WHO) arrived in Tehran on Monday to support Iran\u2019s response to a coronavirus outbreak, the WHO said on Monday. \r\n\u201cThe plane carrying the technical team also contained a shipment of medical supplies \u2026 [+218 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Qatar health ministry reports four new cases of coronavirus infection: QNA",
-            "description": "Qatar's health ministry said on Monday that medical tests had revealed four new cases of coronavirus infection in the country, state news agency QNA said in a tweet.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-qatar-idUSKBN20P2CP",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-03-02T15:48:25Z",
-            "content": "DUBAI (Reuters) - Qatar\u2019s health ministry said on Monday that medical tests had revealed four new cases of coronavirus infection in the country, state news agency QNA said in a tweet. \r\nTwo Qatari citizens, and two domestic workers who were accompanying them \u2026 [+499 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Oman bans entry of visitors from countries where coronavirus has spread",
-            "description": "Oman banned entry of visitors from countries where coronavirus has spread, the foreign ministry said on Twitter on Monday, without specifying countries.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-oman-idUSKBN20P2UB",
-            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-            "publishedAt": "2020-03-02T18:53:29Z",
-            "content": "CAIRO (Reuters) - Oman banned entry of visitors from countries where coronavirus has spread, the foreign ministry said on Twitter on Monday, without specifying countries. \r\nThe ministry added that this comes as a precautionary procedure, and will be applied o\u2026 [+98 chars]"
         },
         {
             "source": {
@@ -736,6 +658,84 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
+            "title": "Hubei, epicenter of China's coronavirus outbreak, reports sharp drop in new cases",
+            "description": "China's central Hubei province, the epicenter of the country's coronavirus outbreak, reported less than 200 cases of new infections for the first time since January.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-china-toll-idUSKBN20P01K",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497596060&w=1200&r=LYNXMPEG2100Z",
+            "publishedAt": "2020-03-02T00:50:36Z",
+            "content": "BEIJING (Reuters) - China\u2019s central Hubei province, the epicenter of the country\u2019s coronavirus outbreak, reported less than 200 cases of new infections for the first time since January. \r\nHubei had 196 new confirmed cases on Sunday, the National Health Commis\u2026 [+839 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Masked and gloved: Israelis in quarantine from coronavirus vote in election",
+            "description": "Paramedics dressed in head-to-toe protective gear stood guard at dedicated polling stations where Israelis under quarantine from the coronavirus voted in Monday's election.",
+            "url": "https://www.reuters.com/article/us-israel-election-health-coronavirus-idUSKBN20P1BZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-02T10:21:46Z",
+            "content": "JERUSALEM (Reuters) - Paramedics dressed in head-to-toe protective gear stood guard at dedicated polling stations where Israelis under quarantine from the coronavirus voted in Monday\u2019s election. \r\nOne by one, voters in face masks and gloves who have been isol\u2026 [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Oman bans entry of visitors from countries where coronavirus has spread",
+            "description": "Oman banned entry of visitors from countries where coronavirus has spread, the foreign ministry said on Twitter on Monday, without specifying countries.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-oman-idUSKBN20P2UB",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-02T18:53:29Z",
+            "content": "CAIRO (Reuters) - Oman banned entry of visitors from countries where coronavirus has spread, the foreign ministry said on Twitter on Monday, without specifying countries. \r\nThe ministry added that this comes as a precautionary procedure, and will be applied o\u2026 [+98 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "WHO technical team arrives in Iran to support coronavirus response",
+            "description": "A team from the World Health Organization (WHO) arrived in Tehran on Monday to support Iran's response to a coronavirus outbreak, the WHO said on Monday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-iran-who-idUSKBN20P2DW",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-02T15:56:13Z",
+            "content": "DUBAI (Reuters) - A team from the World Health Organization (WHO) arrived in Tehran on Monday to support Iran\u2019s response to a coronavirus outbreak, the WHO said on Monday. \r\n\u201cThe plane carrying the technical team also contained a shipment of medical supplies \u2026 [+218 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Qatar health ministry reports four new cases of coronavirus infection: QNA",
+            "description": "Qatar's health ministry said on Monday that medical tests had revealed four new cases of coronavirus infection in the country, state news agency QNA said in a tweet.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-qatar-idUSKBN20P2CP",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-02T15:48:25Z",
+            "content": "DUBAI (Reuters) - Qatar\u2019s health ministry said on Monday that medical tests had revealed four new cases of coronavirus infection in the country, state news agency QNA said in a tweet. \r\nTwo Qatari citizens, and two domestic workers who were accompanying them \u2026 [+499 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "France's Macron cancels events to focus on coronavirus response",
+            "description": "French President Emmanuel Macron canceled two scheduled events this week to focus on France's response to the coronavirus crisis, his office said on Monday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-macron-idUSKBN20P1OD",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497703805&w=1200&r=LYNXMPEG2119N",
+            "publishedAt": "2020-03-02T11:58:48Z",
+            "content": "PARIS (Reuters) - French President Emmanuel Macron canceled two scheduled events this week to focus on France\u2019s response to the coronavirus crisis, his office said on Monday. \r\nA visit to southwestern France on Wednesday was postponed while his attendance at \u2026 [+250 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
             "title": "EU ministers to discuss coronavirus as concerns mount in Europe",
             "description": "European Union ministers will discuss possible responses to the coronavirus outbreak in extraordinary meetings this week, a sign of growing concern over the epidemic's spread to most EU countries.",
             "url": "https://www.reuters.com/article/us-health-coronavirus-eu-idUSKBN20P1F7",
@@ -775,19 +775,6 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "Malaysia's new PM takes office amid economic challenges",
-            "description": "Muhyiddin Yassin took office as Malaysia's new prime minister on Monday, capping a week of political chaos caused by the shock resignation of Mahathir Mohamad, and as the country's economy weakens mainly due to the spread of the coronavirus.",
-            "url": "https://www.reuters.com/article/us-malaysia-politics-idUSKBN20P13J",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497693976&w=1200&r=LYNXMPEG210RY",
-            "publishedAt": "2020-03-02T10:05:42Z",
-            "content": "KUALA LUMPUR (Reuters) - Muhyiddin Yassin took office as Malaysia\u2019s new prime minister on Monday, capping a week of political chaos caused by the shock resignation of Mahathir Mohamad, and as the country\u2019s economy weakens mainly due to the spread of the coron\u2026 [+2373 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
             "title": "Kazakhstan to bar Iranian nationals from entry over virus",
             "description": "Kazakhstan will bar Iranian nationals from entering the Central Asian nation starting from March 5, the government said on Monday, as part of efforts to prevent the spread of the coronavirus.",
             "url": "https://www.reuters.com/article/us-health-coronavirus-kazakhstan-iran-idUSKBN20P0CE",
@@ -820,6 +807,19 @@
             "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497828540&w=1200&r=LYNXMPEG212DC",
             "publishedAt": "2020-03-02T20:12:22Z",
             "content": "LONDON (Reuters) - British Prime Minister Boris Johnson said on Monday that the government was ready for a potential economic downside of the coronavirus outbreak, but that the fundamentals of the economy were strong. \r\nThe United Kingdom has so far had 40 co\u2026 [+520 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Malaysia's new PM takes office amid economic challenges",
+            "description": "Muhyiddin Yassin took office as Malaysia's new prime minister on Monday, capping a week of political chaos caused by the shock resignation of Mahathir Mohamad, and as the country's economy weakens mainly due to the spread of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-malaysia-politics-idUSKBN20P13J",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497693976&w=1200&r=LYNXMPEG210RY",
+            "publishedAt": "2020-03-02T10:05:42Z",
+            "content": "KUALA LUMPUR (Reuters) - Muhyiddin Yassin took office as Malaysia\u2019s new prime minister on Monday, capping a week of political chaos caused by the shock resignation of Mahathir Mohamad, and as the country\u2019s economy weakens mainly due to the spread of the coron\u2026 [+2373 chars]"
         },
         {
             "source": {
@@ -982,32 +982,6 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Leika Kihara",
-            "title": "Asian factories take a beating from virus outbreak",
-            "description": "Asia's factories took a heavy hit in February from the coronavirus outbreak with activity in China shrinking at a record pace, business surveys showed on Monday, adding to fears the crisis risks triggering a global recession.",
-            "url": "https://www.reuters.com/article/us-global-economy-idUSKBN20P0BP",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497650059&w=1200&r=LYNXMPEG210AY",
-            "publishedAt": "2020-03-02T03:27:42Z",
-            "content": "TOKYO (Reuters) - Asia\u2019s factories took a heavy hit in February from the coronavirus outbreak with activity in China shrinking at a record pace, business surveys showed on Monday, adding to fears the crisis risks triggering a global recession. \r\nChina\u2019s facto\u2026 [+3251 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Oil up over 2% as hopes of OPEC cut, stimulus counter virus gloom",
-            "description": "Oil prices rose over 2% on Monday, reversing an early fall to multi-year lows as hopes of a deeper cut in output by OPEC and stimulus from central banks countered worries about damage to demand from the coronavirus outbreak.",
-            "url": "http://feeds.reuters.com/~r/reuters/businessNews/~3/5c2lJV4Bc_8/oil-up-over-2-as-hopes-of-opec-cut-stimulus-counter-virus-gloom-idUSKBN20P03B",
-            "urlToImage": null,
-            "publishedAt": "2020-03-02T16:35:17Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
             "author": "Reuters Editorial",
             "title": "IMF, World Bank say ready to address economic challenges of coronavirus",
             "description": "The International Monetary Fund and the World Bank on Monday said they stood ready to help member countries address the human and economic challenges of the fast-spreading coronavirus outbreak, including through emergency funding.",
@@ -1047,13 +1021,26 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
-            "author": "Reuters Editorial",
-            "title": "UK preparing measures to help business, economy if coronavirus spreads - Reuters",
-            "description": "The British government is preparing possible measures to support the health service, businesses and the economy as the outbreak of coronavirus continues to spread, the finance ministry said on Monday.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-idUSKBN20P3AF",
-            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497880392&w=1200&r=LYNXMPEG212M2",
-            "publishedAt": "2020-03-02T22:47:00Z",
-            "content": "LONDON (Reuters) - The British government is preparing possible measures to support the health service, businesses and the economy as the outbreak of coronavirus continues to spread, the finance ministry said on Monday. \r\nThe United Kingdom has so far had 40 \u2026 [+2332 chars]"
+            "author": "Leika Kihara",
+            "title": "Asian factories take a beating from virus outbreak",
+            "description": "Asia's factories took a heavy hit in February from the coronavirus outbreak with activity in China shrinking at a record pace, business surveys showed on Monday, adding to fears the crisis risks triggering a global recession.",
+            "url": "https://www.reuters.com/article/us-global-economy-idUSKBN20P0BP",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497650059&w=1200&r=LYNXMPEG210AY",
+            "publishedAt": "2020-03-02T03:27:42Z",
+            "content": "TOKYO (Reuters) - Asia\u2019s factories took a heavy hit in February from the coronavirus outbreak with activity in China shrinking at a record pace, business surveys showed on Monday, adding to fears the crisis risks triggering a global recession. \r\nChina\u2019s facto\u2026 [+3251 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Oil up over 2% as hopes of OPEC cut, stimulus counter virus gloom",
+            "description": "Oil prices rose over 2% on Monday, reversing an early fall to multi-year lows as hopes of a deeper cut in output by OPEC and stimulus from central banks countered worries about damage to demand from the coronavirus outbreak.",
+            "url": "http://feeds.reuters.com/~r/reuters/businessNews/~3/5c2lJV4Bc_8/oil-up-over-2-as-hopes-of-opec-cut-stimulus-counter-virus-gloom-idUSKBN20P03B",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T16:35:17Z",
+            "content": null
         },
         {
             "source": {
@@ -1061,12 +1048,12 @@
                 "name": "Reuters"
             },
             "author": "Reuters Editorial",
-            "title": "UK says four more confirmed cases of coronavirus",
-            "description": "British health authorities said on Monday there had been four more confirmed cases of coronavirus, bringing the total to 40.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-cases-idUSKBN20P232",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497714165&w=1200&r=LYNXMPEG211M3",
-            "publishedAt": "2020-03-02T14:23:07Z",
-            "content": "LONDON (Reuters) - British health authorities said on Monday there had been four more confirmed cases of coronavirus, bringing the total to 40. \r\nChris Whitty, the Chief Medical Officer of England, said the four new patients had recently traveled from Italy. \u2026 [+195 chars]"
+            "title": "UK preparing measures to help business, economy if coronavirus spreads - Reuters",
+            "description": "The British government is preparing possible measures to support the health service, businesses and the economy as the outbreak of coronavirus continues to spread, the finance ministry said on Monday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-idUSKBN20P3AF",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497880392&w=1200&r=LYNXMPEG212M2",
+            "publishedAt": "2020-03-02T22:47:00Z",
+            "content": "LONDON (Reuters) - The British government is preparing possible measures to support the health service, businesses and the economy as the outbreak of coronavirus continues to spread, the finance ministry said on Monday. \r\nThe United Kingdom has so far had 40 \u2026 [+2332 chars]"
         },
         {
             "source": {
@@ -1106,6 +1093,19 @@
             "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
             "publishedAt": "2020-03-02T15:46:39Z",
             "content": "(Reuters) - The U.S. central bank will deliver a big dose of stimulus this month in a bid to protect the world\u2019s biggest economy from the impact of the spread of the new coronavirus, traders of futures contracts tied to the Federal Reserve\u2019s policy rate are b\u2026 [+647 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UK says four more confirmed cases of coronavirus",
+            "description": "British health authorities said on Monday there had been four more confirmed cases of coronavirus, bringing the total to 40.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-cases-idUSKBN20P232",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497714165&w=1200&r=LYNXMPEG211M3",
+            "publishedAt": "2020-03-02T14:23:07Z",
+            "content": "LONDON (Reuters) - British health authorities said on Monday there had been four more confirmed cases of coronavirus, bringing the total to 40. \r\nChris Whitty, the Chief Medical Officer of England, said the four new patients had recently traveled from Italy. \u2026 [+195 chars]"
         },
         {
             "source": {
@@ -1190,6 +1190,19 @@
                 "id": "reuters",
                 "name": "Reuters"
             },
+            "author": "Reuters Editorial",
+            "title": "Florida confirms two coronavirus cases, one had traveled to Italy: governor",
+            "description": "The Centers for Disease Control and Prevention on Monday confirmed that two presumptive coronavirus cases in Florida were positive, Governor Ron DeSantis said during a news conference.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-florida-idUSKBN20P2XL",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497815892&w=1200&r=LYNXMPEG212B6",
+            "publishedAt": "2020-03-02T19:32:52Z",
+            "content": "(Reuters) - The Centers for Disease Control and Prevention on Monday confirmed that two presumptive coronavirus cases in Florida were positive, Governor Ron DeSantis said during a news conference. \r\nBoth patients are adults. One patient had recently traveled \u2026 [+298 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
             "author": null,
             "title": "Mainland China reports sharp drop in new coronavirus cases on March 1",
             "description": "Mainland China had 202 new confirmed cases of coronavirus infections on Sunday, the country's National Health Commission said on Monday, sharply down from 573 cases a day earlier.",
@@ -1210,19 +1223,6 @@
             "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497596060&w=1200&r=LYNXMPEG2100Z",
             "publishedAt": "2020-03-02T00:50:36Z",
             "content": "BEIJING (Reuters) - China\u2019s central Hubei province, the epicenter of the country\u2019s coronavirus outbreak, reported less than 200 cases of new infections for the first time since January. \r\nHubei had 196 new confirmed cases on Sunday, the National Health Commis\u2026 [+839 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Editorial",
-            "title": "Florida confirms two coronavirus cases, one had traveled to Italy: governor",
-            "description": "The Centers for Disease Control and Prevention on Monday confirmed that two presumptive coronavirus cases in Florida were positive, Governor Ron DeSantis said during a news conference.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-florida-idUSKBN20P2XL",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200302&t=2&i=1497815892&w=1200&r=LYNXMPEG212B6",
-            "publishedAt": "2020-03-02T19:32:52Z",
-            "content": "(Reuters) - The Centers for Disease Control and Prevention on Monday confirmed that two presumptive coronavirus cases in Florida were positive, Governor Ron DeSantis said during a news conference. \r\nBoth patients are adults. One patient had recently traveled \u2026 [+298 chars]"
         },
         {
             "source": {
@@ -1295,11 +1295,11 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Washington state confirms second U.S. coronavirus death; New York reports first case",
-            "description": "Health officials in Washington state said on Sunday a second person infected with the coronavirus had died there, while New York's governor said his state confirmed its first case of the illness.",
-            "url": "http://feeds.reuters.com/~r/reuters/healthNews/~3/sM9eAN8uTco/washington-state-confirms-second-u-s-coronavirus-death-new-york-reports-first-case-idUSKBN20O1WF",
+            "title": "India reports two more cases of coronavirus, taking tally to five",
+            "description": "India reported two more cases of coronavirus on Monday, taking the number of people who have tested positive in the country to five, and hammering already rocky stock markets.",
+            "url": "http://feeds.reuters.com/~r/reuters/healthNews/~3/0WqnkoBvfes/india-reports-two-more-cases-of-coronavirus-taking-tally-to-five-idUSKBN20P15O",
             "urlToImage": null,
-            "publishedAt": "2020-03-02T02:32:29Z",
+            "publishedAt": "2020-03-02T11:03:07Z",
             "content": null
         }
     ]

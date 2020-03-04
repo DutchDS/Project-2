@@ -20,13 +20,13 @@
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Jordyn Phelps",
-            "title": "White House takes aggressive public posture amid new coronavirus spread",
-            "description": "President Trump meets Monday with pharmaceutical company executives on developing a vaccine against the new coronavirus, although experts say that could take a year.",
-            "url": "https://abcnews.go.com/Politics/trump-meet-pharmaceutical-companies-vaccine-coronavirus-spreads/story?id=69335907",
-            "urlToImage": "https://s.abcnews.com/images/Politics/trump-8-gty-er-200302_hpMain_16x9_992.jpg",
-            "publishedAt": "2020-03-02T17:55:23Z",
-            "content": "The White House on Monday continued to project an image that's it's on on the offensive in how it's handling the new coronavirus , with President Donald Trump set to sit down with pharmaceutical CEOs to discuss efforts to develop a vaccine.\r\nWe've asked them \u2026 [+2416 chars]"
+            "author": "Catherine Thorbecke",
+            "title": "Coronavirus could cut global growth outlook in half, OECD warns",
+            "description": "The global economy is facing its \"greatest danger since the financial crisis\" with the outbreak of the novel coronavirus, according to the OECD.",
+            "url": "https://abcnews.go.com/Business/coronavirus-cut-global-economic-growth-outlook-half-oecd/story?id=69334244",
+            "urlToImage": "https://s.abcnews.com/images/Business/coronavirus-closed-china-04-ap-jef-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T20:35:38Z",
+            "content": "With the outbreak of the novel coronavirus, the global economy is facing its greatest threat since the financial crisis, according to the Organization for Economic Co-operation and Development's interim economic outlook, released Monday.\r\n\"The virus risks giv\u2026 [+3234 chars]"
         },
         {
             "source": {
@@ -46,13 +46,13 @@
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Catherine Thorbecke",
-            "title": "Coronavirus could cut global growth outlook in half, OECD warns",
-            "description": "The global economy is facing its \"greatest danger since the financial crisis\" with the outbreak of the novel coronavirus, according to the OECD.",
-            "url": "https://abcnews.go.com/Business/coronavirus-cut-global-economic-growth-outlook-half-oecd/story?id=69334244",
-            "urlToImage": "https://s.abcnews.com/images/Business/coronavirus-closed-china-04-ap-jef-200302_hpMain_16x9_992.jpg",
-            "publishedAt": "2020-03-02T20:35:38Z",
-            "content": "With the outbreak of the novel coronavirus, the global economy is facing its greatest threat since the financial crisis, according to the Organization for Economic Co-operation and Development's interim economic outlook, released Monday.\r\n\"The virus risks giv\u2026 [+3234 chars]"
+            "author": "Jordyn Phelps",
+            "title": "White House takes aggressive public posture amid new coronavirus spread",
+            "description": "President Trump meets Monday with pharmaceutical company executives on developing a vaccine against the new coronavirus, although experts say that could take a year.",
+            "url": "https://abcnews.go.com/Politics/trump-meet-pharmaceutical-companies-vaccine-coronavirus-spreads/story?id=69335907",
+            "urlToImage": "https://s.abcnews.com/images/Politics/trump-8-gty-er-200302_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-02T17:55:23Z",
+            "content": "The White House on Monday continued to project an image that's it's on on the offensive in how it's handling the new coronavirus , with President Donald Trump set to sit down with pharmaceutical CEOs to discuss efforts to develop a vaccine.\r\nWe've asked them \u2026 [+2416 chars]"
         },
         {
             "source": {
@@ -202,19 +202,6 @@
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": null,
-            "title": "Survey: US factories expand in February despite coronavirus",
-            "description": "American factories expanded in February for the second straight month, despite disruptions caused by the coronavirus outbreak",
-            "url": "https://abcnews.go.com/US/wireStory/survey-us-factories-expand-february-coronavirus-69335445",
-            "urlToImage": null,
-            "publishedAt": "2020-03-02T15:18:47Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
             "author": "The Associated Press",
             "title": "Dow Jones surges more than 1,200 points on hopes that central banks will act to shelter global economy from coronavirus",
             "description": "Dow Jones surges more than 1,200 points on hopes that central banks will act to shelter global economy from coronavirus",
@@ -228,13 +215,13 @@
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "NICOLE WINFIELD and COLLEEN BARRY Associated Press",
-            "title": "Italy's health system at limit in virus-struck Lombardy",
-            "description": "The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick",
-            "url": "https://abcnews.go.com/Health/wireStory/italys-health-system-limit-virus-struck-lombardy-69331977",
-            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_8a69342a50b64733851e77b8a9df7f0c_16x9_992.jpg",
-            "publishedAt": "2020-03-02T11:28:35Z",
-            "content": "MILAN -- \r\nThe coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for nursi\u2026 [+2405 chars]"
+            "author": null,
+            "title": "Survey: US factories expand in February despite coronavirus",
+            "description": "American factories expanded in February for the second straight month, despite disruptions caused by the coronavirus outbreak",
+            "url": "https://abcnews.go.com/US/wireStory/survey-us-factories-expand-february-coronavirus-69335445",
+            "urlToImage": null,
+            "publishedAt": "2020-03-02T15:18:47Z",
+            "content": null
         },
         {
             "source": {
@@ -248,6 +235,19 @@
             "urlToImage": "https://s.abcnews.com/images/Health/WireAP_23d8de9f2cdb48f0941d4cd9b770ba1d_16x9_992.jpg",
             "publishedAt": "2020-03-02T20:15:53Z",
             "content": "SEATTLE -- \r\nAn increase in testing for the coronavirus began shedding light Monday on how the illness has spread in the United States, including among nursing home residents in one Washington state facility.\r\nU.S. health officials updated the number of COVID\u2026 [+4808 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "NICOLE WINFIELD and COLLEEN BARRY Associated Press",
+            "title": "Italy's health system at limit in virus-struck Lombardy",
+            "description": "The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick",
+            "url": "https://abcnews.go.com/Health/wireStory/italys-health-system-limit-virus-struck-lombardy-69331977",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_8a69342a50b64733851e77b8a9df7f0c_16x9_992.jpg",
+            "publishedAt": "2020-03-02T11:28:35Z",
+            "content": "MILAN -- \r\nThe coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick, seeking to bring doctors out of retirement and accelerate graduation dates for nursi\u2026 [+2405 chars]"
         },
         {
             "source": {
@@ -319,6 +319,19 @@
                 "id": "abc-news",
                 "name": "ABC News"
             },
+            "author": "HYUNG-JIN KIM and MATT SEDENSKY Associated Press",
+            "title": "Virus reaches new countries as crisis seems to ease in China",
+            "description": "The coronavirus appeared for the first time in New York, Moscow and Berlin and clusters of the disease surged around the world",
+            "url": "https://abcnews.go.com/Business/wireStory/virus-reaches-countries-crisis-ease-china-69338165",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c52417bd246146c5ac61977a802e6769_16x9_992.jpg",
+            "publishedAt": "2020-03-02T17:27:18Z",
+            "content": "SEOUL, South Korea -- \r\nThe coronavirus appeared for the first time in New York, Moscow and Berlin and clusters of the disease surged around the world, even as new cases in China dropped to their lowest level in six weeks Monday and hundreds of patients were \u2026 [+6974 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
             "author": "NICOLE WINFIELD and COLLEEN BARRY Associated Press",
             "title": "Italy's health system at limit in virus-struck Lombardy",
             "description": "The coronavirus outbreak in northern Italy has so overwhelmed the public health system there that officials are taking extraordinary measures to care for the sick",
@@ -339,19 +352,6 @@
             "urlToImage": "https://s.abcnews.com/images/Business/WireAP_ffe79945218846b993ad8791b04e862a_16x9_992.jpg",
             "publishedAt": "2020-03-02T14:46:56Z",
             "content": "NEW YORK -- \r\nStocks are opening higher on Wall Street following a seven-day rout brought on by worries that the spreading coronavirus outbreak will stunt the global economy. Markets in Asia ended mostly higher and European markets were mixed. U.S. stocks are\u2026 [+6178 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "HYUNG-JIN KIM and MATT SEDENSKY Associated Press",
-            "title": "Virus reaches new countries as crisis seems to ease in China",
-            "description": "The coronavirus appeared for the first time in New York, Moscow and Berlin and clusters of the disease surged around the world",
-            "url": "https://abcnews.go.com/Business/wireStory/virus-reaches-countries-crisis-ease-china-69338165",
-            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_c52417bd246146c5ac61977a802e6769_16x9_992.jpg",
-            "publishedAt": "2020-03-02T17:27:18Z",
-            "content": "SEOUL, South Korea -- \r\nThe coronavirus appeared for the first time in New York, Moscow and Berlin and clusters of the disease surged around the world, even as new cases in China dropped to their lowest level in six weeks Monday and hundreds of patients were \u2026 [+6974 chars]"
         },
         {
             "source": {
@@ -384,19 +384,6 @@
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "The Associated Press",
-            "title": "New virus has infected 88,000 people, caused 3,000 deaths",
-            "description": "A new virus first detected in China has infected more than 88,000 people globally and caused 3,000 deaths",
-            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-88000-people-caused-3000-deaths-69327404",
-            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ecbf6d9656b04211bdcab33b833dd26c_16x9_992.jpg",
-            "publishedAt": "2020-03-02T03:18:33Z",
-            "content": "A new virus first detected in China has infected more than 88,000 people globally and caused 3,000 deaths. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest fi\u2026 [+1368 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
             "author": "QASSIM ABDUL-ZAHRA Associated Press",
             "title": "Iraq's PM-designate withdraws from post, prolonging deadlock",
             "description": "Iraq's prime minister-designate has announced his withdrawal from the post after failing to secure parliamentary support for his Cabinet selection",
@@ -404,6 +391,19 @@
             "urlToImage": "https://s.abcnews.com/images/International/WireAP_83dbe2adae1d408f9241646b57860db0_16x9_992.jpg",
             "publishedAt": "2020-03-02T05:36:54Z",
             "content": "Baghdad -- \r\nIraq's prime minister-designate announced his withdrawal from the post Sunday night after failing to secure parliamentary support for his Cabinet selection, prolonging the political deadlock in the country amid multiple economic, health and secur\u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "New virus has infected 88,000 people, caused 3,000 deaths",
+            "description": "A new virus first detected in China has infected more than 88,000 people globally and caused 3,000 deaths",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-infected-88000-people-caused-3000-deaths-69327404",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_ecbf6d9656b04211bdcab33b833dd26c_16x9_992.jpg",
+            "publishedAt": "2020-03-02T03:18:33Z",
+            "content": "A new virus first detected in China has infected more than 88,000 people globally and caused 3,000 deaths. The World Health Organization has named the illness COVID-19, referring to its origin late last year and the coronavirus that causes it. \r\nThe latest fi\u2026 [+1368 chars]"
         },
         {
             "source": {

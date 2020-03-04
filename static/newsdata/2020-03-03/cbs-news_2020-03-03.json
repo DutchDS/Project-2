@@ -1,0 +1,487 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus death toll rises in U.S.",
+            "description": "In the U.S. at least 9 people have died from the coronavirus. Health officials are sending a dire warning about coronavirus hot spots. Jonathan Vigliotti reports.",
+            "url": "https://www.cbsnews.com/video/coronavirus-death-toll-rises-in-u-s-1/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/04/50afd85c-b648-4d67-b625-9234b4caf916/thumbnail/1200x630/c52a1ddc904c6ad504c6ede39cbedf71/0303-en-seattlecoronavirus-vigliotti-2040679-640x360.jpg",
+            "publishedAt": "2020-03-03T23:59:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. health officials confirmed 2nd case of community coronavirus",
+            "description": "A second coronavirus case has been confirmed in California. The World Health Organization on Friday raised its risk alert to \u201cvery high\" for the coronavirus outbreak. Carter Evans reports.",
+            "url": "https://www.cbsnews.com/video/us-health-officials-confirmed-2nd-case-of-community-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/29/8050f71d-f9b3-4a65-9646-0c542274e220/thumbnail/1200x630/14115767e1979d0757f852c4780934c8/0228-en-secondcoronavirus-evans-2038001-640x360.jpg",
+            "publishedAt": "2020-03-03T00:16:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/02: CBS Evening News",
+            "description": "Coronavirus death toll rises in U.S.; \"Inside the Actors Studio\" host James Lipton dies at 93",
+            "url": "https://www.cbsnews.com/video/030220-cbs-evening-news/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/9e53e34d-ff0e-4157-8994-d3e682be9d39/thumbnail/1200x630/2898e5d78b76b99569de70764cd5621c/0302-en-full-2040000-640x360.jpg",
+            "publishedAt": "2020-03-03T04:00:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Watch: Trump attends roundtable briefing at NIH Vaccine Research Center",
+            "description": "Trump talked with pharmaceutical executives Monday about efforts to develop a coronavirus vaccine.",
+            "url": "https://www.cbsnews.com/news/trump-participates-in-coronavirus-roundtable-briefing-at-nih-vaccine-research-center-today-live-stream-2020-03-03/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/02/5cc8bc41-03b8-4ffc-accc-b33b0bf9c002/thumbnail/1200x630g6/ab0a6d80d814d054ee8d679752a53758/gettyimages-1204820496.jpg",
+            "publishedAt": "2020-03-03T18:21:52Z",
+            "content": "President Trump is participating in a roundtable briefing at the National Institutes of Health Vaccine Research Center Tuesday afternoon amid fears over the spread of the coronavirus in the United States.\r\nThe president said in a meeting with pharmaceutical e\u2026 [+1415 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Tips for traveling amid coronavirus chaos",
+            "description": "Over two dozen airlines, including major U.S. carriers, have canceled all flights to mainland China while suspending some flights to and from dozens of other cities, including London, Milan and Dubai. Delta and American Airlines announced they will be waiving\u2026",
+            "url": "https://www.cbsnews.com/video/tips-for-traveling-amid-coronavirus-chaos/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/cb45f040-04c0-4e60-900c-6e27856cb902/thumbnail/1200x630/7915537ab7c580f8d6993a547f38a4c6/0303-ctm-kellycoronavirus-kelly-2040249-640x360.jpg",
+            "publishedAt": "2020-03-03T13:30:41Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/2/20: CBSN Evening News",
+            "description": "At least 6 die from coronavirus in Washington State; Encouraging kids on \"Read Across America Day.\"",
+            "url": "https://www.cbsnews.com/video/3220-cbsn-evening-news/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/1c5f8108-abbc-42e3-b0e9-a0c27ca69857/thumbnail/1200x630/87ca913fd24349bb805aac5ec7ce7e85/0302-cbsn-full-2040009-640x360.jpg",
+            "publishedAt": "2020-03-03T03:09:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Watch live: Trump addresses the National Association of Counties",
+            "description": "The Trump administration is trying to assure local jurisdictions that his administration has coronavirus under control.",
+            "url": "https://www.cbsnews.com/news/donald-trump-addresses-the-national-association-of-counties-watch-live-stream-today-03-03-2020/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/29/42493d32-252d-4f66-8fc2-9dab08c3ef23/thumbnail/1200x630g2/e5ebed487f66dabf1bf9ab6a2b443266/gettyimages-1204066884.jpg",
+            "publishedAt": "2020-03-03T15:20:26Z",
+            "content": "President Trump is addressing the National Association of Counties' conference in Washington, D.C., Tuesday, speaking to attendees who aren't necessarily his supporters. The address comes as the president tries to assure local jurisdictions that his administr\u2026 [+1296 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Watch: Trump attends coronavirus roundtable briefing at NIH Vaccine Research Center",
+            "description": "Trump talked with pharmaceutical executives Monday about efforts to develop a coronavirus vaccine.",
+            "url": "https://www.cbsnews.com/news/trump-coronavirus-roundtable-nih-vaccine-research-center-today-live-stream-2020-03-03/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/02/5cc8bc41-03b8-4ffc-accc-b33b0bf9c002/thumbnail/1200x630g6/ab0a6d80d814d054ee8d679752a53758/gettyimages-1204820496.jpg",
+            "publishedAt": "2020-03-03T19:19:41Z",
+            "content": "President Trump is participating in a roundtable briefing at the National Institutes of Health Vaccine Research Center Tuesday afternoon amid fears over the spread of the coronavirus in the United States.\r\nThe president said in a meeting with pharmaceutical e\u2026 [+1415 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Can't get your hands on hand sanitizer? Make your own",
+            "description": "If made properly, homemade hand sanitizer solutions can destroy the coronavirus, doctors say. Here's the recipe.",
+            "url": "https://www.cbsnews.com/news/hand-sanitizer-coronavirus-make-your-own/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/9d71be91-a922-41a9-8064-caf0d38dc732/thumbnail/1200x630/e7c783ff5bf7f2eeb7ddae693aba71c2/gettyimages-173869736.jpg",
+            "publishedAt": "2020-03-03T22:15:11Z",
+            "content": "Hand sanitizer is flying off store shelves in the U.S. as individuals and businesses stock up on supplies to protect them against coronavirus infection.\u00a0\r\nPublic health experts advise that cleaning your hands with either soap and water, or an alcohol-based so\u2026 [+3157 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus outbreak: Who should be concerned?",
+            "description": "As the U.S. death toll for coronavirus climbs to six people with at least 102 confirmed cases, public health officials are working to make federal, state and local preparations while also making sure Americans have all the information they need regarding what\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-outbreak-who-should-be-concerned/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/614ea1c1-6a84-4dec-bb0e-34cab7c32f4e/thumbnail/1200x630/26ad6a7e3c062a40f65b3e22217061dc/0303-ctm-coronavirusconcerns-narula-2040187-640x360.jpg",
+            "publishedAt": "2020-03-03T12:27:24Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus leads to drop in advertising sales",
+            "description": "The fear surrounding the coronavirus has led to drops in several economy sectors, including advertising. Axios media reporter Sara Fischer joined CBSN to explain what it means for the future of media companies.",
+            "url": "https://www.cbsnews.com/video/coronavirus-leads-to-drop-in-advertising-sales/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/41a45bee-6c2f-481d-ae7c-81ab66135b0f/thumbnail/1200x630/22b979df1d46edfef573082bb317ba58/0303-cbsn-coronavirus-rpa-2040445-640x360.jpg",
+            "publishedAt": "2020-03-03T17:21:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "Coronavirus fears shadow this year's March Madness",
+            "description": "College players group wants tourney's games held in empty arenas. Host cities with millions at stake not thrilled about idea.",
+            "url": "https://www.cbsnews.com/news/coronavirus-march-madness-ncaa-empty-basketball-arenas/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/03/20/0624c549-205f-4878-9510-dada0cb27d84/thumbnail/1200x630g2/b200ddee3677953251eadd26ef2e42f7/ap-501396684633.jpg",
+            "publishedAt": "2020-03-03T22:26:51Z",
+            "content": "College basketball players in the U.S. want to hold this year's March Madness tournament in empty stadiums due to the coronavirus, a move that would cost cities hosting the annual competition tens of millions in tourism dollars. \r\nThe National College Players\u2026 [+5089 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Pence and coronavirus task force hold press briefing",
+            "description": "Vice President Mike Pence and members of the coronavirus task force gave a press briefing Monday where they emphasized that the risk to Americans remains \"low.\" Health and Human Services Secretary Alex Azar did warn, however, \"the degree of risk has the poten\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-task-force-holds-press-briefing/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/ca7fd4d0-2946-4813-bb56-a5c2a8d45675/thumbnail/1200x630/ccc58ffb9227c71ee25e37e92fb2692c/cbsn-fusion-coronavirus-task-force-holds-press-briefing-thumbnail-453333-640x360.jpg",
+            "publishedAt": "2020-03-03T00:03:36Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus-hit nursing home residents \"held hostage,\" relative says",
+            "description": "Family members of LifeCare Center's elderly residents told CBS News they are concerned those showing symptoms will not be tested or hospitalized until critically ill.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-washington-nursing-home-king-county-medical-response-lifecare-center/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/42e5a20e-9205-4ab1-8ee6-4f5cedcc99b4/thumbnail/1200x630/0e2e203742df8cbd6f5fa683a6c56609/1583237723778.png",
+            "publishedAt": "2020-03-03T12:16:09Z",
+            "content": "Health officials have focused in on a cluster of conronavirus infections inside a nursing home outside of Seattle. Family members of LifeCare Center's elderly residents told CBS News their loved ones are being isolated in their rooms and their temperatures mo\u2026 [+1865 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Federal Reserve slashes interest rates amid coronavirus outbreak",
+            "description": "The Federal Reserve is cutting interest rates by half a percentage point because of the impact of the coronavirus outbreak. It's the largest cut since the 2008 financial crisis. CBS News' Paula Reid and McClatchy's Francesca Chambers joined CBSN to break down\u2026",
+            "url": "https://www.cbsnews.com/video/federal-reserve-slashes-interest-rates-amid-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/af807086-7da5-4a41-bb01-cb6df234b57e/thumbnail/1200x630/33093a372f4b2a00422fcdeedf988419/0303-cbsn-interestratescovid19-2040498-640x360.jpg",
+            "publishedAt": "2020-03-03T19:46:58Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Federal Reserve cuts interest rates amid market fluctuations and coronavirus fears",
+            "description": "The Federal Reserve cut interest rates this morning after days of market ups and downs amid the coronavirus outbreak. Axios chief financial correspondent Felix Salmon joined CBSN to talk about the outbreak's impact on the markets.",
+            "url": "https://www.cbsnews.com/video/federal-reserve-cuts-interest-rates-amid-market-fluctuations/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/4d0b1b86-f7c6-4e1d-a955-4db430e9d7a1/thumbnail/1200x630/164b5f9edbbe07da75c8493d95ba9f56/cbsn-fusion-federal-reserve-cuts-interest-rates-amid-market-fluctuations-thumbnail-453474-640x360.jpg",
+            "publishedAt": "2020-03-03T18:11:37Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Public facilities take action to limit coronavirus spread",
+            "description": "Many communities are going beyond the government response to make coronavirus preparations. David Begnaud joined CBSN AM from one of New York's largest elder care facilities with how they're preparing.",
+            "url": "https://www.cbsnews.com/video/public-facilities-take-action-to-limit-coronavirus-spread/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/f99fd452-5e51-4bf8-9282-d604ca6909f7/thumbnail/1200x630/177d82f7c4cd3561dfe25c07b9c5f448/0303-cbsnam-publicfacilitiescpread-2040316-640x360.jpg",
+            "publishedAt": "2020-03-03T14:47:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus outbreak at Washington nursing home raises fear",
+            "description": "Health officials have focused in on a cluster of coronavirus infections inside a nursing home outside of Seattle. Family members of LifeCare Center\u2019s elderly residents told CBS News their loved ones are being isolated in their rooms with their temperatures mo\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-outbreak-at-washington-nursing-home-raises-fear/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/c476a008-48dd-4453-9cfc-7e706be0fae8/thumbnail/1200x630/f58539ab0692a2d517096f83b93fc39c/0303-ctm-coronavirusus-vigliotti-2040178-640x360.jpg",
+            "publishedAt": "2020-03-03T12:26:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Epidemiologist predicts effects of coronavirus in the months ahead",
+            "description": "The coronavirus worldwide death toll now tops 3,000 with nearly 90,000 cases. Even those numbers are nothing compared to what could happen in the months ahead. Jim Axelrod reports.",
+            "url": "https://www.cbsnews.com/video/epidemiologist-predicts-effects-of-coronavirus-in-the-months-ahead/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/74fcd6aa-1570-4be4-8849-ac31ae8a6105/thumbnail/1200x630/8ab331aea5f4ef05cf13a13153880ad3/0302-en-coronavirus-axelrod-2039909-640x360.jpg",
+            "publishedAt": "2020-03-03T00:27:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Fed slashes interest rates to protect economy from coronavirus",
+            "description": "It's the biggest rate cut since the 2008 financial crisis \u2014 central bank says the virus poses \"evolving risks.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-fed-slashes-interest-rates-half-point-to-stave-off-disruptions/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/12/11/aaa967c8-359d-4627-9544-685ac5985e29/thumbnail/1200x630/d1f1f2f20d869858475b9b6e6714f489/powell-gettyimages-1187991652.jpg",
+            "publishedAt": "2020-03-03T15:24:00Z",
+            "content": "The Federal Reserve on Tuesday lowered its benchmark interest rate by a half-point, the largest cut since 2008, in a move to offset the impact of the coronavirus on the U.S. economy.\r\n\"The fundamentals of the U.S. economy remain strong. However, the coronavir\u2026 [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener at 8: Officials prepare for U.S. coronavirus outbreak",
+            "description": "A look at what we've been covering on \"CBS This Morning.\"",
+            "url": "https://www.cbsnews.com/video/eye-opener-at-8-officials-prepare-for-us-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/67283367-eed0-4926-9e78-59cb225f2098/thumbnail/1200x630/ddd56d119c67b0d2795fdc14351d4c12/ctm-eyeopener8-2040237-640x360.jpg",
+            "publishedAt": "2020-03-03T13:20:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Federal Reserve slashes interest rates",
+            "description": "The Federal Reserve cut its benchmark interest rate by a half-percentage point Tuesday in an effort to support the economy in the face of the spreading coronavirus. Axios Chief Financial Correspondent Felix Salmon joins CBSN with the details.",
+            "url": "https://www.cbsnews.com/video/federal-reserve-slashes-interest-rates/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/e1c414d1-82d4-4d17-97e6-e0eab516f744/thumbnail/1200x630/2984fd5786fe74852d5b175a07684eb7/0303-felixsalmon-cbsn-2040408-640x360.jpg",
+            "publishedAt": "2020-03-03T16:32:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "President Trump and Dr. Anthony Fauci speak at NIH on coronavirus",
+            "description": "President Trump and Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases, participated in a roundtable about coronavirus at the National Institute of Health. Watch their remarks.",
+            "url": "https://www.cbsnews.com/video/trump-doctor-fauci-coronavirus-national-institute-of-health/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/c010bc7c-2eb0-424d-b551-93261bcf29e7/thumbnail/1200x630/77adfcbcc0e6c0151aaabc530587bd90/cbsn-fusion-trump-and-top-us-doctor-on-coronavirus-address-national-institute-of-health-thumbnail-453533-640x360.jpg",
+            "publishedAt": "2020-03-03T22:14:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "President Trump: Fed should lead instead of being led",
+            "description": "President Trump is criticizing the Federal Reserve for not taking more action on interest rates. This comes after the Fed slashed rates Tuesday to combat economic concerns stemming from the coronavirus outbreak. Politico's Daniel Lippman and the Wall Street J\u2026",
+            "url": "https://www.cbsnews.com/video/president-trump-fed-should-lead-instead-of-being-led/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/ec0f494c-6732-4678-8ee6-7da34c577214/thumbnail/1200x630/f8847c6c6d966b89b9ee022b8b265ddd/0303-rb-fedshouldleadnotled-ryh-ryj-2040604-640x360.jpg",
+            "publishedAt": "2020-03-03T23:29:58Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "WorldView: Coronavirus-free pope, North Korea frees quarantined foreigners, and more",
+            "description": "Italian media is reporting that Pope Francis has tested negative for the novel coronavirus; North Korea lifts a quarantine imposed on foreigners; Israeli Prime Minister Benjamin Netanyahu claims election victory despite being two seats short of a Knesset majo\u2026",
+            "url": "https://www.cbsnews.com/video/worldview-coronavirus-pope-north-korea-quarantine-netanyahu-election-indonesia-volcano/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/08/10/3102a9a6-d90c-4086-a984-1abe061746ba/thumbnail/1200x630/cb16e63b818055ab94b94871817dbcd6/news2.jpg",
+            "publishedAt": "2020-03-03T18:40:30Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: Tornadoes rip through Tennessee",
+            "description": "At least two tornadoes tore through the Nashville, Tennessee area overnight, killing at least five and destroying dozens of buildings. Also, the coronavirus death toll in the United States rises to six people. All that and all that matters in today\u2019s Eye Open\u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-tornadoes-rip-through-tennessee/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/7813fb45-303c-4cf0-9dfd-53a2d0527640/thumbnail/1200x630/aa82cd4a04f86429ffc219a12b1e1d65/0303-ctm-7ameyeopener-2040163-640x360.jpg",
+            "publishedAt": "2020-03-03T12:15:53Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus lab tests at CDC may be contaminated as Trump challenges drug companies to combat outbreak",
+            "description": "Later this week, Congress is expected to take up a $6 to $8 billion package in emergency spending to help fight the coronavirus. This comes as President Trump says travel restrictions and quarantines have helped contain the spread. Paula Reid reports.",
+            "url": "https://www.cbsnews.com/video/coronavirus-lab-tests-at-cdc-may-be-contaminated-as-trump-challenges-drug-companies-to-combat-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/c169e6cf-dd58-4678-ae04-4a5b05e8723f/thumbnail/1200x630/c73c5165d0b8b2e1cdf14cf5d3437eb0/0302-en-trumpcorona-preid-2039887-640x360.jpg",
+            "publishedAt": "2020-03-03T00:20:02Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. and other large economies pledge cooperation to deal with coronavirus",
+            "description": "G-7 industrial countries vow to use \"all appropriate tools\" to cope with economic fallout, but don't offer specifics.",
+            "url": "https://www.cbsnews.com/news/coronavirus-cooperation-us-g7-countries/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/05/22/ddcdded0-91ea-4c46-82f8-2480585dd3c3/thumbnail/1200x630/553859ae6ba326a800e05b3e7bbe7d59/gettyimages-960935534.jpg",
+            "publishedAt": "2020-03-03T15:31:07Z",
+            "content": "Washington\u00a0\u2014 Seven major economies, including the U.S., pledged Tuesday to use \"all appropriate tools\" to deal with the spreading coronavirus, while stopping short of immediate actions. The group of major industrial countries, referred to as the G-7, said it \u2026 [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Dow sinks 700 points despite surprise Fed interest rate cut",
+            "description": "Wall Street sinks even after the central bank takes steps to protect the U.S. economy from disease hit.",
+            "url": "https://www.cbsnews.com/news/stocks-down-despite-federal-reserve-interest-rate-cut-to-counter-coronavirus-2020-03-03/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/4f75a593-7eac-4d7f-9ad9-12f3e458f159/thumbnail/1200x630/b1387e0b460b5f2cea2bb6f31b0b3dee/rts34flh.jpg",
+            "publishedAt": "2020-03-03T18:57:00Z",
+            "content": "Investors seem unimpressed with the Federal Reserve's largest interest rate cut since 2008, pushing down stocks amid mounting concerns over the coronavirus.\r\nThe Dow fell 733 points, or 3%, to 25,0970, in early afternoon trading on Tuesday, while the S&amp;P \u2026 [+2989 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Twitter tells all of its employees to work at home, citing virus",
+            "description": "Tech company said it is \"operating out of an abundance of caution\" in asking its 5,000 workers to work from home.",
+            "url": "https://www.cbsnews.com/news/twitter-coronavirus-employees-work-at-home-because-of-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2016/11/15/383d98b1-d9b7-446a-bb4b-a842ef209ba2/thumbnail/1200x630/05fc6c26afabe83eae86e69896efec33/twitter.jpg",
+            "publishedAt": "2020-03-03T13:53:59Z",
+            "content": "Twitter is asking its entire workforce of 5,000 people to work from home, part of its effort to keep employees safe and prevent the spread of the coronavirus. The company said working from home was mandatory for its workers in Hong Kong, Japan and South Korea\u2026 [+2158 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. and other big economies pledge cooperation to fight virus",
+            "description": "G-7 group of major industrial countries vows to use \"all appropriate tools\" to cope with economic fallout.",
+            "url": "https://www.cbsnews.com/news/us-and-other-large-economies-pledge-cooperation-to-deal-with-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/05/22/ddcdded0-91ea-4c46-82f8-2480585dd3c3/thumbnail/1200x630/553859ae6ba326a800e05b3e7bbe7d59/gettyimages-960935534.jpg",
+            "publishedAt": "2020-03-03T13:37:08Z",
+            "content": "Washington\u00a0\u2014 Seven major economies, including the U.S., pledged Tuesday to use \"all appropriate tools\" to deal with the spreading coronavirus, while stopping short of immediate actions.\r\nThe group of major industrial countries, referred to as the G-7, said it\u2026 [+1877 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. preps for a pandemic as virus claims 6 lives in Washington",
+            "description": "As officials at every level of government and health care scramble to prepare for a widespread COVID-19 outbreak, the world is in \"uncharted territory.\"",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-03/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/71c790aa-e736-4918-b38a-5fa67b861637/thumbnail/1200x630/0c44e0ee4f5fb2b41abd4c38f882b106/coronavirus-preps-seattle.jpg",
+            "publishedAt": "2020-03-03T10:38:23Z",
+            "content": "The number of coronavirus cases continues to climb in the U.S. \u00a0The new disease has killed six people in the country, four from one nursing home near Seattle and two others in the same county. The cluster of deaths at the nursing facility in King County highl\u2026 [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Stocks whipsaw as the Fed cuts rates to counter outbreak impact",
+            "description": "Stocks are uneven after the Federal Reserve cut rates by 0.5%, a bigger reduction than many analysts had expected.",
+            "url": "https://www.cbsnews.com/news/coronavirus-stocks-mixed-today-federal-reserve-interest-rate-cut/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/4f75a593-7eac-4d7f-9ad9-12f3e458f159/thumbnail/1200x630/b1387e0b460b5f2cea2bb6f31b0b3dee/rts34flh.jpg",
+            "publishedAt": "2020-03-03T16:12:00Z",
+            "content": "Stocks whipsawed on Tuesday after the Federal Reserve cut interest rates by 0.5% in an effort to bolster the economy as the coronavirus spreads to more U.S. states and crimps corporate profits. The rate cut comes after seven major economies pledged early Tues\u2026 [+3602 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Conant",
+            "title": "2020 Daily Trail Markers: One day more until Super Tuesday",
+            "description": "A total of 1,357 delegates are up for grabs on Super Tuesday.",
+            "url": "https://www.cbsnews.com/news/2020-daily-trail-markers-one-day-more-until-super-tuesday-2020-03-02/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg",
+            "publishedAt": "2020-03-03T00:51:59Z",
+            "content": "With voters in 14 states preparing to head to the polls for Super Tuesday, Joe Biden's campaign has steadily rolled out a slew of high-profile endorsements in key states, consolidating support from the moderate and establishment wings of the Democratic Party \u2026 [+25833 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. continues efforts to contain coronavirus outbreak",
+            "description": "Officials in New York said it is inevitable that the coronavirus will spread in New York city, which just reported its first case. Schools and hospitals all over the country are taking action. Meg Oliver reports.",
+            "url": "https://www.cbsnews.com/video/us-continues-efforts-to-contain-coronavirus-outbreak-2020-03-02/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/4b73bead-b075-4700-8d72-8a03b0817de7/thumbnail/1200x630/f8ebb7a6caf5dfb3c545fbc18f3c4bb9/0302-en-americaprepares-oliver-2039873-640x360.jpg",
+            "publishedAt": "2020-03-03T00:07:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sarah Ewall-Wice",
+            "title": "Where are candidates spending on TV and radio before Super Tuesday?",
+            "description": "More than $240 million has been spent by presidential candidates on ads hitting the airwaves in Super Tuesday states.",
+            "url": "https://www.cbsnews.com/news/super-tuesday-presidential-candidates-tv-radio-spending-biden-sanders-bloomberg-warren/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/26/72b3bc90-5a20-47e5-a592-005b9f1a7bcc/thumbnail/1200x630g8/ee3568b3cf269ad1956dd978ba1315cb/gettyimages-1203404521-1.jpg",
+            "publishedAt": "2020-03-03T15:53:01Z",
+            "content": "On Super Tuesday, voters in fourteen states go to the polls to select their presidential pick. There are 1,344 pledged delegates are up for grabs \u2014 just over a third of all delegates in the Democratic nominating process \u2014 the most to be determined on a single\u2026 [+7189 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS Radio News",
+            "title": "WORLD NEWS ROUNDUP: 03/03",
+            "description": "At least seven dead in Tennessee tornadoes. Joe Biden picks up key endorsements ahead of Super Tuesday. More coronavirus deaths. CBS News Correspondent Steve Kathan has today's World News Roundup.",
+            "url": "http://feeds.cbsnews.com/~r/podcast_icast_1/~3/a7WlMoJt2RI/2748982.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T13:00:00Z",
+            "content": null
+        }
+    ]
+}
