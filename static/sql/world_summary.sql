@@ -6,7 +6,7 @@ select  max(date),
 		round((sum(conf_count)-sum(cured_count)-sum(dead_count)) /cast(sum(conf_count)as decimal)*100,1) pct_sick,
 		round(cast(sum(cured_count) as decimal)/sum(conf_count)*100,1) pct_cured,
 		round(cast(sum(dead_count) as decimal)/sum(conf_count)*100,1) pct_dead,
-		'World (incl. China)' as group_country,
+		'World' as group_country,
 		'A' as order_by
         from daily_stats_world  
         where date = (select max(date ) from daily_stats_world)
