@@ -1,0 +1,174 @@
+,american_name,country,lat,long,conf_count,date,cured_count,dead_count,country_2
+7439,Anhui,China,31.8257,117.2264,990,2020-03-05,970,6,China
+7440,Beijing,China,40.1824,116.4142,418,2020-03-05,297,8,China
+7441,Chongqing,China,30.0572,107.874,576,2020-03-05,512,6,China
+7442,Fujian,China,26.0789,117.9874,296,2020-03-05,277,1,China
+7443,Gansu,China,36.0611,103.8343,102,2020-03-05,87,2,China
+7444,Guangdong,China,23.3417,113.4244,1351,2020-03-05,1181,7,China
+7445,Guangxi,China,23.8298,108.7881,252,2020-03-05,214,2,China
+7446,Guizhou,China,26.8154,106.8748,146,2020-03-05,114,2,China
+7447,Hainan,China,19.1959,109.7453,168,2020-03-05,158,6,China
+7448,Hebei,China,38.0428,114.5149,318,2020-03-05,304,6,China
+7449,Heilongjiang,China,47.862,127.7615,481,2020-03-05,379,13,China
+7450,Henan,China,33.882020000000004,113.614,1272,2020-03-05,1239,22,China
+7451,Hubei,China,30.9756,112.2707,67466,2020-03-05,40592,2902,China
+7452,Hunan,China,27.6104,111.7088,1018,2020-03-05,938,4,China
+7453,Inner Mongolia,China,44.0935,113.9448,75,2020-03-05,65,1,China
+7454,Jiangsu,China,32.9711,119.455,631,2020-03-05,583,0,China
+7455,Jiangxi,China,27.614,115.7221,935,2020-03-05,901,1,China
+7456,Jilin,China,43.6661,126.1923,93,2020-03-05,88,1,China
+7457,Liaoning,China,41.2956,122.6085,125,2020-03-05,106,1,China
+7458,Ningxia,China,37.2692,106.1655,75,2020-03-05,69,0,China
+7459,Qinghai,China,35.7452,95.9956,18,2020-03-05,18,0,China
+7460,Shaanxi,China,35.1917,108.8701,245,2020-03-05,224,1,China
+7461,Shandong,China,36.3427,118.1498,758,2020-03-05,578,6,China
+7462,Shanghai,China,31.202,121.4491,339,2020-03-05,303,3,China
+7463,Shanxi,China,37.5777,112.2922,133,2020-03-05,126,0,China
+7464,Sichuan,China,30.6171,102.7103,539,2020-03-05,425,3,China
+7465,Tianjin,China,39.3054,117.323,136,2020-03-05,128,3,China
+7466,Tibet,China,31.6927,88.0924,1,2020-03-05,1,0,China
+7467,Xinjiang,China,41.1129,85.2401,76,2020-03-05,70,3,China
+7468,Yunnan,China,24.974,101.487,174,2020-03-05,169,2,China
+7469,Zhejiang,China,29.1832,120.0934,1215,2020-03-05,1124,1,China
+7470,Thailand,Thailand,15.0,101.0,47,2020-03-05,31,1,Thailand
+7471,Japan,Japan,36.0,138.0,360,2020-03-05,43,6,Japan
+7472,South Korea,South Korea,36.0,128.0,6088,2020-03-05,41,35,South Korea
+7473,Taiwan,Taiwan,23.7,121.0,44,2020-03-05,12,1,Taiwan
+7474,"King County, WA",United States of America,47.6062,-122.3321,51,2020-03-05,1,10,United States of America
+7475,"Cook County, IL",United States of America,41.7377,-87.6976,5,2020-03-05,2,0,United States of America
+7476,"Tempe, AZ",United States of America,33.4255,-111.94,1,2020-03-05,1,0,United States of America
+7477,Macau,Macau,22.1667,113.55,10,2020-03-05,9,0,Macau
+7478,Hong Kong,Hong Kong,22.3,114.2,105,2020-03-05,43,2,Hong Kong
+7479,Singapore,Singapore,1.2833,103.8333,117,2020-03-05,78,0,Singapore
+7480,Vietnam,Vietnam,16.0,108.0,16,2020-03-05,16,0,Vietnam
+7481,France,France,47.0,2.0,377,2020-03-05,12,6,France
+7482,Nepal,Nepal,28.1667,84.25,1,2020-03-05,1,0,Nepal
+7483,Malaysia,Malaysia,2.5,112.5,50,2020-03-05,22,0,Malaysia
+7484,"Toronto, ON",Canada,43.6532,-79.3832,21,2020-03-05,2,0,Canada
+7485,British Columbia,Canada,49.2827,-123.1207,13,2020-03-05,3,0,Canada
+7486,"Los Angeles, CA",United States of America,34.0522,-118.2437,11,2020-03-05,0,0,United States of America
+7487,New South Wales,Australia,-33.8688,151.2093,22,2020-03-05,4,1,Australia
+7488,Victoria,Australia,-37.8136,144.9631,10,2020-03-05,7,0,Australia
+7489,Queensland,Australia,-28.0167,153.4,13,2020-03-05,8,0,Australia
+7490,Cambodia,Cambodia,11.55,104.9167,1,2020-03-05,1,0,Cambodia
+7491,Sri Lanka,Sri Lanka,7.0,81.0,1,2020-03-05,1,0,Sri Lanka
+7492,Germany,Germany,51.0,9.0,482,2020-03-05,16,0,Germany
+7493,Finland,Finland,64.0,26.0,12,2020-03-05,1,0,Finland
+7494,United Arab Emirates,United Arab Emirates,24.0,54.0,29,2020-03-05,5,0,United Arab Emirates
+7495,Philippines,Philippines,13.0,122.0,3,2020-03-05,1,1,Philippines
+7496,India,India,21.0,78.0,30,2020-03-05,3,0,India
+7497,"London, ON",Canada,42.9849,-81.2453,1,2020-03-05,1,0,Canada
+7498,Italy,Italy,43.0,12.0,3858,2020-03-05,414,148,Italy
+7499,UK,UK,55.0,-3.0,115,2020-03-05,8,1,UK
+7500,Russia,Russia,60.0,90.0,4,2020-03-05,2,0,Russia
+7501,Sweden,Sweden,63.0,16.0,94,2020-03-05,0,0,Sweden
+7502,"Santa Clara, CA",United States of America,37.3541,-121.9552,20,2020-03-05,1,0,United States of America
+7503,Spain,Spain,40.0,-4.0,259,2020-03-05,2,3,Spain
+7504,South Australia,Australia,-34.9285,138.6007,5,2020-03-05,2,0,Australia
+7505,"Boston, MA",United States of America,42.3601,-71.0589,1,2020-03-05,1,0,United States of America
+7506,"San Benito, CA",United States of America,36.5761,-120.9876,2,2020-03-05,0,0,United States of America
+7507,Belgium,Belgium,50.8333,4.0,50,2020-03-05,1,0,Belgium
+7508,"Madison, WI",United States of America,43.0731,-89.4012,1,2020-03-05,1,0,United States of America
+7509,Diamond Princess cruise ship,Others,35.4437,139.638,706,2020-03-05,10,6,Others
+7510,"San Diego County, CA",United States of America,32.7157,-117.1611,3,2020-03-05,1,0,United States of America
+7511,"San Antonio, TX",United States of America,29.4241,-98.4936,1,2020-03-05,0,0,United States of America
+7512,Egypt,Egypt,26.0,30.0,3,2020-03-05,1,0,Egypt
+7513,Iran,Iran,32.0,53.0,3513,2020-03-05,739,107,Iran
+7514,"Omaha, NE (From Diamond Princess)",United States of America,41.2545,-95.9758,0,2020-03-05,0,0,United States of America
+7515,"Travis, CA (From Diamond Princess)",United States of America,38.2721,-121.9399,0,2020-03-05,0,0,United States of America
+7516,From Diamond Princess,Australia,35.4437,139.638,0,2020-03-05,0,0,Australia
+7517,"Lackland, TX (From Diamond Princess)",United States of America,29.3829,-98.6134,0,2020-03-05,0,0,United States of America
+7518,Lebanon,Lebanon,33.8547,35.8623,16,2020-03-05,1,0,Lebanon
+7519,"Humboldt County, CA",United States of America,40.745,-123.8695,1,2020-03-05,0,0,United States of America
+7520,"Sacramento County, CA",United States of America,38.4747,-121.3542,2,2020-03-05,0,0,United States of America
+7521,Iraq,Iraq,33.0,44.0,35,2020-03-05,0,2,Iraq
+7522,Unassigned Location (From Diamond Princess),United States of America,35.4437,139.638,45,2020-03-05,0,0,United States of America
+7523,Oman,Oman,21.0,57.0,16,2020-03-05,2,0,Oman
+7524,Afghanistan,Afghanistan,33.0,65.0,1,2020-03-05,0,0,Afghanistan
+7525,Bahrain,Bahrain,26.0275,50.55,55,2020-03-05,0,0,Bahrain
+7526,Kuwait,Kuwait,29.5,47.75,58,2020-03-05,0,0,Kuwait
+7527,Algeria,Algeria,28.0339,1.6596,12,2020-03-05,0,0,Algeria
+7528,Croatia,Croatia,45.1,15.2,10,2020-03-05,0,0,Croatia
+7529,Switzerland,Switzerland,46.8182,8.2275,114,2020-03-05,3,1,Switzerland
+7530,Austria,Austria,47.5162,14.5501,41,2020-03-05,0,0,Austria
+7531,Israel,Israel,31.0,35.0,16,2020-03-05,1,0,Israel
+7532,Pakistan,Pakistan,30.3753,69.3451,5,2020-03-05,0,0,Pakistan
+7533,Brazil,Brazil,-14.235,-51.9253,4,2020-03-05,0,0,Brazil
+7534,Georgia,Georgia,42.3154,43.3569,4,2020-03-05,0,0,Georgia
+7535,Greece,Greece,39.0742,21.8243,31,2020-03-05,0,0,Greece
+7536,North Macedonia,North Macedonia,41.6086,21.7453,1,2020-03-05,0,0,North Macedonia
+7537,Norway,Norway,60.472,8.4689,87,2020-03-05,0,0,Norway
+7538,Romania,Romania,45.9432,24.9668,6,2020-03-05,1,0,Romania
+7539,Denmark,Denmark,56.2639,9.5018,10,2020-03-05,0,0,Denmark
+7540,Estonia,Estonia,58.5953,25.0136,3,2020-03-05,0,0,Estonia
+7541,Netherlands,Netherlands,52.1326,5.2913,82,2020-03-05,0,0,Netherlands
+7542,San Marino,San Marino,43.9424,12.4578,21,2020-03-05,0,1,San Marino
+7543,Belarus,Belarus,53.7098,27.9534,6,2020-03-05,0,0,Belarus
+7544," Montreal, QC",Canada,45.5017,-73.5673,2,2020-03-05,0,0,Canada
+7545,Iceland,Iceland,64.9631,-19.0208,34,2020-03-05,0,0,Iceland
+7546,Lithuania,Lithuania,55.1694,23.8813,1,2020-03-05,0,0,Lithuania
+7547,Mexico,Mexico,23.6345,-102.5528,5,2020-03-05,1,0,Mexico
+7548,New Zealand,New Zealand,-40.9006,174.886,3,2020-03-05,0,0,New Zealand
+7549,Nigeria,Nigeria,9.082,8.6753,1,2020-03-05,0,0,Nigeria
+7550,Western Australia,Australia,-31.9505,115.8605,3,2020-03-05,0,1,Australia
+7551,Ireland,Ireland,53.1424,-7.6921,6,2020-03-05,0,0,Ireland
+7552,Luxembourg,Luxembourg,49.8153,6.1296,1,2020-03-05,0,0,Luxembourg
+7553,Monaco,Monaco,43.7333,7.4167,1,2020-03-05,0,0,Monaco
+7554,Qatar,Qatar,25.3548,51.1839,8,2020-03-05,0,0,Qatar
+7555,"Snohomish County, WA",United States of America,48.033,-121.8339,18,2020-03-05,0,1,United States of America
+7556,Ecuador,Ecuador,-1.8312,-78.1834,13,2020-03-05,0,0,Ecuador
+7557,Azerbaijan,Azerbaijan,40.1431,47.5769,6,2020-03-05,0,0,Azerbaijan
+7558,Czech Republic,Czech Republic,49.8175,15.473,12,2020-03-05,0,0,Czech Republic
+7559,Armenia,Armenia,40.0691,45.0382,1,2020-03-05,0,0,Armenia
+7560,Dominican Republic,Dominican Republic,18.7357,-70.1627,1,2020-03-05,0,0,Dominican Republic
+7561,"Providence, RI",United States of America,41.824,-71.4128,2,2020-03-05,0,0,United States of America
+7562,Indonesia,Indonesia,-0.7893,113.9213,2,2020-03-05,0,0,Indonesia
+7563,Portugal,Portugal,39.3999,-8.2245,8,2020-03-05,0,0,Portugal
+7564,Andorra,Andorra,42.5063,1.5218,1,2020-03-05,0,0,Andorra
+7565,Tasmania,Australia,-41.4545,145.9707,1,2020-03-05,0,0,Australia
+7566,Latvia,Latvia,56.8796,24.6032,1,2020-03-05,0,0,Latvia
+7567,Morocco,Morocco,31.7917,-7.0926,2,2020-03-05,0,0,Morocco
+7568,Saudi Arabia,Saudi Arabia,24.0,45.0,5,2020-03-05,0,0,Saudi Arabia
+7569,Senegal,Senegal,14.4974,-14.4524,4,2020-03-05,0,0,Senegal
+7570,"Grafton County, NH",United States of America,43.9088,-71.82600000000002,2,2020-03-05,0,0,United States of America
+7571,"Hillsborough, FL",United States of America,27.9904,-82.3018,2,2020-03-05,0,0,United States of America
+7572,"New York City, NY",United States of America,40.7128,-74.006,4,2020-03-05,0,0,United States of America
+7573,"Placer County, CA",United States of America,39.0916,-120.8039,2,2020-03-05,0,1,United States of America
+7574,"San Mateo, CA",United States of America,37.563,-122.3255,2,2020-03-05,0,0,United States of America
+7575,"Sarasota, FL",United States of America,27.3364,-82.5307,1,2020-03-05,0,0,United States of America
+7576,"Sonoma County, CA",United States of America,38.578,-122.9888,1,2020-03-05,0,0,United States of America
+7577,"Umatilla, OR",United States of America,45.775,-118.7606,1,2020-03-05,0,0,United States of America
+7578,"Fulton County, GA",United States of America,33.8034,-84.3963,2,2020-03-05,0,0,United States of America
+7579,"Washington County, OR",United States of America,45.547,-123.1386,2,2020-03-05,0,0,United States of America
+7580,Argentina,Argentina,-38.4161,-63.6167,1,2020-03-05,0,0,Argentina
+7581,Chile,Chile,-35.6751,-71.543,4,2020-03-05,0,0,Chile
+7582,Jordan,Jordan,31.24,36.51,1,2020-03-05,0,0,Jordan
+7583," Norfolk County, MA",United States of America,42.1767,-71.1449,1,2020-03-05,0,0,United States of America
+7584,"Berkeley, CA",United States of America,37.8715,-122.273,1,2020-03-05,0,0,United States of America
+7585,"Maricopa County, AZ",United States of America,33.2918,-112.4291,1,2020-03-05,0,0,United States of America
+7586,"Wake County, NC",United States of America,35.8032,-78.5661,1,2020-03-05,0,0,United States of America
+7587,"Westchester County, NY",United States of America,41.122,-73.7949,18,2020-03-05,0,0,United States of America
+7588,Ukraine,Ukraine,48.3794,31.1656,1,2020-03-05,0,0,Ukraine
+7589,Saint Barthelemy,Saint Barthelemy,17.9,-62.8333,3,2020-03-05,0,0,Saint Barthelemy
+7590,"Orange County, CA",United States of America,33.7879,-117.8531,3,2020-03-05,0,0,United States of America
+7591,Hungary,Hungary,47.1625,19.5033,2,2020-03-05,0,0,Hungary
+7592,Northern Territory,Australia,-12.4634,130.8456,1,2020-03-05,0,0,Australia
+7593,Faroe Islands,Faroe Islands,61.8926,-6.9118,1,2020-03-05,0,0,Faroe Islands
+7594,Gibraltar,Gibraltar,36.1408,-5.3536,1,2020-03-05,0,0,Gibraltar
+7595,Liechtenstein,Liechtenstein,47.14,9.55,1,2020-03-05,0,0,Liechtenstein
+7596,Poland,Poland,51.9194,19.1451,1,2020-03-05,0,0,Poland
+7597,Tunisia,Tunisia,34.0,9.0,1,2020-03-05,0,0,Tunisia
+7598,"Contra Costa County, CA",United States of America,37.8534,-121.9018,1,2020-03-05,0,0,United States of America
+7599,Palestine,Palestine,31.9522,35.2332,4,2020-03-05,0,0,Palestine
+7600,Bosnia and Herzegovina,Bosnia and Herzegovina,43.9159,17.6791,2,2020-03-05,0,0,Bosnia and Herzegovina
+7601,Slovenia,Slovenia,46.1512,14.9955,2,2020-03-05,0,0,Slovenia
+7602,"Bergen County, NJ",United States of America,40.9263,-74.077,2,2020-03-05,0,0,United States of America
+7603,"Harris County, TX",United States of America,29.7752,-95.3103,2,2020-03-05,0,0,United States of America
+7604,"San Francisco County, CA",United States of America,37.7749,-122.4194,2,2020-03-05,0,0,United States of America
+7605,South Africa,South Africa,-30.5595,22.9375,1,2020-03-05,0,0,South Africa
+7606,"Clark County, NV",United States of America,36.0796,-115.094,1,2020-03-05,0,0,United States of America
+7607,"Fort Bend County, TX",United States of America,29.5693,-95.8143,1,2020-03-05,0,0,United States of America
+7608,"Grant County, WA",United States of America,47.1981,-119.3732,1,2020-03-05,0,0,United States of America
+7609,"Queens County, NY",United States of America,40.7282,-73.7949,1,2020-03-05,0,0,United States of America
+7610,"Santa Rosa County, FL",United States of America,30.769000000000002,-86.9824,1,2020-03-05,0,0,United States of America
+7611,"Williamson County, TN",United States of America,35.9179,-86.8622,1,2020-03-05,0,0,United States of America

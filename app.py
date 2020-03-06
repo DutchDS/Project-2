@@ -11,6 +11,7 @@ from sqlalchemy import create_engine
 from flask_sqlalchemy import SQLAlchemy
 import decimal
 import flask.json
+import load_db
 
 app = Flask(__name__)
 
@@ -71,6 +72,53 @@ def world():
         counter = i[0]
 
     return render_template("world.html", world_facts=result_set, world_sum=result_sum, world_max_date=max_date, world_counter=counter)
+
+@app.route("/USA")
+def USA():
+    result_set = []
+    
+    query_str = open('static/sql/USA_top_10.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
+
+    result_sum = []
+
+    query_str = open('static/sql/USA_summary.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    result_sum = engine.execute(query_text)
+
+    max_date = []
+
+    query_str = open('static/sql/world_max_date.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    max_date = engine.execute(query_text)
+
+    counter = 0
+
+    query_str = open('static/sql/world_days.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+
+    result_count = engine.execute(query_text)
+
+    for i in result_count:
+        counter = i[0]
+
+    return render_template("USA.html", world_facts=result_set, world_sum=result_sum, world_max_date=max_date, world_counter=counter)
 
 @app.route("/china")
 def china(): 
@@ -155,5 +203,37 @@ def bar_chart_world():
 
     return jsonify(all_results)
 
+@app.route("/api/bar_USA")
+def bar_chart_USA():
+    
+    result_set = []
+    
+    query_str = open('static/sql/USA_bar.sql')
+    query_text = ""
+    
+    for text in query_str:
+        query_text = query_text + text
+        
+    result_set = engine.execute(query_text)
+    
+    all_results = []
+    for date, state, conf_count, cured_count, dead_count in result_set:
+        results_dict = {}
+        results_dict["date"] = date
+        results_dict["state"] = state
+        results_dict["conf_count"] = conf_count
+        results_dict["cured_count"] = cured_count
+        results_dict["dead_count"] = dead_count
+        all_results.append(results_dict)
+
+    return jsonify(all_results)
+
+
+@app.route("/load")
+def load():
+
+    # Run the scrape function
+    load_db.load_new()
+    return "Success"
 if __name__ == "__main__":
     app.run(debug=True)
