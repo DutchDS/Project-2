@@ -1,0 +1,851 @@
+{
+    "status": "ok",
+    "totalResults": 65,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Billions Approved to Fight Coronavirus",
+            "description": "This Week: Friday afternoon President Trump signed a bipartisan, $8.3 billion spending bill to fight the recent coronavirus outbreak, providing funds to federal agencies and local governments. FOX's Chief Congressional Correspondent, Chad Pergram discusses wh\u2026",
+            "url": "https://radio.foxnews.com/2020/03/06/billions-approved-to-fight-coronavirus/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2019/12/COVER_FROM_WASHINGTON.jpg",
+            "publishedAt": "2020-03-06T22:15:02Z",
+            "content": "This Week:\u00a0\r\nFriday afternoon President Trump signed a bipartisan, $8.3 billion spending bill to fight the recent coronavirus outbreak, providing funds to federal agencies and local governments. FOX's Chief Congressional Correspondent, Chad Pergram discusses \u2026 [+1674 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "President Trump surveys tornado damage in Tennessee, tours CDC in Atlanta",
+            "description": "Before leaving Washington, President Trump signed an $8.3 billion funding bill for the effort against coronavirus; chief White House correspondent John Roberts reports.",
+            "url": "http://video.foxnews.com/v/6139193399001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f7d8cf5-4f13-49a3-a7ac-04462225c3a8/1f785f30-f0e3-4fe3-8f78-a6b89515cbe6/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T23:50:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "More coronavirus cases confirmed in Texas, bringing total to 5",
+            "description": "There were four new cases of coronavirus in Texas confirmed on March 5.",
+            "url": "https://www.foxnews.com/health/coronavirus-cases-texas-more",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/ap-presser-texas-coronavirus.jpg",
+            "publishedAt": "2020-03-06T16:24:31Z",
+            "content": "Health officials in Texas have confirmed four new cases of coronavirus in the state, bringing the total number of infections to five.\r\nThe Texas Department of State Health Services (DSHS) announced on Thursday that all new cases of COVID-19\u00a0were reported in H\u2026 [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Ultra music festival postponed to 2021 amid coronavirus fears",
+            "description": "Coronavirus fears prompted the cancellation of this year's Ultra music festival in Miami.",
+            "url": "https://www.foxnews.com/entertainment/miami-ultra-music-festival-postponed-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/ultra-music-festival.jpg",
+            "publishedAt": "2020-03-06T15:41:21Z",
+            "content": "Miami's three-day Ultra music festival has officially been postponed to next year due to fears surrounding the coronavirus, festival organizers and city officials announced Friday.\r\nThe festival that draws thousands of people from around the world was set to \u2026 [+2602 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandra Deabler",
+            "title": "Indiana has first confirmed case of coronavirus, governor declares public health emergency",
+            "description": "Indiana health officials confirmed the first positive case of coronavirus in the state Friday morning.",
+            "url": "https://www.foxnews.com/health/indiana-first-confirmed-case-coronavirus-public-health-emergency",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2c6a72b-14e7-4680-b773-1c77ae7b6fb4/f9f78686-104c-434c-876c-828886e468e1/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T17:05:01Z",
+            "content": "Indiana health officials confirmed the first positive case of coronavirus in the state Friday morning. Gov.\u00a0Eric Holcomb declared a public health emergency\u00a0in response.\r\nThe patient is an adult male in Indianapolis who recently traveled to Boston.\r\nCLICK HERE\u2026 [+1252 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tammy Bruce",
+            "title": "Tammy Bruce: Coronavirus -- Trump's rivals, legacy media seem to see it as a crisis they don't want to waste",
+            "description": "Coronavirus perspective is as much in short supply as face masks right now...",
+            "url": "https://www.foxnews.com/opinion/coronavirus-trump-rivals-media-crisis-tammy-bruce",
+            "urlToImage": "https://media.foxbusiness.com/BrightCove/854081161001/202003/260/854081161001_6138825323001_6138827831001-vs.jpg",
+            "publishedAt": "2020-03-06T19:15:33Z",
+            "content": "Editor's note: This column first appeared in the Washington Times.\r\nThe coronavirus issue is obviously important for many reasons. None of us want to get sick with any illness, let alone a respiratory virus that disrupts our lives and can even pose a threat t\u2026 [+1270 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chad Pergram",
+            "title": "Capitol Hill braces for coronavirus contingencies, politicians consider world without handshakes",
+            "description": "Coronavirus makes you worry about the little things on Capitol Hill.",
+            "url": "https://www.foxnews.com/politics/capitol-hill-braces-for-coronavirus-contingencies-politicians-consider-world-without-handshakes",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6464262a-5771-4edd-83e3-9c6f0a68874a/55678e57-8794-410f-aca4-319b5c0f822e/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T06:35:15Z",
+            "content": "Coronavirus makes you worry about the little things on Capitol Hill.\r\nThe elevator button in the Senate basement. That door handle at the House Carriage Entrance. The fork dispenser in the Longworth cafeteria.\r\nTRUMP TO SIGN CORONAVIRUS BILL\r\nWhat about those\u2026 [+6866 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Tokyo organizers downsize arrival ceremony for Olympic torch",
+            "description": "Tokyo organizers are downsizing the arrival ceremony for the Olympic torch because of the spreading coronavirus.",
+            "url": "https://www.foxnews.com/sports/tokyo-organizers-downsize-arrival-ceremony-for-olympic-torch",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/21d01763-Panathinean.jpg",
+            "publishedAt": "2020-03-06T11:15:45Z",
+            "content": "Tokyo organizers are downsizing the arrival ceremony for the Olympic torch because of the spreading coronavirus.\r\nOrganizing committee president Yoshiro Mori said Friday that 140 children will not be sent to Greece to give the flame a send off on March 19, a \u2026 [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandra Deabler",
+            "title": "New York coronavirus cases increase to 33",
+            "description": "Gov. Cuomo addressed the increase in cases, explaining the state is testing more individuals.",
+            "url": "https://www.foxnews.com/health/new-york-coronavirus-cases-increase-to-33",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/cuomo.jpg",
+            "publishedAt": "2020-03-06T18:51:45Z",
+            "content": "New York\u00a0Governor Andrew Cuomo has announced a total of 33 positive coronavirus cases in New York state. Previously, the state had confirmed 22 cases; Cuomo confirmed an additional 11 at a press release on Friday.\r\nCLICK HERE FOR FOX NEWS' CONTINUING CORONAVI\u2026 [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "Maryland governor confirms 3 coronavirus cases",
+            "description": "Maryland Gov. Larry Hogan announced the confirmation of three cases of novel coronavirus, also known as COVID-19, on Thursday.",
+            "url": "https://www.foxnews.com/us/maryland-confirms-3-coronavirus-cases-as-us-death-toll-climbs-to-12",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20058793356405.jpg",
+            "publishedAt": "2020-03-06T02:24:02Z",
+            "content": "Maryland Gov. Larry Hogan announced the confirmation of three cases of the novel coronavirus, also known as COVID-19, on Thursday.\r\n\"The state\u2019s Public Health Laboratory in Baltimore has confirmed the first three positive cases of novel coronavirus in Marylan\u2026 [+1200 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "First coronavirus case confirmed at Vatican: report",
+            "description": "A patient in its health services tested positive for the viral illness.",
+            "url": "https://www.foxnews.com/health/first-coronavirus-case-confirmed-at-vatican-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Vatican-coronavirus-Reuters.jpg",
+            "publishedAt": "2020-03-06T13:16:26Z",
+            "content": "The Vatican confirmed its first case of the coronavirus on Friday, after a patient in its health services tested positive for the viral illness.\r\nSpokesman Matteo Bruni said that the person tested positive for COVID-19 on Thursday, and that non-emergency medi\u2026 [+985 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Coronavirus: Everything you need to know",
+            "description": "As coronavirus continues to spread across the globe, here is everything you need to know about the deadly virus.",
+            "url": "https://www.foxnews.com/health/coronavirus-everything-you-need-to-know",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/112b90b4-ceb6-455b-8237-5ec293846a44/d3cb8828-b8d1-4c55-a0a1-6a15fd804b04/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T22:16:40Z",
+            "content": "As coronavirus continues to spread across the globe, here is everything you need to know about the deadly virus.\r\nWhat is coronavirus?\r\nCoronaviruses are a family of viruses named after their appearance, a crown, said Dr. Mark Rupp, an infectious disease expe\u2026 [+58339 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "SXSW cancelled due to coronavirus concerns",
+            "description": "City officials from Austin, Texas, announced the cancellation of the South by Southwest (SXSW) media and music festival on Friday, for fear that the close contact of so many might hasten the spread of the novel coronavirus.",
+            "url": "https://www.foxnews.com/us/sxsw-cancelled-due-to-coronavirus-concerns",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/SXSW-Logo.jpg",
+            "publishedAt": "2020-03-06T23:22:52Z",
+            "content": "City officials from Austin, Texas, announced the cancellation of the South by Southwest\u00a0(SXSW) media and music festival on Friday, for fear that the close contact of so many might hasten the spread of the novel coronavirus.\r\nMayor Steve Adler said, after cons\u2026 [+2034 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "No new coronavirus cases reported in China's Hubei province in 24 hours, excluding Wuhan",
+            "description": "Zero new cases of the coronavirus were reported in China\u2019s Hubei province in 24 hours as of Thursday",
+            "url": "https://www.foxnews.com/health/coronavirus-cases-reported-china-hubei-excluding-wuhan",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20061571093261.jpg",
+            "publishedAt": "2020-03-06T15:01:34Z",
+            "content": "For the first time since the outbreak began, zero new cases of the coronavirus were reported in China\u2019s Hubei province in 24 hours as of Thursday \u2013 excluding the city of Wuhan.\r\nChinese health authorities reported on Friday that while there were 143 new COVID\u2026 [+1639 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandra Deabler",
+            "title": "EPA releases list of approved disinfectants to use against coronavirus",
+            "description": "As coronavirus continues to expand throughout the U.S., keeping your home and surfaces clean is crucial in preventing its spread.",
+            "url": "https://www.foxnews.com/health/epa-approved-disinfectants-kill-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/iStock-471519827.jpg",
+            "publishedAt": "2020-03-06T15:51:30Z",
+            "content": "The Environmental Protection Agency (EPA) has released a list of disinfectants that are \u201cqualified for use against SARS-CoV-2, the novel coronavirus that causes COVID-19,\u201d a press release reads.\r\nCLICK FOR COMPLETE CORONAVIRUS COVERAGE\u00a0\r\nAs coronavirus contin\u2026 [+1304 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Dr. Drew Pinsky's message to media: Stop fanning the flames of panic on coronavirus",
+            "description": "The media is fanning the flames of panic surrounding the coronavirus outbreak, Dr. Drew Pinsky said Friday.",
+            "url": "https://www.foxnews.com/media/message-to-media-stop-fanning-the-flames-of-panic-on-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/DREW-PINSKEY.jpg",
+            "publishedAt": "2020-03-06T16:17:30Z",
+            "content": "The media is fanning the flames of panic surrounding the coronavirus\u00a0outbreak, Dr. Drew Pinsky said Friday.\r\nIn an interview on \"Fox &amp; Friends\" with hosts Jedediah Bila, Pete Hegseth, and Steve Doocy, Pinksy said that the panic surrounding the deadly viru\u2026 [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Surgeon general say risk of coronavirus remains low, most people will not need hospitalization",
+            "description": "The risk of contracting coronavirus remains low for most Americans, U.S. Surgeon General Dr. Jerome Adams reassured Friday.",
+            "url": "https://www.foxnews.com/media/risk-of-coronavirus-remains-low-most-people-will-not-need-hospitalization",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/JEROME-ADAMS.jpg",
+            "publishedAt": "2020-03-06T19:13:50Z",
+            "content": "The risk of contracting coronavirus remains low for most Americans, U.S. Surgeon General Dr. Jerome Adams reassured Friday.\r\nIn an interview on \"America's Newsroom\" with host Laura Ingle, Adams said that the administration wants the public to know the risk of\u2026 [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "California National Guard delivers coronavirus test kits to cruise passengers stranded off coast",
+            "description": "Coronavirus test results were expected Friday for some passengers and crew aboard a cruise ship held off the California coast.",
+            "url": "https://www.foxnews.com/us/california-national-guard-coronavirus-test-kits-cruise",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20066017350990.jpg",
+            "publishedAt": "2020-03-06T12:02:22Z",
+            "content": "Coronavirus test results were expected Friday for some passengers and crew aboard a cruise ship held off the California coast.\r\nThe Grand Princess lay at anchor near San Francisco on Thursday after a traveler from a previous voyage died of the disease and at \u2026 [+7920 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "New York Post",
+            "title": "Coronavirus: Woman, 88, pictured chatting with quarantined husband of 60 years through window",
+            "description": "Heartbreaking photos captured an 88-year-old woman separated from her 89-year-old husband, who is in isolation at a coronavirus-hit nursing home in Washington state.",
+            "url": "https://www.foxnews.com/us/coronavirus-woman-quarantined-husband-window-care-home",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Dorothy-Campbell-1-Reuters.jpg",
+            "publishedAt": "2020-03-06T14:11:59Z",
+            "content": "Heartbreaking photos captured an 88-year-old woman separated from her 89-year-old husband, who is in isolation at a coronavirus-hit nursing home in Washington state.\r\nDorothy Campbell on Thursday visited Gene, her husband of more than 60 years, at the Life Ca\u2026 [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Reese Witherspoon feels 'heavy-hearted' over coronavirus, Nashville tornadoes: 'This week has been a lot'",
+            "description": "Reese Witherspoon is overcome with emotions due to the recent natural disaster in her home state and the ever-increasing risks of the coronavirus, among other things.",
+            "url": "https://www.foxnews.com/entertainment/reese-witherspoon-feels-heavy-hearted-over-coronavirus-nashville-tornadoes-this-week-has-been-a-lot",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/reese-witherspoon.jpg",
+            "publishedAt": "2020-03-06T15:10:25Z",
+            "content": "Reese Witherspoon is overcome with emotions due to the recent natural disaster in her home state and the widespread panic over the coronavirus, among other things.\r\nThe \"Big Little Lies\" actress took to her Instagram this week to let her millions of fans know\u2026 [+2390 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Trump says coronavirus gives him reason not to shake hands, adds he won't shun supporters' greetings",
+            "description": "President Trump made light of his long-established reputation as a \"germaphobe\" Thursday, as medical experts warn against casual person-to-person contact due to the coronavirus outbreak.",
+            "url": "https://www.foxnews.com/politics/trump-coronavirus-reason-not-to-shake-hands",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Trump-germaphobe.jpg",
+            "publishedAt": "2020-03-06T01:27:44Z",
+            "content": "President Trump made light of his long-established reputation as a \"germaphobe\" Thursday, as medical experts warn against casual person-to-person contact due to the coronavirus outbreak.\r\nDuring Thursday's Fox News Town Hall in Scranton, Pa., \"Special Report\"\u2026 [+1939 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Dr. Marc Siegel on reported coronavirus mutation: 'I think we can get a vaccine to fit all of these strains'",
+            "description": "Fox News medical correspondent Dr. Marc Siegel reacted Thursday to the latest developments in the coronavirus outbreak, including reports that the virus has mutated at least once.",
+            "url": "https://www.foxnews.com/media/dr-marc-siegel-coronavirus-mutation-vaccine",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/06/Carlson-Siegel_FOX.jpg",
+            "publishedAt": "2020-03-06T03:17:58Z",
+            "content": "Fox News medical correspondent Dr. Marc Siegel reacted Thursday to the latest developments in the coronavirus outbreak, including reports that the virus has mutated at least once.\r\n\"We're seeing at least two different strains of this coronavirus. That in and \u2026 [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Coronavirus outbreak forces NCAA Division III Tournament games at Johns Hopkins to be played without fans",
+            "description": "Three confirmed coronavirus cases in Maryland put Johns Hopkins University on alert Thursday, a day before two NCAA Division III Tournament games were set to be played.",
+            "url": "https://www.foxnews.com/sports/coronavirus-outbreak-ncaa-division-iii-tournament-without-fans",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/NCAA-court-2-1.jpg",
+            "publishedAt": "2020-03-06T19:03:05Z",
+            "content": "Three confirmed coronavirus cases in Maryland put Johns Hopkins University on alert Thursday,\u00a0a day before two NCAA Division III Tournament games were scheduled.\r\nThe school said that the games between Johns Hopkins and Penn State-Harrisburg, and Worcester Po\u2026 [+2059 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Coronavirus concern: How churches are adapting services to combat the spread",
+            "description": "Places of worship across the United States are taking measures in response to the coronavirus outbreak, including deviating from traditional religious practices to prevent infections.",
+            "url": "https://www.foxnews.com/faith-values/coronavirus-churches-are-adapting-services-to-combat-the-spread",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20065020009450.jpg",
+            "publishedAt": "2020-03-06T00:50:37Z",
+            "content": "Places of worship across the United States are taking measures in response to the coronavirus outbreak, including deviating from traditional religious practices to prevent infections.\r\nArchbishop Paul Etienne of Seattle, where there have been more than 30 con\u2026 [+2931 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Vice President Pence holds coronavirus briefing on White House efforts",
+            "description": "Vice President Mike Pence and members of the new coronavirus task force will give a briefing Friday on efforts being made to combat the outbreak.",
+            "url": "https://www.foxnews.com/politics/pence-coronavirus-white-house-efforts",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20066123151580.jpg",
+            "publishedAt": "2020-03-06T21:54:13Z",
+            "content": "Vice President Mike Pence and members of the new coronavirus task force are expected to give a briefing Friday on efforts being made to combat the outbreak.\r\nPence, the head of the task force, will travel to Florida Saturday to meet with cruise ship operators\u2026 [+952 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Dom Calicchio",
+            "title": "Trump to sign $8.3B coronavirus funding bill Friday, Pence says",
+            "description": "President Trump on Friday will sign newly approved legislation allocating more than $8 billion in emergency funding to combat the spread of coronavirus.",
+            "url": "https://www.foxnews.com/politics/trump-to-sign-8-3b-coronavirus-funding-bill-friday-pence-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Trump-Schumer-would-be-in-jail-if-he-was-a-Republican.jpg",
+            "publishedAt": "2020-03-06T05:00:46Z",
+            "content": "President Trump on Friday will sign newly approved legislation allocating more than $8 billion in emergency funding to combat the spread of coronavirus.\r\nThe disclosure came Thursday from Vice President Mike Pence during his visit to Washington state, which h\u2026 [+3791 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Dom Calicchio",
+            "title": "Trump to sign $8.3B coronavirus funding bill Friday during visit to CDC in Atlanta, Pence says",
+            "description": "President Trump on Friday will sign newly approved legislation allocating more than $8 billion in emergency funding to combat the spread of coronavirus.",
+            "url": "https://www.foxnews.com/politics/trump-to-sign-8-3b-coronavirus-funding-bill-friday-during-visit-to-cdc-in-atlanta-pence-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Trump-Schumer-would-be-in-jail-if-he-was-a-Republican.jpg",
+            "publishedAt": "2020-03-06T05:00:46Z",
+            "content": "President Trump on Friday will sign newly approved legislation allocating more than $8 billion in emergency funding to combat the spread of coronavirus.\r\nThe disclosure came Thursday from Vice President Mike Pence during his visit to Washington state, which h\u2026 [+3998 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Washington care center hospitalizes 15 residents amid coronavirus deaths, outbreak",
+            "description": "\"We are 100 percent committed to the health and welfare of your loved ones.\"",
+            "url": "https://www.foxnews.com/health/washington-care-center-hospitalizes-residents",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20063791339873.jpg",
+            "publishedAt": "2020-03-06T20:25:00Z",
+            "content": "Officials in Washington state have confirmed that 15 residents of the Life Care Center in Kirkland have been hospitalized amid the ongoing coronavirus outbreak.\r\nOn Friday, Gov. Jay Inslee, Congressman Derek Kilmer, Congresswoman Suzan DelBene and King County\u2026 [+2677 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Iran might use 'force' to stop travel as coronavirus spreads",
+            "description": "Authorities in Iran warned Friday that they may use \"force\" to limit travel throughout the country after announcing updated figures from the new coronavirus that has continued to spread inside the Islamic Republic.",
+            "url": "https://www.foxnews.com/world/iran-might-use-force-to-stop-travel-as-coronavirus-spreads",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20066480187699.jpg",
+            "publishedAt": "2020-03-06T21:26:55Z",
+            "content": "Authorities in Iran\u00a0warned Friday that they\u00a0may use \"force\" to limit travel throughout the country after announcing updated figures from the new coronavirus that has continued to spread inside the Islamic Republic.\r\nHealth Ministry spokesman Kianoush Jahanpou\u2026 [+1125 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler Olson",
+            "title": "Trump cancels trip to CDC amid coronavirus outbreak",
+            "description": "President Trump canceled his planned visit to the CDC in Atlanta Friday, with a White House official saying that the president didn't want to interfere with the agency's work.",
+            "url": "https://www.foxnews.com/politics/trump-cancels-trip-to-cdc-amid-coronavirus-outbreak",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a99eb96-5393-4712-bf17-c27f043f3932/2577d9eb-ab3a-4f7b-91de-d8e08d8300fd/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T13:38:32Z",
+            "content": "President Trump canceled his planned Friday trip to the Centers for Disease Control and Prevention (CDC) in Atlanta, with the\u00a0White House\u00a0saying that the president does not want to interfere with the agency's work to fight the novel coronavirus.\r\nTrump was pl\u2026 [+1836 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ashraf Khalil",
+            "title": "Washington, DC, gets its first coronavirus pop-up shop",
+            "description": "Adilisha Patrom sells masks, sanitizers, and \"prevention kits\" containing a variety of such products out of her Washington, D.C., pop-up shop.",
+            "url": "https://www.foxnews.com/health/washington-dc-gets-its-first-coronavirus-pop-up-shop",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/CoronavirusPopUpAP-PhotoNathan-Ellgren.jpg",
+            "publishedAt": "2020-03-06T15:00:16Z",
+            "content": "The nation's capital has pop-up shops for food and drink, even marijuana. And now,\u00a0coronavirus\u00a0prevention supplies.\r\nAs local stores sell out of masks and hand sanitizer, Adilisha Patrom, owner of a co-working and event space next to Gallaudet University, saw\u2026 [+2415 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Oklahoma megachurch pastors quarantined after possible coronavirus exposure",
+            "description": "Out of an \"abundance of caution\" surrounding the coronavirus, a self-quarantined megachurch pastor based out of Oklahoma told his congregation he needs prayer but not for his health.",
+            "url": "https://www.foxnews.com/us/coronavirus-quarantine-church-pastor-oklahoma",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/CraigGroeschelYouTube1.jpg",
+            "publishedAt": "2020-03-06T17:21:10Z",
+            "content": "A megachurch pastor in\u00a0Oklahoma\u00a0who\u00a0self-quarantined due to the coronavirus\u00a0is asking his congregation for\u00a0prayers\u00a0\u2014\u00a0but not for him.\r\nCraig Groeschel, Life Church senior pastor, addressed his 90,000-member congregation from his bedroom Wednesday, saying he w\u2026 [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Coronavirus-hit Iran warns it may use force to limit travel after canceling Friday prayers",
+            "description": "Iran said Friday the new coronavirus has killed 124 people amid 4,747 confirmed cases in the Islamic Republic as authorities warned they may use \"force\" to limit travel between cities.",
+            "url": "https://www.foxnews.com/world/coronavirus-iran-force-travel-friday-prayers",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20065366349045.jpg",
+            "publishedAt": "2020-03-06T11:39:31Z",
+            "content": "Iran said Friday the new coronavirus has killed 124 people amid 4,747 confirmed cases in the Islamic Republic as authorities warned they may use \"force\" to limit travel between cities.\r\nHealth Ministry spokesman Kianoush Jahanpour offered the figures at a tel\u2026 [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Stadium employee who worked XFL game in Seattle tests positive for coronavirus",
+            "description": "A part-time employee who worked at CenturyLink Field during a February XFL game in Seattle has tested positive for the coronavirus, as the state announced 31 new cases on Thursday.",
+            "url": "https://www.foxnews.com/sports/part-time-stadium-employee-worked-xfl-game-seattle-tests-positive-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ae9976a0f99adc01480f6a706700df56.jpg",
+            "publishedAt": "2020-03-06T09:59:37Z",
+            "content": "A part-time employee who worked at CenturyLink Field during a February XFL game in Seattle has tested positive for the coronavirus, as the state announced 31 new cases on Thursday.\r\nThe employee has yet to be identified and worked as a concession worker at th\u2026 [+3350 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brian Flood",
+            "title": "CNBC's Rick Santelli sorry for saying we should infect 'everybody' with coronavirus to help economy",
+            "description": "CNBC editor Rick Santelli is under fire for suggesting Thursday that Americans should consider giving the coronavirus virus to \u201ceveryone\u201d to get it over with and help the economy.",
+            "url": "https://www.foxnews.com/media/cnbc-rick-santelli-coronavirus-apology",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rick-Santelli-2-CNBC.jpg",
+            "publishedAt": "2020-03-06T18:12:36Z",
+            "content": "CNBC editor\u00a0Rick Santelli appologized Friday for suggesting that Americans should consider giving the coronavirus\u00a0to \u201ceveryone\u201d to get it over with and help the economy.\r\n\u201cYesterday, during a segment on \u2018The Exchange, \u2018I said \u2018maybe it would be a good idea to\u2026 [+2502 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tina Moore, Olivia Bensimon",
+            "title": "Video shows subway rider spraying Febreze at fellow passenger in possible hate crime",
+            "description": "Cops are investigating an alarming video of a man spraying Febreze at an Asian subway straphanger in an incident being investigated as a coronavirus-related hate crime, authorities said Thursday.",
+            "url": "https://www.foxnews.com/us/video-shows-subway-rider-spraying-air-freshener-at-fellow-passenger-in-possible-hate-crime",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/EPdYWhWXkAAcc2V.jpg",
+            "publishedAt": "2020-03-06T04:29:07Z",
+            "content": "Cops are investigating an alarming video of a man spraying Febreze at an Asian subway straphanger in an incident being investigated as a coronavirus-related hate crime, authorities said Thursday.\r\nNEW YORK CITY SEES UPTICK IN CRIME, NYPD SAYS CRIMINAL JUSTICE\u2026 [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Vandana Rambaran",
+            "title": "2 New York teachers being tested for coronavirus after returning from Italy trip with 44 students",
+            "description": "Two New York City teachers are under self-quarantine because of the threat of coronavirus after they returned with a group of 44 students from Italy on a trip they took for winter break in February.",
+            "url": "https://www.foxnews.com/us/new-york-teachers-tested-coronavirus-italy-trip-students",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20065646959782.jpg",
+            "publishedAt": "2020-03-06T01:49:42Z",
+            "content": "Two\u00a0New York City teachers are under self-quarantine because of the threat of coronavirus after they returned with a group of 44 students from Italy on a trip they took for winter break in February.\r\nOne of the teachers with James Madison High School experien\u2026 [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Marisa Schultz",
+            "title": "Trump visit to CDC is back on after coronavirus scare at agency",
+            "description": "President Trump's visit to the Centers for Disease Control for a briefing on the new coronavirus response is back on this afternoon after being temporarily scrapped over concerns a CDC employee had been infected.",
+            "url": "https://www.foxnews.com/politics/trump-visit-to-cdc-is-back-on-after-coronavirus-scare-at-agency",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Trump-Town-Hall-11.jpg",
+            "publishedAt": "2020-03-06T17:20:48Z",
+            "content": "President Trump's visit to the Centers for Disease Control for a briefing on the response to the new\u00a0coronavirus\u00a0is back on this Friday afternoon after the White House temporarily scrapped the trip over concerns a CDC employee had contracted the COVID-19 viru\u2026 [+2147 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Marisa Schultz",
+            "title": "Trump wants cruise ship passengers to stay at sea, but leaves decision up to Pence",
+            "description": "President Trump visited the Centers for Disease Control and Prevention Friday for a briefing on the coronavirus, following a scare earlier this week that a CDC staffer had contracted the COVID-19 virus.",
+            "url": "https://www.foxnews.com/politics/trump-visits-cdc-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20066592596144.jpg",
+            "publishedAt": "2020-03-06T23:41:34Z",
+            "content": "President Trump\u00a0visited the Centers for Disease Control and Prevention (CDC)\u00a0headquarters Friday and expressed confidence in the public health response to the new\u00a0coronavirus\u00a0while airing a disagreement he has with the\u00a0vice president on whether to bring the G\u2026 [+6691 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Yeshiva U team: Hotel cancels reservation over virus fears",
+            "description": "A hotel in a Baltimore suburb on Thursday canceled the reservation of the Yeshiva University men's basketball team over fears of novel coronavirus, the coach of the Maccabees told The Associated Press.",
+            "url": "https://www.foxnews.com/sports/yeshiva-u-team-hotel-cancels-reservation-over-virus-fears",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Yeshiva.jpg",
+            "publishedAt": "2020-03-06T10:57:07Z",
+            "content": "A hotel in a Baltimore suburb on Thursday canceled the reservation of the Yeshiva University men's basketball team over fears of novel coronavirus, the coach of the Maccabees told The Associated Press.\r\nLater Thursday, Johns Hopkins University in Baltimore sa\u2026 [+2749 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Tennessee man with coronavirus traveled through Boston airport, state health officials say",
+            "description": "Officials with the Tennessee Department of Health have released further details about the state\u2019s first case of COVID-19.",
+            "url": "https://www.foxnews.com/health/tennessee-man-coronavirus-traveled-boston-airport-officials-say",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/LoganAirportIstock.jpg",
+            "publishedAt": "2020-03-06T13:53:50Z",
+            "content": "Officials with the Tennessee Department of Health have released further details about the state\u2019s first case of COVID-19, confirming the patient had recently traveled round trip from the Nashville International Airport to Boston\u2019s Logan International Airport.\u2026 [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Fox News Town Hall: President Donald Trump",
+            "description": "President Donald Trump defended the administration's response to the coronavirus and his confrontational style of name-calling political opponents as he fielded questions from members of the public in his first TV town hall on Thursday, March 5 of the 2020 el\u2026",
+            "url": "https://www.foxnews.com/politics/fox-news-town-hall-president-donald-trump",
+            "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+            "publishedAt": "2020-03-06T02:51:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Dow falls 250 points after turbulent week, oil drops to 3-year low",
+            "description": "After a rollercoaster week, the Dow cut some of its losses after sliding nearly 900 points Friday morning, closing down over 250 points as fears over the new coronavirus continue to weigh on the economy despite a strong February jobs report. Meanwhile, oil fe\u2026",
+            "url": "https://www.foxnews.com/us/market-dow-turbulent-week-oil",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20066563653939.jpg",
+            "publishedAt": "2020-03-06T21:10:30Z",
+            "content": "After a rollercoaster week, the Dow cut some of its losses after sliding nearly 900 points Friday morning, closing down over 250 points\u00a0as fears over the new coronavirus continue to weigh on the economy despite a strong February jobs report. Meanwhile, oil fe\u2026 [+1587 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lindsay Carlton, Janine Puhak",
+            "title": "Is coronavirus outbreak deadly as SARS, MERS? Mayo Clinic virologist Dr. Matthew Binnicker explains",
+            "description": "Discerning just how dangerous the viral disease may be can be difficult.",
+            "url": "https://www.foxnews.com/health/coronavirus-compared-mayo-clinic-doctor-explains",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49fc4c36-b479-4004-9e7d-469e0da529ec/ae2c251c-598e-4afc-a839-12347dadd962/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T21:37:16Z",
+            "content": "As case numbers and fears surrounding the coronavirus outbreak rise by the day, discerning just how dangerous the virus\u00a0is, both at home and abroad, can be difficult.\r\nIn an interview with Fox News, Mayo Clinic virologist Dr. Matthew Binnicker explained how\u00a0t\u2026 [+4917 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "Coronavirus: WHO officials urge global cooperation, say they can\u2019t 'assume' spread will slow in warm weather",
+            "description": "\u201cIn a globalized world, the only option is to stand together,\u201d said WHO Director-General Tedros Adhanom Ghebreyesus.",
+            "url": "https://www.foxnews.com/health/who-officials-global-cooperation-coronavirus-outbreak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/WHOpresserFABRICE-COFFRINIAFP-via-Getty-Images.jpg",
+            "publishedAt": "2020-03-06T17:39:21Z",
+            "content": "Officials with the World Health Organization (WHO) said Friday that global cooperation amid the ongoing COVID-19 outbreak is essential to stem the spread of the coronavirus as the number of confirmed cases nears 100,000.\r\nWHO Director-General Tedros Adhanom G\u2026 [+3239 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "John Brandon",
+            "title": "6 gadgets to help you track your health amid coronavirus fears",
+            "description": "While these gadgets won\u2019t prevent you from getting sick, they can help with personal health and will certainly give you more information before you head to the doctor's office.",
+            "url": "https://www.foxnews.com/tech/6-gadgets-to-help-you-track-your-health-amid-coronavirus-fears",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/CoronavirusGetty2020.jpg",
+            "publishedAt": "2020-03-06T19:08:35Z",
+            "content": "Your personal health has suddenly become incredibly important in light of coronavirus fears. Being able to check your own temperature is vital because going to the doctor can expose you to illnesses \u2014 and\u00a0if you\u2019re infected, you\u2019ll expose everyone else. While\u2026 [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Mariah Haas",
+            "title": "Coronavirus prompts Katy Perry, Orlando Bloom to postpone wedding in Japan: reports",
+            "description": "Katy Perry and Orlando Bloom have postponed their upcoming nuptials in Japan, according to multiple reports.",
+            "url": "https://www.foxnews.com/entertainment/katy-perry-orlando-bloom-postpone-wedding-japan-coronavirus-reports",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/orlandokaty.jpg",
+            "publishedAt": "2020-03-06T01:27:04Z",
+            "content": "Katy Perry and Orlando Bloom have postponed their upcoming nuptials in Japan, according to multiple reports.\r\nPer People magazine, citing a source, the couple -- who is\u00a0expecting their first child together -- was all set to wed in early summer.\u00a0However, due t\u2026 [+1378 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Crothers",
+            "title": "Coronavirus 'cures' and fake dietary supplements: Beware these 'products' on Amazon",
+            "description": "Despite Amazon\u2019s best efforts, fake, unsafe, and misleading products still find their way to the world\u2019s largest online marketplace.",
+            "url": "https://www.foxnews.com/tech/coronavirus-cures-and-fake-dietary-supplements-beware-products-on-amazon",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20062577153854.jpg",
+            "publishedAt": "2020-03-06T16:16:07Z",
+            "content": "Despite Amazon\u2019s best efforts, fake, unsafe, and misleading products still find their way to the world\u2019s largest online marketplace.\r\nHere are some of the most notoriously problematic third-party products on Amazon:\r\nCoronavirus \u201ccures\u201d and high-priced masks:\u2026 [+2959 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Trump, at Fox News Town Hall, suggests Biden is incompetent, says he was surprised by Super Tuesday results",
+            "description": "",
+            "url": "https://www.foxnews.com/us/trump-fox-news-town-hall-biden-incompetent-super-tuesday",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/TrumpFoxTH030620.jpg",
+            "publishedAt": "2020-03-06T09:06:22Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your day ...\r\nTrump, at Fox News Town Hall, questions Biden's competence: 'There's something going on there'President Trump, speaking at a Fox News Town Hall in Joe Biden's \u2026 [+5600 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Sen. Loeffler rips Schumer, Dems for voting down 'common-sense' Born Alive bill",
+            "description": "Georgia Sen. Kelly Loeffler spoke out in favor of a Senate Republican motion to censure Democratic Leader Charles E. Schumer, after the New York lawmaker threatened Trump-appointed Supreme Court justices during a pro-abortion rally on the high court's steps.",
+            "url": "https://www.foxnews.com/media/loeffler-dems-abortion-schumer-born-alive-bill",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Video-2020-03-06T085350.205.jpg",
+            "publishedAt": "2020-03-06T15:05:11Z",
+            "content": "Georgia Sen. Kelly Loeffler spoke out in favor of a Senate Republican motion to censure Democratic Leader Charles\u00a0Schumer, after the New York\u00a0senator\u00a0appeared to\u00a0threaten\u00a0Trump-appointed Supreme Court justices during a pro-abortion rally on the high court's s\u2026 [+2140 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler McCarthy",
+            "title": "'No Time to Die' may lose up to $50 million after pushing release date back due to coronavirus concerns",
+            "description": "After announcing that it will push the release date for the upcoming James Bond film, \u201cNo Time to Die,\u201d back seven months, the studio is expected to take a huge financial hit.",
+            "url": "https://www.foxnews.com/entertainment/no-time-to-die-lose-money-release-date-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/07/Spectre-Daniel-Craig-James-Bond-007.jpg",
+            "publishedAt": "2020-03-06T19:03:46Z",
+            "content": "After announcing that it will push the release date for the upcoming James Bond film, \u201cNo Time to Die,\u201d back seven months, the studio\u00a0is expected to take a huge financial hit.\r\nMGM, Universal and producers Michael G. Wilson and Barbara Broccoli announced on T\u2026 [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "'The Five' react to President Trump's CDC tour amid coronavirus outbreak",
+            "description": "President Trump visits the Centers for Disease Control and Prevention in Atlanta having signed an $8.3 billion measure to help tackle the coronavirus outbreak.",
+            "url": "http://video.foxnews.com/v/6139186049001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a025e620-3686-47a6-be76-459cee3e73dd/69edf5de-f40e-453e-b438-4b17566e77cf/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T23:19:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Tokyo Olympics hold test event without fans, top athletes",
+            "description": "Despite the spreading virus, Tokyo Olympic organizers have finally held a test event.",
+            "url": "https://www.foxnews.com/sports/tokyo-olympics-hold-test-event-without-fans-top-athletes",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Tokyo-Olympics9.jpg",
+            "publishedAt": "2020-03-06T11:07:54Z",
+            "content": "Despite the spreading virus, Tokyo Olympic organizers have finally held a test event.\r\nThe recent outbreak of the coronavirus has forced them to rearrange or postpone several. But they allowed a sport climbing event on Friday to go ahead, with a few restricti\u2026 [+950 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "More sporting events affected by spreading virus",
+            "description": "More cycling races were canceled Friday and more soccer matches will be played in empty stadiums because of the virus outbreak spreading around the world.",
+            "url": "https://www.foxnews.com/sports/more-sporting-events-affected-by-spreading-virus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Cycling-Corona.jpg",
+            "publishedAt": "2020-03-06T15:55:41Z",
+            "content": "More cycling races were canceled Friday and more soccer matches will be played in empty stadiums because of the virus outbreak spreading around the world.\r\nRCS Sport, which organizes cycling events in Italy, canceled the Tirreno-Adriatico and Milan-San Remo r\u2026 [+3736 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Byron York on a 'relaxed' President Trump's town hall performance",
+            "description": "Byron York, chief political correspondent for the Washington Examiner, reacted on \"The Story with Martha MacCallum\" to President Trump's Fox News town hall, saying he came across \"relaxed.\"",
+            "url": "https://www.foxnews.com/media/byron-york-on-a-relaxed-president-trumps-town-hall-performance",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b04cbd8-d13d-4b05-ace0-1228afa3a280/20185332-7d9c-4de8-8c47-dd5a8eadb8de/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T04:12:42Z",
+            "content": "Byron York, chief political correspondent for the Washington Examiner, reacted on \"The Story with Martha MacCallum\" to President Trump's Fox News Town Hall, and said the president came across \"relaxed.\"\r\n\"Here he was much more relaxed. And it was interesting \u2026 [+1599 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Oil prices continue dropping amid coronavirus concerns, lower demand",
+            "description": "Oil at lowest price in more than 3 years; Fox Biz Flash: 3/6.",
+            "url": "http://video.foxnews.com/v/6139179390001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d999383-7b47-4d7a-b2c6-33f602ea4e2c/63ee419f-aebe-4b16-ae9e-bd30f5a1da4f/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T22:35:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nate Day",
+            "title": "Mariska Hargitay on life after 'Law & Order: SVU': 'It will be an enormous adjustment'",
+            "description": "With a recent three-season renewal, there is no end in sight for \"Law & Order: Special Victims Unit\" or its star Mariska Hargitay.",
+            "url": "https://www.foxnews.com/entertainment/mariska-hargitay-life-after-law-order-svu",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/RT_Mariska.jpg",
+            "publishedAt": "2020-03-06T01:31:51Z",
+            "content": "With a recent three-season renewal, there is no end in sight for \"Law &amp; Order: Special Victims Unit\" or its star Mariska Hargitay.\r\nHargitay has starred in \"SVU\" since it debuted in 1999 and has bagged an Emmy, a Golden Globe and many other awards for her\u2026 [+1763 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "World Day of Prayer: A global prayer movement led by women",
+            "description": "The World Day of Prayer is a global prayer movement led by Christian women across denominations and observed in at least 170 countries.",
+            "url": "https://www.foxnews.com/faith-values/women-world-day-prayer",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/globalprayerwomen.jpg",
+            "publishedAt": "2020-03-06T17:29:11Z",
+            "content": "The World Day of Prayer is a global prayer movement led by Christian women across denominations and observed in at least 170 countries.\r\nObserved annually on the first Friday in March, the mission-focused prayer day centers on a different country every year w\u2026 [+1702 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Shaw",
+            "title": "EU pours millions into Greece to act as border 'shield' against escalating migrant crisis",
+            "description": "The European Union, in an effort to curb a brewing crisis at its borders, is pouring hundreds of millions of euros into Greece in the hope it will act as a \u201cshield\u201d against fresh migrant flows.",
+            "url": "https://www.foxnews.com/world/eu-greece-border-shield-migrant-crisis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20066507222635.jpg",
+            "publishedAt": "2020-03-06T15:57:01Z",
+            "content": "The European Union, in an effort to curb a brewing crisis at its borders, is pouring hundreds of millions of euros into Greece in the hope it will act as a \u201cshield\u201d against fresh migrant flows that could foreshadow a migrant crisis similar to that that wreake\u2026 [+3184 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brian Flood",
+            "title": "Fox News election town hall with Trump is most watched in cable history",
+            "description": "Fox News\u2019 town hall with President Trump on Thursday was the most-watched election town hall in cable news history, according to early Nielsen Media Research.",
+            "url": "https://www.foxnews.com/media/trump-fox-news-town-hall-most-watched-cable-history",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/610c9513-23dd-45a4-a14b-51070c49f58b/17246ec1-0144-4a14-a2a7-01a44609dde3/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T20:10:49Z",
+            "content": "Fox News\u2019 town hall with President Trump on Thursday was the most-watched election town hall in cable news history, according to early Nielsen media research.\r\nThe\u00a0event co-moderated by Bret Baier and Martha MacCallum averaged 4.2 million viewers from 6:30-7:\u2026 [+3000 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Shaw",
+            "title": "Trump administration to send military to border amid fears of migrant surge if court stops \u2018Remain-in-Mexico\u2019",
+            "description": "The Trump administration is sending military police and other personnel to the border in case the \u201cRemain in Mexico\u201d policy is struck down next week by an appeals court -- amid fears that large groups of migrants could force their way into the U.S. homeland.",
+            "url": "https://www.foxnews.com/politics/trump-border-amid-fears-of-migrant-surge-remain-in-mexico-policy",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/09/18/694940094001_6087442633001_6087432821001-vs.jpg",
+            "publishedAt": "2020-03-06T21:02:48Z",
+            "content": "The Trump administration is sending military police and other personnel\u00a0to the border in case the \u201cRemain in Mexico\u201d policy is struck down next week by an appeals court -- amid fears that large groups of migrants could force their way into the U.S. homeland.\r\u2026 [+4072 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Newt Gingrich",
+            "title": "Newt Gingrich: The Biden-Sanders dilemma the Democratic Party now faces",
+            "description": "Biden and Sanders find themselves with real dilemmas, but the dilemmas are different for each candidate.",
+            "url": "https://www.foxnews.com/opinion/newt-gingrich-the-biden-sanders-dilemma-the-democratic-party-now-faces",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/271a3fa2-c52a-412e-bb61-7bcd7532434c/b6dbdf54-4a4f-40b4-8c30-620bca60716d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T17:13:50Z",
+            "content": "One week ago, no one expected the current race for the Democratic nomination.\r\nRemember this the next time you see or hear one of us so-called experts on television or radio confidently predicting a future we don\u2019t understand.\r\nWith the backdrop of the emergi\u2026 [+5159 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephanie Nolasco",
+            "title": "Prince Harry finds new hobby while Meghan Markle is away, insider claims",
+            "description": "Prince Harry has found an unlikely way to cope with Megxit \u2014 playing guitar.",
+            "url": "https://www.foxnews.com/entertainment/prince-harry-new-hobby-megxit",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/20/694940094001_6124821835001_6124825381001-vs.jpg",
+            "publishedAt": "2020-03-06T10:00:19Z",
+            "content": "Prince Harry has found an unlikely way to cope with Megxit \u2014 playing guitar.\r\nThe British royal recently collaborated with Jon Bon Jovi for a re-recording of the rocker\u2019s 2019 single \u201cUnbroken\u201d for the Invictus Games, a charity sporting event for wounded serv\u2026 [+7770 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Stirewalt",
+            "title": "Michigan mammoth",
+            "description": "Michigan will be the biggest prize of the six states voting on Tuesday.",
+            "url": "https://www.foxnews.com/politics/michigan-mammoth",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3af6b794-ee64-4e31-8da3-dfc052fa740d/29d32448-9e87-4f1c-8b2f-f55f3c55aab1/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-06T19:17:06Z",
+            "content": "**Want FOX News Halftime Report in your inbox every day? Sign up\u00a0here.**\r\nOn the roster:\u00a0Michigan mammoth - Time Out: Big data, big money - Biden pulls in big cash, expands staff - Wanted: Feisty Bryant\r\nMICHIGAN MAMMOTH NY Post: \u201cEmbattled Vermont Sen. Berni\u2026 [+12906 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Barnini Chakraborty",
+            "title": "California officials warn of Carmageddon 2.0, tell residents to steer clear of highway",
+            "description": "California highway officials warn hoping for a repeat performance at the end of April as Carmageddon 2.0 threatens once more to rear its ugly head.",
+            "url": "https://www.foxnews.com/us/california-carmageddon-interstate-5",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Carmageddon-2012-Getty-Images.jpg",
+            "publishedAt": "2020-03-06T18:41:42Z",
+            "content": "For most Angelenos, they remember where they were on the harrowing weekend eight years ago when Interstate 405 was shut down in both directions. They had been bracing for it for months, ready for the nightmarish hellscape that would undoubtedly unfold before \u2026 [+3725 chars]"
+        }
+    ]
+}

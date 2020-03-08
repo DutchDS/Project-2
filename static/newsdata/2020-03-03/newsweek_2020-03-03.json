@@ -47,45 +47,6 @@
                 "name": "Newsweek"
             },
             "author": "Benjamin Fearnow",
-            "title": "White House Releases List of 'Top Tweets' Praising Trump's Coronavirus Response",
-            "description": "The White House drew baffled responses from health officials, doctors and critics of President Donald Trump alike on Monday after releasing a list of tweets offering gushing praise of the administration's response to the coronavirus.",
-            "url": "https://www.newsweek.com/white-house-releases-list-top-tweets-praising-trumps-coronavirus-response-1490239",
-            "urlToImage": "https://d.newsweek.com/en/full/1570876/white-house-coronavirus-praise-list.jpg",
-            "publishedAt": "2020-03-03T15:20:06Z",
-            "content": "The White House drew baffled responses from health officials, doctors and critics of President Donald Trump alike on Monday after releasing a list of tweets offering gushing praise of the administration's response to the coronavirus.\r\nThe Trump administration\u2026 [+3224 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Steven Asarch",
-            "title": "Reddit Trying To Fight Coronavirus Misinformation - Which Subreddit Is Best News Source?",
-            "description": "In an attempt to stop the spread of misinformation about the coronavirus, reddit is trying to promote it's \"safer\" subs. Here are the best places to get your news.",
-            "url": "https://www.newsweek.com/reddit-fight-coronavirus-misinformation-subreddit-best-news-source-1490292",
-            "urlToImage": "https://d.newsweek.com/en/full/1570973/reddit-coronavirus-censor-misinformation-r.jpg",
-            "publishedAt": "2020-03-03T18:08:04Z",
-            "content": "COVID-19, better known as coronavirus, continues to spread across the globe. Originating from the Wuhan province in China, cases of the disease have spiked around the world, creating a sense of apprehension in large cities and small towns alike. Coughs on sub\u2026 [+2287 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Aila Slisco",
-            "title": "After First Arizona Coronavirus Case Confirmed, Health Director Says State's Monitoring 250 More Individuals",
-            "description": "Arizona health officials announced that they have expanded their ability to test for coronavirus Monday, as they monitor 250 individuals who have recently returned from travel abroad to high risk areas.",
-            "url": "https://www.newsweek.com/after-first-arizona-coronavirus-case-confirmed-health-director-says-states-monitoring-250-more-1490157",
-            "urlToImage": "https://d.newsweek.com/en/full/1570760/doug-ducey.jpg",
-            "publishedAt": "2020-03-03T05:26:50Z",
-            "content": "Arizona health officials are monitoring 250 people for COVID-19 coronavirus as American cases of the virus continue to rise.\r\nArizona Governor Doug Ducey held a news conference to discuss the escalating health crisis Monday, along with Dr. Cara Christ, direct\u2026 [+2991 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Benjamin Fearnow",
             "title": "Federal Reserve Announces Emergency Rate Cut Amid Coronavirus Outbreak, First Unscheduled Cut Since 2008 Recession",
             "description": "The U.S. Federal Reserve cut interest rates by a half percentage point Tuesday morning as a means of pushing back against a recent downturn tied to the coronavirus illness\u2014and not from Trump's pressure, Chairman Jerome Powell said.",
             "url": "https://www.newsweek.com/federal-reserve-announces-emergency-rate-cut-amid-coronavirus-outbreak-first-unscheduled-cut-since-1490280",
@@ -105,6 +66,45 @@
             "urlToImage": "https://d.newsweek.com/en/full/1571011/coronavirus.jpg",
             "publishedAt": "2020-03-03T21:03:02Z",
             "content": "Amid the outbreak of the novel coronavirus, officially known as COVID-19, 75 newly commissioned nurses will head to the city of Daegu, South Korea, which has become known as an epicenter for the virus.\r\nAccording to the Korean Yonhap News Agency, the nurses g\u2026 [+3118 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "After First Arizona Coronavirus Case Confirmed, Health Director Says State's Monitoring 250 More Individuals",
+            "description": "Arizona health officials announced that they have expanded their ability to test for coronavirus Monday, as they monitor 250 individuals who have recently returned from travel abroad to high risk areas.",
+            "url": "https://www.newsweek.com/after-first-arizona-coronavirus-case-confirmed-health-director-says-states-monitoring-250-more-1490157",
+            "urlToImage": "https://d.newsweek.com/en/full/1570760/doug-ducey.jpg",
+            "publishedAt": "2020-03-03T05:26:50Z",
+            "content": "Arizona health officials are monitoring 250 people for COVID-19 coronavirus as American cases of the virus continue to rise.\r\nArizona Governor Doug Ducey held a news conference to discuss the escalating health crisis Monday, along with Dr. Cara Christ, direct\u2026 [+2991 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Steven Asarch",
+            "title": "Reddit Trying To Fight Coronavirus Misinformation - Which Subreddit Is Best News Source?",
+            "description": "In an attempt to stop the spread of misinformation about the coronavirus, reddit is trying to promote it's \"safer\" subs. Here are the best places to get your news.",
+            "url": "https://www.newsweek.com/reddit-fight-coronavirus-misinformation-subreddit-best-news-source-1490292",
+            "urlToImage": "https://d.newsweek.com/en/full/1570973/reddit-coronavirus-censor-misinformation-r.jpg",
+            "publishedAt": "2020-03-03T18:08:04Z",
+            "content": "COVID-19, better known as coronavirus, continues to spread across the globe. Originating from the Wuhan province in China, cases of the disease have spiked around the world, creating a sense of apprehension in large cities and small towns alike. Coughs on sub\u2026 [+2287 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "White House Releases List of 'Top Tweets' Praising Trump's Coronavirus Response",
+            "description": "The White House drew baffled responses from health officials, doctors and critics of President Donald Trump alike on Monday after releasing a list of tweets offering gushing praise of the administration's response to the coronavirus.",
+            "url": "https://www.newsweek.com/white-house-releases-list-top-tweets-praising-trumps-coronavirus-response-1490239",
+            "urlToImage": "https://d.newsweek.com/en/full/1570876/white-house-coronavirus-praise-list.jpg",
+            "publishedAt": "2020-03-03T15:20:06Z",
+            "content": "The White House drew baffled responses from health officials, doctors and critics of President Donald Trump alike on Monday after releasing a list of tweets offering gushing praise of the administration's response to the coronavirus.\r\nThe Trump administration\u2026 [+3224 chars]"
         },
         {
             "source": {
@@ -163,71 +163,6 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
-            "author": "Jenni Fink",
-            "title": "Speed of New Coronavirus Research 'Unprecedented,' May Set New Standard for Outbreaks, Experts Say",
-            "description": "There are still gaps in what we know, but things are being done with COVID-19 at a pace that hasn't happened with past outbreaks, experts tell Newsweek.",
-            "url": "https://www.newsweek.com/coronavirus-covid-19-unprecedented-knowledge-new-standard-outbreak-1490110",
-            "urlToImage": "https://d.newsweek.com/en/full/1570715/coronavirus-covid-19-information-unprecedented.jpg",
-            "publishedAt": "2020-03-03T08:00:01Z",
-            "content": "COVID-19 was identified in humans only two months ago, but experts are impressed by the level of information that's available and speculate that the response could create a precedent for future outbreaks.\r\n\"This has been an unprecedented amount of information\u2026 [+4934 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Brendan Cole",
-            "title": "Pope Francis Tested for Coronavirus Days After Coughing and Blowing His Nose During Mass",
-            "description": "The pontiff was unable to attend a Lent retreat near Rome with senior Vatican officials.",
-            "url": "https://www.newsweek.com/vatican-pope-coronavirus-italy-1490204",
-            "urlToImage": "https://d.newsweek.com/en/full/1570787/pope-francis.jpg",
-            "publishedAt": "2020-03-03T13:19:02Z",
-            "content": "Pope Francis has been tested for coronavirus after being unable to attend a number of events.\r\nThe 83-year-old head of the Catholic Church, who often comes into close contact with the public when he blesses them, was looking under the weather last week during\u2026 [+2334 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Jenni Fink",
-            "title": "Coronavirus New York Update: Two Confirmed Cases, Flight Cancellations, Prevention Tips and More",
-            "description": "New York Governor Andrew Cuomo said officials were equipped to handle the situation, noting it wasn't their \"first rodeo.\"",
-            "url": "https://www.newsweek.com/coronavirus-new-york-confirmed-cases-flight-cancellations-prevention-tips-1490243",
-            "urlToImage": "https://d.newsweek.com/en/full/1570874/coronavirus-nyc-update-cases-flight-cancellations-prevention.jpg",
-            "publishedAt": "2020-03-03T15:28:05Z",
-            "content": "After New York City confirmed its first case of COVID-19, local officials took measures to prevent the spread of the virus as British Airways canceled flights to the Big Apple.\r\nCity officials said on Sunday that a woman who recently traveled to Iran tested p\u2026 [+4535 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Soo Kim",
-            "title": "Batman-Inspired Wearable Coronavirus Protection Shield Aims to Kill the Virus Using Ultraviolet Rays",
-            "description": "The Chinese architect behind the design hopes the futuristic spacesuit-style device could be modified with Google Glass technology for everyday use once the outbreak has died down.",
-            "url": "https://www.newsweek.com/batman-inspired-wearable-coronavirus-protection-shield-aims-kill-virus-using-ultraviolet-rays-1490289",
-            "urlToImage": "https://d.newsweek.com/en/full/1570968/wuhan-china-coronavirus-patients-march-2020.jpg",
-            "publishedAt": "2020-03-03T17:48:03Z",
-            "content": "As the COVID-19 virus continues to spread across the globe, one Chinese architect has come up with a solution to help battle the outbreaka giant Batman-inspired wearable shield that claims to protect its wearers from the virus by sterilizing itself using ultr\u2026 [+4279 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Aila Slisco",
-            "title": "California Governor Newsom Criticizes Amazon Over 'Absurd' Price of Hand Sanitizer Amid Coronavirus Outbreak",
-            "description": "One seller posted a 12-pack of one-ounce containers of hand sanitizer for $3,892.84.",
-            "url": "https://www.newsweek.com/california-governor-newsom-criticizes-amazon-over-absurd-price-hand-sanitizer-amid-coronavirus-1490359",
-            "urlToImage": "https://d.newsweek.com/en/full/1571114/hand-sanitizer.jpg",
-            "publishedAt": "2020-03-03T23:16:37Z",
-            "content": "California Governor Gavin Newsom blasted Amazon on Twitter Tuesday for allowing overpriced hand sanitizer products to be sold on their website in the midst of the COVID-19 coronavirus crisis.\r\nCoronavirus has led to panicked shoppers and unscrupulous price go\u2026 [+3049 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
             "author": "Soo Kim",
             "title": "Coronavirus U.S. Outbreak Update As New Cases Confirmed in Georgia, California, Oregon and Washington",
             "description": "The death toll has climbed to six in the U.S., following four deaths in Washington state, while hundreds are being monitored for possible infection across Florida and Oregon.",
@@ -267,6 +202,71 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
+            "author": "Jenni Fink",
+            "title": "Coronavirus New York Update: Two Confirmed Cases, Flight Cancellations, Prevention Tips and More",
+            "description": "New York Governor Andrew Cuomo said officials were equipped to handle the situation, noting it wasn't their \"first rodeo.\"",
+            "url": "https://www.newsweek.com/coronavirus-new-york-confirmed-cases-flight-cancellations-prevention-tips-1490243",
+            "urlToImage": "https://d.newsweek.com/en/full/1570874/coronavirus-nyc-update-cases-flight-cancellations-prevention.jpg",
+            "publishedAt": "2020-03-03T15:28:05Z",
+            "content": "After New York City confirmed its first case of COVID-19, local officials took measures to prevent the spread of the virus as British Airways canceled flights to the Big Apple.\r\nCity officials said on Sunday that a woman who recently traveled to Iran tested p\u2026 [+4535 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jenni Fink",
+            "title": "Speed of New Coronavirus Research 'Unprecedented,' May Set New Standard for Outbreaks, Experts Say",
+            "description": "There are still gaps in what we know, but things are being done with COVID-19 at a pace that hasn't happened with past outbreaks, experts tell Newsweek.",
+            "url": "https://www.newsweek.com/coronavirus-covid-19-unprecedented-knowledge-new-standard-outbreak-1490110",
+            "urlToImage": "https://d.newsweek.com/en/full/1570715/coronavirus-covid-19-information-unprecedented.jpg",
+            "publishedAt": "2020-03-03T08:00:01Z",
+            "content": "COVID-19 was identified in humans only two months ago, but experts are impressed by the level of information that's available and speculate that the response could create a precedent for future outbreaks.\r\n\"This has been an unprecedented amount of information\u2026 [+4934 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Soo Kim",
+            "title": "Batman-Inspired Wearable Coronavirus Protection Shield Aims to Kill the Virus Using Ultraviolet Rays",
+            "description": "The Chinese architect behind the design hopes the futuristic spacesuit-style device could be modified with Google Glass technology for everyday use once the outbreak has died down.",
+            "url": "https://www.newsweek.com/batman-inspired-wearable-coronavirus-protection-shield-aims-kill-virus-using-ultraviolet-rays-1490289",
+            "urlToImage": "https://d.newsweek.com/en/full/1570968/wuhan-china-coronavirus-patients-march-2020.jpg",
+            "publishedAt": "2020-03-03T17:48:03Z",
+            "content": "As the COVID-19 virus continues to spread across the globe, one Chinese architect has come up with a solution to help battle the outbreaka giant Batman-inspired wearable shield that claims to protect its wearers from the virus by sterilizing itself using ultr\u2026 [+4279 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "Pope Francis Tested for Coronavirus Days After Coughing and Blowing His Nose During Mass",
+            "description": "The pontiff was unable to attend a Lent retreat near Rome with senior Vatican officials.",
+            "url": "https://www.newsweek.com/vatican-pope-coronavirus-italy-1490204",
+            "urlToImage": "https://d.newsweek.com/en/full/1570787/pope-francis.jpg",
+            "publishedAt": "2020-03-03T13:19:02Z",
+            "content": "Pope Francis has been tested for coronavirus after being unable to attend a number of events.\r\nThe 83-year-old head of the Catholic Church, who often comes into close contact with the public when he blesses them, was looking under the weather last week during\u2026 [+2334 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aila Slisco",
+            "title": "California Governor Newsom Criticizes Amazon Over 'Absurd' Price of Hand Sanitizer Amid Coronavirus Outbreak",
+            "description": "One seller posted a 12-pack of one-ounce containers of hand sanitizer for $3,892.84.",
+            "url": "https://www.newsweek.com/california-governor-newsom-criticizes-amazon-over-absurd-price-hand-sanitizer-amid-coronavirus-1490359",
+            "urlToImage": "https://d.newsweek.com/en/full/1571114/hand-sanitizer.jpg",
+            "publishedAt": "2020-03-03T23:16:37Z",
+            "content": "California Governor Gavin Newsom blasted Amazon on Twitter Tuesday for allowing overpriced hand sanitizer products to be sold on their website in the midst of the COVID-19 coronavirus crisis.\r\nCoronavirus has led to panicked shoppers and unscrupulous price go\u2026 [+3049 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
             "author": "Khaleda Rahman",
             "title": "U.K. Leader Boris Johnson Boasts He Has Shaken Hands With Coronavirus Patients",
             "description": "British Prime Minister Boris Johnson said the public must \"make up their own minds\" about the greeting, adding that washing hands is \"the crucial thing.\"",
@@ -274,19 +274,6 @@
             "urlToImage": "https://d.newsweek.com/en/full/1570851/boris-johnson.jpg",
             "publishedAt": "2020-03-03T13:59:13Z",
             "content": "U.K. Prime Minister Boris Johnson has boasted that he has shaken hands with coronavirus patients while speaking about his government's plan on tackling the outbreak.\r\nSpeaking at a news conference on Tuesday about the plan to slow the spread of the COVID-19 d\u2026 [+2579 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Sheraz Farooqi",
-            "title": "Disney Cancels European Launch Event for Disney+ in Response to Coronavirus",
-            "description": "The streaming service is still slated to debut in several European markets on March 24, even without the glitzy press showcase.",
-            "url": "https://www.newsweek.com/disney-cancels-european-launch-event-streaming-service-coronavirus-1490232",
-            "urlToImage": "https://d.newsweek.com/en/full/1567086/disney.png",
-            "publishedAt": "2020-03-03T15:23:44Z",
-            "content": "Disney has canceled its European launch event for Disney+ amid growing fear over the spread of the coronavirus.\r\nOriginally planned to be a large-scale press event at Exhibition London on March 5, the European launch showcase for Disney+ was going to include \u2026 [+1739 chars]"
         },
         {
             "source": {
@@ -319,6 +306,19 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
+            "author": "Jenni Fink",
+            "title": "Coronavirus Response Supplies 'Rapidly Depleting,' Health Officials Estimate 89 Million Masks Needed Each Month",
+            "description": "WHO Director-General Dr. Tedros Adhanom Ghebreyesus warned that shortages in supplies are leaving doctors, nurses and health care workers \"dangerously ill-equipped\" to care for COVID-19 patients.",
+            "url": "https://www.newsweek.com/coronavirus-supplies-depleting-who-89-million-masks-per-month-covid-19-1490313",
+            "urlToImage": "https://d.newsweek.com/en/full/1570990/masks-coronavirus-need-supplies-depleting-health-worker.jpg",
+            "publishedAt": "2020-03-03T19:07:52Z",
+            "content": "As global cases of COVID-19 grow, World Health Organization (WHO) Director-General Dr. Tedros Adhanom Ghebreyesus warned that supplies for health care workers on the front line were \"rapidly depleting.\"\r\n\"Shortages are leaving doctors, nurses and other front-\u2026 [+3028 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
             "author": "Jason Lemon",
             "title": "Super Tuesday Polling Staff In Texas and California Stay Home Over Concerns of Coronavirus Spread",
             "description": "\"We have had 10 to 15 temporary election clerks opt out of this assignment for fear of being in public spaces,\" a Sacramento County spokesperson told Newsweek.",
@@ -333,25 +333,25 @@
                 "name": "Newsweek"
             },
             "author": "Jenni Fink",
-            "title": "Coronavirus Response Supplies 'Rapidly Depleting,' Health Officials Estimate 89 Million Masks Needed Each Month",
-            "description": "WHO Director-General Dr. Tedros Adhanom Ghebreyesus warned that shortages in supplies are leaving doctors, nurses and health care workers \"dangerously ill-equipped\" to care for COVID-19 patients.",
-            "url": "https://www.newsweek.com/coronavirus-supplies-depleting-who-89-million-masks-per-month-covid-19-1490313",
-            "urlToImage": "https://d.newsweek.com/en/full/1570990/masks-coronavirus-need-supplies-depleting-health-worker.jpg",
-            "publishedAt": "2020-03-03T19:07:52Z",
-            "content": "As global cases of COVID-19 grow, World Health Organization (WHO) Director-General Dr. Tedros Adhanom Ghebreyesus warned that supplies for health care workers on the front line were \"rapidly depleting.\"\r\n\"Shortages are leaving doctors, nurses and other front-\u2026 [+3028 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Jenni Fink",
             "title": "Coronavirus Identified in Seattle Patient Six Days After Death, Hospital Staff May Have Been Exposed",
             "description": "Two more deaths were reported on Tuesday, bringing the total number in the United States to nine.",
             "url": "https://www.newsweek.com/coronavirus-eight-deaths-us-washington-case-hospital-workers-exposed-1490332",
             "urlToImage": "https://d.newsweek.com/en/full/1571014/coronavirus-death-seattle-8-life-care.jpg",
             "publishedAt": "2020-03-03T20:53:13Z",
             "content": "Six days after a 54-year-old man died, officials confirmed that he tested positive for the new coronavirus and hospital staff may have been exposed to the virus.\r\nOn Tuesday, the University of Washington Medicine confirmed to Newsweek that a male patient at H\u2026 [+3146 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Sheraz Farooqi",
+            "title": "Disney Cancels European Launch Event for Disney+ in Response to Coronavirus",
+            "description": "The streaming service is still slated to debut in several European markets on March 24, even without the glitzy press showcase.",
+            "url": "https://www.newsweek.com/disney-cancels-european-launch-event-streaming-service-coronavirus-1490232",
+            "urlToImage": "https://d.newsweek.com/en/full/1567086/disney.png",
+            "publishedAt": "2020-03-03T15:23:44Z",
+            "content": "Disney has canceled its European launch event for Disney+ amid growing fear over the spread of the coronavirus.\r\nOriginally planned to be a large-scale press event at Exhibition London on March 5, the European launch showcase for Disney+ was going to include \u2026 [+1739 chars]"
         },
         {
             "source": {
@@ -410,19 +410,6 @@
                 "id": "newsweek",
                 "name": "Newsweek"
             },
-            "author": "James Crowley",
-            "title": "Watch Jimmy Kimmel Explain Why His Daughter Is Just Like Trump",
-            "description": "During his monologue on Monday, Jimmy Kimmel shared an epiphany he had over the weekend: his daughter and Donald Trump have a lot in common.",
-            "url": "https://www.newsweek.com/jimmy-kimmels-daughter-like-trump-1490236",
-            "urlToImage": "https://d.newsweek.com/en/full/1570872/jimmy-kimmel.jpg",
-            "publishedAt": "2020-03-03T15:23:07Z",
-            "content": "During his show Monday night, Jimmy Kimmel made a joke in his monologue comparing President Donald Trump to his daughter Jane.\r\nKimmel said he realized the similarities while spending time at the park with her and his son over the weekend.\r\nThe late night tal\u2026 [+3001 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
             "author": "Aristos Georgiou",
             "title": "These Are the Health Conditions the U.S Spends Most On",
             "description": "\"The vast costs associated with health care represent one of the most important and contentious issues facing Americans today,\" said researcher Joseph Dieleman.",
@@ -430,6 +417,19 @@
             "urlToImage": "https://d.newsweek.com/en/full/1570904/back-pain.jpg",
             "publishedAt": "2020-03-03T16:09:20Z",
             "content": "About $3.1 trillion was spent on healthcare in the United States between individuals and insurance, both public and private, in 2016.\r\nThis figure is equivalent to nearly 18 percent of U.S. gross domestic product, highlighting the enormous costs of healthcare\u2026 [+2876 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "James Crowley",
+            "title": "Watch Jimmy Kimmel Explain Why His Daughter Is Just Like Trump",
+            "description": "During his monologue on Monday, Jimmy Kimmel shared an epiphany he had over the weekend: his daughter and Donald Trump have a lot in common.",
+            "url": "https://www.newsweek.com/jimmy-kimmels-daughter-like-trump-1490236",
+            "urlToImage": "https://d.newsweek.com/en/full/1570872/jimmy-kimmel.jpg",
+            "publishedAt": "2020-03-03T15:23:07Z",
+            "content": "During his show Monday night, Jimmy Kimmel made a joke in his monologue comparing President Donald Trump to his daughter Jane.\r\nKimmel said he realized the similarities while spending time at the park with her and his son over the weekend.\r\nThe late night tal\u2026 [+3001 chars]"
         },
         {
             "source": {

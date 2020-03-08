@@ -1,0 +1,422 @@
+{
+    "status": "ok",
+    "totalResults": 32,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "As coronavirus sends financial markets reeling, experts urge focus on long-term goals",
+            "description": "The novel coronavirus outbreak has sent financial markets reeling for weeks.",
+            "url": "https://abcnews.go.com/Business/coronavirus-sends-stock-markets-reeling-experts-urge-focus/story?id=69433692",
+            "urlToImage": "https://s.abcnews.com/images/Business/wall-street-ap-jt-200306_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-07T19:28:36Z",
+            "content": "The novel coronavirus outbreak has triggered a roller coaster the past few weeks for U.S. financial markets and sowed widespread uncertainty in the global economy as a whole. While the markets seesaw and daily headlines induce anxiety, experts say everyday in\u2026 [+6628 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Will Steakin",
+            "title": "Despite growing coronavirus fears, 2020 candidates show no sign of slowing",
+            "description": "Despite the ongoing threat of the novel coronavirus spreading in the U.S., the 2020 presidential candidates are proceeding with their campaign events.",
+            "url": "https://abcnews.go.com/Politics/growing-coronavirus-fears-us-2020-campaigns-show-sign/story?id=69455441",
+            "urlToImage": "https://s.abcnews.com/images/US/Virus_Outbreak_Trump_200307_hpMain_20200307-030837_16x9_992.jpg",
+            "publishedAt": "2020-03-07T23:56:52Z",
+            "content": "Amid the ongoing novel coronavirus threat and despite fears of the virus spreading in the U.S., President Donald Trump and the 2020 democratic presidential front runners are continuing to campaign.\r\nTrump campaign communications director Tim Murtaugh told ABC\u2026 [+5299 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "William Mansell",
+            "title": "1st coronavirus case confirmed in Utah, NBA tells teams to prepare for empty arenas",
+            "description": "The latest number of coronavirus cases and deaths continues to increase in the U.S. The NBA told teams it might bar fans.",
+            "url": "https://abcnews.go.com/US/1st-coronavirus-case-confirmed-utah-nba-tells-teams/story?id=69451679",
+            "urlToImage": "https://s.abcnews.com/images/US/Virus_Outbreak_Trump_200307_hpMain_20200307-030837_16x9_992.jpg",
+            "publishedAt": "2020-03-07T08:46:20Z",
+            "content": "The number of coronavirus cases and deaths continue to increase in the U.S. as officials in Utah reported late Friday night that the state had its first confirmed COVID-19 case.\r\nUtah officials said they believe the victim was exposed to the virus on the Gran\u2026 [+4791 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DARLENE SUPERVILLE Associated Press",
+            "title": "First lady pushes back against critics of her tennis tweet",
+            "description": "Melania Trump is pushing back after photos she tweeted of herself overseeing a White House construction project generated an online backlash",
+            "url": "https://abcnews.go.com/Politics/wireStory/lady-pushes-back-critics-tennis-tweet-69454789",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_344ffc2ba09142f0b737e5298417b420_16x9_992.jpg",
+            "publishedAt": "2020-03-07T17:21:56Z",
+            "content": "WEST PALM BEACH, Fla. -- \r\nMelania Trump pushed back Saturday after photos she tweeted of herself overseeing a White House construction project generated an online backlash.\r\nI encourage everyone who chooses to be negative &amp; question my work at the @White\u2026 [+727 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARY CLARE JALONICK Associated Press",
+            "title": "Romney will support GOP effort to investigate Biden",
+            "description": "Utah Sen. Mitt Romney will support moving ahead with an investigation tied to Joe Biden\u2019s son",
+            "url": "https://abcnews.go.com/Politics/wireStory/romney-support-gop-effort-investigate-biden-69443292",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_93b82fdbdade4d7db1bdd1b26791f4de_16x9_992.jpg",
+            "publishedAt": "2020-03-07T11:42:20Z",
+            "content": "WASHINGTON -- \r\nUtah Sen. Mitt Romney says he will support a subpoena to interview a witness and obtain records related to Burisma, the gas company in Ukraine linked to former Vice President Joe Bidens son. The push comes as Biden has emerged as a front-runne\u2026 [+3240 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Health authorities in Argentina announce first death in Latin America from new coronavirus",
+            "description": "Health authorities in Argentina announce first death in Latin America from new coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/health-authorities-argentina-announce-death-latin-america-coronavirus-69460731",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T23:56:18Z",
+            "content": "BUENOS AIRES, Argentina -- \r\nHealth authorities in Argentina announce first death in Latin America from new coronavirus."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Chinese hotel collapses; was used to observe virus contacts",
+            "description": "News reports say a hotel in southeastern China being used for medical observation of people who had contact with coronavirus patients has collapsed, trapping some 70 people",
+            "url": "https://abcnews.go.com/International/wireStory/chinese-hotel-collapses-observe-virus-contacts-69453347",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T14:54:17Z",
+            "content": "BEIJING -- \r\nA hotel used for medical observation of people who had contact with coronavirus patients collapsed in southeastern China on Saturday, trapping some 70 people, news reports said. There were no immediate reports of deaths.\r\nAt least 23 people were \u2026 [+603 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Iran's Revolutionary Guard seeks absolution in virus fight",
+            "description": "In declaring war on the coronavirus, Iran's paramilitary Revolutionary Guard is now seeking absolution from a public still angry over it accidentally shooting down a Ukrainian jetliner",
+            "url": "https://abcnews.go.com/International/wireStory/irans-revolutionary-guard-seeks-absolution-virus-fight-69451110",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_525e68f7f9884339917bff6f8d87e29a_16x9_992.jpg",
+            "publishedAt": "2020-03-07T06:04:23Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nWearing gas masks and waterproof fatigues, members of Iran's Revolutionary Guard now spray down streets and hospitals with disinfectants as the Islamic Republic faces one of the world's worst outbreaks of the new coronavirus.\r\u2026 [+6278 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW SELSKY Associated Press",
+            "title": "Homeless at 'double risk' of getting, spreading coronavirus",
+            "description": "Homeless people are particularly vulnerable to the coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/homeless-double-risk-spreading-coronavirus-69454275",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_1a0929ffc894427a8ed541bcee500f12_16x9_992.jpg",
+            "publishedAt": "2020-03-07T15:51:25Z",
+            "content": "SALEM, Ore. -- \r\nThey often don't have places to wash their hands, struggle with health problems and crowd together in grimy camps.\r\nThat's what makes homeless people particularly vulnerable to the coronavirus. Almost 200,000 people live in those conditions i\u2026 [+5241 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAY REEVES Associated Press",
+            "title": "Coronavirus leaves passenger-filled ships without ports",
+            "description": "The new coronavirus is posing a dilemma for cruise ships around the world",
+            "url": "https://abcnews.go.com/Travel/wireStory/coronavirus-leaves-passenger-filled-ships-ports-69458194",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_46ea501e86734b6ebb883586221df448_16x9_992.jpg",
+            "publishedAt": "2020-03-07T21:18:48Z",
+            "content": "Cruise ships hit by coronavirus outbreaks have quickly found themselves with no ports for thousands of passengers as countries on four continents have quarantined vessels or kept them at sea for days.\r\nKeeping all of the passengers on board instead of letting\u2026 [+3689 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "OLGA R. RODRIGUEZ",
+            "title": "Coronavirus concerns stalls cruise ship off California",
+            "description": "Thousands of people are confined to a cruise ship circling in international waters off the San Francisco Bay Area after 21 passengers and crew members tested positive for the coronavirus",
+            "url": "https://abcnews.go.com/Travel/wireStory/coronavirus-concerns-stalls-cruise-ship-off-california-69450639",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_6fd6e60c81004b9d8f2cba95fe08d373_16x9_992.jpg",
+            "publishedAt": "2020-03-07T05:24:54Z",
+            "content": "SAN FRANCISCO -- \r\nThousands of people were confined to a cruise ship circling in international waters off the San Francisco Bay Area Saturday after 21 passengers and crew members tested positive for the new coronavirus.\r\nThe Grand Princess was forbidden to d\u2026 [+8058 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Florida: 2 dead in the state who tested COVID-19 positive",
+            "description": "Florida health officials say two people who tested positive for the new coronavirus strain have died in the state",
+            "url": "https://abcnews.go.com/US/wireStory/florida-dead-state-tested-covid-19-positive-69449615",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T04:22:47Z",
+            "content": "MIAMI -- \r\nFlorida health officials say two people who tested positive for the new coronavirus have died in the state.\r\nThe Florida Department of Health said Friday evening that the two patients who died were in their 70s and had traveled overseas. One of the\u2026 [+702 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLEEN BARRY AP Business Writer",
+            "title": "Virus outbreak hits weakened Italian economy where it hurts",
+            "description": "Italy is taking an almighty hit to its already weak economy from being the focal point of the coronavirus emergency in Europe",
+            "url": "https://abcnews.go.com/Travel/wireStory/virus-outbreak-hits-weakened-italian-economy-hurts-69451678",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_da36181da748432a80771c39069d6fd0_16x9_992.jpg",
+            "publishedAt": "2020-03-07T07:28:34Z",
+            "content": "MILAN -- \r\nThe focal point of the coronavirus emergency in Europe, Italy, is also the region's weakest economy and is taking an almighty hit as foreigners stop visiting its cultural treasures or buying its prized artisanal products, from fashion to food to de\u2026 [+6414 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "Facebook says it will ban ads for medical face masks",
+            "description": "Facebook is temporarily banning advertisements for medical face masks as part of an effort to prevent use of its platform to exploit people's concerns about the new coronavirus",
+            "url": "https://abcnews.go.com/US/wireStory/facebook-ban-ads-medical-face-masks-69456220",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T19:33:17Z",
+            "content": "WASHINGTON -- \r\nFacebook is temporarily banning advertisements for medical face masks as part of an effort to prevent use of its platform to exploit people's concerns about the new coronavirus. \r\nThe ban covers advertisements on the social media platform as w\u2026 [+1701 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Ciara is latest musician to postpone show due to coronavirus",
+            "description": "Grammy-winning singer Ciara is the latest musician to postpone a concert because of the rapidly spreading coronavirus",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/ciara-latest-musician-postpone-show-due-coronavirus-69456153",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_28ea60840ee24d5596e25e4b5c7b91ff_16x9_992.jpg",
+            "publishedAt": "2020-03-07T19:27:32Z",
+            "content": "NEW YORK -- \r\nGrammy-winning singer Ciara is the latest musician to postpone a concert because of the rapidly spreading coronavirus.\r\nCiara, who is pregnant, was set to perform in Texas at the grand opening of the new Fort Hood USO on March 19 but announced S\u2026 [+1374 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAY REEVES Associated Press",
+            "title": "Coronavirus leaves passenger-filled ships without ports",
+            "description": "The new coronavirus is posing a dilemma for cruise ships around the world",
+            "url": "https://abcnews.go.com/Business/wireStory/coronavirus-leaves-passenger-filled-ships-ports-69458195",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_46ea501e86734b6ebb883586221df448_16x9_992.jpg",
+            "publishedAt": "2020-03-07T21:19:04Z",
+            "content": "Cruise ships hit by coronavirus outbreaks have quickly found themselves with no ports for thousands of passengers as countries on four continents have quarantined vessels or kept them at sea for days.\r\nKeeping all of the passengers on board instead of letting\u2026 [+3689 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARIA CHENG AP Medical Writer",
+            "title": "As virus outbreaks multiply, UN declines to declare pandemic",
+            "description": "As cases of the coronavirus surge in Italy, Iran, South Korea, the U.S. and elsewhere, many scientists say it's plain that the world is in the grips of a pandemic _ a serious global outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-outbreaks-multiply-declines-declare-pandemic-69453948",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_cb2dc3b75a354ab3b114f4da963beeef_16x9_992.jpg",
+            "publishedAt": "2020-03-07T15:35:54Z",
+            "content": "LONDON -- \r\nAs cases of the coronavirus surge in Italy, Iran, South Korea, the U.S. and elsewhere, many scientists say it's plain that the world is in the grips of a pandemic a serious global outbreak.\r\nThe World Health Organization has so far resisted descri\u2026 [+3613 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: Nile cruise ship under quarantine in Luxor",
+            "description": "A Nile cruise ship carrying over 150 tourists and Egyptian crew is under quarantine in the southern city of Luxor after 12 people tested positive for the coronavirus on Friday",
+            "url": "https://abcnews.go.com/Health/wireStory/latest-malaysia-joins-thailand-denying-cruise-ship-69451848",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_77c3b2b6a58d4006ba7b818f19f28d24_16x9_992.jpg",
+            "publishedAt": "2020-03-07T09:02:17Z",
+            "content": "BEIJING -- \r\nThe Latest on the coronavirus outbreak (all times local):\r\n5 p.m.\r\nA Nile cruise boat carrying over 150 tourists and Egyptian crew is under quarantine in the southern city of Luxor after 12 people tested positive for the coronavirus.\r\nEgyptian he\u2026 [+1342 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "EDITH M. LEDERER Associated Press",
+            "title": "UN: 9 countries delay rotating troop and police over virus",
+            "description": "The United Nations says nine countries that are contributing troops and police to the United Nations\u2019 far-flung peacekeeping operations are delaying bringing in replacements for three months because of the new coronavirus",
+            "url": "https://abcnews.go.com/US/wireStory/countries-delay-rotating-troop-police-virus-69447114",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T01:40:17Z",
+            "content": "UNITED NATIONS -- \r\nNine countries that contribute troops and police to the United Nations far-flung peacekeeping operations are delaying bringing in replacements for three months because of the new coronavirus, the United Nations said Friday.\r\nU.N. peacekeep\u2026 [+1135 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARTIN CRUTSINGER AP Economics Writer",
+            "title": "Facebook says it will ban ads for medical face masks",
+            "description": "Facebook is temporarily banning advertisements for medical face masks as part of an effort to prevent use of its platform to exploit people's concerns about the new coronavirus",
+            "url": "https://abcnews.go.com/Business/wireStory/facebook-ban-ads-medical-face-masks-69456221",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T19:33:32Z",
+            "content": "WASHINGTON -- \r\nFacebook is temporarily banning advertisements for medical face masks as part of an effort to prevent use of its platform to exploit people's concerns about the new coronavirus. \r\nThe ban covers advertisements on the social media platform as w\u2026 [+1701 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOE McDONALD AP Business Writer",
+            "title": "China trade slumps as anti-virus controls close factories",
+            "description": "China\u2019s exports fell by double digits in January and February as anti-virus controls closed factories",
+            "url": "https://abcnews.go.com/International/wireStory/china-trade-slumps-anti-virus-controls-close-factories-69449305",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T04:09:02Z",
+            "content": "BEIJING -- \r\nChinas exports fell by double digits in January and February as anti-virus controls closed factories, while imports sank by a smaller margin. \r\nExports tumbled 17.2% from a year earlier to $292.4 billion, a sharp reverse from Decembers 7.8% rise,\u2026 [+1702 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AYA BATRAWY Associated Press",
+            "title": "UAE raises virus cases to 45, new cases from 9 nationalities",
+            "description": "The United Arab Emirates has reported 15 additional cases of a new and fast-spreading virus, bringing the total in the country to 45",
+            "url": "https://abcnews.go.com/International/wireStory/uae-raises-virus-cases-45-cases-nationalities-69450707",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_d5e49a6a05db4858a59f519bd0a7ddf4_16x9_992.jpg",
+            "publishedAt": "2020-03-07T05:33:08Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nThe United Arab Emirates reported 15 additional cases on Saturday of a new and fast-spreading virus, bringing the total number of infections in the country to 45.\r\nThe Health Ministry said 13 of the new cases had recently arri\u2026 [+1575 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AYA BATRAWY Associated Press",
+            "title": "Saudis' arrest of 2 princes called a warning to royal family",
+            "description": "Two people close to Saudi Arabia's royal family say two senior princes are under arrest for not supporting Crown Prince Mohammed bin Salman, who has consolidated control of all major levers of power with the support of his father, King Salman",
+            "url": "https://abcnews.go.com/International/wireStory/saudis-arrest-princes-called-warning-royal-family-69459759",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_a9e0ebd73db1451cb42e92b05023cb66_16x9_992.jpg",
+            "publishedAt": "2020-03-07T23:00:34Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nTwo senior princes in Saudi Arabia are under arrest for not supporting Crown Prince Mohammed bin Salman, who has consolidated control of all major levers of power with the support of his father, King Salman, two people close t\u2026 [+5545 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARCIA DUNN AP Aerospace Writer",
+            "title": "SpaceX launches station supplies, nails 50th rocket landing",
+            "description": "SpaceX has launched another load of station supplies for NASA and nailed its 50th rocket landing",
+            "url": "https://abcnews.go.com/Technology/wireStory/spacex-launches-station-supplies-nails-50th-rocket-landing-69450328",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T05:04:45Z",
+            "content": "CAPE CANAVERAL, Fla. -- \r\nSpaceX launched another load of station supplies for NASA late Friday night and nailed its 50th rocket landing. \r\nThe Falcon rocket blasted off with 4,300 pounds (1,950 kilograms) of equipment and experiments for the International Sp\u2026 [+2718 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "American Film Institute postponing gala with Julie Andrews",
+            "description": "The American Film Institute says it is postponing its 48th annual AFI Life Achievement Award Gala Tribute honoring Julie Andrews",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/american-film-institute-postponing-gala-julie-andrews-69456805",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_933b07fb1194474db2f2dbdd5b3f2089_16x9_992.jpg",
+            "publishedAt": "2020-03-07T20:09:40Z",
+            "content": "NEW YORK -- \r\nThe American Film Institute says it is postponing its 48th annual AFI Life Achievement Award Gala Tribute honoring Julie Andrews in an apparent response to the new coronavirus outbreak.\r\nThe organization originally planned to give Andrews its Li\u2026 [+1395 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOE McDONALD AP Business Writer",
+            "title": "China trade slumps as anti-virus controls close factories",
+            "description": "China\u2019s exports fell by double digits in January and February as anti-virus controls closed factories",
+            "url": "https://abcnews.go.com/Business/wireStory/china-trade-slumps-anti-virus-controls-close-factories-69449307",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T04:09:17Z",
+            "content": "BEIJING -- \r\nChinas exports fell by double digits in January and February as anti-virus controls closed factories, while imports sank by a smaller margin. \r\nExports tumbled 17.2% from a year earlier to $292.4 billion, a sharp reverse from Decembers 7.8% rise,\u2026 [+1702 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MARCIA DUNN AP Aerospace Writer",
+            "title": "SpaceX launches station supplies, nails 50th rocket landing",
+            "description": "SpaceX has launched another load of station supplies for NASA and nailed its 50th rocket landing",
+            "url": "https://abcnews.go.com/Business/wireStory/spacex-launches-station-supplies-nails-50th-rocket-landing-69450346",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T05:05:12Z",
+            "content": "CAPE CANAVERAL, Fla. -- \r\nSpaceX launched another load of station supplies for NASA late Friday night and nailed its 50th rocket landing. \r\nThe Falcon rocket blasted off with 4,300 pounds (1,950 kilograms) of equipment and experiments for the International Sp\u2026 [+2718 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "EDITH M. LEDERER Associated Press",
+            "title": "UN chief: Gender inequality biggest human rights challenge",
+            "description": "U.N. Secretary-General Antonio Guterres is calling himself \u201ca proud feminist\u201d and lashing out at men who abuse power ahead of Sunday's observances for International Women\u2019s Day",
+            "url": "https://abcnews.go.com/US/wireStory/chief-gender-inequality-biggest-human-rights-challenge-69458497",
+            "urlToImage": "https://s.abcnews.com/images/US/WireAP_4446032ba5f34bb8ae893fdb1b55b4a7_16x9_992.jpg",
+            "publishedAt": "2020-03-07T21:32:16Z",
+            "content": "UNITED NATIONS -- \r\nCalling himself a proud feminist, U.N. Secretary-General Antonio Guterres lashed out at men who abuse power and declared before Sunday's observances of International Womens Day that the fight for gender equality is the biggest human rights\u2026 [+4943 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ADRIANA GOMEZ LICON Associated Press",
+            "title": "Florida: 2 dead in the state who tested COVID-19 positive",
+            "description": "Florida health officials say two people who tested positive for the new coronavirus have died in the state",
+            "url": "https://abcnews.go.com/Health/wireStory/florida-dead-state-tested-covid-19-positive-69450708",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-07T05:39:02Z",
+            "content": "MIAMI -- \r\nTwo people who tested positive for the new coronavirus have died in Florida, marking the first deaths on the East Coast attributed to the outbreak in the U.S., health officials said Friday.\r\nThe Florida Department of Health said the two people who \u2026 [+2646 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Canada declares coronavirus outbreak at long-term care home",
+            "description": "Canadian officials are declaring an outbreak of the new coronavirus at a long-term care home in North Vancouver where two elderly residents have been diagnosed with the illness",
+            "url": "https://abcnews.go.com/International/wireStory/canada-declares-coronavirus-outbreak-long-term-care-home-69460026",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_7e0664ba98594a6f92f2ef795f2eb559_16x9_992.jpg",
+            "publishedAt": "2020-03-07T23:13:38Z",
+            "content": "VANCOUVER, British Columbia -- \r\nCanadian officials on Saturday declared an outbreak of the new coronavirus at a long-term care home in North Vancouver after health officials said two elderly residents were diagnosed with the illness.\r\nDr. Bonnie Henry, the B\u2026 [+1735 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Cyprus police pepper spray protesters at shut crossing point",
+            "description": "Cyprus riot police used pepper spray on Saturday to thwart Turkish Cypriot protesters trying to shove their way through a barricaded crossing point in the heart of the ethnically divided island nation's capital",
+            "url": "https://abcnews.go.com/Health/wireStory/cyprus-police-pepper-spray-protesters-shut-crossing-point-69453312",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_4ec02c50407d4f1e8a0483780a2ef7d5_16x9_992.jpg",
+            "publishedAt": "2020-03-07T14:45:43Z",
+            "content": "NICOSIA, Cyprus -- \r\nCyprus riot police used pepper spray on Saturday to thwart Turkish Cypriot protesters trying to shove their way through a barricaded crossing point in the heart of the ethnically divided island nation's capital. \r\nSeveral dozen protesters\u2026 [+1838 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOE McDONALD Associated Press",
+            "title": "US cruise ship in limbo as anti-virus controls spread",
+            "description": "U.S. officials are deciding where to dock a cruise ship in California with 21 virus cases aboard, while four American universities canceled in-person classes as a wave of anti-disease measures that started in China spread to the West",
+            "url": "https://abcnews.go.com/Health/wireStory/us-cruise-ship-limbo-anti-virus-controls-spread-69451578",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_39185ab2a0bf4bda9e5cf4f7ff9ef855_16x9_992.jpg",
+            "publishedAt": "2020-03-07T07:12:18Z",
+            "content": "BEIJING -- \r\nU.S. officials were deciding where to dock a cruise ship in California with 21 virus cases aboard and four American universities canceled in-person classes as sweeping efforts to contain the outbreak that started in China spread to the West.\r\nThe\u2026 [+6485 chars]"
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Cory Stieg",
+            "title": "Should you skip the gym or a workout class because of the coronavirus outbreak?",
+            "description": "As schools and businesses close to prevent the spread of the coronavirus, here's what experts have to say about working out at the gym amid the outbreak.",
+            "url": "https://www.cnbc.com/2020/03/06/is-it-safe-to-go-to-the-gym-safe-during-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106424843-1583352987154yoga-event_t20_znbaeb.jpg?v=1583353045",
+            "publishedAt": "2020-03-07T13:01:01Z",
+            "content": "With close contact, crowded spaces, heavy breathing and frequently-touched equipment, the gym might seem like a minefield for coronavirus infection.\r\nCoronavirus, aka \"COVID-19,\" is believed to spread through inhaling respiratory droplets that are released wh\u2026 [+4527 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "Analysts upgraded these stocks, saying they're safe from the coronavirus outbreak",
+            "description": "Wall Street analysts see a buying opportunity for these stocks that are safe from the coronavirus outbreak, including Verizon, Oracle, Masimo, and others.",
+            "url": "https://www.cnbc.com/2020/03/07/verizon-oracle-among-stocks-safe-from-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104196381-GettyImages-615333038.jpg?v=1580388960",
+            "publishedAt": "2020-03-07T12:12:54Z",
+            "content": "(This story is for CNBC PRO subscribers only.)\r\nIt was another week of\u00a0turbulence\u00a0for\u00a0the market,\u00a0but Wall Street analysts analysts have upgraded a slew of stocks that may provide investors safety amid the COVID-19 fears.\r\nCNBC PRO examined the most recent Wa\u2026 [+169 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Leader of Italy's co-ruling democratic party tests positive for coronavirus",
+            "description": "The leader of Italy's co-ruling Democratic Party Nicola Zingaretti said Saturday he had tested positive for coronavirus.",
+            "url": "https://www.cnbc.com/2020/03/07/leader-of-italys-co-ruling-democratic-party-tests-positive-for-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106430430-1583583787248gettyimages-1200547552.jpg?v=1583583907",
+            "publishedAt": "2020-03-07T12:20:00Z",
+            "content": "The leader of Italy's co-ruling Democratic Party Nicola Zingaretti said on Saturday he had tested positive for coronavirus. \r\n \"I have coronavirus too\", Zingaretti said in a video posted on Facebook, adding he was in self-isolation at home and that all the pe\u2026 [+438 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Taylor Locke",
+            "title": "Salesforce asks employees in California to work remotely in March due to coronavirus",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/03/07/salesforce-asks-california-employees-to-work-remotely-amid-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105664085-1546890922176gettyimages-1045708052.jpeg?v=1583613922",
+            "publishedAt": "2020-03-07T20:40:04Z",
+            "content": "Salesforce is now encouraging all its employees across California to work remotely during the month of March as concerns grow over the spread of\u00a0coronavirus.\r\n\"We've made this decision out of an abundance of caution and in service to protecting our employees,\u2026 [+1366 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Analysts say the coronavirus outbreak won't hurt the stock that Stifel calls 'The Terminator'",
+            "description": "Wall Street analysts have been getting behind Leidos as the outbreak has spread around the world. Stifel has previously called the stock 'The Terminator'.",
+            "url": "https://www.cnbc.com/2020/03/07/analysts-say-the-coronavirus-outbreak-wont-hurt-leidos-stock.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106429217-158351178269483448002_2744769608911127_2802631873363181568_o.jpg?v=1583511823",
+            "publishedAt": "2020-03-07T12:06:17Z",
+            "content": "A government contractor Stifel deemed \"The Terminator\" could be one of the best bets to lead the market back after the coronavirus sell-off, according to Wall Street analysts.\u00a0\r\nAnalysts have been getting behind Leidos as the outbreak has spread around the wo\u2026 [+2709 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jabari Young",
+            "title": "NBA advises teams to prep contingency plans for games without fans due to coronavirus",
+            "description": "The NBA said teams should identify \"actions required if it were to become necessary to play a game with only essential staff present\" without fans or media.",
+            "url": "https://www.cnbc.com/2020/03/07/nba-tells-teams-to-prep-plans-for-games-without-fans-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106029385-1563552568135gettyimages-1144057874.jpeg?v=1583559449",
+            "publishedAt": "2020-03-07T05:40:00Z",
+            "content": "The National Basketball Association sent a memo to teams on Friday night, urging officials to prepare game contingency plans should the coronavirus continue to spread.\r\nThe NBA said teams should identify \"actions required if it were to become necessary to pla\u2026 [+2348 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Taylor Locke",
+            "title": "Amtrak suspends nonstop Acela service between DC and New York due to coronavirus",
+            "description": "The Acela nonstop service will be temporarily suspended starting Tuesday, March 10 until Tuesday, May 26.",
+            "url": "https://www.cnbc.com/2020/03/07/amtrak-cancels-nonstop-acela-service-between-dc-nyc-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106143936-1569245232843gettyimages-161763007.jpeg?v=1569245251",
+            "publishedAt": "2020-03-07T16:33:00Z",
+            "content": "Amtrak has cancelled its Acela nonstop service between Washington, D.C. and New York as one of its safety measures amid concerns regarding the spread of the coronavirus.\u00a0\r\n\"The safety of Amtrak's customers and employees is our top priority,\" the company said \u2026 [+1301 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jennifer Elias",
+            "title": "Facebook, Google giving cash to Silicon Valley communities affected by coronavirus cancellations",
+            "description": "As tech companies pull out their massive conferences, they're offering up some some cash to the cities losing out.",
+            "url": "https://www.cnbc.com/2020/03/07/facebook-google-giving-cash-to-communities-affected-by-coronavirus-cancellations.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105193557-RTS1QG9R.jpg?v=1583444245",
+            "publishedAt": "2020-03-07T15:12:00Z",
+            "content": "As Silicon Valley companies cancel their massive annual conferences amid the coronavirus spreading, they're kicking\u00a0some cash over to the cities that were supposed to host them.\r\nNearly all the major tech companies have announced decisions to cancel, alter an\u2026 [+3275 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "AJ Horch",
+            "title": "How to afford your favorite vices without going broke",
+            "description": "NFL linebacker Whitney Mercilus loves fine wine, but even for an NFL star, the bills are high. With the help of a wealth manager, he learned to afford his favorite vice and save for the future.",
+            "url": "https://www.cnbc.com/2020/03/07/how-to-afford-your-favorite-vices-without-going-broke.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105982104-1564165550958french.jpg?v=1564165577",
+            "publishedAt": "2020-03-07T14:36:01Z",
+            "content": "Vices are nothing to ashamed of, in fact, everyone has at least one.\u00a0\r\n\"There's fashion, jewelry, nice watches and so on,\" says wealth manager Joe McLean, founder of financial services firm Intersect Capital, which helps superstar athletes from the NFL,\u00a0NBA, \u2026 [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Santoli",
+            "title": "Stressed stock market may need to retest its lows before finding its footing in the coronavirus crisis",
+            "description": "The market remains volatile as investors assess the effects of the coronavirus outbreak on economic growth.",
+            "url": "https://www.cnbc.com/2020/03/07/stressed-stock-market-may-need-to-retest-its-lows-before-finding-its-footing-in-the-coronavirus-crisis.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416767-15829288667542020-02-28t212807z_1382350130_rc2x9f9n8rbo_rtrmadp_3_usa-stocks.jpg?v=1582928929",
+            "publishedAt": "2020-03-07T13:07:26Z",
+            "content": "The stock market doesn't \"wait and see.\"\r\nAs much as investors themselves need time to assess the economic effects of the coronavirus outbreak, the market registers the immediate shock of a derailed economic-growth outlook and then whips around madly as it sh\u2026 [+5392 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Elizabeth Gravier",
+            "title": "What is a medical credit card\u2014and should I use one?",
+            "description": "Those pretty brochures you see at your dentist's reception desk? There's a catch to the medical credit cards they say you may qualify for. CNBC Select offers input on whether or not you should apply.",
+            "url": "https://www.cnbc.com/select/medical-credit-cards/",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106429197-1583511206118gettyimages-1187186871.jpeg?v=1583511367",
+            "publishedAt": "2020-03-07T13:00:01Z",
+            "content": "In an age of coronavirus chaos and flu season, your trips to the doctor this time of year may be more frequent than usual. Or maybe you have an upcoming dental or vision procedure that you know will be costly. Whatever the case, expensive medical treatments c\u2026 [+3240 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Everything Jim Cramer said about the stock market on 'Mad Money,' including coronavirus and corporate earnings, stay-at-home plays",
+            "description": "CNBC's Jim Cramer marked 15 years of \"Mad Money.\" Besides celebrating the milestone, the host got down to business to preview the week ahead of corporate earnings with the backdrop of the coronavirus outbreak.",
+            "url": "https://www.cnbc.com/2020/03/06/jim-cramers-mad-money-recap-stock-picks-march-6-2020.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104608847-IMG_5164-jim-cramer.jpg?v=1501019034",
+            "publishedAt": "2020-03-07T01:42:48Z",
+            "content": "CNBC's Jim Cramer and the \"Mad Money\" staff celebrated a milestone Friday. Cramer and his crew rang the morning bell at the New York Stock Exchange to mark 15 years of airing the weeknight investing show on CNBC. \r\nThe former hedge fund manager took time to r\u2026 [+2511 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Kempe",
+            "title": "Op-Ed: The coronavirus outbreak is already changing the world",
+            "description": "Proactive countries, societies and individuals are performing far better than reactive ones. Governments that engage in truth-telling are heading off dangers faster than those that obfuscate or delay.",
+            "url": "https://www.cnbc.com/2020/03/07/op-ed-the-coronavirus-outbreak-is-already-changing-the-world.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106383035-1581364730867gettyimages-1199862096.jpeg?v=1581364770",
+            "publishedAt": "2020-03-07T18:04:56Z",
+            "content": "Coronavirus will change the world. The \"how\" is growing clearer with each day of its global spread.\r\nUnpredictable events produce unforeseen outcomes. Yet sift carefully through the deluge of reporting, and one can discern the first outlines of how this entre\u2026 [+7091 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Cramer's week ahead: Corporate earnings will play a back seat to coronavirus",
+            "description": "\"Pay attention to what these companies have to say next week, but don't forget that at least for the moment \u2014 COVID-19 is in the driver's seat,\" CNBC's Jim Cramer said.",
+            "url": "https://www.cnbc.com/2020/03/06/cramer-week-ahead-corporate-earnings-play-back-seat-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106429891-1583533991796gettyimages-1204216370.jpeg?v=1583534056",
+            "publishedAt": "2020-03-07T00:27:01Z",
+            "content": "The rapidly spreading coronavirus is weighing heavy on the stock market, despite what the underlying fundamentals of companies are telling investors, CNBC's Jim Cramer said Friday.\r\nThe number of cases outside of China, where the novel disease is believed to \u2026 [+4167 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tom Huddleston",
+            "title": "This hedge fund billionaire owns the most expensive home ever sold in America \u2014 here's how he spends his fortune",
+            "description": "Research firm Wealth-X gave CNBC Make It a breakdown of how hedge fund billionaire Ken Griffin spends his more than $12 billion fortune.",
+            "url": "https://www.cnbc.com/2020/03/06/photos-how-citadel-billionaire-ken-griffin-spends-his-fortune.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/101841521-Griffin---tight-crop.jpg?v=1531843923",
+            "publishedAt": "2020-03-07T13:31:01Z",
+            "content": "Ken Griffin might not be the wealthiest person in the world, but that hasn't stopped him from outspending his fellow billionaires on splashy real estate deals. His latest buy is reportedly in contract fashion icon Calvin Klein's seven-acre oceanfront Hamptons\u2026 [+7016 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Christine Wang",
+            "title": "Florida says 2 residents have died from coronavirus",
+            "description": "The cases are the first known deaths in the state.",
+            "url": "https://www.cnbc.com/2020/03/07/coronavirus-florida-says-2-residents-have-died.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106430056-1583554218726gettyimages-1204807335.jpeg?v=1583554239",
+            "publishedAt": "2020-03-07T04:11:35Z",
+            "content": "The Florida Department of Health announced late Friday that two residents have died in the coronavirus outbreak.\r\nOne person was a new presumptive positive case in Lee County, the department said. The other person was a previously announced presumptive positi\u2026 [+725 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Tyler Clifford",
+            "title": "Jim Cramer: 20 stock picks for the 'stay-at-home economy'",
+            "description": "\"What works in this difficult environment are companies with products that you can enjoy from the comfort of your home,\" the \"Mad Money\" host said.",
+            "url": "https://www.cnbc.com/2020/03/06/jim-cramer-20-stock-picks-for-coronavirus-stay-at-home-economy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104965325-GettyImages-825338340-amazon.jpg?v=1583534142",
+            "publishedAt": "2020-03-07T00:31:19Z",
+            "content": "The coronavirus outbreak is feeding into the \"stay-at-home-economy\" and the market impact is opening new opportunities for investors, CNBC's\u00a0Jim Cramer said Friday.\r\n\"After another panicked week where doom and gloom dominated the headlines, I want to help you\u2026 [+1375 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Salvador Rodriguez",
+            "title": "Facebook temporarily bans ads, listings for medical face masks amid coronavirus outbreak",
+            "description": "The social media giant said it will begin to enforce the temporary ban on these type of ads \"over the next few days.\"",
+            "url": "https://www.cnbc.com/2020/03/07/facebook-bans-ads-listings-for-medical-face-masks-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105496051-1539092455611gettyimages-962142738.jpeg?v=1570625837",
+            "publishedAt": "2020-03-07T02:55:28Z",
+            "content": "Facebook on Friday announced it is temporarily banning ads and commerce listings selling medical face masks as the company continues to grapple with the reaction of its users to the outbreak of the COVID-19 coronavirus.\r\nFacebook Director of Product Managemen\u2026 [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Emma Newburger",
+            "title": "Coronavirus live updates: Pope cancels major public appearances as cases surge in Europe",
+            "description": null,
+            "url": "https://www.cnbc.com/2020/03/07/coronavirus-live-updates-pope-cancels-large-public-appearances-as-cases-surge-in-europe.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106430452-1583590154325gettyimages-1203588599.jpeg?v=1583590185",
+            "publishedAt": "2020-03-07T14:19:05Z",
+            "content": "Pope Francis greets the believers as he arrives to lead the weekly General Audience at St. Peter's Square. The General Audience is held every Wednesday, in Saint Peter's Square, which can accommodate around 80,000 people.\r\nThis is CNBC's 24-hour live blog cov\u2026 [+5248 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "China January-February exports tumble, imports slow as coronavirus batters trade and business",
+            "description": "The gloomy trade report is likely to reinforce fears that China's economic growth halved in the first quarter to the weakest since 1990.",
+            "url": "https://www.cnbc.com/2020/03/07/coronavirus-china-jan-feb-2020-trade-data-reflects-outbreaks-impact.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106063015-1565101863508rtx72e71.jpg?v=1565610620",
+            "publishedAt": "2020-03-07T04:44:52Z",
+            "content": "China's exports contracted sharply in the first two months of the year, as the fast spreading coronavirus outbreak caused massive disruptions to business operations, global supply chains and economic activity.\r\nImports also fell but were better than analyst e\u2026 [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lauren Hirsch",
+            "title": "Trump says, 'Anybody who wants a test gets a test' after Pence says US can't meet coronavirus testing demand",
+            "description": "U.S. health officials started the week by defending themselves to members of Congress for a shortage of coronavirus tests across the country. That shortage allowed infected people to go undetected and further spread COVID-19, say health experts.",
+            "url": "https://www.cnbc.com/2020/03/06/trump-anybody-who-wants-a-test-gets-a-test-amid-shortage-for-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106430005-1583543342431gettyimages-1205520989.jpeg?v=1583543402",
+            "publishedAt": "2020-03-07T01:12:14Z",
+            "content": "Topping a week of conflicting statements from the administration about how many tests the U.S. is now able to administer for the coronavirus, President Donald Trump on Friday told reporters at the Centers for\u00a0Disease Control and Prevention in Atlanta that \"an\u2026 [+3130 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Sarah O'Brien",
+            "title": "Why the coronavirus should make you pause if you're thinking about retiring overseas",
+            "description": "Before planning to spend your retirement years in another country, it's important to factor the cost, quality and access of health care into the equation.",
+            "url": "https://www.cnbc.com/2020/03/06/why-the-coronavirus-should-make-you-rethink-retiring-overseas.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422599-1583262124785gettyimages-1210144924.jpeg?v=1583262195",
+            "publishedAt": "2020-03-07T15:16:01Z",
+            "content": "If you've been considering overseas retirement spots, the rapid spread of the new coronavirus around the globe might be giving you pause.\r\nThat may not be a bad thing, say some experts. While it's tricky to predict where and when any contagion whether this co\u2026 [+8062 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Pippa Stevens",
+            "title": "When you sell during a panic you may miss the market's best days",
+            "description": "Bank of America said to \"avoid panic selling,\" since stocks' best days usually follow the worst.",
+            "url": "https://www.cnbc.com/2020/03/07/when-you-sell-during-a-panic-you-may-miss-the-markets-best-days.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106406181-1582555953834preview1.jpeg?v=1582556079",
+            "publishedAt": "2020-03-07T13:00:58Z",
+            "content": "Panic selling not only locks in losses but also puts investors at risk for missing the market's best days.\r\nLooking at data going back to 1930, Bank of America found that if an investor missed the S&amp;P 500's 10 best days in each\u00a0 decade, total returns woul\u2026 [+2673 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Cnbc",
+            "title": "70 people trapped after hotel used for coronavirus quarantine collapses in China: Reuters",
+            "description": "70 people trapped after hotel used for coronavirus quarantine collapses in China: Reuters cnbc.com",
+            "url": "https://www.cnbc.com/2020/03/07/70-people-trapped-after-hotel-used-for-coronavirus-quarantine-collapses-in-china-reuters.html",
+            "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+            "publishedAt": "2020-03-07T14:30:12Z",
+            "content": "About 70 people were trapped in a collapsed hotel in the city of Quanzhou, in southeastern Fujian Province, the city government said on its website.\r\nThe collapsed hotel is used for coronavirus quarantine, according to the official People's Daily. The buildin\u2026 [+195 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Cnbc",
+            "title": "New York Governor Andrew Cuomo declares state of emergency over coronavirus outbreak",
+            "description": "Gov. Andrew Cuomo declared a state of emergency on Saturday after the number of confirmed coronavirus cases in New York increased to 76.",
+            "url": "https://www.cnbc.com/2020/03/07/new-york-governor-andrew-cuomo-declares-state-of-emergency-over-coronavirus-outbreak.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106427032-1583429598959gettyimages-1205292890.jpeg?v=1583429653",
+            "publishedAt": "2020-03-07T18:14:10Z",
+            "content": "Gov. Andrew Cuomo declared a state of emergency on Saturday after the number of confirmed coronavirus cases in New York increased to 76.\u00a0\r\nEleven of the cases are in New York City and 57 are in Westchester County. There are also signals of an ongoing spread, \u2026 [+783 chars]"
+        }
+    ]
+}

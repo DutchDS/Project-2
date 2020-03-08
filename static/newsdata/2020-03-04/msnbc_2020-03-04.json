@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "U.S. coronavirus death toll rises to 9",
+            "description": "Could coronavirus precautions backfire? Stephanie Ruhle is joined by Congresswoman Donna Shalala who served as the Health & Human Services Secretary under President Clinton to discuss what the U.S. government plans to do about coronavirus and the fear that qu\u2026",
+            "url": "https://www.msnbc.com/stephanie-ruhle/watch/u-s-coronavirus-death-toll-rises-to-9-79998021558",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_ruhle_shalala_200304_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-04T16:40:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "United Airlines reducing flights due to coronavirus outbreak",
+            "description": "United Airlines has decided to reduce their number of flights due to the coronavirus outbreak. NBC News' Tom Costello has details on the decision and the impact it could have.",
+            "url": "https://www.msnbc.com/msnbc/watch/united-airlines-reducing-flights-due-to-coronavirus-outbreak-80011333947",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_msnbc_brk_united_reduces_200304_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-04T20:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Dr. Fair: $8.3B Coronavirus funding bill not \u201cnearly enough\u201d",
+            "description": "The global mortality rate for the coronavirus has now reached 3.4%. MSNBC Medical Contributor Dr. Joseph Fair joins Yasmin Vossoughian to discuss the obstacles U.S. officials are facing as they look to stop the spread of this deadly virus.",
+            "url": "https://www.msnbc.com/ali-velshi/watch/dr-fair-8-3b-coronavirus-funding-bill-not-nearly-enough-80015941697",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_velshi_fair_200304_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-04T21:31:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Los Angeles mayor says Biden a 'great guy, great American'",
+            "description": "National Co-Chair of Joe Biden's campaign, Los Angeles Mayor Eric Garcetti, joins Morning Joe to discuss Biden's wins during Super Tuesday and the latest developments in the coronavirus.",
+            "url": "https://www.msnbc.com/morning-joe/watch/mayor-eric-garcetti-no-one-has-a-bigger-heart-than-joe-biden-79987269776",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mj_garcetti_200304_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-04T14:22:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Pence coronavirus briefing: We have a \u2018whole of America approach\u2019",
+            "description": "Pence coronavirus briefing: We have a \u2018whole of America approach\u2019",
+            "url": "https://www.msnbc.com/mtp-daily/watch/pence-coronavirus-briefing-we-have-a-whole-of-america-approach-80020549911",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_clip_pencebriefingvirus_200304_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-04T22:44:01Z",
+            "content": null
+        }
+    ]
+}

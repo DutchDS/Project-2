@@ -1,0 +1,318 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "VP Pence delivers coronavirus update: 21 positive cases on California cruise ship",
+            "description": "Vice President Pence delivers an update on coronavirus, confirms 21 people on the Grand Princess cruise ship off the coast of California have tested positive for coronavirus",
+            "url": "http://www.msnbc.com/mtp-daily/watch/vp-pence-delivers-coronavirus-update-21-positive-cases-on-california-cruise-ship-80183365716",
+            "urlToImage": null,
+            "publishedAt": "2020-03-06T22:55:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Columbia U doctor on federal response to coronavirus: \u2018gross amateur hour incompetence\u2019",
+            "description": "This morning President Trump signed an emergency bill for $8.4 billion coronavirus funding. \nDr. Irwin Redlener, Director Of Columbia University's National Center For Disaster Preparedness joins Yasmin Vossoughian to discuss the federal response to the corona\u2026",
+            "url": "https://www.msnbc.com/katy-tur/watch/columbia-u-doctor-on-federal-response-to-coronavirus-gross-amateur-hour-incompetence-80173637594",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_tur_2pDocABlock_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T20:37:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Pres. Trump during CDC visit: 'Anybody that needs a test can have a test'",
+            "description": "During his visit to the CDC, Pres. Trump talks about the coronavirus testing kit.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/pres-trump-during-cdc-visit-anybody-that-needs-a-test-can-have-a-test-80182853529",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_clip_trumpcdc_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T22:31:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Examining how coronavirus can affect the economy",
+            "description": "NBC News Senior Business Correspondent Stephanie Ruhle and New York Times Economics Writer Ben Casselman joins Yasmin Vossoughian to discuss how the coronavirus outbreak will directly affect American businesses.",
+            "url": "https://www.msnbc.com/katy-tur/watch/examining-how-coronavirus-can-affect-the-economy-80174661548",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_tur_TurCBlock_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T20:46:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Americans desperate for credible information about coronavirus",
+            "description": "Inside the mixed messaging coming out of the White House on coronavirus as the virus continues to spread across the country",
+            "url": "https://www.msnbc.com/deadline-white-house/watch/americans-desperate-for-credible-information-about-coronavirus-80177221658",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_wh_deadline_coronacirus_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T21:32:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "How could coronavirus impact the U.S. economy?",
+            "description": "Austan Goolsbee on the economic impact of the coronavirus and how the U.S. economy relies more on face-to-face services.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/how-could-coronavirus-impact-the-u-s-economy-80180805884",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_clip_goolsbee_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T22:25:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Richard Engel: 'Skeptical' of the decreasing coronavirus cases out of China",
+            "description": "Richard Engel on the decreasing number of coronavirus cases in China and how much that can be trusted.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/richard-engel-skeptical-of-the-decreasing-coronavirus-cases-out-of-china-80182853971",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_clip_engelonchina_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T22:52:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Ebola Czar to Trump: Put down the phone",
+            "description": "Ron Klain, the man who led the response to Ebola under President Obama, says the Trump administration\u2019s response to coronavirus is \u201cinexcusable.\u201d",
+            "url": "https://www.msnbc.com/all-in/watch/ebola-czar-to-trump-put-down-the-phone-80109637754",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_hayes_klain_200305_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T01:31:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": null,
+            "title": "Why U.S. may have to use 'disruptive' measures to halt virus",
+            "description": "NBC News' Richard Engel reports on the global response to the coronavirus as well as the Trump administration's handling of virus response.",
+            "url": "http://www.msnbc.com/morning-joe/watch/why-u-s-may-have-to-use-disruptive-measures-to-halt-virus-80138309940",
+            "urlToImage": null,
+            "publishedAt": "2020-03-06T13:31:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Coronavirus fears are tanking markets. That has Trump worried.",
+            "description": "The economy and numbers on Wall Street have been the backbone of Trump's re-election argument. But coronavirus fears are talking markets worldwide, and that reportedly has Trump concerned.",
+            "url": "https://www.msnbc.com/11th-hour/watch/coronavirus-fears-are-tanking-markets-that-has-trump-worried-80119365615",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_bwms_mkts_200305_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T04:50:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Quarantined nurse raises alarms over being denied coronavirus test",
+            "description": "The Executive Director of National Nurses United reads a statement from a quarantined nurse who is being denied coronavirus testing: \"What a ridiculous and uneducated response from the department that is in charge or our countries health.\"",
+            "url": "https://www.msnbc.com/all-in/watch/quarantined-nurse-raises-alarms-over-being-denied-coronavirus-test-80110149805",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_hayes_bonnie_200305_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T01:58:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump is not telling the truth about the coronavirus",
+            "description": "As health officials confirm more and more cases of coronavirus in the U.S., Trump again went on FOX News for the second day in a row and spread misinformation about the outbreak.",
+            "url": "https://www.msnbc.com/11th-hour/watch/trump-is-not-telling-the-truth-about-the-coronavirus-80116805784",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_bwms_truth_200305_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T04:09:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Trump only engaged on coronavirus when it became a political crisis",
+            "description": "Trump only really engaged on the coronavirus response - not when it became a public health crisis - but when it became a political crisis. We discuss with Ashley Parker and Jonathan Lemire.",
+            "url": "https://www.msnbc.com/11th-hour/watch/trump-only-engaged-on-coronavirus-when-it-became-a-political-crisis-80116805920",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_bwms_trump_200305_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T04:20:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Fmr. HHS Secretary: Trump trying to downplay coronavirus is \u2018dangerous\u2019",
+            "description": "On Trump\u2019s handling of the coronavirus and blaming the Obama Administration, Former Health and Human Services Secretary in the Obama White House Kathleen Sibelius says \u201cTo try and downplay that (coronavirus) so people don\u2019t take it seriously, to try and sugge\u2026",
+            "url": "https://www.msnbc.com/msnbc/watch/fmr-hhs-secretary-trump-trying-to-downplay-coronavirus-is-dangerous-80105029976",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_msnbc_kathleen1_200305_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T00:34:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Coronavirus rattles stock market for second straight week",
+            "description": "CNBC's Dominic Chu joins Morning Joe to discuss the volatility in the market for the second straight week due to coronavirus.",
+            "url": "https://www.msnbc.com/msnbc/watch/coronavirus-rattles-stock-market-for-second-straight-week-80134213842",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_m_dom_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T11:37:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Death toll from coronavirus rises to 14 in the United States",
+            "description": "New York, Washington and Maryland declare state of emergencies as death toll in the United States rises to 14.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/death-toll-from-coronavirus-rises-to-14-in-the-united-states-80180805563",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_clip_coronavirus14_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T22:07:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "San Francisco mayor on coronavirus in her city",
+            "description": "Watch the mayor of San Francisco, London Breed, join Stephanie Ruhle to discuss how she is trying to stop the spread of coronavirus in her city and why she thinks the federal government hasn't done enough.",
+            "url": "https://www.msnbc.com/stephanie-ruhle/watch/san-francisco-mayor-on-coronavirus-in-her-city-80161861568",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_ruhle_mayor_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T17:56:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Why Trump can't be in a state of denial anymore about coronavirus",
+            "description": "As cases of the coronavirus continue to spread globally, the president is not backing away from spreading personal beliefs about the virus that contradict health officials and experts. The panel discusses the dangers of Trump's hunches.",
+            "url": "https://www.msnbc.com/morning-joe/watch/why-trump-can-t-be-in-a-state-of-denial-anymore-about-coronavirus-80136773748",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mj_virus_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T12:22:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "\u2018Frivolous\u2019: Trump rebuked for suing journalists in 2020 campaign",
+            "description": "The Trump campaign is suing journalists heading into the 2020 campaign, and veteran legal reporter and lawyer Dan Abrams calls out the attacks on the press, noting Trump's case is so weak this is more a political strategy than an actual attempt to prevail in \u2026",
+            "url": "https://www.msnbc.com/the-beat-with-ari/watch/-frivolous-trump-rebuked-for-suing-journalists-in-2020-campaign-80190533563",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_ari_fallbackfriday_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T23:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Trump coronavirus incompetence 'like its own natural disaster'...",
+            "description": "Senator Elizabeth Warren talks with Rachel Maddow about the global factors that are undermining the U.S. economy as the damage from the spread of the coronavirus collides with the incompetence of the Trump administration.",
+            "url": "https://www.msnbc.com/rachel-maddow/watch/trump-coronavirus-incompetence-like-its-own-natural-disaster-warren-80116805828",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_maddow_warrencovid_200305_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T04:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Drew Katchen",
+            "title": "Novel Coronavirus testing-problems and solutions",
+            "description": "Novel Coronavirus testing-problems and solutions",
+            "url": "http://www.msnbc.com/morning-joe/novel-coronavirus-testing-problems-and-solutions",
+            "urlToImage": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/videos/n_mj_virus_200306_1920x1080.jpg?itok=jibRn6Ze",
+            "publishedAt": "2020-03-06T15:59:59Z",
+            "content": "By Dr. Dave CampbellMorning Joe Chief Medical Correspondent\r\nThe United States is behind the 8-ball in the novel coronavirus outbreak spreading across the country. Other countries were quicker to test massive numbers of their citizens utilizing World Health O\u2026 [+7515 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "February jobs report: 273,000 jobs added, unemployment rate...",
+            "description": "CNBC\u2019s Sara Eisen joins Morning Joe to discuss the latest monthly employment data and the market\u2019s reaction to coronavirus news.",
+            "url": "https://www.msnbc.com/msnbc/watch/february-jobs-report-273-000-jobs-added-unemployment-rate-decreases-80140869664",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/1205332247.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T13:58:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Msnbc",
+            "title": "White House's Kudlow inexplicably says virus 'looks relatively contained'",
+            "description": "It may be tempting to think Kudlow's unfortunate coronavirus rhetoric is irrelevant, but he is an official member of the White House Coronavirus Taskforce.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/white-house-s-kudlow-inexplicably-says-virus-looks-relatively-contained-n1151561",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2018_23/2457971/180607-larry-kudlow-ew-117p_c9a6705576d6be8cd4a0fb934afa5738.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T17:08:26Z",
+            "content": "White House National Economic Council Director Larry Kudlow spoke to CNBC this morning, though if his comments were intended to reassure, they appear to have fallen short.\r\nLarry Kudlow, President Donald Trump's chief economic advisor, told CNBC on Friday tha\u2026 [+1725 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MPX",
+            "title": "Why were there delays in coronavirus testing kits?",
+            "description": "Dr. Ezekiel Emanuel, Fmr. Obama WH Adviser Special Adviser for Health Policy, on the delays in coronavirus testing kits.",
+            "url": "https://www.msnbc.com/mtp-daily/watch/why-were-there-delays-in-coronavirus-testing-kits-80180293813",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_mtpd_clip_zekeontestingkits_200306_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-06T22:34:00Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "Trump Signs $8.3 Billion Coronavirus Funding Bill",
+            "description": "President Trump on Friday signed an $8.3 billion emergency spending bill to combat the coronavirus as the number of cases of infected people in the U.S. passed 200 the day before.",
+            "url": "https://www.nationalreview.com/news/trump-signs-8-3-billion-coronavirus-funding-bill/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-press-conference-trump-pence.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-06T16:50:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "University of Washington Becomes First U.S. College to Cancel Classes Due to Coronavirus",
+            "description": "The University of Washington in Seattle said Friday that it will move all classes online after a university staff member was diagnosed with the coronavirus this week.",
+            "url": "https://www.nationalreview.com/news/university-of-washington-becomes-first-u-s-college-to-cancel-classes-due-to-coronavirus/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/univewashington.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-03-06T18:51:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Mairead McArdle, Mairead McArdle",
+            "title": "U.S. Economy Adds 273,000 Jobs in February, Beating Expectations amid Coronavirus Scare",
+            "description": "The U.S. economy added 273,000 new jobs in February, almost 100,000 more positions than economists predicted.",
+            "url": "https://www.nationalreview.com/news/u-s-economy-adds-273000-jobs-in-february-beating-expectations-amid-coronavirus-scare/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2019/12/stocks.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-06T15:27:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Olympics Officials Discuss Holding Summer 2020 Games Without Spectators amid Coronavirus Fears",
+            "description": "Medical officers from various sports federations which run the Olympics have discussed with the World Health Organization the possibility of holding the 2020 summer Olympics without spectators.",
+            "url": "https://www.nationalreview.com/news/olympics-officials-discuss-holding-summer-2020-games-without-spectators-amid-coronavirus-fears/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/olympics-.jpg?fit=1200%2C675&ssl=1",
+            "publishedAt": "2020-03-06T17:31:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Rich Lowry, Rich Lowry",
+            "title": "How Threatening Is the Coronavirus?",
+            "description": "More information on the fast-spreading virus.",
+            "url": "https://www.nationalreview.com/corner/how-threatening-is-the-coronavirus/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/coronavirus-030220-27.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-06T16:47:14Z",
+            "content": null
+        }
+    ]
+}

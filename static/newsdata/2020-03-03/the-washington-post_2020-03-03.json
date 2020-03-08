@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 46,
+    "totalResults": 48,
     "articles": [
         {
             "source": {
@@ -14,6 +14,32 @@
             "urlToImage": "https://www.washingtonpost.com/resizer/TWgahU2deCsDhKeRiMaaUsqOMss=/1440x0/smart/d1i4t8bqe7zgj6.cloudfront.net/02-27-2020/t_af5d68bb1c904a1e88f7b1212400dacb_name_2e535688_59af_11ea_8efd_0f904bdd8057.jpg",
             "publishedAt": "2020-03-03T22:16:00Z",
             "content": "This is much more widely spread than people realize, said Amesh Adalja, an infectious-disease expert at the Johns Hopkins Center for Health Security. The events in Washington state really show that this has established itself in our communities and will conti\u2026 [+5045 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "John Hudson",
+            "title": "\u2018We\u2019re beyond desperate\u2019: Officials fear the spread of coronavirus to Americans and Europeans held in Iran\u2019s cramped prisons - The Washington Post",
+            "description": "\u2018We\u2019re beyond desperate\u2019: Officials fear the spread of coronavirus to Americans and Europeans held in Iran\u2019s cramped prisons The Washington Post Iran men who licked holy shrine face prison, flogging, as troops ordered to fight coronavirus outbreak Fox News Co\u2026",
+            "url": "https://www.washingtonpost.com/national-security/were-beyond-desperate-officials-fear-the-spread-of-coronavirus-to-americans-and-europeans-held-in-irans-cramped-prisons/2020/03/03/ef9f9402-5d4f-11ea-8baf-519cedb6ccd9_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/sR3-uu01BO0kzUe5t2KCQBgQ_hU=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FH74ZQS5OYI6VMAUJ6X2QZV3QE.jpg",
+            "publishedAt": "2020-03-03T21:41:00Z",
+            "content": "Iran has struggled to manage the outbreak, even among its most senior government officials, arousing concern about the welfare of the Western detainees it has branded as spies, traitors and counter-revolutionaries.\r\nOn Tuesday, Irans health ministry reported \u2026 [+5746 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Sonia Rao",
+            "title": "Coronavirus is shutting down movies, tours and festivals. Here\u2019s where things stand. - The Washington Post",
+            "description": "Coronavirus is shutting down movies, tours and festivals. Here\u2019s where things stand. The Washington Post Hollywood, Tech Brace for Billions in Losses Due to Coronavirus Variety Coronavirus hits entertainment industry \u2014 and some shows may not go on LA Daily Ne\u2026",
+            "url": "https://www.washingtonpost.com/arts-entertainment/2020/03/03/coronavirus-film-festival-concert-cancellations/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/7VCJPKW3b_vEkhfZSAzNnmxT4M8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2B5Z5CCZ44I6VDX5B6IEXXMAK4.jpg",
+            "publishedAt": "2020-03-03T21:35:00Z",
+            "content": "The decision to not cancel events has also caused rifts in some cases, such as the Association of Writers and Writing Programs Conference director resigning over its continuance. Countless jobs will be affected by the virus, and financial reverberations for i\u2026 [+5743 chars]"
         },
         {
             "source": {
@@ -85,19 +111,6 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Paul Waldman",
-            "title": "Happy Hour Roundup",
-            "description": "Our nightly wrap-up of news and opinion.",
-            "url": "https://www.washingtonpost.com/opinions/2020/03/03/happy-hour-roundup/",
-            "urlToImage": "https://www.washingtonpost.com/resizer/T5eIlHvErAbLHHORyZMAFZr5xc8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUPYDJS5NQI6VLCQDBYB4FHANU.jpg",
-            "publishedAt": "2020-03-03T23:09:17Z",
-            "content": "After Joe Bidens decisive victory in South Carolina on Saturday, Mike Bloombergs campaign advisers lobbied Bloomberg to drop out of the race and endorse Biden before Super Tuesday, four sources briefed on the internal conversations said. Some of the sources s\u2026 [+2285 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
             "author": "Greg Sargent",
             "title": "Trump\u2019s new attack on Biden exposes his own unfitness",
             "description": "It's time for a real reckoning with Trump's mental unfitness for the presidency.",
@@ -105,6 +118,19 @@
             "urlToImage": "https://www.washingtonpost.com/resizer/No3vf3nBwGDsgayi0x8ZFM8571c=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EADRIWC4JQI6VLCQDBYB4FHANU.jpg",
             "publishedAt": "2020-03-03T15:27:25Z",
             "content": "And this came at a time when the administrations coronavirus response has been marred by Trumps own all-consuming pathologies. Trumps initial instinct was to rage at the media for treating him unfairly, to deny the outbreaks seriousness because it might rattl\u2026 [+5720 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Paul Waldman",
+            "title": "Happy Hour Roundup",
+            "description": "Our nightly wrap-up of news and opinion.",
+            "url": "https://www.washingtonpost.com/opinions/2020/03/03/happy-hour-roundup/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/T5eIlHvErAbLHHORyZMAFZr5xc8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUPYDJS5NQI6VLCQDBYB4FHANU.jpg",
+            "publishedAt": "2020-03-03T23:09:17Z",
+            "content": "After Joe Bidens decisive victory in South Carolina on Saturday, Mike Bloombergs campaign advisers lobbied Bloomberg to drop out of the race and endorse Biden before Super Tuesday, four sources briefed on the internal conversations said. Some of the sources s\u2026 [+2285 chars]"
         },
         {
             "source": {
@@ -254,32 +280,6 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "David Ignatius",
-            "title": "How instability in the Middle East could affect Trump\u2019s reelection bid",
-            "description": "Netanyahu\u2019s plan to annex the West Bank could send ripples through Jordan and jeopardize Trump\u2019s foreign policy.",
-            "url": "https://www.washingtonpost.com/opinions/global-opinions/how-instability-in-the-middle-east-could-affect-trumps-reelection-bid/2020/03/03/9c9e7ee4-5d86-11ea-9055-5fa12981bbbf_story.html",
-            "urlToImage": "https://www.washingtonpost.com/resizer/k18Oi9ybV7NGG7UMr5Zt8pKiPmk=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25LZIBS5RUI6VECVL6QSTAN3X4.jpg",
-            "publishedAt": "2020-03-03T21:52:28Z",
-            "content": "Robert Satloff, head of the Washington Institute for Near East Policy, told me Tuesday that annexation of Palestinian territory could have a hugely destabilizing effect on Jordan, where there have been street protests against the government in recent months. \u2026 [+4553 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Margaret Sullivan",
-            "title": "Perspective | The real reason Chris Matthews had to go",
-            "description": "Give Chris Matthews partial credit for his apology on his way out the door Monday night. In his abrupt and unexpected farewell, the MSNBC host acknowledged his history of what he called \"compliments on a woman's appearance.\" Such comments were \"never okay,\" h\u2026",
-            "url": "https://www.washingtonpost.com/lifestyle/media/the-real-reason-chris-matthews-had-to-go/2020/03/03/e769f850-5d58-11ea-b29b-9db42f7803a7_story.html",
-            "urlToImage": "https://www.washingtonpost.com/resizer/ATOTE2FhqZ2kUwD_ehr9WoCcsy8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LGBRO2B3BUI6DH7Y7K4TSKZRX4.jpg",
-            "publishedAt": "2020-03-03T18:10:02Z",
-            "content": "But this casual sexism wasnt at the heart of why he had to go. One of the most prominent and well-paid hosts in the cable-news game didnt listen, didnt do his homework, and treated politics as a game in which noisy confrontation was a necessity. The problem w\u2026 [+4545 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
             "author": "Associated Press",
             "title": "Iran's supreme leader orders armed forces to assist Health Ministry in combating the spread of the new coronavirus",
             "description": "Iran's supreme leader orders armed forces to assist Health Ministry in combating the spread of the new coronavirus",
@@ -306,6 +306,32 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
+            "author": "David Ignatius",
+            "title": "How instability in the Middle East could affect Trump\u2019s reelection bid",
+            "description": "Netanyahu\u2019s plan to annex the West Bank could send ripples through Jordan and jeopardize Trump\u2019s foreign policy.",
+            "url": "https://www.washingtonpost.com/opinions/global-opinions/how-instability-in-the-middle-east-could-affect-trumps-reelection-bid/2020/03/03/9c9e7ee4-5d86-11ea-9055-5fa12981bbbf_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/k18Oi9ybV7NGG7UMr5Zt8pKiPmk=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25LZIBS5RUI6VECVL6QSTAN3X4.jpg",
+            "publishedAt": "2020-03-03T21:52:28Z",
+            "content": "Robert Satloff, head of the Washington Institute for Near East Policy, told me Tuesday that annexation of Palestinian territory could have a hugely destabilizing effect on Jordan, where there have been street protests against the government in recent months. \u2026 [+4553 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Margaret Sullivan",
+            "title": "Perspective | The real reason Chris Matthews had to go",
+            "description": "Give Chris Matthews partial credit for his apology on his way out the door Monday night. In his abrupt and unexpected farewell, the MSNBC host acknowledged his history of what he called \"compliments on a woman's appearance.\" Such comments were \"never okay,\" h\u2026",
+            "url": "https://www.washingtonpost.com/lifestyle/media/the-real-reason-chris-matthews-had-to-go/2020/03/03/e769f850-5d58-11ea-b29b-9db42f7803a7_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/ATOTE2FhqZ2kUwD_ehr9WoCcsy8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LGBRO2B3BUI6DH7Y7K4TSKZRX4.jpg",
+            "publishedAt": "2020-03-03T18:10:02Z",
+            "content": "But this casual sexism wasnt at the heart of why he had to go. One of the most prominent and well-paid hosts in the cable-news game didnt listen, didnt do his homework, and treated politics as a game in which noisy confrontation was a necessity. The problem w\u2026 [+4545 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
             "author": "Jon Gambrell\u2009|\u2009AP",
             "title": "Net group says Wikipedia disrupted in Iran amid coronavirus",
             "description": "An advocacy group says Wikipedia's Farsi-language website appears to be disrupted in Iran after a close confidant to the country's supreme leader died of the new coronavirus",
@@ -319,19 +345,6 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Lolita C. Baldor\u2009|\u2009AP",
-            "title": "Army beginning increased virus screening for new recruits",
-            "description": "The U.S. Army is beginning increased health screenings for all new soldier recruits arriving at the four basic training centers around the country in order to detect the new coronavirus",
-            "url": "https://www.washingtonpost.com/world/national-security/army-beginning-increased-virus-screening-for-new-recruits/2020/03/03/fd6c0240-5d78-11ea-ac50-18701e14e06d_story.html",
-            "urlToImage": "",
-            "publishedAt": "2020-03-03T18:01:22Z",
-            "content": "Were using prudent measures to ensure we are screening, Funk told a small groups of reporters at the Pentagon.\r\nUnder the new process, recruits will be asked a series of questions, including whether they have been to various parts of Asia, if theyve been in c\u2026 [+853 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
             "author": "Edith M. Lederer\u2009|\u2009AP",
             "title": "China says North Korea is suffering 'negatively' from virus",
             "description": "China's U.N. ambassador says North Korea is suffering \"negatively\" from the coronavirus and is calling for greater flexibility from the United States and other countries on lifting sanctions against the country",
@@ -339,6 +352,19 @@
             "urlToImage": "",
             "publishedAt": "2020-03-03T00:16:14Z",
             "content": "He spoke following North Koreas firing of two presumed short-range ballistic missiles into its eastern sea earlier Monday, according to South Korean officials, resuming weapons launches after a months-long hiatus that may have been forced by the coronavirus c\u2026 [+3165 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lolita C. Baldor\u2009|\u2009AP",
+            "title": "Army beginning increased virus screening for new recruits",
+            "description": "The U.S. Army is beginning increased health screenings for all new soldier recruits arriving at the four basic training centers around the country in order to detect the new coronavirus",
+            "url": "https://www.washingtonpost.com/world/national-security/army-beginning-increased-virus-screening-for-new-recruits/2020/03/03/fd6c0240-5d78-11ea-ac50-18701e14e06d_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-03-03T18:01:22Z",
+            "content": "Were using prudent measures to ensure we are screening, Funk told a small groups of reporters at the Pentagon.\r\nUnder the new process, recruits will be asked a series of questions, including whether they have been to various parts of Asia, if theyve been in c\u2026 [+853 chars]"
         },
         {
             "source": {
@@ -436,19 +462,6 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Lori Hinnant\u2009|\u2009AP",
-            "title": "Schools close in French, German virus cluster zones",
-            "description": "Tens of thousands of students in virus cluster zones are home from school in France, with a smaller number in Germany and Poland facing quarantines or days without class",
-            "url": "https://www.washingtonpost.com/world/europe/schools-close-in-french-german-virus-cluster-zones/2020/03/03/d0540d0c-5d41-11ea-ac50-18701e14e06d_story.html",
-            "urlToImage": "",
-            "publishedAt": "2020-03-03T11:26:24Z",
-            "content": "It wouldnt make sense to confine everyone at home, to paralyze the country, he said.\r\nA handful of schools are closed or under quarantine in Germany and even in Poland, which has no confirmed cases of the disease so far.\r\nMeanwhile, Ukraine on Tuesday reporte\u2026 [+1074 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
             "author": "Associated Press",
             "title": "Eurozone inflation eases back on lower energy costs",
             "description": "Inflation across the 19-country eurozone slipped back in February",
@@ -456,6 +469,19 @@
             "urlToImage": "",
             "publishedAt": "2020-03-03T12:20:25Z",
             "content": "Energy prices weighed on inflation, falling by 0.3% over the year. Oil prices, in particular, have been hit hard by mounting concerns over the economic impact of the coronavirus outbreak, with traders fretting over the hit to global demand. Energy prices have\u2026 [+1017 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lori Hinnant\u2009|\u2009AP",
+            "title": "Schools close in French, German virus cluster zones",
+            "description": "Tens of thousands of students in virus cluster zones are home from school in France, with a smaller number in Germany and Poland facing quarantines or days without class",
+            "url": "https://www.washingtonpost.com/world/europe/schools-close-in-french-german-virus-cluster-zones/2020/03/03/d0540d0c-5d41-11ea-ac50-18701e14e06d_story.html",
+            "urlToImage": "",
+            "publishedAt": "2020-03-03T11:26:24Z",
+            "content": "It wouldnt make sense to confine everyone at home, to paralyze the country, he said.\r\nA handful of schools are closed or under quarantine in Germany and even in Poland, which has no confirmed cases of the disease so far.\r\nMeanwhile, Ukraine on Tuesday reporte\u2026 [+1074 chars]"
         },
         {
             "source": {

@@ -59,19 +59,6 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By RICARDO ALONSO-ZALDIVAR and MIKE STOBBE Associated Press",
-            "title": "In Congress, questions about overdue testing for coronavirus",
-            "description": "WASHINGTON (AP) \u2014 Lawmakers on Tuesday expressed skepticism about U.S. health officials' claims that long-overdue testing for the new coronavirus would be widely available by the end of the week.",
-            "url": "https://apnews.com/ae8b401344e5bc5ec1617dad2f1a7af5",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/8/32/8326659e-b472-5d54-886b-05891ec5c1e9/5e5e9bdd56ccd.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-03T18:02:04Z",
-            "content": "WASHINGTON (AP) Lawmakers on Tuesday expressed skepticism that U.S. health officials will be able to meet their goal of significantly ramping up testing for the new coronavirus.\r\nHealth officials have said U.S. labs should have the capacity to run as many as \u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
             "author": "",
             "title": "Washington state reports seventh death from coronavirus",
             "description": "SEATTLE (AP) \u2014 Washington state reports seventh death from coronavirus.",
@@ -79,6 +66,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
             "publishedAt": "2020-03-03T19:15:46Z",
             "content": "Please purchase a subscription to continue reading.\r\nA subscription is required to continue reading.\r\nIf you are a current subscriber please click Sign Up or Login to activate your digital access. If not, please click Sign Up to subscribe.\r\nIf you are a curre\u2026 [+138 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By RICARDO ALONSO-ZALDIVAR and MIKE STOBBE Associated Press",
+            "title": "In Congress, questions about overdue testing for coronavirus",
+            "description": "WASHINGTON (AP) \u2014 Lawmakers on Tuesday expressed skepticism about U.S. health officials' claims that long-overdue testing for the new coronavirus would be widely available by the end of the week.",
+            "url": "https://apnews.com/ae8b401344e5bc5ec1617dad2f1a7af5",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/8/32/8326659e-b472-5d54-886b-05891ec5c1e9/5e5e9bdd56ccd.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-03T18:02:04Z",
+            "content": "WASHINGTON (AP) Lawmakers on Tuesday expressed skepticism that U.S. health officials will be able to meet their goal of significantly ramping up testing for the new coronavirus.\r\nHealth officials have said U.S. labs should have the capacity to run as many as \u2026 [+4335 chars]"
         },
         {
             "source": {
@@ -124,39 +124,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By DAVID SHARP Associated Press",
-            "title": "Mainers get final say on vaccine opt-outs on Super Tuesday",
-            "description": "PORTLAND, Maine (AP) \u2014 With the backdrop of the coronavirus spreading around the world, Mainers are deciding Tuesday whether to nullify the elimination of religious and philosophical exemptions for childhood vaccinations in a referendum campaign that focused \u2026",
-            "url": "https://apnews.com/75f61b9981cfa8f44b0cafaee7eaaf95",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
-            "publishedAt": "2020-03-03T12:23:11Z",
-            "content": "PORTLAND, Maine (AP) With the backdrop of the coronavirus spreading around the world, Mainers are deciding Tuesday whether to nullify the elimination of religious and philosophical exemptions for childhood vaccinations in a referendum campaign that focused on\u2026 [+2210 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "",
-            "title": "Australia cuts rate to record low 0.5% because of virus",
-            "description": "CANBERRA, Australia (AP) \u2014 Australia\u2019s central bank on Tuesday cut its benchmark interest rate by a quarter of a percentage point to a record low of 0.5% in response to the economic shock of the new coronavirus.",
-            "url": "https://apnews.com/5a0da4cbbb75e812c172859f771f9140",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
-            "publishedAt": "2020-03-03T03:57:04Z",
-            "content": "CANBERRA, Australia (AP) Australias central bank on Tuesday cut its benchmark interest rate by a quarter of a percentage point to a record low of 0.5% in response to the economic shock of the new coronavirus.\r\nThe reduction at the Reserve Bank of Australias m\u2026 [+867 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "By EDITH M. LEDERER Associated Press",
-            "title": "China says North Korea is suffering `negatively' from virus",
-            "description": "UNITED NATIONS (AP) \u2014 China\u2019s U.N. ambassador said Monday that North Korea is suffering \u201cnegatively\u201d from the coronavirus and called for greater flexibility from the United States and other countries on lifting sanctions against the country.",
-            "url": "https://apnews.com/c639a34aae5da77a8fafc9a17f9a9cb2",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
-            "publishedAt": "2020-03-03T00:14:23Z",
-            "content": "UNITED NATIONS (AP) Chinas U.N. ambassador said Monday that North Korea is suffering negatively from the coronavirus and called for greater flexibility from the United States and other countries on lifting sanctions against the country.\r\nZhang Jun told a news\u2026 [+3690 chars]"
+            "author": "BY JILL LAWLESS and DANICA KIRKA Associated Press",
+            "title": "UK, so far mildly affected, prepares for severe virus spread",
+            "description": "LONDON (AP) \u2014 Retired doctors may be called back to work, police could stop investigating minor crimes and local authorities may struggle to deal with the burden of extra deaths if a new coronavirus spreads widely across Britain, the government\u2026",
+            "url": "https://apnews.com/29e13ffc71a8760b0cfa92b7aea84333",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/43/343ae773-7389-5a5f-85f3-698b82b2e44f/5e5c1fb989182.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-03T10:39:42Z",
+            "content": "LONDON (AP) Retired doctors may be called back to work, police could stop investigating minor crimes and local authorities may struggle to deal with the burden of extra deaths if a new coronavirus spreads widely across Britain, the government said Tuesday.\r\nP\u2026 [+3410 chars]"
         },
         {
             "source": {
@@ -189,26 +163,39 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "BY JILL LAWLESS and DANICA KIRKA Associated Press",
-            "title": "UK, so far mildly affected, prepares for severe virus spread",
-            "description": "LONDON (AP) \u2014 Retired doctors may be called back to work, police could stop investigating minor crimes and local authorities may struggle to deal with the burden of extra deaths if a new coronavirus spreads widely across Britain, the government\u2026",
-            "url": "https://apnews.com/29e13ffc71a8760b0cfa92b7aea84333",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/43/343ae773-7389-5a5f-85f3-698b82b2e44f/5e5c1fb989182.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-03T10:39:42Z",
-            "content": "LONDON (AP) Retired doctors may be called back to work, police could stop investigating minor crimes and local authorities may struggle to deal with the burden of extra deaths if a new coronavirus spreads widely across Britain, the government said Tuesday.\r\nP\u2026 [+3410 chars]"
+            "author": "",
+            "title": "Australia cuts rate to record low 0.5% because of virus",
+            "description": "CANBERRA, Australia (AP) \u2014 Australia\u2019s central bank on Tuesday cut its benchmark interest rate by a quarter of a percentage point to a record low of 0.5% in response to the economic shock of the new coronavirus.",
+            "url": "https://apnews.com/5a0da4cbbb75e812c172859f771f9140",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
+            "publishedAt": "2020-03-03T03:57:04Z",
+            "content": "CANBERRA, Australia (AP) Australias central bank on Tuesday cut its benchmark interest rate by a quarter of a percentage point to a record low of 0.5% in response to the economic shock of the new coronavirus.\r\nThe reduction at the Reserve Bank of Australias m\u2026 [+867 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By MARINA VILLENEUVE Associated Press",
-            "title": "NY eyes extra revenue but forecasters warn about new virus",
-            "description": "ALBANY, N.Y. (AP) \u2014 New York could see at least $700 million in extra tax revenue through March 2021, but the state's economic outlook is nonetheless uncertain because of the new coronavirus outbreak.",
-            "url": "https://apnews.com/3a9d55cd7dd5dcd2b0f7d46538c928be",
+            "author": "By EDITH M. LEDERER Associated Press",
+            "title": "China says North Korea is suffering `negatively' from virus",
+            "description": "UNITED NATIONS (AP) \u2014 China\u2019s U.N. ambassador said Monday that North Korea is suffering \u201cnegatively\u201d from the coronavirus and called for greater flexibility from the United States and other countries on lifting sanctions against the country.",
+            "url": "https://apnews.com/c639a34aae5da77a8fafc9a17f9a9cb2",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
-            "publishedAt": "2020-03-03T00:06:32Z",
-            "content": "ALBANY, N.Y. (AP) New York could see at least $700 million in extra tax revenue through March 2021, but the state's economic outlook is nonetheless uncertain because of the new coronavirus outbreak.\r\nThe states latest economic forecast says the spread of the \u2026 [+1788 chars]"
+            "publishedAt": "2020-03-03T00:14:23Z",
+            "content": "UNITED NATIONS (AP) Chinas U.N. ambassador said Monday that North Korea is suffering negatively from the coronavirus and called for greater flexibility from the United States and other countries on lifting sanctions against the country.\r\nZhang Jun told a news\u2026 [+3690 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DAVID SHARP Associated Press",
+            "title": "Mainers get final say on vaccine opt-outs on Super Tuesday",
+            "description": "PORTLAND, Maine (AP) \u2014 With the backdrop of the coronavirus spreading around the world, Mainers are deciding Tuesday whether to nullify the elimination of religious and philosophical exemptions for childhood vaccinations in a referendum campaign that focused \u2026",
+            "url": "https://apnews.com/75f61b9981cfa8f44b0cafaee7eaaf95",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
+            "publishedAt": "2020-03-03T12:23:11Z",
+            "content": "PORTLAND, Maine (AP) With the backdrop of the coronavirus spreading around the world, Mainers are deciding Tuesday whether to nullify the elimination of religious and philosophical exemptions for childhood vaccinations in a referendum campaign that focused on\u2026 [+2210 chars]"
         },
         {
             "source": {
@@ -222,6 +209,19 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/f/80/f80a29f4-e26d-584a-bb7b-996f287bffeb/5e5e9b81b5b3b.image.jpg?crop=1780%2C1001%2C0%2C81&resize=1120%2C630&order=crop%2Cresize",
             "publishedAt": "2020-03-03T17:58:19Z",
             "content": "WASHINGTON (AP) The U.S. Army on Tuesday began increased health screenings for all new soldier recruits arriving at the four basic training centers around the country in order to detect the new coronavirus, a senior commander said.\r\nArmy Gen. Paul Funk, head \u2026 [+1546 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MARINA VILLENEUVE Associated Press",
+            "title": "NY eyes extra revenue but forecasters warn about new virus",
+            "description": "ALBANY, N.Y. (AP) \u2014 New York could see at least $700 million in extra tax revenue through March 2021, but the state's economic outlook is nonetheless uncertain because of the new coronavirus outbreak.",
+            "url": "https://apnews.com/3a9d55cd7dd5dcd2b0f7d46538c928be",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/6a12cdcc-99eb-11e9-910a-20677ce06c14.jpg?resize=600%2C600",
+            "publishedAt": "2020-03-03T00:06:32Z",
+            "content": "ALBANY, N.Y. (AP) New York could see at least $700 million in extra tax revenue through March 2021, but the state's economic outlook is nonetheless uncertain because of the new coronavirus outbreak.\r\nThe states latest economic forecast says the spread of the \u2026 [+1788 chars]"
         },
         {
             "source": {
@@ -293,6 +293,19 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
+            "author": "By DARLENE SUPERVILLE and CALVIN WOODWARD Associated Press",
+            "title": "A disconnect between Trump and health officials on virus",
+            "description": "WASHINGTON (AP) \u2014 Whom to believe on the coronavirus threat \u2014 the president saying one thing or the public health officials standing beside him and saying something a little different?",
+            "url": "https://apnews.com/7b4368cae934785657acac1f09873505",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/bd/ebd10109-9a85-5a2f-9bbf-fabfb61e3146/5e5edebfdf874.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-03T22:42:32Z",
+            "content": "WASHINGTON (AP) Whom to believe on the coronavirus threat the president saying one thing or the public health officials standing beside him and saying something a little different?\r\nPresident Donald Trumps breezy talk Tuesday of a virus that's got the world a\u2026 [+5566 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
             "author": "",
             "title": "2nd person believed to have new virus in Massachusetts",
             "description": "BOSTON (AP) \u2014 A second person in Massachusetts tested positive for the new coronavirus on Monday, the state Department of Public Health said in a news release.",
@@ -319,13 +332,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By DARLENE SUPERVILLE and CALVIN WOODWARD Associated Press",
-            "title": "A disconnect between Trump and health officials on virus",
-            "description": "WASHINGTON (AP) \u2014 Whom to believe on the coronavirus threat \u2014 the president saying one thing or the public health officials standing beside him and saying something a little different?",
-            "url": "https://apnews.com/7b4368cae934785657acac1f09873505",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/bd/ebd10109-9a85-5a2f-9bbf-fabfb61e3146/5e5edebfdf874.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-03T22:42:32Z",
-            "content": "WASHINGTON (AP) Whom to believe on the coronavirus threat the president saying one thing or the public health officials standing beside him and saying something a little different?\r\nPresident Donald Trumps breezy talk Tuesday of a virus that's got the world a\u2026 [+5566 chars]"
+            "author": "",
+            "title": "North Dakota gets OK to test for potential coronavirus",
+            "description": "BISMARCK, N.D. (AP) \u2014 North Dakota has joined a growing list of states that have received federal approval to run their own laboratory tests on potential coronavirus cases.",
+            "url": "https://apnews.com/77139a95f1610779ef36df18fea1c6c7",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
+            "publishedAt": "2020-03-03T21:17:47Z",
+            "content": "BISMARCK, N.D. (AP) North Dakota has joined a growing list of states that have received federal approval to run their own laboratory tests on potential coronavirus cases.\r\nHealth officials and Gov. Doug Burgum made the announcement Tuesday at a news conferenc\u2026 [+913 chars]"
         },
         {
             "source": {
@@ -346,12 +359,12 @@
                 "name": "Associated Press"
             },
             "author": "",
-            "title": "North Dakota gets OK to test for potential coronavirus",
-            "description": "BISMARCK, N.D. (AP) \u2014 North Dakota has joined a growing list of states that have received federal approval to run their own laboratory tests on potential coronavirus cases.",
-            "url": "https://apnews.com/77139a95f1610779ef36df18fea1c6c7",
+            "title": "Wyoming governor: Coronavirus risk to state still low",
+            "description": "CHEYENNE, Wyo. (AP) \u2014 Wyoming still has no reported cases of the new coronavirus but state officials are preparing to test for and respond to the disease, Gov. Mark Gordon said Tuesday.",
+            "url": "https://apnews.com/a254d6a2384b11f187798661ce161fb9",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-03T21:17:47Z",
-            "content": "BISMARCK, N.D. (AP) North Dakota has joined a growing list of states that have received federal approval to run their own laboratory tests on potential coronavirus cases.\r\nHealth officials and Gov. Doug Burgum made the announcement Tuesday at a news conferenc\u2026 [+913 chars]"
+            "publishedAt": "2020-03-03T22:53:52Z",
+            "content": "CHEYENNE, Wyo. (AP) Wyoming still has no reported cases of the new coronavirus but state officials are preparing to test for and respond to the disease, Gov. Mark Gordon said Tuesday.\r\nThe risk to Wyoming remains low but odds are growing the virus will appear\u2026 [+1298 chars]"
         },
         {
             "source": {
@@ -384,26 +397,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "",
-            "title": "Wyoming governor: Coronavirus risk to state still low",
-            "description": "CHEYENNE, Wyo. (AP) \u2014 Wyoming still has no reported cases of the new coronavirus but state officials are preparing to test for and respond to the disease, Gov. Mark Gordon said Tuesday.",
-            "url": "https://apnews.com/a254d6a2384b11f187798661ce161fb9",
+            "author": "GARY D. ROBERTSON Associated Press",
+            "title": "Person in North Carolina tests positive for coronavirus",
+            "description": "RALEIGH, N.C. (AP) \u2014 A person in North Carolina has tested positive for the fast-spreading coronavirus, the governor said Tuesday, making the state at least the 15th to report a",
+            "url": "https://apnews.com/f15dfeff13d821843d144de9608e603e",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-03T22:53:52Z",
-            "content": "CHEYENNE, Wyo. (AP) Wyoming still has no reported cases of the new coronavirus but state officials are preparing to test for and respond to the disease, Gov. Mark Gordon said Tuesday.\r\nThe risk to Wyoming remains low but odds are growing the virus will appear\u2026 [+1298 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "By BECKY BOHRER Associated Press",
-            "title": "Dunleavy seeks state funds to aid coronavirus preparations",
-            "description": "JUNEAU, Alaska (AP) \u2014 Alaska Gov. Mike Dunleavy is requesting about $4.1 million in state funds to aid in preparations for the coronavirus. He said there were no known cases in the state but that could change, given how the\u2026",
-            "url": "https://apnews.com/487ea88112563973e84a72435bb49e1c",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/aa/8aa2f577-c4d8-59a7-a39e-e8abf70c1df7/5e5da8ea25693.image.jpg?crop=1718%2C966%2C0%2C119&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-03T00:32:00Z",
-            "content": "JUNEAU, Alaska (AP) Alaska Gov. Mike Dunleavy is requesting about $4.1 million in state funds to aid in preparations for the coronavirus. He said there were no known cases in the state but that could change, given how the virus has spread.\r\nWe dont know where\u2026 [+1841 chars]"
+            "publishedAt": "2020-03-03T20:32:37Z",
+            "content": "RALEIGH, N.C. (AP) A person in North Carolina has tested positive for the fast-spreading coronavirus, the governor said Tuesday, making the state at least the 15th to report a case of the virus.\r\nGov. Roy Cooper said at a news conference that the person from \u2026 [+1158 chars]"
         },
         {
             "source": {
@@ -436,13 +436,52 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "GARY D. ROBERTSON Associated Press",
-            "title": "Person in North Carolina tests positive for coronavirus",
-            "description": "RALEIGH, N.C. (AP) \u2014 A person in North Carolina has tested positive for the fast-spreading coronavirus, the governor said Tuesday, making the state at least the 15th to report a",
-            "url": "https://apnews.com/f15dfeff13d821843d144de9608e603e",
+            "author": "By BECKY BOHRER Associated Press",
+            "title": "Dunleavy seeks state funds to aid coronavirus preparations",
+            "description": "JUNEAU, Alaska (AP) \u2014 Alaska Gov. Mike Dunleavy is requesting about $4.1 million in state funds to aid in preparations for the coronavirus. He said there were no known cases in the state but that could change, given how the\u2026",
+            "url": "https://apnews.com/487ea88112563973e84a72435bb49e1c",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/aa/8aa2f577-c4d8-59a7-a39e-e8abf70c1df7/5e5da8ea25693.image.jpg?crop=1718%2C966%2C0%2C119&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-03T00:32:00Z",
+            "content": "JUNEAU, Alaska (AP) Alaska Gov. Mike Dunleavy is requesting about $4.1 million in state funds to aid in preparations for the coronavirus. He said there were no known cases in the state but that could change, given how the virus has spread.\r\nWe dont know where\u2026 [+1841 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "",
+            "title": "College: Man who tested positive for virus attended event",
+            "description": "HANOVER, N.H. (AP) \u2014 Dartmouth College said Tuesday that a hospital employee who is the first person in New Hampshire to test positive for the new coronavirus attended a Tuck School of Business social event in Vermont recently.",
+            "url": "https://apnews.com/316af441bfb3937725b429c8db4a0101",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-03T20:32:37Z",
-            "content": "RALEIGH, N.C. (AP) A person in North Carolina has tested positive for the fast-spreading coronavirus, the governor said Tuesday, making the state at least the 15th to report a case of the virus.\r\nGov. Roy Cooper said at a news conference that the person from \u2026 [+1158 chars]"
+            "publishedAt": "2020-03-03T20:58:06Z",
+            "content": "HANOVER, N.H. (AP) Dartmouth College said Tuesday that a hospital employee who is the first person in New Hampshire to test positive for the new coronavirus attended a Tuck School of Business social event in Vermont recently.\r\nAn investigation of those who we\u2026 [+1164 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DAVID McHUGH and ALEXANDRA OLSON AP Business Writers",
+            "title": "Wine, cars: businesses go online as virus hits trade shows",
+            "description": "FRANKFURT, Germany (AP) \u2014 Fine wines and hipster gin. Hunting rifles and knives. Contemporary paintings and million-dollar sports cars. They're all marketed at trade events that are quickly going dark across the globe due to the new coronavirus - and\u2026",
+            "url": "https://apnews.com/c7c98eaae25a7590d43aa26d439d05f9",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/af/1affc54c-e2fc-5e3d-a7fd-f23329d74e74/5e592ec80a4ba.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-03T11:18:02Z",
+            "content": "FRANKFURT, Germany (AP) Fine wines and hipster gin. Hunting rifles and knives. Contemporary paintings and million-dollar sports cars. They're all marketed at trade events that are quickly going dark across the globe due to the new coronavirus - and taking wit\u2026 [+5718 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By TIM REYNOLDS AP Basketball Writer",
+            "title": "NBA to teams: Avoid high-fives as virus concern grows",
+            "description": "MIAMI (AP) \u2014 The NBA has told teams avoid high-fiving fans and strangers and avoid taking any item for autographs, the league\u2019s latest response in its ongoing monitoring of the coronavirus crisis that has spread to most corners of the\u2026",
+            "url": "https://apnews.com/d035c223cfaa84a38f799b92c80b3e17",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/30/730a0e9b-d268-57cb-9def-6c9c53328ee6/5e40c7b5f32b8.image.jpg?crop=1657%2C932%2C0%2C159&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-03T00:57:33Z",
+            "content": "MIAMI (AP) The NBA has told teams avoid high-fiving fans and strangers and avoid taking any item for autographs, the leagues latest response in its ongoing monitoring of the coronavirus crisis that has spread to most corners of the planet.\r\nThe league, in a m\u2026 [+2715 chars]"
         },
         {
             "source": {
@@ -475,39 +514,13 @@
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "By TIM REYNOLDS AP Basketball Writer",
-            "title": "NBA to teams: Avoid high-fives as virus concern grows",
-            "description": "MIAMI (AP) \u2014 The NBA has told teams avoid high-fiving fans and strangers and avoid taking any item for autographs, the league\u2019s latest response in its ongoing monitoring of the coronavirus crisis that has spread to most corners of the\u2026",
-            "url": "https://apnews.com/d035c223cfaa84a38f799b92c80b3e17",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/30/730a0e9b-d268-57cb-9def-6c9c53328ee6/5e40c7b5f32b8.image.jpg?crop=1657%2C932%2C0%2C159&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-03T00:57:33Z",
-            "content": "MIAMI (AP) The NBA has told teams avoid high-fiving fans and strangers and avoid taking any item for autographs, the leagues latest response in its ongoing monitoring of the coronavirus crisis that has spread to most corners of the planet.\r\nThe league, in a m\u2026 [+2715 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "By DAVID McHUGH and ALEXANDRA OLSON AP Business Writers",
-            "title": "Wine, cars: businesses go online as virus hits trade shows",
-            "description": "FRANKFURT, Germany (AP) \u2014 Fine wines and hipster gin. Hunting rifles and knives. Contemporary paintings and million-dollar sports cars. They're all marketed at trade events that are quickly going dark across the globe due to the new coronavirus - and\u2026",
-            "url": "https://apnews.com/c7c98eaae25a7590d43aa26d439d05f9",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/af/1affc54c-e2fc-5e3d-a7fd-f23329d74e74/5e592ec80a4ba.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-            "publishedAt": "2020-03-03T11:18:02Z",
-            "content": "FRANKFURT, Germany (AP) Fine wines and hipster gin. Hunting rifles and knives. Contemporary paintings and million-dollar sports cars. They're all marketed at trade events that are quickly going dark across the globe due to the new coronavirus - and taking wit\u2026 [+5718 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "",
-            "title": "College: Man who tested positive for virus attended event",
-            "description": "HANOVER, N.H. (AP) \u2014 Dartmouth College said Tuesday that a hospital employee who is the first person in New Hampshire to test positive for the new coronavirus attended a Tuck School of Business social event in Vermont recently.",
-            "url": "https://apnews.com/316af441bfb3937725b429c8db4a0101",
+            "author": "By HOLLY RAMER Associated Press",
+            "title": "Virus concerns part of paid leave debate in New Hampshire",
+            "description": "CONCORD, N.H. (AP) \u2014 Concerns over coronavirus crept into New Hampshire\u2019s long-running debate over paid family and medical leave Tuesday when Senate lawmakers heard testimony on two competing bills.",
+            "url": "https://apnews.com/7c45f692e01832e1aa98b952e7c035b3",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-03T20:58:06Z",
-            "content": "HANOVER, N.H. (AP) Dartmouth College said Tuesday that a hospital employee who is the first person in New Hampshire to test positive for the new coronavirus attended a Tuck School of Business social event in Vermont recently.\r\nAn investigation of those who we\u2026 [+1164 chars]"
+            "publishedAt": "2020-03-03T22:46:26Z",
+            "content": "CONCORD, N.H. (AP) Concerns over coronavirus crept into New Hampshires long-running debate over paid family and medical leave Tuesday when Senate lawmakers heard testimony on two competing bills.\r\nFirst up was the Democrats' bill that would allow workers to c\u2026 [+4395 chars]"
         },
         {
             "source": {
@@ -534,19 +547,6 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/0b/c0bbff0b-91eb-51f2-9aeb-a9cbd612f9bd/5e5ea961a4533.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
             "publishedAt": "2020-03-03T18:55:36Z",
             "content": "NEW YORK (AP) PUBLIC FORUMS: The 189-nation International Monetary Fund and its sister lending organization, the World Bank, announced Tuesday that they will replace their regular spring meetings in Washington with a virtual format in response to the coronavi\u2026 [+1741 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "By HOLLY RAMER Associated Press",
-            "title": "Virus concerns part of paid leave debate in New Hampshire",
-            "description": "CONCORD, N.H. (AP) \u2014 Concerns over coronavirus crept into New Hampshire\u2019s long-running debate over paid family and medical leave Tuesday when Senate lawmakers heard testimony on two competing bills.",
-            "url": "https://apnews.com/7c45f692e01832e1aa98b952e7c035b3",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/custom/image/00f1ee32-f2d0-11e6-9926-f7249dbfe53a.jpg",
-            "publishedAt": "2020-03-03T22:46:26Z",
-            "content": "CONCORD, N.H. (AP) Concerns over coronavirus crept into New Hampshires long-running debate over paid family and medical leave Tuesday when Senate lawmakers heard testimony on two competing bills.\r\nFirst up was the Democrats' bill that would allow workers to c\u2026 [+4395 chars]"
         },
         {
             "source": {

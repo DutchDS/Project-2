@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Lorraine Woellert",
+            "title": "Coronavirus kills 2 in Florida",
+            "description": "Presumptive positive cases added in Broward County.",
+            "url": "https://www.politico.com/states/florida/story/2020/03/07/coronavirus-kills-2-in-florida-9421710",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T11:59:38Z",
+            "content": "Two people in Florida have died from the coronavirus and two more have been added to the presumptive positive list, the state Department of Health said late Friday.\r\nA person in Santa Rosa County and a person in Lee County died. Both had been on international\u2026 [+590 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Evan Semones",
+            "title": "CPAC attendee tests positive for coronavirus",
+            "description": "The exposure occurred previously to the conference.",
+            "url": "https://www.politico.com/news/2020/03/07/coronavirus-cpac-case-123445",
+            "urlToImage": "https://static.politico.com/a6/e0/15c51f674729a4323d42a799f86c/200307-cpac-getty-773.jpg",
+            "publishedAt": "2020-03-07T23:42:49Z",
+            "content": "President Donald Trump and Vice President Mike Pence spoke at the gathering. Numerous administration and cabinet officials also attended, including Secretary of State Mike Pompeo, HHS Secretary Alex Azar, newly minted White House chief of staff Mark Meadows a\u2026 [+832 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Alice Miranda Ollstein",
+            "title": "First coronavirus case confirmed in D.C.",
+            "description": "Mayor Bowser is scheduled to hold a briefing tonight at 7:30 p.m. on the situation.",
+            "url": "https://www.politico.com/news/2020/03/07/coronavirus-washington-dc-first-case-123431",
+            "urlToImage": "https://static.politico.com/68/e3/b7fb40fb46f2ae089256545a71b8/200207-muriel-bowser-getty-773.jpg",
+            "publishedAt": "2020-03-07T23:06:33Z",
+            "content": "Washington, D.C. Mayor Muriel Bowser. | Alex Wong/Getty Images\r\nThe first case of coronavirus has been confirmed in Washington, D.C., according to Mayor Muriel Bowser.\r\nThe public health lab at the D.C. Department of Forensic Sciences confirmed the \"presumpti\u2026 [+152 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Sarah Owermohle and Meridith McGraw",
+            "title": "Trump officials unsure how many people tested for coronavirus",
+            "description": "They also defended Trump&#39;s claim that anyone can get tested.",
+            "url": "https://www.politico.com/news/2020/03/07/coronavirus-testing-white-house-briefing-123411",
+            "urlToImage": "https://static.politico.com/bc/f5/78d7408e47ccac65755ac8caf10c/20200302-azar-ap-773.jpg",
+            "publishedAt": "2020-03-07T22:03:12Z",
+            "content": "Trump officials said Trump's claim that \"anyone who wants a test can get a test\" was accurate, but that people still need the approval of their doctors and state public health officials. But on Thursday, Vice President Mike Pence told reporters that that we d\u2026 [+913 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Brianna Ehley",
+            "title": "21 test positive for coronavirus on cruise ship off California",
+            "description": "The ship has been held outside of San Francisco since Wednesday.",
+            "url": "https://www.politico.com/news/2020/03/06/21-test-positive-for-coronavirus-on-cruise-ship-off-california-123196",
+            "urlToImage": "https://static.politico.com/6b/de/9865bfd2443fa0334cff2aec5945/200306-grand-princess-ap-773.jpg",
+            "publishedAt": "2020-03-07T01:01:33Z",
+            "content": "The Grand Princess cruise ship passes the Golden Gate Bridge in San Francisco. | Scott Strazzante/San Francisco Chronicle via AP, File\r\nTwenty one peopleaboard the Grand Princess cruise ship off the California coast have tested positive for the coronavirus, V\u2026 [+517 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jeremy B. White and Carla Marinucci",
+            "title": "California braces for economic fallout as coronavirus spreads",
+            "description": "The situation even has Newsom and President Donald Trump, usually eager antagonists, preaching cooperation as all levels of government work to contain the threat.",
+            "url": "https://www.politico.com/states/california/story/2020/03/06/california-braces-for-economic-fallout-as-coronavirus-spreads-1265879",
+            "urlToImage": "https://static.politico.com/64/56/d25e20b0424e8c9b526274133bbe/200306-california-covid-cruise-ship-ap-900.jpg",
+            "publishedAt": "2020-03-07T01:25:02Z",
+            "content": "Grand Princess cruise ship off the coast of California | California National Guard via AP\r\nOAKLAND Quarantines. Cruise ships idling offshore. Silicon Valley workers holed up at home. Dwindling international trade, and the possibility of sustained damage to th\u2026 [+9412 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Samuel Brannen and Kathleen Hicks",
+            "title": "We Predicted a Coronavirus Pandemic. Here\u2019s What Policymakers Could Have Seen Coming.",
+            "description": "Last year we ran a disaster scenario shockingly similar to the news now. Here\u2019s what experts realized the world is getting wrong, and how they can fix it.",
+            "url": "https://www.politico.com/news/magazine/2020/03/07/coronavirus-epidemic-prediction-policy-advice-121172",
+            "urlToImage": "https://static.politico.com/e9/eb/c264873a4d9b99c2267526680614/pandemic-illo.jpg",
+            "publishedAt": "2020-03-07T12:00:02Z",
+            "content": "What we found, overall, was that the world has changed in ways that make it far harder to contain diseaseand some of the mistakes that fuel its spread have already happened in the current real-world outbreak. There is still time, though, to think more careful\u2026 [+11475 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Anna Palmer and Jake Sherman",
+            "title": "What Mark Meadows means for Donald Trump",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/playbook/2020/03/07/what-mark-meadows-means-for-donald-trump-488502",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-07T15:35:17Z",
+            "content": "Rep. Mark Meadowsis entering a job where his problem-solving mettle will be put to the absolute test. | Sarah Silbiger/Getty Images\r\nDRIVING THE DAY\r\nMARK RANDALL MEADOWS, the new White House chief of staff, has a knack for hatching plans to solve problems. T\u2026 [+21635 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Matthew Choi",
+            "title": "Two AIPAC conference attendees test positive for coronavirus",
+            "description": "This is the second instance of coronavirus being reported in connection with the Washington area.",
+            "url": "https://www.politico.com/news/2020/03/06/aipac-conference-coronavirus-123158",
+            "urlToImage": "https://static.politico.com/2f/25/b5644aeb466e9a3b625bc1de7832/200306-aipac-ap-773.jpg",
+            "publishedAt": "2020-03-07T00:20:43Z",
+            "content": "The 2020 AIPAC Conference stage in Washington. | Alex Brandon/AP Photo\r\nTwo attendees of AIPAC's recent Washington conference have tested positive for coronavirus, the organization announced Friday.\r\nAIPAC held its annual policy conference earlier this week a\u2026 [+591 chars]"
+        }
+    ]
+}

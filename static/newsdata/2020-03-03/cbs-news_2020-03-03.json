@@ -72,32 +72,6 @@
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "CBS News",
-            "title": "3/2/20: CBSN Evening News",
-            "description": "At least 6 die from coronavirus in Washington State; Encouraging kids on \"Read Across America Day.\"",
-            "url": "https://www.cbsnews.com/video/3220-cbsn-evening-news/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/1c5f8108-abbc-42e3-b0e9-a0c27ca69857/thumbnail/1200x630/87ca913fd24349bb805aac5ec7ce7e85/0302-cbsn-full-2040009-640x360.jpg",
-            "publishedAt": "2020-03-03T03:09:13Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
-            "title": "Watch live: Trump addresses the National Association of Counties",
-            "description": "The Trump administration is trying to assure local jurisdictions that his administration has coronavirus under control.",
-            "url": "https://www.cbsnews.com/news/donald-trump-addresses-the-national-association-of-counties-watch-live-stream-today-03-03-2020/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/29/42493d32-252d-4f66-8fc2-9dab08c3ef23/thumbnail/1200x630g2/e5ebed487f66dabf1bf9ab6a2b443266/gettyimages-1204066884.jpg",
-            "publishedAt": "2020-03-03T15:20:26Z",
-            "content": "President Trump is addressing the National Association of Counties' conference in Washington, D.C., Tuesday, speaking to attendees who aren't necessarily his supporters. The address comes as the president tries to assure local jurisdictions that his administr\u2026 [+1296 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
             "author": "Grace Segers",
             "title": "Watch: Trump attends coronavirus roundtable briefing at NIH Vaccine Research Center",
             "description": "Trump talked with pharmaceutical executives Monday about efforts to develop a coronavirus vaccine.",
@@ -125,12 +99,25 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Coronavirus outbreak: Who should be concerned?",
-            "description": "As the U.S. death toll for coronavirus climbs to six people with at least 102 confirmed cases, public health officials are working to make federal, state and local preparations while also making sure Americans have all the information they need regarding what\u2026",
-            "url": "https://www.cbsnews.com/video/coronavirus-outbreak-who-should-be-concerned/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/614ea1c1-6a84-4dec-bb0e-34cab7c32f4e/thumbnail/1200x630/26ad6a7e3c062a40f65b3e22217061dc/0303-ctm-coronavirusconcerns-narula-2040187-640x360.jpg",
-            "publishedAt": "2020-03-03T12:27:24Z",
-            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+            "title": "Watch live: Trump addresses the National Association of Counties",
+            "description": "The Trump administration is trying to assure local jurisdictions that his administration has coronavirus under control.",
+            "url": "https://www.cbsnews.com/news/donald-trump-addresses-the-national-association-of-counties-watch-live-stream-today-03-03-2020/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/29/42493d32-252d-4f66-8fc2-9dab08c3ef23/thumbnail/1200x630g2/e5ebed487f66dabf1bf9ab6a2b443266/gettyimages-1204066884.jpg",
+            "publishedAt": "2020-03-03T15:20:26Z",
+            "content": "President Trump is addressing the National Association of Counties' conference in Washington, D.C., Tuesday, speaking to attendees who aren't necessarily his supporters. The address comes as the president tries to assure local jurisdictions that his administr\u2026 [+1296 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/2/20: CBSN Evening News",
+            "description": "At least 6 die from coronavirus in Washington State; Encouraging kids on \"Read Across America Day.\"",
+            "url": "https://www.cbsnews.com/video/3220-cbsn-evening-news/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/1c5f8108-abbc-42e3-b0e9-a0c27ca69857/thumbnail/1200x630/87ca913fd24349bb805aac5ec7ce7e85/0302-cbsn-full-2040009-640x360.jpg",
+            "publishedAt": "2020-03-03T03:09:13Z",
+            "content": null
         },
         {
             "source": {
@@ -144,6 +131,19 @@
             "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/41a45bee-6c2f-481d-ae7c-81ab66135b0f/thumbnail/1200x630/22b979df1d46edfef573082bb317ba58/0303-cbsn-coronavirus-rpa-2040445-640x360.jpg",
             "publishedAt": "2020-03-03T17:21:03Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus outbreak: Who should be concerned?",
+            "description": "As the U.S. death toll for coronavirus climbs to six people with at least 102 confirmed cases, public health officials are working to make federal, state and local preparations while also making sure Americans have all the information they need regarding what\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-outbreak-who-should-be-concerned/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/614ea1c1-6a84-4dec-bb0e-34cab7c32f4e/thumbnail/1200x630/26ad6a7e3c062a40f65b3e22217061dc/0303-ctm-coronavirusconcerns-narula-2040187-640x360.jpg",
+            "publishedAt": "2020-03-03T12:27:24Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
         },
         {
             "source": {
@@ -177,12 +177,12 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Coronavirus-hit nursing home residents \"held hostage,\" relative says",
-            "description": "Family members of LifeCare Center's elderly residents told CBS News they are concerned those showing symptoms will not be tested or hospitalized until critically ill.",
-            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-washington-nursing-home-king-county-medical-response-lifecare-center/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/42e5a20e-9205-4ab1-8ee6-4f5cedcc99b4/thumbnail/1200x630/0e2e203742df8cbd6f5fa683a6c56609/1583237723778.png",
-            "publishedAt": "2020-03-03T12:16:09Z",
-            "content": "Health officials have focused in on a cluster of conronavirus infections inside a nursing home outside of Seattle. Family members of LifeCare Center's elderly residents told CBS News their loved ones are being isolated in their rooms and their temperatures mo\u2026 [+1865 chars]"
+            "title": "Federal Reserve slashes interest rates amid coronavirus outbreak",
+            "description": "The Federal Reserve is cutting interest rates by half a percentage point because of the impact of the coronavirus outbreak. It's the largest cut since the 2008 financial crisis. CBS News' Paula Reid and McClatchy's Francesca Chambers joined CBSN to break down\u2026",
+            "url": "https://www.cbsnews.com/video/federal-reserve-slashes-interest-rates-amid-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/af807086-7da5-4a41-bb01-cb6df234b57e/thumbnail/1200x630/33093a372f4b2a00422fcdeedf988419/0303-cbsn-interestratescovid19-2040498-640x360.jpg",
+            "publishedAt": "2020-03-03T19:46:58Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
         },
         {
             "source": {
@@ -190,12 +190,12 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Federal Reserve slashes interest rates amid coronavirus outbreak",
-            "description": "The Federal Reserve is cutting interest rates by half a percentage point because of the impact of the coronavirus outbreak. It's the largest cut since the 2008 financial crisis. CBS News' Paula Reid and McClatchy's Francesca Chambers joined CBSN to break down\u2026",
-            "url": "https://www.cbsnews.com/video/federal-reserve-slashes-interest-rates-amid-coronavirus-outbreak/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/af807086-7da5-4a41-bb01-cb6df234b57e/thumbnail/1200x630/33093a372f4b2a00422fcdeedf988419/0303-cbsn-interestratescovid19-2040498-640x360.jpg",
-            "publishedAt": "2020-03-03T19:46:58Z",
-            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+            "title": "Coronavirus-hit nursing home residents \"held hostage,\" relative says",
+            "description": "Family members of LifeCare Center's elderly residents told CBS News they are concerned those showing symptoms will not be tested or hospitalized until critically ill.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-washington-nursing-home-king-county-medical-response-lifecare-center/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/42e5a20e-9205-4ab1-8ee6-4f5cedcc99b4/thumbnail/1200x630/0e2e203742df8cbd6f5fa683a6c56609/1583237723778.png",
+            "publishedAt": "2020-03-03T12:16:09Z",
+            "content": "Health officials have focused in on a cluster of conronavirus infections inside a nursing home outside of Seattle. Family members of LifeCare Center's elderly residents told CBS News their loved ones are being isolated in their rooms and their temperatures mo\u2026 [+1865 chars]"
         },
         {
             "source": {
@@ -216,11 +216,24 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Public facilities take action to limit coronavirus spread",
-            "description": "Many communities are going beyond the government response to make coronavirus preparations. David Begnaud joined CBSN AM from one of New York's largest elder care facilities with how they're preparing.",
-            "url": "https://www.cbsnews.com/video/public-facilities-take-action-to-limit-coronavirus-spread/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/f99fd452-5e51-4bf8-9282-d604ca6909f7/thumbnail/1200x630/177d82f7c4cd3561dfe25c07b9c5f448/0303-cbsnam-publicfacilitiescpread-2040316-640x360.jpg",
-            "publishedAt": "2020-03-03T14:47:52Z",
+            "title": "Fed slashes interest rates to protect economy from coronavirus",
+            "description": "It's the biggest rate cut since the 2008 financial crisis \u2014 central bank says the virus poses \"evolving risks.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-fed-slashes-interest-rates-half-point-to-stave-off-disruptions/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/12/11/aaa967c8-359d-4627-9544-685ac5985e29/thumbnail/1200x630/d1f1f2f20d869858475b9b6e6714f489/powell-gettyimages-1187991652.jpg",
+            "publishedAt": "2020-03-03T15:24:00Z",
+            "content": "The Federal Reserve on Tuesday lowered its benchmark interest rate by a half-point, the largest cut since 2008, in a move to offset the impact of the coronavirus on the U.S. economy.\r\n\"The fundamentals of the U.S. economy remain strong. However, the coronavir\u2026 [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Epidemiologist predicts effects of coronavirus in the months ahead",
+            "description": "The coronavirus worldwide death toll now tops 3,000 with nearly 90,000 cases. Even those numbers are nothing compared to what could happen in the months ahead. Jim Axelrod reports.",
+            "url": "https://www.cbsnews.com/video/epidemiologist-predicts-effects-of-coronavirus-in-the-months-ahead/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/74fcd6aa-1570-4be4-8849-ac31ae8a6105/thumbnail/1200x630/8ab331aea5f4ef05cf13a13153880ad3/0302-en-coronavirus-axelrod-2039909-640x360.jpg",
+            "publishedAt": "2020-03-03T00:27:27Z",
             "content": null
         },
         {
@@ -242,25 +255,12 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Epidemiologist predicts effects of coronavirus in the months ahead",
-            "description": "The coronavirus worldwide death toll now tops 3,000 with nearly 90,000 cases. Even those numbers are nothing compared to what could happen in the months ahead. Jim Axelrod reports.",
-            "url": "https://www.cbsnews.com/video/epidemiologist-predicts-effects-of-coronavirus-in-the-months-ahead/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/74fcd6aa-1570-4be4-8849-ac31ae8a6105/thumbnail/1200x630/8ab331aea5f4ef05cf13a13153880ad3/0302-en-coronavirus-axelrod-2039909-640x360.jpg",
-            "publishedAt": "2020-03-03T00:27:27Z",
+            "title": "Public facilities take action to limit coronavirus spread",
+            "description": "Many communities are going beyond the government response to make coronavirus preparations. David Begnaud joined CBSN AM from one of New York's largest elder care facilities with how they're preparing.",
+            "url": "https://www.cbsnews.com/video/public-facilities-take-action-to-limit-coronavirus-spread/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/03/f99fd452-5e51-4bf8-9282-d604ca6909f7/thumbnail/1200x630/177d82f7c4cd3561dfe25c07b9c5f448/0303-cbsnam-publicfacilitiescpread-2040316-640x360.jpg",
+            "publishedAt": "2020-03-03T14:47:52Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
-            "title": "Fed slashes interest rates to protect economy from coronavirus",
-            "description": "It's the biggest rate cut since the 2008 financial crisis \u2014 central bank says the virus poses \"evolving risks.\"",
-            "url": "https://www.cbsnews.com/news/coronavirus-fed-slashes-interest-rates-half-point-to-stave-off-disruptions/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/12/11/aaa967c8-359d-4627-9544-685ac5985e29/thumbnail/1200x630/d1f1f2f20d869858475b9b6e6714f489/powell-gettyimages-1187991652.jpg",
-            "publishedAt": "2020-03-03T15:24:00Z",
-            "content": "The Federal Reserve on Tuesday lowered its benchmark interest rate by a half-point, the largest cut since 2008, in a move to offset the impact of the coronavirus on the U.S. economy.\r\n\"The fundamentals of the U.S. economy remain strong. However, the coronavir\u2026 [+1664 chars]"
         },
         {
             "source": {
@@ -307,11 +307,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "President Trump: Fed should lead instead of being led",
-            "description": "President Trump is criticizing the Federal Reserve for not taking more action on interest rates. This comes after the Fed slashed rates Tuesday to combat economic concerns stemming from the coronavirus outbreak. Politico's Daniel Lippman and the Wall Street J\u2026",
-            "url": "https://www.cbsnews.com/video/president-trump-fed-should-lead-instead-of-being-led/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/ec0f494c-6732-4678-8ee6-7da34c577214/thumbnail/1200x630/f8847c6c6d966b89b9ee022b8b265ddd/0303-rb-fedshouldleadnotled-ryh-ryj-2040604-640x360.jpg",
-            "publishedAt": "2020-03-03T23:29:58Z",
+            "title": "WorldView: Coronavirus-free pope, North Korea frees quarantined foreigners, and more",
+            "description": "Italian media is reporting that Pope Francis has tested negative for the novel coronavirus; North Korea lifts a quarantine imposed on foreigners; Israeli Prime Minister Benjamin Netanyahu claims election victory despite being two seats short of a Knesset majo\u2026",
+            "url": "https://www.cbsnews.com/video/worldview-coronavirus-pope-north-korea-quarantine-netanyahu-election-indonesia-volcano/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/08/10/3102a9a6-d90c-4086-a984-1abe061746ba/thumbnail/1200x630/cb16e63b818055ab94b94871817dbcd6/news2.jpg",
+            "publishedAt": "2020-03-03T18:40:30Z",
             "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
         },
         {
@@ -320,11 +320,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "WorldView: Coronavirus-free pope, North Korea frees quarantined foreigners, and more",
-            "description": "Italian media is reporting that Pope Francis has tested negative for the novel coronavirus; North Korea lifts a quarantine imposed on foreigners; Israeli Prime Minister Benjamin Netanyahu claims election victory despite being two seats short of a Knesset majo\u2026",
-            "url": "https://www.cbsnews.com/video/worldview-coronavirus-pope-north-korea-quarantine-netanyahu-election-indonesia-volcano/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/08/10/3102a9a6-d90c-4086-a984-1abe061746ba/thumbnail/1200x630/cb16e63b818055ab94b94871817dbcd6/news2.jpg",
-            "publishedAt": "2020-03-03T18:40:30Z",
+            "title": "President Trump: Fed should lead instead of being led",
+            "description": "President Trump is criticizing the Federal Reserve for not taking more action on interest rates. This comes after the Fed slashed rates Tuesday to combat economic concerns stemming from the coronavirus outbreak. Politico's Daniel Lippman and the Wall Street J\u2026",
+            "url": "https://www.cbsnews.com/video/president-trump-fed-should-lead-instead-of-being-led/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/ec0f494c-6732-4678-8ee6-7da34c577214/thumbnail/1200x630/f8847c6c6d966b89b9ee022b8b265ddd/0303-rb-fedshouldleadnotled-ryh-ryj-2040604-640x360.jpg",
+            "publishedAt": "2020-03-03T23:29:58Z",
             "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
         },
         {

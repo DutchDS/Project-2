@@ -1,0 +1,630 @@
+{
+    "status": "ok",
+    "totalResults": 48,
+    "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Wall Street Takes Coronavirus Precautions",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/wall-street-takes-coronavirus-precautions-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T13:06:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Can Housing Remain Immune to Coronavirus (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/can-housing-remain-immune-to-coronavirus-podcast-k7dddp5l",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T13:41:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Ex-Sect Member on Coronavirus Outbreak",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/ex-sect-member-on-coronavirus-outbreak-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T13:04:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "",
+            "title": "Expat Exodus From Hong Kong Could Be Permanent (Radio)",
+            "description": "Shelly Banjo, Asia tech reporter for Bloomberg, on life in Hong Kong during the coronavirus. Hosted by Lisa Abramowicz and Paul Sweeney.",
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/expat-exodus-from-hong-kong-could-be-permanent-radio",
+            "urlToImage": "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+            "publishedAt": "2020-03-04T17:28:05Z",
+            "content": "Shelly Banjo, Asia tech reporter for Bloomberg, on life in Hong Kong during the coronavirus. Hosted by Lisa Abramowicz and Paul Sweeney.\r\nRunning time 06:04\r\nBefore it's here, it's on the Bloomberg Terminal.LEARN MORE"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Deena Shanker",
+            "title": "Campbell's Signature Soup in Demand Thanks to Virus, CEO Says",
+            "description": "Campbell Soup Co. is seeing an uptick in demand as consumers stock up during the spread of coronavirus, Chief Executive Officer Mark Clouse said in an interview Wednesday.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/campbell-s-signature-soup-in-demand-thanks-to-virus-ceo-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYB4_cKBM3mQ/v0/1200x861.jpg",
+            "publishedAt": "2020-03-04T17:16:50Z",
+            "content": "Photographer: Andrew Harrer/Bloomberg\r\nCampbell Soup Co. is seeing an uptick in demand as consumers stock up during the spread of coronavirus, Chief Executive Officer Mark Clouse said in an interview Wednesday.\r\nThe company will watch and see whether consumer\u2026 [+1254 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Marion Halftermeyer, Cathy Chan",
+            "title": "UBS Issues Blanket Global Travel Ban to Employees Due to Virus",
+            "description": "UBS Group AG is banning all employees from international travel that\u2019s not critical to its business due to the global spread of the coronavirus.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/ubs-issues-blanket-global-travel-ban-to-employees-due-to-virus",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iai4AbdywbEg/v1/1200x785.jpg",
+            "publishedAt": "2020-03-04T11:47:59Z",
+            "content": "The UBS Group AG headquarters in Zurich.\r\nUBS Group AG is banning all employees from international travel that\u2019s not critical to its business due to the global spread of the coronavirus.\r\nThe Swiss lender said that all travel requests would need special appro\u2026 [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Reade Pickert",
+            "title": "U.S. Companies Add More Jobs Than Forecast, ADP Data Show",
+            "description": "U.S. companies added more workers than forecast in February, suggesting the jobs market was in good shape just as the coronavirus began rippling through the economy.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/u-s-companies-add-more-jobs-than-forecast-adp-data-show",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1Q_UKLauTUw/v0/1200x675.png",
+            "publishedAt": "2020-03-04T13:38:11Z",
+            "content": "U.S. companies added more workers than forecast in February, suggesting the jobs market was in good shape just as the coronavirus began rippling through the economy.\r\nBusinesses\u2019 payrolls increased by 183,000 after a downwardly revised 209,000 gain a month ea\u2026 [+2052 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Amazon Employee in Seattle Has Confirmed Case of Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/amazon-employee-in-seattle-has-confirmed-case-of-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T01:29:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Coronavirus Vaccine Unlikely to Become Available This Year, Professor Says",
+            "description": "Caitlin Rivers, professor of epidemiology at Johns Hopkins Bloomberg School of Public Health, discusses how the U.S. is dealing with the coronavirus outbreak. She speaks with Paul Allen and Emily Chang on \"Bloomberg Markets.\" (Source: Bloomberg)",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/coronavirus-vaccine-unlikely-to-become-available-this-year-professor-says-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iifAaczt5XQc/v5/-1x-1.jpg",
+            "publishedAt": "2020-03-04T00:17:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Malaysian State Fund Employee at Center of Coronavirus Cluster",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/malaysian-state-fund-employee-at-center-of-coronavirus-cluster",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T10:04:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Impossible Foods CFO: Coronavirus Has Had No Material Impact",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/impossible-foods-cfo-coronavirus-has-had-no-material-impact-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T23:32:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "U.S. Issues Tighter Travel Restrictions to Control Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/u-s-issues-tighter-travel-restrictions-to-control-coronavirus-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T23:39:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Sound On: Super Tuesday Results, Coronavirus Funding (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/sound-on-super-tuesday-results-coronavirus-funding-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T23:21:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Short Sellers Made Over $50 Billion During Coronavirus Sell-Off",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/short-sellers-made-over-50-billion-during-coronavirus-sell-off",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T21:32:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Impact on Wall St. Workers & Dealmaking (Podcast)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/coronavirus-impact-on-wall-st-workers-dealmaking-podcast",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T21:33:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "New York Coronavirus Case Sets Off a Complex Risk Calculus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/new-york-coronavirus-case-sets-off-a-complex-risk-calculus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T12:27:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Chinese Oil Trader Says London Worker Could Have Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/chinese-oil-trader-says-london-worker-could-have-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T10:42:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Baystate Business: Emergency Rate Cuts and Coronavirus (Radio)",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/baystate-business-emergency-rate-cuts-and-coronavirus-radio",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T16:10:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Cuomo Reports Another 5 Cases of Coronavirus in New York",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/cuomo-reports-another-5-cases-of-coronavirus-in-new-york",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T20:51:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Justin Bachman",
+            "title": "United Airlines to Reduce Flights, Freeze Hiring on Coronavirus",
+            "description": "United Airlines Holdings Inc. plans to cut back on flights, freeze hiring and halt merit pay raises as it grapples with a rapid decline in travel demand because of the coronavirus outbreak.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/united-airlines-to-reduce-flights-freeze-hiring-on-coronavirus",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwRiN.vyiMWY/v1/1200x800.jpg",
+            "publishedAt": "2020-03-04T20:03:02Z",
+            "content": "United Airlines Holdings Inc. plans to cut back on flights, freeze hiring and halt merit pay raises as it grapples with a rapid decline in travel demand because of the coronavirus outbreak.\r\nThe domestic schedule will be pared 10% in April and international f\u2026 [+809 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Bloomberg Westminster: No New Cash for NHS Facing Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/bloomberg-westminster-no-new-cash-for-nhs-facing-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T12:52:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Global Coronavirus Cases Reach 93,017; Death Toll Rises to 3,201",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/oooglobal-coronavirus-cases-reach-93-017-death-toll-rises-to-3-201-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T06:03:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Claims Chinese Travel and Finance Conglomerate HNA",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/how-coronavirus-claimed-hna-one-of-china-s-biggest-companies",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T21:00:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus 'Rather Sadly' May Benefit Legal & General, CEO Says",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/legal-general-ceo-plays-down-risk-of-coronavirus-to-insurer-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T10:05:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Fed's Bullard on the Emergency Rate Cut, Coronavirus, U.S. Economy",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/st-louis-fed-president-bullard-on-the-emergency-rate-cut-coronavirus-impact-on-economy-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T20:13:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Co-Living During a Virus Outbreak",
+            "description": "How do you avoid germs during a coronavirus outbreak?\n\nThis co-living space in China is placing toothpicks in elevators to allow people to press buttons without touching them.  More here: https://trib.al/bn4o00n  (Source: QuickTake)",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/co-living-during-a-virus-outbreak-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icHDX5Cg_dII/v5/-1x-1.jpg",
+            "publishedAt": "2020-03-04T14:06:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Sam Kim",
+            "title": "BOK to Monitor, Seek to Stabilize Markets After Fed Cut",
+            "description": "The Bank of Korea said Wednesday it will seek to monitor and stabilize markets, stopping short of following the Federal Reserve in easing policy to respond to the coronavirus epidemic.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/bok-says-will-monitor-seek-to-stabilize-markets-after-fed-cut",
+            "urlToImage": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+            "publishedAt": "2020-03-04T07:54:53Z",
+            "content": "The Bank of Korea said Wednesday it will seek to monitor and stabilize markets, stopping short of following the Federal Reserve in easing policy to respond to the coronavirus epidemic.\r\nThe BOK said it would consider changes in the policy environment, includi\u2026 [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "",
+            "title": "Don't Refinance Your House Just Yet, Rates Going Lower (Podcast",
+            "description": "Carl Riccadonna, Chief U.S. Economist for Bloomberg Economics, and Damian Sassower, Chief Emerging Markets Credit Strategist for Bloomberg Intelligence, on the Fed, economy and emerging markets. Shelly Banjo, Asia tech reporter for Bloomberg, on life in Hong \u2026",
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/don-t-refinance-your-house-just-yet-rates-going-lower-podcast",
+            "urlToImage": "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+            "publishedAt": "2020-03-04T17:20:41Z",
+            "content": "Carl Riccadonna, Chief U.S. Economist for Bloomberg Economics, and Damian Sassower, Chief Emerging Markets Credit Strategist for Bloomberg Intelligence, on the Fed, economy and emerging markets. Shelly Banjo, Asia tech reporter for Bloomberg, on life in Hong \u2026 [+256 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Thailand Mulls Mandatory 14-Day Coronavirus Quarantine on High-Risk Arrivals",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/thailand-mulls-mandatory-14-day-quarantine-on-high-risk-arrivals",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T05:47:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "India Says 15 More Italian Tourists, Driver Test Positive for Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/india-says-15-more-italian-tourists-tested-positive-for-virus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T07:39:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "This Coronavirus Hunter Is Racing for Answers in a Locked-Down Lab",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/this-coronavirus-hunter-is-racing-for-answers-in-a-locked-down-lab",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T12:00:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Vice President Pence Says Risk of Catching Coronavirus Remains Low in U.S.",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/vice-president-pence-says-risk-of-catching-coronavirus-remains-low-in-u-s-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T21:37:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China's Grand Belt and Road Plan Is Being Lashed by Coronavirus",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/china-s-grand-belt-and-road-plan-is-being-lashed-by-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Africa in Focus: Nigeria Becomes the Continent's Biggest Economy",
+            "description": "Nigeria\u2019s economic growth beat forecasts in the fourth quarter, helping its economy to expand the most in four years in 2019 as oil output increased and the central bank took steps to boost credit growth. Separately, a second French national was diagnosed wit\u2026",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/africa-in-focus-nigeria-becomes-the-continent-s-biggest-economy-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZnLDMfXfTCU/v5/-1x-1.jpg",
+            "publishedAt": "2020-03-04T07:08:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "'Bloomberg Markets: The Close' Full Show (3/3/2020)",
+            "description": "Scarlet Fu and Romaine Bostick bring you the latest news and analysis leading up to the final minutes and seconds before the closing bell on Wall Street. Today's show tackles the selloff from the Fed's emergency rate cut from coronavirus fears. Guests Today: \u2026",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-04/-bloomberg-markets-the-close-full-show-3-3-2020-video",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.dJV6rjDZzE/v5/-1x-1.jpg",
+            "publishedAt": "2020-03-04T01:01:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "",
+            "title": "Spike Lee Says Jim Dolan Dustup Will keep Him From MSG(Podcast)",
+            "description": "Scott Soshnick, Eben Novy-Williams and Michael Barr discuss a host of issues related to the business of sports, including the public feud between the New York Knicks and their super fan, Spike Lee, who was admonished by the NBA club for using the employee ent\u2026",
+            "url": "https://www.bloomberg.com/news/audio/2020-03-04/spike-lee-says-jim-dolan-dustup-will-keep-him-from-msg-podcast",
+            "urlToImage": "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg",
+            "publishedAt": "2020-03-04T17:02:29Z",
+            "content": "Scott Soshnick, Eben Novy-Williams and Michael Barr discuss a host of issues related to the business of sports, including the public feud between the New York Knicks and their super fan, Spike Lee, who was admonished by the NBA club for using the employee ent\u2026 [+627 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Layan Odeh",
+            "title": "Boeing Max Compensation Lifts Gulf's Flydubai to Annual Profit",
+            "description": "Flydubai, the second-biggest customer for Boeing Co.\u2019s grounded 737 Max, said compensation from the U.S. planemaker helped lift the discount carrier to an annual profit.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/boeing-max-compensation-lifts-gulf-s-flydubai-to-annual-profit",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isxqUcDHfT8o/v0/1200x800.jpg",
+            "publishedAt": "2020-03-04T10:44:40Z",
+            "content": "Follow us \r\n@middleeast for more news on the region.\r\nFlydubai, the second-biggest customer for \r\nBoeing Co.\u2019s grounded 737 Max, said compensation from the U.S. planemaker helped lift the discount carrier to an annual profit.\r\nWhile revenue declined during 20\u2026 [+2294 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Stephanie Bodoni",
+            "title": "Cathay Pacific Fined $639,000 in U.K. Over Data-Security Lapses",
+            "description": "Cathay Pacific Airways Ltd. was fined 500,000 pounds ($639,000) by the U.K.\u2019s privacy watchdog for failing to protect customers\u2019 data due to security lapses lasting nearly four years.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/cathay-pacific-fined-639-000-in-u-k-over-data-security-lapses",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPl_XOZ.jwtQ/v0/1200x707.jpg",
+            "publishedAt": "2020-03-04T11:24:26Z",
+            "content": "Cathay Pacific Airways Ltd. was fined 500,000 pounds ($639,000) by the U.K.\u2019s privacy watchdog for failing to protect customers\u2019 data due to security lapses lasting nearly four years.\r\nThe penalty is the highest the U.K. authority could levy under old rules t\u2026 [+1694 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Viktoria Dendrinou, Craig Stirling",
+            "title": "France and Italy Risk Recession in EU Warning on Virus Impact",
+            "description": "",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/eu-fears-cascading-effects-on-economy-if-virus-doesn-t-go-away",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9RZWYwoSr4c/v0/1200x906.jpg",
+            "publishedAt": "2020-03-04T14:51:42Z",
+            "content": "The coronavirus outbreak threatens to plunge both France and Italy into recession, and the ripples from a prolonged outbreak could incite a \u201cvicious\u201d spiral of declining markets, European finance ministers have been warned.\r\n\u201cA longer and more widespread epid\u2026 [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Apple Warns Stores About a Shortage of Replacement iPhones - Bloomberg",
+            "description": "Apple Warns Stores About a Shortage of Replacement iPhones Bloomberg Apple\u2019s iPhone 12 will crush every other smartphone in 2020 for two reasons BGR The best iPhone 11 and 11 Pro Night mode pictures, according to Apple - Business Insider Business Insider Appl\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2d79b770-5e69-11ea-8831-b774d2186c9f&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMy0wNC9hcHBsZS13YXJucy1zdG9yZXMtYWJvdXQtc2hvcnRhZ2Utb2YtcmVwbGFjZW1lbnQtaXBob25lcw==",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T20:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Patricia Hurtado",
+            "title": "Huawei Says Coronavirus Hampering Trade-Secrets Case Defense",
+            "description": "Huawei Technologies Co. says coronavirus is making it harder to defend itself against a U.S. racketeering and trade-secrets theft prosecution.",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/huawei-says-coronavirus-hampering-trade-secrets-case-defense",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T22:15:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Bloomberg",
+            "title": "Hobbled by Virus, China\u2019s Wanda Faces $5.7 Billion Debt Bill",
+            "description": "Dalian Wanda Group, which went on a global acquisition binge a few years ago, now faces a wall of maturing debt.",
+            "url": "https://mercury.bloomberg.com/news/Q6NXS2T0G1L4",
+            "urlToImage": "https://www.nreionline.com/sites/nreionline.com/files/Dalian%20Wanda%20Group%20buildings%20from%20their%20site.png",
+            "publishedAt": "2020-03-04T15:33:00Z",
+            "content": "(Bloomberg)Dalian Wanda Group Co., the Chinese conglomerate that borrowed billions of dollars to fund an acquisition binge, is facing a double whammy this year: a wall of maturing debt and a deadly virus that has hampered its operations.The empire founded by \u2026 [+6631 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "By Ryan Beene, Jennifer Jacobs and Ben Brody, Bloomberg News",
+            "title": "Airline CEOs get Trump pep talk under shadow of virus crisis",
+            "description": "WASHINGTON - President Donald Trump sought to reassure US airline leaders on Wednesday as the industry confronts a potential collapse of travel demand because of the coronavirus epidemic. In a meeting with chief executives of American Airlines Group Inc., Sou\u2026",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/airline-ceos-meet-trump-over-virus-fears-clouding-travel-outlook",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/16/b1680262-d685-5f49-8b46-41b40dd82876/5e6013d0240f4.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+            "publishedAt": "2020-03-04T19:03:00Z",
+            "content": "\"It's spring time, just ahead of the peak travel season for business and leisure, spring break, family vacations, conventions and trade shows,\" Roger Dow, president of the U.S. Travel Association.\r\nHe said they are seeing scattered cancellations of meetings a\u2026 [+1166 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Pizza Deliverers Are Doubly Exposed to the Coronavirus - Bloomberg",
+            "description": "Pizza Deliverers Are Doubly Exposed to the Coronavirus Bloomberg",
+            "url": "https://www.bloomberg.com/opinion/articles/2020-03-04/gig-workers-deserve-more-than-just-a-coronavirus-tip",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T06:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Coronavirus Spread in China Slows Drastically But Doubt Remains - Bloomberg",
+            "description": "Coronavirus Spread in China Slows Drastically But Doubt Remains Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/coronavirus-spread-in-china-slows-drastically-but-doubt-remains",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T08:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mark Gurman",
+            "title": "Apple Restricts Employee Travel to Italy, Korea on Coronavirus",
+            "description": "Apple Restricts Employee Travel to Italy, Korea on Coronavirus bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/apple-restricts-employee-travel-to-italy-korea-on-coronavirus",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T00:52:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jennifer Jacobs",
+            "title": "Trump Blames Obama-Era Rule for Coronavirus Test Shortage",
+            "description": "Trump Blames Obama-Era Rule for Coronavirus Test Shortage bloomberg.com",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-04/trump-blames-obama-era-rule-for-coronavirus-test-shortage",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T20:04:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Hannah Elliott",
+            "title": "2020 Geneva Auto Show Best Cars Had Coronavirus Not Cancelled It",
+            "description": "2020 Geneva Auto Show Best Cars Had Coronavirus Not Cancelled It bloomberg.com",
+            "url": "https://www.bloomberg.com/news/photo-essays/2020-03-04/2020-geneva-auto-show-best-cars-had-coronavirus-not-cancelled-it",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T23:01:25Z",
+            "content": null
+        }
+    ]
+}

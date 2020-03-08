@@ -1,0 +1,357 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Julia Jacobo",
+            "title": "Coronavirus live updates: Cruise ship with 21 positive cases to dock in Oakland",
+            "description": "The number of patients who have tested positive for coronavirus continues to creep north of 100,000",
+            "url": "https://abcnews.go.com/Health/coronavirus-live-updates-grand-princess-cruise-ship-21/story?id=69467935",
+            "urlToImage": "https://s.abcnews.com/images/International/coronavirus-1-gty-er-200308_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-08T15:46:26Z",
+            "content": "The number of patients who have tested positive for coronavirus continues to creep north of 100,000 as states in the U.S. announce new cases every day.\r\nThe virus has spread to every continent except for Antarctica after it first broke out in Wuhan, China, in\u2026 [+3920 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Adia Robinson",
+            "title": "Trump administration 'working very hard' on coronavirus: HHS Secretary Ben Carson",
+            "description": "HUD Secretary Ben Carson discussed the Trump administration's response to novel coronavirus on ABC's \"This Week\" Sunday.",
+            "url": "https://abcnews.go.com/Politics/trump-administration-working-hard-coronavirus-hhs-secretary-ben/story?id=69455917",
+            "urlToImage": "https://s.abcnews.com/images/Politics/ben-carson-gty-rc-200307_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-08T13:28:48Z",
+            "content": "Housing and Urban Development Secretary Ben Carson reiterated that the Trump administration is working very hard and looking at all the evidence on the novel coronavirus on ABC's \"This Week\" Sunday.\r\n\"You can look at worst case scenarios, you can look at best\u2026 [+2339 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stacy Chen",
+            "title": "Nursing home grappling with coronavirus outbreak struggling for answers",
+            "description": "The virus has killed at least 13 at the facility in Washington state.",
+            "url": "https://abcnews.go.com/US/nursing-home-grappling-coronavirus-outbreak-struggling-answers/story?id=69419434",
+            "urlToImage": "https://s.abcnews.com/images/US/life-care-center-rt-jt-200306_hpMain_16x9_992.jpg",
+            "publishedAt": "2020-03-08T00:46:56Z",
+            "content": "At least 70 staffers at the nursing facility in Washington state that's become the epicenter of the U.S. coronavirus outbreak have shown symptoms and been asked to stay home.\r\n\"We cannot make any promises that further exposure in the center is not happening,\"\u2026 [+5262 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": null,
+            "title": "Iran reports 49 new coronavirus fatalities, bringing death toll to 194 people amid 6,566 confirmed cases.",
+            "description": "Iran reports 49 new coronavirus fatalities, bringing death toll to 194 people amid 6,566 confirmed cases.",
+            "url": "https://abcnews.go.com/International/wireStory/iran-reports-49-coronavirus-fatalities-bringing-death-toll-69465878",
+            "urlToImage": null,
+            "publishedAt": "2020-03-08T10:38:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "7 dead, 28 missing as hotel in China virus fight collapses",
+            "description": "At least seven people were killed and another 28 are missing after a hotel being used in China's coronavirus fight suddenly collapsed",
+            "url": "https://abcnews.go.com/International/wireStory/dead-28-missing-hotel-china-virus-fight-collapses-69465611",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_ee233dc4f9f140e7b15bcaf3ec03ea12_16x9_992.jpg",
+            "publishedAt": "2020-03-08T09:24:05Z",
+            "content": "BEIJING -- \r\nAt least seven people were killed in the collapse of Chinese hotel that was being used to isolate people who had arrived from other parts of China hit hard by the coronavirus outbreak, authorities said Sunday. \r\nThe sudden collapse of the buildin\u2026 [+1839 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSEF FEDERMAN Associated Press",
+            "title": "Pilgrims turn to prayer, kinship during coronavirus scare",
+            "description": "A group of Christian pilgrims from Alabama is turning to prayer and positive thinking as they cope with an open-ended coronavirus quarantine",
+            "url": "https://abcnews.go.com/International/wireStory/pilgrims-turn-prayer-kinship-coronavirus-scare-69466214",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4e20f13a496f4ecc836921ee18986dcb_16x9_992.jpg",
+            "publishedAt": "2020-03-08T11:35:19Z",
+            "content": "JERUSALEM -- \r\nA group of Christian pilgrims from Alabama is turning to prayer and positive thinking as they cope with an open-ended coronavirus quarantine, confined to their West Bank hotel rooms while they wait for clearance to return to the United States.\r\u2026 [+4042 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "TRISHA THOMAS Associated Press",
+            "title": "Before Italy's virus lockdown, a dash to the last train out",
+            "description": "Chaos and panic reigned as rumors spread that the Italian government was expanding its lockdown on northern Italy to help contain the coronavirus",
+            "url": "https://abcnews.go.com/International/wireStory/italys-virus-lockdown-dash-train-69469683",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_14d7298c7d85466eb549fe01ab2905eb_16x9_992.jpg",
+            "publishedAt": "2020-03-08T17:41:10Z",
+            "content": "ABOARD THE INTERCITYNOTTE TRAIN 35471 -- \r\nI was out to dinner in the medieval city of Padua when the text messages and phone calls started pouring in: The last train out leaves at 11:31 p.m. Get back to Rome before the military blocks the roads. The decree g\u2026 [+4631 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAISY NGUYEN and JANIE HAR Associated Press",
+            "title": "Cruise ship hit by virus to dock in Oakland, California",
+            "description": "The captain of a cruise ship hit by the coronavirus told passengers it's headed to the port of Oakland, California",
+            "url": "https://abcnews.go.com/Travel/wireStory/cruise-ship-hit-virus-dock-oakland-california-69465542",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_a1420e5416834538833093b5fb1146f4_16x9_992.jpg",
+            "publishedAt": "2020-03-08T08:31:18Z",
+            "content": "SAN FRANCISCO -- \r\nA cruise ship hit by the new coronavirus is headed to the port of Oakland, California, the captain told passengers, though they were destined to stay aboard the ship for at least another day. \r\nGrand Princess Capt. John Smith, in a recordin\u2026 [+4818 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD AP Medical Writer",
+            "title": "Behind the scenes, scientists prep for COVID-19 vaccine test",
+            "description": "Dozens of research groups around the world are racing to create a vaccine as coronavirus cases continue to grow",
+            "url": "https://abcnews.go.com/Health/wireStory/scenes-scientists-prep-covid-19-vaccine-test-69467049",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-08T13:34:04Z",
+            "content": "WASHINGTON -- \r\nA team of scientists jostled for a view of the lab dish, staring impatiently for the first clue that an experimental vaccine against the new coronavirus just might work. \r\nAfter weeks of round-the-clock research at the National Institutes of H\u2026 [+7825 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "A cruise ship hit by the coronavirus is headed to the port of Oakland, California, the captain tells passengers",
+            "description": "A cruise ship hit by the coronavirus is headed to the port of Oakland, California, the captain tells passengers",
+            "url": "https://abcnews.go.com/US/wireStory/cruise-ship-hit-coronavirus-headed-port-oakland-california-69465094",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-08T06:07:32Z",
+            "content": "OAKLAND, Calif. -- \r\nA cruise ship hit by the coronavirus is headed to the port of Oakland, California, the captain tells passengers."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "DAISY NGUYEN and JANIE HAR Associated Press",
+            "title": "Cruise ship hit by virus to dock in Oakland, California",
+            "description": "The captain told passengers Saturday night that a cruise ship hit by the coronavirus is headed to the port of Oakland, California",
+            "url": "https://abcnews.go.com/Travel/wireStory/cruise-ship-hit-virus-dock-oakland-california-69465098",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_6fd6e60c81004b9d8f2cba95fe08d373_16x9_992.jpg",
+            "publishedAt": "2020-03-08T06:13:33Z",
+            "content": "SAN FRANCISCO -- \r\nA cruise ship that was hit by the new coronavirus is headed to the port of Oakland, California, the captain told passengers Saturday night. \r\nGrand Princess Capt. John Smith, in a recording provided by passenger Laurie Miller of San Jose, t\u2026 [+5984 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Argentina announces first coronavirus death in Latin America",
+            "description": "Health authorities in Argentina say a 64-year-old patient has died as a result of the new coronavirus, the first such death reported in Latin America",
+            "url": "https://abcnews.go.com/Health/wireStory/argentina-announces-coronavirus-death-latin-america-69461043",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-08T00:07:29Z",
+            "content": "BUENOS AIRES, Argentina -- \r\nA 64-year-old man died in Argentina as a result of the new coronavirus, the first such death in Latin America, health authorities announced Saturday.\r\nThe Ministry of Health said the patient lived in Buenos Aires and had been conf\u2026 [+447 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Portugal's president self-isolates amid virus outbreak",
+            "description": "The office of Portugal's 71-year-old president said Sunday that he has canceled all public activities and will stay at home amid the coronavirus outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/portugals-president-isolates-amid-virus-outbreak-69471162",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_bd1815fc816c42dc8dbed09f52db7e68_16x9_992.jpg",
+            "publishedAt": "2020-03-08T19:51:02Z",
+            "content": "The office of Portugal's 71-year-old president said Sunday that he has canceled all public activities and will stay at home amid the coronavirus outbreak. \r\nPresident Marcelo Rebelo de Sousa recently received a group of students from a school which has since \u2026 [+970 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ASHRAF KHALIL and MICHAEL BALSAMO Associated Press",
+            "title": "DC church reports its rector tests positive for coronavirus",
+            "description": "A prominent Episcopal church in Washington has suspended all activities after announcing that one of its senior leaders was the first person in the nation\u2019s capital to test positive for the coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/dc-church-reports-rector-tests-positive-coronavirus-69470760",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_3809e232154346afae496bcfaab6cfef_16x9_992.jpg",
+            "publishedAt": "2020-03-08T19:19:34Z",
+            "content": "WASHINGTON -- \r\nA prominent Episcopal church in Washington suspended all activities Sunday after announcing that one of its senior leaders was the first person in the nations capital to test positive for the coronavirus. \r\nThe Rev. Timothy Cole, the church re\u2026 [+4463 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": null,
+            "title": "Anxiety grips companies across the world as virus spreads",
+            "description": "Since breaking out of China, the coronavirus has breached the walls of the Vatican",
+            "url": "https://abcnews.go.com/Business/wireStory/anxiety-grips-companies-world-virus-spreads-69468474",
+            "urlToImage": null,
+            "publishedAt": "2020-03-08T15:29:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE AP Medical Writer",
+            "title": "Official: White House didn't want to tell seniors not to fly",
+            "description": "A federal official says the White House overruled health officials who wanted to recommend that elderly and physically fragile Americans be advised not to fly on commercial airlines because of the new coronavirus",
+            "url": "https://abcnews.go.com/Health/wireStory/official-white-house-seniors-fly-69462660",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_f5d0dc834831412b8339164a103ab417_16x9_992.jpg",
+            "publishedAt": "2020-03-08T02:08:42Z",
+            "content": "NEW YORK -- \r\nThe White House overruled health officials who wanted to recommend that elderly and physically fragile Americans be advised not to fly on commercial airlines because of the new coronavirus, a federal official told The Associated Press.\r\nThe Cent\u2026 [+4640 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: Mideast stock markets sharply drop on virus fear",
+            "description": "Stocks markets in the Mideast are suffering sharp drops in early trading Sunday over fears about the new coronavirus and demand in crude oil falling amid a failure by OPEC and allied nations to cut production",
+            "url": "https://abcnews.go.com/Health/wireStory/latest-mideast-stock-markets-sharply-drop-virus-fear-69465472",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_967c6b8e89d54eb997b7362a0c12869b_16x9_992.jpg",
+            "publishedAt": "2020-03-08T07:08:40Z",
+            "content": "ROME -- \r\nThe Latest on the coronavirus outbreak(all times local):\r\n8 a.m.\r\nStocks markets in the Mideast are suffering sharp drops in early trading Sunday over fears about the new coronavirus and demand in crude oil falling amid a failure by OPEC and allied \u2026 [+685 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAOLO SANTALUCIA and YURI KAGEYAMA Associated Press",
+            "title": "Italy announces virus quarantine affecting 16 million people",
+            "description": "Italy's prime minister has announced a sweeping coronavirus quarantine, restricting the movements of about a quarter of the country's population in a bid to limit contagions at the epicenter of Europe's outbreak",
+            "url": "https://abcnews.go.com/Health/wireStory/italy-announces-virus-quarantine-affecting-16-million-people-69464955",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_0978309b45c2401b93d9ec9bd50242cb_16x9_992.jpg",
+            "publishedAt": "2020-03-08T05:52:07Z",
+            "content": "ROME -- \r\nItaly's prime minister announced a sweeping coronavirus quarantine early Sunday, restricting the movements of about a quarter of the country's population in a bid to limit contagions at the epicenter of Europe's outbreak.\r\nShortly after midnight, Pr\u2026 [+7296 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HOPE YEN and WILL WEISSERT Associated Press",
+            "title": "Despite virus risk, 2020 hopefuls keep up campaigns for now",
+            "description": "As the coronavirus hits more states, Bernie Sanders says his campaign is gauging when it may become necessary to cancel the large campaign rallies that public health experts say could be breeding grounds to spread the illness",
+            "url": "https://abcnews.go.com/Health/wireStory/virus-risk-2020-hopefuls-campaigns-now-69469615",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_89a1795c2ac2406ca3d19b2fbb59ea6c_16x9_992.jpg",
+            "publishedAt": "2020-03-08T17:48:40Z",
+            "content": "GRAND RAPIDS, Mich. -- \r\nAs the coronavirus hits more states, Democratic presidential candidate Bernie Sanders said Sunday his campaign is gauging when it may become necessary to cancel the large campaign rallies that public health experts say could be breedi\u2026 [+3755 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LAURAN NEERGAARD AP Medical Writer",
+            "title": "Behind the scenes, scientists prep for COVID-19 vaccine test",
+            "description": "Dozens of research groups around the world are racing to create a vaccine as coronavirus cases continue to grow",
+            "url": "https://abcnews.go.com/Business/wireStory/scenes-scientists-prep-covid-19-vaccine-test-69467058",
+            "urlToImage": "null",
+            "publishedAt": "2020-03-08T13:33:49Z",
+            "content": "WASHINGTON -- \r\nA team of scientists jostled for a view of the lab dish, staring impatiently for the first clue that an experimental vaccine against the new coronavirus just might work. \r\nAfter weeks of round-the-clock research at the National Institutes of H\u2026 [+7825 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Latest: Pompeii, 'Raffaello' exhibition shut in Italy",
+            "description": "On the first day of a sweeping quarantine in northern Italy, even outdoor sites like the sprawling ruins of Pompeii were shut to tourists",
+            "url": "https://abcnews.go.com/Health/wireStory/latest-pompeii-raffaello-exhibition-shut-italy-69465613",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_88cfab2c33d0491eabbf95ce709c65cd_16x9_992.jpg",
+            "publishedAt": "2020-03-08T09:42:33Z",
+            "content": "ROME -- \r\nThe Latest on the coronavirus outbreak (all times local):\r\n10:40 a.m.\r\nOn the first day of a sweeping quarantine in northern Italy, even outdoor sites like the sprawling ruins of Pompeii, the ancient Roman city destroyed by volcanic eruption in 79 A\u2026 [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "PAOLO SANTALUCIA and YURI KAGEYAMA Associated Press",
+            "title": "Italy announces virus quarantine affecting 16 million people",
+            "description": "Italy's prime minister has announced a sweeping coronavirus quarantine, restricting the movements of about a quarter of the country's population in a bid to limit contagions at the epicenter of Europe's outbreak",
+            "url": "https://abcnews.go.com/Business/wireStory/italy-announces-virus-quarantine-affecting-16-million-people-69464957",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_0978309b45c2401b93d9ec9bd50242cb_16x9_992.jpg",
+            "publishedAt": "2020-03-08T05:52:16Z",
+            "content": "ROME -- \r\nItaly's prime minister announced a sweeping coronavirus quarantine early Sunday, restricting the movements of about a quarter of the country's population in a bid to limit contagions at the epicenter of Europe's outbreak.\r\nShortly after midnight, Pr\u2026 [+7296 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AYA BATRAWY Associated Press",
+            "title": "Saudis' arrest of 2 princes called a warning to royal family",
+            "description": "The arrest of two senior princes in Saudi Arabia had triggered speculation about King Salman's health, or even a possible coup attempt",
+            "url": "https://abcnews.go.com/International/wireStory/saudis-arrest-princes-called-warning-royal-family-69466696",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_a9e0ebd73db1451cb42e92b05023cb66_16x9_992.jpg",
+            "publishedAt": "2020-03-08T13:13:20Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nSaudi Arabia's King Salman was shown in state media Sunday in apparent good health and working, just days after the arrest of two senior princes triggered speculation about a possible coup attempt or a sudden deterioration in \u2026 [+5575 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LINDSEY BAHR AP Film Writer",
+            "title": "Business as usual at North American box office amid virus",
+            "description": "According to the weekend\u2019s box office numbers, North American audiences are not staying away from theaters amid virus concerns",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/business-usual-north-american-box-office-amid-virus-69468583",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_871d60a1b3c1457b90e5865bc9784867_16x9_992.jpg",
+            "publishedAt": "2020-03-08T15:58:47Z",
+            "content": "Los Angeles -- \r\nNorth American audiences are not staying away from theaters amid virus concerns according to the weekends box office numbers. Disney and Pixars Onward topped the charts as expected and the Ben Affleck basketball drama The Way Back also opened\u2026 [+667 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "KELLI KENNEDY and ADRIANA GOMEZ LICON Associated Press",
+            "title": "Nursing homes face unique challenge with coronavirus",
+            "description": "The new coronavirus is posing a special challenge for nursing homes and other facilities that provide care for the elderly",
+            "url": "https://abcnews.go.com/Health/wireStory/nursing-homes-face-unique-challenge-coronavirus-69467799",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_8528578d133b43d58f8baa6c9f60b456_16x9_992.jpg",
+            "publishedAt": "2020-03-08T13:54:58Z",
+            "content": "MIAMI -- \r\nFrom Miami to Seattle, nursing homes and other facilities for the elderly are stockpiling masks and thermometers, preparing for staff shortages and screening visitors to protect a particularly vulnerable population from the coronavirus.\r\nIn China, \u2026 [+5424 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JON GAMBRELL Associated Press",
+            "title": "Mideast stock markets sharply drop on oil, coronavirus fears",
+            "description": "Stocks markets in the Mideast are suffering sharp drops in early trading over fears about the new coronavirus and falling demand for crude oil",
+            "url": "https://abcnews.go.com/International/wireStory/mideast-stock-markets-sharply-drop-oil-coronavirus-fears-69465540",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_2caca6688dfb4b07980a05fb715fb60c_16x9_992.jpg",
+            "publishedAt": "2020-03-08T07:15:18Z",
+            "content": "DUBAI, United Arab Emirates -- \r\nStocks markets in the Mideast suffered sharp drops in early trading Sunday over fears about the new coronavirus and falling demand for crude oil amid a failure by OPEC and allied nations to cut production. \r\nThe Dubai Financia\u2026 [+1717 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "OLGA R. RODRIGUEZ Associated Press",
+            "title": "California public venues, schools close to stop virus spread",
+            "description": "A cruise ship hit by the new coronavirus and headed to the port of Oakland, California, will remain in international waters for at least another day as officials work on plans to transport passengers to facilities around the county",
+            "url": "https://abcnews.go.com/Health/wireStory/california-public-venues-schools-close-stop-virus-spread-69470917",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_a1420e5416834538833093b5fb1146f4_16x9_992.jpg",
+            "publishedAt": "2020-03-08T19:25:33Z",
+            "content": "SAN FRANCISCO -- \r\nA cruise ship hit by the new coronavirus and headed to the port of Oakland, California, will remain in international waters for at least another day as officials worked on plans to transport passengers to federal facilities around the count\u2026 [+5873 chars]"
+        }
+    ]
+}

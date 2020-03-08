@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 13,
+    "totalResults": 14,
     "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Brutal: US stocks hammered again despite Fed's emergency rate cut - Aljazeera.com",
+            "description": "Brutal: US stocks hammered again despite Fed's emergency rate cut Aljazeera.com Federal Reserve announces first emergency rate cut since the financial crisis CNN The Fed's Rate Cut Is Just the Excuse We Need Investing.com Can the Fed Save the Economy From Cor\u2026",
+            "url": "https://www.aljazeera.com/ajimpact/brutal-stocks-hammered-fed-emergency-rate-cut-200303221516971.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/0846d1801db14b188ab752756f257b2d_18.jpg",
+            "publishedAt": "2020-03-03T22:51:00Z",
+            "content": "The Federal Reserve donned its metaphorical cape on Tuesday and swooped down on nervous markets with an emergency interest rate cut the likes of which have not been seen since the height of the global financial crisis in 2008.\r\nBut not even that grand gesture\u2026 [+4180 chars]"
+        },
         {
             "source": {
                 "id": "al-jazeera-english",
@@ -14,19 +27,6 @@
             "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/2/25/809c78c0f0dc48b180bcbdbb85eeef2d_18.jpg",
             "publishedAt": "2020-03-03T21:51:32Z",
             "content": "Italy's health authorities are considering setting up a new quarantine red zone to try to contain the coronavirus outbreak in Europe's worst-hit country, after the death toll and the number of cases jumped.\r\nTwenty-seven people died of the highly contagious i\u2026 [+3726 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Pope Francis 'tests negative for coronavirus' after having cold",
-            "description": "Italy has become a European hub for the coronavirus outbreak, with more than 2,000 people infected and 52 deaths.",
-            "url": "https://www.aljazeera.com/news/2020/03/pope-francis-tests-negative-coronavirus-cold-200303093959433.html",
-            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/e4407a3e386149f6aa7fd1fb5dc68440_18.jpg",
-            "publishedAt": "2020-03-03T10:56:34Z",
-            "content": "Pope Francis, who is suffering from a cold, has tested negative for the coronavirus, an Italian newspaper reported on Tuesday, as Italy battles Europe's worst outbreak.\r\nVatican spokesperson Matteo Bruni did not respond to a request for comment on the report \u2026 [+1601 chars]"
         },
         {
             "source": {
@@ -47,38 +47,25 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
+            "title": "Pope Francis 'tests negative for coronavirus' after having cold",
+            "description": "Italy has become a European hub for the coronavirus outbreak, with more than 2,000 people infected and 52 deaths.",
+            "url": "https://www.aljazeera.com/news/2020/03/pope-francis-tests-negative-coronavirus-cold-200303093959433.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/e4407a3e386149f6aa7fd1fb5dc68440_18.jpg",
+            "publishedAt": "2020-03-03T10:56:34Z",
+            "content": "Pope Francis, who is suffering from a cold, has tested negative for the coronavirus, an Italian newspaper reported on Tuesday, as Italy battles Europe's worst outbreak.\r\nVatican spokesperson Matteo Bruni did not respond to a request for comment on the report \u2026 [+1601 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
             "title": "End of the handshake? Coronavirus changes greeting habits",
             "description": "People all over are changing habits to reduce the risk of contracting the coronavirus and prevent it from spreading.",
             "url": "https://www.aljazeera.com/news/2020/03/handshake-coronavirus-greeting-habits-200303053743520.html",
             "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/572abc164c2c4b748009258a22db5998_18.jpg",
             "publishedAt": "2020-03-03T07:32:17Z",
             "content": "As the coronavirus continues to spread across the world, some have abandoned the most common form of\u00a0greeting: the handshake.\r\nPeople are also abstaining from giving pecks on the cheek, hugs and high-fives as they try to minimise the the risk of contracting i\u2026 [+3977 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Kate Mayberry",
-            "title": "Six coronavirus deaths in US, China cases slow: Live updates",
-            "description": "The US deaths come as more countries report cases of the infection, while the outbreak in China appears to be slowing.",
-            "url": "https://www.aljazeera.com/news/2020/03/coronavirus-deaths-china-cases-slow-live-updates-200303003539680.html",
-            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/f2191a2165904df4864b8518ed704997_18.jpg",
-            "publishedAt": "2020-03-03T01:21:14Z",
-            "content": "Hello and welcome to Al Jazeera's live updates on the coronavirus as it continues to spread from its epicentre in central China to countries around the world.\r\nI'm\u00a0Kate Mayberry\u00a0in Kuala Lumpur, taking over from my colleague Hamza Mohamed.\r\nA recap of Monday'\u2026 [+1935 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Ylenia Gostoli",
-            "title": "How European populists are using coronavirus as a political tool",
-            "description": "Refugees, aid workers placed under quarantine in Italy as far-right leaders across Europe call for tighter borders.",
-            "url": "https://www.aljazeera.com/news/2020/03/european-populists-coronavirus-political-tool-200303201349031.html",
-            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/3cdc9d07660440339e46afc9253a6dbb_18.jpg",
-            "publishedAt": "2020-03-03T21:10:37Z",
-            "content": "As more European countries announce coronavirus cases, Europe's populist politicians are attempting to use the health crisis to serve their own political goals.\r\nThe COVID-19 virus affects about 86,000 people, 90 percent\u00a0of whom are in China's Hubei province,\u2026 [+3331 chars]"
         },
         {
             "source": {
@@ -98,13 +85,26 @@
                 "id": "al-jazeera-english",
                 "name": "Al Jazeera English"
             },
-            "author": "Al Jazeera",
-            "title": "In Pictures: The impact of Coronavirus on Italy's tourism",
-            "description": "Up to 90 percent of hotel and travel agency bookings for March cancelled in Rome and up to 80 percent in Sicily.",
-            "url": "https://www.aljazeera.com/indepth/inpictures/pictures-impact-coronavirus-italy-tourism-200303070614911.html",
-            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/91880d039220490087900a905d2ad057_18.jpg",
-            "publishedAt": "2020-03-03T09:46:43Z",
-            "content": "As numerous coronavirus cases in other European countries are traced back to Italy, travel warnings for the 11 Italian towns that have been on lockdown have been issued.\r\nThe impact is also hurting areas of Italy barely touched by the virus.\r\nItalys tourism f\u2026 [+785 chars]"
+            "author": "Ylenia Gostoli",
+            "title": "How European populists are using coronavirus as a political tool",
+            "description": "Refugees, aid workers placed under quarantine in Italy as far-right leaders across Europe call for tighter borders.",
+            "url": "https://www.aljazeera.com/news/2020/03/european-populists-coronavirus-political-tool-200303201349031.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/3cdc9d07660440339e46afc9253a6dbb_18.jpg",
+            "publishedAt": "2020-03-03T21:10:37Z",
+            "content": "As more European countries announce coronavirus cases, Europe's populist politicians are attempting to use the health crisis to serve their own political goals.\r\nThe COVID-19 virus affects about 86,000 people, 90 percent\u00a0of whom are in China's Hubei province,\u2026 [+3331 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kate Mayberry",
+            "title": "Six coronavirus deaths in US, China cases slow: Live updates",
+            "description": "The US deaths come as more countries report cases of the infection, while the outbreak in China appears to be slowing.",
+            "url": "https://www.aljazeera.com/news/2020/03/coronavirus-deaths-china-cases-slow-live-updates-200303003539680.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/f2191a2165904df4864b8518ed704997_18.jpg",
+            "publishedAt": "2020-03-03T01:21:14Z",
+            "content": "Hello and welcome to Al Jazeera's live updates on the coronavirus as it continues to spread from its epicentre in central China to countries around the world.\r\nI'm\u00a0Kate Mayberry\u00a0in Kuala Lumpur, taking over from my colleague Hamza Mohamed.\r\nA recap of Monday'\u2026 [+1935 chars]"
         },
         {
             "source": {
@@ -125,12 +125,12 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "China to repatriate citizens from Iran over coronavirus",
-            "description": "Charter plane sent to bring Chinese citizens from Iranian city of Qom, as outbreak eases in China.",
-            "url": "https://www.aljazeera.com/news/2020/03/china-repatriate-citizens-iran-coronavirus-200303133447994.html",
-            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/3/3/image-20200303133448221.jpg",
-            "publishedAt": "2020-03-03T13:34:47Z",
-            "content": "China is sending a charter plane to repatriate citizens from the Iranian city of Qom, the first of several flights planned by Beijing.\r\nIt comes as the outbreak is easing in China.\r\nBut cases are mounting abroad, including in neighbouring South Korea and Japa\u2026 [+48 chars]"
+            "title": "In Pictures: The impact of Coronavirus on Italy's tourism",
+            "description": "Up to 90 percent of hotel and travel agency bookings for March cancelled in Rome and up to 80 percent in Sicily.",
+            "url": "https://www.aljazeera.com/indepth/inpictures/pictures-impact-coronavirus-italy-tourism-200303070614911.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/91880d039220490087900a905d2ad057_18.jpg",
+            "publishedAt": "2020-03-03T09:46:43Z",
+            "content": "As numerous coronavirus cases in other European countries are traced back to Italy, travel warnings for the 11 Italian towns that have been on lockdown have been issued.\r\nThe impact is also hurting areas of Italy barely touched by the virus.\r\nItalys tourism f\u2026 [+785 chars]"
         },
         {
             "source": {
@@ -144,6 +144,19 @@
             "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/3/2c99b4ccf3ca43858672d86fba175ea5_18.jpg",
             "publishedAt": "2020-03-03T20:45:08Z",
             "content": "Washington, DC -\u00a0More\u00a0coronavirus\u00a0cases are expected in the United States amid efforts to ramp up testing for the disease, officials say, after weeks of delays and faulty test kits led the virus to circulate undetected.\r\nExperts said as more people are tested\u2026 [+6449 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China to repatriate citizens from Iran over coronavirus",
+            "description": "Charter plane sent to bring Chinese citizens from Iranian city of Qom, as outbreak eases in China.",
+            "url": "https://www.aljazeera.com/news/2020/03/china-repatriate-citizens-iran-coronavirus-200303133447994.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/3/3/image-20200303133448221.jpg",
+            "publishedAt": "2020-03-03T13:34:47Z",
+            "content": "China is sending a charter plane to repatriate citizens from the Iranian city of Qom, the first of several flights planned by Beijing.\r\nIt comes as the outbreak is easing in China.\r\nBut cases are mounting abroad, including in neighbouring South Korea and Japa\u2026 [+48 chars]"
         },
         {
             "source": {

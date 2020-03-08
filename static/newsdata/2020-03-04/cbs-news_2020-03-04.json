@@ -1,0 +1,344 @@
+{
+    "status": "ok",
+    "totalResults": 26,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "California reports first coronavirus death",
+            "description": "Los Angeles County has declared a public health emergency as the first coronavirus death was reported in California. There are now at least 153 confirmed cases of coronavirus nationwide. Carter Evans reports.",
+            "url": "https://www.cbsnews.com/video/california-reports-first-coronavirus-death/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/2bd49c92-d569-403c-816f-e04e6f21c361/thumbnail/1200x630/b807e4d47d11e6911925c69deec91cd6/0304-en-californiafirstcorona-evans-2041425-640x360.jpg",
+            "publishedAt": "2020-03-04T23:46:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus death toll rises in Washington state",
+            "description": "Washington state is reporting more deaths from the coronavirus. The death toll has now risen to nine. Laura Podesta joined CBSN AM with more.",
+            "url": "https://www.cbsnews.com/video/coronavirus-death-toll-rises-in-washington-state/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/03bf4969-735b-43c0-9773-d24574cbc280/thumbnail/1200x630/c409660879a1189e8b155fb5e34d352e/0304-cbsn-deathtollcvirus-2041121-640x360.jpg",
+            "publishedAt": "2020-03-04T14:57:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How airports are combating the coronavirus",
+            "description": "President Trump is not considering any domestic travel restrictions but is limiting international travel. U.S. airports are now taking serious actions to fight the coronavirus. Kris Van cleave reports.",
+            "url": "https://www.cbsnews.com/video/how-airports-are-combating-the-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/a6d4c30f-8c80-4feb-88a6-a57185792998/thumbnail/1200x630/ad5a0c5a08a91ca19fc4afb90ab99781/0303-en-coronavirustravel-kvc-2040695-640x360.jpg",
+            "publishedAt": "2020-03-04T01:13:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Vietnam's catchy coronavirus PSA goes viral",
+            "description": "Vietnam\u2019s Ministry of Health has released a musical PSA on coronavirus prevention methods that captured the world\u2019s attention with its catchy tune. The song, sung by pop stars Erik and Min to the tune of their song, \u201cGhen,\u201d quickly went viral on TikTok and in\u2026",
+            "url": "https://www.cbsnews.com/video/vietnams-catchy-coronavirus-psa-goes-viral/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/04/30c598e8-0c3a-42c1-9fd4-06260f3bbcf3/thumbnail/1200x630/7c534185903f5d052823672ec8542523/0304-ctm-vietnamcovid-psa-2041155-640x360.jpg",
+            "publishedAt": "2020-03-04T17:03:40Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Alan He",
+            "title": "Congress reaches $8.3 billion deal responding to coronavirus",
+            "description": "The deal is far higher than the $2.5 billion originally requested by President Trump to respond to the coronavirus outbreak.",
+            "url": "https://www.cbsnews.com/news/congress-reaches-a-deal-to-provide-8-3-billion-in-response-to-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/a019400e-4207-4bb8-96f0-66e85ae34232/thumbnail/1200x630/301949b5010aa4665f438996399efb63/ap-20044763463588.jpg",
+            "publishedAt": "2020-03-04T18:07:50Z",
+            "content": "House and Senate negotiators have reached a deal on an $8.3 billion supplemental package to respond to the coronavirus outbreak. The amount is far higher than the $2.5 billion originally requested by President Trump, and in line with the $8 billion proposed b\u2026 [+2434 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus responsible for nine U.S. deaths",
+            "description": "The national coronavirus death toll has risen to nine, all in Washington state. Officials in Seattle\u2019s King County are in the process of setting up modular units aimed at housing coronavirus patients in isolation. Jonathan Vigliotti reports on how Washington \u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-responsible-for-nine-us-deaths/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/a11111bf-af14-4008-8c2c-9742904d3f4c/thumbnail/1200x630/3f01247574b04eadad11b19daf071e90/0304-ctm-coronavirusspread-vigliotti-2040989-640x360.jpg",
+            "publishedAt": "2020-03-04T13:05:03Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin O'Kane",
+            "title": "Catchy PSA about coronavirus sparks TikTok challenge",
+            "description": "The song teaches you to \"rub rub rub\" your hands evenly when washing \u2013 and now there are dance moves to go along with the lyrics.",
+            "url": "https://www.cbsnews.com/news/coronavirus-prevention-vietnam-song-ghen-co-vy-tik-tok-challenge-about-washing-hands-quang-dang-john-oliver/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/c4c98077-265a-4ac7-9abd-efe3c5f18120/thumbnail/1200x630/b8fc23acb89069458d27aea3e2fcec1d/quangdang.jpg",
+            "publishedAt": "2020-03-04T17:53:53Z",
+            "content": "A popular Vietnamese music artist just released a catchy song with an important message that the nation's major health organization does not want you to forget. Lyricist Khac Hun wrote the song with Vietnam's National Institute of Occupational and Environment\u2026 [+4018 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "James Bond film postponed amid coronavirus outbreak",
+            "description": "\"No Time to Die\" is the first major film to postpone its release globally due to coronavirus.",
+            "url": "https://www.cbsnews.com/news/new-james-bond-film-no-time-to-die-release-postponed-november-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/12/05/754a26d2-6924-499e-9951-b7eeee2a39c1/thumbnail/1200x630/c0483dbce6019f933a172ef7139640e3/35-franchise-james-bond.jpg",
+            "publishedAt": "2020-03-04T19:39:49Z",
+            "content": "The latest James Bond movie, \"No Time to Die,\" has officially been postponed. The release date for the highly-anticipated film has been moved to November due to the coronavirus outbreak, producers confirmed Wednesday.\u00a0\r\n\"MGM, Universal and Bond producers, Mic\u2026 [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "The CDC says to skip work if you're ill. Problem is, many can't",
+            "description": "U.S. is one of the few wealthy countries that doesn't guarantee paid sick time \u2014 and that raises coronavirus risks.",
+            "url": "https://www.cbsnews.com/news/coronavirus-americas-lack-of-paid-sick-time-may-raise-coronavirus-risk/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/03/8b521d88-5a5a-4880-b32c-246a7f446f19/thumbnail/1200x630/4529245916d162ad78698f988ad7a757/rts34l0u.jpg",
+            "publishedAt": "2020-03-04T17:55:03Z",
+            "content": "The U.S. Centers for Disease Control and Prevention is\u00a0urging\u00a0employees to stay home if they have respiratory illnesses, part of its recommendations for controlling the spread of the coronavirus. But that common sense guidance is running smack into reality fo\u2026 [+5385 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus test kit delay pushes hospitals to make their own",
+            "description": "At a hospital in between New York City's international airports, healthcare workers are preparing for a potential surge of coronavirus patients.",
+            "url": "https://www.cbsnews.com/news/coronavirus-test-kit-cdc-delay-hospitals-new-york-city/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/c831ae21-19f1-4d4e-ad56-1b7b182d402e/thumbnail/1200x630/d3bbb0c7bdf0cf4c1aa98f84ddc286cc/coronavirus-testing.jpg",
+            "publishedAt": "2020-03-04T14:02:05Z",
+            "content": "There are only 15,000 coronavirus test kits available in the United States, according to the Food and Drug Administration, which has authorized commercial labs to develop more tests. By the end of the week, those labs are expected to have one million tests av\u2026 [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "United Airlines to cut flights due to coronavirus outbreak",
+            "description": "As travel wanes, carrier will suspend hiring and ask workers to volunteer for unpaid leave.",
+            "url": "https://www.cbsnews.com/news/coronavirus-united-airlines-flights-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/01/21/fc985bb4-f098-4786-8869-8c69e0a65d66/thumbnail/1200x630g2/3c694e10f3768fc46ae4708422cde7ff/gettyimages-948280364.jpg",
+            "publishedAt": "2020-03-04T22:59:53Z",
+            "content": "United Airlines will reduce flights, freeze hiring and ask employees to volunteer for unpaid leave as the airline struggles with weak demand for travel because of the coronavirus outbreak.United said Wednesday that, starting in April, it will reduce passenger\u2026 [+3696 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Christopher Brito",
+            "title": "Coronavirus patient's dog may be 1st case of its kind",
+            "description": "Officials say a dog in Hong Kong tested positive for low levels of the virus.",
+            "url": "https://www.cbsnews.com/news/coronavirus-patients-dog-is-likely-first-case-of-human-to-dog-transmission/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/28/e74e54a7-e74a-4740-9f54-60d86ddeaab9/thumbnail/1200x630/38d9572dee0f179abc7ab7f7a2aaa1f7/gettyimages-1199162438.jpg",
+            "publishedAt": "2020-03-04T19:31:06Z",
+            "content": "A coronavirus patient's pet dog that tested positive for the virus last week is now \"likely\" the first case of human-to-animal transmission, health authorities said Wednesday. The dog was found to have a low-level infection of the coronavirus after being test\u2026 [+1754 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus triggered the Fed's largest cut in interest rates since 2008",
+            "description": "The coronavirus outbreak is now being felt in the global economy. Heather Long, economics correspondent from the Washington Post, explains the potential impact of the Federal Reserve's cut to interest rates.",
+            "url": "https://www.cbsnews.com/video/coronavirus-triggered-the-feds-largest-cut-in-interest-rates-since-2008/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/c76ce8ba-45dc-46bf-ada7-97ba55c8a82f/thumbnail/1200x630/f480ec6373178c3aa76e89dd52e223b3/0304-cbsn-coronavirusdropintrestrates-srv-2041288-640x360.jpg",
+            "publishedAt": "2020-03-04T20:46:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Christopher Brito",
+            "title": "Facebook gives WHO free ad space to fight coronavirus misinformation",
+            "description": "Facebook is focused on \"stopping hoaxes and harmful misinformation.\"",
+            "url": "https://www.cbsnews.com/news/facebook-lets-who-advertise-for-free-to-fight-off-coronavirus-misinformation/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/c8eaf7a4-ec5d-4323-9a4d-4c1d27dfb69f/thumbnail/1200x630/e7c9139fa2463e66e4a116864f0168e9/gettyimages-586113532.jpg",
+            "publishedAt": "2020-03-04T15:32:41Z",
+            "content": "Facebook said would let the World Health Organization (WHO) advertise for free on the social media platform to help fight the spread of misinformation about the coronavirus. Facebook CEO Mark Zuckerberg made the announcement in a blog post\u00a0Tuesday night as th\u2026 [+2181 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Why doctors don't recommend face masks amid coronavirus fears",
+            "description": "A standard surgical mask is effective at resisting large airborne droplets or other fluids, but is not designed to filter viruses.",
+            "url": "https://www.cbsnews.com/news/coronavirus-face-masks-sales-doctors-health-care-workers/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/04/4168feec-d678-4885-b312-f8b2061db998/thumbnail/1200x630/e16e8dfaf3041b1d23ca30a1fda1a79d/masks-1.jpg",
+            "publishedAt": "2020-03-04T16:44:25Z",
+            "content": "The coronavirus outbreak has catapulted sales of surgical-style masks, hand sanitizers and other preventive items. But the World Health Organization says people snapping up medical supplies could be putting health care workers at risk.\r\nInside a production fa\u2026 [+2418 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Inside the effort to develop coronavirus testing kits",
+            "description": "New CDC guidelines say that any American who suspects they have coronavirus can be tested for the potentially deadly disease, with approval from a doctor. However, the delay in testing has some worried that the U.S.\u2019s ability to detect and prevent the virus h\u2026",
+            "url": "https://www.cbsnews.com/video/inside-the-effort-to-develop-coronavirus-testing-kits/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/c7a952b4-2f9d-46fc-9a94-cc02b1818497/thumbnail/1200x630/2bcff5a48d222899fcb16b57a3159998/0304-ctm-coronavirustesting-narula-2041087-640x360.jpg",
+            "publishedAt": "2020-03-04T14:46:31Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "CDC expected to produce more coronavirus test kits",
+            "description": "There\u2019s a growing concern that thousands of Americans may have been exposed to the coronavirus but have not been tested due to a shortage of test kits. Dr. Jon LaPook reports.",
+            "url": "https://www.cbsnews.com/video/cdc-expected-to-produce-more-coronavirus-test-kits/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/850574ae-f7da-404e-8581-b8befedd214d/thumbnail/1200x630/c097a906318b2de42cdff055fffdd38a/0303-en-testingkits-lapook-2040688-640x360.jpg",
+            "publishedAt": "2020-03-04T00:02:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Stephen Gandel",
+            "title": "Fed made biggest rate cut in a decade. That may not be enough for stocks",
+            "description": "Experts question if lower interest rates are the right medicine for the disease that's sickening financial markets.",
+            "url": "https://www.cbsnews.com/news/coronavirus-stock-market-down-federal-reserve-rate-cut/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/a80f6919-e87e-4b16-96d6-e0d8d56b542b/thumbnail/1200x630/fe8981b66e7f3b91ec2104a9fe1088da/powell-gettyimages-1204916984.jpg",
+            "publishedAt": "2020-03-04T17:00:09Z",
+            "content": "When the Federal Reserve cuts interest rates, the stock market usually goes up. But the novel coronavirus\u00a0appears to have contaminated the rules on Wall Street along with much of the planet.\u00a0\r\nThe Fed on Tuesday\u00a0lowered its short-term interest rates by 0.5 pe\u2026 [+7438 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "WorldView: U.S. drone strikes against Taliban, Putin banning gay marriage",
+            "description": "The U.S. launched \"defensive\" strikes against the Taliban in Afghanistan, just days after signing a peace accord; the International Olympic Committee insists the Tokyo Games are on schedule despite coronavirus concerns; and Russian President Vladimir Putin is\u2026",
+            "url": "https://www.cbsnews.com/video/worldview-us-drone-strikes-against-taliban-tokyo-olympics-on-schedule-putin-proposes-banning-gay-marriage/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/5a1d62ab-1bb3-4a18-b1c9-f5a89c89008f/thumbnail/1200x630/6c3143c65078f562c2232087229b43d3/cbsn-fusion-worldview-us-drone-strikes-against-taliban-tokyo-olympics-on-schedule-putin-proposes-banning-gay.jpg",
+            "publishedAt": "2020-03-04T15:50:31Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "WHO says public demand for face masks puts health workers at risk",
+            "description": "People purchasing medical supplies in fear of the coronavirus could be putting health care workers at risk, according to a new warning by the World Health Organization. The sudden surge in surgical-style mask, hand sanitizer and other preventative purchases i\u2026",
+            "url": "https://www.cbsnews.com/video/who-says-public-demand-for-face-masks-puts-health-workers-at-risk/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/11188091-97e9-457c-bf87-0d458472193c/thumbnail/1200x630/152d8e2eb720375309286d5db3c1f0b4/0304-ctm-mrsuppliescvirus-lenghi-2041059-640x360.jpg",
+            "publishedAt": "2020-03-04T13:47:01Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "With mortgage rates dipping, many are refinancing their homes",
+            "description": "Many homeowners are capitalizing on the lowest borrowing costs in years to save money on their mortgages.",
+            "url": "https://www.cbsnews.com/news/interest-rate-mortgage-loan-refinancing-us-homeowners/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/11/ce6586d5-d8de-4cc8-bff0-946bb8f48611/thumbnail/1200x630/c864284245c0c982dee0290d93b7ccf9/gettyimages-1148695495.jpg",
+            "publishedAt": "2020-03-04T20:04:58Z",
+            "content": "Concerns that the coronavirus could slam the U.S. economy are pushing down mortgage rates to their lowest level since 2012. That's spurring a growing number of homeowners to refinance their loans as well as enticing house-hunters to apply for mortgages.\r\nA Mo\u2026 [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Stock markets rally on Biden's Super Tuesday showing",
+            "description": "Dow jumps more than 500 points in early trading, with investors cheered by the primary results.",
+            "url": "https://www.cbsnews.com/news/super-tuesday-stock-market-up-joe-biden/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/a0b00246-0985-4b8d-a6da-89fdee2f6eba/thumbnail/1200x630/be49fea1819f461042a4769b50084bd7/stocks-gettyimages-1204950196.jpg",
+            "publishedAt": "2020-03-04T15:12:44Z",
+            "content": "U.S. stocks surged in early trading on Wednesday after a strong Super Tuesday performance by former Vice President Joe Biden, who is seen by many investors as a more business-friendly candidate than Senator Bernie Sanders. \r\nThe Dow climbed more than 500 poin\u2026 [+716 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "House approves $8 million emergency bill to fight coronavirus",
+            "description": "The House has approved an emergency bill to spend more than $8 billion to fight the coronavirus. The president met with United Airlines executives to cut the number of flights within the U.S. by 10%. Paula Reid reports.",
+            "url": "https://www.cbsnews.com/video/house-approves-8-million-emergency-bill-to-fight-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/6404d088-00b7-4ab1-8475-29e3efb92bcd/thumbnail/1200x630/315df3b535add3a58a17a2fd9135de94/0304-en-coronaemergencybill-reid-2041442-640x360.jpg",
+            "publishedAt": "2020-03-04T23:49:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "New York coronavirus cases trace back to Manhattan lawyer",
+            "description": "New York officials say about 1,000 people are expected to go into either mandatory or self quarantine in Westchester County. Meg Oliver reports.",
+            "url": "https://www.cbsnews.com/video/new-york-coronavirus-cases-trace-back-to-manhattan-lawyer/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/00484d84-e40f-4b5e-885c-6a959245dcdc/thumbnail/1200x630/4720ccaaef72f6df97c769dd027f4802/0304-en-coronawestchesrter-oliver-2041434-640x360.jpg",
+            "publishedAt": "2020-03-04T23:48:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Race to increase testing as coronavirus spreads in U.S. and elsewhere",
+            "description": "China has reined in the virus, but the dramatic spread in at least 4 other nations, including the U.S., highlights the limited understanding of the disease.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-04/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/72f9a77c-a91f-4776-b0e5-2721bd454d90/thumbnail/1200x630/95e4decd2c7947aa81242c8dde7d078b/coronavirus-test-12040667781.jpg",
+            "publishedAt": "2020-03-04T10:56:08Z",
+            "content": "The coronavirus that emerged late last year and spread from central China was in almost 80 countries Wednesday morning, with outbreaks growing fast in South Korea, Italy, Iran and the United States. At least nine people have died of the COVID-19 disease in th\u2026 [+1356 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Israel's 3rd re-do election leaves political limbo again",
+            "description": "Prime Minister Benjamin Netanyahu's Likud party appeared to be falling short again of the majority needed to form a government.",
+            "url": "https://www.cbsnews.com/news/israels-3rd-election-in-a-year-leaves-political-limbo-as-netanyahu-fails-again-to-win-majority/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/f724412a-3d8a-4a75-b1c5-7f4cc705763f/thumbnail/1200x630/0e14959040fd5a64a2d4fd9821c8fdf1/net.jpg",
+            "publishedAt": "2020-03-04T15:33:48Z",
+            "content": "Jerusalem\u00a0\u2014 Israel looked set to slide back into political deadlock on Wednesday as the final votes were being tallied from the third election in less than a year. CBS News correspondent Seth Doane reports Prime Minister Benjamin Netanyahu's Likud party was h\u2026 [+3372 chars]"
+        }
+    ]
+}

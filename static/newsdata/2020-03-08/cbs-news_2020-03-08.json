@@ -1,0 +1,383 @@
+{
+    "status": "ok",
+    "totalResults": 29,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus: Steps to stay safe",
+            "description": "Dr. Jon LaPook offers the latest developments in the virus' spread in the United States, and what precautions you should take to avoid infecting yourself and others.",
+            "url": "https://www.cbsnews.com/video/coronavirus-steps-to-stay-safe/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/ecef9723-02d8-4c69-84bb-44fb94019ebc/thumbnail/1200x630/0cc06dceb6332f43abcc07cf78153bae/0308-sunmo-coronavirus-2043537-640x360.jpg",
+            "publishedAt": "2020-03-08T13:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jonathan LaPook",
+            "title": "Coronavirus: Steps to stay safe",
+            "description": "Dr. Jon LaPook with the latest on the virus' spread in the U.S., and what precautions you should take to avoid infecting yourself and others",
+            "url": "https://www.cbsnews.com/news/coronavirus-steps-to-stay-safe/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/9bc4cdeb-fbb8-48f0-8d45-3e936ba2cbe6/thumbnail/1200x630/6dbf21d20afa3bdce19a3f0f4666cb3f/sm-c-forair-lapook-corona-update-030820-copy-01-frame-654.jpg",
+            "publishedAt": "2020-03-08T13:11:12Z",
+            "content": "Coronavirus is spreading quickly. More than 100,000 cases have now been reported in at least 90 countries, including hundreds in the United States. And we are now seeing what's called \"community spread\" in the U.S. That means the original source of the infect\u2026 [+3026 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/07: CBS Evening News",
+            "description": "U.S. coronavirus fatalities rise to 17;  Meghan Markle appears at International Women\u2019s Day event in Britain",
+            "url": "https://www.cbsnews.com/video/030720-cbs-evening-news/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/e960f1fb-cf2e-463a-9866-3f3c027f6dbc/thumbnail/1200x630/d91a32ddc5b92b6875fd2c04cb8f5625/0307-en-full-2043481-640x360.jpg",
+            "publishedAt": "2020-03-08T04:00:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Melissa Quinn",
+            "title": "Washington governor weighing \"mandatory measures\" to fight coronavirus",
+            "description": "Washington has the highest number of coronavirus cases confirmed in the United States.",
+            "url": "https://www.cbsnews.com/news/washington-coronavirus-governor-jay-inslee-exploring-whether-mandatory-measures-needed/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/5d686ca9-a9d9-4b14-b2d0-8251dfd887e4/thumbnail/1200x630/18ce889f85280de597b4f52e5e730f9c/inslee2.png",
+            "publishedAt": "2020-03-08T15:31:13Z",
+            "content": "Washington \u2014 Washington Governor Jay Inslee said his state, which has the highest number of coronavirus cases in the U.S., is examining whether \"mandatory measures\" are required to combat the spread of the deadly virus.\r\n\"We are contemplating some next steps,\u2026 [+1926 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. coronavirus fatalities rise to 17",
+            "description": "At least 17 coronavirus-related deaths have been reported in the U.S. The number of people infected rose to nearly 400 across 29 states. Danya Bacchus reports.",
+            "url": "https://www.cbsnews.com/video/u-s-coronavirus-fatalities-rise-to-17/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/2c34a6ad-fcdf-4cad-8e32-487983eb1c14/thumbnail/1200x630/4b706f4f0623a44ba3416d8deb3c3af8/0307-en-viruslatest-bacchus-2043393-640x360.jpg",
+            "publishedAt": "2020-03-08T00:11:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. economy reels from coronavirus outbreak",
+            "description": "The spreading coronavirus outbreak is costing investors trillions. On Wall Street, it was another wild week. Michael George reports.",
+            "url": "https://www.cbsnews.com/video/u-s-economy-reels-from-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/0e187567-f108-4144-a877-262830dfb3b7/thumbnail/1200x630/5872f40a4de36f8c4497fd53b30a1b62/0307-en-economy-george-2043430-640x360.jpg",
+            "publishedAt": "2020-03-08T00:20:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Face The Nation: Surgeon General Jerome Adams, Dr. Scott Gottlieb, Amy Walter, Dan Balz, Joel Payne, Leslie Sanchez",
+            "description": "Missed the second half of the show? The latest on the coronavirus outbreak and the 2020 presidential race.",
+            "url": "https://www.cbsnews.com/video/face-the-nation-surgeon-general-jerome-adams-dr-scott-gottlieb-amy-walter-dan-balz-joel-payne-leslie-sanchez/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/08/13c88df7-0da9-4d57-a210-4fdf0d959946/thumbnail/1200x630/572c1995f8555301f43c64e506d60da8/0308-ftn-page-2-full-2043723-640x360.jpg",
+            "publishedAt": "2020-03-08T16:48:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/8: Chris Murphy, Jerome Adams, Dr. Scott Gottlieb",
+            "description": "Today on \"Face the Nation,\" is America prepared for a coast-to-coast coronavirus outbreak? The latest on the Trump administration's response to the growing epidemic.",
+            "url": "https://www.cbsnews.com/video/38-chris-murphy-jerome-adams-dr-scott-gottlieb/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/725c29fc-1556-4d87-8412-942b03eaa1dc/thumbnail/1200x630/d11e9a73b6ef72b27f276ba555593cb8/0308-ftn-open-2043756-640x360.jpg",
+            "publishedAt": "2020-03-08T18:16:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Pence meets with cruise line executives in Florida",
+            "description": "Vice President Mike Pence met with cruise line executives in Florida today to discuss new screening procedures for the coronavirus. Weijia Jiang reports.",
+            "url": "https://www.cbsnews.com/video/pence-meets-with-cruise-line-executives-in-florida/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/98670cc1-d768-4a02-b349-cdd8af4cc34d/thumbnail/1200x630/881d4b9ffeca54fa5949de69bbccece4/0307-en-trump-jiang-2043420-640x360.jpg",
+            "publishedAt": "2020-03-08T00:17:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Top health official on the danger of downplaying risk of infectious outbreak",
+            "description": "Dr. Anthony Fauci of the National Institutes of Health talks about the dangers of the coronavirus outbreak on Sunday's \"60 Minutes.\"",
+            "url": "https://www.cbsnews.com/video/top-health-official-on-the-danger-of-downplaying-risk-of-infectious-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/08/5426359a-74c8-481c-aa40-2ecf4e0098d1/thumbnail/1200x630/efab63ddb676c1d06164537f5afb6025/0308-ftn-60minssot-2043677-640x360.jpg",
+            "publishedAt": "2020-03-08T15:24:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus fears spread overseas as Italy faces shutdown",
+            "description": "CBS News correspondent Charlie D'Agata reports from Venice as Italians grapple with a government-enforced lockdown to stop the spread of coronavirus.",
+            "url": "https://www.cbsnews.com/video/coronavirus-fears-spread-overseas-as-italy-faces-shutdown/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/08/8698f616-2635-45c2-98ee-fbdf542961e1/thumbnail/1200x630/65cd09dc4f56c944787d8c99d468ef23/0308-ftn-charliedagata-2043668-640x360.jpg",
+            "publishedAt": "2020-03-08T15:18:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Open: This is \"Face the Nation,\" March 8",
+            "description": "Today on \"Face the Nation,\" is America prepared for a coast-to-coast coronavirus outbreak? The latest on the Trump administration's response to the growing epidemic",
+            "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-march-8-1/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/08/b25d2a28-90aa-4b8f-a05b-24f0d8cf72dd/thumbnail/1200x630/a6d246d9b214387795013f9d575f8935/0308-ftn-open-2043651-640x360.jpg",
+            "publishedAt": "2020-03-08T14:59:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Italy goes to new extremes to fight coronavirus outbreak",
+            "description": "Italy, which has the highest coronavirus death toll outside of Asia, has announced stringent new measures to fight the outbreak, quarantining about a quarter of its people, and even banning weddings and funerals. Charlie D'Agata has the latest.",
+            "url": "https://www.cbsnews.com/video/italy-goes-to-new-extremes-to-fight-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/3967a077-de6f-4dbc-a662-5d33c9903744/thumbnail/1200x630/15b4294628285b7fe688fb9daace7e43/0308-sunmo-coronaviruscharlienewsblock-2043531-640x360.jpg",
+            "publishedAt": "2020-03-08T13:20:00Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Disease expert doesn't expect Chinese-level quarantines in U.S.",
+            "description": "Dr. Anthony Fauci tells 60 Minutes he does not believe the U.S. will see the drastic quarantine measures China is taking to contain the coronavirus, but social distancing will be considered. See the full report, tonight.",
+            "url": "https://www.cbsnews.com/news/coronavirus-containment-dr-jon-lapook-dr-anthony-fauci-60-minutes-face-the-nation-2020-03-08/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/073c9cbb-aeb2-4ff2-a120-a128655a832d/thumbnail/1200x630/545deee69f1ab5f65d32ea2a18ba66a6/coronaviruspreview.jpg",
+            "publishedAt": "2020-03-08T15:45:22Z",
+            "content": "The nation's top infectious disease expert says he doesn't see the drastic type of quarantining being enforced in China to contain the coronavirus happening in the U.S. Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, \u2026 [+979 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Inslee says state \"considering mandatory measures\" to address coronavirus",
+            "description": "The Washington governor says his state is \"acting based on science\" to address concerns over the spread of the virus.",
+            "url": "https://www.cbsnews.com/video/inslee-says-state-considering-mandatory-measures-to-address-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/b551dea3-07c7-4b67-aff9-2b63bd199aac/thumbnail/1200x630/5c6f97deb63a9d0457e736559f453151/0308-ftn-jayinslee-2043658-640x360.jpg",
+            "publishedAt": "2020-03-08T15:10:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus updates: Cruise ship to dock in California",
+            "description": "A joint state and federal effort will get underway Monday to disembark passengers from the ship in the Port of Oakland.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-08/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/07/a543df57-f044-4f18-aa04-97d5d281be80/thumbnail/1200x630/c4154e0c499cd82a3a6b2a99b8f1e71a/ap-20066017350990.jpg",
+            "publishedAt": "2020-03-08T14:32:00Z",
+            "content": "A\u00a0cruise ship\u00a0hit by the new coronavirus is headed to the port of Oakland, California, authorities said Sunday, though passengers were destined to stay aboard the ship for at least another day.\r\nCalifornia's Office of Emergency Services (OES) said a joint sta\u2026 [+1925 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Former FDA chief warns of economic impact of coronavirus outbreak",
+            "description": "Former FDA Commissioner Dr. Scott Gottlieb says the scope of the epidemic will likely change over the next two weeks.",
+            "url": "https://www.cbsnews.com/video/former-fda-chief-warns-of-economic-impact-of-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/08/cf340a2e-a074-4bca-b447-4f961688b220/thumbnail/1200x630/02b3a68918f72038c6a322945b493144/0308-ftn-scottgottlieb-2043703-640x360.jpg",
+            "publishedAt": "2020-03-08T15:53:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Rector of prominent D.C. church tests positive for coronavirus",
+            "description": "The Reverend Timothy Cole was admitted to the hospital Saturday night.",
+            "url": "https://www.cbsnews.com/news/coronavirus-timothy-cole-rector-dc-christ-church-georgetown-tests-positive/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/d51b3655-f279-4b2a-8b66-f5f065d49d38/thumbnail/1200x630/f9f29c46f7b7c0aefb3388af99892641/christ-church.png",
+            "publishedAt": "2020-03-08T16:52:52Z",
+            "content": "Washington \u2014 The first person to test positive for coronavirus in Washington, D.C., is the prominent leader of a historic Episcopal church in Georgetown, the church said Sunday.\r\nThe Reverend Timothy Cole, rector of Christ Church Georgetown, was admitted to t\u2026 [+1568 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Number of coronavirus cases in Italy soar to more than 5,000",
+            "description": "There are now 105,000 reported cases of the coronavirus across six continents and at least 35,000 have died from the virus. Italy has the highest death toll outside of China. Charlie D\u2019Agata reports.",
+            "url": "https://www.cbsnews.com/video/number-of-coronavirus-cases-in-italy-soar-to-more-than-5000/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/185e2775-e467-489f-b72a-31514072de9e/thumbnail/1200x630/d1c7da15441a6ba3c3ed7af299057ab8/0307-en-europeoutbreak-dagata-2043407-640x360.jpg",
+            "publishedAt": "2020-03-08T00:11:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus in New York: New Rochelle mayor gives update from ground zero of state outbreak",
+            "description": "New Rochelle, NY is ground zero for the Coronavirus outbreak in the state. Mayor Noam Bramson explains how his community is coping and how the state is working to contain the virus.",
+            "url": "https://www.cbsnews.com/video/coronavirus-in-new-york-new-rochelle-mayor-gives-update-from-ground-zero-of-state-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/b769ec3e-8c8a-45fd-9023-7ab06280a10f/thumbnail/1200x630/8929105a6b150e0632f25908a23a733d/0308-cbsn-coronavirusinny-wvd-2043781-640x360.jpg",
+            "publishedAt": "2020-03-08T18:21:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "NYC mayor urges sick New Yorkers to stay off subways during coronavirus outbreak",
+            "description": "New York City Mayor Bill de Blasio gave an update as to how the nation's most populous city is reacting to the coronavirus outbreak as the number of those infected in the city rose to 13. Watch his remarks here.",
+            "url": "https://www.cbsnews.com/video/nyc-mayor-bill-de-blasio-coronavirus-update-today-2020-03-08/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/c53980b9-d390-4b2e-b38d-9b5953fb02be/thumbnail/1200x630/8c87df12d94fc3feb8c63d84657377bf/cbsn-fusion-nyc-mayor-bill-de-blasio-coronavirus-update-today-2020-03-08-thumbnail-454715-640x360.jpg",
+            "publishedAt": "2020-03-08T20:28:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Sales are booming for medical supply businesses",
+            "description": "While the coronavirus has had disastrous impacts for most of the economy, some businesses are actually booming. Across the country, there has been panic-buying of hand sanitizers, bottled water, and medical masks despite many experts urging consumers the oppo\u2026",
+            "url": "https://www.cbsnews.com/video/sales-are-booming-for-medical-supply-businesses/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/eaf02bae-1dcb-4ef4-9657-98c74eec84c2/thumbnail/1200x630/9698f532af1d67d7b5e6751f5e650edd/0307-en-medsupplies-lenghi-2043456-640x360.jpg",
+            "publishedAt": "2020-03-08T00:34:35Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Sen. Chris Murphy says government has \"no concept of the scope\" of coronavirus spread",
+            "description": "The Connecticut senator says Trump has been \"lying to the American people\" about the seriousness of the outbreak",
+            "url": "https://www.cbsnews.com/video/sen-chris-murphy-says-government-has-no-concept-of-the-scope-of-coronavirus-spread/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/50ada679-92be-4c0e-a875-7db509e58b86/thumbnail/1200x630/bf9da1145cefbf46dbb325d6ce00569f/0308-ftn-chrismurphy-2043689-640x360.jpg",
+            "publishedAt": "2020-03-08T15:40:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Lessons from the 1918 flu pandemic",
+            "description": "The outbreak of Spanish flu during World War I infected about one-third of the Earth's population, causing at least 50 million deaths, including more than a half-million in the United States, where news reports on the epidemic were prohibited",
+            "url": "https://www.cbsnews.com/news/the-1918-flu-pandemic-a-cautionary-tale/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/21c3fd53-f388-4ebd-afa6-5fbf5900e2f3/thumbnail/1200x630/6fa6a78908e0ab75e0e1ade60aa1b3b5/sm-h4-teichner-pandemic-cu-copy-01-consolidated-01-frame-824.jpg",
+            "publishedAt": "2020-03-08T13:51:39Z",
+            "content": "If the outbreak of COVID-19 has a bullseye in the U.S., it's Washington State. Schools and universities closed, a gauge of alarm here. Seen in Seattle: a lot of masks.\r\nBut not for the first time. Substitute Spanish flu for coronavirus, 1918 for 2020, and the\u2026 [+4649 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Melissa Quinn",
+            "title": "Murphy says U.S. has \"no concept of the scope\" of coronavirus spread",
+            "description": "Connecticut is one of the 33 states with confirmed cases of the coronavirus.",
+            "url": "https://www.cbsnews.com/news/coronavirus-chris-murphy-government-has-no-concept-scope-face-the-nation/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/707fc282-4349-4886-ab1e-a969f04946b5/thumbnail/1200x630/f77bdc0d063be974e17e3d229f232edb/murphy2-1.png",
+            "publishedAt": "2020-03-08T15:53:25Z",
+            "content": "Washington \u2014 Connecticut Democratic Senator Chris Murphy lambasted the Trump administration for its handling of the coronavirus outbreak and said the federal government has \"no concept\" of the virus' spread due to a lack of extensive testing.\r\nConnecticut is \u2026 [+3005 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Top health official on the danger of downplaying risk of infectious outbreak",
+            "description": "Dr. Anthony Fauci of the National Institutes of Health talks about the dangers of the coronavirus outbreak on Sunday's \"60 Minutes.\"",
+            "url": "https://www.cbsnews.com/video/top-health-official-on-the-danger-of-downplaying-risk-of-infectious-outbreak/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/08/5426359a-74c8-481c-aa40-2ecf4e0098d1/thumbnail/1200x630/efab63ddb676c1d06164537f5afb6025/0308-ftn-60minssot-2043677-640x360.jpg",
+            "publishedAt": "2020-03-08T15:24:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Transcript: Jerome Adams on \"Face the Nation\"",
+            "description": "The following is a transcript of an interview with Surgeon General Jerome Adams that aired Sunday, March 8, 2020, on \"Face the Nation.\"",
+            "url": "https://www.cbsnews.com/news/transcript-jerome-adams-on-face-the-nation-march-8-2020/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/08/28acf0ef-d53b-4367-a172-d66b453c8006/thumbnail/1200x630/abfc7df0e0f933a633ef40e1b516c74e/adams2.png",
+            "publishedAt": "2020-03-08T15:37:17Z",
+            "content": "The following is a transcript of an interview with Surgeon General Jerome Adams that aired Sunday, March 8, 2020, on \"Face the Nation.\"\r\nMARGARET BRENNAN: Joining us now is the surgeon general Dr. Jerome Adams. He is part of the administration's coronavirus t\u2026 [+10401 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Transcript: Scott Gottlieb on \"Face the Nation\"",
+            "description": "The following is a transcript of an interview with former FDA Commissioner Scott Gottlieb that aired Sunday, March 8, 2020, on \"Face the Nation.\"",
+            "url": "https://www.cbsnews.com/news/transcript-scott-gottlieb-on-face-the-nation-march-8-2020/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/caaae64d-5e5c-4995-a720-0662b8c7a10e/thumbnail/1200x630/8d3336ee48aff10bc1755539b1cf07de/gottlieb2-1.png",
+            "publishedAt": "2020-03-08T15:47:35Z",
+            "content": "The following is a transcript of an interview with former FDA Commissioner Scott Gottlieb that aired Sunday, March 8, 2020, on \"Face the Nation.\"\r\nMARGARET BRENNAN: Joining us now is former FDA commissioner Dr. Scott Gottlieb. Good to have you back on the pro\u2026 [+8333 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Transcript: Chris Murphy on \"Face the Nation\"",
+            "description": "The following is a transcript of an interview with Senator Chris Murphy that aired Sunday, March 8, 2020, on \"Face the Nation.\"",
+            "url": "https://www.cbsnews.com/news/transcript-chris-murphy-on-face-the-nation-march-8-2020/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/08/707fc282-4349-4886-ab1e-a969f04946b5/thumbnail/1200x630/f77bdc0d063be974e17e3d229f232edb/murphy2-1.png",
+            "publishedAt": "2020-03-08T15:21:13Z",
+            "content": "The following is a transcript of an interview with Senator Chris Murphy that aired Sunday, March 8, 2020, on \"Face the Nation.\"\r\nMARGARET BRENNAN: We're back now with Connecticut Democratic Senator Chris Murphy, who is on the Senate committee that oversees he\u2026 [+7560 chars]"
+        }
+    ]
+}

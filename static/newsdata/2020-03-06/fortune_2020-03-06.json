@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adam Lashinsky",
+            "title": "The coronavirus requires startups to conserve cash, a VC firm says",
+            "description": "VC firm Sequoia Capital has some advice during the coronavirus outbreak.",
+            "url": "https://fortune.com/2020/03/06/the-coronavirus-requires-startups-to-conserve-cash-a-vc-firm-says/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-598748732-e1583501929301.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T14:23:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Naomi Xu Elegant",
+            "title": "Why are patients who recover from coronavirus testing positive again?",
+            "description": "Instances of patients catching coronavirus twice are popping up\u2014but scientists are skeptical about how real that occurrence is.",
+            "url": "https://fortune.com/2020/03/06/coronavirus-recover-test-positive-twice/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1210684653.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T09:22:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Danielle Abril",
+            "title": "Facebook advises Bay Area employees to stay home amid coronavirus concerns",
+            "description": "Facebook is the next Bay Area tech company to tell its employees to work from home as more cases of the coronavirus are confirmed in the region.",
+            "url": "https://fortune.com/2020/03/06/facebook-coronavirus-bay-area-employees-work-from-home/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-144717349.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T13:54:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jenna Schnuer",
+            "title": "Coronavirus drives Austin, Texas officials to cancel South by Southwest",
+            "description": "Several high-profile companies had already pulled out of the 2020 SXSW festival because of coronavirus before the city of Austin finally nixed the festival outright.",
+            "url": "https://fortune.com/2020/03/06/coronavirus-south-by-southwest-cancelled-sxsw/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-163310921-e1583533975877.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T22:36:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "What the rising coronavirus death rate really means",
+            "description": "\"I think the mortality is going to end up at 1% or below, consistent with the H1N1 flu outbreak of 2009,\" said one analyst.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-death-rate-explained/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Coronavirus-death-rate.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T00:24:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jaclyn Gallucci",
+            "title": "Trump signs $8.3B bill to combat coronavirus outbreak in U.S.",
+            "description": "President Donald Trump on Friday signed an $8.3 billion measure to help tackle the coronavirus outbreak that has killed 12 people in the U.S. and infected more than 200. The legislation provides federal public health agencies with money for vaccines, tests an\u2026",
+            "url": "https://fortune.com/2020/03/06/trump-signs-coronavirus-bill-outbreak/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205432074.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T14:30:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "James Nosek",
+            "title": "Apple encourages Silicon Valley staff to work from home due to coronavirus",
+            "description": "Apple has two main headquarters in Cupertino, California\u2014 in addition to offices elsewhere in Santa Clara County.",
+            "url": "https://fortune.com/2020/03/06/apple-coronavirus-remote-work-wfh-silicon-valley-staff/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Apple-Campus-Silicon-Valley-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T21:15:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "reymashayekhi",
+            "title": "Coronavirus fears spur more volatility as 10-year Treasury yield hits an all-time low",
+            "description": "Among the industry sectors tracked by the S&P 500, banks and travel companies were hit particularly hard.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-stock-market-volatility-us-treasury-yield/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205332363-e1583453370449.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T01:12:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "100,000 coronavirus cases: How COVID-19 defied borders to reach this new milestone",
+            "description": "The outbreak has exposed borders as flimsy human constructs and underscored the world's vast connectedness.",
+            "url": "https://fortune.com/2020/03/06/how-many-people-have-coronavirus-cases-covid-19-spread/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1203782087.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T12:46:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "China worried that coronavirus would cause a market meltdown. Its reaction risks stoking a bubble instead",
+            "description": "From early February, the central bank and regulators have deployed a number of measures to ensure sufficient liquidity and reduce borrowing costs for companies.",
+            "url": "https://fortune.com/2020/03/06/china-coronavirus-market-meltdown-bubble/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1210714803.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T10:06:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Anne Sraders",
+            "title": "Where is the stock market headed? Wall Street can\u2019t make up its mind amid coronavirus outbreak",
+            "description": "Wall Street is closely monitoring these indicators to try and predict what comes next.",
+            "url": "https://fortune.com/2020/03/06/coronavirus-stock-market-wall-street-economy-fed-rate-cuts-consumer-confidence/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204950211-1.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T19:27:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "kdunn6",
+            "title": "To tackle coronavirus, Brits are appealing to an age-old rallying cry: \u2018Blitz Spirit\u2019",
+            "description": "It's been used to describe the response to everything from snowstorms to terror attacks to Brexit. Why not coronavirus?",
+            "url": "https://fortune.com/2020/03/06/coronavirus-brexit-blitz-spirit/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204909294.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T13:00:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "CVS will waive out-of-pocket costs related to coronavirus testing and telemedicine visits",
+            "description": "CVS Health says Aetna plan members won't face any co-pays or pay out-of-pocket for coronavirus-related testing\u2014or telemedicine visits.",
+            "url": "https://fortune.com/2020/03/06/cvs-aetna-coronavirus-free-testing-telemedicine/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/CVS-Aetna-coronavirus-testing.jpg?resize=1200,600",
+            "publishedAt": "2020-03-06T15:56:21Z",
+            "content": null
+        }
+    ]
+}

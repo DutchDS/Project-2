@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Henry Miller, Henry Miller",
+            "title": "The Optimism about a Coronavirus Vaccine Is Misplaced",
+            "description": "Vaccines take time to develop and deploy. It won\u2019t be any different for coronavirus.",
+            "url": "https://www.nationalreview.com/2020/03/coronavirus-vaccine-optimism-misplaced/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/donald-trump-anthony-fauci.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-04T11:30:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Tobias Hoonhout, Tobias Hoonhout",
+            "title": "Congress Agrees to $8.3 Billion Emergency Funding Bill to Combat Coronavirus",
+            "description": "Congressional leaders have agreed to pass an $8.3 billion emergency funding bill to combat the coronavirus outbreak, with the House expected to vote on the legislation Wednesday afternoon.",
+            "url": "https://www.nationalreview.com/news/congress-agrees-to-8-3-billion-emergency-funding-bill-to-combat-coronavirus/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/capitol-hill-flag.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-04T18:40:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Zachary Evans, Zachary Evans",
+            "title": "Beijing Weighs Chinese Alternative to WHO in Response to Coronavirus Public Relations Disaster",
+            "description": "A state-sponsored Chinese think tank is evaluating international opinion on the formation of the country's own alternative to the World Health Organization.",
+            "url": "https://www.nationalreview.com/news/beijing-weighs-chinese-alternative-to-who-in-response-to-coronavirus-public-relations-disaster/",
+            "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-022820-24.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-04T19:33:41Z",
+            "content": null
+        }
+    ]
+}

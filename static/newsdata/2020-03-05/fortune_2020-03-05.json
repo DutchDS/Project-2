@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lance Lambert",
+            "title": "Fortune poll: Nearly half of American travelers are reconsidering their international trips due to coronavirus fears",
+            "description": "To get an indication of how coronavirus fears are impacting travel, Fortune and SurveyMonkey polled more than 2,600 Americans between February 24 to 27.",
+            "url": "https://fortune.com/2020/03/05/fortune-poll-nearly-half-of-american-travelers-are-reconsidering-their-international-trips-due-to-coronavirus-fears/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/JFK-Empty-Gate-International-Travel-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T12:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "The coronavirus is officially claiming its first corporate casualties",
+            "description": "The British airline Flybe, which was already in serious financial trouble, has gone bankrupt in part due to the coronavirus outbreak.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-flybe-bankruptcy-aviation-luminous-cruising/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205262300.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T09:53:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "The coronavirus exposed a flaw in global supply lines. It\u2019s time to build better ones",
+            "description": "Diversifying supply lines will help multinationals avoid risk but it's an opportunity to build sustainability into global manufacturing too.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-supply-chain/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1199946760.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T11:23:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adam Lashinsky",
+            "title": "Fears of the \u2018worst case\u2019 for coronavirus are growing in Silicon Valley",
+            "description": "The worst case? Significant outbreak could destabilize world politics.",
+            "url": "https://fortune.com/2020/03/05/fears-of-the-worst-case-for-coronavirus-are-growing-in-silicon-valley/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205263611-e1583415431800.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T14:17:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "John Buysse",
+            "title": "NYC to Miami for $51: Coronavirus woes cause airlines to offer cheap airfares and discounts",
+            "description": "You can even get tickets from New York to London for under $500.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-airfare-deals-cheap-airline-tickets-travel-discounts-in-us-major-airlines/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205294839.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T21:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Dan Catchpole",
+            "title": "Why travel insurance is booming during coronavirus, even though it doesn\u2019t help flight changes and cancellations",
+            "description": "Interest in travel insurance policies is up as much as 300%, brokers report.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-travel-insurance/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1197967038.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T19:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Dan Catchpole",
+            "title": "Coronavirus is upending air travel. Here\u2019s how to navigate flight cancellations, changes during the outbreak",
+            "description": "The disease has roiled airports worldwide, prompting flight cancellations and changes across the globe.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-flight-change-cancellation-travel-advisory/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204870503.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T17:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Defne Gencler",
+            "title": "How coronavirus is rippling through travel, energy, financial markets",
+            "description": "As the coronavirus outbreak spreads, global markets, workplaces, and air travel continue to be throttled.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-impact-on-travel-energy-financial-markets-industries-work-from-home/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205292991.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T18:32:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Defne Gencler",
+            "title": "Lawmakers brace for potential coronavirus cases on Capitol Hill",
+            "description": "Members of Congress prepare for the spread of coronavirus in Capitol Hill, deemed by lawmakers as \"a matter of time.\"",
+            "url": "https://fortune.com/2020/03/05/coronavirus-capitol-hill-washington-dc/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Capitol-Hill-at-Dusk.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T21:02:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Defne Gencler",
+            "title": "Hong Kong\u2019s famed subway reeling from protests, virus Outbreak",
+            "description": "The city's famed subway system is seeing a drop in profits due to pro-democracy protests and the impact of coronavirus.",
+            "url": "https://fortune.com/2020/03/05/coronavirus-hong-kong-subway-protests/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Hong-Kong-MTR-Subway-Coronavirus.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T17:00:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Six states are still not testing for coronavirus",
+            "description": "U.S. territories Puerto Rico, Guam, and the Virgin Islands are also slow to begin testing for COVID-19, according to the Centers for Disease Control and Prevention.",
+            "url": "https://fortune.com/2020/03/05/six-states-not-testing-for-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/CDC-Public-Health-Laboratory-Testing-for-COVID-19.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T18:03:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "CRISPR has a milestone moment in treating blindness",
+            "description": "Good morning, readers. Let\u2019s talk about something that\u2019s not coronavirus for just one second. The world of CRISPR gene editing had a hallmark moment this week. For the first time ever, scientists have used the technology\u2014which allows them to slice and dice po\u2026",
+            "url": "https://fortune.com/2020/03/05/crispr-blindness-editas-allerga/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/CRISPR-editas-blindness.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T15:55:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Lessons from the coronavirus front lines: What doctors in Wuhan have learned about treating Covid-19",
+            "description": "Medical professionals who have been treating and studying Covid-19 patients in Wuhan shared their insights with reporters in Beijing on Wednesday.",
+            "url": "https://fortune.com/2020/03/05/lessons-treating-coronavirus-doctors-wuhan-covid-19/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205263464.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T10:45:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "No conveyor belt sushi, cherry-blossom viewing parties: Coronavirus reshapes daily life in Japan",
+            "description": "The country already has more than 300 confirmed cases despite a profound lack of testing.",
+            "url": "https://fortune.com/2020/03/05/sushi-cherry-blossom-coronavirus-reshapes-daily-life-japan/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205060249.jpg?resize=1200,600",
+            "publishedAt": "2020-03-05T11:30:00Z",
+            "content": null
+        }
+    ]
+}

@@ -72,19 +72,6 @@
                 "id": "politico",
                 "name": "Politico"
             },
-            "author": "Gabby Orr",
-            "title": "\u2018This is the equivalent of war\u2019: Pence faces the toughest test of the Trump era",
-            "description": "Trump assigned his right-hand man to a role that could shape the president\u2019s fate in an election year. He\u2019s approaching the job with a much different style than the president is deploying.",
-            "url": "https://www.politico.com/news/2020/03/02/trump-coronavirus-pence-119057",
-            "urlToImage": "https://static.politico.com/1d/f7/c15983014cb0aa339324afa029fe/200302-pence-gty-773.jpg",
-            "publishedAt": "2020-03-03T01:07:15Z",
-            "content": "This is the equivalent of war. This is a big deal and people are going to die, and so you cant afford to make mistakes, said former House Speaker Newt Gingrich. \r\nGingrich sent a note to Pence on Sunday praising the discipline he showed during a tough Sunday \u2026 [+8181 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
             "author": "Sam Mintz and Brianna Gurciullo",
             "title": "CDC may lack contact information for some airline passengers possibly exposed to coronavirus",
             "description": "Airlines and the CDC disagree about how to fix the problem.",
@@ -92,6 +79,19 @@
             "urlToImage": "https://static.politico.com/ea/2b/433be56a4e6ea5965eceb59ed7e1/200303-coronavirus-airlines-getty-773.jpg",
             "publishedAt": "2020-03-03T21:50:21Z",
             "content": "Policy should be developed from knowledgeable people at FAA or DOT so we can begin to better track passengers, DeFazio added. But he noted later that he expected \"they ought to able to figure this out.\"\r\nAs first reported by The Washington Post, the CDC is in\u2026 [+5625 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Gabby Orr",
+            "title": "\u2018This is the equivalent of war\u2019: Pence faces the toughest test of the Trump era",
+            "description": "Trump assigned his right-hand man to a role that could shape the president\u2019s fate in an election year. He\u2019s approaching the job with a much different style than the president is deploying.",
+            "url": "https://www.politico.com/news/2020/03/02/trump-coronavirus-pence-119057",
+            "urlToImage": "https://static.politico.com/1d/f7/c15983014cb0aa339324afa029fe/200302-pence-gty-773.jpg",
+            "publishedAt": "2020-03-03T01:07:15Z",
+            "content": "This is the equivalent of war. This is a big deal and people are going to die, and so you cant afford to make mistakes, said former House Speaker Newt Gingrich. \r\nGingrich sent a note to Pence on Sunday praising the discipline he showed during a tough Sunday \u2026 [+8181 chars]"
         },
         {
             "source": {
@@ -280,19 +280,6 @@
                 "id": "politico",
                 "name": "Politico"
             },
-            "author": "By Jeremy B. White, Carla Marinucci, Graph Massara and Aaron Leathley",
-            "title": "SUPER TUESDAY! \u2014 Can BIDEN blunt BERNIE in CA? \u2014 Battles for open HILL, HUNTER, COOK, JACOBS seats \u2014 COSTA, COOPER, GLAZER challenged \u2014 BLOOMBERG hunts for TECH help",
-            "description": null,
-            "url": "https://www.politico.com/newsletters/california-playbook/2020/03/03/super-tuesday-can-biden-blunt-bernie-in-ca-battles-for-open-hill-hunter-cook-jacobs-seats-costa-cooper-glazer-challenged-bloomberg-hunts-for-tech-help-488462",
-            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-            "publishedAt": "2020-03-03T14:14:20Z",
-            "content": "THE BUZZ: You made it! Its Super Tuesday. Now strap in for a long night (and ensuing weeks) of counting votes.\r\nPresidential results headline today, of course, and were watching to see how Democrats carve up Californias hundreds of delegates.A Bernie Sanders \u2026 [+15704 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
             "author": "By Ryan McCrimmon",
             "title": "Big decision day for Democrats",
             "description": "Improper ag payments on the rise \u2014 Top organic dairy brand going \u2018carbon positive\u2019",
@@ -300,6 +287,19 @@
             "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
             "publishedAt": "2020-03-03T15:00:07Z",
             "content": "With help from Catherine Boudreau\r\nEditors Note: Morning Agriculture is a free version of POLITICO Pro Agricultures morning newsletter, which is delivered to our subscribers each morning at 6 a.m. The POLITICO Pro platform combines the news you need with tool\u2026 [+9934 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Jeremy B. White, Carla Marinucci, Graph Massara and Aaron Leathley",
+            "title": "SUPER TUESDAY! \u2014 Can BIDEN blunt BERNIE in CA? \u2014 Battles for open HILL, HUNTER, COOK, JACOBS seats \u2014 COSTA, COOPER, GLAZER challenged \u2014 BLOOMBERG hunts for TECH help",
+            "description": null,
+            "url": "https://www.politico.com/newsletters/california-playbook/2020/03/03/super-tuesday-can-biden-blunt-bernie-in-ca-battles-for-open-hill-hunter-cook-jacobs-seats-costa-cooper-glazer-challenged-bloomberg-hunts-for-tech-help-488462",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2020-03-03T14:14:20Z",
+            "content": "THE BUZZ: You made it! Its Super Tuesday. Now strap in for a long night (and ensuing weeks) of counting votes.\r\nPresidential results headline today, of course, and were watching to see how Democrats carve up Californias hundreds of delegates.A Bernie Sanders \u2026 [+15704 chars]"
         },
         {
             "source": {

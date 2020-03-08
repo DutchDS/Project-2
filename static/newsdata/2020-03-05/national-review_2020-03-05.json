@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Michael R. Strain, Michael R. Strain",
+            "title": "Addressing a Coronavirus Downturn",
+            "description": "If the economy takes a major hit from the coronavirus \u2014 and that is still very much an if scenario at this point \u2014 then fiscal policy will also be required.",
+            "url": "https://www.nationalreview.com/corner/addressing-a-coronavirus-downturn/",
+            "urlToImage": "https://s0.wp.com/i/blank.jpg",
+            "publishedAt": "2020-03-05T15:26:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Michael Brendan Dougherty, Michael Brendan Dougherty",
+            "title": "Trump and the Coronavirus \u201cHoax\u201d",
+            "description": "It\u2019s not the job of the president to work on the best-case scenarios during an unfolding panic.",
+            "url": "https://www.nationalreview.com/corner/trump-and-the-coronavirus-hoax/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/03/Trump_coronavirus-scaled.jpg?fit=1200%2C700&ssl=1",
+            "publishedAt": "2020-03-05T17:22:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "national-review",
+                "name": "National Review"
+            },
+            "author": "Madeleine Kearns, Madeleine Kearns",
+            "title": "Rethinking the \u2018Sign of Peace\u2019",
+            "description": "Given all the uncertainty surrounding the coronavirus, American Catholics may need to rethink their handshakes.",
+            "url": "https://www.nationalreview.com/corner/rethinking-the-sign-of-peace/",
+            "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2018/06/catholic-church-rosary.jpg?resize=300%2C300&ssl=1",
+            "publishedAt": "2020-03-05T21:22:41Z",
+            "content": null
+        }
+    ]
+}

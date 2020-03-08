@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Coronavirus fears and preparation in Senegal",
+            "description": "What the Senegalese government is doing to tackle the coronavirus outbreak, and why people are scared.",
+            "url": "https://www.aljazeera.com/news/2020/03/coronavirus-fears-preparation-senegal-200308090024040.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/images/2020/3/8/image-20200308090025027.jpg",
+            "publishedAt": "2020-03-08T09:00:24Z",
+            "content": "The coronavirus continues to spread in Africa with new cases in Senegal, Cameroon and Togo.\r\nAt least 45 infections have been confirmed across the continent.\r\nAs people panic and pharmacies run out of masks and sanitiser, some are resorting to traditional rem\u2026 [+156 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "China coronavirus quarantine hotel collapse kills 10",
+            "description": "Some 71 people are feared to be trapped in the rubble of the building used to quarantine people under observation.",
+            "url": "https://www.aljazeera.com/news/2020/03/china-coronavirus-quarantine-hotel-collapse-kills-10-200308091835913.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/8/c52951ac5e0a460b938ffdebb429b971_18.jpg",
+            "publishedAt": "2020-03-08T10:30:46Z",
+            "content": "Ten people have died and 23 remain trapped under the rubble of a collapsed hotel building that was used to quarantine people under observation for the coronavirus in the Chinese city of Quanzhou.\r\nOf the 71 people who were initially trapped, authorities have \u2026 [+2480 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Tracey Shelton",
+            "title": "Australians scrap over toilet rolls amid coronavirus panic buying",
+            "description": "Hong Kong and Singapore have also seen shelves cleared as people worry whether they will have enough for self-isolation.",
+            "url": "https://www.aljazeera.com/news/2020/03/australians-scrap-toilet-rolls-coronavirus-panic-buying-200308014116516.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/8/9f0581437a60443bac5cf2e221f80eb8_18.jpg",
+            "publishedAt": "2020-03-08T03:25:06Z",
+            "content": "Melbourne, Australia With 74 confirmed cases and three deaths, Australia is far from making the top of the countries worst-affected by the new coronavirus. But thousands of shoppers seem to think otherwise, and it appears their worst fear is finding themselve\u2026 [+6395 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US coronavirus death toll reaches 19; New York declares emergency",
+            "description": "The latest of the hundreds of confirmed cases nationwide were reported in Virginia, Maryland, DC and New York.",
+            "url": "https://www.aljazeera.com/news/2020/03/coronavirus-death-toll-reaches-19-york-declares-emergency-200308064614290.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/8/b540f8b7e2e84011a1f3a2507305f597_18.jpg",
+            "publishedAt": "2020-03-08T08:55:52Z",
+            "content": "At least 19 people have now died in the United States\u00a0from the\u00a0coronavirus\u00a0as the virus spread to 30 states with the latest of the hundreds of confirmed cases nationwide reported in Virginia, Maryland, the District of Columbia and New York.\r\nThe latest deaths\u2026 [+2367 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Italy quarantines quarter of its population to fight coronavirus",
+            "description": "In a drastic bid to curb the epidemic, Italy limits the movement of more than 16 million people in the north.",
+            "url": "https://www.aljazeera.com/news/2020/03/italy-quarantines-quarter-population-fight-coronavirus-200308071832617.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/8/0b01ae3691484529a830aafa4512780e_18.jpg",
+            "publishedAt": "2020-03-08T08:50:54Z",
+            "content": "The Italian government has locked down almost a quarter of the country's population living across five regions in the north, in the most drastic measure taken by a European nation to prevent the spread of the new coronavirus.\r\nA decree by Prime Minister Giuse\u2026 [+2992 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Saudi locks down Qatif as coronavirus surges in the Gulf",
+            "description": "Saudi Arabia's interior ministry says it temporarily halted movement in and out of the oil-producing Qatif region.",
+            "url": "https://www.aljazeera.com/news/2020/03/saudi-locks-qatif-coronavirus-surges-gulf-200308142809697.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/5/1863ecb23b064fcbb77d989aba0267b1_18.jpg",
+            "publishedAt": "2020-03-08T15:13:41Z",
+            "content": "Saudi Arabia has imposed a temporary lockdown on its eastern Qatif area, home to a large Shia-Muslim population, to prevent the spread of coronavirus after recording four more cases that raised the total to 11.\r\nThe move risks stirring resentment in Qatif, wh\u2026 [+4940 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Kyrgyzstan: Women's rights protesters assaulted, by men",
+            "description": "Activists gathered in Bishkek square to march against gender-based violence on International Women's Day.",
+            "url": "https://www.aljazeera.com/news/2020/03/women-rights-protesters-assaulted-detained-kyrgyzstan-200308100513456.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/8/92556f86523443198d72bd980b706739_18.jpg",
+            "publishedAt": "2020-03-08T12:30:17Z",
+            "content": "Police in Kyrgyzstan have detained dozens of protesters, mostly women, at a rally to mark International Women's Day after masked men attacked them and tore up their placards. \r\nDozens of women were placed in police vehicles in the centre of the capital, Bishk\u2026 [+2481 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Kate Mayberry",
+            "title": "Italy poised to seal off north over coronavirus: Live updates",
+            "description": "Draft plan to quarantine millions in Lombardy and nearby unprecedented, and has triggers concern among local governors.",
+            "url": "https://www.aljazeera.com/news/2020/03/italy-poised-seal-north-coronavirus-live-updates-200307234942500.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2020/3/8/849859fd816f42279e93fdca65674837_18.jpg",
+            "publishedAt": "2020-03-08T01:12:03Z",
+            "content": "Italy is poised to impose an unprecedented quarantine on its northern region of Lombardy and other badly affected areas, as it steps up efforts to tackle Europe's largest outbreak of coronavirus.\r\nIn other developments on Saturday:\r\nThe number of people diagn\u2026 [+4912 chars]"
+        }
+    ]
+}

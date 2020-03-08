@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Kate Davidson",
+            "title": "Federal Agencies Prepare for Disruptions...",
+            "description": "Federal Agencies Prepare for Disruptions... (Top headline, 5th story, link ) Related stories: Outbreak spreads to 32 states and DC... Inside Administration, Debate Raged Over What to Tell Public... Official: White House didn't want to tell seniors not to fly.\u2026",
+            "url": "https://www.wsj.com/articles/federal-agencies-prepare-for-coronavirus-disruptions-11583639269",
+            "urlToImage": "https://images.wsj.net/im-161228/social",
+            "publishedAt": "2020-03-08T13:55:36Z",
+            "content": "WASHINGTONFederal agencies are preparing to deploy emergency plans to maintain essential servicesfrom directing air traffic to delivering mail and making Social Security paymentsas the novel coronavirus epidemic widened and the nations capital diagnosed its f\u2026 [+268 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Michael M. Phillips",
+            "title": "Washington, D.C., Confirms First Case of Coronavirus - Wall Street Journal",
+            "description": "Washington, D.C., Confirms First Case of Coronavirus Wall Street Journal Trump 'not concerned' as first coronavirus case confirmed in Washington, D.C. POLITICO First presumptive positive case of coronavirus in DC has been confirmed WTOP Officials confirm firs\u2026",
+            "url": "https://www.wsj.com/articles/washington-d-c-confirms-first-case-of-coronavirus-11583635572",
+            "urlToImage": "https://images.wsj.net/im-161967/social",
+            "publishedAt": "2020-03-08T02:52:00Z",
+            "content": "WASHINGTONThe nations capital confirmed its first case of coronavirus on Saturday, while a pair of prominent advocacy groups reported that three people tested positive for the virus after attending conferences around Washington, D.C.\r\nWashington Mayor Muriel \u2026 [+217 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Chun Han Wong",
+            "title": "New Coronavirus Cases Drop in China; Italy Imposes Quarantine - The Wall Street Journal",
+            "description": "New Coronavirus Cases Drop in China; Italy Imposes Quarantine The Wall Street Journal China May Be Beating the Coronavirus, at a Painful Cost The New York Times Coronavirus live updates: Italy locks down a quarter of its population CNBC Six die at collapsed C\u2026",
+            "url": "https://www.wsj.com/articles/new-coronavirus-cases-drop-in-china-as-italy-imposes-quarantine-11583662342",
+            "urlToImage": "https://images.wsj.net/im-161974/social",
+            "publishedAt": "2020-03-08T12:49:00Z",
+            "content": "HONG KONGChina reported its first day without new locally transmitted coronavirus cases outside the city where the pathogen had emerged, just as Italy imposed a mass quarantine similar to the sweeping measures Beijing has used to contain the epidemic.\r\nChines\u2026 [+273 chars]"
+        }
+    ]
+}

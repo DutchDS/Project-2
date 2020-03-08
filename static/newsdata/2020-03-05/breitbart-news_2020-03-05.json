@@ -1,0 +1,305 @@
+{
+    "status": "ok",
+    "totalResults": 23,
+    "articles": [
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Carney",
+            "title": "Jobless Claims Fall To 216,000, Suggesting Labor Market Remains Strong Despite Coronavirus Fears",
+            "description": "The coronavirus has roiled financial markets but the labor market remains very strong. | Economy",
+            "url": "https://www.breitbart.com/economy/2020/03/05/jobless-claims-fall-to-216000-suggesting-labor-market-remains-strong-despite-coronavirus-fears/",
+            "urlToImage": "https://media.breitbart.com/media/2019/12/GettyImages-1139735688-640x335.jpg",
+            "publishedAt": "2020-03-05T13:56:42Z",
+            "content": "Businesses may be growing more concerned about the coronavirus outbreak but they have not started laying off workers in anticipation of an economic slowdown.\r\nJobless claims fell by 3,000 to a seasonally adjusted 216,000 for the week ended February 28. That w\u2026 [+687 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Carney",
+            "title": "Stocks Tank on Renewed Coronavirus Anxiety",
+            "description": "U.S. stocks and bond yields dropped Thursday, erasing most of the previous days\u2019 gains and signaling renewed anxiety of the coronavirus outbreak. The Dow Jones Industrial Average plummeted by more than 1,000 points, or around 3.75 percent. The S&P 500",
+            "url": "https://www.breitbart.com/economy/2020/03/05/stocks/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/GettyImages-1205292987-e1583433743565-640x335.jpg",
+            "publishedAt": "2020-03-05T18:44:06Z",
+            "content": "U.S. stocks and bond yields dropped Thursday, erasing most of the previous days\u2019 gains and signaling renewed anxiety of the coronavirus outbreak.\r\nThe Dow Jones Industrial Average plummeted by more than 1,000 points, or around 3.75 percent. The S&amp;P 500 dr\u2026 [+1250 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Nate Church",
+            "title": "Starbucks Suspends Use of Reusable Cups Due to Coronavirus",
+            "description": "Starbucks suspended use of reusable cups on Wednesday, as the world grapples with the global coronavirus pandemic.",
+            "url": "https://www.breitbart.com/health/2020/03/05/starbucks-suspends-use-of-reusable-cups-due-to-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2019/07/Starbucks-640x335.jpg",
+            "publishedAt": "2020-03-05T23:29:10Z",
+            "content": "Starbucks suspended use of reusable cups on Wednesday, as the world grapples with the global coronavirus pandemic.\r\nThe worldwide coffee shop chain announced the decision in a statement posted to its official website: We are pausing the use of personal cups a\u2026 [+1589 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Breitbart News",
+            "title": "Netflix, Apple Cancel SXSW Screenings amid Coronavirus Fears",
+            "description": "LOS ANGELES \u2014 Netflix is canceling its South by Southwest screenings and events amid concerns about the outbreak of the new coronavirus.",
+            "url": "https://www.breitbart.com/entertainment/2020/03/05/netflix-apple-cancel-sxsw-screenings-amid-coronavirus-fears/",
+            "urlToImage": "https://media.breitbart.com/media/2019/11/reedhastingsarabia1-640x335.jpg",
+            "publishedAt": "2020-03-05T12:44:28Z",
+            "content": "LOS ANGELES (AP) Netflix is canceling its South by Southwest screenings and events amid concerns about the outbreak of the new coronavirus.\r\nA company spokesperson confirmed to the Associated Press Wednesday that the streamer is pulling out of the annual Aust\u2026 [+628 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Kristina Wong",
+            "title": "Army\u2019s Top Infectious Diseases Scientist to Everyone: \u2018Wash Your Hands\u2019",
+            "description": "The Army's top infectious disease researcher said there is one thing Americans can do to avoid getting the coronavirus: Wash your hands.",
+            "url": "https://www.breitbart.com/politics/2020/03/05/armys-top-infectious-diseases-scientist-to-everyone-wash-your-hands/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/Washing-Hands-640x335.jpg",
+            "publishedAt": "2020-03-05T23:06:13Z",
+            "content": "The Army is working on a vaccine for the coronavirus, but in the meantime, its top infectious disease researcher said there is one thing Americans can do to avoid getting the coronavirus: Wash your hands.\r\n\u201cIf there\u2019s one thing you can do \u2014 it\u2019s wash your han\u2026 [+2013 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Jack Montgomery",
+            "title": "Confirmed: Wuhan Coronavirus Spreads to Hungary via Iranian Students",
+            "description": "Hungary has confirmed its first two cases of the Wuhan coronavirus, spread to the country by a pair of Iranian students.",
+            "url": "https://www.breitbart.com/europe/2020/03/05/confirmed-wuhan-coronavirus-spreads-to-hungary-via-iranian-students/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/Orban-640x335.png",
+            "publishedAt": "2020-03-05T14:15:21Z",
+            "content": "Hungary has confirmed its first two cases of the Wuhan coronavirus, spread to the country by a pair of Iranian students.\r\nHungary has all the personnel, facilities and regulations in place to handle the situation, promised Prime Minister\u00a0Viktor Orb\u00e1n, who had\u2026 [+2107 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Lucas Nolan",
+            "title": "Report: Apple Warns Stores It Is Running Out of Replacement iPhones",
+            "description": "Tech giant Apple has warned its retail stores that supplies of replacement iPhones are running low as the coronavirus outbreak puts a strain on the company's supply chain.",
+            "url": "https://www.breitbart.com/tech/2020/03/05/report-apple-warns-stores-it-is-running-out-of-replacement-iphones/",
+            "urlToImage": "https://media.breitbart.com/media/2018/05/wi/ap/18/4c5314_apple-campus-66698-in-24-2018-file-photo-tim-cook-apple-ceo-speaks-economic-e1530047686825.jpg",
+            "publishedAt": "2020-03-05T17:36:31Z",
+            "content": "Tech giant Apple has warned its retail stores that supplies of replacement iPhones are running low as the coronavirus outbreak puts a strain on the company\u2019s supply chain.\r\nBloomberg reports that Apple has warned its retail stores that replacement iPhones are\u2026 [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "David Ng",
+            "title": "Coronavirus Hits News Media and Hollywood as Advertising Sales Decline",
+            "description": "The coronavirus has already hammered the travel and airline sectors as more consumers are opting \u00a0to stay at home to avoid getting sick. Now the virus has claimed another economic victim: the news media and Hollywood, which are feeling the financial ripple ef\u2026",
+            "url": "https://www.breitbart.com/entertainment/2020/03/05/coronavirus-hits-news-media-and-hollywood-as-advertising-sales-decline/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/coronavirushollywoodads1-640x335.jpg",
+            "publishedAt": "2020-03-05T18:16:04Z",
+            "content": "The coronavirus has already hammered the travel and airline sectors as more consumers are opting \u00a0to stay at home to avoid getting sick. Now the virus has claimed another economic victim: the news media and Hollywood, which are feeling the financial ripple ef\u2026 [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Alana Mastrangelo",
+            "title": "71-Year-Old with Coronavirus Escapes Italian Hospital, Flees in Taxi",
+            "description": "A 71-year-old man infected with Chinese coronavirus escaped a hospital near Milan, Italy, and hailed a taxi as his getaway car on Monday. Italian authorities tracked down the taxi and apprehended the man.",
+            "url": "https://www.breitbart.com/europe/2020/03/04/71-year-old-with-coronavirus-escapes-italian-hospital-flees-in-taxi/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/Coronavirus-in-Italy-2-640x335.jpg",
+            "publishedAt": "2020-03-05T04:52:49Z",
+            "content": "A 71-year-old man infected with Chinese coronavirus escaped a hospital near Milan, Italy, and hailed a taxi as his getaway car on Monday. Italian authorities tracked down the taxi and apprehended the man.\r\nThe taxi driver has self-quarantined.\r\nA man who was \u2026 [+2061 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joshua Caplan",
+            "title": "Hillary Clinton Falsely Claims to Jimmy Fallon That Trump Called Coronavirus Outbreak a \u2018Hoax\u2019",
+            "description": "Appearing Wednesday on \"The Tonight Show\" with host Jimmy Fallon, twice-failed presidential candidate Hillary Clinton falsely claimed that President Donald Trump referred to the recent coronavirus outbreak in the United States as a \"hoax.\"",
+            "url": "https://www.breitbart.com/entertainment/2020/03/05/hillary-clinton-falsely-claims-to-jimmy-fallon-that-trump-called-coronavirus-outbreak-a-hoax/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/hillaryclintonfallon1-640x335.jpg",
+            "publishedAt": "2020-03-05T14:48:02Z",
+            "content": "Appearing Wednesday on\u00a0The Tonight Show\u00a0with host Jimmy\u00a0Fallon, twice-failed presidential candidate Hillary Clinton falsely claimed that President Donald Trump referred to the recent coronavirus outbreak in the United States as a \u201choax.\u201d\r\n\u201cI wish I could say \u2026 [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Thomas D. Williams, Ph.D.",
+            "title": "Catholic Church Cancels Weekday Masses in Northern Italy",
+            "description": "The Italian bishops\u2019 conference has cancelled the celebration of weekday Masses in areas of the north of the country affected by the coronavirus outbreak, a move that has some Catholics up in arms.",
+            "url": "https://www.breitbart.com/health/2020/03/05/catholic-church-cancels-weekday-masses-in-northern-italy/",
+            "urlToImage": "https://media.breitbart.com/media/2018/09/german-catholic-church-getty.jpg",
+            "publishedAt": "2020-03-05T15:40:11Z",
+            "content": "ROME The Italian bishops conference has cancelled the celebration of weekday Masses in areas of the north of the country affected by the coronavirus outbreak, a move that has some Catholics up in arms.\r\nResponding to a decree issued Wednesday by Prime Ministe\u2026 [+3015 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Jack Montgomery",
+            "title": "Football Icon Tells Reporters: \u2018Politics? Coronavirus? It\u2019s Not Important What Famous People Say\u2019",
+            "description": "Premier League football manager Jurgen Klopp declined to give reporters his opinion on the Wuhan coronavirus, saying the opinions of \"famous people\" on politics and pandemics are \"not important\".",
+            "url": "https://www.breitbart.com/europe/2020/03/05/klopp-refuses-coronavirus-questions-celeb-opinions-not-important/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/klopp-640x335.png",
+            "publishedAt": "2020-03-05T16:59:32Z",
+            "content": "Premier League football manager Jurgen Klopp declined to give reporters his opinion on the Wuhan coronavirus, saying the opinions of \u201cfamous people\u201d on politics and pandemics are \u201cnot important\u201d.\r\n\u201cWhat I don\u2019t like in life is that [when it comes to] a very s\u2026 [+1872 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Frances Martel",
+            "title": "Hong Kong Police Chief Declares War on Public TV for Coronavirus Comedy Sketch",
+            "description": "Hong Kong Police Commissioner Chris Tang sent a letter to the head of the city's public broadcaster, RTHK, on Wednesday warning that the police would file a complaint with Hong Kong communications authorities over a satirical show's comedy sketch joking that \u2026",
+            "url": "https://www.breitbart.com/asia/2020/03/05/hong-kong-police-chief-declares-war-on-public-tv-for-coronavirus-comedy-sketch/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/ipanews_e7e93d8f-2bed-47e8-8313-8e6200d8343c_embedded248848813-640x335.png",
+            "publishedAt": "2020-03-05T21:00:51Z",
+            "content": "Hong Kong Police Commissioner Chris Tang sent a letter to the head of the city\u2019s public broadcaster, RTHK, on Wednesday warning that the police would file a complaint with Hong Kong communications authorities over a satirical show\u2019s comedy sketch joking that \u2026 [+4660 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Breitbart Jerusalem",
+            "title": "Pics: Muslim Pilgrims Push Back Against Saudi Coronavirus Curbs on Holy Sites",
+            "description": "Saudi Arabia is treading a tightrope as it bars Muslim pilgrims from visiting Islam's holiest sites to contain the coronavirus.",
+            "url": "https://www.breitbart.com/middle-east/2020/03/05/pics-muslim-pilgrims-push-back-against-saudi-coronavirus-curbs-on-holy-sites/",
+            "urlToImage": "https://media.breitbart.com/media/2017/08/mount-arafat.png",
+            "publishedAt": "2020-03-05T11:48:13Z",
+            "content": "Riyadh (AFP) \u2014 Saudi Arabia is treading a tightrope as it bars Muslim pilgrims from Islam\u2019s holiest sites to contain the coronavirus, rolling out restrictions that while essential could prove both expensive and politically perilous.\r\nThe kingdom has suspended\u2026 [+5208 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward",
+            "title": "Iranian Terrorists Claim to Be Making Coronavirus Vaccine",
+            "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) claims scientists under its control are close to developing a coronavirus vaccine.",
+            "url": "https://www.breitbart.com/national-security/2020/03/05/iranian-terrorists-claim-to-be-making-coronavirus-vaccine/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/GettyImages-1204710215-640x335.jpg",
+            "publishedAt": "2020-03-05T18:00:01Z",
+            "content": "Irans Islamic Revolutionary Guard Corps (IRGC), a designated terrorist organization, on Wednesday claimed scientists under its control are close to developing a vaccine for the Wuhan coronavirus, which is spreading like wildfire through Iran. \r\nThe commander \u2026 [+8304 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Oliver JJ Lane",
+            "title": "Coronavirus Kills an Airline: UK's Flybe Collapses as Bookings Fall",
+            "description": "Flybe went into administration Thursday morning, after the fall of airline bookings caused by the coronavirus scare impacted its revenue.",
+            "url": "https://www.breitbart.com/europe/2020/03/05/coronavirus-kills-airline-uk-flybe-collapses-bookings-fall/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/GettyImages-1052445882-e1583409077196-640x335.jpg",
+            "publishedAt": "2020-03-05T13:18:18Z",
+            "content": "British airline Flybe went into administration in the early hours of Thursday morning, after the fall of airline bookings caused by the coronavirus scare impacted its revenue.\r\nFlybe, a budget airline which focussed on connecting regional British cities with \u2026 [+3498 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Simon Kent",
+            "title": "Hong Kong Warns Against Kissing Pets as Dog Contracts Coronavirus",
+            "description": "Hong Kong authorites warned residents Wednesday not to kiss their pets after a dog repeatedly tested \"weak positive\" for coronavirus.",
+            "url": "https://www.breitbart.com/asia/2020/03/05/hong-kong-warns-against-kissing-pets-as-dog-contracts-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/hong-kong-dog-mask-640x335.jpg",
+            "publishedAt": "2020-03-05T11:04:12Z",
+            "content": "Hong Kong authorites warned residents Wednesday not to kiss their pets, but at the same time not to panic and abandon them on the streets after a dog repeatedly tested weak positive for coronavirus\u00a0in a likely case of human-to-animal transmission.\r\nThe Hong K\u2026 [+2615 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Deborah Danan",
+            "title": "Coronavirus: Israel Bans 5 European Nations, Quarantines Thousands of Soccer Fans",
+            "description": "Thousands of Israeli soccer fans and high school students were instructed to go into quarantine after being exposed to coronavirus.",
+            "url": "https://www.breitbart.com/middle-east/2020/03/05/israel-battles-coronavirus-bans-5-european-nations-thousands-of-soccer-fans-quarantined/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/israel-coronavirus-640x335.jpg",
+            "publishedAt": "2020-03-05T16:35:03Z",
+            "content": "JERUSALEM \u2013 Thousands of Israeli soccer fans and high school students were instructed to go into quarantine after being exposed to coronavirus as the total of confirmed cases in the country climbed to 15 on Wednesday.\r\nIn an effort to curb the outbreak, Prime\u2026 [+3050 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Deborah Danan",
+            "title": "Up to 100,000 Israelis in Quarantine over Coronavirus",
+            "description": "As many as 100,000 Israelis are currently in self-quarantine amid increasingly dramatic measures to curb the coronavirus outbreak.",
+            "url": "https://www.breitbart.com/middle-east/2020/03/05/up-to-100000-israelis-in-quarantine-over-virus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/viral-israel-640x335.jpg",
+            "publishedAt": "2020-03-05T16:36:17Z",
+            "content": "TEL AVIV \u2013 As many as 100,000 Israelis are currently in self-quarantine amid increasingly dramatic measures imposed by Israel in an effort to curb the coronavirus outbreak, including restricting entry from certain European nations, banning large gatherings, a\u2026 [+4007 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Kurt Zindulka",
+            "title": "UK May Shut Down Parliament For Months to Curb the Spread of the Coronavirus",
+            "description": "The UK may shut down parliament to prevent MPs from spreading the coronavirus, as the country saw recorded 36 new cases of the virus.",
+            "url": "https://www.breitbart.com/europe/2020/03/05/uk-may-shut-down-parliament-for-months-to-curb-the-spread-of-the-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/GettyImages-1204695305-3-640x335.jpeg",
+            "publishedAt": "2020-03-05T10:42:07Z",
+            "content": "The United Kingdom may shut down parliament to prevent MPs from spreading the coronavirus, as the country saw its largest ever daily increase of cases of the deadly virus.\r\nIn an attempt to contain an outbreak of the coronavirus, the UK is considering limitin\u2026 [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Frances Martel",
+            "title": "Iranian State Terror General Calls Chinese Coronavirus 'Biological Warfare'",
+            "description": "The head of Iran's Islamic Revolutionary Guard Corps (IRGC) declared Iran is \"engaged in biological warfare.\"",
+            "url": "https://www.breitbart.com/health/2020/03/05/iranian-state-terror-general-calls-chinese-coronavirus-biological-warfare/",
+            "urlToImage": "https://media.breitbart.com/media/2019/09/major-general-salami-640x335.jpg",
+            "publishedAt": "2020-03-05T15:01:59Z",
+            "content": "Major General Hossein Salami, the head of Iran\u2019s Islamic Revolutionary Guard Corps (IRGC), declared in remarks Thursday that Iran is \u201cengaged in biological warfare\u201d and will \u201cwin the war\u201d against the Chinese coronavirus spreading worldwide.\r\nThe IRGC is a U.S\u2026 [+5894 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Victoria Friedman",
+            "title": "Hungary Vows It Will Protect Europe from Migrant Crisis. Again",
+            "description": "Hungarian Prime Minister Viktor Orb\u00e1n has said that his country will, again, defend Europe against a wave of illegal mass migration.",
+            "url": "https://www.breitbart.com/europe/2020/03/05/hungary-vows-it-will-protect-europe-illegal-mass-migration-again/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/viktor-orban-640x335.jpg",
+            "publishedAt": "2020-03-05T10:37:58Z",
+            "content": "Hungarian Prime Minister Viktor Orb\u00e1n has said that his country will defend Europe against a wave of illegal mass migration as it had done in 2015 during the first migrant crisis.\r\nSpeaking to the media at a press conference on Wednesday, Prime Minister Orb\u00e1n\u2026 [+5202 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Victoria Friedman",
+            "title": "Culture Sec Tells BBC to Ditch Metropolitan Elite Outlook, Reflect Real Britain",
+            "description": "The culture secretary has said that the BBC must abandon its \"narrow urban outlook\" and represent the average Briton.",
+            "url": "https://www.breitbart.com/europe/2020/03/05/culture-sec-tells-bbc-ditch-metropolitan-elite-outlook-reflect-real-britain/",
+            "urlToImage": "https://media.breitbart.com/media/2019/06/BBC-640x335.png",
+            "publishedAt": "2020-03-05T14:00:14Z",
+            "content": "Culture secretary Oliver Dowden has said that the BBC must abandon its \u201cnarrow urban outlook\u201d and be sure to provide \u201cgenuine diversity of thought and experience\u201d if it wants to survive.\r\nThe newly-appointed\u00a0Secretary of State for Digital, Culture, Media and \u2026 [+4375 chars]"
+        }
+    ]
+}

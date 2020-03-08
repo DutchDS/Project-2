@@ -7,19 +7,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Michael Sheetz",
-            "title": "Buy Uber into the coronavirus travel fears, Needham says",
-            "description": "Needham added Uber to its \"conviction list,\" saying the ride-hailing company will bounce back from coronavirus-related travel declines.",
-            "url": "https://www.cnbc.com/2020/03/03/buy-uber-into-the-coronavirus-travel-fears-needham-says.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105694870-15482534889372i3a3123.jpg?v=1548253573",
-            "publishedAt": "2020-03-03T12:01:44Z",
-            "content": "(This story is for CNBC PRO subscribers only.)\r\nNeedham added Uber to its \"conviction list\" of stocks on Tuesday, as the firm predicts the ride-hailing company will bounce back from coronavirus-related travel declines better than the market expects.\r\nUber sha\u2026 [+73 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Matthew J. Belvedere",
             "title": "What to watch today: Dow to drop after Monday's huge gain as morning G-7 statement disappoints",
             "description": "Dow futures point to losses at Tuesday's open after a coronavirus G-7 statement contained no specifics.",
@@ -27,6 +14,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106420198-1583178639892gettyimages-1209906390.jpeg?v=1583178718",
             "publishedAt": "2020-03-03T12:40:32Z",
             "content": "The spread of the coronavirus in China is slowing while new cases in many other countries are accelerating. The vast majority of the more than 91,000 global cases and over 3,100 deaths are still in China. (CNBC)https://www.cnbc.com/2020/03/03/coronavirus-live\u2026 [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "Buy Uber into the coronavirus travel fears, Needham says",
+            "description": "Needham added Uber to its \"conviction list,\" saying the ride-hailing company will bounce back from coronavirus-related travel declines.",
+            "url": "https://www.cnbc.com/2020/03/03/buy-uber-into-the-coronavirus-travel-fears-needham-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105694870-15482534889372i3a3123.jpg?v=1548253573",
+            "publishedAt": "2020-03-03T12:01:44Z",
+            "content": "(This story is for CNBC PRO subscribers only.)\r\nNeedham added Uber to its \"conviction list\" of stocks on Tuesday, as the firm predicts the ride-hailing company will bounce back from coronavirus-related travel declines better than the market expects.\r\nUber sha\u2026 [+73 chars]"
         },
         {
             "source": {
@@ -46,19 +46,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Holly Ellyatt",
-            "title": "European stocks signal higher open on stimulus hopes",
-            "description": "Global markets have rebounded on hopes that central banks will coordinate some kind of monetary policy response to lessen the economic impact of the coronavirus.",
-            "url": "https://www.cnbc.com/2020/03/03/european-stocks-hope-for-stimulus-from-central-banks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105956462-1560051900109gettyimages-1148487777.jpeg?v=1560051980",
-            "publishedAt": "2020-03-03T04:56:01Z",
-            "content": "European stocks are pointing to a higher open on Tuesday as investors continue to hope that global central banks will introduce monetary policy measures to mitigate the economic impact of the coronavirus.\r\nLondon's FTSE index is expected to open 75 points hig\u2026 [+1858 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Thomas Franck",
             "title": "Bill Ackman is hedging big time because of the 'substantial negative impact' from the coronavirus",
             "description": "Bill Ackman told Pershing Square investors that he's taken steps in recent days to shore up his investment portfolio to protect against the coronavirus.",
@@ -66,6 +53,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/104823205-20171106-4350-2511.jpg?v=1509989667",
             "publishedAt": "2020-03-03T21:18:28Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "European stocks signal higher open on stimulus hopes",
+            "description": "Global markets have rebounded on hopes that central banks will coordinate some kind of monetary policy response to lessen the economic impact of the coronavirus.",
+            "url": "https://www.cnbc.com/2020/03/03/european-stocks-hope-for-stimulus-from-central-banks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105956462-1560051900109gettyimages-1148487777.jpeg?v=1560051980",
+            "publishedAt": "2020-03-03T04:56:01Z",
+            "content": "European stocks are pointing to a higher open on Tuesday as investors continue to hope that global central banks will introduce monetary policy measures to mitigate the economic impact of the coronavirus.\r\nLondon's FTSE index is expected to open 75 points hig\u2026 [+1858 chars]"
         },
         {
             "source": {
@@ -98,19 +98,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Kevin Stankiewicz",
-            "title": "Regeneron CEO hopes to have coronavirus treatment ready for human testing possibly by this summer",
-            "description": "\"How quickly that can be deployed will depend on some of the early data that we have, some animal data, what we will see in patients,\" Regeneron CEO Leonard Schleifer told CNBC.",
-            "url": "https://www.cnbc.com/2020/03/03/regeneron-ceo-hopes-to-have-coronavirus-treatment-made-near-august.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422587-1583261390295img_9735.jpg?v=1583261447",
-            "publishedAt": "2020-03-03T20:23:42Z",
-            "content": "Regeneron CEO\u00a0Leonard Schleifer\u00a0told CNBC on Tuesday that the pharmaceutical company hopes to have its coronavirus treatment produced and ready for human testing possibly by August.\u00a0\r\n\"How quickly that can deployed will depend on some of the early data that w\u2026 [+2448 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Dawn Kopecki",
             "title": "Coronavirus live updates: Japan indicates Olympics could be delayed, Trump calls for rate cut",
             "description": "As of Tuesday, more than 91,300 cases of coronavirus have been reported, resulting in at least 3,110 deaths.",
@@ -118,6 +105,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106419901-1583169671790rts34fv3.jpg?v=1583169773",
             "publishedAt": "2020-03-03T12:52:00Z",
             "content": "A woman wears a face mask as she waits on the subway after the first confirmed case of coronavirus was announced in New York State in New York, March 2, 2020.\r\nThis is a live blog. Please check back for updates.\r\nAll times below are in Eastern time.\r\n<ul><li>\u2026 [+6095 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Kevin Stankiewicz",
+            "title": "Regeneron CEO hopes to have coronavirus treatment ready for human testing possibly by this summer",
+            "description": "\"How quickly that can be deployed will depend on some of the early data that we have, some animal data, what we will see in patients,\" Regeneron CEO Leonard Schleifer told CNBC.",
+            "url": "https://www.cnbc.com/2020/03/03/regeneron-ceo-hopes-to-have-coronavirus-treatment-made-near-august.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422587-1583261390295img_9735.jpg?v=1583261447",
+            "publishedAt": "2020-03-03T20:23:42Z",
+            "content": "Regeneron CEO\u00a0Leonard Schleifer\u00a0told CNBC on Tuesday that the pharmaceutical company hopes to have its coronavirus treatment produced and ready for human testing possibly by August.\u00a0\r\n\"How quickly that can deployed will depend on some of the early data that w\u2026 [+2448 chars]"
         },
         {
             "source": {
@@ -137,19 +137,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Eric Rosenbaum",
-            "title": "The 'stranded employee' is a coronavirus problem the work world has never seen",
-            "description": "Many U.S. workers fear that taking time off or working from home, even when sick, can damage a career. Can the coronavirus COVID-19 permanently change workplace norms?",
-            "url": "https://www.cnbc.com/2020/03/03/stranded-employee-is-coronavirus-issue-work-world-has-never-seen.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106420691-1583190288416gettyimages-1204592562.jpeg?v=1583190356",
-            "publishedAt": "2020-03-03T13:01:00Z",
-            "content": "An office worker wearing a protective mask carries a take-out lunch order while walking towards the Central Government Offices in the Admiralty district of Hong Kong, China, on Monday, March 2, 2020.\r\nEugenie Fanning has faced many employee management issues \u2026 [+13447 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Annie Palmer",
             "title": "Amazon, Walmart and others battle price gouging on coronavirus-related products",
             "description": "Amazon, eBay, Walmart and Etsy have all struggled to curb price gouging and products that make unverified claims about the coronavirus.",
@@ -157,6 +144,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416725-1582927008126gettyimages-1204034435.jpeg?v=1582927078",
             "publishedAt": "2020-03-03T16:15:00Z",
             "content": "Tourists wearing masks walk through Union Square in New York City on February 28, 2020, amid fears of the coronavirus and a global pandemic.\r\nWith many products sold out in stores, shoppers are racing to online retailers to order face masks, hand sanitizer, h\u2026 [+9602 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Eric Rosenbaum",
+            "title": "The 'stranded employee' is a coronavirus problem the work world has never seen",
+            "description": "Many U.S. workers fear that taking time off or working from home, even when sick, can damage a career. Can the coronavirus COVID-19 permanently change workplace norms?",
+            "url": "https://www.cnbc.com/2020/03/03/stranded-employee-is-coronavirus-issue-work-world-has-never-seen.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106420691-1583190288416gettyimages-1204592562.jpeg?v=1583190356",
+            "publishedAt": "2020-03-03T13:01:00Z",
+            "content": "An office worker wearing a protective mask carries a take-out lunch order while walking towards the Central Government Offices in the Admiralty district of Hong Kong, China, on Monday, March 2, 2020.\r\nEugenie Fanning has faced many employee management issues \u2026 [+13447 chars]"
         },
         {
             "source": {
@@ -228,19 +228,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Noah Higgins-Dunn",
-            "title": "Second case of coronavirus confirmed in New York, Gov. Andrew Cuomo says",
-            "description": "A man north of New York City is hospitalized with the COVID-19 virus, the second confirmed case in the state, Gov. Andrew Cuomo said Tuesday.",
-            "url": "https://www.cnbc.com/2020/03/03/gov-andrew-cuomo-says-second-case-of-coronavirus-confirmed-in-new-york.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422065-1583245422985gettyimages-1204736553.jpeg?v=1583245527",
-            "publishedAt": "2020-03-03T14:29:00Z",
-            "content": "A 50-year old man who worked in New York City is hospitalized with the COVID-19 virus, the second confirmed case in the state, Gov. Andrew Cuomo said Tuesday.\r\nThe man lived in Westchester County with three children that attended the\u00a0SAR Academy, which said i\u2026 [+673 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Berkeley Lovelace Jr.",
             "title": "New York City high school reportedly closes after suspected coronavirus case in its community",
             "description": null,
@@ -261,6 +248,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106419288-1583153628977gettyimages-1204231002.jpeg?v=1583153688",
             "publishedAt": "2020-03-03T20:08:00Z",
             "content": "Washington state health officials on Tuesday identified three new coronavirus fatalities, including two patients who passed away on Feb. 26 that weren't previously linked to COVID-19, bringing the total number of deaths in the U.S. to nine.\u00a0\r\nOne of the patie\u2026 [+1084 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Noah Higgins-Dunn",
+            "title": "Second case of coronavirus confirmed in New York, Gov. Andrew Cuomo says",
+            "description": "A man north of New York City is hospitalized with the COVID-19 virus, the second confirmed case in the state, Gov. Andrew Cuomo said Tuesday.",
+            "url": "https://www.cnbc.com/2020/03/03/gov-andrew-cuomo-says-second-case-of-coronavirus-confirmed-in-new-york.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422065-1583245422985gettyimages-1204736553.jpeg?v=1583245527",
+            "publishedAt": "2020-03-03T14:29:00Z",
+            "content": "A 50-year old man who worked in New York City is hospitalized with the COVID-19 virus, the second confirmed case in the state, Gov. Andrew Cuomo said Tuesday.\r\nThe man lived in Westchester County with three children that attended the\u00a0SAR Academy, which said i\u2026 [+673 chars]"
         },
         {
             "source": {
@@ -358,19 +358,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Lizzy Gurdus",
-            "title": "'Be selective' when it comes to financials, trader says \u2014 here's the stock he recommends",
-            "description": "JPMorgan stands out vis-a-vis the rest of the financial sector for its long history of outperformance relative to the group, says Ari Wald, senior technical analyst at Oppenheimer.",
-            "url": "https://www.cnbc.com/2020/03/03/stocks-to-buy-2020-jpmorgan-is-quality-among-banks-says-trader.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106420549-1583185905604gettyimages-1204608601.jpeg?v=1583185970",
-            "publishedAt": "2020-03-03T12:12:00Z",
-            "content": "Be selective.\r\nThat's the play for the financial sector as the group lifts off its worst weekly performance since the financial crisis, according to Ari Wald, senior technical analyst at Oppenheimer.\r\n\"In terms of the banks, indeed, interest rates are the wil\u2026 [+2351 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Diana Olick",
             "title": "Homebuilder stocks jump on Fed rate cut amid coronavirus outbreak",
             "description": "The homebuilders' ETF (ITB) is near the high of the session, up almost 2.3% and up 6.2% week-to-date.",
@@ -378,6 +365,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/104301066-GettyImages-623874284.jpg?v=1583252251",
             "publishedAt": "2020-03-03T16:36:30Z",
             "content": "Stocks of the nation's biggest homebuilders jumped after the surprise 50 basis point rate cut by the Federal Reserve. The homebuilders' ETF (ITB) hit session highs in the morning, up nearly 2.3%, and 6.2% week-to-date, though the price was fluctuating with th\u2026 [+1533 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Lizzy Gurdus",
+            "title": "'Be selective' when it comes to financials, trader says \u2014 here's the stock he recommends",
+            "description": "JPMorgan stands out vis-a-vis the rest of the financial sector for its long history of outperformance relative to the group, says Ari Wald, senior technical analyst at Oppenheimer.",
+            "url": "https://www.cnbc.com/2020/03/03/stocks-to-buy-2020-jpmorgan-is-quality-among-banks-says-trader.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106420549-1583185905604gettyimages-1204608601.jpeg?v=1583185970",
+            "publishedAt": "2020-03-03T12:12:00Z",
+            "content": "Be selective.\r\nThat's the play for the financial sector as the group lifts off its worst weekly performance since the financial crisis, according to Ari Wald, senior technical analyst at Oppenheimer.\r\n\"In terms of the banks, indeed, interest rates are the wil\u2026 [+2351 chars]"
         },
         {
             "source": {
@@ -423,19 +423,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Reuters",
-            "title": "G-7 will reportedly make no direct calls for fiscal, monetary support in coronavirus statement",
-            "description": "The G-7 will voice their determination to fight the economic hit of the coronavirus but stop short of directly calling for new government spending or coordinated central bank interest rate cuts, two G-7 officials said on Tuesday.",
-            "url": "https://www.cnbc.com/2020/03/03/g-7-to-make-no-direct-calls-for-fiscal-monetary-support-in-coronavirus-statement-sources-say.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106300927-1576601939422rts2v8lf.jpg?v=1576602015",
-            "publishedAt": "2020-03-03T11:06:00Z",
-            "content": "The Group of Seven nations will voice their determination to fight the economic hit of the coronavirus but stop short of directly calling for new government spending or coordinated central bank interest rate cuts, two G-7 officials said on Tuesday.\r\nAs the wi\u2026 [+3054 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Scott Wapner",
             "title": "Milwaukee Bucks co-owner Marc Lasry on NBA's coronavirus precautions",
             "description": "Marc Lasry, co-owner of the NBA's Milwaukee Bucks and billionaire hedge fund manager, told CNBC on Tuesday that sporting events could possibly ban fans if the coronavirus outbreak worsens.",
@@ -443,6 +430,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422772-milwaukeebuckscoownermarclasryonnbamemoaboutcoronavirusprecautions.jpg?v=1583268638",
             "publishedAt": "2020-03-03T21:05:38Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "G-7 will reportedly make no direct calls for fiscal, monetary support in coronavirus statement",
+            "description": "The G-7 will voice their determination to fight the economic hit of the coronavirus but stop short of directly calling for new government spending or coordinated central bank interest rate cuts, two G-7 officials said on Tuesday.",
+            "url": "https://www.cnbc.com/2020/03/03/g-7-to-make-no-direct-calls-for-fiscal-monetary-support-in-coronavirus-statement-sources-say.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106300927-1576601939422rts2v8lf.jpg?v=1576602015",
+            "publishedAt": "2020-03-03T11:06:00Z",
+            "content": "The Group of Seven nations will voice their determination to fight the economic hit of the coronavirus but stop short of directly calling for new government spending or coordinated central bank interest rate cuts, two G-7 officials said on Tuesday.\r\nAs the wi\u2026 [+3054 chars]"
         },
         {
             "source": {
@@ -527,19 +527,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Fred Imbert",
-            "title": "Stocks making the biggest moves premarket: Target, Kohl's, Uber, AMD, Tesla & more",
-            "description": "Tesla gets a big upgrade from JMP Securities. Target revenue misses.",
-            "url": "https://www.cnbc.com/2020/03/03/stocks-making-the-biggest-moves-premarket-target-kohls-uber-amd-tesla-more.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106256818-1574284371663gettyimages-1074372042.jpeg?v=1583242408",
-            "publishedAt": "2020-03-03T13:51:32Z",
-            "content": "Check out the companies making headlines in the premarket Tuesday:\r\nTarget Target shares dipped about 0.8% in the premarket after the retailer reported disappointing revenue figures. The company posted revenue of $23.4 billion for the previous quarter. That's\u2026 [+2719 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Jessica Bursztynsky",
             "title": "Apple iPhone chip supplier lowers guidance due to the coronavirus",
             "description": "Qorvo, which makes radio chips for Apple's iPhones, lowered its fourth-quarter revenue expectations to $770 million, or $50 million below the midpoint.",
@@ -547,6 +534,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106396123-15820409336142020-02-18t134822z_506783684_rc213f94y3nt_rtrmadp_3_china-health.jpg?v=1582040996",
             "publishedAt": "2020-03-03T13:41:57Z",
             "content": "Qorvo, a radio frequency chip supplier for Apple's iPhones, lowered its fourth-quarter revenue expectations to $770 million on Tuesday. The company predicted revenue of $800 million to $840 million on Jan. 29.\u00a0\r\n\"The novel coronavirus (COVID-19) has impacted \u2026 [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Stocks making the biggest moves premarket: Target, Kohl's, Uber, AMD, Tesla & more",
+            "description": "Tesla gets a big upgrade from JMP Securities. Target revenue misses.",
+            "url": "https://www.cnbc.com/2020/03/03/stocks-making-the-biggest-moves-premarket-target-kohls-uber-amd-tesla-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106256818-1574284371663gettyimages-1074372042.jpeg?v=1583242408",
+            "publishedAt": "2020-03-03T13:51:32Z",
+            "content": "Check out the companies making headlines in the premarket Tuesday:\r\nTarget Target shares dipped about 0.8% in the premarket after the retailer reported disappointing revenue figures. The company posted revenue of $23.4 billion for the previous quarter. That's\u2026 [+2719 chars]"
         },
         {
             "source": {
@@ -592,19 +592,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Jesse Pound",
-            "title": "Fed is a 'fish out of the water' in fight against coronavirus, former Morgan Stanley chief economist says",
-            "description": "Stephen Roach, who served as Morgan Stanley's chief economist, said that the U.S. government's response to the outbreak has been \"flailing\" and that it needed to make investments in public health.",
-            "url": "https://www.cnbc.com/2020/03/03/fed-is-a-fish-out-of-the-water-in-fight-against-coronavirus-former-morgan-stanley-chief-economist-says.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104849121-GettyImages-527706498.jpg?v=1562815603",
-            "publishedAt": "2020-03-03T16:25:46Z",
-            "content": "Former Morgan Stanley Asia Chairman Stephen Roach said the Federal Reserve is not equipped to help the economy during the coronavirus outbreak.\u00a0\r\n\"Central banks are pulling out a playbook that was designed to deal with financial problems and not to deal with \u2026 [+1822 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Berkeley Lovelace Jr.",
             "title": "US currently has 10% of face masks needed for a 'full-blown' coronavirus pandemic, HHS official says",
             "description": "Health and Human Services official Dr. Robert Kadlec estimates the country would need roughly 3.5 billion of medical-grade N95 masks, which filter out about 95% of all liquid or airborne particles.",
@@ -612,6 +599,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422407-1583254930844gettyimages-1204567270.jpeg?v=1583255003",
             "publishedAt": "2020-03-03T17:32:34Z",
             "content": "The U.S. has just 10% of the required respirator masks that would be needed for medical professionals if the COVID-19 outbreak erupts into a \"full-blown\" pandemic in America.\r\nHealth and Human Services official\u00a0Dr. Robert Kadlec estimates the country would ne\u2026 [+2695 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Fed is a 'fish out of the water' in fight against coronavirus, former Morgan Stanley chief economist says",
+            "description": "Stephen Roach, who served as Morgan Stanley's chief economist, said that the U.S. government's response to the outbreak has been \"flailing\" and that it needed to make investments in public health.",
+            "url": "https://www.cnbc.com/2020/03/03/fed-is-a-fish-out-of-the-water-in-fight-against-coronavirus-former-morgan-stanley-chief-economist-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104849121-GettyImages-527706498.jpg?v=1562815603",
+            "publishedAt": "2020-03-03T16:25:46Z",
+            "content": "Former Morgan Stanley Asia Chairman Stephen Roach said the Federal Reserve is not equipped to help the economy during the coronavirus outbreak.\u00a0\r\n\"Central banks are pulling out a playbook that was designed to deal with financial problems and not to deal with \u2026 [+1822 chars]"
         },
         {
             "source": {
@@ -684,11 +684,11 @@
                 "name": "CNBC"
             },
             "author": "CNBC US Source",
-            "title": "Teladoc CEO talks working with CDC on coronvirus response, rising demand amid flu season",
-            "description": "Teladoc CEO Jason Gorevic discusses working with the CDC on coronavirus outbreak response, delivering remote care amid a sever flu season and partnering with CVS HealthHUBs.",
-            "url": "https://www.cnbc.com/video/2020/03/03/teladoc-ceo-talks-coronvirus-response-demand-surge-this-flu-season.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422518-3ed3-mm-f-block-teledoc-030320.jpg?v=1583258526",
-            "publishedAt": "2020-03-03T18:33:08Z",
+            "title": "Big Tech executives weigh in on how coronavirus is impacting business",
+            "description": "Leaders from CNBC's Technology Executive Council are weighing in on the impact the coronavirus outbreak will have on their companies. CNBC's John Fortt reports.",
+            "url": "https://www.cnbc.com/video/2020/03/03/big-tech-coronavirus-impact-executives-squawk-box.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106421907-827fortttechcoronavirus.jpg?v=1583242264",
+            "publishedAt": "2020-03-03T13:41:54Z",
             "content": null
         },
         {
@@ -697,11 +697,11 @@
                 "name": "CNBC"
             },
             "author": "CNBC US Source",
-            "title": "Big Tech executives weigh in on how coronavirus is impacting business",
-            "description": "Leaders from CNBC's Technology Executive Council are weighing in on the impact the coronavirus outbreak will have on their companies. CNBC's John Fortt reports.",
-            "url": "https://www.cnbc.com/video/2020/03/03/big-tech-coronavirus-impact-executives-squawk-box.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106421907-827fortttechcoronavirus.jpg?v=1583242264",
-            "publishedAt": "2020-03-03T13:41:54Z",
+            "title": "Teladoc CEO talks working with CDC on coronvirus response, rising demand amid flu season",
+            "description": "Teladoc CEO Jason Gorevic discusses working with the CDC on coronavirus outbreak response, delivering remote care amid a sever flu season and partnering with CVS HealthHUBs.",
+            "url": "https://www.cnbc.com/video/2020/03/03/teladoc-ceo-talks-coronvirus-response-demand-surge-this-flu-season.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422518-3ed3-mm-f-block-teledoc-030320.jpg?v=1583258526",
+            "publishedAt": "2020-03-03T18:33:08Z",
             "content": null
         },
         {
@@ -774,6 +774,19 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
+            "author": "Berkeley Lovelace Jr.",
+            "title": "Top CDC official tells Congress coronavirus almost qualifies as a global pandemic",
+            "description": "WHO will likely deem the COVID-19 coronavirus a global pandemic once sustained person-to-person spread takes hold outside China, a CDC official says.",
+            "url": "https://www.cnbc.com/2020/03/03/top-cdc-official-tells-congress-coronavirus-almost-qualifies-as-a-global-pandemic.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106421852-1583240959153gettyimages-1210040337.jpeg?v=1583241006",
+            "publishedAt": "2020-03-03T15:31:59Z",
+            "content": "The World Health Organization will likely deem the COVID-19 coronavirus a global pandemic once sustained person-to-person spread takes hold outside China, a Centers for Disease Control and Prevention official said Tuesday.\r\nThe current outbreak already meets \u2026 [+2989 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
             "author": "Jabari Young",
             "title": "NBA memo on coronavirus warns players to offer fist bumps to fans, no talk of canceling games",
             "description": "The National Basketball Association sent a memo to teams and players detailing information on the coronavirus outbreak and telling player to avoid too much physical contact with fans.",
@@ -787,13 +800,13 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Berkeley Lovelace Jr.",
-            "title": "Top CDC official tells Congress coronavirus almost qualifies as a global pandemic",
-            "description": "WHO will likely deem the COVID-19 coronavirus a global pandemic once sustained person-to-person spread takes hold outside China, a CDC official says.",
-            "url": "https://www.cnbc.com/2020/03/03/top-cdc-official-tells-congress-coronavirus-almost-qualifies-as-a-global-pandemic.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106421852-1583240959153gettyimages-1210040337.jpeg?v=1583241006",
-            "publishedAt": "2020-03-03T15:31:59Z",
-            "content": "The World Health Organization will likely deem the COVID-19 coronavirus a global pandemic once sustained person-to-person spread takes hold outside China, a Centers for Disease Control and Prevention official said Tuesday.\r\nThe current outbreak already meets \u2026 [+2989 chars]"
+            "author": "Reuters",
+            "title": "IMF, World Bank switch to virtual spring meetings due to coronavirus",
+            "description": "The International Monetary Fund and the World Bank, citing concerns about the fast-spreading coronavirus, on Tuesday said they will adopt a \"virtual format\" for their spring meetings instead of convening in person in Washington.",
+            "url": "https://www.cnbc.com/2020/03/03/imf-world-bank-switch-to-virtual-spring-meetings-due-to-coronavirus.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106395241-1582014909479gettyimages-1201234409.jpeg?v=1582014964",
+            "publishedAt": "2020-03-03T18:55:17Z",
+            "content": "The International Monetary Fund and the World Bank, citing concerns about the fast-spreading coronavirus, on Tuesday said they will adopt a \"virtual format\" for their spring meetings instead of convening in person in Washington.\r\nThe institutions' spring meet\u2026 [+1950 chars]"
         },
         {
             "source": {
@@ -820,19 +833,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106420935-1583210410930gettyimages-519946418.jpeg?v=1583210387",
             "publishedAt": "2020-03-03T05:05:04Z",
             "content": "The Group of Seven\u00a0(G7) industrial powers are crafting a statement for their finance leaders to issue on countering the impact of the coronavirus, but for now it does not specifically call for new government spending or coordinated interest rate cuts by centr\u2026 [+919 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
-            "author": "Reuters",
-            "title": "IMF, World Bank switch to virtual spring meetings due to coronavirus",
-            "description": "The International Monetary Fund and the World Bank, citing concerns about the fast-spreading coronavirus, on Tuesday said they will adopt a \"virtual format\" for their spring meetings instead of convening in person in Washington.",
-            "url": "https://www.cnbc.com/2020/03/03/imf-world-bank-switch-to-virtual-spring-meetings-due-to-coronavirus.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106395241-1582014909479gettyimages-1201234409.jpeg?v=1582014964",
-            "publishedAt": "2020-03-03T18:55:17Z",
-            "content": "The International Monetary Fund and the World Bank, citing concerns about the fast-spreading coronavirus, on Tuesday said they will adopt a \"virtual format\" for their spring meetings instead of convening in person in Washington.\r\nThe institutions' spring meet\u2026 [+1950 chars]"
         },
         {
             "source": {
@@ -1177,19 +1177,6 @@
                 "id": "cnbc",
                 "name": "CNBC"
             },
-            "author": "Michelle Fox",
-            "title": "Don't let panic drive your investment decisions. Here's how to get a grip on your emotions",
-            "description": "It's OK to panic; just don't act on it, says financial psychologist Brad Klonz. Here are his techniques to stop emotions from ruling your financial life.",
-            "url": "https://www.cnbc.com/2020/03/03/how-to-control-your-emotions-during-market-volatility.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422422-1583255353738gettyimages-938890492.jpeg?v=1583255397",
-            "publishedAt": "2020-03-03T17:51:45Z",
-            "content": "Wild swings in the stock market may have you itching to make changes to your portfolio.\r\nYet any expert will tell you: You shouldn't let your emotions drive your investment decisions.\r\n\"That vacillation between excitement and panic that is what hurts people f\u2026 [+3829 chars]"
-        },
-        {
-            "source": {
-                "id": "cnbc",
-                "name": "CNBC"
-            },
             "author": "Michael Wayland",
             "title": "Bentley unveils $2 million Mulliner Bacalar sports car with 5,000-year-old wood",
             "description": "The iconic British automaker is describing the car as the \"rarest two-door Bentley of the modern era.\" The company is only producing 12 of the vehicles, all of which have already been pre-sold.",
@@ -1197,6 +1184,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422221-1583249503080bentleymullinerbacalar-1.jpg?v=1583249559",
             "publishedAt": "2020-03-03T16:50:34Z",
             "content": "Bentley on Tuesday unveiled the all-new Mulliner Bacalar, a roughly $2 million two-seat, open-air luxury sports car that features 5,000-year-old wood in its interior dashboard.\r\nThe iconic British automaker, which is owned by Volkswagen, is describing the car\u2026 [+1247 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michelle Fox",
+            "title": "Don't let panic drive your investment decisions. Here's how to get a grip on your emotions",
+            "description": "It's OK to panic; just don't act on it, says financial psychologist Brad Klonz. Here are his techniques to stop emotions from ruling your financial life.",
+            "url": "https://www.cnbc.com/2020/03/03/how-to-control-your-emotions-during-market-volatility.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106422422-1583255353738gettyimages-938890492.jpeg?v=1583255397",
+            "publishedAt": "2020-03-03T17:51:45Z",
+            "content": "Wild swings in the stock market may have you itching to make changes to your portfolio.\r\nYet any expert will tell you: You shouldn't let your emotions drive your investment decisions.\r\n\"That vacillation between excitement and panic that is what hurts people f\u2026 [+3829 chars]"
         },
         {
             "source": {

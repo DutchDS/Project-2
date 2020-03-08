@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sy Mukherjee",
+            "title": "The coronavirus testing conundrum",
+            "description": "Happy Wednesday, readers. I promised you a major coronavirus dispatch yesterday. Well, it went up last night. In the course of writing this story on the mess that is the coronavirus testing procedure (and what such tests might cost a patient), I reached out t\u2026",
+            "url": "https://fortune.com/2020/03/04/coronavirus-testing-cost-conundrum/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Coronavirus-testing-conundrum.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T15:07:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Coronavirus is mutating: Chinese scientists find second strain",
+            "description": "There are at least two forms of the COVID-19 coronavirus, say researchers.",
+            "url": "https://fortune.com/2020/03/04/coronavirus-mutating-second-strain-covid-19-wuhan-china/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/02/GettyImages-1198897229.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T17:00:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Claire Zillman, reporter",
+            "title": "Amazon\u2019s U.S. workforce has its first confirmed case of coronavirus",
+            "description": "The employee is based in Seattle, where there's a concentration of COVID-19 cases.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-amazon-seattle/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1202998751.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T02:45:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "reymashayekhi",
+            "title": "The Fed tries to calm heads\u2014but markets roil instead",
+            "description": "After reversing some of last week\u2019s coronavirus-induced declines on Monday, the global markets were much more tepid on Tuesday\u2014while the mood in New York was downright bearish.",
+            "url": "https://fortune.com/2020/03/03/bull-sheet-coronavirus-federal-reserve-interest-rates/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204950246-e1583280925526.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T01:46:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "When will PlayStation 5 and Xbox Series X debut? With coronavirus, it\u2019s anyone\u2019s guess",
+            "description": "Supply chain uncertainty could mean delays or shortages for Sony and Microsoft.",
+            "url": "https://fortune.com/2020/03/04/playstation-5-xbox-series-x-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/XboxSeriesXHERO.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T21:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "\u2018Collective psychosis:\u2019 As coronavirus fears grow, the world travel industry stares into the abyss",
+            "description": "At stake is the $1.7 trillion in revenue that international tourism generated in 2018, according to the UN World Tourism Organization.",
+            "url": "https://fortune.com/2020/03/04/coronavirus-fears-world-travel-industry/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204908499.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T10:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Grady McGregor",
+            "title": "China scoffed at being subject to early coronavirus travel restrictions. Now it\u2019s enacting its own",
+            "description": "The move indicates the virus's global spread and China's emergence as a safe haven.",
+            "url": "https://fortune.com/2020/03/04/china-coronavirus-travel-restrictions/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1198083606.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T09:49:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "eamonbarrett",
+            "title": "Will the coronavirus cancel or postpone the 2020 Olympics? Host city Tokyo sends mixed messages",
+            "description": "Tokyo had been resolute in carrying on, but now cracks are appearing in that narrative",
+            "url": "https://fortune.com/2020/03/04/tokyo-olympics-2020-cancelled/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1208765783.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T07:33:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "Once coronavirus fades, global businesses are set to face new danger: a wave of lawsuits",
+            "description": "Businesses are scrambling to see if their insurance policies cover disruptions caused by the virus. Governments are reviewing their quarantine powers.",
+            "url": "https://fortune.com/2020/03/04/coronavirus-global-businesses-wave-lawsuits/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1210304092.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T11:20:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "radmarya",
+            "title": "James Bond sequel \u2018No Time to Die\u2019 delayed until November due to coronavirus",
+            "description": "\u201cNo Time To Die\u201d will now hit theaters in the U.K. on Nov. 12 and worldwide on Nov. 25.",
+            "url": "https://fortune.com/2020/03/04/james-bond-no-time-to-die-release-delayed-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/ENT03.04NoTimetoDie.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T17:52:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ian Mount",
+            "title": "As coronavirus savages world\u2019s mega-fortunes, U.S. surges ahead as home to the fabulously rich",
+            "description": "During last week\u2019s coronavirus-fueled rout of equity markets, the combined fortunes of the world\u2019s 500 richest people dropped $444 billion over five tumultuous trading days.",
+            "url": "https://fortune.com/2020/03/04/coronavirus-world-mega-fortunes-us-home-rich/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1209906431.jpg?resize=1200,600",
+            "publishedAt": "2020-03-04T14:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jaclyn Gallucci",
+            "title": "Deal reached on bipartisan $8.3B bill to battle coronavirus",
+            "description": "Capitol Hill negotiators have reached agreement on an $8.3 billion measure to battle the coronavirus outbreak that's spreading and threatening a major shock to the economy and disruptions to everyday life in the U.S.",
+            "url": "https://fortune.com/2020/03/04/coronavirus-bill-outbreak-deal-us-bipartisan/",
+            "urlToImage": null,
+            "publishedAt": "2020-03-04T18:56:32Z",
+            "content": null
+        }
+    ]
+}

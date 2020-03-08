@@ -1,0 +1,344 @@
+{
+    "status": "ok",
+    "totalResults": 26,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Coronavirus divides one family while driving another closer together",
+            "description": "\"Of course, it makes sense to the brain,\" Dr. Alfred Wong told NBC News. \"But doesn't make sense to the heart.\"",
+            "url": "https://www.nbcnews.com/news/world/coronavirus-divides-one-family-while-driving-another-closer-together-n1150696",
+            "urlToImage": "https://static.euronews.com/articles/4554054/1000x563_nbc-200306-coronavirus-family-mc-1238_86601de2b9702b92e782e1a74c98ec1a.jpg",
+            "publishedAt": "2020-03-08T08:46:02Z",
+            "content": "HONG KONG \u2014 Sitting 10 feet apart on a bench in Hong Kong's Tuen Mum Park, Dr. Alfred Wong and his pregnant wife briefly remove their protective masks before tucking into their take-out dinners and talking about their days.It is a brief respite and return to \u2026 [+4549 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dahlia Schweitzer",
+            "title": "How analyzing Hollywood outbreak narratives can help us with the coronavirus crisis",
+            "description": "Taking a look at these fictional narratives before and even during an outbreak can help us see what to do and, more important, what not to do in real life.",
+            "url": "https://www.nbcnews.com/think/opinion/coronavirus-isn-t-contagion-or-world-war-z-analyzing-outbreak-ncna1148486",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3254021/200303-contagion-marion-cotillard-se-441p_ff1ba25cbf7dd0d5723752a99bf65100.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T15:43:47Z",
+            "content": "In 2015, the pilot of SyFys fictional outbreak show 12 Monkeys, in which 98 percent of the worlds population is killed by the fictional Kalavirus, notes: Its never been about if. Its always been when.\r\nIn February, Dr. Nancy Messonnier, the head of the Nation\u2026 [+8595 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Kamisar",
+            "title": "Fauci: Those 'vulnerable' to coronavirus should limit travel and crowd exposure",
+            "description": "Dr. Anthony Fauci, one of the government's top health experts, says those at highest risk from the virus should \"not wait until things get worse.\"",
+            "url": "https://www.nbcnews.com/politics/meet-the-press/fauci-those-vulnerable-coronavirus-should-limit-travel-crowd-exposure-n1152501",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3260591/200308-anthony-fauci-mtp-cs-929a_67ff785736fac5adca8ba2bc511a221d.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T14:19:00Z",
+            "content": "WASHINGTON Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, recommended Sunday that elderly and vulnerable Americans limit their exposure to travel and large crowds as the world fights the coronavirus outbreak.\r\nDuring\u2026 [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Nightly News Full Broadcast (March 7th)",
+            "description": "The latest on the coronavirus outbreak as 3,500 passengers on a quarantined cruise ship are still stranded at sea, Bernie Sanders and Joe Biden set for a Michigan showdown, and Harry and Meghan are in London for final royal events.",
+            "url": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-march-7th-80252485793",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_netcast_brk_200307.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T01:22:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "D.C. Mayor: First coronavirus case has 'no history of international travel'",
+            "description": "Washington D.C. Mayor Muriel Bowser discusses the details behind the first COVID-19 coronavirus case in the nation's capital.",
+            "url": "https://www.nbcnews.com/video/washington-d-c-mayor-details-first-covid-19-coronavirus-case-in-nation-s-capital-80253509789",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/Virus_Outbreak_Washington_15206.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T02:21:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Hogan: 'It's not a time to play politics'",
+            "description": "Gov. Larry Hogan (R-Md.) tells Chuck Todd that he doesn't think it's appropriate for the president to attack a Democratic governor when dealing with coronavirus response.",
+            "url": "https://www.nbcnews.com/meet-the-press/video/hogan-it-s-not-a-time-to-play-politics-80268357814",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_clip_hoganpolitics_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T14:49:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Full Panel: COVID-19 spreads to over half of U.S. states",
+            "description": "Matt Bai, Helene Cooper, Hallie Jackson and Al Cardenas join the Meet the Press round table to discuss the government's response to the spike in coronavirus infections.",
+            "url": "https://www.nbcnews.com/meet-the-press/video/full-panel-covid-19-spreads-to-over-half-of-u-s-states-80267333528",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_full_panel_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T13:45:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Full Fauci: For coronavirus and crowds, 'if you're a vulnerable person, take it seriously'",
+            "description": "Dr. Anthony Fauci, Director, National Institute of Allergy and Infectious Diseases, joins Meet the Press to talk about the government's response to the spread of a novel coronavirus.",
+            "url": "https://www.nbcnews.com/meet-the-press/video/full-fauci-for-coronavirus-and-crowds-if-you-re-a-vulnerable-person-take-it-seriously-80264261716",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_full_fauci_200308.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T12:26:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Dr. Fauci: 'There were some missteps' in early coronavirus testing",
+            "description": "Dr. Anthony Fauci, Director, National Institute of Allergy and Infectious Diseases, tells Chuck Todd that the government response to COVID-19 have ramped up after initial mistakes.",
+            "url": "https://www.nbcnews.com/meet-the-press/video/dr-fauci-there-were-some-missteps-in-early-coronavirus-testing-80265797969",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_clip_faucicruies_200308.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T14:02:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Coronavirus fears drive away crowds, push markets down",
+            "description": "If the COVID-19 disease isn't yet a pandemic, the economic fall out is.",
+            "url": "https://www.nbcnews.com/meet-the-press/video/coronavirus-fears-drive-away-crowds-push-markets-down-80265285706",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_clip_a2_200308__877654.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T13:15:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "\"Saturday Night Live\" shows Sen. Warren 'doing just fine' after ending campaign",
+            "description": "\"Saturday Night Live\" opens with Fox News' \"The Ingraham Angle,\" and tackles the coronavirus. Sen. Elizabeth Warren, who appears as herself, talks about her life after dropping out of the 2020 presidential race.",
+            "url": "https://www.nbcnews.com/video/-snl-shows-elizabeth-warren-bounce-back-after-ending-presidential-campaign-80267845667",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/warren_mckinnon.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T14:05:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "MTP Compressed: Fears grow as coronavirus spreads to over half of U.S. states",
+            "description": "Dr. Anthony Fauci, Director of the National Institute of Allergy and Infectious Diseases, and Gov. Larry Hogan (R-Md.) joined Meet the Press to discuss the spread of coronavirus and the Trump administration\u2019s response. Plus, Sen. Bernie Sanders (I-Vt.) discus\u2026",
+            "url": "https://www.nbcnews.com/meet-the-press/video/mtp-compressed-fears-grow-as-coronavirus-spreads-to-over-half-of-u-s-states-80269381702",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_clip_compressed_200308.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T15:07:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Testing flaws and capacity issues slow U.S. response to coronavirus spread",
+            "description": "Landmarks are deserted around the world, from Mecca to Iran's holiest sites, from Milan - to Tokyo's Disneyland.",
+            "url": "https://www.nbcnews.com/meet-the-press/video/testing-flaws-and-capacity-issues-slow-u-s-response-to-coronavirus-spread-80262213905",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_clip_spotx_200308.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T12:16:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "Full Hogan: 'This thing is escalating so rapidly' as coronavirus spreads",
+            "description": "Maryland Gov. Larry Hogan (R) tells Chuck Todd that his state is working with both Republicans and Democrats to mobilize the state's response, during an exclusive interview with Meet the Press.",
+            "url": "https://www.nbcnews.com/meet-the-press/video/full-hogan-this-thing-is-escalating-so-rapidly-as-coronavirus-spreads-80265285947",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_full_hogan_200304.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T13:30:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBCNews.com",
+            "title": "March 8 - Dr. Fauci, Gov. Hogan and Sen. Sanders",
+            "description": "Dr. Anthony Fauci, head of the National Institute of Allergy and Infectious Diseases, joins Meet the Press to provide coronavirus updates. Governor Larry Hogan (R-Md.) shares his response to the virus spreading in Maryland and the importance of not politicizi\u2026",
+            "url": "https://www.nbcnews.com/meet-the-press/video/march-8-dr-fauci-gov-hogan-and-sen-sanders-80272453633",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/mtp_netcast_200308.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T16:04:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dennis Romero",
+            "title": "Elizabeth Warren rebounds on 'SNL' after dropping bid for president",
+            "description": "Sen. Elizabeth Warren, who this week suspended her campaign for the Democratic presidential nomination, rebounded on \"Saturday Night Live.\"",
+            "url": "https://www.nbcnews.com/pop-culture/tv/elizabeth-warren-rebounds-snl-after-dropping-bid-president-n1152361",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_10/3260126/200307-snl-daniel-craig-the-weeknd-al-1121_5a0046f1c81d05a38476cd8f061c92b8.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T06:39:25Z",
+            "content": "U.S. Sen. Elizabeth Warren helped open \"Saturday Night Live,\" just days after ending her campaign for the Democratic presidential nomination by making a cameo appearance as herself.\r\nShe played a guest in the opening sketch, in which the host of Fox News' \"Th\u2026 [+3621 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani",
+            "title": "Uber and Lyft promise to compensate drivers diagnosed with coronavirus",
+            "description": "Uber announced that it will support drivers with confirmed cases of coronavirus, the company said Sunday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416/ncrd1152581",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T16:26:48Z",
+            "content": "Uber announced that it will support drivers with confirmed cases of coronavirus, the company said\u00a0 Sunday.\r\nThe ride hail giant said it would support its contracted drivers who were diagnosed with COVID-19, the disease associated with coronavirus, or those fo\u2026 [+6766 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani",
+            "title": "Another 16 confirmed coronavirus cases in New York",
+            "description": "There are 16 new confirmed coronavirus cases in New York, according to Gov. Andrew Cuomo Sunday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416/ncrd1152566",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T15:35:00Z",
+            "content": "There are 16 new confirmed coronavirus cases in New York, Gov. Andrew Cuomo announced on Sunday, bringing the total in the state to 105.\r\nUPDATE: There are 16 additional confirmed cases of #Coronavirus in NYS, bringing total to 105.\r\nWestchester: 82NYC: 12Nas\u2026 [+6717 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": null,
+            "title": "Connecticut confirms first presumptive coronavirus case",
+            "description": "Gov. Ned Lamont announced the first case of presumptive positive coronavirus in the state of Connecticut.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416/ncrd1152611",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T18:57:36Z",
+            "content": "Gov. Ned Lamont on Sunday announced the first case of presumptive positive coronavirus in the state of Connecticut.\u00a0\r\nThe person most likely became infected the virus that causes #COVID19 during a trip to California and sought medical care shortly after retur\u2026 [+7946 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani",
+            "title": "Smokers and vapers more at risk to coronavirus, New York City mayor warns",
+            "description": "Smoking and using electronic cigarettes makes people more vulnerable to coronavirus, New York City officials warned Sunday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416/ncrd1152621",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T20:01:53Z",
+            "content": "Smoking and using electronic cigarettes makes people more vulnerable to coronavirus, New York City officials warned Sunday.\u00a0\r\nAlthough a history of smoking is not considered one of the preexisting conditions that define those who are most vulnerable to the vi\u2026 [+8206 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani, Reuters",
+            "title": "Italy reports another 133 deaths, death toll jumps to 366",
+            "description": "Italy's coronavirus death toll rose to 366 on Sunday after authorities reported another 133 deaths, the largest daily rise in fatalities since the outbreak began.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416/ncrd1152596",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T18:20:00Z",
+            "content": "People carry supplies while waiting to enter the formerly quarantined town of Casalpusterlengo in the Lombardy region of Italy on March 8, 2020.Claudio Furlan / LaPresse via AP\r\nItaly's coronavirus death toll rose to 366 on Sunday after authorities announced \u2026 [+7946 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Alicia Victoria Lozano, The Associated Press",
+            "title": "Venice, Milan on lockdown as Italy announces sweeping quarantine",
+            "description": "Italy on Sunday closed off the entire Lombardy region in the north, including Milan, and more than a dozen other provinces in an effort to stem coronavirus.",
+            "url": "https://www.nbcnews.com/news/world/venice-milan-lockdown-italy-announces-sweeping-quarantine-n1152321",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3260251/200307-milan-al-1551_b18a191f976733272fa79572fa618d39.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T04:10:51Z",
+            "content": "The Italian government on Sunday took the most drastic measures yet to try and stop the rapid spread of the new coronavirus, closing off the entire Lombardy region in the north, including Milan, and more than a dozen other provinces.\r\nThe announcement came af\u2026 [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Coronavirus updates live: 1st case confirmed in Washington D.C. as U.S. death toll hits 19",
+            "description": "The first coronavirus case has been confirmed in Washington D.C. as the U.S. death toll hit 19 and huge swathes of Italy are locked down to prevent its spread.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T08:25:00Z",
+            "content": "WHO explains differences between novel coronavirus and influenza\r\nInfluenza vs #COVID19:\r\nInfluenza: Children are important drivers of influenza virus transmission in the community\r\nCOVID-19: Initial data indicates that children are less affected than adults \u2026 [+5826 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani",
+            "title": "Passengers from Grand Princess cruise ship to be quarantined in California, Texas and Georgia",
+            "description": "Grand Princess cruise passengers who have been held off the coast of California will be divided between three states for quarantine, the U.S. Department of Health and Human Services said Sunday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416/ncrd1152591",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T17:41:47Z",
+            "content": "The Grand Princess cruise ship carrying passengers who have tested positive for coronavirus off the coast of San Francisco, Calif., on March 7, 2020.Stephen Lam / Reuters\r\nGrand Princess cruise passengers from the U.S. who have been held off the coast of Cali\u2026 [+7223 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Ben Kamisar",
+            "title": "Top U.S. coronavirus official: 'Above all, don't get on a cruise ship'",
+            "description": "Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, recommended Sunday that elderly and vulnerable Americans limit their exposure to travel and large crowds.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-1st-case-confirmed-washington-d-c-u-n1152416/ncrd1152516",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3257296/200305-china-coronavirus-mc-1506_9e40e4e88e1b8a2ed94c1da773f33b62.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-08T14:37:00Z",
+            "content": "WASHINGTON Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, recommended Sunday that elderly and vulnerable Americans limit their exposure to travel and large crowds as the world fights the coronavirus outbreak.\r\nDuring\u2026 [+7010 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Michele Novaga",
+            "title": "Abandoning cafes for long supermarket lines, Milan enters coronavirus lockdown",
+            "description": "Locked down by the Italian government in a bid to contain the coronavirus outbreak, Milan's residents have abandoned their cafes, to stock up at stores.",
+            "url": "https://www.nbcnews.com/news/world/abandoning-cafes-long-supermarket-lines-milan-enters-coronavirus-lockdown-n1152576",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3260811/200308-milan-duomo-coronavirus-cs-1143a_979be82f21c2122e3b32eb1035d61592.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T16:02:30Z",
+            "content": "MILAN An eerie silence could be heard in Milan Sunday as the city woke up to the news that it had been locked down by the Italian government in a bid to contain the coronavirus outbreak.\r\nJust a few cars ran down the empty streets and a small number of people\u2026 [+3173 chars]"
+        }
+    ]
+}

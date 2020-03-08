@@ -1,19 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 98,
+    "totalResults": 99,
     "articles": [
         {
             "source": {
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Brett Samuels",
-            "title": "Trump backs off suggestion to close southern border over coronavirus",
-            "description": "President Trump on Tuesday said the administration is no longer seriously considering closing the southern border due to the spread of coronavirus, three days after he said the idea was being weighed \"very strongly.\"...",
-            "url": "https://thehill.com/homenews/administration/485767-trump-backs-off-suggestion-to-close-southern-border-over-coronavirus",
-            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_02262020getty.jpg",
-            "publishedAt": "2020-03-03T21:19:07Z",
-            "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE on Tuesday said the administration is no longer seriously considering closing the \u2026 [+1243 chars]"
+            "author": "Justine Coleman",
+            "title": "Buttigieg surrogate: Most people want middle of the road | TheHill - The Hill",
+            "description": "Buttigieg surrogate: Most people want middle of the road | TheHill The Hill Joe Biden wins Alabama primary in Super Tuesday primary: Fox News Fox News 'You know, the thing': Biden botches Declaration of Independence quote during campaign stop Washington Exami\u2026",
+            "url": "https://thehill.com/hilltv/rising/485725-buttigieg-surrogate-most-people-want-middle-of-the-road",
+            "urlToImage": "https://thehill.com/sites/default/files/buttigiegpete_022820gn14_lead.jpg",
+            "publishedAt": "2020-03-03T19:42:47Z",
+            "content": "A surrogate for former presidential candidate Pete ButtigiegPeter (Pete) Paul ButtigiegSanders poised for big Super Tuesday5 things to watch on Super Tuesday5 states to watch on Super TuesdayMORE\u00a0on Tuesday said that most people want the middle of the road in\u2026 [+2127 chars]"
         },
         {
             "source": {
@@ -27,6 +27,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_03032020getty.jpg",
             "publishedAt": "2020-03-03T18:56:19Z",
             "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE has donated his\u00a0quarterly salary to the Department of Health and Human Services (H\u2026 [+1882 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Brett Samuels",
+            "title": "Trump backs off suggestion to close southern border over coronavirus",
+            "description": "President Trump on Tuesday said the administration is no longer seriously considering closing the southern border due to the spread of coronavirus, three days after he said the idea was being weighed \"very strongly.\"...",
+            "url": "https://thehill.com/homenews/administration/485767-trump-backs-off-suggestion-to-close-southern-border-over-coronavirus",
+            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_02262020getty.jpg",
+            "publishedAt": "2020-03-03T21:19:07Z",
+            "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE on Tuesday said the administration is no longer seriously considering closing the \u2026 [+1243 chars]"
         },
         {
             "source": {
@@ -59,19 +72,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Naomi Jagoda",
-            "title": "Trump urges House Democrats to propose payroll tax cut",
-            "description": "President Trump is calling for House Democrats to propose a one-year payroll tax cut, as he looks to mitigate the impact of the coronavirus on the U.S. economy.\"The Democrats in the House should propose a very simp...",
-            "url": "https://thehill.com/policy/finance/485632-trump-urges-house-democrats-to-propose-payroll-tax-cut",
-            "urlToImage": "https://thehill.com/sites/default/files/trump2_030220getty.jpg",
-            "publishedAt": "2020-03-03T12:55:08Z",
-            "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE\u00a0is calling for House Democrats to propose a one-year payroll tax cut, as\u00a0he looks \u2026 [+1348 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Alicia Cohn",
             "title": "Emerald City Comic Con will take place in Seattle amid coronavirus fears",
             "description": "The Emerald City Comic Con, an annual Seattle event that attracted nearly 100,000 people last year, is set to take place next week even as multiple other conferences are cancelled amid the coronavirus outbreak in Washingt...",
@@ -79,6 +79,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/seattle.skyline.jpg",
             "publishedAt": "2020-03-03T15:48:07Z",
             "content": "The Emerald City Comic Con (ECCC), an annual Seattle event that attracted nearly 100,000 people last year, is set to take place next week even as multiple\u00a0conferences\u00a0are cancelled amid the coronavirus outbreak in Washington state.\r\nThe convention will take p\u2026 [+1322 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Naomi Jagoda",
+            "title": "Trump urges House Democrats to propose payroll tax cut",
+            "description": "President Trump is calling for House Democrats to propose a one-year payroll tax cut, as he looks to mitigate the impact of the coronavirus on the U.S. economy.\"The Democrats in the House should propose a very simp...",
+            "url": "https://thehill.com/policy/finance/485632-trump-urges-house-democrats-to-propose-payroll-tax-cut",
+            "urlToImage": "https://thehill.com/sites/default/files/trump2_030220getty.jpg",
+            "publishedAt": "2020-03-03T12:55:08Z",
+            "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE\u00a0is calling for House Democrats to propose a one-year payroll tax cut, as\u00a0he looks \u2026 [+1348 chars]"
         },
         {
             "source": {
@@ -111,19 +124,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Juliegrace Brufke",
-            "title": "McCarthy blasts Democrats' campaign arm for ads against Republicans on coronavirus response",
-            "description": "House Minority Leader Kevin McCarthy (R-Calif.) on Tuesday blasted the Democratic Congressional Campaign Committee (DCCC) for running ads against Republican House members over the Trump administration's response to the co...",
-            "url": "https://thehill.com/homenews/house/485681-mccarthy-blasts-democrats-campaign-arm-for-ads-against-republicans-on",
-            "urlToImage": "https://thehill.com/sites/default/files/mccarthykevin_010920gn_lead.jpg",
-            "publishedAt": "2020-03-03T16:40:00Z",
-            "content": "House Minority Leader Kevin McCarthyKevin Owen McCarthyCongress scrambles to finalize coronavirus funding, surveillance dealsPelosi invites leaders to briefing on preventing coronavirus spread in CapitolThis week: House eyes vote on emergency coronavirus fund\u2026 [+3060 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "John Bowden",
             "title": "Two test positive for coronavirus in Georgia",
             "description": "Two people have tested positive in Georgia for a novel form of coronavirus behind a global outbreak, the state's Department of Health said Monday.At a press conference first reported by the...",
@@ -131,6 +131,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/ca_coronasars_020420getty.jpg",
             "publishedAt": "2020-03-03T03:47:45Z",
             "content": "Two people have tested positive in Georgia for a novel form of coronavirus behind a global outbreak, the state's Department of Health said Monday.\r\nAt a press conference first reported by the Atlanta Journal-Constitution, Gov. Brian Kemp (R) and state officia\u2026 [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Juliegrace Brufke",
+            "title": "McCarthy blasts Democrats' campaign arm for ads against Republicans on coronavirus response",
+            "description": "House Minority Leader Kevin McCarthy (R-Calif.) on Tuesday blasted the Democratic Congressional Campaign Committee (DCCC) for running ads against Republican House members over the Trump administration's response to the co...",
+            "url": "https://thehill.com/homenews/house/485681-mccarthy-blasts-democrats-campaign-arm-for-ads-against-republicans-on",
+            "urlToImage": "https://thehill.com/sites/default/files/mccarthykevin_010920gn_lead.jpg",
+            "publishedAt": "2020-03-03T16:40:00Z",
+            "content": "House Minority Leader Kevin McCarthyKevin Owen McCarthyCongress scrambles to finalize coronavirus funding, surveillance dealsPelosi invites leaders to briefing on preventing coronavirus spread in CapitolThis week: House eyes vote on emergency coronavirus fund\u2026 [+3060 chars]"
         },
         {
             "source": {
@@ -150,19 +163,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Morgan Chalfant",
-            "title": "Trump defends coronavirus response, warns Democrats against 'political attacks'",
-            "description": "President Trump defended his administration's response to the coronavirus during a campaign rally on Monday and accused Democrats of trying to politicize the issue.\"Washington Democrats are trying to politicize the...",
-            "url": "https://thehill.com/homenews/administration/485621-trump-defends-coronavirus-response-warns-dems-against-political",
-            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_03022020getty.jpg",
-            "publishedAt": "2020-03-03T02:28:45Z",
-            "content": "President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE defended his administrations response to the coronavirus du\u2026 [+2837 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Peter Sullivan",
             "title": "Senators press Pence over coronavirus response in private briefing",
             "description": "Senators on Tuesday pressed Vice President Pence in a closed-door meeting over the administration's response to coronavirus, particularly expressing concerns with a lack of testing.Democratic senators, in particula...",
@@ -170,6 +170,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/pencemike_030320gn_lead.jpg",
             "publishedAt": "2020-03-03T20:54:50Z",
             "content": "Senators on Tuesday pressed Vice President Pence in a closed-door meeting over the administrations response to coronavirus, particularly expressing concerns with a lack of testing.\r\nDemocratic senators, in particular, asked sharp questions of Pence and admini\u2026 [+5607 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Morgan Chalfant",
+            "title": "Trump defends coronavirus response, warns Democrats against 'political attacks'",
+            "description": "President Trump defended his administration's response to the coronavirus during a campaign rally on Monday and accused Democrats of trying to politicize the issue.\"Washington Democrats are trying to politicize the...",
+            "url": "https://thehill.com/homenews/administration/485621-trump-defends-coronavirus-response-warns-dems-against-political",
+            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_03022020getty.jpg",
+            "publishedAt": "2020-03-03T02:28:45Z",
+            "content": "President TrumpDonald John TrumpThis week: House eyes vote on emergency coronavirus funding Democratic candidates gear up for a dramatic Super TuesdayJudd Gregg: Trump and Pelosi Who's crazy now?MORE defended his administrations response to the coronavirus du\u2026 [+2837 chars]"
         },
         {
             "source": {
@@ -384,6 +397,19 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
+            "author": "Joseph Guzman",
+            "title": "WHO: Coronavirus more deadly than flu but can be contained",
+            "description": "The World Health Organization (WHO) director-general said about 3.4 percent of confirmed cases of COVID-19 have died.",
+            "url": "https://thehill.com/changing-america/well-being/prevention-cures/485770-who-coronavirus-more-deadly-than-flu-but-can-be",
+            "urlToImage": "https://thehill.com/sites/default/files/ca_coronavirusoutsidechina_022720getty_0.jpg",
+            "publishedAt": "2020-03-03T21:25:07Z",
+            "content": "World Health Organization (WHO) officials said Tuesday that the novel coronavirus is more deadly than the flu, but is containable.\u00a0\r\nWHO Director-General Tedros Adhanom Ghebreyesus said during a news conference Tuesday that about 3.4 percent of confirmed COVI\u2026 [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
             "author": "Marty Johnson",
             "title": "Trump: Biden 'doesn't know where he is, or what he's doing'",
             "description": "President Trump highlighted former Vice President Joe Biden's gaffes late Monday, saying the Democratic presidential candidate doesn't know \"what office he's running for.\"\"...",
@@ -430,19 +456,6 @@
             "urlToImage": "https://thehill.com/sites/default/files/spicersean_072818getty.jpg",
             "publishedAt": "2020-03-03T14:42:12Z",
             "content": "Sean SpicerSean Michael SpicerRepublicans give 2024 tryouts at CPACHillicon Valley Presented by Facebook FCC fines mobile carriers 0M for selling user data | Twitter verified fake 2020 candidate | Dems press DHS to complete election security report | Reddit c\u2026 [+1596 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Joseph Guzman",
-            "title": "WHO: Coronavirus more deadly than flu but can be contained",
-            "description": "The World Health Organization (WHO) director-general said about 3.4 percent of confirmed cases of COVID-19 have died.",
-            "url": "https://thehill.com/changing-america/well-being/prevention-cures/485770-who-coronavirus-more-deadly-than-flu-but-can-be",
-            "urlToImage": "https://thehill.com/sites/default/files/ca_coronavirusoutsidechina_022720getty_0.jpg",
-            "publishedAt": "2020-03-03T21:25:07Z",
-            "content": "World Health Organization (WHO) officials said Tuesday that the novel coronavirus is more deadly than the flu, but is containable.\u00a0\r\nWHO Director-General Tedros Adhanom Ghebreyesus said during a news conference Tuesday that about 3.4 percent of confirmed COVI\u2026 [+1837 chars]"
         },
         {
             "source": {
@@ -774,6 +787,19 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
+            "author": "Naomi Jagoda and Sylvan Lane",
+            "title": "Mnuchin: Trump to prioritize infrastructure in any coronavirus stimulus package",
+            "description": "Treasury Secretary Steven Mnuchin said Tuesday that infrastructure spending would be a \"priority\" for President Trump if the economy requires stimulus to power through a slowdown caused by a coronavirus outbreak.",
+            "url": "https://thehill.com/policy/finance/485659-mnuchin-trump-to-prioritize-infrastructure-in-any-coronavirus-stimulus-package",
+            "urlToImage": "https://thehill.com/sites/default/files/mnuchinsteven_120519gn7_lead.jpg",
+            "publishedAt": "2020-03-03T15:19:19Z",
+            "content": "Treasury Secretary Steven MnuchinSteven Terner MnuchinHillicon Valley: Facebook takes down foreign influence campaigns | Senior Trump officials warn of foreign interference on Super Tuesday | Apple offers 0M settlement for slowing older iPhones | Treasury san\u2026 [+3492 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
             "author": "Justine Coleman",
             "title": "Iran calls on military to help fight coronavirus",
             "description": "Iran is calling on its military to help with efforts to mitigate the coronavirus as it spreads rapidly across the country.Ayatollah Ali Khameniei gave the go-ahead to mobilize 300,000 soldiers an...",
@@ -781,19 +807,6 @@
             "urlToImage": "https://thehill.com/sites/default/files/coronavirus_airport_022420getty.jpg",
             "publishedAt": "2020-03-03T16:42:11Z",
             "content": "Iran is calling on its military to help with efforts to mitigate the\u00a0coronavirus as it spreads rapidly across the country.\r\nAyatollah Ali Khameniei\u00a0gave the go-ahead to mobilize 300,000 soldiers and volunteers to combat the virus,\u00a0The Associated Press reporte\u2026 [+1866 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Jessie Hellmann",
-            "title": "Senators hit Trump health officials over coronavirus testing delays",
-            "description": "Senators on both sides of the aisle expressed frustration Tuesday with Trump administration officials over coronavirus testing delays, arguing that many more unknown cases could be circulating in the U.S.Faulty tes...",
-            "url": "https://thehill.com/policy/healthcare/public-global-health/485746-senators-hit-trump-health-officials-over-coronavirus",
-            "urlToImage": "https://thehill.com/sites/default/files/coronavirushearingmurrayalexander_030320gn.jpg",
-            "publishedAt": "2020-03-03T20:30:26Z",
-            "content": "Senators on both sides of the aisle expressed frustration Tuesday with Trump administration officials over coronavirus testing delays, arguing that many more unknown cases could be circulating in the U.S.\r\nFaulty tests developed by the Centers for Disease Con\u2026 [+4781 chars]"
         },
         {
             "source": {
@@ -813,13 +826,26 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Naomi Jagoda and Sylvan Lane",
-            "title": "Mnuchin: Trump to prioritize infrastructure in any coronavirus stimulus package",
-            "description": "Treasury Secretary Steven Mnuchin said Tuesday that infrastructure spending would be a \"priority\" for President Trump if the economy requires stimulus to power through a slowdown caused by a coronavirus outbreak.",
-            "url": "https://thehill.com/policy/finance/485659-mnuchin-trump-to-prioritize-infrastructure-in-any-coronavirus-stimulus-package",
-            "urlToImage": "https://thehill.com/sites/default/files/mnuchinsteven_120519gn7_lead.jpg",
-            "publishedAt": "2020-03-03T15:19:19Z",
-            "content": "Treasury Secretary Steven MnuchinSteven Terner MnuchinHillicon Valley: Facebook takes down foreign influence campaigns | Senior Trump officials warn of foreign interference on Super Tuesday | Apple offers 0M settlement for slowing older iPhones | Treasury san\u2026 [+3492 chars]"
+            "author": "Jessie Hellmann",
+            "title": "Senators hit Trump health officials over coronavirus testing delays",
+            "description": "Senators on both sides of the aisle expressed frustration Tuesday with Trump administration officials over coronavirus testing delays, arguing that many more unknown cases could be circulating in the U.S.Faulty tes...",
+            "url": "https://thehill.com/policy/healthcare/public-global-health/485746-senators-hit-trump-health-officials-over-coronavirus",
+            "urlToImage": "https://thehill.com/sites/default/files/coronavirushearingmurrayalexander_030320gn.jpg",
+            "publishedAt": "2020-03-03T20:30:26Z",
+            "content": "Senators on both sides of the aisle expressed frustration Tuesday with Trump administration officials over coronavirus testing delays, arguing that many more unknown cases could be circulating in the U.S.\r\nFaulty tests developed by the Centers for Disease Con\u2026 [+4781 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Brett Samuels",
+            "title": "Trump: 'We're not looking at' restricting domestic travel over coronavirus",
+            "description": "President Trump said Tuesday he's not considering restricting travel within the U.S. due to the coronavirus.\"We're not looking at that at all, no,\" Trump told reporters as he departed the White House to visit the N...",
+            "url": "https://thehill.com/homenews/administration/485732-trump-were-not-looking-at-restricting-domestic-travel-over",
+            "urlToImage": "https://thehill.com/sites/default/files/trumpdonaldtwo_03032020getty.jpg",
+            "publishedAt": "2020-03-03T19:45:25Z",
+            "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE said Tuesday he's not considering restricting travel within the U.S. due to the co\u2026 [+1633 chars]"
         },
         {
             "source": {
@@ -839,13 +865,65 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Brett Samuels",
-            "title": "Trump: 'We're not looking at' restricting domestic travel over coronavirus",
-            "description": "President Trump said Tuesday he's not considering restricting travel within the U.S. due to the coronavirus.\"We're not looking at that at all, no,\" Trump told reporters as he departed the White House to visit the N...",
-            "url": "https://thehill.com/homenews/administration/485732-trump-were-not-looking-at-restricting-domestic-travel-over",
-            "urlToImage": "https://thehill.com/sites/default/files/trumpdonaldtwo_03032020getty.jpg",
-            "publishedAt": "2020-03-03T19:45:25Z",
-            "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE said Tuesday he's not considering restricting travel within the U.S. due to the co\u2026 [+1633 chars]"
+            "author": "Ellen Mitchell",
+            "title": "Pentagon chief warned overseas commanders not to surprise White House on coronavirus measures: report",
+            "description": "Defense Secretary Mark Esper asked overseas military commanders to not to make any coronavirus-related decisions that could surprise the White House or contradict President Trump's statements on the illness,...",
+            "url": "https://thehill.com/policy/defense/485682-pentagon-chief-warned-overseas-commanders-not-to-surprise-white-house-on",
+            "urlToImage": "https://thehill.com/sites/default/files/espermark_122019getty_lead.jpg",
+            "publishedAt": "2020-03-03T16:44:52Z",
+            "content": "Defense Secretary Mark EsperMark EsperTrump officially sends Senate his Navy secretary nominationHillicon Valley: Facebook takes down foreign influence campaigns | Senior Trump officials warn of foreign interference on Super Tuesday | Apple offers 0M settleme\u2026 [+3542 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Peter Sullivan, Nathaniel Weixel and Jessie Hellmann",
+            "title": "Overnight Health Care: Supreme Court to hear ObamaCare appeal | Washington state confirms 4 more coronavirus deaths | FDA expects 1M coronavirus tests by week's end | White House expands virus task force",
+            "description": "Welcome to Monday's Overnight Health Care.The number of coronavirus patients in the U.S. continues to climb, with more deaths being reported. Meanwhile, Congress is getting closer to unveiling a supplemental fundin...",
+            "url": "https://thehill.com/policy/healthcare/overnights/485595-overnight-health-care-obamacare-headed-to-supreme-court-fda-expects-1",
+            "urlToImage": "https://thehill.com/sites/default/files/scotus_supremecourt_012219gn2.jpg",
+            "publishedAt": "2020-03-03T01:14:56Z",
+            "content": "Welcome to Monday's Overnight Health Care.\r\nThe number of coronavirus patients in the U.S. continues to climb, with more deaths being reported. Meanwhile, Congress is getting closer to unveiling a supplemental funding bill for virus relief efforts. And, the S\u2026 [+7363 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jordain Carney",
+            "title": "Congress closes in on deal for $7.5 billion in coronavirus funding",
+            "description": "Lawmakers are closing in on a deal to provide more than $7 billion in funding to combat the coronavirus, setting up Congress to pass the bill as soon as this week.Negotiators and aides say they are on the precipice...",
+            "url": "https://thehill.com/policy/healthcare/485615-congress-closes-in-on-deal-for-75-billion-in-coronavirus-funding",
+            "urlToImage": "https://thehill.com/sites/default/files/shelbyrichard_012720bc_lead.jpg",
+            "publishedAt": "2020-03-03T01:35:41Z",
+            "content": "The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax\r\nThe contents of this site are \u00a92020 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc."
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Marty Johnson",
+            "title": "NY subway trains to be sanitized every 72 hours to prevent coronavirus spreading",
+            "description": "The Metropolitan Transit Authority (MTA) said Tuesday that it would start conducting deep cleans of New York City's subway trains and busses every three days in order to keep the coronavirus from spreading in the city....",
+            "url": "https://thehill.com/policy/healthcare/public-global-health/485727-ny-subway-trains-to-be-sanitized-every-72-hours-to",
+            "urlToImage": "https://thehill.com/sites/default/files/nycsubway_120512getty.jpg",
+            "publishedAt": "2020-03-03T19:35:11Z",
+            "content": "The Metropolitan Transit Authority\u00a0(MTA) said Tuesday that it would start conducting deep cleans of\u00a0New York City's\u00a0subway\u00a0trains and busses every three days in order to keep the coronavirus from spreading in the city.\u00a0\r\nTransport Workers Union president Tony\u2026 [+1241 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Sylvan Lane",
+            "title": "Fed rate cut fails to halt plunging stocks",
+            "description": "Stocks took heavy losses Tuesday after the Federal Reserve took emergency action to cut interest rates and boost the economy through a potential coronavirus slowdown.The Dow Jones Industrial Aver...",
+            "url": "https://thehill.com/policy/finance/485777-fed-rate-cut-fails-to-halt-plunging-stocks",
+            "urlToImage": "https://thehill.com/sites/default/files/wallstreet_013118getty_lead.jpg",
+            "publishedAt": "2020-03-03T21:45:12Z",
+            "content": "Stocks took heavy losses Tuesday after the Federal Reserve took emergency action to cut interest rates and boost the economy through a potential coronavirus slowdown.\r\nThe Dow Jones Industrial Average plunged 786 points, a 2.9 percent loss, while the S&amp;P \u2026 [+2190 chars]"
         },
         {
             "source": {
@@ -879,64 +957,12 @@
                 "name": "The Hill"
             },
             "author": "Sylvan Lane",
-            "title": "Fed rate cut fails to halt plunging stocks",
-            "description": "Stocks took heavy losses Tuesday after the Federal Reserve took emergency action to cut interest rates and boost the economy through a potential coronavirus slowdown.The Dow Jones Industrial Aver...",
-            "url": "https://thehill.com/policy/finance/485777-fed-rate-cut-fails-to-halt-plunging-stocks",
-            "urlToImage": "https://thehill.com/sites/default/files/wallstreet_013118getty_lead.jpg",
-            "publishedAt": "2020-03-03T21:45:12Z",
-            "content": "Stocks took heavy losses Tuesday after the Federal Reserve took emergency action to cut interest rates and boost the economy through a potential coronavirus slowdown.\r\nThe Dow Jones Industrial Average plunged 786 points, a 2.9 percent loss, while the S&amp;P \u2026 [+2190 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Marty Johnson",
-            "title": "NY subway trains to be sanitized every 72 hours to prevent coronavirus spreading",
-            "description": "The Metropolitan Transit Authority (MTA) said Tuesday that it would start conducting deep cleans of New York City's subway trains and busses every three days in order to keep the coronavirus from spreading in the city....",
-            "url": "https://thehill.com/policy/healthcare/public-global-health/485727-ny-subway-trains-to-be-sanitized-every-72-hours-to",
-            "urlToImage": "https://thehill.com/sites/default/files/nycsubway_120512getty.jpg",
-            "publishedAt": "2020-03-03T19:35:11Z",
-            "content": "The Metropolitan Transit Authority\u00a0(MTA) said Tuesday that it would start conducting deep cleans of\u00a0New York City's\u00a0subway\u00a0trains and busses every three days in order to keep the coronavirus from spreading in the city.\u00a0\r\nTransport Workers Union president Tony\u2026 [+1241 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Peter Sullivan, Nathaniel Weixel and Jessie Hellmann",
-            "title": "Overnight Health Care: Supreme Court to hear ObamaCare appeal | Washington state confirms 4 more coronavirus deaths | FDA expects 1M coronavirus tests by week's end | White House expands virus task force",
-            "description": "Welcome to Monday's Overnight Health Care.The number of coronavirus patients in the U.S. continues to climb, with more deaths being reported. Meanwhile, Congress is getting closer to unveiling a supplemental fundin...",
-            "url": "https://thehill.com/policy/healthcare/overnights/485595-overnight-health-care-obamacare-headed-to-supreme-court-fda-expects-1",
-            "urlToImage": "https://thehill.com/sites/default/files/scotus_supremecourt_012219gn2.jpg",
-            "publishedAt": "2020-03-03T01:14:56Z",
-            "content": "Welcome to Monday's Overnight Health Care.\r\nThe number of coronavirus patients in the U.S. continues to climb, with more deaths being reported. Meanwhile, Congress is getting closer to unveiling a supplemental funding bill for virus relief efforts. And, the S\u2026 [+7363 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Jordain Carney",
-            "title": "Congress closes in on deal for $7.5 billion in coronavirus funding",
-            "description": "Lawmakers are closing in on a deal to provide more than $7 billion in funding to combat the coronavirus, setting up Congress to pass the bill as soon as this week.Negotiators and aides say they are on the precipice...",
-            "url": "https://thehill.com/policy/healthcare/485615-congress-closes-in-on-deal-for-75-billion-in-coronavirus-funding",
-            "urlToImage": "https://thehill.com/sites/default/files/shelbyrichard_012720bc_lead.jpg",
-            "publishedAt": "2020-03-03T01:35:41Z",
-            "content": "The Hill 1625 K Street, NW Suite 900 Washington DC 20006 | 202-628-8500 tel | 202-628-8503 fax\r\nThe contents of this site are \u00a92020 Capitol Hill Publishing Corp., a subsidiary of News Communications, Inc."
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Ellen Mitchell",
-            "title": "Pentagon chief warned overseas commanders not to surprise White House on coronavirus measures: report",
-            "description": "Defense Secretary Mark Esper asked overseas military commanders to not to make any coronavirus-related decisions that could surprise the White House or contradict President Trump's statements on the illness,...",
-            "url": "https://thehill.com/policy/defense/485682-pentagon-chief-warned-overseas-commanders-not-to-surprise-white-house-on",
-            "urlToImage": "https://thehill.com/sites/default/files/espermark_122019getty_lead.jpg",
-            "publishedAt": "2020-03-03T16:44:52Z",
-            "content": "Defense Secretary Mark EsperMark EsperTrump officially sends Senate his Navy secretary nominationHillicon Valley: Facebook takes down foreign influence campaigns | Senior Trump officials warn of foreign interference on Super Tuesday | Apple offers 0M settleme\u2026 [+3542 chars]"
+            "title": "Fed cuts interest rate by half a percentage point amid coronavirus fears",
+            "description": "The Federal Reserve on Tuesday cut interest rates amid concern about the potential economic toll of the coronavirus outbreak.The Federal Open Market Committee (FOMC), which sets Fed interest rat...",
+            "url": "https://thehill.com/policy/finance/485656-fed-cuts-interest-rate-by-half-a-percentage-point",
+            "urlToImage": "https://thehill.com/sites/default/files/powelljerome_091819upi2_lead.jpg",
+            "publishedAt": "2020-03-03T15:09:20Z",
+            "content": "The Federal Reserve on Tuesday cut interest rates amid concern about the potential economic toll of the coronavirus outbreak.\r\nThe Federal Open Market Committee (FOMC), which sets Fed interest rates, announced it would cut its baseline interest rate range by \u2026 [+1315 chars]"
         },
         {
             "source": {
@@ -950,19 +976,6 @@
             "urlToImage": "https://thehill.com/sites/default/files/sheindlinjudy_090419getty.jpg",
             "publishedAt": "2020-03-03T17:02:11Z",
             "content": "Judge Judy Sheindlin went off on Sen. Bernie SandersBernie SandersSanders poised for big Super Tuesday5 things to watch on Super Tuesday5 states to watch on Super TuesdayMORE (I-Vt.) on Tuesday, calling the 2020 White House hopeful and democratic socialist's \u2026 [+3663 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Sylvan Lane",
-            "title": "Fed cuts interest rate by half a percentage point amid coronavirus fears",
-            "description": "The Federal Reserve on Tuesday cut interest rates amid concern about the potential economic toll of the coronavirus outbreak.The Federal Open Market Committee (FOMC), which sets Fed interest rat...",
-            "url": "https://thehill.com/policy/finance/485656-fed-cuts-interest-rate-by-half-a-percentage-point",
-            "urlToImage": "https://thehill.com/sites/default/files/powelljerome_091819upi2_lead.jpg",
-            "publishedAt": "2020-03-03T15:09:20Z",
-            "content": "The Federal Reserve on Tuesday cut interest rates amid concern about the potential economic toll of the coronavirus outbreak.\r\nThe Federal Open Market Committee (FOMC), which sets Fed interest rates, announced it would cut its baseline interest rate range by \u2026 [+1315 chars]"
         },
         {
             "source": {
@@ -1047,19 +1060,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Rebecca Kheel",
-            "title": "Bipartisan Senate Intel leaders push to declassify Khashoggi report",
-            "description": "The bipartisan leaders of the Senate Intelligence Committee are pushing the intelligence community to declassify information about the murder of journalist Jamal Khashoggi after receiving a classified report on the issue....",
-            "url": "https://thehill.com/policy/defense/485709-bipartisan-senate-intel-leaders-push-to-declassify-khashoggi-report",
-            "urlToImage": "https://thehill.com/sites/default/files/khashoggijamal_12232019_1.jpg",
-            "publishedAt": "2020-03-03T18:17:44Z",
-            "content": "The bipartisan leaders of the Senate Intelligence Committee are pushing the intelligence community to declassify information about the murder of journalist Jamal Khashoggi after receiving a classified report on the issue.\r\nSenate Intelligence Committee Chairm\u2026 [+4470 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Judy Kurtz",
             "title": "Barbra Streisand pens anti-Trump op-ed: 'America could be extinguished if he's given another four years'",
             "description": "Barbra Streisand says she fears the country \"could be extinguished\" if President Trump wins reelection in November.The Academy Award winner calls the commander in chief a \"one-man weapon of mass destruction\" in a b...",
@@ -1067,6 +1067,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/streisandbarbra_03032020getty.jpg",
             "publishedAt": "2020-03-03T14:58:37Z",
             "content": "Barbra StreisandBarbara (Barbra) Joan StreisandBarbra Streisand pens anti-Trump op-ed: 'America could be extinguished if he's given another four years'Democrats battle for Hollywood's cashNew York woman pleads guilty to stealing 0K from NYPD charityMORE says \u2026 [+1631 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Rebecca Kheel",
+            "title": "Bipartisan Senate Intel leaders push to declassify Khashoggi report",
+            "description": "The bipartisan leaders of the Senate Intelligence Committee are pushing the intelligence community to declassify information about the murder of journalist Jamal Khashoggi after receiving a classified report on the issue....",
+            "url": "https://thehill.com/policy/defense/485709-bipartisan-senate-intel-leaders-push-to-declassify-khashoggi-report",
+            "urlToImage": "https://thehill.com/sites/default/files/khashoggijamal_12232019_1.jpg",
+            "publishedAt": "2020-03-03T18:17:44Z",
+            "content": "The bipartisan leaders of the Senate Intelligence Committee are pushing the intelligence community to declassify information about the murder of journalist Jamal Khashoggi after receiving a classified report on the issue.\r\nSenate Intelligence Committee Chairm\u2026 [+4470 chars]"
         },
         {
             "source": {
@@ -1099,19 +1112,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "mmiller@thehill.com (Maggie Miller)",
-            "title": "Top DHS official expresses high confidence in election security on Super Tuesday",
-            "description": "A senior official at the Department of Homeland Security expressed high confidence in the security of voting systems on Super Tuesday, saying \"all systems look green\" nationwide.The top official with the Cybersecurity and...",
-            "url": "https://thehill.com/policy/cybersecurity/485713-senior-dhs-official-expresses-high-confidence-in-election-security-as",
-            "urlToImage": "https://thehill.com/sites/default/files/wisconsin_election_04032019_1.jpg",
-            "publishedAt": "2020-03-03T18:49:37Z",
-            "content": "A senior official at the Department of Homeland Security\u00a0expressed high confidence in the security of voting systems on Super Tuesday,\u00a0saying\u00a0\"all systems\u00a0look green\" nationwide.\r\nThe top official with the\u00a0Cybersecurity and Infrastructure Security Agency (CIS\u2026 [+4218 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "Jordain Carney",
             "title": "Congress scrambles to finalize coronavirus funding, surveillance deals",
             "description": "Lawmakers are staring down a tight timeline on major legislation as they try to clear the deck before a mid-March break.Congress has less than 10 working days to tackle both coronavirus funding and reauthorization...",
@@ -1119,6 +1119,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/mcconnellmitch_020520bc4_lead.jpg",
             "publishedAt": "2020-03-03T11:00:22Z",
             "content": "Lawmakers are staring down a tight timeline on major legislation as they try to clear the deck before a mid-March break.\r\nCongress has less than 10 working days to tackle both coronavirus funding and reauthorization of expiring surveillance provisions in the \u2026 [+9014 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "mmiller@thehill.com (Maggie Miller)",
+            "title": "Top DHS official expresses high confidence in election security on Super Tuesday",
+            "description": "A senior official at the Department of Homeland Security expressed high confidence in the security of voting systems on Super Tuesday, saying \"all systems look green\" nationwide.The top official with the Cybersecurity and...",
+            "url": "https://thehill.com/policy/cybersecurity/485713-senior-dhs-official-expresses-high-confidence-in-election-security-as",
+            "urlToImage": "https://thehill.com/sites/default/files/wisconsin_election_04032019_1.jpg",
+            "publishedAt": "2020-03-03T18:49:37Z",
+            "content": "A senior official at the Department of Homeland Security\u00a0expressed high confidence in the security of voting systems on Super Tuesday,\u00a0saying\u00a0\"all systems\u00a0look green\" nationwide.\r\nThe top official with the\u00a0Cybersecurity and Infrastructure Security Agency (CIS\u2026 [+4218 chars]"
         },
         {
             "source": {
@@ -1138,19 +1151,6 @@
                 "id": "the-hill",
                 "name": "The Hill"
             },
-            "author": "Laura Kelly",
-            "title": "Menendez, Graham lobbying European allies to open negotiations with Iran",
-            "description": "A bipartisan pair of senators is lobbying European allies to bring Iran back to the negotiating table to end its nuclear weapons ambitions, curb its missile program and end its support of terrorist proxies.The plan...",
-            "url": "https://thehill.com/policy/international/485724-menendez-graham-lobbying-european-allies-to-open-negotiations-with-iran",
-            "urlToImage": "https://thehill.com/sites/default/files/menendezrobert_010820gn_lead.jpg",
-            "publishedAt": "2020-03-03T19:20:19Z",
-            "content": "A bipartisan\u00a0pair of senators is lobbying European allies to bring Iran back to the negotiating table to end its nuclear weapons ambitions, curb its missile program and end its support of terrorist proxies.\r\nThe plan laid out on Tuesday by\u00a0Sens. Bob MenendezR\u2026 [+4005 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
             "author": "John Kruzel",
             "title": "Trump campaign sues Washington Post for libel",
             "description": "President Trump's campaign has filed a multimillion dollar libel lawsuit against the Washington Post, claiming the newspaper knowingly published false claims that Trump engaged in a conspiracy with Russia concerning U.S. presidential elections.",
@@ -1158,6 +1158,19 @@
             "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_022920getty.jpg",
             "publishedAt": "2020-03-03T20:37:13Z",
             "content": "President TrumpDonald John TrumpSanders poised for big Super Tuesday5 things to watch on Super TuesdayCongress scrambles to finalize coronavirus funding, surveillance dealsMORE's campaign has filed a multimillion dollar libel lawsuit against the Washington Po\u2026 [+3594 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Laura Kelly",
+            "title": "Menendez, Graham lobbying European allies to open negotiations with Iran",
+            "description": "A bipartisan pair of senators is lobbying European allies to bring Iran back to the negotiating table to end its nuclear weapons ambitions, curb its missile program and end its support of terrorist proxies.The plan...",
+            "url": "https://thehill.com/policy/international/485724-menendez-graham-lobbying-european-allies-to-open-negotiations-with-iran",
+            "urlToImage": "https://thehill.com/sites/default/files/menendezrobert_010820gn_lead.jpg",
+            "publishedAt": "2020-03-03T19:20:19Z",
+            "content": "A bipartisan\u00a0pair of senators is lobbying European allies to bring Iran back to the negotiating table to end its nuclear weapons ambitions, curb its missile program and end its support of terrorist proxies.\r\nThe plan laid out on Tuesday by\u00a0Sens. Bob MenendezR\u2026 [+4005 chars]"
         },
         {
             "source": {

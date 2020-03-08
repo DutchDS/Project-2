@@ -1,0 +1,500 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Dr. Siegel: Trump projected calm leadership addressing outbreak",
+            "description": "Fox News medical contributor Dr. Marc Siegel reacts to President Trump's CDC visit, handling of coronavirus preparations.",
+            "url": "http://video.foxnews.com/v/6139213399001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5749e9df-0886-4f84-aa73-9ff797fd6de5/87246c9b-7ecc-46dc-87f1-bb0ae05c6018/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T02:33:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Hannity: Left wants you to believe coronavirus is Trump's fault",
+            "description": "President Trump doing more earlier than previous administrations for any outbreak.",
+            "url": "http://video.foxnews.com/v/6139210469001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db6b43b6-700b-4b15-98a8-39335ec87cfc/51d3c5cb-13f9-4030-abf5-2d9bfb6dbb44/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T02:17:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "FOX News Rundown Extra: Charles Payne on the Economic Impact of the Coronavirus",
+            "description": "Charles Payne host of \"Making Money with Charles Payne\" on FOX Business joined the FOX News Rundown to talk about the global economic impact of the coronavirus.",
+            "url": "https://radio.foxnews.com/2020/03/07/charles-payne-on-the-economic-impact-of-the-coronavirus/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/04/rundown-featured.png",
+            "publishedAt": "2020-03-07T10:00:02Z",
+            "content": "President Trump signed an $8.3 billion bipartisan spending bill on Friday to help fight the coronavirus outbreak.\r\nEarlier this week, Charles Payne host of \"Making Money with Charles Payne\" on FOX Business joined the FOX News Rundown to talk about the global \u2026 [+660 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Former Diamond Princess cruise ship coronavirus patient describes life under quarantine",
+            "description": "Former coronavirus patient Jerri Jorgensen was very positive about her time spent under quarantine.",
+            "url": "https://www.foxnews.com/media/former-coronavirus-patient-diamond-princess-quarantine",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/JERRI.jpg",
+            "publishedAt": "2020-03-07T20:18:42Z",
+            "content": "Former coronavirus patient Jerri Jorgensen was very positive about her time spent under quarantine.\r\nIn an interview on \"America's Newsroom HQ Weekend\" with host Gillian Turner, Jorgensen -- who contracted the virus\u00a0on board the Diamond Princesscruise ship in\u2026 [+1610 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kim Komando",
+            "title": "Coronavirus: Best tech tools for you to work from home and the kids too",
+            "description": "The coronavirus is making us consider different scenarios. What if I need to work from home?",
+            "url": "https://www.foxnews.com/tech/coronavirus-best-tech-tools-for-you-to-work-from-home-and-the-kids-too",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/07/568570-vlogger-laptop.jpg",
+            "publishedAt": "2020-03-07T09:00:00Z",
+            "content": "The coronavirus is making us consider different scenarios. What if I need to work from home? What\u2019s the best way to make sure our products and services still reach our customers? How can I stop traveling to visit clients? What will the kids do to keep up thei\u2026 [+8076 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Iranian official who took part in 1979 Iran hostage crisis dies of coronavirus",
+            "description": "Another high-ranking official in Iran has died from the coronavirus, according to state media.",
+            "url": "https://www.foxnews.com/world/coronavirus-iran-death-official-update",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Hossein-Sheikholeslam-Getty.jpg",
+            "publishedAt": "2020-03-07T14:34:32Z",
+            "content": "Another high-ranking\u00a0official in Iran has died from the coronavirus, according to state\u00a0media.\r\nHossein Sheikholeslam, 68, the former Iranian ambassador to Syria, studied at the University of California at Berkely before becoming a leader\u00a0of the radical Irani\u2026 [+4252 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Major universities close classrooms amid coronavirus outbreak",
+            "description": "The first major American universities to close classroom doors in response to the coronavirus outbreak are happening in California and Washington, the state with the most deaths from COVID-19.",
+            "url": "https://www.foxnews.com/us/coronavirus-washington-university-stanford-close-online-classes",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/University-of-Washington-iStock.jpg",
+            "publishedAt": "2020-03-07T16:35:52Z",
+            "content": "The first major American universities\u00a0to close\u00a0classroom doors in response to the coronavirus outbreak are\u00a0happening in California and\u00a0Washington, the state with the most deaths from COVID-19.\r\nThe University of Washington informed\u00a0its 55,000 students\u00a0Friday \u2026 [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Justin Bieber downgrades stadium tour stops due to coronavirus fears",
+            "description": "Justin Bieber's plans are the latest to be derailed by the coronavirus and his fans will likely feel the effect.",
+            "url": "https://www.foxnews.com/entertainment/justin-bieber-downgrades-tour-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/justin-bieber.jpg",
+            "publishedAt": "2020-03-07T17:35:22Z",
+            "content": "Justin Bieber's tour is the latest live event to fall victim to the coronavirus.\r\nThe \"Yummy\" singer, 26, is set to embark on his 45-stop \"Changes\" tour in North America in May, but according to reports, at least eight of the stadiums Beiber was scheduled to \u2026 [+1677 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "FL Sen. Rick Scott: We need to have a conversation with the cruise industry",
+            "description": "America needs to have a conservation with the cruise industry on coronavirus, Florida Republican Sen. Rick Scott said Saturday.",
+            "url": "https://www.foxnews.com/media/rick-scott-coronavirus-florida-cruise-ship-tourism-industry",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/RICK-SCOTT.jpg",
+            "publishedAt": "2020-03-07T19:35:59Z",
+            "content": "America needs to have a conversation\u00a0with the cruise industry on coronavirus, FloridaRepublicanSen. Rick Scott said Saturday.\r\nIn an interview on \"Cavuto LIVE\" with host Charles Payne, Scott said that he was surprised to hear about one of the eight confirmed \u2026 [+3086 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "President Trump seeks to reassure Americans concerned by coronavirus outbreak",
+            "description": "Although public health officials say coronavirus risk to the general public remains low inside the U.S., state and local governments are preparing contingency plans; Jonathan Serrie reports from Atlanta.",
+            "url": "http://video.foxnews.com/v/6139190740001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c454fc3b-99b7-447f-8673-8968e04f659e/0c57617b-a18d-4c9c-a4e2-0dbf687a484a/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T00:07:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Robert Gearty",
+            "title": "Coronavirus quarantine hotel collapses in China, trapping 70 people",
+            "description": "A hotel in China that had been converted into a coronavirus quarantine site collapsed Saturday evening, trapping 70 people.",
+            "url": "https://www.foxnews.com/world/coronavirus-quarantine-hotel-collapses-in-china-trapping-70-people",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Quanzhou-China-Map.jpg",
+            "publishedAt": "2020-03-07T15:23:48Z",
+            "content": "A hotel in China that had been converted into a coronavirus quarantine site collapsed Saturday evening, trapping 70 people.\r\nIt happened in the city of Quanzhou, in southeastern Fujian Province, according to reports.\r\nAt least 23 people were subsequently resc\u2026 [+1196 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "New York declares state of emergency as Cuomo announces 21 new coronavirus cases",
+            "description": "Coronavirus cases jumped to 11 in New York City and 76 statewide, Gov. Andrew Cuomo said as he declared a state of emergency Saturday.",
+            "url": "https://www.foxnews.com/us/coronavirus-new-york-update-cuomo-state-emergency",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Andrew-Cuomo-Coronavirus-New-York-thumb.jpg",
+            "publishedAt": "2020-03-07T18:41:17Z",
+            "content": "Coronavirus cases jumped to 11 in New York City and 76 statewide, Gov. Andrew Cuomo said\u00a0as he declared a state of emergency Saturday.\r\nThe numbers double the amount previously in the Big Apple, which stood at five on Friday, and there are 21 new cases in the\u2026 [+2866 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chad Pergram, Louis Casiano",
+            "title": "House prepares for telework scenarios amid coronavirus threat",
+            "description": "Fox News has obtained a memo sent to all House offices by the House Administration Committee this evening about Congressional operations and the coronavirus threat.",
+            "url": "https://www.foxnews.com/politics/house-prepares-telework-scenarios-amid-coronavirus-threat",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/c1aa91df-Capture.jpg",
+            "publishedAt": "2020-03-07T02:30:48Z",
+            "content": "Fox News has obtained a memo sent to all House offices by the House Administration Committee this evening about congressional operations and the coronavirus threat that signals\u00a0the House\u00a0is seriously preparing for scenarios where staff may have to telework \u201ci\u2026 [+1196 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Florida reports 2 dead from coronavirus, first known fatalities on East Coast",
+            "description": "Two people in Florida who tested positive for the coronavirus died, becoming the first known fatalities outsides on the East Coast, health officials reported Friday.",
+            "url": "https://www.foxnews.com/us/coronavirus-florida-first-fatalities-east-coast",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56888908-463d-420f-aaf0-c341ef9b5bcd/c52933ae-a6cc-4302-bca8-ecbde50b8b3b/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T12:49:20Z",
+            "content": "Two people in Florida who tested positive for the coronavirus died, becoming the first known fatalities outsides on the East Coast, health officials reported Friday.\r\nFlorida Gov. Ron DeSantis issued an order on Sunday directing a public health emergency in t\u2026 [+1885 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Sean Hannity says Dems, 'media mob' weaponizing coronavirus against President Trump: 'Predictable and disgraceful'",
+            "description": "Sean Hannity called out Democrats and the media for using the coronavirus outbreak as a \"weapon\" to attack President Trump, saying such rhetoric is unfair to the president.",
+            "url": "https://www.foxnews.com/media/sean-hannity-blasts-media-mob-and-democrats-for-using-coronavirus-as-a-political-weapon",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db6b43b6-700b-4b15-98a8-39335ec87cfc/51d3c5cb-13f9-4030-abf5-2d9bfb6dbb44/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T05:46:56Z",
+            "content": "Sean Hannity called out Democrats and the media for using the coronavirus\u00a0outbreak as a \"weapon\" to attack President Trump, saying such rhetoric is unfair to the president.\r\n\"The mob in the media, Democrats. What do they do? 'I want to use a deadly virus as a\u2026 [+1547 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "US Army soldier deployed to Kuwait being monitored for coronavirus after Italian vacation, awaiting test results: military",
+            "description": "A U.S. Army soldier deployed to Kuwait is being monitored for the new coronavirus after returning from a vacation in Italy, defense officials told Fox News.",
+            "url": "https://www.foxnews.com/us/us-army-soldier-deployed-to-kuwait-being-monitored-for-coronavirus-after-italy-vacation-awaiting-test-results-military",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Pentagon-Aerial-iStock.jpg",
+            "publishedAt": "2020-03-07T00:10:46Z",
+            "content": "A U.S. Army\u00a0soldier deployed to Kuwait is being monitored for the new coronavirus after returning from a vacation in Italy, defense officials told Fox News.\r\nThe soldier\u00a0was tested for the virus and placed in isolation as a precautionary measure while officia\u2026 [+1399 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lucas Tomlinson",
+            "title": "US Navy sailor in Italy tests positive for coronavirus",
+            "description": "A U.S. Navy sailor in Naples has tested positive for coronavirus marking the first infection for the U.S. military in Italy, a Navy official tells Fox News.",
+            "url": "https://www.foxnews.com/world/us-navy-sailor-italy-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20067379523437-1.jpg",
+            "publishedAt": "2020-03-07T11:47:02Z",
+            "content": "A U.S. Navy sailor in Naples has tested positive for coronavirus, marking the first infection for the U.S. military in Italy, a Navy official tells Fox News.\r\nThis marks the second confined coronavirus case out of 75,000 U.S. service members serving in countr\u2026 [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Coronavirus: How to make your own DIY hand sanitizer",
+            "description": "Are you unable to find hand sanitizer in stores due to increasing coronavirus panic? Lifestyle expert Limor Suss assured Saturday that despite shortages, you can make your own germ-killing gel in just a few easy steps.",
+            "url": "https://www.foxnews.com/media/how-to-make-your-own-hand-sanitizer",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/HAND-SANITIZER.jpg",
+            "publishedAt": "2020-03-07T16:13:08Z",
+            "content": "Are you unable to find\u00a0hand sanitizer in stores due to\u00a0increasing coronavirus panic? Lifestyle expert Limor Suss assured Saturday that despite shortages, you can make your own germ-killing gel in just a few easy steps.\r\nAppearing on \"Fox &amp; Friends Weekend\u2026 [+1925 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Homeless among the most vulnerable to coronavirus, experts say",
+            "description": "Homeless communities - with extremely unsanitary conditions in cities like Portland, Los Angeles, and New York City - are at a greater risk of catching and spreading coronavirus to the public at large.",
+            "url": "https://www.foxnews.com/us/coronavirus-update-homeless-crisis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/homelesscorona.jpg",
+            "publishedAt": "2020-03-07T18:40:20Z",
+            "content": "Homeless communities from coast to coast are at a greater risk of being infected with the coronavirus than\u00a0the general population, experts say.\r\nAlmost 200,000 people are counted as\u00a0homeless in the United States, and although health officials have yet to find\u2026 [+3185 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Leon",
+            "title": "ACU says CPAC attendee tested positive for coronavirus",
+            "description": "The American Conservative Union (ACU), which hosts the Conservative Political Action Conference (CPAC), confirmed Saturday that one of this year's conference attendees has tested positive for the novel coronavirus.",
+            "url": "https://www.foxnews.com/politics/cpac-attendee-tests-positive-coronavirus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d3ec711-69a6-48bc-80b1-198d42a68a6e/32127347-3098-4a2c-8990-5fa6b2f8e5e8/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T22:48:06Z",
+            "content": "The American Conservative Union (ACU), which hosts the high-profile\u00a0Conservative Political Action Conference (CPAC), confirmed Saturday that one of this year's\u00a0conference attendees has tested positive for the novel coronavirus.\r\nCORONAVIRUS: EVERYTHING YOU NE\u2026 [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joshua Nelson",
+            "title": "Perino: Governors should be 'careful' criticizing Trump\u2019s coronavirus task force, it could backfire",
+            "description": "Fox News\u2019 \u201cThe Five\u201d co-panelist Dana Perino on Friday called on state governors to take responsibility for managing the coronavirus in their own state instead of criticizing the Trump administration\u2019s efforts in combating the epidemic.",
+            "url": "https://www.foxnews.com/media/perino-state-governors-should-be-careful-in-criticizing-trumps-coronavirus-task-force-because-it-could-backfire",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Screen-Shot-2020-03-06-at-7.06.20-PM.png",
+            "publishedAt": "2020-03-07T00:38:39Z",
+            "content": "Fox News\u2019 \u201cThe Five\u201d co-panelist Dana Perino on Friday called on state governors to take responsibility for managing the coronavirus in their own states instead of criticizing the Trump administration\u2019s efforts combating the epidemic.\r\n\u201cI think that the gover\u2026 [+1984 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Coronavirus bill overloaded with Pelosi's 'Christmas-tree ornaments,' says Republican who voted against it",
+            "description": "House Speaker Nancy Pelosi's add-ons were the reason why a Colorado Republican voted against the $8.3 billion coronavirus bill that President Trump signed into law earlier in the day, the lawmaker said Friday night.",
+            "url": "https://www.foxnews.com/media/coronavirus-bill-overloaded-with-pelosis-christmas-tree-ornaments-says-republican-who-voted-against-it",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1c30d8d-09c3-43e6-aea9-029a083fdd41/86af6fe3-21b6-4d4e-a921-c9d6fe532f82/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T08:04:16Z",
+            "content": "House Speaker Nancy Pelosi's add-ons were the reason why a Colorado Republican voted against the $8.3 billion coronavirus bill that President Trump signed into law earlier in the day, the lawmaker said Friday night.\r\n\"The president asked for $2.5 billion. I w\u2026 [+2298 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brandon Judd",
+            "title": "Brandon Judd: To combat coronavirus we must reduce illegal immigration \u2013 Supreme Court help is vital",
+            "description": "As the coronavirus spreads around the world, all nations have an obligation to do their best to secure their borders and stop as many people as possible who are carrying the virus from entering and infecting others.",
+            "url": "https://www.foxnews.com/opinion/brandon-judd-to-combat-spread-of-coronavirus-we-must-reduce-illegal-immigration-supreme-court-help-is-vital",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/12/28/694940094001_6118581827001_6118578884001-vs.jpg",
+            "publishedAt": "2020-03-07T18:18:39Z",
+            "content": "As the coronavirus spreads around the world, all nations have an obligation to do their best to secure their borders and stop as many people as possible who are carrying the virus from entering and infecting others.\r\nThe coronavirus is already in the U.S. and\u2026 [+5477 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Tucker Carlson on the coronavirus pandemic: 'It will reorder the global economy and change our politics'",
+            "description": "Tucker Carlson focused Friday on the coronavirus, saying we should hold China and our leaders accountable for the \"realization\" it will present, adding that it could impact our 2020 presidential election.",
+            "url": "https://www.foxnews.com/media/tucker-carlson-coronavirus-pandemic-it-will-reorder-the-global-economy-and-change-our-politics",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831de527-0703-48a8-b4ff-17b5e1c8f818/8866834d-52dd-4da0-aee4-cb6c371dbd22/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T02:19:50Z",
+            "content": "Tucker Carlson focused on the coronavirus\u00a0Friday, saying we should hold China and our leaders accountable for the difficult position the virus will put the American people, adding that COVID-19\u00a0could impact our 2020 presidential election.\r\n\"There's something \u2026 [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andy Puzder",
+            "title": "Andy Puzder: Coronavirus isn\u2019t slowing down US economy or hurting labor market, new unemployment report shows",
+            "description": "Even with coronavirus concerns triggering stock market volatility and skittish central bankers implementing \u201cemergency\u201d interest rate cuts, the country gained an astounding 273,000 new jobs last month, matching January\u2019s total and demolishing economists\u2019 expe\u2026",
+            "url": "https://www.foxnews.com/opinion/trump-economy-andy-puzder",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6af9d070-2c1d-4238-a98c-c567b0337bc4/aa890f16-646f-47b4-a64d-57a3cdffe5fa/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T00:06:06Z",
+            "content": "While the coronavirus continues to pose a threat to the nation, it certainly didn\u2019t put a damper on America\u2019s strong and growing economy in February.\r\nEven with coronavirus concerns triggering stock market volatility and skittish central bankers implementing \u2026 [+4271 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "LeBron James doesn't want to play in empty arena after NBA coronavirus memo",
+            "description": "The NBA wants its teams to prepare to play games without fans if necessary because of the coronavirus crisis, but LeBron James already says he won't play basketball in an empty arena.",
+            "url": "https://www.foxnews.com/sports/lebron-james-empty-arena-nba-coronavirus-memo",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20067162213438.jpg",
+            "publishedAt": "2020-03-07T12:17:14Z",
+            "content": "The NBA wants its teams to prepare to play games without fans if necessary because of the coronavirus crisis, but LeBron James already says he won't play basketball in an empty arena.\r\nThe league circulated a memo to its teams Friday telling them to prepare i\u2026 [+2946 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joseph Wulfsohn",
+            "title": "Bill Maher says coronavirus 'overreactions' making him 'sick': 'People die! That's what happens in life!'",
+            "description": "\"Real Time\" host Bill Maher complained about the hype that has surrounded the coronavirus, comparing it to the \"Y2K\" computer bug that was supposed to cause tech havoc back at the turn of the century.",
+            "url": "https://www.foxnews.com/entertainment/bill-maher-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bill-maher-season-17-5-HBO.jpg",
+            "publishedAt": "2020-03-07T05:01:59Z",
+            "content": "\"Real Time\" host Bill Maher complained about the hype that has surrounded the coronavirus, comparing it to the \"Y2K\" computer bug that was supposed to cause tech havoc back at the turn of the century.\r\n\"Speaking of overreactions,\" Maher said as he segued from\u2026 [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "New York AG orders televangelist Jim Bakker to stop advertising 'Silver Solution' as coronavirus treatment",
+            "description": "As New York Gov. Andrew Cuomo declares a state of emergency amid a spike in coronavirus cases, the state's attorney general, Letitia James, is going after a Chrisitan televangelist for \"false advertising.\"",
+            "url": "https://www.foxnews.com/us/new-york-televangelist-jim-bakker-silver-solution-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/jim-bakker-Getty.jpg",
+            "publishedAt": "2020-03-07T20:01:01Z",
+            "content": "As New York Gov. Andrew Cuomo declares a state of emergency amid\u00a0a spike in coronavirus cases, the state's attorney general,\u00a0Letitia James, is going after a Chrisitan televangelist for \"false advertising.\"\r\nA guest of The Jim Bakker Show\u00a0on Feb. 12, Sherrill \u2026 [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Shaw",
+            "title": "Pence calls for 'whole of America' approach to coronavirus at meeting with cruise line executives",
+            "description": "Vice President Mike Pence on Saturday said the U.S. was engaging in a \u201cwhole of America\u201d approach in response to the coronavirus, as he met with cruise line executives and port directors in Florida to discuss if any additional measures need to be taken.",
+            "url": "https://www.foxnews.com/politics/pence-coronavirus-cruise-line-executives",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b595e685-9a04-4ef9-80c9-02bd340c08e4/c99dc857-e352-4987-8779-8f4133d226a4/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T20:51:53Z",
+            "content": "Vice President Mike Pence on Saturday said the U.S. was engaging\u00a0in a \u201cwhole of America\u201d approach in response to the coronavirus, as he met with cruise line executives and port directors in Florida to discuss if any additional measures need to be taken.\r\n\u201cPre\u2026 [+3147 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tucker Carlson",
+            "title": "Tucker Carlson: To protect against coronavirus and other threats, US must become less dependent on China",
+            "description": "Global warming isn't the existential threat we face. Extortion from China is, in very real ways. The Chinese government controls us. There is no greater national security danger than the one it poses and it requires us to respond.",
+            "url": "https://www.foxnews.com/opinion/tucker-carlson-to-protect-against-coronavirus-and-other-threats-us-must-become-less-dependent-on-china",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831de527-0703-48a8-b4ff-17b5e1c8f818/8866834d-52dd-4da0-aee4-cb6c371dbd22/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T12:00:32Z",
+            "content": "There comes a time in every presidential administration when the people in charge realize they're not really in control. Unforeseen events arise in an instant. Every assumption about the future changes.\r\nHeads of state die, wars erupt, natural disasters desce\u2026 [+10563 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Ball kids to wear gloves, not touch towels at Indian Wells",
+            "description": "Tennis players at the BNP Paribas Open that starts next week will have to manage their own towels on court and ball kids will wear gloves while working matches at the combined men's and women's tournament in the Southern California desert.",
+            "url": "https://www.foxnews.com/sports/ball-kids-to-wear-gloves-not-touch-towels-at-indian-wells",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Rafael-Nadal8.jpg",
+            "publishedAt": "2020-03-07T14:59:02Z",
+            "content": "Tennis players at the BNP Paribas Open that starts next week will have to manage their own towels on court and ball kids will wear gloves while working matches at the combined men's and women's tournament in the Southern California desert.\r\nThe measures were \u2026 [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Virus cancellations send Olympic beach hopefuls scrambling",
+            "description": "Olympic beach volleyball hopefuls Emily Stockman and Kelley Larsen thought they\u2019d have plenty of chances to play themselves into the Tokyo Games during a two-year qualification period that ends with the international tour finale in June.",
+            "url": "https://www.foxnews.com/sports/virus-cancellations-send-olympic-beach-hopefuls-scrambling",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Jake-Gibb.jpg",
+            "publishedAt": "2020-03-07T15:17:16Z",
+            "content": "Olympic beach volleyball hopefuls Emily Stockman and Kelley Larsen thought they\u2019d have plenty of chances to play themselves into the Tokyo Games during a two-year qualification period that ends with the international tour finale in June.\r\nSince the spread of \u2026 [+5038 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Robert Gearty",
+            "title": "Saudi Arabia arrests 3 members of royal family in alleged coup plot",
+            "description": "Saudi Arabia has detained the younger brother of King Salman and two other members of the royal family for on charges of planning a coup, according to reports.",
+            "url": "https://www.foxnews.com/world/saudi-arabia-arrests-3-members-of-royal-family-in-alleged-coup-plot",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Mohammed-bin-Salman-AP.jpg",
+            "publishedAt": "2020-03-07T14:18:18Z",
+            "content": "Saudi Arabia has detained the younger brother of King Salman and two other members of the royal family on charges of planning a coup, according to reports.\r\nTwo of the men were among the kingdom's most influential figures, the BBC reported Saturday.\r\nThe dete\u2026 [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "US hospitals prepare for influx of coronavirus patients",
+            "description": "Health officials are on high alert as the number of coronavirus cases continue to grow; Dr. Amy Compton-Phillips, chief clinical officer at Providence St. Joseph Health, weighs in.",
+            "url": "http://video.foxnews.com/v/6139339635001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b92c921-3e13-459d-907f-31d0f8f7f2c7/31b57dca-35b8-44f2-b4f3-24962ddd272d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T21:05:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Ben Affleck spotted dining with co-star Ana de Armas in Cuba",
+            "description": "Just weeks after admitting he regrets divorcing Jennifer Garner, Ben Affleck surfaced in Cuba with his \"Deep Water\" co-star, Ana de Armas.",
+            "url": "https://www.foxnews.com/entertainment/ben-affleck-dining-ana-de-armas-cuba",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/affleck-armas-AP-getty.jpg",
+            "publishedAt": "2020-03-07T16:44:56Z",
+            "content": "Just weeks after admitting he regrets divorcing Jennifer Garner,\u00a0Ben Affleck surfaced in Cuba with\u00a0his \"Deep Water\" co-star, Ana de Armas.\r\nAffleck, 47, and de Armas, 31, were spotted dining in Havana, where they stopped and smiled\u00a0alongside fans and restaura\u2026 [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Adesanya, Zhang carry global appeal into UFC 248 title bouts",
+            "description": "Israel Adesanya sat down in a crowded room at the UFC's Las Vegas training center and greeted the crowd in English and Mandarin.",
+            "url": "https://www.foxnews.com/sports/adesanya-zhang-carry-global-appeal-into-ufc-248-title-bouts",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Zhang-Weili.jpg",
+            "publishedAt": "2020-03-07T15:01:47Z",
+            "content": "Israel Adesanya sat down in a crowded room at the UFC's Las Vegas training center and greeted the crowd in English and Mandarin. He apologized for his relative lack of proficiency in the second language, which he learned during his kickboxing career in China.\u2026 [+3746 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sally Pipes",
+            "title": "Sally Pipes: Biden and Sanders would both end private health insurance, despite what Biden claims",
+            "description": "In truth, Joe Biden and Bernie Sanders are both calling for the same thing \u2013 a government takeover of health insurance. They just differ on how to deliver that outcome.",
+            "url": "https://www.foxnews.com/opinion/sally-pipes-biden-and-sanders-would-both-end-private-health-insurance-despite-what-biden-claims",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af143fac-5139-4453-b568-9f3007ac224e/bb9b5fd7-5e9e-407e-b21b-1437f9a2c8a4/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-07T16:46:08Z",
+            "content": "Self-described socialist Sen. Bernie Sanders of Vermont, who says he will launch a political revolution if elected president in November, has made his radical \u201cMedicare-for-all\u201d proposal the centerpiece of his campaign.\r\nFormer Vice President Joe Biden, who i\u2026 [+4371 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Katy Perry and Orlando Bloom have 'a lot of friction,' singer says days after announcing pregnancy",
+            "description": "Even Hollywood's most picture-perfect couples endure hardships, and newly pregnant Katy Perry and fiance Orlando Bloom are no exception.",
+            "url": "https://www.foxnews.com/entertainment/katy-perry-orlando-bloom-friction-singer-says-after-pregnancy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/orlandokaty.jpg",
+            "publishedAt": "2020-03-07T16:42:06Z",
+            "content": "Even Hollywood's most picture-perfect couples have disagreements, and newly pregnant Katy Perry and fiance Orlando Bloom are no exception.\r\nThe \"Never Worn White\" singer, 35, stunned fans when she revealed her baby bump in the music video for her new single t\u2026 [+1911 chars]"
+        }
+    ]
+}

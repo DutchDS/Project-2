@@ -1,0 +1,877 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "2 new NYC coronavirus patients in ICU, de Blasio says - Fox News",
+            "description": "2 new NYC coronavirus patients in ICU, de Blasio says Fox News Five more New York coronavirus cases confirmed, bringing state total to 11 New York Post How coronavirus spread in New York: From a man to his family. Then a neighbor. Then friends. The Washington\u2026",
+            "url": "https://www.foxnews.com/health/2-new-nyc-coronavirus-patients-in-icu-de-blasio-says",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eaa4e5c7-ab4c-417a-9c2e-da1886aa4611/e0e28c45-00a1-4196-b700-3d1e6886647d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T13:56:26Z",
+            "content": "New York City Mayor Bill de Blasio announced two new cases of coronavirus in New York City residents on Thursday\u00a0and said that both patients are currently in the intensive care unit and have no connection to any of the other reported cases or travel history t\u2026 [+2308 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Crane worker stuck 375 feet above Nashville records terrifying tornado, 'Make sure they know I love them' - Fox News",
+            "description": "Crane worker stuck 375 feet above Nashville records terrifying tornado, 'Make sure they know I love them' Fox News Reeling from deadly tornadoes, Middle Tennessee confirms its 1st case of coronavirus ABC News Powerful drone images reveal destroyed homes, rubb\u2026",
+            "url": "https://www.foxnews.com/weather/crane-operator-stuck-375-feet-nashville-records-terrifying-tornado-make-sure-they-know-love-them",
+            "urlToImage": null,
+            "publishedAt": "2020-03-05T07:37:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Dr. Siegel: Viruses know no parties, borders, or boundaries",
+            "description": "Fox News medical contributor Dr. Marc Siegel weighs in on the politicization of the coronavirus outbreak.",
+            "url": "http://video.foxnews.com/v/6138534390001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1945cd9c-0b38-4604-9798-dfdade253148/e7e6bd3a-ef56-49c8-9963-16bd65174056/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T02:40:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Exclusive: President Trump addresses coronavirus concerns on 'Hannity'",
+            "description": "President Donald Trump speaks with Sean Hannity via phone to discuss the 2020 Democratic race, coronavirus outbreak and more.",
+            "url": "http://video.foxnews.com/v/6138542348001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a99eb96-5393-4712-bf17-c27f043f3932/2577d9eb-ab3a-4f7b-91de-d8e08d8300fd/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T03:03:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Talia Kaplan",
+            "title": "Can coronavirus spread through your Amazon packages?",
+            "description": "U.S. Surgeon General Jerome Adams, member of the Trump administration's coronavirus task force, reacted on Thursday to the fact that an Amazon employee in Seattle, Wash., has contracted the novel coronavirus saying, \u201cthere is no evidence right now that the co\u2026",
+            "url": "https://www.foxnews.com/media/can-coronavirus-spread-through-your-amazon-packages",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/seattle-virus2-AP.jpg",
+            "publishedAt": "2020-03-05T17:12:13Z",
+            "content": "Surgeon General\u00a0Jerome Adams, a member of the Trump administration's coronavirus task force,\u00a0reacted on Thursday to the fact that an Amazon employee in Seattle\u00a0contracted the novel coronavirus, saying:\u00a0\u201cThere is no evidence right now that the coronavirus can \u2026 [+3081 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Doctors can now approve coronavirus testing, CDC says",
+            "description": "Anyone showing symptoms of the coronavirus \u2014 reported to include fever, cough and shortness of breath \u2014 can be tested for the novel virus if a doctor agrees, federal health officials announced this week in expanded guidelines for coronavirus testing.",
+            "url": "https://www.foxnews.com/health/doctors-can-now-approve-coronavirus-testing-cdc-says",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9082390b-f1bc-4d35-847d-7bff19129f3d/6945d161-7135-45ef-9ddb-1386651f2d75/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T20:07:21Z",
+            "content": "Anyone showing symptoms of the coronavirus \u2014 reported to include fever, cough and shortness of breath \u2014 can be tested for the novel virus if a doctor agrees, federal health officials announced this week in expanded guidelines for coronavirus testing.\r\nTENNESS\u2026 [+1167 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Trump tells Hannity when coronavirus broke out, he closed the borders against advisers' wishes",
+            "description": "President Trump told Fox News' Sean Hannity on Wednesday that he heard about coronavirus early on as it started to break out in China and he decided to shut down the borders despite many people telling him not to do so.",
+            "url": "http://video.foxnews.com/v/6138535714001/",
+            "urlToImage": "https://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/202003/12/640/360/854081161001_6138536330001_6138535708001-vs.jpg",
+            "publishedAt": "2020-03-05T02:46:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Coronavirus concerns: Congress passes $8.3B to help fight outbreak",
+            "description": "The House passes an $8.3 billion supplemental spending bill to battle the coronavirus outbreak; Fox News Chief White House correspondent John Roberts reports.",
+            "url": "http://video.foxnews.com/v/6138848147001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a1e8f07-c61d-49ef-94f4-4e3f6b9e2857/2c51477f-3c8f-4416-aca3-965e0dc3e186/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T23:20:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "The Coronavirus: Separating Fact from Fear with Dr. Siegel",
+            "description": "On this episode of \"Hemmer Time,\" Bill Hemmer sits down with Dr. Marc Siegel to talk about the Coronavirus outbreak. Dr. Siegel explains how fear has dominated the rhetoric surrounding this illness and how listeners should respond.",
+            "url": "https://radio.foxnews.com/2020/03/05/the-coronavirus-separating-fact-from-fear-with-dr-siegel/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/03/Hemmer-Time-Podcast-v2.png",
+            "publishedAt": "2020-03-05T19:25:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Bethlehem\u2019s Church of the Nativity closing, tourists banned before busy Easter season over coronavirus fears",
+            "description": "The Church of the Nativity in biblical Bethlehem has been closed over coronavirus fears.",
+            "url": "https://www.foxnews.com/travel/bethlehems-church-nativity-closing-easter-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20065449481033-e1583437229371.jpg",
+            "publishedAt": "2020-03-05T19:57:28Z",
+            "content": "The Church of the Nativity in biblical Bethlehem has been closed over coronavirus fears, the Palestinian tourism ministry announced Thursday. The move comes after the first cases of the virus were reported in the area.\r\nCLICK HERE TO SIGN UP FOR OUR LIFESTYLE\u2026 [+2600 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Is it coronavirus or a cold? How to safely care for a sick relative",
+            "description": "How to safely care for an ill relative amid fears of the novel coronavirus.",
+            "url": "https://www.foxnews.com/health/is-it-coronavirus-how-to-care-for-sick-relative",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d3092de-4b8e-4a15-b536-55e503c0ddfb/51f1f11b-37ea-4615-a8ef-818f3f19e84d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T19:56:51Z",
+            "content": "Health officials are urging anyone who feels ill to isolate and stay home as cases of the novel coronavirus continue to spread in the U.S., but what about those who already require care assistance or are too young to care for themselves? For those patients an\u2026 [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Davis Hanson",
+            "title": "Victor Davis Hanson: Coronavirus crisis \u2013 It's what we don't know that scares us",
+            "description": "The recent spread of the coronavirus is causing a global panic.",
+            "url": "https://www.foxnews.com/opinion/coronavirus-crisis-scares-us-victor-davis-hanson",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7dfecb7-8be2-4624-aeaa-d4f8e68afc28/e9b4aa91-124c-4f04-be24-9ee69d67db4d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T11:00:56Z",
+            "content": "The recent spread of the coronavirus is causing a global panic. Our shared terror arises not so much from the death toll of the new flu-like disease \u2014 more than 3,200 people have died worldwide \u2014 but from what we don\u2019t know about it.\r\nExperts at least agree t\u2026 [+4960 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Frank Miles",
+            "title": "Texas confirms first positive coronavirus case",
+            "description": "Texas is confirming the first positive case of coronavirus in the state.",
+            "url": "https://www.foxnews.com/health/texas-confirms-first-positive-coronavirus-case",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9271c90-b197-4eb6-9dce-5768db3a419d/c477aefb-a823-497a-a3e1-c293b26070a2/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T03:05:26Z",
+            "content": "Texas is confirming the first positive case of coronavirus in the state.\r\nThe patient of Fort Bend County\u00a0had just returned from travel abroad and has been quarantined in a hospital.\r\nCLICK HERE FOR FOX NEWS' CONTINUING CORONAVIRUS COVERAGE\r\n\u201cHaving a COVID-1\u2026 [+1238 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julius Young",
+            "title": "\u2018AGT\u2019 judge Howie Mandel fears coronavirus, says he's \u2018not inhaling\u2019: 'I've taken it to another level'",
+            "description": "Howie Mandel has got his method for combatting coronavirus all figured out.",
+            "url": "https://www.foxnews.com/entertainment/agt-judge-howie-mandel-coronavirus-not-inhaling",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Howie-Mandel-0af07ccfdcbd6510VgnVCM200000d6c1a8c0____.jpg",
+            "publishedAt": "2020-03-05T21:23:23Z",
+            "content": "Howie Mandel\u00a0has got his method for combatting coronavirus\u00a0all figured out.\r\nOften teased for his compulsive cleaning and intense germophobia, the longtime \u201cAmerica\u2019s Got Talent\u201d judge is throwing the panic right back in the faces of those who badgered him fo\u2026 [+2249 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Vandana Rambaran",
+            "title": "What states have declared coronavirus emergencies?",
+            "description": "Three states across the U.S. have declared a state of emergency as cases of coronavirus continue to climb, with more than 60 cases of infection across the country and 11 deaths, according to the World Health Organization (WHO) on Wednesday.",
+            "url": "https://www.foxnews.com/us/what-states-have-declared-coronavirus-emergencies",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20064754577663.jpg",
+            "publishedAt": "2020-03-05T02:59:15Z",
+            "content": "Three states across the U.S. have declared a state of emergency as cases of coronavirus continue to climb, with more than 60 cases of infection across the country and 11 deaths, according to the World Health Organization (WHO) on Wednesday.\r\nCALIFORNIA GOV. N\u2026 [+1158 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Tennessee confirms its first coronavirus case: officials",
+            "description": "Days after deadly tornadoes ripped through the central part of the state, Tennessee officials on Thursday announced its first case of the novel coronavirus in a man in his 40s.",
+            "url": "https://www.foxnews.com/health/tennesee-confirms-first-coronavirus-case",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fb23517-23e4-4b05-b67a-8a9ec9b6dad1/c4b79e7f-4405-4824-aa25-f03157f0443e/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T16:55:59Z",
+            "content": "Days after deadly tornadoes ripped through the central part of the state, Tennessee officials on Thursday announced its first case of the novel coronavirus in a man in his 40's.\r\nGov. Bill Lee during a Thursday morning press conference said the case was confi\u2026 [+1381 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Premier League prohibits handshakes over coronavirus fears",
+            "description": "The English Premier League is forbidding players from engaging in the customary handshakes between each other and with officials during soccer matches as the coronavirus continues to spread globally.",
+            "url": "https://www.foxnews.com/sports/premier-league-prohibits-handshakes-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/English-Premier-League-Getty.jpg",
+            "publishedAt": "2020-03-05T21:34:20Z",
+            "content": "The English Premier League is forbidding members from engaging in the customary handshakes between players and with officials during soccer matches as the coronavirus continues to spread globally.\r\nThe prohibition on handshakes will begin this weekend and con\u2026 [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew O'Reilly",
+            "title": "Senate approves $8.3B coronavirus spending bill",
+            "description": "The Senate on Thursday passed an $8.3 billion spending bill to help battle the outbreak of coronavirus in the U.S., in a move that came less than 24 hours after the House passed the legislation and in a rare bit of bipartisanship in a deeply divided Congress.",
+            "url": "https://www.foxnews.com/politics/senate-approves-coronavirus-spending-bill",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f41543c-b760-4b92-b312-e1602c750b15/1883010a-488a-4a62-b2a0-6a54f356da92/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T20:12:55Z",
+            "content": "The Senate on Thursday\u00a0passed an $8.3 billion spending bill to help battle the outbreak of coronavirus in the U.S., in a move that came\u00a0less than 24 hours after the House passed the legislation and in a rare bit of bipartisanship in a deeply divided\u00a0Congress.\u2026 [+3290 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Frank Miles",
+            "title": "LAX medical screener tests positive for coronavirus",
+            "description": "A medical screener at Los Angeles International Airport is one of six new confirmed cases of coronavirus in California.",
+            "url": "https://www.foxnews.com/health/lax-medical-screener-tests-positive-for-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/LAX-Airport-iStock.jpg",
+            "publishedAt": "2020-03-05T01:00:14Z",
+            "content": "A medical screener at Los Angeles International Airport is one of six new confirmed cases of coronavirus in California.\r\nThe U.S. Department of Homeland Security says it\u2019s unclear if the person contracted the virus through their work as a medical screener or \u2026 [+1439 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Nevada reports first coronavirus case in patient who recently traveled to Washington state",
+            "description": "A person in Nevada has tested presumptively positive for the novel coronavirus, marking the first case of the virus in the state.",
+            "url": "https://www.foxnews.com/health/nevada-reports-first-coronavirus-case",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7dfecb7-8be2-4624-aeaa-d4f8e68afc28/e9b4aa91-124c-4f04-be24-9ee69d67db4d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T19:43:27Z",
+            "content": "A person in Nevada has tested presumptively positive for the novel coronavirus, marking the first case of the virus in the state.\r\nThe Southern Nevada Health District announced the case in a Thursday news release. The patient, a male in his 50s who lives in C\u2026 [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Starbucks halts use of reusable mugs over coronavirus concerns",
+            "description": "Starbucks is temporarily halting the use of customers\u2019 reusable mugs at their coffee shops due to fears of spreading the coronavirus.",
+            "url": "https://www.foxnews.com/health/starbucks-halts-use-of-reusable-mugs-over-coronavirus-concerns",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/iStock-458253439.jpg",
+            "publishedAt": "2020-03-05T08:30:17Z",
+            "content": "Starbucks\u00a0is temporarily halting the use of reusable mugs at their coffee shops due to concerns about spreading the coronavirus.\r\n\u201cWe are pausing the use of personal cups and \u2018for here\u2019 ware in our stores,\u201d Executive Vice President Rosann Williams wrote in a \u2026 [+1372 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Kim Jong Un sends condolence letter to South Korean over coronavirus outbreak",
+            "description": "North Korean leader Kim Jong-un sent a condolence letter to South Korean President Moon Jae-in over the coronavirus outbreak, officials said on Thursday.",
+            "url": "https://www.foxnews.com/world/kim-jong-un-condolence-letter-south-korean-president-coronavirus-outbreak",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/06/ContentBroker_contentid-07336423a92a48f2bc14c520bba1d619.png",
+            "publishedAt": "2020-03-05T09:10:31Z",
+            "content": "North Korean leader Kim Jong Un\u00a0sent a condolence letter to South Korean\u00a0President Moon Jae-in over the coronavirus outbreak, officials said on Thursday.\r\nIn the letter that was delivered to Moon on Wednesday, Kim wrote that he hoped that South Korea would ov\u2026 [+2333 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Vandana Rambaran",
+            "title": "Matt Gaetz wears gas mask to review coronavirus spending bill",
+            "description": "Rep. Matt Gaetz took precautions to shield himself from the coronavirus, wearing a biohazard mask as he reviewed the supplemental appropriation bill ahead of a vote on Wednesday.",
+            "url": "https://www.foxnews.com/politics/matt-gaetz-gas-mask-coronavirus-bill",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Matt-Gaetz-Coronavirus-TWITTER.jpg",
+            "publishedAt": "2020-03-05T02:01:33Z",
+            "content": "Rep. Matt Gaetz, R-Fla.,\u00a0took precautions to shield himself from the coronavirus, wearing a biohazard mask as he reviewed the supplemental appropriation bill ahead of a vote on\u00a0Wednesday.\r\nGaetz posted a photo of himself in the mask on Twitter and later sat o\u2026 [+1008 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Met Opera institutes 14-day quarantine for some due to virus",
+            "description": "The Metropolitan Opera has instituted quarantines for artists and employees traveling to New York from areas affected by the new coronavirus.",
+            "url": "https://www.foxnews.com/us/met-opera-institutes-14-day-quarantine-for-some-due-to-virus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Met-Opera-House-AP.jpg",
+            "publishedAt": "2020-03-05T00:04:48Z",
+            "content": "The Metropolitan Opera has instituted quarantines for artists and employees traveling to New York from areas affected by the new coronavirus.\r\nDiane Zola, an assistant general manager at the Met, sent an email to artist managers on Tuesday mandating a \u201cself-i\u2026 [+880 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Vandana Rambaran, Melissa Leon",
+            "title": "California Gov. Newsom declares state of emergency after first coronavirus-related death",
+            "description": "California Gov. Gavin Newsom declared a state of emergency Wednesday afternoon just hours after the state confirmed the first death due to coronavirus.",
+            "url": "https://www.foxnews.com/us/california-gov-newsom-declares-state-of-emergency-after-first-coronavirus-related-death",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20058740672099.jpg",
+            "publishedAt": "2020-03-05T00:39:43Z",
+            "content": "California Gov. Gavin Newsom declared a state of emergency Wednesday afternoon just hours after the state confirmed the first death due to coronavirus.\r\nNewsom said at a press conference at the state's capital that there are currently 53 confirmed cases of th\u2026 [+1504 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Morgan Phillips",
+            "title": "Pentagon is 'fully confident' military can withstand threat of coronavirus: Esper",
+            "description": "Defense Secretary Mark Esper said a coronavirus protection plan is being \u201cfinalized\u201d for DoD employees and service members and will be presented to him next week.",
+            "url": "https://www.foxnews.com/us/pentagon-is-fully-confident-military-can-withstand-threat-of-coronavirus-esper",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Esper.jpg",
+            "publishedAt": "2020-03-05T20:30:20Z",
+            "content": "Defense Secretary Mark Esper said a coronavirus protection plan is being \u201cfinalized\u201d for DoD employees and service members and will be presented to him next week.\r\nEsper said he was \u201cfully confident\u201d the Pentagon would be able to perform its functions in the \u2026 [+2582 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joshua Nelson",
+            "title": "Ted Cruz says Trump's quick, 'unprecedented' action helped combat coronavirus in US",
+            "description": "Sen. Ted Cruz, R-Texas, praised\u00a0 President Trump\u2019s actions to\u00a0combat the coronavirus pandemic in the United States Thursday, citing testimony from doctors and medical experts.",
+            "url": "https://www.foxnews.com/media/ted-cruz-trump-unprecedented-action-coronavirus-us",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Screen-Shot-2020-03-05-at-2.35.53-PM.png",
+            "publishedAt": "2020-03-05T20:15:39Z",
+            "content": "Sen. Ted Cruz, R-Texas, praised\u00a0 President Trump\u2019s actions to\u00a0combat the coronaviruspandemic in the United States\u00a0Thursday,\u00a0citing\u00a0testimony from doctors and medical experts.\r\n\u201cWhen the president froze civilian air travel to and from China -- he did that righ\u2026 [+1525 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sam Dorman",
+            "title": "Joy Behar tells people not to listen to President Trump on the coronavirus",
+            "description": "\"The View\" co-host Joy Behar told people on Thursday not to trust the President of the United States when he speaks about the coronavirus pandemic.",
+            "url": "https://www.foxnews.com/media/joy-behar-coronavirus-trump",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/joy20behar20120ABC.jpg",
+            "publishedAt": "2020-03-05T17:42:36Z",
+            "content": "\"The View\" co-host Joy Behar told people on Thursday not to trust President Trump when he speaks about the coronavirus pandemic.\r\n\"Don't listen to Trump! Don't listen to him,\" Behar said, waving her hands.\r\nBehar\u00a0claimed that he had told people to go to work \u2026 [+1481 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christopher Carbone",
+            "title": "Coronavirus outbreak causes some Apple, Facebook products to be in short supply",
+            "description": "Several products from Apple and Facebook are in short supply, potentially showing how the novel coronavirus is impacting the global manufacturing system.",
+            "url": "https://www.foxnews.com/tech/coronavirus-apple-facebook-products-shortage",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/11/apple-ipads-cyber-monday-IPADBER1118.jpg",
+            "publishedAt": "2020-03-05T00:53:02Z",
+            "content": "Several products from Apple and Facebook are in short supply, potentially showing how the novel coronavirus is impacting the global manufacturing system.\r\nAccording to Bloomberg News, the iPad Pro tablet has limited availability at stores in major cities in t\u2026 [+1407 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Los Angeles could eventually bar fans from sporting events amid coronavirus spread",
+            "description": "Officials in Los Angeles County are discussing the possibility of barring fans from attending sports events in an effort to mitigate the spread of the coronavirus.",
+            "url": "https://www.foxnews.com/health/la-officials-weigh-extreme-possibility-of-barring-fans-from-sports-events-amid-coronavirus-spread",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20061708402043.jpg",
+            "publishedAt": "2020-03-05T05:18:48Z",
+            "content": "Officials in Los Angeles County are reportedly discussing the possibility of barring fans from attending sporting\u00a0events in an effort to mitigate the spread of the coronavirus.\r\n\u201cIf at any point we think that there\u2019s good reason for us to be worried about ext\u2026 [+2219 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Pirates sanitize LECOM Park as proactive measure vs. virus",
+            "description": "The Pittsburgh Pirates have given their spring training home a deep clean as a proactive measure after a man in Manatee County tested positive for coronavirus.",
+            "url": "https://www.foxnews.com/sports/pirates-sanitize-lecom-park-as-proactive-measure-vs-virus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Pirates-cleaning.jpg",
+            "publishedAt": "2020-03-05T10:29:16Z",
+            "content": "The Pittsburgh Pirates have given their spring training home a deep clean as a proactive measure after a man in Manatee County tested positive for coronavirus.\r\nPirates spokesman Brian Warecki said workers sanitized the clubhouse, press box, concession stands\u2026 [+437 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "\u201cIt\u2019s A Tough Day To Be A Democrat\u201d: Lara Trump On Biden, Sanders & Bloomberg",
+            "description": "Lara Trump talks about her father-in-law\u2019s campaign. Plus, commentary by Kat Timpf.",
+            "url": "https://radio.foxnews.com/2020/03/05/the-fox-news-rundown-3-5-2020/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/04/rundown-featured.png",
+            "publishedAt": "2020-03-05T10:00:02Z",
+            "content": "Suddenly former Vice President Joe Biden is the frontrunner in a shrinking pool of Democrat candidates in the 2020 Presidential race. President Trump's senior campaign advisor Lara Trump talks about her father-in-law's campaign, the Democrats who are still le\u2026 [+440 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus has mutated at least once, second strain detected: study",
+            "description": "The novel coronavirus that has infected thousands of people across the world may have mutated at least once \u2014 meaning there may be two different types of the virus causing illnesses, a new study conducted by Chinese scientists suggests.",
+            "url": "https://www.foxnews.com/health/coronavirus-has-mutated-at-least-once-second-strain-detected-study",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25ac1769-1520-4553-b847-17edac2f3065/81c60e04-d535-4e24-8bf0-16fef71a1b46/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T14:46:16Z",
+            "content": "The novel coronavirus that has infected thousands of people across the world may have mutated at least once \u2014 meaning there may be two different types of the virus causing illnesses, a new study conducted by Chinese scientists suggests.\r\nScientists with Pekin\u2026 [+1598 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Morgan Phillips",
+            "title": "Coronavirus confirmed cases and fatalities, state by state",
+            "description": "As of noon Wednesday, 13 states across the U.S. have reported over 80 confirmed, non repatriated cases of the novel coronavirus. Of those cases, 24 were travel-related, 16 were person-to-person spread and 40 are still under investigation. Here are the infecte\u2026",
+            "url": "https://www.foxnews.com/us/coronavirus-confirmed-cases-and-fatalities-state-by-state",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Costco-1.jpg",
+            "publishedAt": "2020-03-05T00:50:39Z",
+            "content": "As of noon Wednesday, 13 states across the U.S. have reported over 80 confirmed\u00a0nonrepatriated cases of the novel coronavirus, according to the CDC.\u00a0Of those cases, 24 were travel-related, 16 were person-to-person spread and 40 are still under investigation. \u2026 [+3273 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "Coronavirus reaches New Jersey as state confirms its first presumptive positive case of novel virus",
+            "description": "New Jersey has joined a growing list of states with cases of the novel coronavirus. On Wednesday, officials in the state confirmed the first presumptive positive case of COVID-19 in a male in his 30s.",
+            "url": "https://www.foxnews.com/health/new-jersey-coronavirus-presumptive-positive-case",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7dfecb7-8be2-4624-aeaa-d4f8e68afc28/e9b4aa91-124c-4f04-be24-9ee69d67db4d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T15:52:20Z",
+            "content": "New Jersey has joined a growing list of states with confirmed cases of the novel coronavirus. On Wednesday, officials in the state confirmed the first presumptive positive case of COVID-19 in a 32-year-old male.\r\nThe patient, who was not identified, has been \u2026 [+2497 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "New Hampshire man ignored advice to stay home before testing positive for coronavirus, raises self-quarantine questions",
+            "description": "A New Hampshire man testing positive as the first case of coronavirus in the state this week has raised questions about self-quarantine after he ignored medical advice to stay home last Friday.",
+            "url": "https://www.foxnews.com/health/n-h-man-who-ignored-advice-to-stay-home-before-he-tested-positive-for-coronavirus-prompts-self-quarantine-questions",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25ac1769-1520-4553-b847-17edac2f3065/81c60e04-d535-4e24-8bf0-16fef71a1b46/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T06:45:12Z",
+            "content": "A New Hampshire man testing positive as the first case of coronavirus in the state this week is raising questions about self-quarantine after he ignored medical advice to stay home last Friday.\r\nInstead of avoiding contact with others as he was advised to do \u2026 [+2293 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tyler Olson",
+            "title": "Iranian Revolutionary Guard commander says coronavirus may have been caused by US biological attack",
+            "description": "The commander of the Iranian Revolutionary Guard Corps (IRGC) said the coronavirus might be the result of a biological attack from the United States, according to a local news agency",
+            "url": "https://www.foxnews.com/world/iran-revolutionary-guard-coronavirus-us-biological-attack",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfd1bbbb-0dc6-4594-b7ed-78045b4f0ba1/15de14f3-36a0-4237-9dee-687b0a6f8506/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T13:00:04Z",
+            "content": "The commander of the Iranian Revolutionary Guard Corps (IRGC) said the coronavirus might be the result of a biological attack from the United States, according to a\u00a0local news agency.\r\nMaj. Gen. Hossein Salami, who has\u00a0previously vowed to \"cleanse the planet \u2026 [+1688 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jason Chaffetz",
+            "title": "Jason Chaffetz: Coronavirus spending increase vital \u2013 but we must cut other spending to avert deficit increase",
+            "description": "House Republicans and Democrats acted in our nation\u2019s best interests Wednesday afternoon when they united to vote 415 to 2 to approve $8.3 billion in emergency funding to respond to the outbreak of the coronavirus.",
+            "url": "https://www.foxnews.com/opinion/jason-chaffetz-coronavirus-spending-increase-vital-but-we-must-cut-other-spending-to-avert-deficit-increase",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fb23517-23e4-4b05-b67a-8a9ec9b6dad1/c4b79e7f-4405-4824-aa25-f03157f0443e/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T00:06:22Z",
+            "content": "House Republicans and Democrats acted in our nation\u2019s best interests Wednesday afternoon when they united to vote 415 to 2 to approve $8.3 billion in emergency funding to respond to the outbreak of the coronavirus.\r\nThe bill now goes to the Senate, where it i\u2026 [+4553 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Nick Givas",
+            "title": "Hand sanitzer being rationed at grocery store chain amid coronavirus buying frenzy",
+            "description": "Kroger, one of America's largest supermarket chains, has capped the amount of sanitization and cold and flu products customers can order on their website, due to the high volume of demand amid the coronavirus outbreak.",
+            "url": "https://www.foxnews.com/us/hand-sanitzer-rationed-grocery-store-chain-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/hand_sanitizer_istock660.jpg",
+            "publishedAt": "2020-03-05T23:59:36Z",
+            "content": "Kroger, one of America's largest supermarket chains, has capped the amount of sanitizating\u00a0and cold and flu products customers can order on its website, due to the high volume of demand amid the coronavirus outbreak.\r\nThe company's website pinned a\u00a0message to\u2026 [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Ohio's Arnold Sports Festival to be closed to spectators amid coronavirus outbreak",
+            "description": "Ohio government and health officials announced Tuesday that athletic competitions will proceed as planned at the Arnold Sports Festival but no spectators will be allowed in all but two events amid fears of potentially spreading the new coronavirus.",
+            "url": "https://www.foxnews.com/us/ohio-arnold-sports-festival-closed-to-spectators-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Arnold-SCHWARZENEGGER-REUTERS.jpg",
+            "publishedAt": "2020-03-05T00:28:55Z",
+            "content": "Ohio government and health officials announced Tuesday\u00a0that athletic competitions will proceed as planned at the Arnold Sports Festival but no spectators will be allowed in all but two events amid fears of potentially spreading the new coronavirus.\r\nRepublica\u2026 [+2239 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Morgan Phillips",
+            "title": "21 people on Princess cruise ship heading toward Calif. show possible coronavirus symptoms: officials",
+            "description": "The Princess Grand cruise ship headed from Hawaii toward San Francisco contains 21 people who are showing possible symptoms of the novel coronavirus, according to California Gov. Gavin Newsom.",
+            "url": "https://www.foxnews.com/us/cluster-princess-cruise-ship-california-show-possible-coronavirus-symptoms-officials",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/AP20036030761789.jpg",
+            "publishedAt": "2020-03-05T02:08:52Z",
+            "content": "The Princess Grand cruise ship headed from Hawaii toward San Francisco contains 21 people who are showing possible symptoms of the novel coronavirus, according to California Gov. Gavin Newsom.\r\n\u201cThe ship will not come onshore until we properly assess passenge\u2026 [+1345 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Facebook employee in Seattle diagnosed with coronavirus, as 39 infected in region",
+            "description": "A Facebook employee who worked in the company's Seattle office has been diagnosed with coronavirus, as the death toll in the state climbed to 10 on Wednesday and other tech giants took measures to protect their workers.",
+            "url": "https://www.foxnews.com/health/facebook-employee-diagnosed-coronavirus-hard-hit-washington-state",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/image-3.png",
+            "publishedAt": "2020-03-05T06:01:02Z",
+            "content": "A Facebook employee who worked in the company's Seattle office\u00a0has been diagnosed with coronavirus, as the death toll in the state on Wednesday climbed to 10.\r\nFacebook and other tech giants took measures to protect their workers. Facebook\u00a0alerted employees a\u2026 [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "ER doctor: Americans must live their lives, 98 to 99% of people who get coronavirus will 'do just fine'",
+            "description": "In the face of rapidly-spreading coronavirus anxiety, Americans must continue to live their lives, GW School of Medicine and Health Sciences' Disaster and Operational Medicine Fellowship Director Dr. James Phillips said Tuesday.",
+            "url": "https://www.foxnews.com/media/james-phillips-americans-must-live-their-lives-99-of-people-who-get-cv-will-be-fine",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/CORONA.jpg",
+            "publishedAt": "2020-03-05T16:51:40Z",
+            "content": "In the face of rapidly spreading coronavirus anxiety, Americans must continue to live their lives, said emergency room physician\u00a0Dr. James Phillips.\r\nIn an interview Tuesday\u00a0on \"America's Newsroom\" with host Ed Henry, Phillips stressed that\u00a0the\u00a0vast majority \u2026 [+1802 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "UMKC, Chicago State men's hoops not traveling due to virus",
+            "description": "Missouri-Kansas City has joined Chicago State in canceling a trip to Seattle for a regularly scheduled Western Athletic Conference men's basketball game this week over concerns about the spread of the coronavirus, the conference announced Wednesday.",
+            "url": "https://www.foxnews.com/sports/umkc-chicago-state-mens-hoops-not-traveling-due-to-virus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/NCAA-court-2-1.jpg",
+            "publishedAt": "2020-03-05T10:39:39Z",
+            "content": "Missouri-Kansas City has joined Chicago State in canceling a trip to Seattle for a regularly scheduled Western Athletic Conference men's basketball game this week over concerns about the spread of the coronavirus, the conference announced Wednesday.\r\nUMKC was\u2026 [+2831 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "New coronavirus cases continue to crop up as US officials work to contain outbreak",
+            "description": "The World Health Organization says the number of new COVID-19 infections is now 17 times greater outside China than in it, with major outbreaks growing in South Korea, Italy and Iran; Jonathan Serrie reports from Atlanta.",
+            "url": "http://video.foxnews.com/v/6138848162001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e9f8efc-8f1f-4e14-9a0f-59ea3eb9b13c/6e7fcca9-3d6e-4717-b743-747dc54adc38/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T23:24:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "San Francisco reports 2 cases of coronavirus in patients with 'no known contact'",
+            "description": "One patient is described to be in her 40s and is in fair condition, while the other is a man in his 90s who has underlying health issues and is in serious condition.",
+            "url": "https://www.foxnews.com/health/san-francisco-reports-2-cases-coronavirus",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea4353b4-e7e1-45ea-abf3-f8000fda7cf3/0eeb89ff-e529-4331-ae9a-96089b5931e4/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T20:13:50Z",
+            "content": "Health officials in San Francisco announced two cases of presumptive positive coronavirus in two unrelated patients who are being cared for in separate hospitals and have no known prior contact with COVID-19. Officials said the cases are \u201clikely indicative of\u2026 [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Madeline Farber",
+            "title": "California official briefing on coronavirus licks her fingers moments after warning not to touch your face",
+            "description": "The idiom \u201cDo as I say, not as a I do\u201d could not be more true for one health official in California.",
+            "url": "https://www.foxnews.com/health/california-official-briefing-on-coronavirus-licks-her-fingers-moments-after-warning-not-to-touch-your-face",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24e61b51-aa69-48c4-abf1-d8048bef46d8/3c85968a-8a31-4e48-826d-a326d41ff7ed/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T15:22:38Z",
+            "content": "The idiom \u201cDo as I say, not as\u00a0I do\u201d could not be more true for one health official in California.\r\nMoments after warning Santa Clara County residents to avoid touching their faces to prevent contracting the novel coronavirus, the director of the county\u2019s hea\u2026 [+2034 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Maria Bartiromo warns of 'hundreds of thousands' of coronavirus cases in US over next 6-12 months",
+            "description": "Fox Business Network's Maria Bartiromo said Thursday on \"Bill Hemmer Reports\" that viewers should expect \"hundreds of thousands\" of cases in the United States over the next several months.",
+            "url": "https://www.foxnews.com/media/maria-bartiromo-hundreds-of-thousands-of-coronavirus-cases",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/MariaBartiromo.jpg",
+            "publishedAt": "2020-03-05T22:44:48Z",
+            "content": "Fox Business Network's\u00a0Maria Bartiromo\u00a0said Thursday on\u00a0\"Bill Hemmer Reports\" that investors should expect \"constant\" stock market volatility due to the\u00a0coronavirus\u00a0outbreak and warned viewers to expect \"hundreds of thousands\" of cases in the United States ov\u2026 [+1896 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Vandana Rambaran",
+            "title": "AIPAC attendees, including several lawmakers, told not to 'sound the alarm' about risk of coronavirus at conference",
+            "description": "Washington lawmakers and other attendees of the American Israel Public Affairs Committee's (AIPAC) annual policy conference were warned by the organization Wednesday that a group of attendees had potentially been in contact with a person from New York who had\u2026",
+            "url": "https://www.foxnews.com/politics/aipac-attendees-including-several-lawmakers-told-not-to-worry-about-coronavirus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AIPAC-AP-1.jpg",
+            "publishedAt": "2020-03-05T02:30:17Z",
+            "content": "Washington lawmakers and other attendees of the American Israel Public Affairs Committee's (AIPAC) annual policy conference were warned by the organization Wednesday that a group of attendees had potentially been in contact with a person from New York who had\u2026 [+2213 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephen Sorace",
+            "title": "Washington county recommends all 2.2M residents to work from home, tells over 60's to stay indoors",
+            "description": "A Washington state county, where 31 coronavirus cases and 9 deaths have been reported, has advised its 2.2 million residents to work from home to help slow the spread of the infectious disease, and further urged everyone over 60 to stay indoors.",
+            "url": "https://www.foxnews.com/us/washington-king-county-coronavirus-residents-work-from-home",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/seattle-virus1-AP.jpg",
+            "publishedAt": "2020-03-05T13:56:06Z",
+            "content": "A Washington state county, where 31 coronavirus cases and 9 deaths have been reported, has recommended to\u00a0its 2.2 million residents that they should\u00a0work from home to help slow the spread of the infectious disease, and further urged everyone over 60 to stay i\u2026 [+3357 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Schumer faces growing backlash over Supreme Court comment, Trump calls for 'serious action'",
+            "description": "",
+            "url": "https://www.foxnews.com/us/schumer-faces-growing-backlash-over-supreme-court-comment-trump-calls-for-serious-action",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/SchumerTrump030520.jpg",
+            "publishedAt": "2020-03-05T09:16:28Z",
+            "content": "Good morning and welcome to Fox News First. Here's what you need to know as you start your day ...\r\nTrump joins Chief Justice Roberts in rebuking Schumer over Supreme Court comment as NY senator faces backlashPresident Trump joined the growing backlash facing\u2026 [+5461 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alexandria Hein",
+            "title": "Illinois confirms 5th case of coronavirus in man who traveled to Italy",
+            "description": "The man had traveled to Italy and returned to the U.S. via Chicago O'Hare Airport.",
+            "url": "https://www.foxnews.com/health/illinois-confirms-5th-case-of-coronavirus-in-man-who-traveled-to-italy",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/869b34ec-44a2-4ff7-897a-097bfc7c41d8/53c9c0f2-e5f2-4619-ad22-7405440dcc9d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T18:22:22Z",
+            "content": "Health officials in Illinois have confirmed the state\u2019s fifth case of coronavirus in a Cook County resident in his 20s who traveled to Italy before returning to the U.S. via Chicago O\u2019Hare Airport. In a press conference held Thursday, officials said the man i\u2026 [+1118 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Amesh Adalja, Jennifer Nuzzo",
+            "title": "Drs. Amesh Adalja and Jennifer Nuzzo: End coronavirus health care worker quarantines",
+            "description": "If this policy continues it will be disastrous and further cripple what will already be an over-extended health care system coping with a surge of patients.",
+            "url": "https://www.foxnews.com/opinion/end-coronavirus-health-care-worker-quarantines-drs-amesh-adalja-and-jennifer-nuzzo",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/633e6c46-edb2-4db4-9afc-c663d106fe9a/adaeed4a-3b0c-4a7c-a255-85a7dceb26b5/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T14:29:59Z",
+            "content": "As community-spread of the novel coronavirus is increasingly recognized, many health care providers all over the country will be encountering patients, in all care settings, who may be infected. While many encounters may occur with the appropriate personal pr\u2026 [+2989 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Coronavirus outbreak prompts Tito's Vodka to remind customers that vodka isn't hand sanitizer",
+            "description": "Vodka is for drinking, not staying healthy.",
+            "url": "https://www.foxnews.com/food-drink/coronavirus-vodka-hand-sanitizer",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/vodka.jpg",
+            "publishedAt": "2020-03-05T21:54:38Z",
+            "content": "Vodka is for drinking, not staying healthy.\r\nIt turns out, vodka isn\u2019t an effective substitute for hand sanitizer, which is apparently a thing that some people have been asking vodka makers. If all you have is vodka, just wash your hands normally and enjoy a \u2026 [+1481 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janine Puhak",
+            "title": "Coronavirus-inspired TikTok dance reminds social-media users to wash hands",
+            "description": "Watch out, Wuhan Shake \u2013 there\u2019s a hot new virus-prevention PSA rocking social media.",
+            "url": "https://www.foxnews.com/lifestyle/coronavirus-inspired-tiktok-dance-reminds-social-media-users-to-wash-hands",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/iStock-910609644.jpg",
+            "publishedAt": "2020-03-05T15:33:20Z",
+            "content": "Watch out, Wuhan Shake \u2013 there\u2019s a hot new virus-prevention PSA rocking social media.\r\nAmid the ongoing COVID-19 outbreak, a Vietnamese pop song has been remixed into a ballad on the importance of hand-washing that has inspired a viral TikTok dance and challe\u2026 [+2757 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Bartiromo",
+            "title": "UK-based Flybe airline collapses, decreased demand amid coronavirus outbreak said to be a factor",
+            "description": "\u201cIf you are due to fly with Flybe, please DO NOT TRAVEL TO THE AIRPORT,\" reads a message posted to the carrier's site.",
+            "url": "https://www.foxnews.com/travel/uk-based-flybe-airline-collapses-coronavirus-outbreak-said-factor",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/FlyBeAPPeterByrnePAviaAP.jpg",
+            "publishedAt": "2020-03-05T17:04:56Z",
+            "content": "Low-cost British airline Flybe collapsed on Thursday, grounding all flights and ceasing all trading \u201cwith immediate effect,\u201d according to a message posted to the carrier\u2019s website.\r\nFlybe, which started operating in 1979,\u00a0had been facing financial struggles f\u2026 [+2335 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Leavitt",
+            "title": "Michael Leavitt: To prepare for coronavirus, here\u2019s what all of us must do",
+            "description": "When it comes to a pandemic, there is a role for everyone to play. For the world to be prepared, every nation, every city, every business, every school, every hospital, every clinic, every church, and every household needs a plan.",
+            "url": "https://www.foxnews.com/opinion/michael-leavitt-to-prepare-for-coronavirus-heres-what-all-of-us-must-do",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfd1bbbb-0dc6-4594-b7ed-78045b4f0ba1/15de14f3-36a0-4237-9dee-687b0a6f8506/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T13:00:51Z",
+            "content": "During the period when I was secretary of the U.S. Department of Health and Human Services from 2005 to 2009, leaders around the world became concerned about the emergence of an influenza virus with pandemic potential known as the H5N1.\r\nAs I assessed our nat\u2026 [+10834 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lucia Suarez Sang",
+            "title": "Amid coronavirus panic, Australian newspaper prints extra pages because of toilet paper shortage",
+            "description": "Toilet paper has been flying off the shelves around the world as coronavirus-wary consumers begin stockpiling large quantities of emergency and household supplies.",
+            "url": "https://www.foxnews.com/world/coronavirus-australia-newspaper-toilet-paper",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Aussie-TP-RT-1.jpg",
+            "publishedAt": "2020-03-05T13:35:46Z",
+            "content": "Toilet paper has been disappearing from shelves around the world as coronavirus-wary consumers stockpile\u00a0emergency and household supplies.\r\nA notice stuck to a shelf instructing customers about a limit on toilet paper purchases is pictured in a supermarket am\u2026 [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Today on Fox News: March 5, 2020",
+            "description": "",
+            "url": "https://www.foxnews.com/media/today-on-fox-news-march-5-2020",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/THTrump030520.png",
+            "publishedAt": "2020-03-05T09:30:15Z",
+            "content": "STAY TUNED\r\nOn Fox News:\u00a0\r\nFox News Town Hall with President Trump: Don't miss this must-see town hall from Scranton, Pa., moderated by Bret Baier and Martha MacCallum, at 6:30 p.m. ET!\r\nOn Fox News Radio:\r\nThe Fox News Rundown podcast:\"It's a\u00a0tough day to be\u2026 [+913 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gregg Re",
+            "title": "Trump set to take stage at Fox News Town Hall as once-oversized Democratic primary field takes shape",
+            "description": "President Trump was set to take the take the stage at the Fox News Town Hall in Scranton, Pa., at 6:30 p.m. ET., as the Democratic presidential field winnowed to the rivals he has dubbed \"Sleepy Joe\" Biden and \"Crazy Bernie\" Sanders.",
+            "url": "https://www.foxnews.com/politics/trump-fox-news-town-hall",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114e24f0-5d1a-41c3-a6d7-588832238948/d4e8b056-17ce-4939-bf38-1032604c6a8e/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T21:49:42Z",
+            "content": "President Trump was set to take the take the stage at the Fox News Town Hall in\u00a0Scranton, Pa., at 6:30 p.m. ET., as the Democratic presidential field winnowed down\u00a0to the rivals he has dubbed \"Sleepy Joe\" Biden and \"Crazy Bernie\" Sanders.\r\nHours earlier, Trum\u2026 [+2362 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Millennials are the generation most worried about coronavirus",
+            "description": "54 percent say coronavirus has impacted their purchase decisions; Fox Biz Flash: 3/5.",
+            "url": "http://video.foxnews.com/v/6138843622001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c32bf1ec-546c-43d2-aab4-17b48a6ac2ed/63b8c038-6143-465e-967e-dcbe14f26914/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T22:55:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Tottenham midfielder Eric Dier rushes into stands to confront fans",
+            "description": "Tottenham midfielder Eric Dier left the pitch Wednesday after his club\u2019s match with Norwich City in the FA Cup to confront fans who were allegedly insulting his brother in the stands.",
+            "url": "https://www.foxnews.com/sports/tottenham-eric-dier-stands-confront-fan",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Eric-Dier.jpg",
+            "publishedAt": "2020-03-05T16:15:32Z",
+            "content": "Tottenham midfielder Eric Dier jumped into the stands Wednesday after his club\u2019s FA Cup match with Norwich City to confront fans who were allegedly insulting his brother.\r\nDier was caught on video jogging down the sideline after Tottenham\u2019s penalty shootout l\u2026 [+1481 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "William Sanchez",
+            "title": "Elizabeth Warren Bails, Now It\u2019s Two 70-Something White Guys",
+            "description": "Howie Kurtz on Elizabeth Warren ending her presidential campaign, the media's coverage of the coronavirus contributing to people's fear of the illness and Senate Minority Leader Chuck Schumer under fire for his comments aimed at Supreme Court Justices Neil Go\u2026",
+            "url": "https://radio.foxnews.com/2020/03/05/elizabeth-warren-bails-now-its-two-70-something-white-guys/",
+            "urlToImage": "https://radio.foxnews.com/wp-content/uploads/2018/07/social_buzzmeter_featured.png",
+            "publishedAt": "2020-03-05T18:05:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charlie Kirk",
+            "title": "Charlie Kirk: Trump has a tried and true way of connecting with Americans, and it baffles the left",
+            "description": "The left has no way to comprehend the MAGA moment we\u2019re in because they\u2019re no longer grateful to live in America. They don\u2019t want to make it great again. They want to \u201cfundamentally transform\u201d it.",
+            "url": "https://www.foxnews.com/opinion/charlie-kirk-trump-has-a-tried-and-true-way-of-connecting-with-americans-and-it-baffles-the-left",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5cb3f7d-bc16-4710-a0d6-41451d6f23a4/a18757d9-15b1-44a2-8a87-52cd82849d04/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-05T10:00:40Z",
+            "content": "No man has completely controlled American politics the way President Donald J. Trump has. Not Reagan, not Roosevelt, not even Lincoln. No national news story is complete without including his most recent comments. No policy is worth discussing unless we know \u2026 [+5005 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Woman sentenced for biting airplane captain over baby carriage disagreement",
+            "description": "Crime doesn\u2019t pay, and neither does biting airplane captains.",
+            "url": "https://www.foxnews.com/travel/woman-sentenced-heathrow-airport-biting-captain",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/heathrow-airport.jpg",
+            "publishedAt": "2020-03-05T18:41:59Z",
+            "content": "Crime doesn\u2019t pay, and neither does biting airplane captains.\r\nA woman from England is facing jail time after being found guilty of assaulting her airplane captain on a flight at London's\u00a0Heathrow Airport in May 2019. The woman continues to deny the charges.\r\u2026 [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lucia Suarez Sang",
+            "title": "Former Italian PM Silvio Berlusconi breaks up with longtime girlfriend to date even younger woman",
+            "description": "Former Italian Prime Minister Silvio Berlusconi has reportedly split from his longtime girlfriend and has started dating an even younger woman \u2013 who is 53 years his junior.",
+            "url": "https://www.foxnews.com/world/former-italian-pm-silvio-berlusconi-breaks-up-with-long-term-girlfriend-to-date-even-younger-woman",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Silvio-Berlusconi-and-Francesca-Pascale-2-Reuters.jpg",
+            "publishedAt": "2020-03-05T16:38:59Z",
+            "content": "Former Italian Prime Minister Silvio Berlusconi has reportedly split from his longtime girlfriend and has started dating an even younger woman \u2013 53 years his junior.\r\nThe 83-year-old self-styled godfather of Italian politics had dated Francesca Pascale, 34, s\u2026 [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Lara Trump: Bloomberg is part of establishment's effort to 'prop up' Biden like 'Weekend at Bernie's'",
+            "description": "Trump 2020 campaign senior adviser Lara Trump has claimed that former New York City Mayor Mike Bloomberg played a part in the Democratic establishment's effort to \"prop up\" former Vice President Joe Biden, diminishing Bloomberg's impact on the race hours afte\u2026",
+            "url": "https://www.foxnews.com/media/lara-trump-bloomberg-prop-up-biden",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/lara-trump.png",
+            "publishedAt": "2020-03-05T11:30:18Z",
+            "content": "Trump 2020 campaign senior adviser Lara Trump has claimed that\u00a0former New York City Mayor\u00a0Mike Bloomberg\u00a0played a\u00a0part in the Democratic\u00a0establishment's effort to \"prop up\" former Vice President\u00a0Joe Biden, diminishing Bloomberg's\u00a0impact on the race hours afte\u2026 [+2430 chars]"
+        }
+    ]
+}

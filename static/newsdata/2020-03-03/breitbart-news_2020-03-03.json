@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
@@ -85,19 +85,6 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Ian Hanchett",
-            "title": "Biden: Trump \u2018Has No Credibility\u2019 on Coronavirus",
-            "description": "During an interview aired on Monday's broadcast of MSNBC's \"The Last Word,\" 2020 Democratic presidential candidate former Vice President Joe Biden stated | Clips During an interview aired on Monday's broadcast of MSNBC's \"The Last Word,\" 2020 Democratic presi\u2026",
-            "url": "https://www.breitbart.com/clips/2020/03/02/biden-trump-has-no-credibility-on-coronavirus/",
-            "urlToImage": "https://media.breitbart.com/media/2020/02/49405308852_87cd83b2d7_o-640x335.jpg",
-            "publishedAt": "2020-03-03T04:29:18Z",
-            "content": "During an interview aired on Monday\u2019s broadcast of MSNBC\u2019s \u201cThe Last Word,\u201d 2020 Democratic presidential candidate former Vice President Joe Biden stated that President Trump \u201chas no credibility\u201d on coronavirus.\r\nBiden stated, \u201c[T]he whole question on crises \u2026 [+371 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
             "author": "Joshua Caplan",
             "title": "Two Coronavirus Cases Confirmed in Georgia",
             "description": "The state of Georgia confirmed Monday that two people have tested positive for the deadly coronavirus upon returning from Italy, where a growing outbreak had occurred.",
@@ -105,6 +92,19 @@
             "urlToImage": "https://media.breitbart.com/media/2019/12/Georgia-Gov-Brian-Kemp-Sept12-19-AP-640x335.jpg",
             "publishedAt": "2020-03-03T14:43:57Z",
             "content": "The state of\u00a0Georgia confirmed Monday that two people have tested\u00a0positive for the deadly coronavirus on returning from\u00a0Italy.\r\nThe pair live together in Fulton County, reports the\u00a0Atlanta Journal-Constitution.\r\nI want to reassure you that theyre at home, in \u2026 [+1280 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Ian Hanchett",
+            "title": "Biden: Trump \u2018Has No Credibility\u2019 on Coronavirus",
+            "description": "During an interview aired on Monday's broadcast of MSNBC's \"The Last Word,\" 2020 Democratic presidential candidate former Vice President Joe Biden stated | Clips During an interview aired on Monday's broadcast of MSNBC's \"The Last Word,\" 2020 Democratic presi\u2026",
+            "url": "https://www.breitbart.com/clips/2020/03/02/biden-trump-has-no-credibility-on-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/02/49405308852_87cd83b2d7_o-640x335.jpg",
+            "publishedAt": "2020-03-03T04:29:18Z",
+            "content": "During an interview aired on Monday\u2019s broadcast of MSNBC\u2019s \u201cThe Last Word,\u201d 2020 Democratic presidential candidate former Vice President Joe Biden stated that President Trump \u201chas no credibility\u201d on coronavirus.\r\nBiden stated, \u201c[T]he whole question on crises \u2026 [+371 chars]"
         },
         {
             "source": {
@@ -138,19 +138,6 @@
                 "name": "Breitbart News"
             },
             "author": "Simon Kent",
-            "title": "Anger as U.N. Cuts Two-Week Women\u2019s Conference over Coronavirus Fears",
-            "description": "A two-week United Nations meeting on gender equality, female empowerment and \"women's issues\" was cut Monday due to the coronavirus outbreak.",
-            "url": "https://www.breitbart.com/politics/2020/03/03/anger-as-u-n-cuts-two-week-womens-conference-over-coronavirus-fears/",
-            "urlToImage": "https://media.breitbart.com/media/2018/04/International-Womens-Day-In-Berlin.png",
-            "publishedAt": "2020-03-03T09:37:02Z",
-            "content": "A two-week United Nations meeting on gender equality, female empowerment and \u201cwomen\u2019s issues\u201d was cut Monday due to the coronavirus outbreak.\r\nThis sparked an outcry from 12,000 disappointed delegates, diplomats and non-government organizations scheduled to f\u2026 [+3017 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
-            "author": "Simon Kent",
             "title": "World Health Organization Warns Against Hurtful Words, Damaged Feelings in Coronavirus Fight",
             "description": "Using \"incorrect\" words and language may have a negative meaning and fuel stigmatizing attitudes towards coronavirus victims, the World Health Organization (WHO) warned on Monday.",
             "url": "https://www.breitbart.com/politics/2020/03/03/world-health-organization-warns-against-hurtful-words-damaged-feelings-in-coronavirus-fight/",
@@ -170,6 +157,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/03/water-cannon-640x335.jpg",
             "publishedAt": "2020-03-03T17:24:07Z",
             "content": "Security forces deployed drones and water cannons across Iran on Tuesday in a bid to contain the coronavirus, a sign of the severity of the country\u2019s outbreak.\r\nFootage broadcast by Iranian state media\u00a0showed water cannons, usually used to disperse anti-gover\u2026 [+3398 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Simon Kent",
+            "title": "Anger as U.N. Cuts Two-Week Women\u2019s Conference over Coronavirus Fears",
+            "description": "A two-week United Nations meeting on gender equality, female empowerment and \"women's issues\" was cut Monday due to the coronavirus outbreak.",
+            "url": "https://www.breitbart.com/politics/2020/03/03/anger-as-u-n-cuts-two-week-womens-conference-over-coronavirus-fears/",
+            "urlToImage": "https://media.breitbart.com/media/2018/04/International-Womens-Day-In-Berlin.png",
+            "publishedAt": "2020-03-03T09:37:02Z",
+            "content": "A two-week United Nations meeting on gender equality, female empowerment and \u201cwomen\u2019s issues\u201d was cut Monday due to the coronavirus outbreak.\r\nThis sparked an outcry from 12,000 disappointed delegates, diplomats and non-government organizations scheduled to f\u2026 [+3017 chars]"
         },
         {
             "source": {
@@ -254,19 +254,6 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Penny Starr",
-            "title": "Airlines Face Loss of Up to $30 Billion in Revenues in Wake of Coronavirus",
-            "description": "Industry experts say airlines worldwide could lose as much as $30 billion this year, with Chinese carriers facing a $12.8 billion deficit.",
-            "url": "https://www.breitbart.com/politics/2020/03/02/airlines-face-loss-of-up-to-30-billion-in-revenues-in-wake-of-coronavirus/",
-            "urlToImage": "https://media.breitbart.com/media/2020/01/wi/afp/31/410663_xiamen-airlines-plane-flew-73-passengers-bangkok-wuhan-epicentre-outbreak-640x335.jpg",
-            "publishedAt": "2020-03-03T01:07:38Z",
-            "content": "The spread of the coronavirus from its epicenter in central China to infections identified around the world is having a severe impact on airlines as consumers cancel or delay travel plans. Industry experts say airlines worldwide could lose as much as $30 bill\u2026 [+2415 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
             "author": "Jeff Poor",
             "title": "Exclusive \u2014 Sessions Warns of China Threat on Trade, Technology, Pharmaceuticals in Wake of the Coronavirus Outbreak",
             "description": "During a one-on-one interview with Breitbart News, former U.S. Attorney General Jeff Sessions, a Republican candidate for the U.S. Senate seat he held for two decades before serving as attorney general, elaborated on the threat of China, and credited Presiden\u2026",
@@ -274,6 +261,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/03/Sessions32-640x335.jpg",
             "publishedAt": "2020-03-03T01:37:39Z",
             "content": "The spread of coronavirus disease (COVID-19), from China\u2019s Wuhan to throughout the globe, has raised questions about the United States and its reliance upon China for manufacturing goods, some of which are vital to the national security of the United States.\r\u2026 [+6873 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Penny Starr",
+            "title": "Airlines Face Loss of Up to $30 Billion in Revenues in Wake of Coronavirus",
+            "description": "Industry experts say airlines worldwide could lose as much as $30 billion this year, with Chinese carriers facing a $12.8 billion deficit.",
+            "url": "https://www.breitbart.com/politics/2020/03/02/airlines-face-loss-of-up-to-30-billion-in-revenues-in-wake-of-coronavirus/",
+            "urlToImage": "https://media.breitbart.com/media/2020/01/wi/afp/31/410663_xiamen-airlines-plane-flew-73-passengers-bangkok-wuhan-epicentre-outbreak-640x335.jpg",
+            "publishedAt": "2020-03-03T01:07:38Z",
+            "content": "The spread of the coronavirus from its epicenter in central China to infections identified around the world is having a severe impact on airlines as consumers cancel or delay travel plans. Industry experts say airlines worldwide could lose as much as $30 bill\u2026 [+2415 chars]"
         },
         {
             "source": {
@@ -300,6 +300,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/03/kenya-airways-640x335.jpg",
             "publishedAt": "2020-03-03T17:39:12Z",
             "content": "An employee of Kenya Airways suspended for videotaping the arrival of a passenger aircraft from China announced on Monday that he will file a lawsuit contesting his suspension. \r\nThe Kenyan public responded with outrage to the revelation that planes from coro\u2026 [+2909 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Matthew Boyle",
+            "title": "Exclusive \u2013 Homeland Security Secretary Details Efforts to Combat Coronavirus Spread: Must \u2018Keep Sick Individuals Out of This Country\u2019",
+            "description": "Acting Secretary of Homeland Security Chad Wolf told Breitbart News exclusively at the Conservative Political Action Conference (CPAC) on Saturday that President Donald Trump\u2019s administration is prioritizing keeping sick individuals out of the country.",
+            "url": "https://www.breitbart.com/politics/2020/03/03/exclusive-homeland-security-secretary-details-efforts-to-combat-coronavirus-spread-must-keep-sick-individuals-out-of-this-country/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/Chad-Wolf-640x335.jpg",
+            "publishedAt": "2020-03-03T20:53:08Z",
+            "content": "Acting Secretary of Homeland Security Chad Wolf told Breitbart News exclusively at the Conservative Political Action Conference (CPAC) on Saturday that President Donald Trumps administration is prioritizing keeping sick individuals out of the country.\r\nPresid\u2026 [+3511 chars]"
         },
         {
             "source": {
@@ -358,19 +371,6 @@
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Joel B. Pollak",
-            "title": "World Health Organization: 'Fear and Panic' over Coronavirus 'Dangerous'; 'Calm Down'",
-            "description": "The World Health Organization said the \"stigma\" around coronavirus was \"more dangerous\" than the illness, and advised people to \"calm down.\"",
-            "url": "https://www.breitbart.com/health/2020/03/03/world-health-organization-fear-and-panic-over-coronavirus-dangerous-calm-down/",
-            "urlToImage": "https://media.breitbart.com/media/2020/03/WHO-director-general-Getty-640x335.jpg",
-            "publishedAt": "2020-03-03T20:39:51Z",
-            "content": "World Health Organization director Tedros Adhanom Ghebreyesus said Monday that the \u201cstigma\u201d surrounding coronavirus was \u201cmore dangerous\u201d than the illness itself, and advised people to \u201ccalm down.\u201d\r\nStigma, to be honest, is more dangerous than the virus itself\u2026 [+1654 chars]"
-        },
-        {
-            "source": {
-                "id": "breitbart-news",
-                "name": "Breitbart News"
-            },
             "author": "Charlie Spiering",
             "title": "Trump Donates 4th Quarter Salary to Health & Human Services",
             "description": "President Donald Trump on Tuesday donated his fourth-quarter salary to Heath and Human Services on Tuesday to help fight coronavirus.",
@@ -378,6 +378,19 @@
             "urlToImage": "https://media.breitbart.com/media/2020/03/Trump-Salary-Donation-640x335.jpg",
             "publishedAt": "2020-03-03T21:56:52Z",
             "content": "President Donald Trump on Tuesday donated his fourth-quarter salary to the Depaetment of Heath and Human Services on Tuesday to help fight coronavirus.\r\nThe news was announced by White House Press Secretary Stephanie Grisham on Twitter.\r\n\u201cPresident Donald Tru\u2026 [+806 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joel B. Pollak",
+            "title": "World Health Organization: 'Fear and Panic' over Coronavirus 'Dangerous'; 'Calm Down'",
+            "description": "The World Health Organization said the \"stigma\" around coronavirus was \"more dangerous\" than the illness, and advised people to \"calm down.\"",
+            "url": "https://www.breitbart.com/health/2020/03/03/world-health-organization-fear-and-panic-over-coronavirus-dangerous-calm-down/",
+            "urlToImage": "https://media.breitbart.com/media/2020/03/WHO-director-general-Getty-640x335.jpg",
+            "publishedAt": "2020-03-03T20:39:51Z",
+            "content": "World Health Organization director Tedros Adhanom Ghebreyesus said Monday that the \u201cstigma\u201d surrounding coronavirus was \u201cmore dangerous\u201d than the illness itself, and advised people to \u201ccalm down.\u201d\r\nStigma, to be honest, is more dangerous than the virus itself\u2026 [+1654 chars]"
         },
         {
             "source": {

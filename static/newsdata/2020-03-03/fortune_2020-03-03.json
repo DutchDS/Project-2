@@ -20,12 +20,12 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "James Nosek",
-            "title": "Federal Reserve cuts benchmark rate by half-point",
-            "description": "This occurs after seven major economies pledged to use \u201call appropriate tools\" to deal with the spreading coronavirus.",
-            "url": "https://fortune.com/2020/03/03/coronavirus-fed-rate-cut-benchmark/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Fed-cuts-by-half-.jpg?resize=1200,600",
-            "publishedAt": "2020-03-03T15:42:52Z",
+            "author": "Naomi Xu Elegant",
+            "title": "Other countries are testing patients for coronavirus by the tens of thousands. Why the U.S. is so far behind",
+            "description": "South Korea has a coronavirus test drive-thru. China says its test can detect the virus in 15 minutes.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-us-test/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204087313.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T09:40:55Z",
             "content": null
         },
         {
@@ -33,12 +33,12 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Naomi Xu Elegant",
-            "title": "Other countries are testing patients for coronavirus by the tens of thousands. Why the U.S. is so far behind",
-            "description": "South Korea has a coronavirus test drive-thru. China says its test can detect the virus in 15 minutes.",
-            "url": "https://fortune.com/2020/03/03/coronavirus-us-test/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204087313.jpg?resize=1200,600",
-            "publishedAt": "2020-03-03T09:40:55Z",
+            "author": "James Nosek",
+            "title": "Federal Reserve cuts benchmark rate by half-point",
+            "description": "This occurs after seven major economies pledged to use \u201call appropriate tools\" to deal with the spreading coronavirus.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-fed-rate-cut-benchmark/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Fed-cuts-by-half-.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T15:42:52Z",
             "content": null
         },
         {
@@ -85,19 +85,6 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Ian Mount",
-            "title": "The coronavirus outbreak could drag down debt-bloated companies. These are some of the most vulnerable",
-            "description": "An escalating outbreak that drives off customers and revenue could lead to ratings downgrades, hinder refinancing efforts, and in some cases trigger defaults.",
-            "url": "https://fortune.com/2020/03/03/coronavirus-outbreak-debt-bloated-companies-vulnerable/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204861040.jpg?resize=1200,600",
-            "publishedAt": "2020-03-03T10:13:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
             "author": "John Buysse",
             "title": "It\u2019s too late for the U.S. to fight the spread of coronavirus with domestic travel restrictions",
             "description": "\"This virus is already all around the country.\"",
@@ -111,12 +98,12 @@
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Danielle Abril",
-            "title": "Coronavirus concerns have Twitter \u2018strongly encouraging\u2019 its 5,000 worldwide employees to work from home",
-            "description": "The company is making sure internal meetings and other tasks \"are optimized for remote participation.\"",
-            "url": "https://fortune.com/2020/03/02/coronavirus-twitter-work-from-home/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-180572501.jpg?resize=1200,600",
-            "publishedAt": "2020-03-03T00:53:41Z",
+            "author": "Ian Mount",
+            "title": "The coronavirus outbreak could drag down debt-bloated companies. These are some of the most vulnerable",
+            "description": "An escalating outbreak that drives off customers and revenue could lead to ratings downgrades, hinder refinancing efforts, and in some cases trigger defaults.",
+            "url": "https://fortune.com/2020/03/03/coronavirus-outbreak-debt-bloated-companies-vulnerable/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204861040.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T10:13:41Z",
             "content": null
         },
         {
@@ -130,6 +117,19 @@
             "url": "https://fortune.com/2020/03/03/coronavirus-testing-price-covid-19-test-cost/",
             "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204040372.jpg?resize=1200,600",
             "publishedAt": "2020-03-03T23:35:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Danielle Abril",
+            "title": "Coronavirus concerns have Twitter \u2018strongly encouraging\u2019 its 5,000 worldwide employees to work from home",
+            "description": "The company is making sure internal meetings and other tasks \"are optimized for remote participation.\"",
+            "url": "https://fortune.com/2020/03/02/coronavirus-twitter-work-from-home/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-180572501.jpg?resize=1200,600",
+            "publishedAt": "2020-03-03T00:53:41Z",
             "content": null
         },
         {

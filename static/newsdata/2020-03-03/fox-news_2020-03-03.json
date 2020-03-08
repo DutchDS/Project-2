@@ -59,19 +59,6 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Madeline Farber",
-            "title": "Georgia confirms first 2 coronavirus cases",
-            "description": "On Monday, Georgia health officials reported the state's first two cases of the novel coronavirus.",
-            "url": "https://www.foxnews.com/health/georgia-confirms-first-2-coronavirus-cases",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e4b0e87-8123-48e6-a58a-ebf19852ae0f/28be134e-ed60-4959-a118-5b3919cbad7d/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-03T13:28:37Z",
-            "content": "Health officials in Georgia on Monday confirmed the state\u2019s first two cases of the novel coronavirus, adding to a seemingly growing list of cases in the U.S., which has now seen at least six deaths from the virus.\r\nIn a news release on Monday, the Georgia Dep\u2026 [+1971 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
             "author": null,
             "title": "Donald Trump Jr. slams critics of the Trump administration's response to coronavirus",
             "description": "We shouldn't be embarrassed that President Trump put Americans first, says Donald Trump Jr., author of 'Triggered.'",
@@ -98,13 +85,13 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Louis Casiano",
-            "title": "Army implements coronavirus screening for recruits",
-            "description": "The Army began screening recruits Tuesday at its four basic training posts for the new coronavirus, officials said.",
-            "url": "https://www.foxnews.com/health/army-coronavirus-screening-recruits",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20059507604614.jpg",
-            "publishedAt": "2020-03-03T22:26:32Z",
-            "content": "The Army began screening recruits Tuesday at its four basic training posts for the new coronavirus, officials said.\r\nThe enhanced screening will impact as many as 1,000 recruits a week on the four bases at\u00a0Fort Benning, Ga.; Fort Sill, Okla.; Fort Jackson, S.\u2026 [+1179 chars]"
+            "author": "Madeline Farber",
+            "title": "Georgia confirms first 2 coronavirus cases",
+            "description": "On Monday, Georgia health officials reported the state's first two cases of the novel coronavirus.",
+            "url": "https://www.foxnews.com/health/georgia-confirms-first-2-coronavirus-cases",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e4b0e87-8123-48e6-a58a-ebf19852ae0f/28be134e-ed60-4959-a118-5b3919cbad7d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-03T13:28:37Z",
+            "content": "Health officials in Georgia on Monday confirmed the state\u2019s first two cases of the novel coronavirus, adding to a seemingly growing list of cases in the U.S., which has now seen at least six deaths from the virus.\r\nIn a news release on Monday, the Georgia Dep\u2026 [+1971 chars]"
         },
         {
             "source": {
@@ -124,13 +111,13 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Alexandria Hein",
-            "title": "New York confirms 2nd coronavirus case",
-            "description": "The second case involves a New York state resident who is hospitalized in New York City in serious condition.",
-            "url": "https://www.foxnews.com/health/new-york-confirms-2nd-coronavirus-case",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f417276e-3c0d-467e-bd24-d2b43bae3cd6/119e8562-5aa8-407c-a8db-55a6124cb7c8/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-03T14:24:40Z",
-            "content": "A day after New York\u00a0officials announced\u00a0the state\u2019s first case of coronavirus, a\u00a0second case was confirmed in another resident who is currently in a New York City hospital \"in serious condition.\" The 50-year-old man is a Westchester resident who works in Man\u2026 [+2380 chars]"
+            "author": "Louis Casiano",
+            "title": "Army implements coronavirus screening for recruits",
+            "description": "The Army began screening recruits Tuesday at its four basic training posts for the new coronavirus, officials said.",
+            "url": "https://www.foxnews.com/health/army-coronavirus-screening-recruits",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20059507604614.jpg",
+            "publishedAt": "2020-03-03T22:26:32Z",
+            "content": "The Army began screening recruits Tuesday at its four basic training posts for the new coronavirus, officials said.\r\nThe enhanced screening will impact as many as 1,000 recruits a week on the four bases at\u00a0Fort Benning, Ga.; Fort Sill, Okla.; Fort Jackson, S.\u2026 [+1179 chars]"
         },
         {
             "source": {
@@ -150,6 +137,19 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
+            "author": "Alexandria Hein",
+            "title": "New York confirms 2nd coronavirus case",
+            "description": "The second case involves a New York state resident who is hospitalized in New York City in serious condition.",
+            "url": "https://www.foxnews.com/health/new-york-confirms-2nd-coronavirus-case",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f417276e-3c0d-467e-bd24-d2b43bae3cd6/119e8562-5aa8-407c-a8db-55a6124cb7c8/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-03T14:24:40Z",
+            "content": "A day after New York\u00a0officials announced\u00a0the state\u2019s first case of coronavirus, a\u00a0second case was confirmed in another resident who is currently in a New York City hospital \"in serious condition.\" The 50-year-old man is a Westchester resident who works in Man\u2026 [+2380 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
             "author": "Lucia Suarez Sang",
             "title": "Iran men who licked holy shrine face prison, flogging, as troops ordered to fight coronavirus outbreak",
             "description": "The two Iranian men who defied coronavirus warnings when they videotaped themselves licking holy shrines could face prison and flogging.",
@@ -157,45 +157,6 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/3f8d9cb3-Iran-coronavirus-3.jpg",
             "publishedAt": "2020-03-03T17:49:07Z",
             "content": "The two Iranian men who defied coronavirus warnings when they videotaped themselves licking holy shrines in Qom could face prison and flogging.\r\nThe now-viral videos of the two men began circulating over the weekend as Iran continues to work to contain the sp\u2026 [+3958 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Caleb Parke",
-            "title": "Christian prophet Shawn Bolz: 'Lord showed me the end of the coronavirus'",
-            "description": "Shawn Bolz, a Christian pastor in Los Angeles who teaches about hearing from God, has good news to share about the coronavirus.",
-            "url": "https://www.foxnews.com/faith-values/coronavirus-christian-pastor-shawn-bolz",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/ShawnBolzCoronaword1.jpg",
-            "publishedAt": "2020-03-03T15:53:02Z",
-            "content": "Shawn Bolz, a Christian pastor in Los Angeles\u00a0who teaches about listening to God, has good news\u00a0to share\u00a0about the coronavirus.\r\nHe prophesied about the virus, which\u00a0has sickened 91,000 people worldwide and caused more than 3,000 deaths, declaring \"the tide i\u2026 [+2769 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Vandana Rambaran",
-            "title": "43 cases of coronavirus, 6 deaths in the US but risk to Americans 'remains low,' Pence says at WH briefing",
-            "description": "Vice President Pence confirmed that there are 43 cases of coronavirus in the U.S. but said the risk \"remains low\" for the American people.",
-            "url": "https://www.foxnews.com/politics/coronavirus-risk-to-americans-low-pence-white-house-briefing",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20062839755665.jpg",
-            "publishedAt": "2020-03-03T00:33:19Z",
-            "content": "Vice President Mike\u00a0Pence confirmed that there are 43 cases of coronavirus\u00a0in the U.S. but said the risk \"remains low\" for Americans.\r\nOfficials confirmed the virus killed four additional people in the U.S. raising the death toll to six.\r\n\"Despite today's sad\u2026 [+1931 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Matt London",
-            "title": "Truth about coronavirus that Trump's critics ignore: Tammy Bruce",
-            "description": "Fox News political contributor and Fox Nation host Tammy Bruce said that much of the media coverage and political attention surrounding the coronavirus comes down to \"manipulation.\"",
-            "url": "https://www.foxnews.com/media/coronavirus-flu-deaths-media-democrats-president-trump",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/TAMMY.jpg",
-            "publishedAt": "2020-03-03T15:32:52Z",
-            "content": "Fox News political contributor and Fox Nation host Tammy Bruce said that much of the media coverage and political attention surrounding the coronavirus comes down to \"manipulation.\"\r\n\"We're in an election year and the Democrats and their lapdogs, the media, a\u2026 [+3141 chars]"
         },
         {
             "source": {
@@ -215,13 +176,39 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Tyler Olson",
-            "title": "Pope Francis tests negative for coronavirus after catching cold: report",
-            "description": "The Italian newspaper Il Messaggero reported that Pope Francis was tested for coronavirus after falling ill, but that he simply had a cold.",
-            "url": "https://www.foxnews.com/world/pope-francis-tests-negative-for-coronavirus-after-catching-cold-report",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8656cdf1-e7fb-4fe3-992b-27cfabcf2914/c8599596-cecb-4c70-991b-ed0c34c48e4a/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-03T10:59:02Z",
-            "content": "Pope Francis tested negative for the coronavirus after falling ill last week, according to the Roman newspaper Il Messaggero.\r\nAfter spending last Wednesday primarily outdoors, Francis came down with a cough, chills and other flu-like symptoms. He was tested \u2026 [+1648 chars]"
+            "author": "Matt London",
+            "title": "Truth about coronavirus that Trump's critics ignore: Tammy Bruce",
+            "description": "Fox News political contributor and Fox Nation host Tammy Bruce said that much of the media coverage and political attention surrounding the coronavirus comes down to \"manipulation.\"",
+            "url": "https://www.foxnews.com/media/coronavirus-flu-deaths-media-democrats-president-trump",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/TAMMY.jpg",
+            "publishedAt": "2020-03-03T15:32:52Z",
+            "content": "Fox News political contributor and Fox Nation host Tammy Bruce said that much of the media coverage and political attention surrounding the coronavirus comes down to \"manipulation.\"\r\n\"We're in an election year and the Democrats and their lapdogs, the media, a\u2026 [+3141 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Vandana Rambaran",
+            "title": "43 cases of coronavirus, 6 deaths in the US but risk to Americans 'remains low,' Pence says at WH briefing",
+            "description": "Vice President Pence confirmed that there are 43 cases of coronavirus in the U.S. but said the risk \"remains low\" for the American people.",
+            "url": "https://www.foxnews.com/politics/coronavirus-risk-to-americans-low-pence-white-house-briefing",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20062839755665.jpg",
+            "publishedAt": "2020-03-03T00:33:19Z",
+            "content": "Vice President Mike\u00a0Pence confirmed that there are 43 cases of coronavirus\u00a0in the U.S. but said the risk \"remains low\" for Americans.\r\nOfficials confirmed the virus killed four additional people in the U.S. raising the death toll to six.\r\n\"Despite today's sad\u2026 [+1931 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caleb Parke",
+            "title": "Christian prophet Shawn Bolz: 'Lord showed me the end of the coronavirus'",
+            "description": "Shawn Bolz, a Christian pastor in Los Angeles who teaches about hearing from God, has good news to share about the coronavirus.",
+            "url": "https://www.foxnews.com/faith-values/coronavirus-christian-pastor-shawn-bolz",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/ShawnBolzCoronaword1.jpg",
+            "publishedAt": "2020-03-03T15:53:02Z",
+            "content": "Shawn Bolz, a Christian pastor in Los Angeles\u00a0who teaches about listening to God, has good news\u00a0to share\u00a0about the coronavirus.\r\nHe prophesied about the virus, which\u00a0has sickened 91,000 people worldwide and caused more than 3,000 deaths, declaring \"the tide i\u2026 [+2769 chars]"
         },
         {
             "source": {
@@ -254,6 +241,19 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
+            "author": "Tyler Olson",
+            "title": "Pope Francis tests negative for coronavirus after catching cold: report",
+            "description": "The Italian newspaper Il Messaggero reported that Pope Francis was tested for coronavirus after falling ill, but that he simply had a cold.",
+            "url": "https://www.foxnews.com/world/pope-francis-tests-negative-for-coronavirus-after-catching-cold-report",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8656cdf1-e7fb-4fe3-992b-27cfabcf2914/c8599596-cecb-4c70-991b-ed0c34c48e4a/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-03T10:59:02Z",
+            "content": "Pope Francis tested negative for the coronavirus after falling ill last week, according to the Roman newspaper Il Messaggero.\r\nAfter spending last Wednesday primarily outdoors, Francis came down with a cough, chills and other flu-like symptoms. He was tested \u2026 [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
             "author": "Caleb Parke",
             "title": "Fist-bumping with no holy water: How churches respond to coronavirus",
             "description": "With the global outbreak of the coronavirus, churches and houses of worship are doing all they can to protect their flock.",
@@ -261,19 +261,6 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/KoreanChurchMask.jpg",
             "publishedAt": "2020-03-03T19:42:01Z",
             "content": "With the global outbreak of the coronavirus, churches and houses of worship are doing all they can to protect their congregations.\r\nChurchgoers have been asked to stop shaking hands, communal cups are in storage, and holy water stoups are dried out. A\u00a0St. Pau\u2026 [+3263 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Madeline Farber",
-            "title": "Coronavirus quarantines more than 2 dozen Washington State firefighters",
-            "description": "More than two dozen firefighters in Washington State have been quarantined after they were possibly exposed to the novel coronavirus, which has killed at least six people in the state to date.",
-            "url": "https://www.foxnews.com/health/coronavirus-quarantines-more-than-2-dozen-washington-state-firefighters",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e706c1-4a56-4fac-80e3-247bc960fcfc/82581c93-315b-4850-a229-f44ad61e7928/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-03T15:34:32Z",
-            "content": "More than two dozen firefighters in Washington State have been\u00a0quarantined after they were possibly exposed to the novel coronavirus, which has killed at least six people in the state to date.\r\nThe city of Kirkland on Monday announced that 27 firefighters and\u2026 [+3117 chars]"
         },
         {
             "source": {
@@ -293,13 +280,13 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Edmund DeMarche",
-            "title": "Trump attacks Federal Reserve\u2019s Powell over coronavirus response",
-            "description": "President Trump early Tuesday took aim at the Federal Reserve Chairman Jerome H. Powell over the central bank's refusal to cut interest rates like other countries in order to defend against a financial downturn threatening the global economy due to the corona\u2026",
-            "url": "https://www.foxnews.com/politics/trump-attacks-federal-reserves-powell-calls-for-interest-rate-cut-amid-coronavirus-outbreak",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9602129-321e-42a5-9780-4fd428685c47/6448b990-1f4c-41b4-a369-7cf9c72b506d/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-03T07:31:02Z",
-            "content": "President Trump took aim early Tuesday at the Federal Reserve Chairman Jerome H. Powell\u00a0over the central bank's refusal to\u00a0cut interest rates similar to\u00a0other countries to defend against any looming financial downturns threatening\u00a0the global economy due to th\u2026 [+2331 chars]"
+            "author": "Madeline Farber",
+            "title": "Coronavirus quarantines more than 2 dozen Washington State firefighters",
+            "description": "More than two dozen firefighters in Washington State have been quarantined after they were possibly exposed to the novel coronavirus, which has killed at least six people in the state to date.",
+            "url": "https://www.foxnews.com/health/coronavirus-quarantines-more-than-2-dozen-washington-state-firefighters",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e706c1-4a56-4fac-80e3-247bc960fcfc/82581c93-315b-4850-a229-f44ad61e7928/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-03T15:34:32Z",
+            "content": "More than two dozen firefighters in Washington State have been\u00a0quarantined after they were possibly exposed to the novel coronavirus, which has killed at least six people in the state to date.\r\nThe city of Kirkland on Monday announced that 27 firefighters and\u2026 [+3117 chars]"
         },
         {
             "source": {
@@ -313,6 +300,97 @@
             "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f6c1213-5a5b-43d4-a09b-290f5b841f3f/1ce02da0-9f17-46be-87a8-1ab27742758f/1280x720/match/image.jpg",
             "publishedAt": "2020-03-03T19:31:22Z",
             "content": "Officials are urging anyone who develops possible symptoms of the novel coronavirus to contact health care providers to inquire about next steps and possible testing, but with millions infected by the influenza virus in the U.S., many are wondering how to tel\u2026 [+2780 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Edmund DeMarche",
+            "title": "Trump attacks Federal Reserve\u2019s Powell over coronavirus response",
+            "description": "President Trump early Tuesday took aim at the Federal Reserve Chairman Jerome H. Powell over the central bank's refusal to cut interest rates like other countries in order to defend against a financial downturn threatening the global economy due to the corona\u2026",
+            "url": "https://www.foxnews.com/politics/trump-attacks-federal-reserves-powell-calls-for-interest-rate-cut-amid-coronavirus-outbreak",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9602129-321e-42a5-9780-4fd428685c47/6448b990-1f4c-41b4-a369-7cf9c72b506d/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-03T07:31:02Z",
+            "content": "President Trump took aim early Tuesday at the Federal Reserve Chairman Jerome H. Powell\u00a0over the central bank's refusal to\u00a0cut interest rates similar to\u00a0other countries to defend against any looming financial downturns threatening\u00a0the global economy due to th\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Victor Garcia",
+            "title": "Dr. Ben Carson: 'Political class can't recognize' this is about the 'welfare of our nation'",
+            "description": "Dr. Ben Carson, a member of the Trump administration's coronavirus task force, joined \"Hannity\" where he praised the president and urged the \"political class\" to rise above partisanship to deal with the outbreak.",
+            "url": "https://www.foxnews.com/media/dr-ben-carson-political-class-cant-recognize-this-is-about-the-welfare-of-our-nation",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e937a190-a77c-46cb-91d5-1ae332e27c91/9ee36dce-109a-4f5c-bdcf-982141c212c4/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-03T05:11:25Z",
+            "content": "Dr. Ben Carson, a member of the Trump administration's coronavirus task force, joined \"Hannity\" where he praised the president and urged the \"political class\" to rise above partisanship to deal with the outbreak.\r\n\"It's wonderful that we have a leader who is \u2026 [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Singman",
+            "title": "Denver Democrat faces backlash after tweeting \u2018solidarity\u2019 for spreading coronavirus at Trump rallies",
+            "description": "Democratic Denver City Councilwoman Candi CdeBaca faced conservative criticism Tuesday after sharing a meme on Twitter suggesting she stands in \u201csolidarity\u201d with the idea of spreading coronavirus at President Trump\u2019s campaign rallies.",
+            "url": "https://www.foxnews.com/politics/denver-democrat-faces-backlash-after-tweeting-solidarity-for-spreading-coronavirus-at-trump-rallies",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Candi-CdeBaca-Denver-City-Council.jpg",
+            "publishedAt": "2020-03-03T17:46:49Z",
+            "content": "Democratic Denver City Councilwoman Candi CdeBaca faced conservative criticism Tuesday after sharing a meme on Twitter suggesting she stands in \u201csolidarity\u201d with the idea of spreading coronavirus\u00a0at\u00a0President Trump\u2019s campaign rallies.\r\n\"These people are sick,\u2026 [+1659 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Fighting coronavirus: New York City MTA to sanitize buses, trains, stations every 72 hours",
+            "description": "The Metropolitan Transit Authority (MTA), which operates New York City's public transit system with a ridership in the millions is intensifying sanitation efforts to prevent the spread of the new coronavirus in the city.",
+            "url": "https://www.foxnews.com/us/fighting-coronavirus-new-york-city-mta-bus-train-sanitation-schedule",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Capture.jpg",
+            "publishedAt": "2020-03-03T21:38:04Z",
+            "content": "The\u00a0Metropolitan Transit Authority\u00a0(MTA), which operates New York City's public transit system with daily a ridership in the millions, is intensifying sanitation efforts to prevent the spread of the new coronavirus in the city.\r\nThe agency will clean its trai\u2026 [+1963 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Dr. Drew: Media-driven panic over coronavirus is a bigger problem than the virus",
+            "description": "Addiction specialist Dr. Drew Pinsky panned the media's response to the coronavirus outbreak, telling \"The Ingraham Angle\" on Monday that the root of the larger problem domestically has been the panic being spread by the mainstream media.",
+            "url": "https://www.foxnews.com/media/dr-drew-media-panic-about-coronavirus-is-more-problematic-than-the-contagion",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Video-98.jpg",
+            "publishedAt": "2020-03-03T12:07:26Z",
+            "content": "Addiction specialist Dr. Drew Pinsky panned the media's response to the coronavirus outbreak, telling \"The Ingraham Angle\" on Monday that the root of the larger problem domestically has been the panic being spread by the mainstream media.\r\n\"Essentially the en\u2026 [+1784 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew O'Reilly",
+            "title": "Trump touts progress in battling coronavirus, slams Dem rivals during North Carolina campaign rally",
+            "description": "President Trump boasted of his administration\u2019s work in combating the coronavirus during a campaign rally in Charlotte, N.C. Monday evening, while laying into Democrats and his political rivals for trying to \u201cpoliticize\u201d the outbreak.",
+            "url": "https://www.foxnews.com/politics/trump-touts-progress-in-battling-coronavirus-slams-dem-rivals-during-campaign-rally",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/TrumpCharlotte720.jpg",
+            "publishedAt": "2020-03-03T01:31:09Z",
+            "content": "President Trump boasted of his administration\u2019s work in combating the coronavirus during a campaign rally in Charlotte, N.C. Monday evening, while laying into Democrats and his political rivals for trying to \u201cpoliticize\u201d the outbreak.\r\nTrump promised that the\u2026 [+4651 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ronn Blitzer, Chad Pergram",
+            "title": "Hoyer expects coronavirus bill as soon as Wednesday, urges lawmakers to stay until it's done",
+            "description": "House Majority Leader Steny Hoyer said he expects a vote on legislation as soon as Wednesday that would appropriate roughly $8 billion to address the coronavirus that has infected patients around the globe.",
+            "url": "https://www.foxnews.com/politics/hoyer-expects-coronavirus-bill-as-soon-as-wednesday-urges-lawmaker-to-stay-until-it-gets-done",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/03/13/694940094001_6013623470001_6013614735001-vs.jpg",
+            "publishedAt": "2020-03-03T19:54:31Z",
+            "content": "House Majority Leader Steny Hoyer said he expects a vote on legislation as soon as Wednesday that would appropriate roughly $8 billion to address the coronavirus that has infected patients around the globe.\r\nHoyer said Tuesday that the House should not leave \u2026 [+2595 chars]"
         },
         {
             "source": {
@@ -358,19 +436,6 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Ronn Blitzer, Chad Pergram",
-            "title": "Hoyer expects coronavirus bill as soon as Wednesday, urges lawmakers to stay until it's done",
-            "description": "House Majority Leader Steny Hoyer said he expects a vote on legislation as soon as Wednesday that would appropriate roughly $8 billion to address the coronavirus that has infected patients around the globe.",
-            "url": "https://www.foxnews.com/politics/hoyer-expects-coronavirus-bill-as-soon-as-wednesday-urges-lawmaker-to-stay-until-it-gets-done",
-            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/03/13/694940094001_6013623470001_6013614735001-vs.jpg",
-            "publishedAt": "2020-03-03T19:54:31Z",
-            "content": "House Majority Leader Steny Hoyer said he expects a vote on legislation as soon as Wednesday that would appropriate roughly $8 billion to address the coronavirus that has infected patients around the globe.\r\nHoyer said Tuesday that the House should not leave \u2026 [+2595 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
             "author": "Brian Flood",
             "title": "Mike Bloomberg grosses out Twitter amid coronavirus with video of him licking fingers while eating pizza",
             "description": "Mike Bloomberg was roasted on social media on Tuesday after a viral video showed him aggressively licking his fingers while eating part of a communal pizza amid global concerns about the spread of coronavirus.",
@@ -378,71 +443,6 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Bloomberg-Pizza-Licking-Snapchat-AP.jpg",
             "publishedAt": "2020-03-03T22:51:00Z",
             "content": "Democratic presidential hopeful\u00a0Mike Bloomberg was roasted on social media on Tuesday after a viral video showed him licking his fingers while eating part of a communal pizza amid global concerns about the spread of coronavirus.\r\n\u201cTruly disgusting! Also shows\u2026 [+2289 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Victor Garcia",
-            "title": "Dr. Ben Carson: 'Political class can't recognize' this is about the 'welfare of our nation'",
-            "description": "Dr. Ben Carson, a member of the Trump administration's coronavirus task force, joined \"Hannity\" where he praised the president and urged the \"political class\" to rise above partisanship to deal with the outbreak.",
-            "url": "https://www.foxnews.com/media/dr-ben-carson-political-class-cant-recognize-this-is-about-the-welfare-of-our-nation",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e937a190-a77c-46cb-91d5-1ae332e27c91/9ee36dce-109a-4f5c-bdcf-982141c212c4/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-03T05:11:25Z",
-            "content": "Dr. Ben Carson, a member of the Trump administration's coronavirus task force, joined \"Hannity\" where he praised the president and urged the \"political class\" to rise above partisanship to deal with the outbreak.\r\n\"It's wonderful that we have a leader who is \u2026 [+1922 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Andrew O'Reilly",
-            "title": "Trump touts progress in battling coronavirus, slams Dem rivals during North Carolina campaign rally",
-            "description": "President Trump boasted of his administration\u2019s work in combating the coronavirus during a campaign rally in Charlotte, N.C. Monday evening, while laying into Democrats and his political rivals for trying to \u201cpoliticize\u201d the outbreak.",
-            "url": "https://www.foxnews.com/politics/trump-touts-progress-in-battling-coronavirus-slams-dem-rivals-during-campaign-rally",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/TrumpCharlotte720.jpg",
-            "publishedAt": "2020-03-03T01:31:09Z",
-            "content": "President Trump boasted of his administration\u2019s work in combating the coronavirus during a campaign rally in Charlotte, N.C. Monday evening, while laying into Democrats and his political rivals for trying to \u201cpoliticize\u201d the outbreak.\r\nTrump promised that the\u2026 [+4651 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Charles Creitz",
-            "title": "Dr. Drew: Media-driven panic over coronavirus is a bigger problem than the virus",
-            "description": "Addiction specialist Dr. Drew Pinsky panned the media's response to the coronavirus outbreak, telling \"The Ingraham Angle\" on Monday that the root of the larger problem domestically has been the panic being spread by the mainstream media.",
-            "url": "https://www.foxnews.com/media/dr-drew-media-panic-about-coronavirus-is-more-problematic-than-the-contagion",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Video-98.jpg",
-            "publishedAt": "2020-03-03T12:07:26Z",
-            "content": "Addiction specialist Dr. Drew Pinsky panned the media's response to the coronavirus outbreak, telling \"The Ingraham Angle\" on Monday that the root of the larger problem domestically has been the panic being spread by the mainstream media.\r\n\"Essentially the en\u2026 [+1784 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brooke Singman",
-            "title": "Denver Democrat faces backlash after tweeting \u2018solidarity\u2019 for spreading coronavirus at Trump rallies",
-            "description": "Democratic Denver City Councilwoman Candi CdeBaca faced conservative criticism Tuesday after sharing a meme on Twitter suggesting she stands in \u201csolidarity\u201d with the idea of spreading coronavirus at President Trump\u2019s campaign rallies.",
-            "url": "https://www.foxnews.com/politics/denver-democrat-faces-backlash-after-tweeting-solidarity-for-spreading-coronavirus-at-trump-rallies",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Candi-CdeBaca-Denver-City-Council.jpg",
-            "publishedAt": "2020-03-03T17:46:49Z",
-            "content": "Democratic Denver City Councilwoman Candi CdeBaca faced conservative criticism Tuesday after sharing a meme on Twitter suggesting she stands in \u201csolidarity\u201d with the idea of spreading coronavirus\u00a0at\u00a0President Trump\u2019s campaign rallies.\r\n\"These people are sick,\u2026 [+1659 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Louis Casiano",
-            "title": "Fighting coronavirus: New York City MTA to sanitize buses, trains, stations every 72 hours",
-            "description": "The Metropolitan Transit Authority (MTA), which operates New York City's public transit system with a ridership in the millions is intensifying sanitation efforts to prevent the spread of the new coronavirus in the city.",
-            "url": "https://www.foxnews.com/us/fighting-coronavirus-new-york-city-mta-bus-train-sanitation-schedule",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Capture.jpg",
-            "publishedAt": "2020-03-03T21:38:04Z",
-            "content": "The\u00a0Metropolitan Transit Authority\u00a0(MTA), which operates New York City's public transit system with daily a ridership in the millions, is intensifying sanitation efforts to prevent the spread of the new coronavirus in the city.\r\nThe agency will clean its trai\u2026 [+1963 chars]"
         },
         {
             "source": {
@@ -566,13 +566,13 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Fox News",
-            "title": "Coronavirus situation in North Korea remains unclear, could be specially deadly, expert says",
-            "description": "An opening into the impact of the disease in the reclusive country may have been witnessed Sunday, when a picture taken by the official government news agency showed a high-ranking government official wearing a black face mask.",
-            "url": "https://www.foxnews.com/world/coronavirus-situation-in-north-korea-remains-unclear-expert-says",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/kim-cropped-1136pm.jpg",
-            "publishedAt": "2020-03-03T12:27:18Z",
-            "content": "The coronavirus\u00a0continues to advance globally as reports of varying degrees of harm go from bad to worse in certain sections of the world.\r\nIn secretive North Korea, information on the spread of the virus\u00a0and the amount of people infected has been held very t\u2026 [+2855 chars]"
+            "author": "Peter Hotez",
+            "title": "Dr. Peter Hotez: West coast coronavirus outbreak highlights 3 vulnerabilities we need to urgently address",
+            "description": "As we enter this next phase of the COVID-19 epidemic in the U.S., we will continue to learn more about the SARS CoV2 virus.",
+            "url": "https://www.foxnews.com/opinion/dr-peter-hotez-west-coast-coronavirus-outbreak-highlights-3-vulnerabilities-we-need-to-urgently-address",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e706c1-4a56-4fac-80e3-247bc960fcfc/82581c93-315b-4850-a229-f44ad61e7928/1280x720/match/image.jpg",
+            "publishedAt": "2020-03-03T14:49:27Z",
+            "content": "Two weeks ago,\u00a0the CDC Director predicted we might soon see the beginnings of community spread of\u00a0COVID-19 caused by the SARS-2 Coronavirus (SARS CoV2).\u00a0 Now, our nation\u2019s first\u00a0serious outbreak\u00a0is underway\u00a0in Kirkland, Washington, and first impressions\u00a0indic\u2026 [+3793 chars]"
         },
         {
             "source": {
@@ -592,13 +592,13 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Peter Hotez",
-            "title": "Dr. Peter Hotez: West coast coronavirus outbreak highlights 3 vulnerabilities we need to urgently address",
-            "description": "As we enter this next phase of the COVID-19 epidemic in the U.S., we will continue to learn more about the SARS CoV2 virus.",
-            "url": "https://www.foxnews.com/opinion/dr-peter-hotez-west-coast-coronavirus-outbreak-highlights-3-vulnerabilities-we-need-to-urgently-address",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e706c1-4a56-4fac-80e3-247bc960fcfc/82581c93-315b-4850-a229-f44ad61e7928/1280x720/match/image.jpg",
-            "publishedAt": "2020-03-03T14:49:27Z",
-            "content": "Two weeks ago,\u00a0the CDC Director predicted we might soon see the beginnings of community spread of\u00a0COVID-19 caused by the SARS-2 Coronavirus (SARS CoV2).\u00a0 Now, our nation\u2019s first\u00a0serious outbreak\u00a0is underway\u00a0in Kirkland, Washington, and first impressions\u00a0indic\u2026 [+3793 chars]"
+            "author": "Fox News",
+            "title": "Coronavirus situation in North Korea remains unclear, could be specially deadly, expert says",
+            "description": "An opening into the impact of the disease in the reclusive country may have been witnessed Sunday, when a picture taken by the official government news agency showed a high-ranking government official wearing a black face mask.",
+            "url": "https://www.foxnews.com/world/coronavirus-situation-in-north-korea-remains-unclear-expert-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/kim-cropped-1136pm.jpg",
+            "publishedAt": "2020-03-03T12:27:18Z",
+            "content": "The coronavirus\u00a0continues to advance globally as reports of varying degrees of harm go from bad to worse in certain sections of the world.\r\nIn secretive North Korea, information on the spread of the virus\u00a0and the amount of people infected has been held very t\u2026 [+2855 chars]"
         },
         {
             "source": {
@@ -670,19 +670,6 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Christopher Carbone",
-            "title": "Asteroid almost as big as Mount Everest to pass Earth next month, NASA says",
-            "description": "A gigantic asteroid almost as large as Mount Everest is zooming toward Earth next month, but NASA says not to worry -- it's not expected to collide with our planet.",
-            "url": "https://www.foxnews.com/science/asteroid-mount-everest-pass-earth-nasa",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/near-earth-asteroid-MIT.jpg",
-            "publishedAt": "2020-03-03T23:34:56Z",
-            "content": "A gigantic asteroid almost as large as Mount Everest is zooming toward Earth next month, but NASA says not to worry -- it's not expected to collide with our planet.\r\nThe space rock is called 52768 (1998 IR2) and was first seen 22 years ago. According to the s\u2026 [+1182 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
             "author": null,
             "title": "Nebraska governor: We're going above and beyond CDC guidelines for coronavirus testing",
             "description": "Nebraska Gov. Pete Ricketts addresses coronavirus concerns and what his state is doing to fight the spread of the disease.",
@@ -690,6 +677,19 @@
             "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12a1ef53-6504-4a61-be75-7660da7ee835/e7a7414f-aa8b-40dd-b2bb-31377492ad76/1280x720/match/image.jpg",
             "publishedAt": "2020-03-03T21:24:43Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christopher Carbone",
+            "title": "Asteroid almost as big as Mount Everest to pass Earth next month, NASA says",
+            "description": "A gigantic asteroid almost as large as Mount Everest is zooming toward Earth next month, but NASA says not to worry -- it's not expected to collide with our planet.",
+            "url": "https://www.foxnews.com/science/asteroid-mount-everest-pass-earth-nasa",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/near-earth-asteroid-MIT.jpg",
+            "publishedAt": "2020-03-03T23:34:56Z",
+            "content": "A gigantic asteroid almost as large as Mount Everest is zooming toward Earth next month, but NASA says not to worry -- it's not expected to collide with our planet.\r\nThe space rock is called 52768 (1998 IR2) and was first seen 22 years ago. According to the s\u2026 [+1182 chars]"
         },
         {
             "source": {
@@ -787,19 +787,6 @@
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Danielle Wallace",
-            "title": "Trump deems Buttigieg, Klobuchar endorsing Biden a 'quid pro quo' deal",
-            "description": "President Trump categorized former South Bend, Ind. Mayor Pete Buttigieg and Sen. Amy Klobuchar dropping out of the Democratic presidential race to subsequently endorse former Vice President Joe Biden a matter of \u201cquid pro quo.\u201d He then called for their impea\u2026",
-            "url": "https://www.foxnews.com/politics/trump-deems-buttigieg-klobuchar-endorsing-biden-a-quid-pro-quo-deal",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/biden-amy-cropped-1250am.jpg",
-            "publishedAt": "2020-03-03T08:32:06Z",
-            "content": "President Trump categorized former South Bend, Ind. Mayor Pete Buttigieg and Sen. Amy Klobuchar dropping out of the Democratic presidential race to subsequently endorse former Vice President Joe Biden a matter of \u201cquid pro quo.\u201d He then called for their impea\u2026 [+3226 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
             "author": "Ryan Gaydos",
             "title": "Spike Lee feuds with Knicks after incident at Madison Square Garden",
             "description": "The New York Knicks have 11 home games remaining on their schedule for the 2019-20 season but superfan Spike Lee said Tuesday they can count him out of attending any of them.",
@@ -807,6 +794,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Spike-Lee.jpg",
             "publishedAt": "2020-03-03T19:04:26Z",
             "content": "The New York Knicks have 11 home games remaining on their schedule for the 2019-20 season but superfan Spike Lee said Tuesday they can count him out of attending any of them.\r\nLee told ESPN he will not be attending another Knicks game at Madison Square Garden\u2026 [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "Trump deems Buttigieg, Klobuchar endorsing Biden a 'quid pro quo' deal",
+            "description": "President Trump categorized former South Bend, Ind. Mayor Pete Buttigieg and Sen. Amy Klobuchar dropping out of the Democratic presidential race to subsequently endorse former Vice President Joe Biden a matter of \u201cquid pro quo.\u201d He then called for their impea\u2026",
+            "url": "https://www.foxnews.com/politics/trump-deems-buttigieg-klobuchar-endorsing-biden-a-quid-pro-quo-deal",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/biden-amy-cropped-1250am.jpg",
+            "publishedAt": "2020-03-03T08:32:06Z",
+            "content": "President Trump categorized former South Bend, Ind. Mayor Pete Buttigieg and Sen. Amy Klobuchar dropping out of the Democratic presidential race to subsequently endorse former Vice President Joe Biden a matter of \u201cquid pro quo.\u201d He then called for their impea\u2026 [+3226 chars]"
         },
         {
             "source": {

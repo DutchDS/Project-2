@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Journalist covering coronavirus: U.S. lags behind in testing",
+            "description": "Coronavirus cases in the U.S. are steadily climbing, as American authorities test far fewer people than other countries per day, according to reports. Robinson Meyer, staff writer at The Atlantic, joins Joy Reid to discuss his reporting on what he describes a\u2026",
+            "url": "https://www.msnbc.com/am-joy/watch/coronavirus-cases-in-u-s-climb-as-slow-gov-response-slammed-80277061698",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_joy_coronavirus1_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T18:18:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Grand Princess cruise ship to dock in Oakland",
+            "description": "The Grand Princess cruise ship carrying 21 people who have tested positive for coronavirus was cleared by state and federal officials to dock in Oakland, California, Princess Cruises said late Saturday.",
+            "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/grand-princess-cruise-ship-to-dock-in-oakland-80273477792",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_witt_oakland_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T16:21:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Gov. Cuomo confirms rise in number of coronavirus cases",
+            "description": "Nine states have issued emergency declarations due to the coronavirus. Dr. Anthony Fauci and New York Governor Andrew Cuomo comment on the rising number of cases.",
+            "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/gov-cuomo-confirms-rise-in-number-of-coronavirus-cases-80281157751",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_witt_brk_state_emergency_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T20:22:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Gov. Cuomo on coronavirus: 'We're fighting the fear even more than the virus.'",
+            "description": "New York Gov. Andrew Cuomo discusses the state of COVID-19 in New York with Alex Witt. Cuomo says mixed messages from the Trump administration are creating fear among Americans regarding the virus.",
+            "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/gov-cuomo-on-coronavirus-we-re-fighting-the-fear-even-more-than-the-virus-80279621747",
+            "urlToImage": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_witt_cuomo_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T19:25:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Is Italy\u2019s massive coronavirus quarantine sign of things to come?",
+            "description": "Coronavirus cases now number over 107,000 worldwide, as Italy quarantines millions in one of its regions in an attempt to contain the epidemic. NBC News Chief Foreign Correspondent Richard Engel joins Joy Reid with his reporting.",
+            "url": "https://www.msnbc.com/am-joy/watch/coronavirus-cases-hit-over-107-000-worldwide-italy-quarantines-80279109869",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_joy_coronavirus2_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T19:25:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "High school junior describes life on cruise ship where 21 people test positive for coronavirus",
+            "description": "Kailee Higgins Ott, a high school junior, describes life aboard the Grand Princess, a cruise ship off the coast of California where 21 people have tested positive for coronavirus.",
+            "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/high-school-junior-describes-life-on-cruise-ship-where-21-people-test-positive-for-coronavirus-80279621758",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_witt_higgins_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T19:27:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC.com",
+            "title": "Woodrow Wilson lied about \u2018Spanish Flu,\u2019 likely helping it spread",
+            "description": "Donald Trump\u2019s response to the coronavirus outbreak in the U.S. is compared to President Woodrow Wilson\u2019s response to the \u2018Spanish Flu\u2019 outbreak during WWI, during which Wilson lied to the public to prevent panic about the deadly, viral outbreak that killed 6\u2026",
+            "url": "https://www.msnbc.com/am-joy/watch/trump-response-to-coronavirus-compared-to-wilson-and-spanish-flu-80280645815",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/n_joy_spanishflu_200308_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-08T19:33:07Z",
+            "content": null
+        }
+    ]
+}

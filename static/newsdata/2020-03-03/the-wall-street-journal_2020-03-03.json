@@ -189,19 +189,6 @@
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
-            "author": null,
-            "title": "Why A Surprise Rate Cut Is No Miracle Cure",
-            "description": "The Federal Reserve cut interest rates by half a percentage point Tuesday in an effort to support markets against the possible economic impact of the coronavirus. But WSJ\u2019s Justin Lahart explains why the central bank can support the economy in the fight again\u2026",
-            "url": "https://www.wsj.com/video/why-a-surprise-rate-cut-is-no-miracle-cure/9FAD156D-2FAC-4970-B612-6563AF5FB8DE.html",
-            "urlToImage": "http://m.wsj.net/video/20200303/030320herdfedcut/030320herdfedcut_1280x720.jpg",
-            "publishedAt": "2020-03-03T23:17:10Z",
-            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
             "author": "Stephanie Armour",
             "title": "Trump administration mulls having taxpayers pick up tab for uninsured patients seeking coronavirus care",
             "description": "Disaster recovery reimbursement program could be tapped to pay providers 110% of Medicare rates.",
@@ -209,6 +196,19 @@
             "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-IB380_trump__ZG_20200303145204.jpg",
             "publishedAt": "2020-03-03T19:54:31Z",
             "content": "The Trump administration is considering using a national disaster program to pay hospitals and doctors for their care of uninsured people infected with the new coronavirus as concerns rise over costs of treating some of the 27 million Americans without health\u2026 [+1287 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Why A Surprise Rate Cut Is No Miracle Cure",
+            "description": "The Federal Reserve cut interest rates by half a percentage point Tuesday in an effort to support markets against the possible economic impact of the coronavirus. But WSJ\u2019s Justin Lahart explains why the central bank can support the economy in the fight again\u2026",
+            "url": "https://www.wsj.com/video/why-a-surprise-rate-cut-is-no-miracle-cure/9FAD156D-2FAC-4970-B612-6563AF5FB8DE.html",
+            "urlToImage": "http://m.wsj.net/video/20200303/030320herdfedcut/030320herdfedcut_1280x720.jpg",
+            "publishedAt": "2020-03-03T23:17:10Z",
+            "content": "WSJs House of the Year: A Contemporary Home With Hawaiian Spirit \r\n1/30/2020A modern, 7,500 square-foot home connects owner Elizabeth Grossman to the nature and spiritual vortex that drew her to Lanikai, a neighborhood on Oahu. She gives us a tour, and explai\u2026 [+64 chars]"
         },
         {
             "source": {

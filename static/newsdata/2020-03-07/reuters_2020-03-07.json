@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 157,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Coronavirus spreads in French parliament",
+            "description": "A second member of France's National Assembly has been taken to hospital after contracting coronavirus and five other lawmakers are being tested for the illness, the lower house's presidency said in a statement on Saturday.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/YUL3Wz5Ic-M/coronavirus-spreads-in-french-parliament-idUSKBN20U0RP",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T17:23:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "CPAC attendee tests positive for coronavirus",
+            "description": "Organizers of the Conservative Political Action Conference, or CPAC, said an attendee of its annual Washington-area conference last month has tested positive for coronavirus.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/3PMVgiOzvOY/cpac-attendee-tests-positive-for-coronavirus-idUSKBN20U0ZM",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T22:50:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Italy coronavirus deaths slow down, cases leap",
+            "description": "The death toll from an outbreak of coronavirus in Italy slowed down on Saturday but the total number of cases in the country leapt by over 1,200, the Civil Protection Agency said.",
+            "url": "https://www.reuters.com/article/us-healthcare-coronavirus-italy-idUSKBN20U0RZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T17:28:12Z",
+            "content": "ROME (Reuters) - The death toll from an outbreak of coronavirus in Italy slowed down on Saturday but the total number of cases in the country leapt by over 1,200, the Civil Protection Agency said. \r\nDeaths due to the infectious virus were up 36 to 233, the he\u2026 [+703 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Number of UK coronavirus cases rises to 206",
+            "description": "The number of confirmed coronavirus cases in the United Kingdom has risen to 206, a rise of 43, British health officials said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coroanvirus-britain-cases-idUSKBN20U0ME",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T14:37:24Z",
+            "content": "LONDON (Reuters) - The number of confirmed coronavirus cases in the United Kingdom has risen to 206, a rise of 43, British health officials said on Saturday. \r\nSo far in Britain, two patients who had confirmed positive for the virus have died, the health mini\u2026 [+104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Mainland China reports 99 new confirmed cases of coronavirus on March 6",
+            "description": "Mainland China had 99 new confirmed cases of coronavirus infections on Friday, the country's National Health Commission said on Saturday, down from 143 cases a day earlier.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-china-toll-idUSKBN20U00W",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499790401&w=1200&r=LYNXMPEG26003",
+            "publishedAt": "2020-03-07T00:32:02Z",
+            "content": "BEIJING (Reuters) - Mainland China had 99 new confirmed cases of coronavirus infections on Friday, the country\u2019s National Health Commission said on Saturday, down from 143 cases a day earlier. \r\nThat brings the total accumulated number of confirmed cases in m\u2026 [+363 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Czech coronavirus quarantine measures extended to foreign residents",
+            "description": "Foreign nationals living in the Czech Republic will have to enter a two-week coronavirus quarantine if they return to the country from Italy, the European nation hit hardest by the epidemic, Prime Minister Andrej Babis said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-czech-italy-idUSKBN20U0RT",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T17:27:40Z",
+            "content": "PRAGUE (Reuters) - Foreign nationals living in the Czech Republic will have to enter a two-week coronavirus quarantine if they return to the country from Italy, the European nation hit hardest by the epidemic, Prime Minister Andrej Babis said on Saturday. \r\nT\u2026 [+672 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. raises travel alert levels for Azerbaijan, Turkmenistan over coronavirus",
+            "description": "The U.S. State Department on Friday raised its alert level for travel to Azerbaijan, warning Americans to reconsider travel there due to a coronavirus outbreak and response measures implemented by the country's government.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-azerbaijan-tur-idUSKBN20U04X",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T02:56:22Z",
+            "content": "WASHINGTON (Reuters) - The U.S. State Department on Friday raised its alert level for travel to Azerbaijan, warning Americans to reconsider travel there due to a coronavirus outbreak and response measures implemented by the country\u2019s government. \r\nThe State D\u2026 [+430 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China January-February yuan-denominated exports slump 15.9%, imports down 2.4%",
+            "description": "China's yuan-denominated exports in January-February fell 15.9% from the same period a year earlier, customs data showed on Saturday, while imports slid 2.4% as a fast spreading coronavirus outbreak caused severe disruptions to manufacturing activity.",
+            "url": "https://www.reuters.com/article/us-china-economy-trade-yuan-idUSKBN20U06J",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T05:15:27Z",
+            "content": "BEIJING (Reuters) - China\u2019s yuan-denominated exports in January-February fell 15.9% from the same period a year earlier, customs data showed on Saturday, while imports slid 2.4% as a fast spreading coronavirus outbreak caused severe disruptions to manufacturi\u2026 [+468 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. says it is tracking ship that may have shared crew with coronavirus-hit cruise liner",
+            "description": "The United States is tracking a cruise ship that may have shared crew members with a ship carrying people who tested positive for COVID-19, Vice President Mike Pence said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-pence-idUSKBN20U0Z2",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500147342&w=1200&r=LYNXMPEG260RN",
+            "publishedAt": "2020-03-07T22:17:50Z",
+            "content": "WASHINGTON (Reuters) - The United States is tracking a cruise ship that may have shared crew members with a ship carrying people who tested positive for COVID-19, Vice President Mike Pence said on Saturday. \r\n\u201cWe are tracking at this point a ship that may hav\u2026 [+328 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "First Cambodian tests positive for coronavirus",
+            "description": "The first Cambodian has tested positive for the new coronavirus, the Health Ministry said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-cambodia-idUSKBN20U0HW",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T12:09:09Z",
+            "content": "PHNOM PENH (Reuters) - The first Cambodian has tested positive for the new coronavirus, the Health Ministry said on Saturday. \r\nThe 38-year-old man was one of four people tested because he had direct contact with a Japanese visitor who later tested positive f\u2026 [+398 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Paraguay confirms its first case of coronavirus",
+            "description": "Paraguay has registered its first confirmed case of coronavirus, the Health Ministry said on Twitter on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-paraguay-idUSKBN20U0TC",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T18:20:17Z",
+            "content": "ASUNCION (Reuters) - Paraguay has registered its first confirmed case of coronavirus, the Health Ministry said on Twitter on Saturday. \r\nNo other details about the case were included in the tweet, which said ministry officials were scheduled to hold a news co\u2026 [+124 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. sailor confirmed with coronavirus in Italy",
+            "description": "A U.S. sailor deployed to Naples, Italy, has tested positive for the coronavirus, the U.S. military said on Saturday, in the second confirmed case among U.S. forces following another in South Korea.",
+            "url": "http://feeds.reuters.com/~r/Reuters/worldNews/~3/NyWubU4m-AQ/u-s-sailor-confirmed-with-coronavirus-in-italy-idUSKBN20U0M6",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T14:24:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Son of Georgia medical chief contracts coronavirus",
+            "description": "A son of a top medical official in Georgia said on Saturday he had contracted the new coronavirus after being in contact with people who traveled to Italy.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-georgia-idUSKBN20U0FQ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T10:54:05Z",
+            "content": "TBILISI (Reuters) - A son of a top medical official in Georgia said on Saturday he had contracted the new coronavirus after being in contact with people who traveled to Italy. \r\nNikoloz Gamkrelidze, son of Amiran Gamkrelidze, head of the national center on di\u2026 [+540 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Italian girl becomes Malta's first coronavirus case",
+            "description": "Malta's first case of coronavirus has been detected in a 12-year-old Italian girl who lives on the island, Health Minister Chris Fearne said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-malta-idUSKBN20U0GK",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T11:11:20Z",
+            "content": "VALLETTA (Reuters) - Malta\u2019s first case of coronavirus has been detected in a 12-year-old Italian girl who lives on the island, Health Minister Chris Fearne said on Saturday. \r\nThe girl tested positive for the illness early on Saturday and is receiving treatm\u2026 [+334 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Mexico reports its sixth case of coronavirus",
+            "description": "Mexican authorities on Friday said they have identified a sixth person infected with coronavirus, a 71 year-old man in the State of Mexico who recently traveled to northern Italy.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-mexico-case-idUSKBN20U055",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T03:12:32Z",
+            "content": "MEXICO CITY (Reuters) - Mexican authorities on Friday said they have identified a sixth person infected with coronavirus, a 71 year-old man in the State of Mexico who recently traveled to northern Italy. \r\nDeputy Health Minister Hugo Lopez-Gatell said the man\u2026 [+530 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Leader of Italy's co-ruling democratic party tests positive to coronavirus",
+            "description": "The leader of Italy's co-ruling Democratic Party Nicola Zingaretti said on Saturday he had tested positive for coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-pd-idUSKBN20U0IA",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499984397&w=1200&r=LYNXMPEG260CK",
+            "publishedAt": "2020-03-07T12:31:20Z",
+            "content": "ROME (Reuters) - The leader of Italy\u2019s co-ruling Democratic Party Nicola Zingaretti said on Saturday he had tested positive for coronavirus. \r\n\u201cI have coronavirus too\u201d, Zingaretti said in a video posted on Facebook, adding he was in self-isolation at home and\u2026 [+536 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Dutch coronavirus cases rise by 60 to 188 - health authorities",
+            "description": "The official total of confirmed coronavirus cases in the Netherlands rose by 60 on Saturday to 188, health officials said.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-netherlands-tally-idUSKBN20U0L9",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T13:52:38Z",
+            "content": "AMSTERDAM (Reuters) - The official total of confirmed coronavirus cases in the Netherlands rose by 60 on Saturday to 188, health officials said. \r\nThe National Institute for Public Health (RIVM) gave the latest Dutch numbers in a daily update. The Netherlands\u2026 [+284 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus deaths rise to 145 in Iran, infections up by more than 1,000 - ministry",
+            "description": "The number of deaths caused by coronavirus infections in Iran rose by 21 over the past 24 hours to reach 145 on Saturday, a health ministry official said.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN20U0GO",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T11:13:39Z",
+            "content": "DUBAI (Reuters) - The number of deaths caused by coronavirus infections in Iran rose by 21 over the past 24 hours to reach 145 on Saturday, a health ministry official said. \r\nThe number of people testing positive for the virus increased by more than 1,000 ove\u2026 [+137 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Iranian MP dies from coronavirus: Tasnim news agency",
+            "description": "An Iranian lawmaker has died from coronavirus, the semi-official Tasnim news agency reported on Saturday, in an another sign the disease is spreading within state institutions.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-iran-idUSKBN20U0DL",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T09:45:13Z",
+            "content": "DUBAI (Reuters) - An Iranian lawmaker has died from coronavirus, the semi-official Tasnim news agency reported on Saturday, in an another sign the disease is spreading within state institutions. \r\nIran is one of the countries outside China most affected by th\u2026 [+726 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Slovenia prohibits all large indoor events due to coronavirus",
+            "description": "Slovenian Health Minister Ales Sabeder prohibited all indoor public events for over 500 people late on Saturday due to the coronavirus, the Health Ministry said in a statement.",
+            "url": "https://www.reuters.com/article/us-health-coroanvirus-slovenia-idUSKBN20U0ZO",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T22:52:32Z",
+            "content": "LJUBLJANA (Reuters) - Slovenian Health Minister Ales Sabeder prohibited all indoor public events for over 500 people late on Saturday due to the coronavirus, the Health Ministry said in a statement. \r\nThe prohibition will be valid until the danger of the dise\u2026 [+531 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Khanh Vu",
+            "title": "Vietnam's coronavirus cases rise to 18: health ministry",
+            "description": "Vietnam's Ministry of Health on Saturday confirmed another coronavirus case, raising the total number in the Southeast Asian country to 18.",
+            "url": "https://www.reuters.com/article/us-healthcare-coronavirus-vietnam-idUSKBN20U0CV",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T09:32:33Z",
+            "content": "HANOI (Reuters) - Vietnam\u2019s Ministry of Health on Saturday confirmed another coronavirus case, raising the total number in the Southeast Asian country to 18. \r\nThe 27-year-old patient, who had been to the South Korean city of Daegu, returned to Vietnam on a V\u2026 [+698 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Coronavirus spreads in French parliament",
+            "description": "A second member of France's National Assembly has been taken to hospital after contracting coronavirus and five other lawmakers are being tested for the illness, the lower house's presidency said in a statement on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-france-idUSKBN20U0RP",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T17:23:42Z",
+            "content": "PARIS (Reuters) - A second member of France\u2019s National Assembly has been taken to hospital after contracting coronavirus and five other lawmakers are being tested for the illness, the lower house\u2019s presidency said in a statement on Saturday. \r\nThe Assembly di\u2026 [+1012 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "South Korea confirms 174 new coronavirus cases, total to 6,767",
+            "description": "South Korea on Saturday reported 174 additional coronavirus cases as of late Friday, taking the national tally to 6,767, the Korea Centers for Disease and Control and Prevention (KCDC) said.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-south-korea-idUSKBN20U02M",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499807284&w=1200&r=LYNXMPEG26016",
+            "publishedAt": "2020-03-07T01:31:42Z",
+            "content": "SEOUL (Reuters) - South Korea on Saturday reported 174 additional coronavirus cases from late Friday, taking the national tally to 6,767, the Korea Centers for Disease and Control and Prevention (KCDC) said. \r\nThe death toll remained unchanged at 44 from late\u2026 [+160 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Third coronavirus-related death in Australia after Sydney man dies",
+            "description": "A man in his 80s died in a Sydney hospital after testing positive to COVID-19, becoming the third coronavirus-related casualty in Australia, state health authorities said on Sunday.",
+            "url": "http://feeds.reuters.com/~r/Reuters/worldNews/~3/-xCy8mKEHlw/third-coronavirus-related-death-in-australia-after-sydney-man-dies-idUSKBN20U10D",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T23:23:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Protesters, police scuffle at Cyprus checkpoint closed over coronavirus",
+            "description": "Greek Cypriot police fired pepper spray on Saturday when skirmishes broke out with protesters angry that a checkpoint on the ethnically split island was closed in what authorities have said was a precaution against coronavirus, witnesses said.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-cyprus-checkpoints-idUSKBN20U0NI",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500028900&w=1200&r=LYNXMPEG260GB",
+            "publishedAt": "2020-03-07T15:05:56Z",
+            "content": "NICOSIA (Reuters) - Greek Cypriot police fired pepper spray on Saturday when skirmishes broke out with protesters angry that a checkpoint on the ethnically split island was closed in what authorities have said was a precaution against coronavirus, witnesses s\u2026 [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "France says 16 people have died from coronavirus: health official",
+            "description": "Sixteen people in France have died from coronavirus, the head of the country's public health service, Jerome Salomon, said on Saturday, an increase of five since the previous toll.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-france-toll-idUSKBN20U0U2",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T18:51:09Z",
+            "content": "PARIS (Reuters) - Sixteen people in France have died from coronavirus, the head of the country\u2019s public health service, Jerome Salomon, said on Saturday, an increase of five since the previous toll. \r\nFrance now has 949 confirmed cases of coronavirus, Salomon\u2026 [+62 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Number of coronavirus patients in Germany jumps to 684 - agency",
+            "description": "The number of coronavirus patients in Germany stood at 684 on Saturday morning, the country's public health agency, the Robet Koch Institute, said, an increase of 45 over Friday evening.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-germany-idUSKBN20U0G6",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T11:01:54Z",
+            "content": "BERLIN (Reuters) - The number of coronavirus patients in Germany stood at 684 on Saturday morning, the country\u2019s public health agency, the Robet Koch Institute, said, an increase of 45 over Friday evening. \r\nThe cases are concentrated in the west and south of\u2026 [+245 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Philippines' Duterte to declare public health emergency to combat coronavirus",
+            "description": "Philippines President Rodrigo Duterte plans to declare a nationwide public health emergency following confirmation of the country's first community transmission of the disease, the presidential aide said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-philippines-dutert-idUSKBN20U0CL",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T09:24:51Z",
+            "content": "MANILA (Reuters) - Philippines President Rodrigo Duterte plans to declare a nationwide public health emergency following confirmation of the country\u2019s first community transmission of the disease, the presidential aide said on Saturday. \r\nEarlier in the day, t\u2026 [+397 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Pope modifies engagements to avoid crowds gathering amid coronavirus outbreak",
+            "description": "Pope Francis has canceled his main public appearances to avoid crowds gathering to see him and will stream them on the internet from inside the Vatican because of the coronavirus outbreak in Italy.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-pope-idUSKBN20U0JH",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499995047&w=1200&r=LYNXMPEG260D3",
+            "publishedAt": "2020-03-07T13:08:25Z",
+            "content": "VATICAN CITY (Reuters) - Pope Francis has canceled his main public appearances to avoid crowds gathering to see him and will stream them on the internet from inside the Vatican because of the coronavirus outbreak in Italy. \r\nThe Vatican said that on Sunday he\u2026 [+473 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Group of 900 Dutch students return from North Italy ski trip",
+            "description": "A group of 900 Dutch college students who took a ski trip to northern Italy despite Europe's worst outbreak of coronavirus there returned home by bus on Saturday, facing an outcry on social media.",
+            "url": "http://feeds.reuters.com/~r/Reuters/worldNews/~3/i3hmz_AcWDQ/group-of-900-dutch-students-return-from-north-italy-ski-trip-idUSKBN20U0JQ",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T13:16:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Scott Murdoch",
+            "title": "Hong Kong asks residents to defer non-urgent travel",
+            "description": "The Hong Kong government has warned the city's residents to consider deferring all non-essential travel outside of the territory, as the coronavirus becomes increasingly prevalent around the world.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-hongkong-travel-idUSKBN20U06N",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T04:43:25Z",
+            "content": "HONG KONG (Reuters) - The Hong Kong government has warned the city\u2019s residents to consider deferring all non-essential travel outside of the territory, as the coronavirus becomes increasingly prevalent around the world. \r\nIt had already placed a red alert - t\u2026 [+1109 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Diamond Princess passenger dies, bringing ship's death toll to seven: NHK",
+            "description": "A former passenger of the Diamond Princess cruise ship who was infected with coronavirus has died, bringing the death toll from the ship to seven, Japanese public broadcaster NHK said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coroanvirus-japan-idUSKBN20U0KQ",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500001263&w=1200&r=LYNXMPEG260EQ",
+            "publishedAt": "2020-03-07T13:30:58Z",
+            "content": "TOKYO (Reuters) - A former passenger of the Diamond Princess cruise ship who was infected with coronavirus has died, bringing the death toll from the ship to seven, Japanese public broadcaster NHK said on Saturday. \r\nThe passenger, a non-Japanese male, died o\u2026 [+73 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. pastor tells how Bethlehem trip turned into coronavirus quarantine ordeal",
+            "description": "Thirteen Americans suspected of being exposed to coronavirus during a trip to the Holy Land are in quarantine near Bethlehem and are coordinating with U.S. and Palestinian authorities to try to get home.",
+            "url": "http://feeds.reuters.com/~r/Reuters/worldNews/~3/Pka4QYNP7SM/u-s-pastor-tells-how-bethlehem-trip-turned-into-coronavirus-quarantine-ordeal-idUSKBN20U0AP",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T18:29:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Egypt confirms 33 new cases of coronavirus on Nile cruise ship",
+            "description": "Egypt confirmed on Saturday 33 new cases of coronavirus on a cruise ship on the River Nile that officials said the previous day had been struck by the virus, the health minister said.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-egypt-idUSKBN20U0TK",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T18:28:12Z",
+            "content": "CAIRO (Reuters) - Egypt confirmed on Saturday 33 new cases of coronavirus on a cruise ship on the River Nile that officials said the previous day had been struck by the virus, the health minister said. \r\nNone of the cases were showing symptoms of the illness,\u2026 [+123 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Neil Jerome Morales",
+            "title": "Philippines records first community transmission of coronavirus, now has six cases",
+            "description": "The Philippines said on Saturday it had confirmed its first case of community transmission for the new coronavirus, prompting health ministry officials to call on the president to declare a public health emergency to contain its spread.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-philippines-idUSKBN20U0A5",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T08:06:57Z",
+            "content": "MANILA (Reuters) - The Philippines said on Saturday it had confirmed its first case of community transmission for the new coronavirus, prompting health ministry officials to call on the president to declare a public health emergency to contain its spread. \r\nT\u2026 [+1184 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Factbox: Sports events hit by the coronavirus epidemic",
+            "description": "Here is a list of international sports events hit by the outbreak of a coronavirus:",
+            "url": "http://feeds.reuters.com/~r/reuters/businessNews/~3/7ZtbUCmleJg/factbox-sports-events-hit-by-the-coronavirus-epidemic-idUSKBN20S1ZD",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T11:57:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Maldives confirms first two cases of coronavirus",
+            "description": "The Maldives on Saturday reported its first two confirmed cases of the new coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-maldives-idUSKBN20U0QP",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T17:06:14Z",
+            "content": "MALE (Reuters) - The Maldives on Saturday reported its first two confirmed cases of the new coronavirus. \r\nThe two infected people are employees at a tourist resort and are believed to have caught the disease from an Italian tourist who has returned to Italy \u2026 [+288 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Coronavirus cases rise in UAE and Qatar: ministries",
+            "description": "The number of coronavirus cases in the United Arab Emirates has risen to 45 from 30, the health ministry said on Saturday.",
+            "url": "http://feeds.reuters.com/~r/reuters/businessNews/~3/5-CS3pXpFgY/coronavirus-cases-rise-in-uae-and-qatar-ministries-idUSKBN20T2V4",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T08:04:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Number of UK coronavirus cases rises by 46 to 209",
+            "description": "The number of confirmed coronavirus cases in the United Kingdom has risen to 209, up from 163, health officials said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-cases-idUSKBN20U0ME",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500123247&w=1200&r=LYNXMPEG260PQ",
+            "publishedAt": "2020-03-07T20:48:34Z",
+            "content": "LONDON (Reuters) - The number of confirmed coronavirus cases in the United Kingdom has risen to 209, up from 163, health officials said on Saturday. \r\nSo far in Britain, two patients who had confirmed positive for the virus have died, the health ministry and \u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Two nursing home residents in British Columbia test positive for coronavirus",
+            "description": "Two residents at a long-care facility in British Columbia with no recent travel history have tested positive for the new coronavirus infection, making it Canada's first known case of the disease at a nursing home, provincial officials said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-canada-idUSKBN20U0WZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T20:23:19Z",
+            "content": "(Reuters) - Two residents at a long-care facility in British Columbia with no recent travel history have tested positive for the new coronavirus infection, making it Canada\u2019s first known case of the disease at a nursing home, provincial officials said on Satu\u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China says 78 million migrant rural workers have returned to work",
+            "description": "A total of 78 million Chinese migrant rural workers have already returned to work, accounting for 60% of the total who left for home for the Chinese New Year holiday, a government official said on Saturday, as Beijing steps up measures to limit the disruption\u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-workers-idUSKBN20U0A0",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T08:05:26Z",
+            "content": "SHANGHAI (Reuters) - A total of 78 million Chinese migrant rural workers have already returned to work, accounting for 60% of the total who left for home for the Chinese New Year holiday, a government official said on Saturday, as Beijing steps up measures to\u2026 [+316 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Italy to announce new measures to try to stem coronavirus contagion",
+            "description": "Italy will adopt new measures on Saturday to try to contain the spread of coronavirus, the head of the Civil Protection Agency said, after data showed by far the biggest daily rise in cases since the outbreak began two weeks ago.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-decree-idUSKBN20U0T4",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500080327&w=1200&r=LYNXMPEG260LF",
+            "publishedAt": "2020-03-07T18:10:03Z",
+            "content": "ROME (Reuters) - Italy will adopt new measures on Saturday to try to contain the spread of coronavirus, the head of the Civil Protection Agency said, after data showed by far the biggest daily rise in cases since the outbreak began two weeks ago. \r\nItalian me\u2026 [+376 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Around 70 people trapped as hotel used for quarantine collapses in China",
+            "description": "About 70 people were trapped in a collapsed hotel in the city of Quanzhou, in southeastern Fujian Province, the city government said on its website.",
+            "url": "https://www.reuters.com/article/us-china-hotel-collapse-idUSKBN20U0LW",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T14:22:05Z",
+            "content": "SHANGHAI (Reuters) - About 70 people were trapped in a collapsed hotel in the city of Quanzhou, in southeastern Fujian Province, the city government said on its website. \r\nThe collapsed hotel is used for coronavirus quarantine, according to the official Peopl\u2026 [+234 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "U.S. sailor confirmed with coronavirus in Italy",
+            "description": "A U.S. sailor deployed to Naples, Italy, has tested positive for the coronavirus, the U.S. military said on Saturday, in the second confirmed case among U.S. forces following another in South Korea.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-italy-idUSKBN20U0M6",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T14:24:09Z",
+            "content": "WASHINGTON (Reuters) - A U.S. sailor deployed to Naples, Italy,\u00a0has tested positive for the coronavirus, the U.S. military said on Saturday, in the second confirmed case among U.S. forces following another in South Korea.\u00a0 \r\n\u201cThe member is currently restricte\u2026 [+388 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "CPAC attendee tests positive for coronavirus",
+            "description": "Organizers of the Conservative Political Action Conference, or CPAC, said an attendee of its annual Washington-area conference last month has tested positive for coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-cpac-idUSKBN20U0ZM",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T22:50:33Z",
+            "content": "(Reuters) - Organizers of the Conservative Political Action Conference, or CPAC, said an attendee of its annual Washington-area conference last month has tested positive for coronavirus. \r\n\u201cA New Jersey hospital tested the person, and CDC confirmed the positi\u2026 [+432 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Greece reports 21 new coronavirus cases in a day, now 66",
+            "description": "Greece said on Saturday it had recorded 21 new coronavirus cases, bringing the total in the country to 66.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-greece-idUSKBN20U0UZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T19:26:44Z",
+            "content": "ATHENS (Reuters) - Greece said on Saturday it had recorded 21 new coronavirus cases, bringing the total in the country to 66. \r\nMost of the cases were individuals in a traveling party that had gone on a pilgrimage to Israel and Egypt, the health ministry said\u2026 [+418 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Saudi Arabia limits arrivals from UAE, Kuwait, Bahrain to airports over coronavirus: SPA",
+            "description": "Saudi Arabia limited on Saturday land crossings with the United Arab Emirates, Kuwait, and Bahrain to commercial trucks only, with arrivals from the three countries temporarily limited to three airports as a precaution taken over the spread of the coronavirus\u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-saudi-idUSKBN20U016",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T00:45:41Z",
+            "content": "CAIRO (Reuters) - Saudi Arabia limited on Saturday land crossings with the United Arab Emirates, Kuwait, and Bahrain to commercial trucks only, with arrivals from the three countries temporarily limited to three airports as a precaution taken over the spread \u2026 [+282 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Saudi Arabia asks people arriving from four countries to self-quarantine",
+            "description": "Saudi Arabia has asked people who have traveled to Lebanon, Egypt, Italy or South Korea to self-quarantine for two weeks from the day of their arrival in the Kingdom, Saudi state media quoted the health ministry as saying on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-saudi-idUSKBN20U0WX",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500116650&w=1200&r=LYNXMPEG260P7",
+            "publishedAt": "2020-03-07T20:22:17Z",
+            "content": "CAIRO (Reuters) - Saudi Arabia has asked people who have traveled to Lebanon, Egypt, Italy or South Korea to self-quarantine for two weeks from the day of their arrival in the Kingdom, Saudi state media quoted the health ministry as saying on Saturday. \r\nIt a\u2026 [+395 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Number of UK coronavirus cases rises to 206",
+            "description": "The number of confirmed coronavirus cases in the United Kingdom has risen to 206, a rise of 43, British health officials said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coroanvirus-britain-cases-idUSKBN20U0ME",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T14:37:24Z",
+            "content": "LONDON (Reuters) - The number of confirmed coronavirus cases in the United Kingdom has risen to 206, a rise of 43, British health officials said on Saturday. \r\nSo far in Britain, two patients who had confirmed positive for the virus have died, the health mini\u2026 [+104 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Washington, D.C., has first 'presumptive positive' test for coronavirus",
+            "description": "A person in Washington, D.C., has had a \"presumptive positive test\" for the coronavirus, Mayor Muriel Bowser said on Twitter on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-washingtondc-idUSKBN20U0ZY",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T23:06:32Z",
+            "content": "WASHINGTON (Reuters) - A person in Washington, D.C., has had a \u201cpresumptive positive test\u201d for the coronavirus, Mayor Muriel Bowser said on Twitter on Saturday. \r\nThe person who was not identified. \r\nReporting by Diane Bartz; Editing by Leslie Adler"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Uber says it will compensate drivers diagnosed with coronavirus",
+            "description": "Uber Technologies Inc said on Saturday it will offer compensation to drivers and delivery people diagnosed with the coronavirus or placed in quarantine for up to 14 days.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-uber-idUSKBN20U105",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500161495&w=1200&r=LYNXMPEG260SH",
+            "publishedAt": "2020-03-07T23:10:49Z",
+            "content": "(Reuters) - Uber Technologies Inc said on Saturday it will offer compensation to drivers and delivery people diagnosed with the coronavirus or placed in quarantine for up to 14 days. \r\nThe company has already started compensating drivers in some markets and i\u2026 [+677 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "France says 11 people have now died from coronavirus: Health Ministry",
+            "description": "France's Health Ministry said on Saturday that two more people had died from the coronavirus, bringing the total death toll to 11 people.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-france-idUSKBN20U0KA",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T13:21:15Z",
+            "content": "PARIS (Reuters) - France\u2019s Health Ministry said on Saturday that two more people had died from the coronavirus, bringing the total death toll to 11 people. \r\nOne of the two fatalities was confirmed in the northern part of France, the other in Normandy, the mi\u2026 [+224 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Third coronavirus-related death in Australia after Sydney man dies",
+            "description": "A man in his 80s died in a Sydney hospital after testing positive to COVID-19, becoming the third coronavirus-related casualty in Australia, state health authorities said on Sunday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-australia-idUSKBN20U10D",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T23:23:08Z",
+            "content": "SYDNEY (Reuters) - A man in his 80s died in a Sydney hospital after testing positive to COVID-19, becoming the third coronavirus-related casualty in Australia, state health authorities said on Sunday. \r\nThe total number of coronavirus cases has topped 70 in A\u2026 [+764 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "EU tells Italy its coronavirus spending will not hurt compliance with budget rules",
+            "description": "The European Commission told Italy on Saturday that its planned extra spending to respond to the country's coronavirus outbreak will not be counted in considering its compliance with European Union budget rules.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-eu-idUSKBN20U0IZ",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499989466&w=1200&r=LYNXMPEG260CV",
+            "publishedAt": "2020-03-07T12:46:51Z",
+            "content": "ROME (Reuters) - The European Commission told Italy on Saturday that its planned extra spending to respond to the country\u2019s coronavirus outbreak will not be counted in considering its compliance with European Union budget rules. \r\nItalian Economy Minister Rob\u2026 [+1008 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Shiffman",
+            "title": "Dozens of health screeners at LAX ordered to self-quarantine: U.S. official",
+            "description": "Dozens of health care screeners and other employees at Los Angeles International Airport have been ordered to self-quarantine, after two colleagues tested positive for the coronavirus, a federal official told Reuters.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-lax-idUSKBN20U0ZK",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T22:51:32Z",
+            "content": "WASHINGTON (Reuters) - Dozens of health care screeners and other employees at Los Angeles International Airport have been ordered to self-quarantine, after two colleagues tested positive for the coronavirus, a federal official told Reuters. \r\nThe two screener\u2026 [+1048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Italy to adopt new draconian steps to fight coronavirus: draft decree",
+            "description": "The Italian government will adopt new tough measures to try to contain the spread of coronavirus, including telling people not to enter or leave the hardest-hit region of Lombardy, according to a draft decree seen by Reuters.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-italy-measures-idUSKBN20U0VT",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500107664&w=1200&r=LYNXMPEG260O2",
+            "publishedAt": "2020-03-07T19:47:38Z",
+            "content": "ROME (Reuters) - The Italian government will adopt new tough measures to try to contain the spread of coronavirus, including telling people not to enter or leave the hardest-hit region of Lombardy, according to a draft decree seen by Reuters. \r\nSo far only a \u2026 [+721 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Two more succumb to coronavirus in U.S., New York declares state of emergency",
+            "description": "Two more people succumbed to the novel coronavirus in Washington state, officials said on Saturday, bringing the nationwide toll to 19, while the number of confirmed cases in New York jumped by 21 overnight and a cruise ship with infected passengers remained \u2026",
+            "url": "http://feeds.reuters.com/~r/reuters/healthNews/~3/Yo-VxYdrywU/two-more-succumb-to-coronavirus-in-u-s-new-york-declares-state-of-emergency-idUSKBN20U0WK",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T22:51:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "FDA head says 2.1 million coronavirus tests will have been shipped to labs by Monday",
+            "description": "The head of the U.S. Food and Drug Administration said on Saturday that materials for 2.1 million coronavirus tests will have been shipped to non-public U.S. labs by Monday, as the Trump administration aims to counter criticism that its response to the diseas\u2026",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-fda-idUSKBN20U0VZ",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500108729&w=1200&r=LYNXMPEG260OL",
+            "publishedAt": "2020-03-07T19:54:01Z",
+            "content": "WASHINGTON (Reuters) - The head of the U.S. Food and Drug Administration said on Saturday that materials for 2.1 million coronavirus tests will have been shipped to non-public U.S. labs by Monday, as the Trump administration aims to counter criticism that its\u2026 [+333 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Two U.S. health screeners at LAX test positive for coronavirus: internal email",
+            "description": "Two federal health screeners at Los Angeles International Airport have tested positive for the coronavirus, according to an email sent to their colleagues today and seen by Reuters.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-lax-idUSKBN20U03Z",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T02:07:14Z",
+            "content": "WASHINGTON (Reuters) - Two federal health screeners at Los Angeles International Airport have tested positive for the coronavirus, according to an email sent to their colleagues today and seen by Reuters.\u00a0 \r\nThe Centers for Disease Control and Prevention empl\u2026 [+428 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "American tourists quarantined in Bethlehem hotel over coronavirus scare: Palestinian official",
+            "description": "Fifteen American tourists have been quarantined in a hotel in the West Bank city of Bethlehem as part of precautions against the coronavirus, a Palestinian government spokesman said on Saturday.",
+            "url": "http://feeds.reuters.com/~r/Reuters/domesticNews/~3/IsTRCxNc6TI/american-tourists-quarantined-in-bethlehem-hotel-over-coronavirus-scare-palestinian-official-idUSKBN20U0AP",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T08:36:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Barcelona marathon postponed due to coronavirus",
+            "description": "The Barcelona marathon scheduled for next weekend has been postponed until October to stop the spread of the coronavirus, Barcelona's city hall said in a statement on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-barcelona-marathon-idUSKBN20U0G8",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T11:03:11Z",
+            "content": "BARCELONA (Reuters) - The Barcelona marathon scheduled for next weekend has been postponed until October to stop the spread of the coronavirus, Barcelona\u2019s city hall said in a statement on Saturday. \r\nThe race was due to take place on March 15 but has been re\u2026 [+351 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Steve Keating",
+            "title": "Ice hockey: Women's world championship canceled over coronavirus outbreak",
+            "description": "The women's world ice hockey championship set for this month in Halifax and Truro, Nova Scotia, has been canceled over concerns about the coronavirus outbreak, the International Ice Hockey Federation (IIHF) said on Saturday.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-icehockey-women-idUSKBN20U0VD",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500104737&w=1200&r=LYNXMPEG260NE",
+            "publishedAt": "2020-03-07T19:37:29Z",
+            "content": "(Reuters) - The women\u2019s world ice hockey championship set for this month in Halifax and Truro, Nova Scotia, has been canceled over concerns about the coronavirus outbreak, the International Ice Hockey Federation (IIHF) said on Saturday. \r\n\u201cDue to the ongoing \u2026 [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "NBA-'I ain't playing' with no fans, says James",
+            "description": "Los Angeles Lakers forward LeBron James has said he will not take to the court if the NBA bars fans from attending games to limit the spread of the coronavirus.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-nba-idUSKBN20U0IQ",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499985695&w=1200&r=LYNXMPEG260CN",
+            "publishedAt": "2020-03-07T12:36:47Z",
+            "content": "(Reuters) - Los Angeles Lakers forward LeBron James has said he will not take to the court if the NBA bars fans from attending games to limit the spread of the coronavirus. \r\nAmerican media reported that the NBA had sent a memo to teams on Friday detailing th\u2026 [+1209 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Cath Turner",
+            "title": "Cancer patient aboard coronavirus-stalled cruise faces possible chemotherapy delay",
+            "description": "Among the 2,400 passengers stranded off the California coast on a cruise ship carrying at least 21 people infected with coronavirus, few people aboard likely have more to lose than Kari Kolstoe, a retiree from North Dakota with stage-4 cancer.",
+            "url": "https://www.reuters.com/article/health-coronavirus-cruise-ship-cancer-idUSL1N2B002R",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T05:57:16Z",
+            "content": "March 6 (Reuters) - Among the 2,400 passengers stranded off the California coast on a cruise ship carrying at least 21 people infected with coronavirus, few people aboard likely have more to lose than Kari Kolstoe, a retiree from North Dakota with stage-4 can\u2026 [+3521 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Jiraporn Kuhakan",
+            "title": "Transgender queen crowned in Thailand as coronavirus limits crowd",
+            "description": "After temperature checks for contestants and with a smaller crowd than last year because of coronavirus fears, Mexico's Valentina Fluchaire was crowned in Thailand as winner of what is billed as the world's biggest transgender pageant on Saturday.",
+            "url": "https://www.reuters.com/article/us-thailand-lgbt-pageant-idUSKBN20U0XL",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500125875&w=1200&r=LYNXMPEG260QB",
+            "publishedAt": "2020-03-07T20:58:31Z",
+            "content": "PATTAYA (Reuters) - After temperature checks for contestants and with a smaller crowd than last year because of coronavirus fears, Mexico\u2019s Valentina Fluchaire was crowned in Thailand as winner of what is billed as the world\u2019s biggest transgender pageant on S\u2026 [+1727 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tracy Rucinski",
+            "title": "No more refills: U.S. airlines step up measures to guard against coronavirus",
+            "description": "U.S. airlines are stepping up measures to guard against the spread of coronavirus through person-to-person contamination on airplanes, from eliminating wine and water refills to keeping passengers from touching serving trays and food baskets.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-airlines-idUSKBN20U0UP",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500100416&w=1200&r=LYNXMPEG260NA",
+            "publishedAt": "2020-03-07T19:15:01Z",
+            "content": "CHICAGO (Reuters) - U.S. airlines are stepping up measures to guard against the spread of coronavirus through person-to-person contamination on airplanes, from eliminating wine and water refills to keeping passengers from touching serving trays and food baske\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Kevin Donnellan",
+            "title": "Passengers on coronavirus-struck ship near San Francisco stuck in queasy limbo",
+            "description": "Passengers on a cruise ship that was barred from docking in San Francisco after some aboard tested positive for the novel coronavirus did not know on Saturday when they might be able to step ashore.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN20U0WK",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500115519&w=1200&r=LYNXMPEG260P3",
+            "publishedAt": "2020-03-07T20:07:00Z",
+            "content": "(Reuters) - Passengers on a cruise ship that was barred from docking in San Francisco after some aboard tested positive for the novel coronavirus did not know on Saturday when they might be able to step ashore. \r\nAs the outbreak takes root in the United State\u2026 [+4893 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Cath Turner",
+            "title": "RPT-Cancer patient aboard coronavirus-stalled cruise faces possible chemotherapy delay",
+            "description": "Among the 2,400 passengers stranded off the California coast on a cruise ship carrying at least 21 people infected with coronavirus, few people aboard likely have more to lose than Kari Kolstoe, a retiree from North Dakota with stage-4 cancer.",
+            "url": "https://www.reuters.com/article/health-coronavirus-cruise-ship-cancer-idUSL1N2B003P",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T11:00:00Z",
+            "content": "(Repeats story first published late on Friday; no change to text) \r\nBy Cath Turner and Steve Gorman \r\nMarch 6 (Reuters) - Among the 2,400 passengers stranded off the California coast on a cruise ship carrying at least 21 people infected with coronavirus, few \u2026 [+3623 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UPDATE 1-US says it is tracking ship that may have shared crew with coronavirus-hit cruise liner",
+            "description": "The United States is tracking a cruise ship that may have shared crew members with a ship carrying people who tested positive for COVID-19, Vice President Mike Pence said on Saturday.",
+            "url": "https://www.reuters.com/article/health-coronavirus-pence-idUSL1N2B00A3",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T22:57:05Z",
+            "content": "(Adds enhanced screening coming for cruise ships) \r\nWASHINGTON, March 7 (Reuters) - The United States is tracking a cruise ship that may have shared crew members with a ship carrying people who tested positive for COVID-19, Vice President Mike Pence said on S\u2026 [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Facebook closes London offices until Monday due to coronavirus",
+            "description": "Facebook said on Friday it is closing its London offices until Monday after a visiting employee from Singapore was diagnosed with coronavirus.",
+            "url": "https://in.reuters.com/article/health-coronavirus-facebook-britain-idINKBN20T2C1",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499844531&w=1200&r=LYNXMPEG251LZ",
+            "publishedAt": "2020-03-07T03:39:40Z",
+            "content": "LONDON (Reuters) - Facebook said on Friday it is closing its London offices until Monday after a visiting employee from Singapore was diagnosed with coronavirus. \r\n\u201cAn employee based in our Singapore office who has been diagnosed with COVID-19 visited our Lon\u2026 [+505 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Fognini describes 'strange feeling' of playing in empty stadium as Italy lead",
+            "description": "Italy's Fabio Fognini said it was a \"strange feeling\" playing a Davis Cup tie with no fans, after helping his country into a 2-0 lead against South Korea on Friday.",
+            "url": "https://www.reuters.com/article/us-tennis-daviscup-idUSKBN20U026",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499803001&w=1200&r=LYNXMPEG2600Z",
+            "publishedAt": "2020-03-07T01:26:39Z",
+            "content": "(Reuters) - Italy\u2019s Fabio Fognini said it was a \u201cstrange feeling\u201d playing a Davis Cup tie with no fans, after helping his country into a 2-0 lead against South Korea on Friday. \r\nThe match in Cagliari, one of 12 qualifiers to decide which nations go to the Ma\u2026 [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Karen Brettell",
+            "title": "Once unthinkable, negative Treasury yields enter the realm of possibility",
+            "description": "A collapse in Treasury yields as concerns about the spreading coronavirus sends investors scurrying for low-risk government securities has led some to start preparing for the possibility that the U.S. debt yields could turn negative.",
+            "url": "https://in.reuters.com/article/health-coronavirus-treasuries-analysis-idINKBN20U04R",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499831208&w=1200&r=LYNXMPEG2602L",
+            "publishedAt": "2020-03-07T02:57:23Z",
+            "content": "(Reuters) - A collapse in Treasury yields as concerns about the spreading coronavirus sends investors scurrying for low-risk government securities has led some to start preparing for the possibility that the U.S. debt yields could turn negative. \r\nThe Federal\u2026 [+3397 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Swiss government to virus-hit companies: don't expect helicopter money",
+            "description": "The Swiss government is working on directing support to companies hit by falling demand caused by the coronavirus outbreak and will not adopt a broad stimulus programme, a top official said on Saturday.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-swiss-idINKBN20U0II",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T12:29:32Z",
+            "content": "ZURICH (Reuters) - The Swiss government is working on directing support to companies hit by falling demand caused by the coronavirus outbreak and will not adopt a broad stimulus program, a top official said on Saturday. \r\n\u201cFor us it is important that we don\u2019t\u2026 [+1265 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "G20 finance leaders pledge 'appropriate' fiscal, monetary actions in coronavirus response",
+            "description": "G20 finance ministers and central bank governors on Friday pledged to take \"appropriate\" fiscal and monetary measures in responding to the coronavirus outbreak and to protect economic growth against shocks.",
+            "url": "https://in.reuters.com/article/uk-health-coronavirus-g20-idINKBN20U00B",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T00:06:24Z",
+            "content": "WASHINGTON (Reuters) - G20 finance ministers and central bank governors on Friday pledged to take \u201cappropriate\u201d fiscal and monetary measures in responding to the coronavirus outbreak and to protect economic growth against shocks. \r\nIn a joint statement issued\u2026 [+1685 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "EU tells Italy its coronavirus spending will not hurt compliance with budget rules",
+            "description": "The European Commission told Italy on Saturday that its planned extra spending to respond to the country's coronavirus outbreak will not be counted in considering its compliance with European Union budget rules.",
+            "url": "https://in.reuters.com/article/health-coronavirus-italy-eu-idINKBN20U0IX",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499996506&w=1200&r=LYNXMPEG260D8",
+            "publishedAt": "2020-03-07T13:14:33Z",
+            "content": "ROME (Reuters) - The European Commission told Italy on Saturday that its planned extra spending to respond to the country\u2019s coronavirus outbreak will not be counted in considering its compliance with European Union budget rules. \r\nItalian Economy Minister Rob\u2026 [+1008 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Pete Schroeder",
+            "title": "U.S. financial regulators start contingency planning as virus reaches Washington",
+            "description": "U.S. financial regulators are preparing contingency arrangements, including travel restrictions and home-working, to ensure they can effectively oversee the financial markets as the coronavirus closes in on the U.S. capital.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-usa-regulators-idINKBN20T2WH",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500048965&w=1200&r=LYNXMPEG251Z3",
+            "publishedAt": "2020-03-07T16:12:43Z",
+            "content": "WASHINGTON (Reuters) - U.S. financial regulators are preparing contingency arrangements, including travel restrictions and home-working, to ensure they can effectively oversee the financial markets as the coronavirus closes in on the U.S. capital. \r\nOn Friday\u2026 [+4219 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China Jan-Feb dollar-denominated exports tumble 17.2%, imports down 4%",
+            "description": "China's exports tumbled 17.2% in January-February from a year earlier, while imports shrank 4%, as a fast spreading coronavirus outbreak caused massive disruptions in economic activity that rippled through global supply chains, customs data showed on Saturday.",
+            "url": "https://in.reuters.com/article/china-economy-trade-idINKBN20U05I",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499843222&w=1200&r=LYNXMPEG2603M",
+            "publishedAt": "2020-03-07T03:34:56Z",
+            "content": "BEIJING (Reuters) - China\u2019s exports tumbled 17.2% in January-February from a year earlier, while imports shrank 4%, as a fast spreading coronavirus outbreak caused massive disruptions in economic activity that rippled through global supply chains, customs dat\u2026 [+618 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Intesa Sanpaolo offers 100 million euros to tackle virus emergency, 5 billion euros in loans - paper",
+            "description": "Intesa Sanpaolo is ready to donate up to 100 million euros to Italy to tackle the coronavirus outbreak and grant up to 5 billion euros in loans to companies affected by the epidemic, the lender's chief executive said on Saturday.",
+            "url": "https://in.reuters.com/article/us-health-coronavirus-italy-intesa-sanpa-idINKBN20U0CN",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T09:11:49Z",
+            "content": "ROME (Reuters) - Intesa Sanpaolo (ISP.MI) is ready to donate up to 100 million euros to Italy to tackle the coronavirus outbreak and grant up to 5 billion euros in loans to companies affected by the epidemic, the lender\u2019s chief executive said on Saturday. \r\nI\u2026 [+1079 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Abdul Qadir Sediqi",
+            "title": "Afghanistan's confirmed coronavirus cases rises to 4 - health ministry spokesman",
+            "description": "Afghanistan's health ministry said on Saturday that the number of confirmed case of coronavirus in the country had jumped to four.",
+            "url": "https://in.reuters.com/article/healthcare-coronavirus-afghanistan-idINKBN20U09F",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T07:50:54Z",
+            "content": "KABUL (Reuters) - Afghanistan\u2019s health ministry said on Saturday that the number of confirmed case of coronavirus in the country had jumped to four. \r\n\u201cThree positive cases of coronavirus have been registered in western Herat province of Afghanistan,\u201d Wahidul\u2026 [+1243 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Dozens of Swiss companies keen on export channel to Iran",
+            "description": "A Swiss channel to export food and medicine to Iran's struggling population without running foul of U.S. sanctions is off to a good start, with dozens of companies keen to take part, a senior government official said on Saturday.",
+            "url": "https://www.reuters.com/article/us-swiss-iran-idUSKBN20U0LH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T13:45:01Z",
+            "content": "ZURICH (Reuters) - A Swiss channel to export food and medicine to Iran\u2019s struggling population without running foul of U.S. sanctions is off to a good start, with dozens of companies keen to take part, a senior government official said on Saturday. \r\nThe Swis\u2026 [+1865 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "China Jan-Feb crude oil imports rise 5.2% yr/yr on pre-virus restocking",
+            "description": "* Crude oil imports at 86.09 mln T, or 10.47 mln bpd, in Jan-Feb",
+            "url": "https://www.reuters.com/article/china-economy-trade-crude-idUSL4N2AY1V0",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T04:04:15Z",
+            "content": "* Crude oil imports at 86.09 mln T, or 10.47 mln bpd, in Jan-Feb \r\n* Refiners traditionally stock up on crude ahead of Lunar New Year \r\n* Jan-Feb natural gas imports up 2.8% yr/yr to 17.8 mln T \r\nBEIJING, March 7 (Reuters) - China\u2019s crude oil imports over the\u2026 [+2482 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Dozens of Swiss companies keen on export channel to Iran",
+            "description": "A Swiss channel to export food and medicine to Iran's struggling population without running foul of U.S. sanctions is off to a good start, with dozens of companies keen to take part, a senior government official said on Saturday.",
+            "url": "https://in.reuters.com/article/us-swiss-iran-idINKBN20U0LH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T13:48:07Z",
+            "content": "ZURICH (Reuters) - A Swiss channel to export food and medicine to Iran\u2019s struggling population without running foul of U.S. sanctions is off to a good start, with dozens of companies keen to take part, a senior government official said on Saturday. \r\nThe Swis\u2026 [+1865 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Tom Arnold",
+            "title": "Sovereign wealth fund appetite for investing in start-ups wanes",
+            "description": "Sovereign wealth fund investment in venture capital deals slipped to its lowest level in six years in 2019, with the drop-off deepening in the months after WeWork's planned share sale failed, data showed on Friday.",
+            "url": "https://www.reuters.com/article/us-swf-markets-venture-capital-idUSKBN20U0S3",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T17:33:12Z",
+            "content": "LONDON (Reuters) - Sovereign wealth fund investment in venture capital deals slipped to its lowest level in six years in 2019, with the drop-off deepening in the months after WeWork\u2019s planned share sale failed, data showed on Friday. \r\nSovereign wealth-backed\u2026 [+3170 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Athletics-Barcelona marathon postponed due to coronavirus",
+            "description": "The Barcelona marathon scheduled for next weekend has been postponed until October to stop the spread of the coronavirus, Barcelona's city hall said in a statement on Saturday.",
+            "url": "https://af.reuters.com/article/sportsNews/idAFKBN20U0K1-OZASP",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499998775&w=1200&r=LYNXMPEG260DP-OZASP",
+            "publishedAt": "2020-03-07T13:19:46Z",
+            "content": "BARCELONA (Reuters) - The Barcelona marathon scheduled for next weekend has been postponed until October to stop the spread of the coronavirus, Barcelona\u2019s city hall said in a statement on Saturday. \r\nThe race was due to take place on March 15 but has been re\u2026 [+351 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "France says 16 people have died from coronavirus - health official",
+            "description": "Sixteen people in France have died from coronavirus, the head of the country's public health service, Jerome Salomon, said on Saturday, an increase of five since the previous toll.",
+            "url": "https://www.reuters.com/article/health-coronavirus-france-idUSL8N2B0076",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T18:49:09Z",
+            "content": "PARIS, March 7 (Reuters) - Sixteen people in France have died from coronavirus, the head of the country\u2019s public health service, Jerome Salomon, said on Saturday, an increase of five since the previous toll. \r\nFrance now has 949 confirmed cases of coronavirus\u2026 [+71 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Group of 900 Dutch students return from North Italy ski trip",
+            "description": "A group of 900 Dutch college students who took a ski trip to northern Italy despite Europe's worst outbreak of coronavirus there returned home by bus on Saturday, facing an outcry on social media.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-netherlands-idUSKBN20U0JQ",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499997060&w=1200&r=LYNXMPEG260DE",
+            "publishedAt": "2020-03-07T13:53:06Z",
+            "content": "AMSTERDAM (Reuters) - A group of 900 Dutch college students who took a ski trip to northern Italy despite Europe\u2019s worst outbreak of coronavirus there returned home by bus on Saturday, facing an outcry on social media. \r\nThe Vindicat fraternity\u2019s trip did not\u2026 [+1782 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Malaysia's Malindo Air asks staff to take up to 50% pay cut to cushion coronavirus blow",
+            "description": "Malindo Air has ordered its staff to take up to a 50% pay cut and two weeks unpaid leave as the coroanvirus epidemic hurts air travel demand and the broader industry, according to a memo sighted by Reuters.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-malaysia-airlines-idUSKBN20U079",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T05:24:56Z",
+            "content": "KUALA LUMPUR (Reuters) - Malindo Air has ordered its staff to take up to a 50% pay cut and two weeks unpaid leave as the coroanvirus epidemic hurts air travel demand and the broader industry, according to a memo sighted by Reuters. \r\nIn a company-wide memo se\u2026 [+1478 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "RPT-Italy coronavirus deaths slow down, cases leap",
+            "description": "(Repeats to change tag to HEALTH-CORONAVIRUS/ITALY)'",
+            "url": "https://www.reuters.com/article/health-coronavirus-italy-idUSL8N2B00NK",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T18:45:39Z",
+            "content": "(Repeats to change tag to HEALTH-CORONAVIRUS/ITALY) \r\nROME, March 7 (Reuters) - The death toll from an outbreak of coronavirus in Italy slowed down on Saturday but the total number of cases in the country leapt by over 1,200, the Civil Protection Agency said.\u2026 [+766 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Around 70 people trapped as hotel used for quarantine collapses in China",
+            "description": "About 70 people were trapped in a collapsed hotel in the city of Quanzhou, in southeastern Fujian Province, the city government said on its website.",
+            "url": "https://af.reuters.com/article/worldNews/idAFKBN20U0LY",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T14:22:31Z",
+            "content": "SHANGHAI (Reuters) - About 70 people were trapped in a collapsed hotel in the city of Quanzhou, in southeastern Fujian Province, the city government said on its website. \r\nThe collapsed hotel is used for coronavirus quarantine, according to the official Peopl\u2026 [+234 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Maldives confirms first two cases of coronavirus",
+            "description": "The Maldives on Saturday reported its first two confirmed cases of the new coronavirus.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-maldives-idUKKBN20U0Q4",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T16:58:08Z",
+            "content": "MALE (Reuters) - The Maldives on Saturday reported its first two confirmed cases of the new coronavirus. \r\nThe two infected people are employees at a tourist resort and are believed to have caught the disease from an Italian tourist who has returned to Italy \u2026 [+288 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Thomas Escritt",
+            "title": "German coronavirus cases jump, economic nervousness rises",
+            "description": "The number of coronavirus patients in Germany jumped to 684 on Saturday morning, with concern growing at the economic impact of the spreading epidemic on one of the world's most trade-dependent economies.",
+            "url": "https://ca.reuters.com/article/businessNews/idCAKBN20U0G6",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1499982618&w=1200&r=LYNXMPEG260CF",
+            "publishedAt": "2020-03-07T12:25:27Z",
+            "content": "BERLIN (Reuters) - The number of coronavirus patients in Germany jumped to 684 on Saturday morning, with concern growing at the economic impact of the spreading epidemic on one of the world\u2019s most trade-dependent economies. \r\nThe number of patients recorded b\u2026 [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Italy coronavirus deaths slow down, cases leap",
+            "description": "The death toll from an outbreak of coronavirus in Italy slowed down on Saturday but the total number of cases in the country leapt by over 1,200, the Civil Protection Agency said.",
+            "url": "https://ca.reuters.com/article/topNews/idCAKBN20U0RZ",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500080328&w=1200&r=LYNXMPEG260LG",
+            "publishedAt": "2020-03-07T18:10:48Z",
+            "content": "ROME (Reuters) - The death toll from an outbreak of coronavirus in Italy slowed down on Saturday but the total number of cases in the country leapt by over 1,200, the Civil Protection Agency said. \r\nDeaths due to the infectious virus were up 36 to 233, the he\u2026 [+703 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Khanh Vu",
+            "title": "UPDATE 2-Vietnam's coronavirus cases rise to 20 - health ministry",
+            "description": "Vietnam's Ministry of Health on Saturday confirmed three new coronavirus cases, raising the number in the Southeast Asian country to 20.",
+            "url": "https://uk.reuters.com/article/healthcare-coronavirus-vietnam-idUKL4N2B008Y",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T11:50:11Z",
+            "content": "(Updates to raise number of cases to 20 from 18) \r\nBy Khanh Vu \r\nHANOI, March 7 (Reuters) - Vietnam\u2019s Ministry of Health on Saturday confirmed three new coronavirus cases, raising the number in the Southeast Asian country to 20. \r\nOne of the new cases, a 27-y\u2026 [+877 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mustafa Abu Ganeyeh",
+            "title": "Americans quarantined in Bethlehem hotel in coronavirus scare - Palestinian official",
+            "description": "Fifteen Americans have been quarantined in a hotel in Bethlehem as part of precautions against the coronavirus, a Palestinian government spokesman said on Saturday.",
+            "url": "https://uk.reuters.com/article/uk-health-coronavirus-palestinians-us-idUKKBN20U0AK",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T10:00:39Z",
+            "content": "BETHLEHEM, West Bank (Reuters) - Fifteen Americans have been quarantined in a hotel in Bethlehem as part of precautions against the coronavirus, a Palestinian government spokesman said on Saturday. \r\nThe city in the occupied West Bank has been in lock down si\u2026 [+1135 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Abdul Qadir Sediqi",
+            "title": "Afghanistan's confirmed coronavirus cases rises to 4 - health ministry spokesman",
+            "description": "Afghanistan's health ministry said on Saturday that the number of confirmed case of coronavirus in the country had jumped to four.'",
+            "url": "https://www.reuters.com/article/us-healthcare-coronavirus-afghanistan-idUSKBN20U085",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T05:51:43Z",
+            "content": "KABUL (Reuters) - Afghanistan\u2019s health ministry said on Saturday that the number of confirmed case of coronavirus in the country had jumped to four. \r\n\u201cThree positive cases of coronavirus have been registered in western Herat province of Afghanistan,\u201d Wahidul\u2026 [+1241 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Abdul Qadir Sediqi",
+            "title": "Afghanistan's confirmed coronavirus cases rises to 4 - health ministry spokesman",
+            "description": "Afghanistan's health ministry said on Saturday that the number of confirmed case of coronavirus in the country had jumped to four.",
+            "url": "https://uk.reuters.com/article/healthcare-coronavirus-afghanistan-idUKL4N2B0063",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T05:51:43Z",
+            "content": "KABUL, March 7 (Reuters) - Afghanistan\u2019s health ministry said on Saturday that the number of confirmed case of coronavirus in the country had jumped to four. \r\n\u201cThree positive cases of coronavirus have been registered in western Herat province of Afghanistan,\u2026 [+1253 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Number of UK coronavirus cases rises to 206",
+            "description": "The number of confirmed coronavirus cases in the United Kingdom has risen to 206, a rise of 43, British health officials said on Saturday.'",
+            "url": "https://www.reuters.com/article/health-coroanvirus-britain-cases-idUSL8N2B006P",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T14:33:07Z",
+            "content": "LONDON, March 7 (Reuters) - The number of confirmed coronavirus cases in the United Kingdom has risen to 206, a rise of 43, British health officials said on Saturday. \r\nSo far in Britain, two patients who had confirmed positive for the virus have died, the he\u2026 [+113 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Slovenia prohibits all large indoor events due to coronavirus",
+            "description": "Slovenian Health Minister Ales Sabeder prohibited all indoor public events for over 500 people late on Saturday due to the coronavirus, the Health Ministry said in a statement.",
+            "url": "https://uk.reuters.com/article/uk-health-coroanvirus-slovenia-idUKKBN20U0ZS",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T22:57:43Z",
+            "content": "LJUBLJANA (Reuters) - Slovenian Health Minister Ales Sabeder prohibited all indoor public events for over 500 people late on Saturday due to the coronavirus, the Health Ministry said in a statement. \r\nThe prohibition will be valid until the danger of the dise\u2026 [+533 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "Uber says it will compensate drivers diagnosed with coronavirus",
+            "description": "Uber Technologies Inc said on Saturday it will offer compensation to drivers and delivery people diagnosed with the coronavirus or placed in quarantine for up to 14 days.",
+            "url": "https://ca.reuters.com/article/technologyNews/idCAKBN20U105-OCATC",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200307&t=2&i=1500162066&w=1200&r=LYNXMPEG260SH-OCATC",
+            "publishedAt": "2020-03-07T23:10:49Z",
+            "content": "(Reuters) - Uber Technologies Inc said on Saturday it will offer compensation to drivers and delivery people diagnosed with the coronavirus or placed in quarantine for up to 14 days. \r\nThe company has already started compensating drivers in some markets and i\u2026 [+677 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Khanh Vu",
+            "title": "Vietnam's coronavirus cases rise to 18 - health ministry",
+            "description": "Vietnam's Ministry of Health on Saturday confirmed another coronavirus case, raising the total number in the Southeast Asian country to 18.",
+            "url": "https://uk.reuters.com/article/uk-healthcare-coronavirus-vietnam-idUKKBN20U0BH",
+            "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+            "publishedAt": "2020-03-07T09:58:54Z",
+            "content": "HANOI (Reuters) - Vietnam\u2019s Ministry of Health on Saturday confirmed another coronavirus case, raising the total number in the Southeast Asian country to 18. \r\nThe 27-year-old patient, who had been to the South Korean city of Daegu, returned to Vietnam on a V\u2026 [+705 chars]"
+        }
+    ]
+}

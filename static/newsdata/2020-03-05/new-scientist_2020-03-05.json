@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Jessica Hamzelou",
+            "title": "Coronavirus: Are there two strains and is one more deadly?",
+            "description": "Researchers in China say there are two strains of the new coronavirus, one of which is more aggressive \u2013 but the World Health Organization says the virus is stable",
+            "url": "https://www.newscientist.com/article/2236544-coronavirus-are-there-two-strains-and-is-one-more-deadly/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/03/05173502/shutterstock_editorial_10561152o_web.jpg",
+            "publishedAt": "2020-03-05T17:37:36Z",
+            "content": "By Jessica Hamzelou\r\nLabs in China have produced covid-19 detection kits\r\nALEX PLAVEVSKI/EPA-EFE/Shutterstock\r\nTwo strains of the new coronavirus are spreading around the world, according to an analysis of 103 cases. But the World Health Organization insists \u2026 [+3604 chars]"
+        }
+    ]
+}

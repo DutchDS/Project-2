@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 36,
     "articles": [
         {
             "source": {
@@ -13,6 +13,19 @@
             "url": "https://www.bloomberg.com/news/audio/2020-03-03/fed-s-coronavirus-shock-podcast",
             "urlToImage": null,
             "publishedAt": "2020-03-03T22:47:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "How Much Could Coronavirus Cost?",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/how-much-could-coronavirus-cost-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T23:33:15Z",
             "content": null
         },
         {
@@ -34,11 +47,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "How Much Could Coronavirus Cost?",
+            "title": "Senegal Government Confirms Nation's Second Coronavirus Case",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-03-03/how-much-could-coronavirus-cost-video",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/senegal-government-confirms-nation-s-second-coronavirus-case",
             "urlToImage": null,
-            "publishedAt": "2020-03-03T23:33:15Z",
+            "publishedAt": "2020-03-03T18:56:22Z",
             "content": null
         },
         {
@@ -72,19 +85,6 @@
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
-            "author": null,
-            "title": "Senegal Government Confirms Nation's Second Coronavirus Case",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-03/senegal-government-confirms-nation-s-second-coronavirus-case",
-            "urlToImage": null,
-            "publishedAt": "2020-03-03T18:56:22Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
             "author": "Bloomberg",
             "title": "Assessing China's Response to the Coronavirus Outbreak",
             "description": "Danny\u00a0Russel, a former U.S. assistant secretary of state for East Asia who\u2019s now a vice president of the Asia Society in New York, shares his views on how the Chinese government is dealing with the coronavirus outbreak. He speaks with Shery Ahn and Haidi Stro\u2026",
@@ -99,11 +99,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "IAG CEO: Milan Flight Demand Halved Because of Coronavirus",
+            "title": "Max Nisen on the U.S.'s Coronavirus Vulnerabilities (Podcast)",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-milan-flight-demand-halved-because-of-coronavirus-video",
+            "url": "https://www.bloomberg.com/news/audio/2020-03-03/max-nisen-on-the-u-s-s-coronavirus-vulnerabilities-podcast",
             "urlToImage": null,
-            "publishedAt": "2020-03-03T15:03:32Z",
+            "publishedAt": "2020-03-03T18:04:38Z",
             "content": null
         },
         {
@@ -112,24 +112,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Google Cancels I/O Developer Conference on Coronavirus Concern",
+            "title": "New York Suburb Has Coronavirus Case Without Travel History",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-03/google-cancels-i-o-developer-conference-on-coronavirus-concern",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/nyc-school-closed-as-a-precaution-on-suspected-virus-case",
             "urlToImage": null,
-            "publishedAt": "2020-03-03T20:44:39Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "United Air Waives Change Fees in March on Coronavirus Fear",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-03/united-air-waives-change-fees-in-march-on-coronavirus-fear",
-            "urlToImage": null,
-            "publishedAt": "2020-03-03T23:03:42Z",
+            "publishedAt": "2020-03-03T14:14:52Z",
             "content": null
         },
         {
@@ -164,19 +151,6 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "IAG CEO Walsh on Coronavirus Impact, Heathrow Runway, Retirement",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-walsh-on-coronavirus-impact-heathrow-runway-retirement-video",
-            "urlToImage": null,
-            "publishedAt": "2020-03-03T12:50:36Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
             "title": "The Coronavirus Checklist: Nine Steps to Protect Your Company",
             "description": null,
             "url": "https://www.bloomberg.com/news/articles/2020-03-03/the-coronavirus-checklist-nine-steps-to-protect-your-company",
@@ -190,11 +164,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "New York Suburb Has Coronavirus Case Without Travel History",
+            "title": "IAG CEO Walsh on Coronavirus Impact, Heathrow Runway, Retirement",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-03/nyc-school-closed-as-a-precaution-on-suspected-virus-case",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-walsh-on-coronavirus-impact-heathrow-runway-retirement-video",
             "urlToImage": null,
-            "publishedAt": "2020-03-03T14:14:52Z",
+            "publishedAt": "2020-03-03T12:50:36Z",
             "content": null
         },
         {
@@ -203,11 +177,37 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Max Nisen on the U.S.'s Coronavirus Vulnerabilities (Podcast)",
+            "title": "IAG CEO: Milan Flight Demand Halved Because of Coronavirus",
             "description": null,
-            "url": "https://www.bloomberg.com/news/audio/2020-03-03/max-nisen-on-the-u-s-s-coronavirus-vulnerabilities-podcast",
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/iag-ceo-milan-flight-demand-halved-because-of-coronavirus-video",
             "urlToImage": null,
-            "publishedAt": "2020-03-03T18:04:38Z",
+            "publishedAt": "2020-03-03T15:03:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "United Air Waives Change Fees in March on Coronavirus Fear",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/united-air-waives-change-fees-in-march-on-coronavirus-fear",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T23:03:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Google Cancels I/O Developer Conference on Coronavirus Concern",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/google-cancels-i-o-developer-conference-on-coronavirus-concern",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T20:44:39Z",
             "content": null
         },
         {
@@ -229,24 +229,11 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Ryanair CEO O'Leary on Coronavirus Impact, Boeing's 737 Max Jet",
+            "title": "More U.S. Coronavirus Travel Restrictions Coming, TSA Chief Says",
             "description": null,
-            "url": "https://www.bloomberg.com/news/videos/2020-03-03/ryanair-ceo-o-leary-on-coronavirus-impact-boeing-s-737-max-jet-video",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/more-u-s-coronavirus-travel-restrictions-coming-tsa-chief-says-k7cdpbk0",
             "urlToImage": null,
-            "publishedAt": "2020-03-03T11:29:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Iran Supreme Leader Says 'Let's Not Exaggerate' Coronavirus",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-03/iran-supreme-leader-says-let-s-not-exaggerate-coronavirus",
-            "urlToImage": null,
-            "publishedAt": "2020-03-03T11:53:14Z",
+            "publishedAt": "2020-03-03T21:02:47Z",
             "content": null
         },
         {
@@ -268,11 +255,24 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "More U.S. Coronavirus Travel Restrictions Coming, TSA Chief Says",
+            "title": "Iran Supreme Leader Says 'Let's Not Exaggerate' Coronavirus",
             "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-03/more-u-s-coronavirus-travel-restrictions-coming-tsa-chief-says-k7cdpbk0",
+            "url": "https://www.bloomberg.com/news/articles/2020-03-03/iran-supreme-leader-says-let-s-not-exaggerate-coronavirus",
             "urlToImage": null,
-            "publishedAt": "2020-03-03T21:02:47Z",
+            "publishedAt": "2020-03-03T11:53:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Ryanair CEO O'Leary on Coronavirus Impact, Boeing's 737 Max Jet",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/videos/2020-03-03/ryanair-ceo-o-leary-on-coronavirus-impact-boeing-s-737-max-jet-video",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T11:29:41Z",
             "content": null
         },
         {
@@ -307,19 +307,6 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "These Are Debt-Bloated Companies the Coronavirus Threatens to Drag Down",
-            "description": null,
-            "url": "https://www.bloomberg.com/news/articles/2020-03-02/debt-bloated-companies-that-coronavirus-threatens-to-drag-down",
-            "urlToImage": null,
-            "publishedAt": "2020-03-03T08:34:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
             "title": "fiscal Policy to be Used to Cope With Coronavirus Hit (Radio)",
             "description": null,
             "url": "https://www.bloomberg.com/news/audio/2020-03-03/fiscal-policy-to-be-used-to-cope-with-coronavirus-hit-radio",
@@ -346,11 +333,37 @@
                 "name": "Bloomberg"
             },
             "author": null,
+            "title": "These Are Debt-Bloated Companies the Coronavirus Threatens to Drag Down",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2020-03-02/debt-bloated-companies-that-coronavirus-threatens-to-drag-down",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T08:34:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
             "title": "G-7 Set for Emergency Coronavirus Call With Economy Under Threat",
             "description": null,
             "url": "https://www.bloomberg.com/news/articles/2020-03-03/g-7-set-for-emergency-coronavirus-call-with-economy-under-threat",
             "urlToImage": null,
             "publishedAt": "2020-03-03T07:54:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Trying to Shock Stocks With Emergency Cuts Usually Falls Short - Bloomberg",
+            "description": "Trying to Shock Stocks With Emergency Cuts Usually Falls Short Bloomberg Fed emergency cut came in too early: Trader BNN Bloomberg NZX recovers from early slide, Dow Jones down after US Fed's coronavirus-fuelled rate cut Stuff.co.nz NZ shares rise as utilitie\u2026",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d3414e50-5df3-11ea-9524-934bbe060af2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0wMy0wMy90cnlpbmctdG8tc2hvY2stc3RvY2tzLXdpdGgtZW1lcmdlbmN5LWN1dHMtdXN1YWxseS1mYWxscy1zaG9ydA==",
+            "urlToImage": null,
+            "publishedAt": "2020-03-03T19:22:00Z",
             "content": null
         },
         {

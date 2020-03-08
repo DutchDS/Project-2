@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Tim Newman",
+            "title": "Coronavirus myths explored - Medical News Today",
+            "description": "Coronavirus myths explored Medical News Today Coronavirus or common flu: How do I find out? Times of India How Bad Is the Coronavirus? Let\u2019s Run the Numbers BloombergQuint Lot unknown about coronavirus, but rise in temperature may help Hindustan Times Is it c\u2026",
+            "url": "https://www.medicalnewstoday.com/articles/coronavirus-myths-explored",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/Coronavirus-illustration-1200x628.jpg",
+            "publishedAt": "2020-03-06T13:41:15Z",
+            "content": "As the coronavirus continues to make the news, a host of untruths has surrounded the topic. In this special feature, we address some of these myths and conspiracies.\r\nFor live updates on the latest developments regarding the novel coronavirus and COVID-19, cl\u2026 [+8720 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Maria Cohut Ph.D.",
+            "title": "Are children actually 'as likely' to get COVID-19 as adults? - Medical News Today",
+            "description": "Are children actually 'as likely' to get COVID-19 as adults? Medical News Today Coronavirus outbreak | Potential drug target against COVID-19 infection identified, say researchers Moneycontrol.com Covid-19 potential drug identified by German researchers. Phar\u2026",
+            "url": "https://www.medicalnewstoday.com/articles/are-children-actually-as-likely-to-get-covid-19-as-adults",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/sandy-millar-nuS2GDpCDoI-unsplash-1-1200x628.jpg",
+            "publishedAt": "2020-03-06T17:50:27Z",
+            "content": "So far, reports have maintained that children appear to be less susceptible to infection with the new coronavirus, SARS-CoV-2, than adults. But some researchers now claim that this is not the case.\r\nAs the new coronavirus continues to spread, the public still\u2026 [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Ana Sandoiu",
+            "title": "Preparing for COVID-19: Priorities for the US - Medical News Today",
+            "description": "Three experts have outlined key priorities and actions for the United States government and healthcare institutions as they prepare to tackle the virus.",
+            "url": "https://www.medicalnewstoday.com/articles/preparing-for-covid-19-priorities-for-the-us",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/iStock-682151008-1200x628.jpg",
+            "publishedAt": "2020-03-06T11:38:08Z",
+            "content": "Three physicians from Johns Hopkins University, in Baltimore, MD, have joined efforts to write an article outlining key action points that the United States healthcare community should take in response to COVID-19. \r\nFor live updates on the latest development\u2026 [+6361 chars]"
+        }
+    ]
+}

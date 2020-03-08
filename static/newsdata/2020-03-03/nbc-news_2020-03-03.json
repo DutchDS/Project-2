@@ -99,11 +99,11 @@
                 "name": "NBC News"
             },
             "author": "NBCNews.com",
-            "title": "How officials are preparing for a potential coronavirus outbreak",
-            "description": "Cities across the country are taking steps to combat the spread of COVID-19, with New York City crews cleaning public transportation after two confirmed cases. Officials are urging Americans to stay calm, especially as medical supply hoarding has become a lar\u2026",
-            "url": "https://www.nbcnews.com/nightly-news/video/how-officials-are-preparing-for-a-potential-coronavirus-outbreak-79941189608",
-            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_tco_coronavirus_prep_200303_1920x1080.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T23:51:28Z",
+            "title": "Coronavirus: U.S. death toll rises as more cases reported",
+            "description": "As the death toll rises to at least nine, there are now more than 120 confirmed cases in a growing number of states.",
+            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-u-s-death-toll-rises-as-more-cases-reported-79940677522",
+            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_mal_coronavirus_us_200303_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T23:46:32Z",
             "content": null
         },
         {
@@ -112,11 +112,11 @@
                 "name": "NBC News"
             },
             "author": "NBCNews.com",
-            "title": "Coronavirus: U.S. death toll rises as more cases reported",
-            "description": "As the death toll rises to at least nine, there are now more than 120 confirmed cases in a growing number of states.",
-            "url": "https://www.nbcnews.com/nightly-news/video/coronavirus-u-s-death-toll-rises-as-more-cases-reported-79940677522",
-            "urlToImage": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_mal_coronavirus_us_200303_1920x1080.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T23:46:32Z",
+            "title": "How officials are preparing for a potential coronavirus outbreak",
+            "description": "Cities across the country are taking steps to combat the spread of COVID-19, with New York City crews cleaning public transportation after two confirmed cases. Officials are urging Americans to stay calm, especially as medical supply hoarding has become a lar\u2026",
+            "url": "https://www.nbcnews.com/nightly-news/video/how-officials-are-preparing-for-a-potential-coronavirus-outbreak-79941189608",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/nn_tco_coronavirus_prep_200303_1920x1080.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T23:51:28Z",
             "content": null
         },
         {
@@ -151,11 +151,11 @@
                 "name": "NBC News"
             },
             "author": "NBCNews.com",
-            "title": "Gov. Inslee describes steps being taken to slow coronavirus spread in Washington state",
-            "description": "Washington state Gov. Jay Inslee describes the steps officials are taking to slow the coronavirus spread, which has killed six people in the state.",
-            "url": "https://www.nbcnews.com/video/washington-state-gov-jay-inslee-describes-efforts-officials-are-taking-to-slow-coronavirus-spread-79847493879",
-            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/Virus_Outbreak-US_72337.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T00:03:06Z",
+            "title": "Dr. Fauci explains possible timeline for coronavirus vaccine",
+            "description": "Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, explained the possible timeline for when a coronavirus vaccine could be distributed to the public.",
+            "url": "https://www.nbcnews.com/video/dr-anthony-fauci-explains-possible-timeline-for-coronavirus-vaccine-talks-remdesivir-medication-79901253901",
+            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/f_mo_fauci_remdesivir_200303.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T17:40:36Z",
             "content": null
         },
         {
@@ -164,11 +164,11 @@
                 "name": "NBC News"
             },
             "author": "NBCNews.com",
-            "title": "Dr. Fauci explains possible timeline for coronavirus vaccine",
-            "description": "Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, explained the possible timeline for when a coronavirus vaccine could be distributed to the public.",
-            "url": "https://www.nbcnews.com/video/dr-anthony-fauci-explains-possible-timeline-for-coronavirus-vaccine-talks-remdesivir-medication-79901253901",
-            "urlToImage": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202003/f_mo_fauci_remdesivir_200303.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T17:40:36Z",
+            "title": "Gov. Inslee describes steps being taken to slow coronavirus spread in Washington state",
+            "description": "Washington state Gov. Jay Inslee describes the steps officials are taking to slow the coronavirus spread, which has killed six people in the state.",
+            "url": "https://www.nbcnews.com/video/washington-state-gov-jay-inslee-describes-efforts-officials-are-taking-to-slow-coronavirus-spread-79847493879",
+            "urlToImage": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202003/Virus_Outbreak-US_72337.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T00:03:06Z",
             "content": null
         },
         {
@@ -254,19 +254,6 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "NBC News",
-            "title": "Iran's death toll rises to 77, highest outside China",
-            "description": "Coronavirus: Iran's death toll rises to 77, highest outside China",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147746",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T11:45:12Z",
-            "content": "Iran's death toll has risen to 77 as of Tuesday morning, the highest number of coronavirus deaths outside of mainland China.\r\nThe country's deputy health minister announced on state TV that 835 new cases had been confirmed as well as 11 dead in the past 24 ho\u2026 [+11015 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
             "author": "Leticia Miranda, Ali Gostanian",
             "title": "Coronavirus worries create delays at Texas polling place",
             "description": "Coronavirus worries create delays at Texas polling place",
@@ -274,6 +261,19 @@
             "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-03T18:33:00Z",
             "content": "As millions of Americans are headed to the polls on Super Tuesday,\u00a0coronavirus worries have caused problems in at least one voting location.\r\nTravis County election officials in Austin, Texas, are implementing emergency procedures to fill in for multiple poll\u2026 [+4577 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News",
+            "title": "Iran's death toll rises to 77, highest outside China",
+            "description": "Coronavirus: Iran's death toll rises to 77, highest outside China",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147746",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T11:45:12Z",
+            "content": "Iran's death toll has risen to 77 as of Tuesday morning, the highest number of coronavirus deaths outside of mainland China.\r\nThe country's deputy health minister announced on state TV that 835 new cases had been confirmed as well as 11 dead in the past 24 ho\u2026 [+11015 chars]"
         },
         {
             "source": {
@@ -293,13 +293,13 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Dareh Gregorian",
-            "title": "Trump pushes for vaccine, treatment at White House meeting with pharma execs",
-            "description": "Trump pushes for coronavirus vaccine, treatment at White House meeting with pharma execs",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147531",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T00:03:00Z",
-            "content": "President Donald Trump and members of the coronavirus task force met with top pharmaceutical and biotech executives at the White House Monday, where the president urged speedy action on a vaccine and treatment for the virus.\u00a0\r\nTrump, who's been criticized by \u2026 [+6337 chars]"
+            "author": "Jason Abbruzzese",
+            "title": "Dr. John Torres shares latest updates and answers questions on the coronavirus outbreak",
+            "description": "Dr. John Torres shares latest updates and answers questions on the coronavirus outbreak",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148531",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T22:24:00Z",
+            "content": "Chart: See coronavirus cases from around the world overtake new cases in China\r\nNew coronavirus cases in mainland China have tapered off as new cases in the rest of the world have increased.\u00a0\r\nSince Feb. 25, the majority of new cases each day have been diagno\u2026 [+4325 chars]"
         },
         {
             "source": {
@@ -319,39 +319,13 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Jason Abbruzzese",
-            "title": "Dr. John Torres shares latest updates and answers questions on the coronavirus outbreak",
-            "description": "Dr. John Torres shares latest updates and answers questions on the coronavirus outbreak",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148531",
-            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T22:24:00Z",
-            "content": "Chart: See coronavirus cases from around the world overtake new cases in China\r\nNew coronavirus cases in mainland China have tapered off as new cases in the rest of the world have increased.\u00a0\r\nSince Feb. 25, the majority of new cases each day have been diagno\u2026 [+4325 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Elizabeth Chuck",
-            "title": "Coronavirus is sparing children. Experts are puzzled.",
-            "description": "The coronavirus' mercy on children is a relief and a mystery to pediatric infectious diseases experts, who have a handful of working theories but no definitive answers for why.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148381",
-            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T20:48:21Z",
-            "content": "A member of the medical team checks the temperature of a child, following the coronavirus outbreak, at a checkpoint on the outskirts of Duhok, Iraq, March 2, 2020.Ari Jalal / Reuters\r\nAs the virus spreads around the globe, sickening more than 90,000 people an\u2026 [+4719 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Tim Stelloh",
-            "title": "Georgia reports first novel coronavirus cases",
-            "description": "Public health officials confirmed that the first cases of novel coronavirus were found in Georgia, officials said Monday.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147681",
+            "author": "Dareh Gregorian",
+            "title": "Trump pushes for vaccine, treatment at White House meeting with pharma execs",
+            "description": "Trump pushes for coronavirus vaccine, treatment at White House meeting with pharma execs",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147531",
             "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T04:26:00Z",
-            "content": "Georgia has reported its first cases of novel coronavirus, officials said Monday.\r\nGeorgia Gov. Brian Kemp told reporters that the cases, which were confirmed by the Centers for Disease Control and Prevention, involved two people in Fulton County, which inclu\u2026 [+10690 chars]"
+            "publishedAt": "2020-03-03T00:03:00Z",
+            "content": "President Donald Trump and members of the coronavirus task force met with top pharmaceutical and biotech executives at the White House Monday, where the president urged speedy action on a vaccine and treatment for the virus.\u00a0\r\nTrump, who's been criticized by \u2026 [+6337 chars]"
         },
         {
             "source": {
@@ -371,13 +345,26 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Sara G. Miller",
-            "title": "New case confirmed in Arizona",
-            "description": "A new case of the coronavirus has been confirmed in Arizona, the state's public health laboratory reported Tuesday.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148121",
+            "author": "Tim Stelloh",
+            "title": "Georgia reports first novel coronavirus cases",
+            "description": "Public health officials confirmed that the first cases of novel coronavirus were found in Georgia, officials said Monday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147681",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T04:26:00Z",
+            "content": "Georgia has reported its first cases of novel coronavirus, officials said Monday.\r\nGeorgia Gov. Brian Kemp told reporters that the cases, which were confirmed by the Centers for Disease Control and Prevention, involved two people in Fulton County, which inclu\u2026 [+10690 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "Coronavirus is sparing children. Experts are puzzled.",
+            "description": "The coronavirus' mercy on children is a relief and a mystery to pediatric infectious diseases experts, who have a handful of working theories but no definitive answers for why.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148381",
             "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T17:26:48Z",
-            "content": "A new case of the coronavirus has been confirmed in Arizona, the state's public health laboratory reported Tuesday.\r\nThe case is in a man in his 20s in Maricopa county. He is not hospitalized and is recovering at home, according to a joint statement from stat\u2026 [+5107 chars]"
+            "publishedAt": "2020-03-03T20:48:21Z",
+            "content": "A member of the medical team checks the temperature of a child, following the coronavirus outbreak, at a checkpoint on the outskirts of Duhok, Iraq, March 2, 2020.Ari Jalal / Reuters\r\nAs the virus spreads around the globe, sickening more than 90,000 people an\u2026 [+4719 chars]"
         },
         {
             "source": {
@@ -391,6 +378,19 @@
             "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-03T12:00:50Z",
             "content": "Britain's Prime Minister Boris Johnson speaks during a press conference at Downing Street on the government's coronavirus action plan in London, Tuesday, March 3, 2020.Frank Augstein / AP\r\nPrime Minister Boris Johnson called the spread of coronavirus a nation\u2026 [+11014 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sara G. Miller",
+            "title": "New case confirmed in Arizona",
+            "description": "A new case of the coronavirus has been confirmed in Arizona, the state's public health laboratory reported Tuesday.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148121",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T17:26:48Z",
+            "content": "A new case of the coronavirus has been confirmed in Arizona, the state's public health laboratory reported Tuesday.\r\nThe case is in a man in his 20s in Maricopa county. He is not hospitalized and is recovering at home, according to a joint statement from stat\u2026 [+5107 chars]"
         },
         {
             "source": {
@@ -423,19 +423,6 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Stella Kim, Phil Helsel",
-            "title": "600 more cases reported in South Korea, deaths now at 28",
-            "description": "South Korea's health agency reported more confirmed cases of the novel coronavirus in that country, bringing the total to 4,812 and 28 deaths.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147686",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T06:50:16Z",
-            "content": "South Korea on Tuesday morning reported an additional 600 cases of the coronavirus illness and additional deaths.\r\nThe new numbers reported by the Korea Centers for Disease Control and Prevention bring the total of confirmed cases there to 4,812, and the deat\u2026 [+11837 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
             "author": "Claire Atkinson",
             "title": "Mission Impossible: Entertainment giants grapple with financial impact of virus",
             "description": "Entertainment and media conglomerates have been grappling with the coronavirus contagion in Asia and Europe \u2014 and now it's arrived on U.S. shores.",
@@ -449,13 +436,13 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Phil Helsel",
-            "title": "Facebook won't participate in from SXSW because of coronavirus fears",
-            "description": "Facebook said the company will not participate in the annual SXSW event in Austin, Texas, due to concerns about the novel coronavirus.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147676",
+            "author": "Stella Kim, Phil Helsel",
+            "title": "600 more cases reported in South Korea, deaths now at 28",
+            "description": "South Korea's health agency reported more confirmed cases of the novel coronavirus in that country, bringing the total to 4,812 and 28 deaths.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147686",
             "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T03:48:11Z",
-            "content": "Facebook will not participate in the annual media and music event South by Southwest because of fears of the novel coronavirus, the company said Monday.\u00a0\r\n\"Due to concerns related to coronavirus, our company and employees will not be participating in SXSW thi\u2026 [+9696 chars]"
+            "publishedAt": "2020-03-03T06:50:16Z",
+            "content": "South Korea on Tuesday morning reported an additional 600 cases of the coronavirus illness and additional deaths.\r\nThe new numbers reported by the Korea Centers for Disease Control and Prevention bring the total of confirmed cases there to 4,812, and the deat\u2026 [+11837 chars]"
         },
         {
             "source": {
@@ -488,6 +475,19 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
+            "author": "Phil Helsel",
+            "title": "Facebook won't participate in from SXSW because of coronavirus fears",
+            "description": "Facebook said the company will not participate in the annual SXSW event in Austin, Texas, due to concerns about the novel coronavirus.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147676",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_09/3247126/200227-coronavirus-live-blog-main-cs-200p_4f56388f0ae93095eaed4b1c2ebe88f0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T03:48:11Z",
+            "content": "Facebook will not participate in the annual media and music event South by Southwest because of fears of the novel coronavirus, the company said Monday.\u00a0\r\n\"Due to concerns related to coronavirus, our company and employees will not be participating in SXSW thi\u2026 [+9696 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
             "author": "Corky Siemaszko",
             "title": "Coronavirus forces New York City subways, trains to clean up their act",
             "description": "The Metropolitan Transit Authority was in the process of dousing all its trains, buses and stations in disinfectant to fight the coronavirus",
@@ -495,19 +495,6 @@
             "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_10/3253866/200303-new-york-city-subway-ew-233p_1e792e45830450025b7aa8afb55f9f14.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-03T20:09:00Z",
             "content": "Every train, bus, car and station in the Metropolitan Transportation Authority the nations largest public transit system was in the process of being disinfected Tuesday after a second person in New York tested positive for the coronavirus.\r\nMTA workers armed \u2026 [+2186 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Suzy Khimm, Laura Strickler",
-            "title": "Amid coronavirus outbreak, Trump administration's proposed rollback of nursing home regulations faces criticism",
-            "description": "The Trump administration last year moved to roll back regulations designed to prevent infections from spreading in nursing homes, a decision that is facing renewed criticism for endangering the elderly amid the coronavirus outbreak.",
-            "url": "https://www.nbcnews.com/news/us-news/amid-coronavirus-outbreak-trump-administration-s-proposed-rollback-nursing-home-n1147661",
-            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3251496/200302-washington-coronavirus-mn-1015_e4b29544ef19c24883c0dc599317e742.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T19:48:00Z",
-            "content": "The Trump administration last year moved to roll back regulations aimed at preventing infections from spreading in nursing homes, a decision that is facing renewed criticism for endangering the elderly amid the coronavirus outbreak.\r\nWith older, vulnerable re\u2026 [+8950 chars]"
         },
         {
             "source": {
@@ -527,13 +514,13 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Lucy Bayly",
-            "title": "No plan \u2014 yet \u2014 to cut rates, say Europe's G-7 finance ministers, Fed Chair Powell, Secretary Mnuchin",
-            "description": "Federal Reserve Chairman Jerome Powell and Treasury Secretary Steven Mnuchin led a \"coordinating call\" with G-7 finance ministers Tuesday morning to discuss measures to battle the coronavirus impact.",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147846",
-            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3253331/200303-coronavirus-al-0940_8a0d9213c44a09e0cdd16a2efa987049.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T14:22:34Z",
-            "content": "Federal Reserve Chairman Jerome Powell and Treasury Secretary Steven Mnuchin led a coordinating call with G-7 finance ministers Tuesday morning, pledging a united front in the fight to quell any economic impact from the viral outbreak.\r\nGiven the potential im\u2026 [+6559 chars]"
+            "author": "Suzy Khimm, Laura Strickler",
+            "title": "Amid coronavirus outbreak, Trump administration's proposed rollback of nursing home regulations faces criticism",
+            "description": "The Trump administration last year moved to roll back regulations designed to prevent infections from spreading in nursing homes, a decision that is facing renewed criticism for endangering the elderly amid the coronavirus outbreak.",
+            "url": "https://www.nbcnews.com/news/us-news/amid-coronavirus-outbreak-trump-administration-s-proposed-rollback-nursing-home-n1147661",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3251496/200302-washington-coronavirus-mn-1015_e4b29544ef19c24883c0dc599317e742.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T19:48:00Z",
+            "content": "The Trump administration last year moved to roll back regulations aimed at preventing infections from spreading in nursing homes, a decision that is facing renewed criticism for endangering the elderly amid the coronavirus outbreak.\r\nWith older, vulnerable re\u2026 [+8950 chars]"
         },
         {
             "source": {
@@ -547,6 +534,19 @@
             "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3253331/200303-coronavirus-al-0940_8a0d9213c44a09e0cdd16a2efa987049.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-03T15:13:00Z",
             "content": "The Federal Reserve announced an emergency rate cut on Tuesday in response to the economic impact of the coronavirus spread, trimming the nation's benchmark borrowing rate by half a percentage point.\r\n\"The coronavirus poses evolving risks to economic activity\u2026 [+7657 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lucy Bayly",
+            "title": "No plan \u2014 yet \u2014 to cut rates, say Europe's G-7 finance ministers, Fed Chair Powell, Secretary Mnuchin",
+            "description": "Federal Reserve Chairman Jerome Powell and Treasury Secretary Steven Mnuchin led a \"coordinating call\" with G-7 finance ministers Tuesday morning to discuss measures to battle the coronavirus impact.",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1147846",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3253331/200303-coronavirus-al-0940_8a0d9213c44a09e0cdd16a2efa987049.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T14:22:34Z",
+            "content": "Federal Reserve Chairman Jerome Powell and Treasury Secretary Steven Mnuchin led a coordinating call with G-7 finance ministers Tuesday morning, pledging a united front in the fight to quell any economic impact from the viral outbreak.\r\nGiven the potential im\u2026 [+6559 chars]"
         },
         {
             "source": {
@@ -631,19 +631,6 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Jason Abbruzzese",
-            "title": "North Carolina confirms first case",
-            "description": "North Carolina confirms first case",
-            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148361",
-            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2020-03-03T20:30:00Z",
-            "content": "North Carolina Gov. Roy Cooper said Tuesday that the state had confirmed its first case.\r\nIn a news release, Cooper's office said the person is in isolation at their home and \"doing well.\" The person traveled from Washington state and was exposed at a long-te\u2026 [+4801 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
             "author": "Jeremia Kimelman, Joe Murphy",
             "title": "Chart: See coronavirus cases from around the world overtake new cases in China",
             "description": "The focus is shifting.",
@@ -651,6 +638,19 @@
             "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-03-03T22:20:15Z",
             "content": "New coronavirus cases in mainland China have tapered off as new cases in the rest of the world have increased.\u00a0\r\nSince Feb. 25, the majority of new cases each day have been diagnosed outside of mainland China. Before that, mainland China had the most cases wh\u2026 [+5051 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jason Abbruzzese",
+            "title": "North Carolina confirms first case",
+            "description": "North Carolina confirms first case",
+            "url": "https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-live-countries-prepare-outbreak-spreads-n1143556/ncrd1148361",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253631/200303-coronavirus-live-blog-al-1207_9fb5a374a8cfa415afd5935c36d861d0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-03-03T20:30:00Z",
+            "content": "North Carolina Gov. Roy Cooper said Tuesday that the state had confirmed its first case.\r\nIn a news release, Cooper's office said the person is in isolation at their home and \"doing well.\" The person traveled from Washington state and was exposed at a long-te\u2026 [+4801 chars]"
         },
         {
             "source": {
@@ -683,19 +683,6 @@
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Elizabeth Chuck",
-            "title": "'We simply do not understand why': Coronavirus is sparing children, puzzling experts",
-            "description": "The coronavirus's mercy on children has puzzled pediatric infectious disease doctors, who have a handful of working theories but no definitive answers for why those under 18 might be faring better than their older counterparts.",
-            "url": "https://www.nbcnews.com/health/health-news/we-simply-do-not-understand-why-coronavirus-sparing-children-puzzling-n1147951",
-            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3253316/200303-coronavirus-children-mc-1434_ad16d2b8eb376d43e76d601473a36cab.nbcnews-fp-1200-630.JPG",
-            "publishedAt": "2020-03-03T20:39:00Z",
-            "content": "As the novel coronavirus spreads around the globe, sickening more than 90,000 people and killing about 3,000, doctors have noticed something curious: Very few children have been diagnosed with it. And of those who have, most have had mild cases.\r\nIn China, wh\u2026 [+7095 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
             "author": "Lucy Bayly",
             "title": "Federal Reserve implements surprise rate cut to address coronavirus impact",
             "description": "The Federal Reserve announced an emergency rate cut Tuesday of half a percentage point in response to the growing economic threat from the coronavirus.",
@@ -703,6 +690,19 @@
             "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3253136/200303-jerome-powell-mc-1253_e961a33b7b78ae864ed7f0a7ce894354.nbcnews-fp-1200-630.JPG",
             "publishedAt": "2020-03-03T15:14:35Z",
             "content": "The Federal Reserve announced an emergency rate cut on Tuesday in response to the economic impact of the coronavirus spread, trimming the nation's benchmark borrowing rate by half a percentage point.\r\n\"The coronavirus poses evolving risks to economic activity\u2026 [+537 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "'We simply do not understand why': Coronavirus is sparing children, puzzling experts",
+            "description": "The coronavirus's mercy on children has puzzled pediatric infectious disease doctors, who have a handful of working theories but no definitive answers for why those under 18 might be faring better than their older counterparts.",
+            "url": "https://www.nbcnews.com/health/health-news/we-simply-do-not-understand-why-coronavirus-sparing-children-puzzling-n1147951",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_10/3253316/200303-coronavirus-children-mc-1434_ad16d2b8eb376d43e76d601473a36cab.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2020-03-03T20:39:00Z",
+            "content": "As the novel coronavirus spreads around the globe, sickening more than 90,000 people and killing about 3,000, doctors have noticed something curious: Very few children have been diagnosed with it. And of those who have, most have had mild cases.\r\nIn China, wh\u2026 [+7095 chars]"
         },
         {
             "source": {

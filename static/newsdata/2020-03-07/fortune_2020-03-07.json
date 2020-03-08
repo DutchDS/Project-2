@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Don Reisinger",
+            "title": "Growing coronavirus threat weighs on Apple",
+            "description": "Apple's week was dominated by COVID-19 and its impact on WWDC, along with reports of new iPads, iPhones, and Macs.",
+            "url": "https://fortune.com/2020/03/07/apple-coronavirus-iphone/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1210555057.jpg?resize=1200,600",
+            "publishedAt": "2020-03-07T14:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "John Buysse",
+            "title": "Fact checking Trump\u2019s claims on the coronavirus outbreak\u2014and its impact on the economy",
+            "description": "A sampling of Trump's rhetoric on the virus\u2014and how it compares with the facts.",
+            "url": "https://fortune.com/2020/03/07/coronavirus-outbreak-trump-claims-economy-stock-market-vaccines-cdc-covid-19/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205520761.jpg?resize=1200,600",
+            "publishedAt": "2020-03-07T20:44:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "reymashayekhi",
+            "title": "Global selloff continues as coronavirus batters markets",
+            "description": "Investors will be happy to see the end of the week, as markets globally took a pounding again on Friday.",
+            "url": "https://fortune.com/2020/03/06/coronavirus-global-stock-market-selloff/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205370267-e1583534926673.jpg?resize=1200,600",
+            "publishedAt": "2020-03-07T00:12:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "John Buysse",
+            "title": "Facebook bans ads for medical face masks amid coronavirus outbreak",
+            "description": "Facebook is temporarily banning advertisements for medical face masks as part of an effort to prevent use of its platform to exploit people's concerns about the new coronavirus.",
+            "url": "https://fortune.com/2020/03/07/coronavirus-face-masks-facebook-bans-ads-marketplace/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1210979979.jpg?resize=1200,600",
+            "publishedAt": "2020-03-07T21:15:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jenna Schnuer",
+            "title": "Fear of coronavirus sends consumers into a grocery-hoarding frenzy",
+            "description": "\u201cThis is my way of exerting control of the uncertainty of the current situation,\" said one man of his emergency grocery supplies (which included 12 cans of chili beans and soap).",
+            "url": "https://fortune.com/2020/03/06/fear-of-coronavirus-sends-consumers-into-a-grocery-hoarding-frenzy/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1204234228-e1583538425346.jpg?resize=1200,600",
+            "publishedAt": "2020-03-07T00:15:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "John Buysse",
+            "title": "Coronavirus: Fewer than 6,000 samples have been tested in the U.S.",
+            "description": "According to the FDA.",
+            "url": "https://fortune.com/2020/03/07/coronavirus-test-us-covid-19-testing-samples-kits-how-many/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1205157085.jpg?resize=1200,600",
+            "publishedAt": "2020-03-07T23:38:36Z",
+            "content": null
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Sheraz Farooqi",
+            "title": "College Basketball Coaches Mike Krzyzewski and Roy Williams Bump Elbows Amid Coronavirus Concerns",
+            "description": "The two coaches took heed of the precaution, as the coronavirus continues to spread across the world.",
+            "url": "https://www.newsweek.com/college-basketball-coaches-mike-krzyzewski-roy-williams-bump-elbows-avoid-coronavirus-1491101",
+            "urlToImage": "https://d.newsweek.com/en/full/1572260/coach-k.jpg",
+            "publishedAt": "2020-03-08T14:29:36Z",
+            "content": "College basketball coaches Mike Krzyzewski of Duke University and Roy Williams of the University of North Carolina at Chapel Hill replaced the pregame handshake most coaches use in sports with a playful elbow bump amid the coronavirus outbreak.\r\nKrzyzewski an\u2026 [+2558 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "Hillary Clinton Rips Trump Economy, Coronavirus Response: 'We're Not Thinking About The Future'",
+            "description": "The former secretary of state said the Trump administration's attempts to contain the coronavirus are exposing his lack of investment in infrastructure or the country's future.",
+            "url": "https://www.newsweek.com/hillary-clinton-rips-trump-economy-coronavirus-response-were-not-thinking-about-future-1491134",
+            "urlToImage": "https://d.newsweek.com/en/full/1572289/hillary-clinton-donald-trump-economy.jpg",
+            "publishedAt": "2020-03-08T20:16:39Z",
+            "content": "Former Secretary of State Hillary Clinton said Donald Trump's presidency is \"actually worse\" than she'd thought it would get in 2016, accusing the president of only seeking to enrich himself rather than make investments in the country's future.\r\nClinton spoke\u2026 [+3360 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Benjamin Fearnow",
+            "title": "Amid Coronavirus, Top U.S. Health Expert Urges Elderly Americans: Don't Get on Airplanes, Cruise Ships",
+            "description": "Dr. Anthony Fauci offered simple advice to elderly or vulnerably ill Americans in the wake of the outbreak.",
+            "url": "https://www.newsweek.com/amid-coronavirus-top-us-health-expert-urges-elderly-americans-dont-get-airplanes-cruise-ships-1491128",
+            "urlToImage": "https://d.newsweek.com/en/full/1572279/airplane-passengers-coronavirus-travel-warning.jpg",
+            "publishedAt": "2020-03-08T16:47:08Z",
+            "content": "One of the country's top health experts who is working with the Trump administration to contain the coronavirus offered simple advice to elderly or vulnerably ill Americans: don't get on airplanes and cruise ships.\r\nDr. Anthony Fauci, longtime director of the\u2026 [+3757 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Lemon",
+            "title": "Trump Admin Doesn't Have 'Fully Formulated' Plan for Grand Princess Passengers Despite Docking on Monday, Ben Carson Says",
+            "description": "The secretary of housing and urban development asserted that a \"plan will be in place\" but would not give details.",
+            "url": "https://www.newsweek.com/trump-admin-doesnt-have-fully-formulated-plan-grand-princess-passengers-despite-docking-1491132",
+            "urlToImage": "https://d.newsweek.com/en/full/1572287/grand-princess.jpg",
+            "publishedAt": "2020-03-08T19:52:08Z",
+            "content": "President Donald Trump and his administration do not have a \"fully formulated\" plan in place to deal with the more than 3,500 people aboard the Grand Princess cruise shipamong which 21 people have tested positive for coronavirus (COVID-19), despite the vessel\u2026 [+3215 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus Update: Map Shows More Than 106,000 Cases as 16 Million Italians Go Under Lockdown in Attempt to Quarantine Outbreak",
+            "description": "While Italy introduced the strict measures the outbreak of COVID-19 continued to ease in China.",
+            "url": "https://www.newsweek.com/coronavirus-italy-millions-lockdown-formula-1-princess-1491090",
+            "urlToImage": "https://d.newsweek.com/en/full/1572245/coronavirus-covid19-italy-rome-coliseum-getty.jpg",
+            "publishedAt": "2020-03-08T11:04:56Z",
+            "content": "Millions of people in Italy have been placed on lockdown in an attempt to stop the spread of the new coronavirus amid the global outbreak of COVID-19.\r\nUnder the restrictions signed into law by Italy's prime minister in the early hours of Sunday morning, peop\u2026 [+6032 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jason Lemon",
+            "title": "Putin Targets U.S. Fracking With Oil Price War, in New Threat to Trump's Election-Year Economy",
+            "description": "\"The Kremlin has decided to sacrifice OPEC+ to stop U.S. shale producers and punish the U.S. for messing with Nord Stream 2,\" Alexander Dynkin said.",
+            "url": "https://www.newsweek.com/putin-targets-us-fracking-oil-price-war-new-threat-trumps-election-year-economy-1491126",
+            "urlToImage": "https://d.newsweek.com/en/full/1572276/fracking.jpg",
+            "publishedAt": "2020-03-08T16:25:45Z",
+            "content": "Russia has declined to reduce oil exports at the request of Saudi Arabia along with OPEC that led to the biggest decline in oil prices in five years on Friday--causing another headache for the American economy as markets have already seen significant ups and \u2026 [+5430 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kashmira Gander",
+            "title": "Coronavirus U.S. Outbreak Update: Death Toll Hits 19, New cases in Kansas and Washington, D.C., as Cruise Ship Passengers Head for Oakland",
+            "description": "More than 400 cases of COVID-19 have been confirmed in the U.S., according to a Johns Hopkins University tracker.",
+            "url": "https://www.newsweek.com/coronavirus-update-washington-new-york-armed-robbery-1491097",
+            "urlToImage": "https://d.newsweek.com/en/full/1572251/coronavirus-covid-19-new-york-jfk-getty.jpg",
+            "publishedAt": "2020-03-08T14:11:39Z",
+            "content": "More than a dozen people have died of COVID-19 in more than 400 cases in the U.S., as the new coronavirus continues to spread. \r\nThe national death toll hit 19 after two people died in Washington state on Saturday, with confirmed cases in New York climbing by\u2026 [+4656 chars]"
+        }
+    ]
+}

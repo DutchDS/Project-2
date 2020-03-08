@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Ana Sandoiu",
+            "title": "COVID-19: Occupational groups that are at high risk - Medical News Today",
+            "description": "COVID-19: Occupational groups that are at high risk Medical News Today Origin of Corona Virus : How did the Outbreak Spread in Wuhan and across the World | NewsX NewsX Coronavirus in India: What Exactly Has Happened, What Needs to and What You Can Do The Wire\u2026",
+            "url": "https://www.medicalnewstoday.com/articles/covid-19-occupational-groups-that-are-at-high-risk",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/03/iStock-1081389920-1200x628.jpg",
+            "publishedAt": "2020-03-05T12:30:37Z",
+            "content": "A new editorial takes an in-depth look at the occupational groups with a high risk of COVID-19, including some of the stigmatization that these groups experience.\r\nFor live updates on the latest developments regarding the novel coronavirus and COVID-19, click\u2026 [+5523 chars]"
+        }
+    ]
+}

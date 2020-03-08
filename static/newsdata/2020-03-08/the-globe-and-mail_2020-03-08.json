@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Audrey Kurth Cronin",
+            "title": "We are living in an age of lethal empowerment - The Globe and Mail",
+            "description": "The trifecta of open tech, expanded communication and a global spread of political violence has created real peril around the digital revolution",
+            "url": "https://www.theglobeandmail.com/opinion/article-the-age-of-lethal-empowerment/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/-GT_rvjxEBdcuj50UdZLjgfyJkA=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/CR7TZABLHFB2PG3CKUI6MFV4TU.jpg",
+            "publishedAt": "2020-03-08T12:00:23Z",
+            "content": "Audrey Kurth Cronin is professor of international security at American University and director of the Center for Security, Innovation, and New Technology. Her book, Power to the People: How Open Technological Innovation is Arming Tomorrows Terrorists, is a fi\u2026 [+14343 chars]"
+        }
+    ]
+}

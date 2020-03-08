@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Michael Le Page",
+            "title": "Coronavirus: How do I get tested and how does the test work?",
+            "description": "Think you might be infected with coronavirus? Here's what to do and how the test works",
+            "url": "https://www.newscientist.com/article/2236610-coronavirus-how-do-i-get-tested-and-how-does-the-test-work/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2020/03/06162735/pa-51130656.jpg",
+            "publishedAt": "2020-03-06T16:29:54Z",
+            "content": "By Michael Le Page\r\nHospitals have set up testing areas for covid-19\r\nMichael Cooper/PA Wire/PA Images \r\nThink you might be infected with coronavirus? Here\u2019s what to do and how the test works.\r\nBecause infected people may have anything from severe pneumonia t\u2026 [+3429 chars]"
+        }
+    ]
+}

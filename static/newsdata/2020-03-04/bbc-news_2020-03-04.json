@@ -1,0 +1,669 @@
+{
+    "status": "ok",
+    "totalResults": 51,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: South Africa's economic victims",
+            "description": "How a health crisis on the other side of the world spelled disaster for a South African industry.",
+            "url": "https://www.bbc.co.uk/news/av/world-africa-51722268/coronavirus-south-africa-s-economic-victims",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D5E0/production/_111125745_p085kfjq.jpg",
+            "publishedAt": "2020-03-04T00:01:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus outbreak hits Beijing small businesses",
+            "description": "The BBC's Stephen McDonell visits shopping areas in Beijing to see if the virus is having an effect.",
+            "url": "https://www.bbc.co.uk/news/av/world-asia-china-51719944/coronavirus-outbreak-hits-beijing-small-businesses",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12144/production/_111125047_p085kbvf.jpg",
+            "publishedAt": "2020-03-04T00:00:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Our easy guide to staying safe",
+            "description": "Step-by-step, what to do to help prevent the spread of the virus.",
+            "url": "https://www.bbc.co.uk/news/health-51711227",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/765F/production/_111130303_corona_whatyouneedtodo_title.jpg",
+            "publishedAt": "2020-03-04T18:31:15Z",
+            "content": "Public health experts have been giving out lots of advice to try to stop the spread of the virus in the UK. \r\nWashing your hands is one of the simplest things you can do to stop catching coronavirus.\r\nHow do I protect myself? \r\nWhat are the symptoms?\r\nWhat sh\u2026 [+325 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Inter Milan president backs calls for empty stadiums in Italy over coronavirus fears",
+            "description": "Inter Milan president Steven Zhang says playing matches behind closed doors is the \"right thing to do\" to continue in Italy until the coronavirus is under control.",
+            "url": "https://www.bbc.co.uk/sport/football/51745125",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/15F89/production/_111139998_gettyimages-1203670824.jpg",
+            "publishedAt": "2020-03-04T19:03:03Z",
+            "content": "Inter Milan's Europa League last-32 tie against Ludogorets was played behind closed doors at the San Siro in February\r\nInter Milan president Steven Zhang feels playing matches behind closed doors is the only practical way for football to continue in Italy unt\u2026 [+4204 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Tedros Adhanom Ghebreyesus: The Ethiopian at the heart of the coronavirus fight",
+            "description": "As World Health Organization chief, Tedros Adhanom Ghebreyesus has people hanging on his every word.",
+            "url": "https://www.bbc.co.uk/news/world-africa-51720184",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D003/production/_111115235_comp.jpg",
+            "publishedAt": "2020-03-04T00:14:55Z",
+            "content": "Image copyrightAFP\r\nWhat a challenge to be the head of the World Health Organization (WHO) in the time of the coronavirus. \r\nThe entire planet hanging on your every word, addressing daily press conferences at the headquarters in Geneva to detail an ever incre\u2026 [+8583 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US 2020 Election: What did Bloomberg get for his money?",
+            "description": "The billionaire has ended his White House bid - but not before spending a whole lot of money on his campaign.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-51746882",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C93A/production/_111141515_mediaitem111141514.jpg",
+            "publishedAt": "2020-03-04T22:34:26Z",
+            "content": "Flybe tells passengers not to travel to airportsAll flights grounded after the coronavirus outbreak pushed the airline into administration."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: UAE Tour riders to be held in quarantine until 14 March",
+            "description": "Cofidis and Groupama-FDJ riders and staff will be held in quarantine in the United Arab Emirates until 14 March.",
+            "url": "https://www.bbc.co.uk/sport/cycling/51737966",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/F837/production/_111134536_cofidis_getty.jpg",
+            "publishedAt": "2020-03-04T13:16:53Z",
+            "content": "Ramon Sinkeldam (left) and Arnaud Demare (right) are two of the Groupama-FDJ riders still in quarantine\r\nCofidis and Groupama-FDJ riders and staff will be held in quarantine in the United Arab Emirates until 14 March.\r\nThe final two stages of the UAE Tour wer\u2026 [+3143 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Serie A games may be played behind closed doors - Italy's sports minister",
+            "description": "Italy's sports minister Vincenzo Spadafora says Serie A games may be played behind closed doors in an effort to contain coronavirus.",
+            "url": "https://www.bbc.co.uk/sport/football/51737430",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/9699/production/_111135583_gettyimages-1203420654.jpg",
+            "publishedAt": "2020-03-04T14:42:27Z",
+            "content": "Coronavirus cases in Italy have risen to more than 2,000, causing major sporting events to be postponed\r\nItaly's sports minister Vincenzo Spadafora says Serie A games may be played behind closed doors in an effort to contain coronavirus.\r\nItaly is the worst-h\u2026 [+623 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Tesla downgraded Model 3 chip in China thanks to coronavirus",
+            "description": "The electric car firm said it had installed an older processor in new vehicles due to supply problems.",
+            "url": "https://www.bbc.co.uk/news/technology-51736405",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58B9/production/_111131722_gettyimages-1192349155.jpg",
+            "publishedAt": "2020-03-04T11:07:15Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Elon Musk unveiled the first made-in-China Tesla Model 3 cars in January\r\nTesla has revealed that it installed older, slower processors in new cars because of supply chain issues caused by the coronavirus outbreak.\r\n\u2026 [+927 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Government tells Premier League to 'step up' planning",
+            "description": "The Government asks the Premier League to \"step up its contingency planning\" for coronavirus, a letter sent to club bosses states.",
+            "url": "https://www.bbc.co.uk/sport/football/51747062",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/6152/production/_111141942_virus_getty.jpg",
+            "publishedAt": "2020-03-04T23:55:50Z",
+            "content": "Fans don protective masks at Wednesday's Leicester versus Birmingham FA Cup match\r\nThe Government has asked the Premier League to \"step up its contingency planning\" for coronavirus, a letter sent to club bosses states.\r\nGuidance sent to clubs explained that a\u2026 [+3729 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: How do I protect myself?",
+            "description": "The BBC's Health team talk through the NHS's advice about protecting yourself from COVID-19.",
+            "url": "https://www.bbc.co.uk/news/av/health-51722269/coronavirus-how-do-i-protect-myself",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E576/production/_111124785_posterimage.jpg",
+            "publishedAt": "2020-03-04T00:00:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Government backtracks on coronavirus insurance stance - BBC News",
+            "description": "The government will declare coronavirus a \"notifiable disease\" after pressure from businesses.",
+            "url": "https://www.bbc.co.uk/news/business-51730412",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D559/production/_108171645_68b8c2c4-4b74-4a94-a3bf-0ed291f85050.jpg",
+            "publishedAt": "2020-03-04T10:33:13Z",
+            "content": "Image copyrightCarol Herbert PhotographyImage caption\r\n Diane Howarth runs Cottage in the Dales with her husband Andrew\r\nThe government has bowed to pressure and changed its stance on insurance to cover businesses for coronavirus losses in England.\r\nThe gover\u2026 [+2824 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Businesses could still lose out on coronavirus insurance claims - BBC News",
+            "description": "Despite a government U-turn, many policies will only cover claims if coronavirus is found on-site.",
+            "url": "https://www.bbc.co.uk/news/business-51742207",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151BF/production/_111136468_laralloyd-resized.jpg",
+            "publishedAt": "2020-03-04T17:15:00Z",
+            "content": "Image copyrightLara LloydImage caption\r\n Lara Lloyd's business has seen a number of cancellations by concerned customers\r\nHundreds of thousands of businesses may not be able to claim on losses incurred by the coronavirus outbreak, despite a government U-turn.\u2026 [+2368 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "The other reason behind Wall Street's jitters",
+            "description": "It's not just the coronavirus driving markets, politics is too.",
+            "url": "https://www.bbc.co.uk/news/business-51668495",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A78D/production/_111139824_hi060419224.jpg",
+            "publishedAt": "2020-03-04T20:58:46Z",
+            "content": "Image copyrightEPAImage caption\r\n The coronavirus has collided with American politics to worry investors\r\nGlobal financial markets have plunged in recent weeks, amid fears that the coronavirus outbreak will bring the world economy to a standstill. \r\nBut there\u2026 [+4081 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Face mask ads banned for 'misleading' claims",
+            "description": "Adverts by two companies made false claims about preventing the spread of coronavirus, ASA rules.",
+            "url": "https://www.bbc.co.uk/news/uk-51729647",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2B9A/production/_111126111_untitled-1.jpg",
+            "publishedAt": "2020-03-04T01:07:06Z",
+            "content": "Image copyrightPA MediaImage caption\r\n One of the banned adverts appeared on cnn.com\r\nAdverts by two companies which made false claims about using face masks to prevent the spread of coronavirus have been banned.\r\nThe Advertising Standards Authority (ASA) rul\u2026 [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "UK coronavirus cases jump to 85",
+            "description": "Coronavirus cases in the UK jump by 34 in a day, taking total number to 85",
+            "url": "https://www.bbc.co.uk/news/health-51741001",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+            "publishedAt": "2020-03-04T14:13:40Z",
+            "content": "Coronavirus cases in the UK jump by 34 in a day, taking total number to 85\r\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\r\nYou can receive Breaking News on a smartphone o\u2026 [+99 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Emergency talks trumped New York trip",
+            "description": "Arlene Foster says she and Michelle O'Neill need to be in NI to make coronavirus contingency plans.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51733223",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/575F/production/_110476322_arlenemichellepa.jpg",
+            "publishedAt": "2020-03-04T09:59:37Z",
+            "content": "Image copyrightKelvin Boyes/Press Eye/pa wireImage caption\r\n The first and deputy first ministers will take part in emergency meetings next week\r\nNorthern Ireland's leaders scaled back their annual St Patrick's Day trip to the US so they can attend meetings o\u2026 [+3386 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Three cases confirmed in Scotland",
+            "description": "The number of coronvirus cases confirmed in Scotland increases from one to three.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51733722",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DB12/production/_111128065_gettyimages-1201781686.jpg",
+            "publishedAt": "2020-03-04T08:14:42Z",
+            "content": "The number of people diagnosed with coronavirus in Scotland has risen to three.\r\nHealth Secretary Jeane Freeman said two more cases of the virus were confirmed overnight.\r\nMs Freeman told the Good Morning Scotland programme that she could not not yet say if t\u2026 [+144 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Two more cases confirmed in NI",
+            "description": "The first case, confirmed last week, was a woman who had returned from northern Italy.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51743462",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+            "publishedAt": "2020-03-04T16:36:50Z",
+            "content": "Two more cases of coronavirus have been confirmed in Northern Ireland.\r\nMore to follow."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Illicit wildlife products 'slipping through the net'",
+            "description": "A study has called into question the measures to clamp down on the illegal wildlife trade.",
+            "url": "https://www.bbc.co.uk/news/science-environment-51726617",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/35EA/production/_111120831_gettyimages-154726428.jpg",
+            "publishedAt": "2020-03-04T23:02:30Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The European eel (Anguilla anguilla) is at risk from over-exploitation\r\nA study has called into question the effectiveness of measures to clamp down on the illegal wildlife trade.\r\nCritically endangered eels have bee\u2026 [+3822 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "How to wash your hands: 30-second guide",
+            "description": "We're being advised to make sure we do it properly to help stop the spread of coronavirus.",
+            "url": "https://www.bbc.co.uk/news/av/health-51736288/how-to-wash-your-hands-30-second-guide",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62B9/production/_111137252_p085mtg0.jpg",
+            "publishedAt": "2020-03-04T15:26:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "New James Bond film release put back by seven months",
+            "description": "The release of No Time To Die is pushed from April to November as coronavirus continues to spread.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-51744374",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C6F2/production/_110003905_dc-universal.jpg",
+            "publishedAt": "2020-03-04T17:15:58Z",
+            "content": "Image copyrightUniversalImage caption\r\n No Time To Die marks Daniel Craig's swansong as James Bond\r\nThe release of the new James Bond film has been put back by seven months as coronavirus continues to spread.\r\nThe producers said they had moved the release of \u2026 [+325 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Three days more sick pay for virus-hit workers - PM",
+            "description": "Workers will receive statutory sick pay from first day off work, not the fourth, to limit coronavirus spread, PM says",
+            "url": "https://www.bbc.co.uk/news/uk-51738837",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+            "publishedAt": "2020-03-04T12:17:40Z",
+            "content": "Workers will get statutory sick pay from the first day off work, not the fourth, to help contain coronavirus, the prime minister has said.\r\nBoris Johnson said people who self-isolate are helping to protect others from the virus and should not be \"penalised fo\u2026 [+392 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Drug shortage fears as India limits exports",
+            "description": "It comes as the outbreak has kept many Chinese pharmaceutical ingredient manufacturers shut.",
+            "url": "https://www.bbc.co.uk/news/business-51731719",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A002/production/_111126904_gettyimages-129376338.jpg",
+            "publishedAt": "2020-03-04T05:17:08Z",
+            "content": "Image copyrightGetty Images\r\nThere are fears of global shortages of some common drugs after India limited the export of certain medicines due to the coronavirus.\r\nThe world's biggest supplier of generic drugs has restricted exports of 26 ingredients and the m\u2026 [+1849 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Eight charts on how coronavirus has hit the economy",
+            "description": "Key maps and charts explain how the virus has impacted markets and businesses around the world so far.",
+            "url": "https://www.bbc.co.uk/news/business-51706225",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C8F/production/_111119772_chinacarsales-nc.png",
+            "publishedAt": "2020-03-04T00:01:10Z",
+            "content": "The coronavirus outbreak, which originated in China, has infected tens of thousands of people. Its spread has left businesses around the world counting costs.\r\nHere are eight key maps and charts to help you understand the impact seen on different economies an\u2026 [+4866 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Flybe: Coronavirus raises new doubts over the airline's future",
+            "description": "The struggling airline has seen a collapse in bookings and has still not secured a \u00a3100 loan.",
+            "url": "https://www.bbc.co.uk/news/business-51733405",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10170/production/_110640956_gettyimages-951922578-1.jpg",
+            "publishedAt": "2020-03-04T14:58:54Z",
+            "content": "Image copyrightGetty Images\r\nStruggling airline Flybe is facing fresh doubts over its future amid concern about a rescue loan and the impact of coronavirus on its bookings.\r\nA \u00a3100m government loan to help stabilise the business aimed at stablilising the airl\u2026 [+1635 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Torbay GP surgeries closed to 'contain outbreak'",
+            "description": "Chelston Hall Surgery and Barton Surgery, both in Torquay, will be closed until at least 16 March.",
+            "url": "https://www.bbc.co.uk/news/uk-england-devon-51737546",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/46D5/production/_111133181_mediaitem111132587.jpg",
+            "publishedAt": "2020-03-04T12:34:47Z",
+            "content": "Image caption\r\n Chelston Hall Surgery and Barton Surgery, both in Torquay, will be closed until at least 16 March\r\nTwo GP surgeries in Devon have been closed in a bid to \"contain the current outbreak of coronavirus\".\r\nChelston Hall Surgery and Barton Surgery,\u2026 [+726 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Inaugural Basketball Africa League postponed over coronavirus",
+            "description": "The tip-off of the inaugural Basketball Africa League is delayed due to health concerns related to the coronavirus.",
+            "url": "https://www.bbc.co.uk/sport/africa/51735445",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5E8B/production/_111130242_1164137289.jpg",
+            "publishedAt": "2020-03-04T11:14:24Z",
+            "content": "Basketball Africa League president Amadou Gallo Fall\r\nThe start of the first season of the Basketball Africa League has been postponed because of coronavirus fears.\r\nThe first BAL campaign was due to start in the Senegalese capital Dakar on 13 March, and no n\u2026 [+1500 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "London Book Fair cancelled over coronavirus fears",
+            "description": "Organisers say they have decided not to go ahead due to the virus's \"escalation\" in Europe.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-51735208",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/384D/production/_111131441_bookfair1_976getty.jpg",
+            "publishedAt": "2020-03-04T10:27:44Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n The annual trade event welcomes delegates from around the world\r\nThis year's London Book Fair, one of the UK's largest book events, has been called off due to concerns over the coronavirus outbreak.\r\n\"It is with relu\u2026 [+1219 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Italy to close all schools as deaths rise",
+            "description": "A total of 107 people have now died in Italy, home to Europe's biggest coronavirus outbreak.",
+            "url": "https://www.bbc.co.uk/news/world-europe-51743697",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A414/production/_111140024_mediaitem111140021.jpg",
+            "publishedAt": "2020-03-04T18:06:23Z",
+            "content": "Image copyrightEPAImage caption\r\n Italy is home to Europe's biggest coronavirus outbreak\r\nItaly has confirmed that it will shut all schools from Thursday for 10 days as it battles to contain the coronavirus outbreak.\r\nAll schools and universities are to close\u2026 [+3733 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "White House expands coronavirus testing as death toll rises",
+            "description": "There are now at least 129 cases of Covid-19 in the US, including nine deaths.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-51740706",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FBCF/production/_111136446_gettyimages-1204951259.jpg",
+            "publishedAt": "2020-03-04T17:08:51Z",
+            "content": "Image copyrightGetty Images\r\nUS Vice-President Mike Pence has said that any American can be tested for the coronavirus if ordered by a doctor, as the country's death toll rises to nine. \r\nMr Pence, tapped by Donald Trump to lead the US outbreak response, also\u2026 [+2549 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Flybe: NI reaction as airline is set to collapse",
+            "description": "As the airline operates 81% of flights at Belfast City Airport, the implications are huge for the region.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-51745019",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D876/production/_111141455_hi060430714.jpg",
+            "publishedAt": "2020-03-04T22:45:34Z",
+            "content": "Image copyrightPA MediaImage caption\r\n The airline said coronavirus had led to a reduction in bookings\r\nA vital travel link between Northern Ireland and the rest of the UK could be under threat due to the expected collapse of airline Flybe.\r\nIt is believed to\u2026 [+2742 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "PMQs: Blackford and Johnson on coronavirus",
+            "description": "Ian Blackford asks the PM if benefit claimants face sanctions if they choose to isolate themselves if they think they have coronavirus.",
+            "url": "https://www.bbc.co.uk/news/av/uk-politics-51739496/pmqs-blackford-and-johnson-on-coronavirus",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/122CB/production/_111134447_p085mcll.jpg",
+            "publishedAt": "2020-03-04T13:05:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "PMQS: Johnson changes coronavirus sick pay rules",
+            "description": "Jeremy Corbyn asks the prime minister about eligibility for welfare payments and sick pay and how they could be affected by coronavirus.",
+            "url": "https://www.bbc.co.uk/news/av/uk-politics-51739501/pmqs-johnson-changes-coronavirus-sick-pay-rules",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/354B/production/_111134631_p085md2d.jpg",
+            "publishedAt": "2020-03-04T13:09:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Lego: Toy retailer bets on shops despite toy market downturn",
+            "description": "Danish toy firm Lego says it plans to open about another 150 stores.",
+            "url": "https://www.bbc.co.uk/news/business-51734265",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3339/production/_111131131_nielsb.christiansen.jpg",
+            "publishedAt": "2020-03-04T17:27:11Z",
+            "content": "Image copyrightLEGOImage caption\r\n Lego chief executive Niels Christiansen took over in 2017 after sales skidded to a halt\r\nDanish toy retailer Lego is betting big on physical stores despite falling demand in the wider toy market.\r\nIt plans to open 150 brande\u2026 [+2276 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Men wanted over 'racist' Oxford Street attack on student",
+            "description": "Student Jonathan Mok was beaten and punched in the attack on Oxford Street in London.",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-51736755",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73AD/production/_111131692_c83-20unknownman5.jpg",
+            "publishedAt": "2020-03-04T11:01:56Z",
+            "content": "Image copyrightMet PoliceImage caption\r\n Det Supt Emma Kirby said she wants to identify the men in the CCTV pictures\r\nCCTV images of four men wanted over an allegedly racist attack in central London have been released.\r\nJonathan Mok, 23, said he was walking d\u2026 [+1942 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Freeman confirms two more coronavirus cases in Scotland.",
+            "description": "Health minister confirms two more coronavirus cases in Scotland, bringing the total to three.",
+            "url": "https://www.bbc.co.uk/news/av/uk-scotland-scotland-politics-51735165/freeman-confirms-two-more-coronavirus-cases-in-scotland",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CD70/production/_111129525_jeanefreeman_online_pic.jpg",
+            "publishedAt": "2020-03-04T09:30:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Scotland's papers: Pandemic 'could see NHS only take emergency calls'",
+            "description": "Concerns about possible delays to surgery in the wake of the coronavirus make the front pages.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-51733140",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17B3A/production/_111128079_herald.jpg",
+            "publishedAt": "2020-03-04T07:01:44Z",
+            "content": "Biden seals comeback with Super Tuesday victoriesJoe Biden's campaign is back from the dead in the race to face Donald Trump in November's election."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus panic: Why are people stockpiling toilet paper?",
+            "description": "Loo roll has become the top \"panic buy\" item in several countries after coronavirus fears.",
+            "url": "https://www.bbc.co.uk/news/world-australia-51731422",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11852/production/_111126717_gettyimages-1044769034.jpg",
+            "publishedAt": "2020-03-04T07:24:02Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Does this strike fear into your heart?\r\nPerhaps the worst doomsday scenario is this: being stuck on the toilet and finding you're down to the last square.\r\nAt least that appears to be nightmare prospect scaring many \u2026 [+6636 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Hospital patients to be seen via video link",
+            "description": "Move to reduce the transmission of coronavirus in hospitals comes as hand-washing ad campaign begins.",
+            "url": "https://www.bbc.co.uk/news/uk-51730686",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/39AA/production/_111126741_hi060406800.jpg",
+            "publishedAt": "2020-03-04T04:18:45Z",
+            "content": "Image copyrightPA Wire\r\nHospitals are being asked to carry out more video-based consultations of patients to reduce the risk of spreading the coronavirus. \r\nNHS England hopes the move will reduce the number of people in hospitals and lower the potential for t\u2026 [+4976 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "The Papers: 'Life on hold' as UK 'ready for the worst'",
+            "description": "Wednesday's front pages focus on the contents of the government's coronavirus \"action plan\".",
+            "url": "https://www.bbc.co.uk/news/blogs-the-papers-51730668",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10C90/production/_111125786_dmfrontpage4march2020.jpg",
+            "publishedAt": "2020-03-04T00:06:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "England prop Vunipola stood down because of '24/7 camp environment'",
+            "description": "England's \"24/7 camp environment\" contributed to Mako Vunipola being stood down as a coronavirus precaution, says assistant coach Steve Borthwick.",
+            "url": "https://www.bbc.co.uk/sport/rugby-union/51737567",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/1317B/production/_111130287_gettyimages-1179131162.jpg",
+            "publishedAt": "2020-03-04T15:00:29Z",
+            "content": "Mako Vunipola has returned to training with Saracens despite being stood down by England\r\n<table><tr><th>Guinness Six Nations: England v Wales</th></tr>\r\n<tr><td>Venue: Twickenham Stadium Date: Saturday, 7 March Kick-off: 16:45 GMT</td></tr><tr><td>Coverage: \u2026 [+1156 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Major sponsors pull staff from attending Crufts",
+            "description": "The annual dog show, which starts on Thursday, will go ahead with \"enhanced measures\" to protect visitors.",
+            "url": "https://www.bbc.co.uk/news/uk-51734564",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/105B4/production/_105969966_dylancup.jpg",
+            "publishedAt": "2020-03-04T16:47:30Z",
+            "content": "Image copyrightAFP/Getty ImagesImage caption\r\n A papillon named Dylan was crowned Best in Show with his owner Kathleen Roosens at last year's Crufts\r\nTwo of Crufts' major sponsors have asked their staff not to attend the dog show amid fears over coronavirus.\r\u2026 [+3969 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "News Daily: Super Tuesday, coronavirus latest and greener petrol plan",
+            "description": "Your morning briefing for Wednesday 4 March 2020.",
+            "url": "https://www.bbc.co.uk/news/uk-51726240",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C58C/production/_111127505_biden_crowd_976getty.jpg",
+            "publishedAt": "2020-03-04T06:29:59Z",
+            "content": "If you want to get this briefing by email, sign up here\r\nUS election battle\r\nImage copyrightGetty Images\r\nDemocrats in 14 US states have been choosing who they want to run against Donald Trump in November's presidential election. Results are still coming in f\u2026 [+5834 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Tokyo 2020: IOC president Thomas Bach says no cancellation talk at board meeting",
+            "description": "IOC president Thomas Bach says \"cancellation\" and \"postponement\" was not mentioned in regards to Tokyo 2020 at Wednesday's board meeting.",
+            "url": "https://www.bbc.co.uk/sport/olympics/51743236",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/16E4D/production/_111137739_gettyimages-1204910777.jpg",
+            "publishedAt": "2020-03-04T17:36:01Z",
+            "content": "President Thomas Bach says the International Olympic Committee remains \"fully committed\" to Tokyo 2020\r\nInternational Olympic Committee president Thomas Bach said the words \"cancellation\" and \"postponement\" were not mentioned in regards to Tokyo 2020 at Wedne\u2026 [+1913 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus travel ban in Australia: Chinese student spends A$20,000 to get to class",
+            "description": "Karen Ji spent 16 days in Bangkok to get around Australia's ban on arrivals from mainland China.",
+            "url": "https://www.bbc.co.uk/news/av/world-australia-51716454/coronavirus-travel-ban-in-australia-chinese-student-spends-a20000-to-get-to-class",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12162/production/_111128047_karen.jpg",
+            "publishedAt": "2020-03-04T06:43:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Coronavirus: Chinese messaging app WeChat censored virus content since 1 Jan",
+            "description": "The report also found that WeChat censored more keywords as the outbreak grew.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-51732042",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4314/production/_111127171_gettyimages-988165318.jpg",
+            "publishedAt": "2020-03-04T06:24:31Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n China has for years censored what its people read and say online\r\nChina's most popular messaging app has been censoring key words about the coronavirus outbreak from as early as 1 January, a report has found.\r\nToront\u2026 [+3737 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Interest Rates cut to protect world economies from Coronavirus",
+            "description": "An emergency interest rate cut in the US because of the economic risks posed by the new coronavirus... Coronavirus leads to tens of thousands of prisoners being temporarily freed in Iran; How to stop criminals gaining remote access to baby monitors",
+            "url": "https://www.bbc.co.uk/programmes/p085kngj",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0853v36.jpg",
+            "publishedAt": "2020-03-04T00:02:00Z",
+            "content": "An emergency interest rate cut in the US because of the economic risks posed by the new coronavirus ... Coronavirus leads to tens of thousands of prisoners being temporarily freed in Iran; How to stop criminals gaining remote access to baby monitors"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Coronavirus: Italy to close all schools as deaths rise",
+            "description": "Italy is shutting all its schools and universities until the middle of the month in an effort to try to limit the spread of the coronavirus. With 3,000 people infected in the country and 107 deaths, Italy is the Europe\u2019s worst hit country. We hear from an exp\u2026",
+            "url": "https://www.bbc.co.uk/programmes/w172wq571j0mkkm",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p085nm92.jpg",
+            "publishedAt": "2020-03-04T22:24:00Z",
+            "content": "Italy is shutting all its schools and universities until the middle of the month in an effort to try to limit the spread of the coronavirus. With 3,000 people infected in the country and 107 deaths, Italy is the Europes worst hit country. We hear from an expe\u2026 [+390 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Biden wins big on Super Tuesday",
+            "description": "The former vice president seals his comeback - just weeks after looking like a lost cause. He won nine of the 14 states that voted to pick a Democratic White House candidate. Also: The World Bank announces a multibillion dollar package to help the world's poo\u2026",
+            "url": "https://www.bbc.co.uk/programmes/p085mwmv",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0853v36.jpg",
+            "publishedAt": "2020-03-04T15:40:00Z",
+            "content": "The former vice president seals his comeback - just weeks after looking like a lost cause. He won nine of the 14 states that voted to pick a Democratic White House candidate. Also: The World Bank announces a multibillion dollar package to help the world's poo\u2026 [+177 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "Bbc News",
+            "title": "Coronavirus: Italy considers closing schools and colleges over outbreak - BBC News",
+            "description": "Institutions may be closed across the country until mid-March in an attempt to limit infections.",
+            "url": "https://www.bbc.co.uk/news/live/world-51734185",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.2/bbc_news_logo.png",
+            "publishedAt": "2020-03-04T10:04:43Z",
+            "content": "Dozens of people who attended a football match last week in Tel Aviv, Israel, have been ordered to self-quarantine, Israeli news website Ynet reports.\r\nA teenager among a crowd of away fans at the game between Maccabi Tel Aviv and Hapoel Tel Aviv was infected\u2026 [+558 chars]"
+        }
+    ]
+}

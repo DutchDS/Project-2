@@ -1,0 +1,487 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/04: CBS Evening News",
+            "description": "California reports first coronavirus death; Vermont basketball player makes a comeback after surviving deadly accident.",
+            "url": "https://www.cbsnews.com/video/030420-cbs-evening-news/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/277d9b04-708c-4e0e-b979-65ac5bcfc51a/thumbnail/1200x630/5f335020a1d8a8d5777fec2f2aa704f9/0304-en-full-2041632-640x360.jpg",
+            "publishedAt": "2020-03-05T04:00:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/5: CBSN AM",
+            "description": "California reports first coronavirus death; Hospital sues more than 1500 people",
+            "url": "https://www.cbsnews.com/video/03052020-cbsnam/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/f64fd76e-22d4-4b7e-baa2-7534733ef3d0/thumbnail/1200x630/75e70b9310865cc10a20226621500b41/0305-cbsnam-full-2041980-640x360.jpg",
+            "publishedAt": "2020-03-05T17:25:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Health and Human Services Secretary Alex Azar criticized over coronavirus response",
+            "description": "The Trump administration has been frequently criticized over its coronavirus response. Much of that criticism has been directed at Health and Human Services Secretary Alex Azar, who oversaw the administration\u2019s coronavirus response before Mike Pence took over\u2026",
+            "url": "https://www.cbsnews.com/video/health-and-human-services-secretary-alex-azar-criticized-over-coronavirus-response/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/c36bf441-a0b0-4322-a47b-55796897a23e/thumbnail/1200x630/0b25ad4704ec6a6a8c8b66b86e97d45f/0304-rb-azarcorona-sxy-2041494-640x360.jpg",
+            "publishedAt": "2020-03-05T00:39:09Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How hospitals are dealing with coronavirus cases",
+            "description": "Hospitals in Illinois are being forced to change vital procedures as they brace for an influx of coronavirus cases. CBS News got a rare inside look at how an emergency room functions during this crisis. Adriana Diaz reports.",
+            "url": "https://www.cbsnews.com/video/how-hospitals-are-dealing-with-coronavirus-cases/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/0b9a747e-a388-499a-adff-87b983b327fd/thumbnail/1200x630/19dae2b810560a2162962b2d6d3781b6/0305-en-diaz-2042156-640x360.jpg",
+            "publishedAt": "2020-03-05T23:51:24Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/4/20: CBSN Evening News",
+            "description": "Authorities announce coronavirus cluster in NYC; College basketball player makes inspiring debut",
+            "url": "https://www.cbsnews.com/video/3420-cbsn-evening-news/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/86da5a68-171c-4e99-b885-7c9c0c71e5eb/thumbnail/1200x630/429f9f4d3e3a8a0cff79377151a4502c/0304-cbsn-full-2041616-640x360.jpg",
+            "publishedAt": "2020-03-05T02:46:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Doctor calls for \"leadership\" amid coronavirus crisis",
+            "description": "California health officials are rushing coronavirus testing kits to a cruise ship docked off-shore. A passenger who had disembarked within two weeks prior died on Wednesday, becoming the state\u2019s first coronavirus-linked fatality. Governor Gavin Newsom declare\u2026",
+            "url": "https://www.cbsnews.com/video/doctor-calls-for-leadership-amid-coronavirus-crisis/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/864eddf4-fb3a-4eb5-9f1b-140533c2ab6f/thumbnail/1200x630/db9c0bdf68c3b46e1783abbd4da25ba7/0305-ctm-aguscornaviruquestions-agus-2041757-640x360.jpg",
+            "publishedAt": "2020-03-05T13:22:31Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Nicole Brown",
+            "title": "Months into coronavirus outbreak, \"unanswered questions\" persist",
+            "description": "Dr. David Agus said we still don't know exactly how coronavirus is transmitted or how long someone is infectious.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-unanswered-questions-what-we-know/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/0ea523ea-56e3-4b02-bfed-d7c65529ff25/thumbnail/1200x630/770d76bfb9b9b557737de09dc08e21e7/1583433507217.png",
+            "publishedAt": "2020-03-05T22:04:50Z",
+            "content": "As coronavirus spreads in the United States and around the world, there are several important questions about the disease that remain unanswered, CBS News medical contributor Dr. David Agus said. \r\nFor example, \"I don't know its infectivity rate. I don't know\u2026 [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "California declares emergency, quarantines ship after 1st virus death",
+            "description": "California Governor Gavin Newsom declared a state of emergency following the coronavirus-linked death of an elderly man who disembarked from the ship less than two weeks prior.",
+            "url": "https://www.cbsnews.com/news/first-coronavirus-death-california-linked-grand-princess-cruise-ship-quarantine/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/3f039c18-a426-4663-a4ce-763ed7d8c725/thumbnail/1200x630/9f8862d087506d4bdf843fb3e39f6afe/1583410270227.png",
+            "publishedAt": "2020-03-05T12:12:23Z",
+            "content": "A 71-year-old coronavirus patient died on Wednesday, less than two weeks after disembarking from a cruise ship in California where he was likely exposed. The death marked California's first coronavirus-related fatality, bringing the national toll up to 11. Th\u2026 [+2040 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Danielle Garrand",
+            "title": "Trump criticized for saying people with coronavirus \"go to work\"",
+            "description": "Mr. Trump later claimed \"I NEVER said people that are feeling sick should go to work,\" calling it \"just more Fake News.\"",
+            "url": "https://www.cbsnews.com/news/donald-trump-coronavirus-comments-suggesting-people-go-to-work/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/ac0eba37-d0e1-4aae-a8eb-415892ab1025/thumbnail/1200x630g2/890e80af77ecb0d070c1e75bd91e5c3b/ap-20063610578714.jpg",
+            "publishedAt": "2020-03-05T23:32:36Z",
+            "content": "During a Wednesday night interview with Fox News, President Trump said he believes people infected with the novel coronavirus may get better \"by sitting around and even going to work.\" The statement garnered widespread backlash on Twitter, as the U.S. Centers\u2026 [+3849 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Italy shuts down all schools to fight coronavirus spread",
+            "description": "Nations around the world are stepping up their efforts to stop the spread of the coronavirus. CBS News foreign correspondent Charlie D'Agata joined CBSN AM from Italy with a look at how the country is responding.",
+            "url": "https://www.cbsnews.com/video/italy-shuts-down-all-schools-to-fight-coronavirus-spread/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/24046a07-b0ff-4433-aee9-262ea7bf32c4/thumbnail/1200x630/383d43c35721a7eab359b47553e21043/0305-cbsn-italyshutsdownschools-2041933-640x360.jpg",
+            "publishedAt": "2020-03-05T15:45:50Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump 2020 communications director talks coronavirus response and Super Tuesday",
+            "description": "Tim Murtaugh, director of communications for the Trump 2020 campaign, spoke to CBSN's \"Red & Blue\" about the president's response to the coronavirus outbreak, as well as Super Tuesday's Democratic primary results.",
+            "url": "https://www.cbsnews.com/video/trump-2020-communications-director-talks-coronavirus-response-and-super-tuesday/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/ec4e6d0a-00c7-475e-9c67-39bc03be25ca/thumbnail/1200x630/fcdd095254b1d3b47d3f306be2bc8b4d/0304-rb-trump2020corona-syd-2041568-640x360.jpg",
+            "publishedAt": "2020-03-05T01:14:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "\"House passes $8.3B emergency funding bill to fight coronavirus\"",
+            "description": "The House has passed a $8.3 billion emergency funding bill to fight the coronavirus outbreak as the number of cases continues to rise. CBSN political contributor and AP White House reporter Zeke Miller, and Wall Street Journal congressional reporter Natalie A\u2026",
+            "url": "https://www.cbsnews.com/video/house-passes-8-3b-emergency-funding-bill-to-fight-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/3784f985-fa8c-4757-b66f-99889fbca07c/thumbnail/1200x630/e2637c834052493b89bbb50b0e9333bc/0304-rb-emergencyfunding-sxx-2041477-640x360.jpg",
+            "publishedAt": "2020-03-05T00:39:09Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Senate passes $8.3 billion package to fight the coronavirus",
+            "description": "The House passed the package 415 to 2 in a vote on Wednesday, and the bill now heads to the president's desk.",
+            "url": "https://www.cbsnews.com/news/senate-passes-8-3-billion-package-to-fight-the-coronavirus-2020-03-05/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/eea6aa5a-20cb-46ad-8bc1-c2fdca84c5ac/thumbnail/1200x630/fe70c5a2de79f5711e63539e55a8df95/gettyimages-1189039482.jpg",
+            "publishedAt": "2020-03-05T19:25:36Z",
+            "content": "The Senate approved an $8.3 billion emergency supplemental package to respond to the coronavirus outbreak Thursday. The bill, which passed in the House by a 415 to 2 vote on Wednesday, now heads to President Trump's desk for his signature.\r\nThe Senate approve\u2026 [+2700 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "Starbucks no longer filling personal cups, citing coronavirus",
+            "description": "Coffee chain says it is \"adapting as new information is made available\" about the virus outbreak.",
+            "url": "https://www.cbsnews.com/news/starbucks-coronavirus-personal-cups/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/01/30/5e93ad57-fb17-4ece-a6fb-af5bf39cd43a/thumbnail/1200x630/100e0894aafd10f9593d07f25c226964/gettyimages-1197229483.jpg",
+            "publishedAt": "2020-03-05T19:12:39Z",
+            "content": "Starbucks customers may no longer use their own cups at the coffee chain, which cited concerns about the coronavirus outbreak in announcing the change in policy.\u00a0\r\nAlthough that could change, there's no set date for when the personal cup opinion will return. \u2026 [+1510 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "Trump says he thinks 3.4% coronavirus death rate is a \"false number\"",
+            "description": "That was the rate stated by the director of the World Health Organization. Trump also said people with coronavirus may get better \"by sitting around and even going to work.\"",
+            "url": "https://www.cbsnews.com/news/trump-says-he-thinks-3-4-coronavirus-death-rate-is-a-false-number/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/03/f2543083-42fd-4ca9-b8e6-be50b43f09f0/thumbnail/1200x630/1613e9991a750aaaee91c6888cbad734/gettyimages-1204945462.jpg",
+            "publishedAt": "2020-03-05T15:55:03Z",
+            "content": "President Trump said in an interview Wednesday night that the 3.4% mortality rate cited by the director of the World Health organization is a \"false number,\" and he also said that he thought people infected with coronavirus may get better \"by sitting around a\u2026 [+3794 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "Italy shuts down all schools nationwide due to coronavirus",
+            "description": "Italy has been the hardest-hit country in Europe, with more than 3,000 cases reported.",
+            "url": "https://www.cbsnews.com/news/coronavirus-italy-shutting-down-schools-nationwide-amid-outbreak/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/dfd13243-90c3-40a6-8e61-154a597cab6e/thumbnail/1200x630/ad2944c70d05fa95ceee9f8a88e770c3/gettyimages-1202999777.jpg",
+            "publishedAt": "2020-03-05T01:13:20Z",
+            "content": "As Italy tries to contain the new coronavirus outbreak, the government has ordered all schools, universities and daycare facilities nationwide to close for 10 days, starting Thursday.\u00a0\r\nThe closures, which will last until at least March 15, are part of an eff\u2026 [+1854 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How parents should talk to their kids about coronavirus",
+            "description": "A middle school in Little Falls, New Jersey, says it could teach remotely for the rest of the year if needed.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-schools-closed-precautions-talking-to-kids/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/b6f331ec-7e08-4041-b6e3-66127a6bf439/thumbnail/1200x630/cacebc1c38c7006a27ff1eeb6de2990a/0305-ctm-coronaschoolpreps-oliver-115841-2041768-640x360.jpg",
+            "publishedAt": "2020-03-05T15:03:32Z",
+            "content": "As coronavirus spreads, schools around the world have shut down. In the U.S., some schools in seven states have temporarily closed as a precaution and others are preparing in case there is an outbreak.\r\nAt a middle school in Little Falls, New Jersey, there's \u2026 [+2276 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Stephen Gandel",
+            "title": "3 reasons why the coronavirus is dragging down stocks",
+            "description": "Here are the biggest factors behind the U.S. market's rockiest patch since the 2008 financial crisis.",
+            "url": "https://www.cbsnews.com/news/coronavirus-stock-market-down-three-reasons-why/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/ce126c29-e056-4b19-b67a-0185ede0191c/thumbnail/1200x630/e8c6587c9e0c3e4151551369d7593fa3/stocks-gettyimages-1204950211.jpg",
+            "publishedAt": "2020-03-05T23:07:24Z",
+            "content": "A saying on Wall Street warns against trying to catch a falling knife. But in recent weeks investors have been confronted by a market that risks cutting their portfolio to ribbons. \r\nThursday brought more such slashing, with the Dow falling nearly 1,000 point\u2026 [+4923 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Irina Ivanova",
+            "title": "Stocks renew slide on concerns of severe coronavirus hit",
+            "description": "U.S. financial markets opened sharply lower, with some economists forecasting a major blow to domestic growth.",
+            "url": "https://www.cbsnews.com/news/stock-markets-down-coronavirus-hit/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/ce126c29-e056-4b19-b67a-0185ede0191c/thumbnail/1200x630/e8c6587c9e0c3e4151551369d7593fa3/stocks-gettyimages-1204950211.jpg",
+            "publishedAt": "2020-03-05T14:52:13Z",
+            "content": "Stocks are falling again on Thursday as the economic impact of the global coronavirus spread becomes clearer.\r\nThe Dow fell more than 600 points, or 2.5%, to 26,414 shortly after markets opened on Thursday. The S&amp;P 500 declined 2.4% and the tech-heavy Nas\u2026 [+444 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How are U.S. schools preparing for a coronavirus outbreak?",
+            "description": "Schools around the world have shut down amid mounting coronavirus outbreaks. Although it appears children are less susceptible to the virus than adults, several schools in seven U.S. states have also temporarily closed as a precaution. Meg Oliver visits one m\u2026",
+            "url": "https://www.cbsnews.com/video/how-are-schools-preparing-for-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/05/b6f331ec-7e08-4041-b6e3-66127a6bf439/thumbnail/1200x630/cacebc1c38c7006a27ff1eeb6de2990a/0305-ctm-coronaschoolpreps-oliver-115841-2041768-640x360.jpg",
+            "publishedAt": "2020-03-05T13:33:25Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Stephen Gandel",
+            "title": "JPMorgan and other big banks seek coronavirus relief",
+            "description": "Critics say banks are seeking to exploit the outbreak to weaken rules designed to ensure their financial stability.",
+            "url": "https://www.cbsnews.com/news/coronavirus-jpmorgan-chase-and-other-big-banks-regulatory-relief/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/27b9143d-0248-4cd9-aea9-23c21c6b8171/thumbnail/1200x630/d72e5b95f2b8bb8159a0ea5f6bf0ad73/gettyimages-1169074323.jpg",
+            "publishedAt": "2020-03-05T13:37:52Z",
+            "content": "A lobbying group for the nation's largest banks wants the Federal Reserve to permanently relax a number of regulations put in place after the 2008 financial crisis. The reason: To help lenders deal with any economic fallout from the novel coronavirus, also kn\u2026 [+2901 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Amazon tells some employees to work from home due to coronavirus",
+            "description": "This week, an Amazon employee in the Seattle area was diagnosed with the new coronavirus. Now the tech giant is asking all employees in the region to work from home through the end of the month.",
+            "url": "https://www.cbsnews.com/video/amazon-tells-some-employees-to-work-from-home-due-to-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/1555fc0b-ae0c-461f-ad6c-19f34105d11d/thumbnail/1200x630/d6f75c1348797d6d3cf205688336b008/0305-cbsnam-amazoncorona-2041998-640x360.jpg",
+            "publishedAt": "2020-03-05T18:24:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How to make your own hand sanitizer",
+            "description": "With Purell flying off the shelves and the number of coronavirus cases across the globe growing, CBS News investigated how people can make their own hand sanitizer in just a few simple steps.",
+            "url": "https://www.cbsnews.com/video/how-to-make-your-own-hand-sanitizer/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/6a1ce1c0-20d4-402a-9c99-ed7a862a2616/thumbnail/1200x630/0bdc7097b27d657b2843f71f615d27f7/diy-hand-sanitizer-2042097-640x360.jpg",
+            "publishedAt": "2020-03-05T22:24:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. races to ramp up coronavirus response as 11th death confirmed",
+            "description": "The COVID-19 disease is keeping more than 290 million kids home from school around the globe, as the latest U.S. death prompts another cruise ship quarantine.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-05/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/0f2128a4-4de3-4202-9cf2-db7265b4db43/thumbnail/1200x630/b7cfd9c15cd4efb4011b557d4f131b3d/grand-princess-cruise-coronavirus-kpix.jpg",
+            "publishedAt": "2020-03-05T11:08:44Z",
+            "content": "Congress was poised to approve $8.3 billion dollars in supplemental spending Thursday to help bolster U.S. defenses against an increasingly pervasive and increasingly deadly outbreak of the new coronavirus.\r\nEleven people have died of the COVID-19 disease in \u2026 [+1685 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Cruise ship held at sea after former passenger's death",
+            "description": "Coronavirus test kits were flown to the Grand Princess cruise ship by U.S. Coast Guard helicopters. The cruiseliner, which has been banned from docking in San Francisco, is feared to have more than 3,000 passengers and crew onboard that may have been exposed \u2026",
+            "url": "https://www.cbsnews.com/video/cruise-ship-held-at-sea-after-former-passengers-death/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/3560cbb7-d4be-4a89-8d80-dddc3fdae8dd/thumbnail/1200x630/c2ecb9beef6060513c582781d82784b3/0305-en-yuccas-2042241-640x360.jpg",
+            "publishedAt": "2020-03-05T23:48:58Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Pence warns of deficit as demand for coronavirus testing kits rises",
+            "description": "Government health officials do not have enough medical test kits for those who may be exposed to the coronavirus. The Trump administration is accused of giving the public mixed messages on the risks and their preparedness of the outbreak. Paula Reid reports.",
+            "url": "https://www.cbsnews.com/video/pence-warns-of-deficit-as-demand-for-coronavirus-testing-kits-rises/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/080d9df9-e110-41e3-bbad-2f6dfad1a6a9/thumbnail/1200x630/2dec4063d0904cead6d56201e012002f/0305-en-reid-2042161-640x360.jpg",
+            "publishedAt": "2020-03-05T23:56:31Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "\"London Calling\": \"Stiff upper lip\" comes in handy as Brits brace for coronavirus",
+            "description": "As people in Britain brace for the spread of coronavirus, CBS News contributor Simon Bates reflects on hospital preparedness, possible food shortages ... and a curious sense of wartime d\u00e9j\u00e0 vu. (This video reflects the opinions and views of Simon Bates only, \u2026",
+            "url": "https://www.cbsnews.com/video/london-calling-stiff-upper-lip-comes-in-handy-as-brits-brace-for-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/e43308bc-8c4d-461c-a9c9-d39428bcdb1f/thumbnail/1200x630/90ad8d7b7dc363d63c00a5f3f1762186/cbsn-fusion-london-calling-stiff-upper-lip-comes-in-handy-as-brits-brace-for-coronavirus-thumbnail-454001-640x360.jpg",
+            "publishedAt": "2020-03-05T15:37:21Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How science misinformation is making its way into U.S. classrooms",
+            "description": "As misinformation spreads about the coronavirus outbreak, the science community overall is on edge over false information. The anti-science movement has even made its way into classrooms, confusing students about what's true and what's myth. CBSN Originals ex\u2026",
+            "url": "https://www.cbsnews.com/video/how-science-misinformation-is-making-its-way-into-us-classrooms/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/76e1cd61-14b4-410e-a5c6-75b58a4ee0a3/thumbnail/1200x630/653e1b131093fa099faa30a8d6943f81/0305-cbsn-waronscience-2041954-640x360.jpg",
+            "publishedAt": "2020-03-05T16:39:32Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Rubbing alcohol, aloe vera in short supply",
+            "description": "Public health experts are all for making your own hand sanitizer, but even its components are now hard to come by.",
+            "url": "https://www.cbsnews.com/news/coronavirus-hand-sanitizer-shortage-alcohol-aloe-vera-hard-to-find/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/084d9bc5-a0b4-4e21-a4d1-cea04c8a656d/thumbnail/1200x630/2b52a0301cd87963abb6a31f4542dd50/img-0407.jpg",
+            "publishedAt": "2020-03-05T22:08:48Z",
+            "content": "As the coronavirus spreads in the U.S., Purell and other commercial hand sanitizers have sold out online and at pharmacies across the country in recent days. Now, even the raw materials for\u00a0do-it-yourself disinfectants\u00a0are in increasingly short supply, provin\u2026 [+4032 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "christina capatides",
+            "title": "Will warm weather stop the spread of coronavirus?",
+            "description": "It's one of the most commonly asked questions about coronavirus, so CBS News asked an expert.",
+            "url": "https://www.cbsnews.com/news/will-coronavirus-go-away-with-warm-weather/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/7c233249-1dde-4a2b-913b-c922978d4c50/thumbnail/1200x630/d9544f69c0a12efa4c9c610353761528/gettyimages-1202063214.jpg",
+            "publishedAt": "2020-03-05T20:49:56Z",
+            "content": "Every year, people across America cheer the start of spring, not only because it ushers in warmer weather, but because it most often marks the end of flu season. So it stands to reason that Americans are now wondering whether spring will also serve to blunt t\u2026 [+2253 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: First coronavirus death in California",
+            "description": "California has declared a state of emergency after experiencing its first coronavirus-linked death, bringing the national death toll up to 11. Also, Mike Bloomberg dropped out of the 2020 race and endorsed Joe Biden after the former vice president and Bernie \u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-first-coronavirus-death-in-california/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/53a34a29-1048-44bf-9a5c-b1e21eb0f8db/thumbnail/1200x630/587812cf11bf7fc756140ebf4f10249f/0305-ctm-7ameyeopener-2041682-640x360.jpg",
+            "publishedAt": "2020-03-05T12:18:57Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "House approves $8 billion emergency bill to fight coronavirus",
+            "description": "The House has approved an emergency bill to spend more than $8 billion to fight the coronavirus. The president met with United Airlines executives to cut the number of flights within the U.S. by 10%. Paula Reid reports.",
+            "url": "https://www.cbsnews.com/video/house-approves-8-billion-emergency-bill-to-fight-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/04/6404d088-00b7-4ab1-8475-29e3efb92bcd/thumbnail/1200x630/315df3b535add3a58a17a2fd9135de94/0304-en-coronaemergencybill-reid-2041442-640x360.jpg",
+            "publishedAt": "2020-03-05T00:00:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus forces nation-wide school shutdown in Italy",
+            "description": "Countries experiencing coronavirus outbreaks are taking severe precautions in an attempt to contain the disease. Italy, with 107 fatalities so far, has shut down all schools nation-wide. Iran\u2019s Ayatollah Khamenei accused other countries of hiding their corona\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-forces-nationwide-school-shutdown-in-italy/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/98e215b6-ba8f-4bb5-8dfb-83d60d6a9e08/thumbnail/1200x630/ae93af530b0b1981c7588e339d79aa4a/0305-ctm-coronavirusglobal-dagata-2041706-640x360.jpg",
+            "publishedAt": "2020-03-05T12:46:47Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus cruise ship quarantined off California coast",
+            "description": "A 71-year-old coronavirus patient died on Wednesday, less than two weeks after disembarking from a cruise ship in California where he was likely exposed. The death marks California\u2019s first coronavirus-related fatality and forced the governor to call a state o\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-cruise-ship-quarantined-off-california-coast/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/11485f5f-8a81-4501-9c0f-9ba43ebbfeef/thumbnail/1200x630/17b988be28788ab2b9c5d23909fbb21b/0305-ctm-coronaviruscases-yuccas-2041692-640x360.jpg",
+            "publishedAt": "2020-03-05T12:19:08Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "House approves $8.3 billion coronavirus bill",
+            "description": "Lawmakers are expected to send President Trump an emergency spending bill that would provide $8.3 billion to fight coronavirus and find a vaccine. The administration had asked for $2.5 billion, but Mr. Trump said he was happy to take as much money as Congress\u2026",
+            "url": "https://www.cbsnews.com/video/house-approves-8-3-billion-coronavirus-bill/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/84f207bb-7f8f-49c1-9c5b-ce42ec6c392e/thumbnail/1200x630/aed5d39dc41399cdcb3e2db192638082/0305-ctm-coronaviruswh-tracy-2041702-640x360.jpg",
+            "publishedAt": "2020-03-05T12:20:08Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS Radio News",
+            "title": "WORLD NEWS ROUNDUP: 03/05",
+            "description": "Cruise ship coronavirus scare off California. Bernie Sanders vows post primary unity. Chuck Schumer criticized for challenging Supreme Court justices. CBS News Correspondent Steve Kathan has today's World News Roundup.",
+            "url": "http://feeds.cbsnews.com/~r/podcast_icast_1/~3/GFiefkpj8r0/2750305.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-03-05T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "No, you won't contract coronavirus from a package you receive in the mail",
+            "description": "Don't worry, experts say \u2014 that package you ordered from overseas is safe.",
+            "url": "https://www.cbsnews.com/news/coronavirus-package-receive-mail-amazon/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/05/2e2b7006-6f88-4913-b60d-f0b1d9fc989b/thumbnail/1200x630/9c5204f433acee7da46a1f3e8cc3bdf7/gettyimages-1189253955.jpg",
+            "publishedAt": "2020-03-05T22:11:37Z",
+            "content": "Can the new\u00a0coronavirus hitch a ride on packages delivered to your home from across the U.S. or overseas? Experts say there's really no reason to worry \u2014 it's extremely unlikely that the illness could ever be\u00a0transmitted that way.\r\nAn Amazon worker in Seattle\u2026 [+2985 chars]"
+        }
+    ]
+}

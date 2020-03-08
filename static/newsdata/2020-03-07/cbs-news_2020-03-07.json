@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus cases surpass 100,000 worldwide",
+            "description": "As coronavirus cases top 101,000 worldwide, at least 260 cases have been confirmed in the U.S. Jamie Yuccas reports.",
+            "url": "https://www.cbsnews.com/video/coronavirus-cases-surpass-100000-worldwide/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/07/8e728b4c-640b-4953-b779-71c2e419dbeb/thumbnail/1200x630/4ee5b496b9675ee861049a37c7945297/0306-en-westcorona-yuccas-2042944-640x360.jpg",
+            "publishedAt": "2020-03-07T00:14:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Florida sees its first coronavirus-linked deaths",
+            "description": "There are now 347 confirmed coronavirus cases across 29 U.S. states. At least 17 people have died nationwide, the latest two fatalities coming from Florida. Meanwhile, 3,500 cruise passengers are stuck in limbo off the coast of California as 21 people on boar\u2026",
+            "url": "https://www.cbsnews.com/video/florida-sees-its-first-coronavirus-linked-deaths/",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T15:25:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus threatens to have broad economic impact",
+            "description": "New jobs numbers released Friday show a decrease in the unemployment rate before the spread of coronavirus. Yahoo Finance reporter Akiko Fujita spoke to CBSN's Reena Ninan about the broader economic impact of the spreading disease.",
+            "url": "https://www.cbsnews.com/video/coronavirus-threatens-to-have-broad-economic-impact/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/07/f5254040-94f9-449c-abe6-5a228c3a8d6b/thumbnail/1200x630/d88737c13134171fbc9850a5ab00577b/0307-cbsn-coronabusiness-wkj-wkk-2043367-640x360.jpg",
+            "publishedAt": "2020-03-07T21:57:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Doctor shares CDC's latest coronavirus warnings",
+            "description": "As public concern over the coronavirus spreads almost as quickly as the disease itself, people are looking out for any information that would help them or their loved ones stay safe. Dr. David Agus joins \u201cCBS This Morning: Saturday\u201d to talk about what medical\u2026",
+            "url": "https://www.cbsnews.com/video/doctor-shares-cdcs-latest-coronavirus-warnings/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/07/ee951bac-cdb9-442c-a952-ea5656a9a181/thumbnail/1200x630/ad372853ad68d21d5bb400f71fb74d59/0307-ctm-aguscoronaviruschat-2043247-640x360.jpg",
+            "publishedAt": "2020-03-07T15:51:25Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/6/20: CBSN Evening News",
+            "description": "100,000+ cases of coronavirus worldwide; On the Road: A tribute to Dan Peterson",
+            "url": "https://www.cbsnews.com/video/3620-cbsn-evening-news/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/07/fc005200-d49a-45f5-a811-625d5d559dee/thumbnail/1200x630/c08007ce99fe080919fce49d9cef0637/0306-cbsn-full-2043048-640x360.jpg",
+            "publishedAt": "2020-03-07T02:45:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Traveling amid coronavirus: What you should know",
+            "description": "As coronavirus cases multiply across the globe causing severe disruptions to day-to-day life, the tourism industry has been among the hardest-hit. Travelers are on high alert as cruise lines, hotels and airlines see demand plummet. Jesse Ashlock, U.S. editor \u2026",
+            "url": "https://www.cbsnews.com/video/traveling-amid-coronavirus-what-you-should-know/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/07/c75b9fe8-7905-4b61-a848-d9c0d057a619/thumbnail/1200x630/54743c7c65ad54da6e14d1f37412e44f/0307-ctm-coronatravel-ashlock-2043170-640x360.jpg",
+            "publishedAt": "2020-03-07T13:07:22Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "At CDC visit, Trump downplays number of U.S. coronavirus cases",
+            "description": "President Trump downplayed the number of U.S. coronavirus cases during his visit to CDC headquarters. Paula Reid reports.",
+            "url": "https://www.cbsnews.com/video/at-cdc-visit-trump-downplays-number-of-u-s-coronavirus-cases/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/07/c625c08a-7aa6-4d58-acb5-295cd64d417b/thumbnail/1200x630/deb2c791032fe2684933a271264680c5/0306-en-trumpcorona-preid7pm-2042980-640x360.jpg",
+            "publishedAt": "2020-03-07T00:27:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Li Cohen",
+            "title": "New York declares state of emergency amid coronavirus outbreak",
+            "description": "There are 76 confirmed COVID-19 cases in New York State, including 11 in New York City.",
+            "url": "https://www.cbsnews.com/news/new-york-joins-4-other-states-in-declaring-state-of-emergency-amid-coronavirus-outbreak-2020-03-07/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/07/01f2df06-3981-4f4b-9cac-095fb6f50251/thumbnail/1200x630/8c8ed9cd0d9022eb2332bcc2a8772ad9/gettyimages-1204736689.jpg",
+            "publishedAt": "2020-03-07T21:32:12Z",
+            "content": "New York Governor Andrew Cuomo declared a state of emergency amid the coronavirus outbreak. Shortly before the announcement, he tweeted that there are now 76 confirmed cases of COVID-19 throughout the state, most of which are in Westchester County.\u00a0 \u00a0\r\nAs of \u2026 [+6097 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump says he will not stop campaign rallies over coronavirus",
+            "description": "The Trump administration is working to meet the surging demand for coronavirus test kits as the number of confirmed cases spreads across 29 states. While CDC and U.S. health officials work to inform the public and urge caution, President Trump touted the $8.3\u2026",
+            "url": "https://www.cbsnews.com/video/trump-says-he-will-not-stop-campaign-rallies-over-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/07/8f1a98df-2eec-4564-90b2-085c472709f6/thumbnail/1200x630/7831012015240975bf8c5f51922c6c13/0307-ctm-trumpcorona-jiang-2043132-640x360.jpg",
+            "publishedAt": "2020-03-07T12:47:13Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "U.S. students urged to leave Italy amid coronavirus",
+            "description": "Italy now has the highest coronavirus death toll outside of China with the overall number of fatalities reaching just under 200. American students studying abroad in Italy have already gotten the call to leave the country as the country implements a nation-wi\u2026",
+            "url": "https://www.cbsnews.com/video/us-students-urged-to-leave-italy-amid-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/07/b88178af-84de-438e-8750-309003acc888/thumbnail/1200x630/862b9cb6bc5af07aaff0358aa80b9579/0307-ctm-usstudentsitaly-dagata-2043242-640x360.jpg",
+            "publishedAt": "2020-03-07T15:19:14Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus updates: Florida reports first deaths on East Coast",
+            "description": "The number of confirmed cases worldwide continues to climb.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-07/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/07/bb3df882-d980-484c-93a5-d5ad96f58dfa/thumbnail/1200x630/5c8350c56e688b98e0955ab093508736/ap-20062774582353.jpg",
+            "publishedAt": "2020-03-07T13:30:56Z",
+            "content": "Florida health officials announced late Friday that two people who tested positive for coronavirus have died \u2013 the first deaths on the East Coast linked to the virus. The Florida Department of Health said the two people had traveled overseas, but did not say \u2026 [+2069 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: Trump urges calm amid coronavirus panic",
+            "description": "Coronavirus cases spread to 29 U.S. states as President Trump urges \u201ccalm.\u201d Also, Mr. Trump replaced acting Chief of Staff Mick Mulvaney with loyalist GOP Rep. Mark Meadows. All that and all that matters in today\u2019s Eye Opener. Your world in 90 seconds.",
+            "url": "https://www.cbsnews.com/video/eye-opener-trump-urges-calm-amid-coronavirus-panic/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/07/b1327cb5-ae09-4251-8653-6b96fbc3ddf7/thumbnail/1200x630/5c3162f07cf1430b51ade34b3fd9e8dc/0307-ctm-eyeopener7am-2043113-640x360.jpg",
+            "publishedAt": "2020-03-07T12:34:01Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "Facebook bans ads for face masks amid coronavirus panic",
+            "description": "\"We're monitoring COVID19 closely and will make necessary updates to our policies if we see people trying to exploit this public health emergency.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-facebook-bans-ads-commerce-listings-face-masks-covid-19/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/07/8616362b-dc54-4ff1-bc5f-98b3141c2bc9/thumbnail/1200x630g4/0013a282d5bb669b625621ff08832aef/gettyimages-1205332208.jpg",
+            "publishedAt": "2020-03-07T19:01:21Z",
+            "content": "Facebook announced on Friday it is banning face mask ads and commerce listings from its platforms. \"We are temporarily banning advertisements and commerce listings, like those on Marketplace, that sell medical face masks,\" the tech giant said in a statement.\u00a0\u2026 [+3437 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Travel fears intensify amid rise in coronavirus cases",
+            "description": "Two new coronavirus cases were confirmed in Los Angeles on Friday. One of the new patients worked in the quarantine station at the airport, and the other had just traveled to Italy. Kris Van Cleave joined CBSN to discuss travel concerns surrounding the outbre\u2026",
+            "url": "https://www.cbsnews.com/video/travel-fears-intensify-amid-rise-in-coronavirus-cases/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/07/60e4733a-6b1a-408a-8794-9cfa58e032b2/thumbnail/1200x630/7b8ac268b65a1983276b53f5449c8fec/0306-cbsn-coronaviruslax-2043011-640x360.jpg",
+            "publishedAt": "2020-03-07T01:15:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Florida sees its first coronavirus-linked deaths",
+            "description": "There are now 347 confirmed coronavirus cases across 29 U.S. states. At least 17 people have died nationwide, the latest two fatalities coming from Florida. Meanwhile, 3,500 cruise passengers are stuck in limbo off the coast of California as 21 people on boar\u2026",
+            "url": "http://feeds.cbsnews.com/~r/CBSNewsEarlyShow/~3/90vSyAUDLjg/",
+            "urlToImage": null,
+            "publishedAt": "2020-03-07T15:25:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Top Saudi royal family members detained",
+            "description": "Crown Prince Mohammed bin Salman, King Salman's son who is considered the de facto ruler of the kingdom, has been consolidating power since ousting Mohammed bin Nayef as heir to the throne in 2017.",
+            "url": "https://www.cbsnews.com/news/top-saudi-royal-family-members-detained-2020-03-07/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/04/11/56e80f72-4118-4dae-8a1f-13b854d695f1/thumbnail/1200x630/3be25f340eab84f562b79e5e1d480fe2/rtx5lnha.jpg",
+            "publishedAt": "2020-03-07T21:43:36Z",
+            "content": "Reporting by Margaret Brennan\r\nA U.S. official confirmed Saturday that top members of the Saudi royal family have been detained and the land bridge to Bahrain has also been closed. The official said the purpose and breadth of the security lockdown remains unc\u2026 [+1454 chars]"
+        }
+    ]
+}

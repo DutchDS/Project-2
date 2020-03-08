@@ -1,0 +1,682 @@
+{
+    "status": "ok",
+    "totalResults": 52,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump signs coronavirus spending bill",
+            "description": "President Trump signed an $8.3 billion emergency supplemental package to respond to the coronavirus on Friday morning, after the bill was passed by overwhelming bipartisan majorities in both houses of Congress earlier this week. Watch his remarks.",
+            "url": "https://www.cbsnews.com/video/trump-signs-coronavirus-spending-bill/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/19fbc8e1-ac93-4248-afce-b28d2c26bd0f/thumbnail/1200x630/2d9ec2ca359a5aa8b731cefe69f224f9/cbsn-fusion-trump-signs-coronavirus-spending-bill-thumbnail-454239-640x360.jpg",
+            "publishedAt": "2020-03-06T14:58:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus: The Race to Respond",
+            "description": "As the coronavirus spreads across the country and around the world, \u201cCBS This Morning\u2019s\u201d special, \u201cCoronavirus: The Race to Respond,\u201d addresses critical information on how the virus is being tracked and treated. Reporters in multiple countries share the lates\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-the-race-to-respond/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/3ae08e7b-4fcd-450f-8a2c-36661b5916c9/thumbnail/1200x630/0307b1637eaef1d23aa7777f2abe1b58/0306-coronavirus-special-full-2042725-640x360.jpg",
+            "publishedAt": "2020-03-06T18:34:23Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Coronavirus: Responses around the world",
+            "description": "From Seattle to Mecca, the world is reacting to the coronavirus with face masks, empty streets... and lots and lots of sanitizer.",
+            "url": "https://www.cbsnews.com/pictures/coronavirus-covid-19-responses-around-the-world/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/7979a782-ec41-4186-bcc3-008039a556b0/thumbnail/1200x630/21d9b2232e7dc2ce275cb7297fd323ce/gettyimages-1205319703.jpg",
+            "publishedAt": "2020-03-06T23:36:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "3/5/20: Red and Blue",
+            "description": "Pres. Trump disputes number of coronavirus cases; NASA preps for next rover launch to Mars.",
+            "url": "https://www.cbsnews.com/video/3520-red-and-blue/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/6b588273-f5cf-46a1-9f9b-86899e6248bf/thumbnail/1200x630/9c6063120fb2f6cf50793b746df94fc5/rnb-full-2042310-640x360.jpg",
+            "publishedAt": "2020-03-06T01:47:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "What else can the U.S. do about coronavirus?",
+            "description": "Some countries around the world are closing schools and, in extreme cases like China, implementing mass quarantines in an effort to contain the coronavirus. Amid accusations the federal government may not be doing enough to contain its spread, Dr. Tara Narula\u2026",
+            "url": "https://www.cbsnews.com/video/what-else-can-the-us-do-about-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/7dc4efca-9459-4128-843d-ad7cffea90fb/thumbnail/1200x630/4a8b0d6b341e1205b7835ea6ea2dae4d/0306-ctm-taracvirus-narula-2042530-640x360.jpg",
+            "publishedAt": "2020-03-06T13:29:56Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus is changing the way businesses operate",
+            "description": "The coronavirus outbreak is changing the way businesses operate. Starbucks is now banning reusable cups that are meant to reduce waste over concern that they could spread the virus.  Anna Werner reports.",
+            "url": "https://www.cbsnews.com/video/coronavirus-is-changing-the-way-businesses-operate/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/b8e5bdd3-4bce-4127-9487-4d03c6027d23/thumbnail/1200x630/80ef3659c00bb16e2712181070e8b14c/0305-en-werner-2042290-640x360.jpg",
+            "publishedAt": "2020-03-06T00:56:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Seattle stadium worker tests positive for coronavirus",
+            "description": "Stadium employee who worked at a Feb. 22 XFL game at the 72,000-seat venue where the Seattle Seahawks play has tested positive for the coronavirus.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-seattle-stadium-worker-who-worked-xfl-game-diagnosed-with-covid-19/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/b40ce1e3-2d08-4986-a130-d0fd5280ab5b/thumbnail/1200x630/14ee068c30d03c09fb393ad1d0353ea7/sxjgyhaijjfzrj665fyxgn52fq.jpg",
+            "publishedAt": "2020-03-06T14:40:03Z",
+            "content": "Authorities say a stadium employee who worked a Feb. 22 XFL game at the 72,000-seat venue where the Seattle Seahawks play has tested positive for the coronavirus.\u00a0 Chase Gallagher, a spokesman for King County, said Thursday that previously scheduled sporting \u2026 [+1592 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Doctor on coronavirus facts and precautions",
+            "description": "Dr. Tara Narula joins \u201cCBS This Morning\u201d to provide tips and dispel myths as Americans begin to feel the effects of the global coronavirus crisis. Narula shares critical information about the illness and what you can do to protect yourself.",
+            "url": "https://www.cbsnews.com/video/doctor-on-coronavirus-facts-and-precautions/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/318c64ff-58e2-4efc-b6f6-43a4395cd123/thumbnail/1200x630/c5f749018671c67befb3b81d6432513e/0306-ctm-finaltips-narula-2042591-640x360.jpg",
+            "publishedAt": "2020-03-06T14:11:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Italy scrambles to contain coronavirus outbreak",
+            "description": "Italy was the first first European country to ban flights from China, but that didn't stop the coronavirus from spreading there. CBS News foreign correspondent Charlie D'Agata joined CBSN from Rome with how Italy is responding to the outbreak.",
+            "url": "https://www.cbsnews.com/video/italy-scrambles-to-contain-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/befd06d6-e5f3-4114-aa8e-a1a299260437/thumbnail/1200x630/4c159428d3a918b57154608284b64929/0306-cbsn-italyscrambles-2042643-640x360.jpg",
+            "publishedAt": "2020-03-06T15:41:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Health officials weigh in on airline travel risks",
+            "description": "The travel industry is among the hardest hit by the coronavirus outbreak. Kris Van Cleave reports.",
+            "url": "https://www.cbsnews.com/video/health-officials-weigh-in-on-airline-travel-risks/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/07/06f7ac06-d09e-4af1-a9df-ca0cc191d00c/thumbnail/1200x630/2cfccb83fe654dc3e1414ff62eebca19/0306-en-coronatravel-kvc-2042880-640x360.jpg",
+            "publishedAt": "2020-03-06T23:51:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus: What health experts say you need to know",
+            "description": "As the coronavirus spreads in the U.S., \u201cCBS This Morning\u201d brought together a panel of health experts to answer your questions. CBS News Medical Contributor Dr. Tara Narula, Director of the Center for Infectious Disease Research and Policy at the University o\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-what-health-experts-say-you-need-to-know/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/20f1c688-7f95-4a49-a655-57c82eb66859/thumbnail/1200x630/a56e6c6e0959c9a1952854beac8c60e6/0306-ctm-cviruspanel-panel-2042573-640x360.jpg",
+            "publishedAt": "2020-03-06T14:04:03Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump administration criticized for late coronavirus response",
+            "description": "The U.S. government is getting criticism in the race to respond to the coronavirus crisis. The CDC is accused of botching the initial rollout of testing kits and not getting more Americans tested for coronavirus sooner. Ben Tracy reports from Washington D.C. \u2026",
+            "url": "https://www.cbsnews.com/video/trump-administration-criticized-for-late-coronavirus-response/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/d96b6a76-c92a-4144-ab91-18c288c2938b/thumbnail/1200x630/910535aa190c7feeccf7526b8abb77a4/0306-ctm-conronavirusresposne-tracy-2042447-640x360.jpg",
+            "publishedAt": "2020-03-06T12:23:57Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus stock plunge nears $4 trillion loss",
+            "description": "Investors are worried the economic damage from the virus outbreak will be worse than previously thought.",
+            "url": "https://www.cbsnews.com/news/coronavirus-stock-plunge-nears-4-trillion-spoiling-bull-markets-11th-birthday/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2015/10/12/d04c3a1d-b3a0-4255-bd3d-b42780a014d5/thumbnail/1200x630/c85254f28dff24e7cae1940c0496debf/bull-market.jpg",
+            "publishedAt": "2020-03-06T15:49:53Z",
+            "content": "The coronavirus stock market plunge could spoil a major party for Wall Street: The bull market's 11th birthday. Monday, March 9, would the 11-year anniversary of the end of the market's financial crisis meltdown. Stocks began rising in March 2009 \u2014 well befor\u2026 [+3560 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Amid coronavirus fears, consumers report price gouging",
+            "description": "One woman said she went to to pay for hand sanitizer and was told it was $50.",
+            "url": "https://www.cbsnews.com/news/coronavirus-price-gouging-hand-sanitizer-face-masks/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/fcf88da7-846b-4177-bf18-a2bcb2b54705/thumbnail/1200x630/00a10f97e6e11a9f0bb716547637e1f2/1583499712414.png",
+            "publishedAt": "2020-03-06T14:04:26Z",
+            "content": "As fears over the coronavirus grow, retail stores are selling out of products like hand sanitizer, disinfectant wipes and face masks. And some customers are reporting much higher prices than normal.\r\nIn New York City, pharmacies are having trouble keeping up \u2026 [+2174 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Health experts answer your coronavirus questions",
+            "description": "Health experts weigh in on what coronavirus does to your body, how long it lives on surfaces and more.",
+            "url": "https://www.cbsnews.com/news/coronavirus-questions-what-to-know-health-experts-doctors/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/f537ad1e-757d-4ab2-804e-3e4d1fcbaa14/thumbnail/1200x630/6fb71679ecf8ea37868c4cb3289b54af/1583525871853.png",
+            "publishedAt": "2020-03-06T20:18:50Z",
+            "content": "As coronavirus spreads in the United States and around the world, health experts are learning more about the disease. Here are some of the things they say you should know.\r\nWhat does the coronavirus actually do to your body?\u00a0\r\n\"Any point of entry to the body,\u2026 [+3205 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Public health expert Dr. Leana Wen on \u201cThe Takeout\u201d - 3/6/2020",
+            "description": "Public health expert Dr. Leana Wen answers coronavirus questions on this week\u2019s episode of \u201cThe Takeout with Major Garrett.\u201d",
+            "url": "https://www.cbsnews.com/video/public-health-expert-dr-leana-wen-on-the-takeout-362020/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/13e7bf5e-b9f6-4e8b-a067-07251d6d203b/thumbnail/1200x630/d4203648cc9ebbe2ad4672a3b28f2962/0306-cbsn-thetakeout-full-2042808-640x360.jpg",
+            "publishedAt": "2020-03-06T21:04:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sophie Lewis",
+            "title": "South Korea is using drive-thrus to test for coronavirus",
+            "description": "While the U.S. scrambles to test potential coronavirus patients quickly and effectively, South Korea is implementing an innovative solution \u2014 drive-thru test centers.",
+            "url": "https://www.cbsnews.com/news/coronavirus-south-korea-drive-thru-test-covid-19/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/29b9ccdb-706c-423d-81bf-0be4eebb065a/thumbnail/1200x630/1cfcb9558cbb72f75ffd70df83074168/ap-20061364458837.jpg",
+            "publishedAt": "2020-03-06T22:21:47Z",
+            "content": "In the U.S., Americans are used to picking up Whoppers and Big Macs using drive-thrus. In South Korea, you can now use a drive-thru to get tested for coronavirus.\u00a0\r\nInadequate coronavirus testing in the U.S. has raised fears across the country that people may\u2026 [+2643 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Asian Americans see racism, discrimination amid coronavirus panic",
+            "description": "As the U.S. panics over potential coronavirus outbreaks, racism and discrimination against Asian Americans is on the rise. Restaurants and businesses with Asian or Asian American owners from California to New York report seeing drops in sales. Weijia Jiang sp\u2026",
+            "url": "https://www.cbsnews.com/video/asian-americans-see-racism-discrimination-amid-coronavirus-panic/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/e7a13eff-3679-4e5f-9a1b-daff61d1e6ae/thumbnail/1200x630/e63b1044f917e70db10b7c1d1d027ab1/0306-ctm-asianamericans-jiang-2042583-640x360.jpg",
+            "publishedAt": "2020-03-06T14:26:49Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus testing kits rushed to ship quarantined in California",
+            "description": "California health officials said 35 people aboard the Grand Princess Cruise ship have exhibited flu-like symptoms after the ship was quarantined 70 miles off the coast of San Francisco on Thursday. The Coast Guard rushed to deliver 300 coronavirus testing kit\u2026",
+            "url": "https://www.cbsnews.com/video/coronavirus-testing-kits-rushed-to-ship-quarantined-in-california/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/2601307b-2949-4e71-9805-06ecc4ce47e4/thumbnail/1200x630/88419b9b209088d83b7b1038b55c0e76/0306-ctm-coronaviruscases-yuccas-2042438-640x360.jpg",
+            "publishedAt": "2020-03-06T12:23:30Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Breaking down coronavirus\u2019 impact on the U.S. economy",
+            "description": "Coronavirus quarantines in China have had a significant impact on the global economy. In Los Angeles, where 40% of all shipped imports enter the country at the U.S.\u2019s largest port, traffic is slowing down and affecting job earnings as factory shutdowns are ta\u2026",
+            "url": "https://www.cbsnews.com/video/breaking-down-coronavirus-impact-on-the-us-economy/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/7c4ca1dd-3bc5-4054-8141-be996a17cd3d/thumbnail/1200x630/e314d762f5a0569e0da2917503c41f03/0306-ctm-economycvruis-evans-2042547-640x360.jpg",
+            "publishedAt": "2020-03-06T13:47:35Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus outbreak takes toll on small business profits",
+            "description": "New numbers show the job market was in strong shape before the coronavirus began to sweep through the U.S. Janet Shamlian reports.",
+            "url": "https://www.cbsnews.com/video/coronavirus-outbreak-takes-toll-on-small-business-profits/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/9e9366da-3658-4203-ab5d-5faeb1d37d51/thumbnail/1200x630/5e1b3202d1f480e56a3d386f1a4e2b67/0306-en-businesscorona-shamlian-2042889-640x360.jpg",
+            "publishedAt": "2020-03-06T23:53:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus deaths near 3,300 as U.S. scrambles to test thousands",
+            "description": "The Trump administration has come under pressure over America's late-to-the-game roll out of wide-scale testing for the new COVID-19 disease.",
+            "url": "https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-06/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/6c4e0960-55ca-4ed1-9c70-bab7591a666f/thumbnail/1200x630g8/604f9fa83517825536863711d0e496c5/coronavirus-ship-california-ap-20065776626507.jpg",
+            "publishedAt": "2020-03-06T11:07:02Z",
+            "content": "Health officials across the globe were scrambling to contain the coronavirus epidemic Friday, and grasping to better understand it. At least 98,000 people in almost 90 countries have caught the new COVID-19 disease that emerged late last year in China. \r\nIt h\u2026 [+1884 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Cruise ship passengers stranded off California coast over coronavirus concerns",
+            "description": "In the United States, there are now at least 230 confirmed cases of coronavirus across 21 states. This comes as officials are testing cruise ship passengers stranded 70 miles off the coast of San Francisco. CBS News' Naomi Ruchim joined CBSN AM with more.",
+            "url": "https://www.cbsnews.com/video/cruise-ship-passengers-stranded-off-california-coast-over-coronavirus-concerns/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/6a7dbbb8-7bf4-4512-b513-d5dff03df720/thumbnail/1200x630/81739b6d1e9546390da0873beaa49379/0306-cbsnam-cruiseshippassengers-2042636-640x360.jpg",
+            "publishedAt": "2020-03-06T15:42:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Irina Ivanova",
+            "title": "Hiring surged in February before coronavirus spread in U.S.",
+            "description": "Employers added a stronger than expected 273,000 jobs last month, while unemployment rate ticked down.",
+            "url": "https://www.cbsnews.com/news/jobs-report-february-before-coronavirus-was-widespread/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/0d9021bf-e534-46de-b7ba-93c01a840d90/thumbnail/1200x630/2e4e4caa355fac70f3021e4464a360af/hiring-gettyimages-1179029397.jpg",
+            "publishedAt": "2020-03-06T13:50:49Z",
+            "content": "The pace of hiring in the U.S. jumped in February before the novel coronavirus spread across many parts of the country, new federal data show.\r\nEmployers added about 273,000 jobs last month, the Labor Department\u00a0said\u00a0Friday, surpassing forecasts. The gains we\u2026 [+1381 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Watch live: Coronavirus Task Force members hold a briefing",
+            "description": "There have been 12 deaths in the United States \u2014 11 in Washington state and one in California.",
+            "url": "https://www.cbsnews.com/news/coronavirus-task-force-briefing-vp-pence-watch-live-stream-2020-03-06/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/45f456f1-0ecf-44a8-8377-81d5866eec16/thumbnail/1200x630/f940212bf72fc87508cd7d8bc8a9f445/gettyimages-1210430993.jpg",
+            "publishedAt": "2020-03-06T14:20:40Z",
+            "content": "Members of the Coronavirus Task Force, charged with leading the U.S. response to the global coronavirus outbreak, are scheduled to hold a press briefing at the White House Friday evening.\u00a0\r\nAt least 98,000 people in almost 90 countries have caught the COVID-1\u2026 [+608 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Former Baltimore health commissioner on coronavirus: \"Don't buy masks\"",
+            "description": "Former Baltimore Health Commissioner Leana Wen spoke with Major Garrett for this week's episode of \"The Takeout\" podcast",
+            "url": "https://www.cbsnews.com/news/former-baltimore-health-commissioner-on-coronavirus-dont-buy-masks/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/0715abcd-b446-46f2-9fa3-46a23c177e26/thumbnail/1200x630/985d44b94ae8a52c1e59261afa0b1a05/14923704-6a99-4a2e-8bcf-678e93fee87a.jpg",
+            "publishedAt": "2020-03-06T11:09:28Z",
+            "content": "<ul><li>The risk of getting coronavirus: \"We're a country of 330 million people, so the risk to the average, everyday person remains low. But that still means that we should get prepared.\"</li><li>Warning against buying surgical masks: \"That mask will not be \u2026 [+3001 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "Coronavirus could cost airlines more than $100 billion",
+            "description": "\"We could discount prices tomorrow and it wouldn't do any good,\" said one airline executive as travel demand wanes.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-airline-industry-us-economy/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/01/17/7870b63a-1c09-413b-a994-f6c671c80b85/thumbnail/1200x630/135b0735f9f93d888cf7ae4460a9782e/gettyimages-1173445290.jpg",
+            "publishedAt": "2020-03-06T18:46:53Z",
+            "content": "Although the global coronavirus outbreak has yet to seriously damage the wider U.S. economy, it's bearing down fast on the airline industry.\u00a0\r\nTravelers are booking fewer flights, analysts say, hurting sales at JetBlue Airways, Southwest Airlines, United Airl\u2026 [+3010 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus panic sparks racist incidents against Asian Americans",
+            "description": "\"They're just scared to get infected by Chinese people,\" restaurant owner Kin Lam told CBS News.",
+            "url": "https://www.cbsnews.com/news/coronavirus-panic-fear-racism-attacks-against-asian-americans-world-us-restaurant-jing-fong/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/e7a13eff-3679-4e5f-9a1b-daff61d1e6ae/thumbnail/1200x630/e63b1044f917e70db10b7c1d1d027ab1/0306-ctm-asianamericans-jiang-2042583-640x360.jpg",
+            "publishedAt": "2020-03-06T18:05:52Z",
+            "content": "Country-wide panic over the coronavirus has sparked a rise in racist incidents in schools and hotels against the Asian American community. Asian-American owned businesses have reported massive losses. Politicians are working to combat the discrimination, but \u2026 [+2940 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Passengers on ship question protocols after man died of coronavirus",
+            "description": "Passenger Chris Grady expressed concern over the ship allowing people to roam freely around the common areas even though one of the ship's previous passengers died of coronavirus on Wednesday.",
+            "url": "https://www.cbsnews.com/news/coronavirus-quarantine-cruise-ship-begins-testing-passengers-new-cases-san-francisco/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/0e6adf64-707d-436f-ae52-7f7ed18a42ee/thumbnail/1200x630/bb79df016737c0b246e8e93a123e0043/1583496435481.png",
+            "publishedAt": "2020-03-06T12:20:27Z",
+            "content": "California health officials said 35 people aboard the Grand Princess Cruise ship have exhibited flu-like symptoms after the ship was quarantined 70 miles off the coast of San Francisco on Thursday. The Coast Guard rushed to deliver 300 coronavirus testing kit\u2026 [+1951 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Stephen Gandel",
+            "title": "South by Southwest festival canceled due to coronavirus",
+            "description": "Announcement comes after Apple, Facebook and other big companies withdrew from the annual event.",
+            "url": "https://www.cbsnews.com/news/coronavirus-south-by-southwest-canceled/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/492ac022-2da9-4a6c-89b5-df599fe0fcdd/thumbnail/1200x630/65d445ef689ff5ddff8fbb0d6cd06b67/swsw-img-2710.jpg",
+            "publishedAt": "2020-03-06T22:31:53Z",
+            "content": "pulled out of the eventThe upcoming South by Southwest festival has been canceled because of concerns about the novel coronavirus, officials in Austin, Texas, announced Friday.\u00a0\r\nThe move to pull the plug on the popular music and technology industry conferenc\u2026 [+791 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "EPA releases list of disinfectants to use against coronavirus",
+            "description": "All the products are approved for use by the Environmental Protection Agency.",
+            "url": "https://www.cbsnews.com/news/coronavirus-disinfectants-environmental-protection-agency/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/02/b5928d2b-7855-4baa-9cc7-b1f6f802e894/thumbnail/1200x630/e01ad2a5483ee30f08f275f75183cb74/gettyimages-654199026.jpg",
+            "publishedAt": "2020-03-06T11:51:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener: Coronavirus cruise ship quarantined off California",
+            "description": "Coronavirus concerns have a cruise ship quarantined off the coast of California and sent the U.S. stock market spiraling. Also, Elizabeth Warren officially ended her presidential campaign, but has yet to endorse anyone. All that and all that matters in today\u2019\u2026",
+            "url": "https://www.cbsnews.com/video/eye-opener-coronavirus-cruise-ship-quarantined-off-california/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/9a9a66f8-2b6e-4377-bf75-d38c439297ba/thumbnail/1200x630/f7922b99f9b6b5fadb680e4fc6df59fc/0306-ctm-7ameyeopener-2042428-640x360.jpg",
+            "publishedAt": "2020-03-06T12:15:00Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Trump signs $8.3 billion emergency package to combat coronavirus",
+            "description": "The package was passed by overwhelming bipartisan majorities in Congress earlier this week.",
+            "url": "https://www.cbsnews.com/news/trump-signs-8-3-billion-emergency-package-to-combat-coronavirus/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/3f4a489e-9ad4-43ad-8dcf-ef925260f2e3/thumbnail/1200x630g2/5f2c68bb780206ecbeb9c4713ccec636/gettyimages-1210656748.jpg",
+            "publishedAt": "2020-03-06T14:42:05Z",
+            "content": "President Trump signed an $8.3 billion emergency supplemental package to respond to the coronavirus on Friday morning, after the bill was passed by overwhelming bipartisan majorities in both houses of Congress earlier this week. The bill provided far more tha\u2026 [+2314 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Eye Opener at 8: Coronavirus outbreaks spark global panic",
+            "description": "A look at what we've been covering on \"CBS This Morning.\"",
+            "url": "https://www.cbsnews.com/video/eye-opener-at-8-coronavirus-outbreaks-spark-global-panic/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/dd022ffb-e331-4d91-bc7e-65bdea9c1e9a/thumbnail/1200x630/937c0e9834ad871e6b89a1d14aa4f05f/ctm-eyeopener8-2042519-640x360.jpg",
+            "publishedAt": "2020-03-06T13:15:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Former Baltimore health commissioner on coronavirus: \"Don't buy masks\"",
+            "description": "Former Baltimore Health Commissioner Leana Wen spoke with Major Garrett for this week's episode of \"The Takeout\" podcast",
+            "url": "https://www.cbsnews.com/news/coronavirus-dont-buy-masks-former-baltimore-health-commissioner-leana-wen/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/05/0715abcd-b446-46f2-9fa3-46a23c177e26/thumbnail/1200x630/985d44b94ae8a52c1e59261afa0b1a05/14923704-6a99-4a2e-8bcf-678e93fee87a.jpg",
+            "publishedAt": "2020-03-06T14:29:50Z",
+            "content": "<ul><li>The risk of getting coronavirus: \"We're a country of 330 million people, so the risk to the average, everyday person remains low. But that still means that we should get prepared.\"</li><li>Warning against buying surgical masks: \"That mask will not be \u2026 [+3001 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Doctor clarifies what's fact or fiction with the coronavirus",
+            "description": "The spread of misinformation with the coronavirus is a real concern. Dr. Celine Gounder from the NYU School of Medicine and Bellevue Hospital joined CBSN tp break down what we know about the disease.",
+            "url": "https://www.cbsnews.com/video/doctor-clarifies-whats-fact-or-fiction-with-the-coronavirus/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/42f26824-ab1c-493e-8ede-113a75686dd9/thumbnail/1200x630/662a69a25cd773f9deb6a18229d01125/0306-cbsn-coronafactfiction-wct-2042839-640x360.jpg",
+            "publishedAt": "2020-03-06T22:48:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Retailers accused of price gouging amid coronavirus outbreak",
+            "description": "Cleaning and sanitizing supplies are vanishing from store shelves amid the coronavirus fears, and some retailers are vastly increasing prices of goods. CBS News consumer investigative correspondent Anna Werner joined CBSN AM with more.",
+            "url": "https://www.cbsnews.com/video/retailers-stand-accused-of-price-gouging-as-supplies-vanish-from-shelves-amid-coronavirus-outbreak/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/4f2dda7f-65e4-4c2b-a030-ac6eff345f77/thumbnail/1200x630/a32644b64d2ab9fa082e88c11ce5a7e7/cbsn-fusion-retailers-stand-accused-of-price-gouging-as-supplies-vanish-from-shelves-amid-coronavirus-outbreak.jpg",
+            "publishedAt": "2020-03-06T15:34:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "White House mulls targeted coronavirus-related aid for Americans",
+            "description": "White House economic adviser Larry Kudlow's message to families who fear they will miss paychecks: \"We will help them.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-financial-aid-considered-by-white-house/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/06/4acbedb7-e70b-4781-8c00-b461cca6e7a7/thumbnail/1200x630/70ea2712b1bd8f106d37d72200804bb0/ap-18157637568841.jpg",
+            "publishedAt": "2020-03-06T16:28:23Z",
+            "content": "The Trump administration is considering \"timely\" and \"targeted\" measures to provide financial assistance to Americans hardest hit by the coronavirus, top White House economic adviser Larry Kudlow said Friday morning.\r\nIt's unclear exactly what form the assist\u2026 [+2667 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Senate passes $8.3 billion package to fight coronavirus",
+            "description": "Executive director of U.N Women, Phumzile Mlambo-Ngcuka, spoke with CBS News' Pamela Falk at the U.N. headquarters about a new report on the state of women. \"Violence against women is a global pandemic,\" she said. \"Under-representation of women in power and d\u2026",
+            "url": "https://www.cbsnews.com/video/senate-passes-8-3-billion-package-to-fight-coronavirus/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/11453dfb-5476-482c-b2fb-eaee65df620a/thumbnail/1200x630/0a79fc76f72ddb8472b7838e61aef5ea/0305-cbsn-coronasenate-vft-2042366-640x360.jpg",
+            "publishedAt": "2020-03-06T03:13:30Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Chevaz Clarke",
+            "title": "Photos show how coronavirus has left world landmarks deserted",
+            "description": "Normally mobbed with visitors, some of the world's most popular tourist sites are now strangely empty.",
+            "url": "https://www.cbsnews.com/news/coronavirus-photos-world-landmarks-deserted-empty/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/2c224c1d-2ce3-42c3-af01-78b3938deb3b/thumbnail/1200x630/747e8cf86b15452ff355778e1b8d525d/gettyimages-1205319380.jpg",
+            "publishedAt": "2020-03-06T21:15:26Z",
+            "content": "Heightened fears about the spread of the\u00a0coronavirus have crippled tourism industries worldwide. The threat of the disease has left many global landmarks deserted and airlines and hotels have seen a drastic increase in cancellations. Photos of normally crowde\u2026 [+2554 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Fin Gomez",
+            "title": "White House tightens visitor rules over coronavirus concerns",
+            "description": "For now, the White House will be requiring guests to disclose the countries they've visited recently, and other measures are also being considered.",
+            "url": "https://www.cbsnews.com/news/coronavirus-white-house-visitor-rules/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/5cae7be1-6078-45e1-a23b-5328e1e3b2e2/thumbnail/1200x630/45b18567ff38ce208cbf7c1b8cfeffa0/gettyimages-943392432.jpg",
+            "publishedAt": "2020-03-06T19:12:11Z",
+            "content": "The White House is tightening its White House visitor rules over concerns about the spread of coronavirus, CBS News confirms, according to a senior White House official. Going forward, the White House will require all guests to disclose the countries they hav\u2026 [+1523 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "What to look out for as coronavirus spreads",
+            "description": "Coronavirus fears are high as at least 20 states in the U.S. report cases. Dr. Eric Cioe-Pena joined CBSN with more on what the public needs to know about the ongoing outbreak.",
+            "url": "https://www.cbsnews.com/video/what-to-look-out-for-as-coronavirus-spreads/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/3c0a30c3-5d57-424a-a4a1-ec19dc00358e/thumbnail/1200x630/e8fe1f08eb353cef1a2246247c55cf53/0305-cbsn-coronawhattolookfor-vff-2042362-640x360.jpg",
+            "publishedAt": "2020-03-06T03:12:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Audrey McNamara",
+            "title": "Government promises 4 million coronavirus tests by next week. What comes next?",
+            "description": "The government has raced to distribute tests after an initial delay.",
+            "url": "https://www.cbsnews.com/news/government-promises-4-million-coronavirus-tests-by-next-week-what-comes-next/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/d80375f7-4e18-42a7-b0eb-fd046572f15b/thumbnail/1200x630/56b5ba089898040c60f907710f3c2412/rts301gn.jpg",
+            "publishedAt": "2020-03-06T22:33:39Z",
+            "content": "The Trump administration has faced criticism over the availability of coronavirus test kits in the United States. Vice President Mike Pence has said any American would be able to get tested for the disease it causes, COVID-19 \u2014 but acknowledged this week, as \u2026 [+5844 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Christopher Brito",
+            "title": "NYC subway rider sprays Febreze on man inside train",
+            "description": "Actress Celia Au, who shared the video, slammed the incident: \"There's not a single confirmed case of an Asian infected in NYC. Stop discriminating cause the virus definitely doesn't.\"",
+            "url": "https://www.cbsnews.com/news/coronavirus-febreze-man-train-brooklyn-new-york/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/cada3925-b4e9-4686-a434-c3a66eaeeec5/thumbnail/1200x630/e1fbf5c8f3afbe495e1a55ac0b8c444d/screen-shot-2020-03-06-at-1-16-42-pm.png",
+            "publishedAt": "2020-03-06T18:33:17Z",
+            "content": "A viral video showing a New York City subway rider spraying Febreze air freshener at another passenger believed to be Asian is being investigated by the NYPD, police said. The incident is the latest one attributed to xenophobia against Asians amid growing cor\u2026 [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Grace Segers",
+            "title": "Trump cancels planned trip to CDC headquarters in Atlanta",
+            "description": "The president was expected to participate in a press briefing at CDC headquarters in Atlanta on Friday afternoon.",
+            "url": "https://www.cbsnews.com/news/trump-cancels-planned-trip-to-cdc-headquarters-in-atlanta/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/06/3f4a489e-9ad4-43ad-8dcf-ef925260f2e3/thumbnail/1200x630g2/5f2c68bb780206ecbeb9c4713ccec636/gettyimages-1210656748.jpg",
+            "publishedAt": "2020-03-06T13:30:13Z",
+            "content": "President Trump is no longer expected to visit the headquarters of the Centers for Disease Control and Prevention (CDC) in Atlanta, Georgia, on Friday afternoon, as concerns ramp up about the spread of COVID-19 in the United States.\r\n\"The president is no long\u2026 [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "Coronavirus could cost airlines more than $100 billion",
+            "description": "\"We could discount prices tomorrow and it wouldn't do any good,\" said one airline executive as travel demand wanes.",
+            "url": "https://www.cbsnews.com/news/coronavirus-outbreak-airline-industry-us-economy/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/01/17/7870b63a-1c09-413b-a994-f6c671c80b85/thumbnail/1200x630/135b0735f9f93d888cf7ae4460a9782e/gettyimages-1173445290.jpg",
+            "publishedAt": "2020-03-06T18:46:53Z",
+            "content": "Although the global coronavirus outbreak has yet to seriously damage the wider U.S. economy, it's bearing down fast on the airline industry.\u00a0\r\nTravelers are booking fewer flights, analysts say, hurting sales at JetBlue Airways, Southwest Airlines, United Airl\u2026 [+3010 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump compares coronavirus test to Ukraine phone call",
+            "description": "At the CDC Friday, he said, \"The tests are all perfect, like the letter \u2014 was perfect. The transcription was perfect. This was not as perfect as that, but it'll be good.\"",
+            "url": "https://www.cbsnews.com/news/trump-calls-coronavirus-test-perfect-and-compares-it-to-ukraine-phone-call/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/0e20c61e-1bfb-4415-af74-cb43267fdafa/thumbnail/1200x630g2/518356735facde8cadf4d14132a7ffdf/gettyimages-1205520973.jpg",
+            "publishedAt": "2020-03-06T15:54:00Z",
+            "content": "President Trump, on a visit to the Centers for Disease Control in Atlanta, asserted that coronavirus tests are available to \"anybody.\" \"Anybody that wants a test can get a test,\" he said. \"That's what the bottom line is.\"\r\nAnd he added, \"Anybody right now and\u2026 [+3648 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "David Morgan",
+            "title": "Music festivals and coronavirus: Will the shows still go on?",
+            "description": "After South by Southwest and two Miami music festivals were canceled as a precaution against spreading COVID-19, some music fans are calling for more events to be shut down.",
+            "url": "https://www.cbsnews.com/news/coronavirus-sxsw-ultra-music-festivals-will-the-shows-still-go-on/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/b0f2ad0b-d2b5-438b-b028-704e365f0182/thumbnail/1200x630/bf8bf535f5355b145fab29ee96fd5048/music-festival-jake-barlow.jpg",
+            "publishedAt": "2020-03-06T23:45:37Z",
+            "content": "Officials in Austin announced Friday that the South by Southwest Arts and Music Festival\u00a0has been canceled over fears of spreading the coronavirus. Mayor Steve Adler said the decision is \"unfortunate,\" but necessary to reduce the risk of spreading COVID-19, a\u2026 [+3297 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS Radio News",
+            "title": "WORLD NEWS ROUNDUP: 03/06",
+            "description": "Cruise passengers off California anxiously await coronavirus test results. President Trump tries to calm coronavirus fears. As cases grow, so do the prices of sanitizing supplies. CBS News Correspondent Steve Kathan has today's World News Roundup.",
+            "url": "http://feeds.cbsnews.com/~r/podcast_icast_1/~3/N1v_OR80HX8/2750976.mp3",
+            "urlToImage": null,
+            "publishedAt": "2020-03-06T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "What the coronavirus crisis looks like around the world",
+            "description": "Coronavirus outbreaks have affected 84 countries around the globe, with 21 states in the U.S. seeing confirmed cases. The virus has killed over 3,300 people, but more than 55,000 patients who were infected have since recovered. CBS News has correspondents in \u2026",
+            "url": "https://www.cbsnews.com/video/what-the-coronavirus-crisis-looks-like-around-the-world/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/03/06/55644383-670f-4026-bb2e-7552b7c9a7ea/thumbnail/1200x630/212348a6f3db46255b77c32867a0be8b/0306-ctm-cvrus-wholething-2042529-640x360.jpg",
+            "publishedAt": "2020-03-06T13:30:09Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How coronavirus price-gouging is hurting consumers",
+            "description": "As fears over the coronavirus grow, people are frantically buying up supplies and leaving store shelves empty. Prices are also sky-rocketing online as demand grows, such as two large bottles of Purell hand sanitizer on sale for nearly $300 on Amazon. The same\u2026",
+            "url": "https://www.cbsnews.com/video/how-coronavirus-price-gouging-is-hurting-consumers/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/b4c10e75-f03f-4a7e-9fce-deb2da772643/thumbnail/1200x630/3c1480a553cd9d867812947afe5577f4/0306-ctm-cvpricegouging-werner-2042494-640x360.jpg",
+            "publishedAt": "2020-03-06T12:49:16Z",
+            "content": "Watch CBSN Live\r\nCopyright \u00a9 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Christopher Brito",
+            "title": "Coronavirus: Sick of singing \"Happy Birthday?\" Here are 10 hipper alternatives for washing your hands",
+            "description": "To prevent the spread of coronavirus, the CDC recommends washing your hands for 20 seconds \u2013 or the same amount of time it takes to sing \"Happy Birthday\" twice.",
+            "url": "https://www.cbsnews.com/news/coronavirus-songs-cdc-hand-washing-dance/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/03/06/25432ad6-663b-4b33-8668-e93b18061fa6/thumbnail/1200x630/834629d0101b7bfa5b5543f0ebf0f6e3/gettyimages-1182622704.jpg",
+            "publishedAt": "2020-03-06T21:28:55Z",
+            "content": "To prevent the spread of coronavirus, health officials at the\u00a0U.S. Centers for Disease Control and Prevention\u00a0recommend washing your hands for at least 20 seconds \u2014 about the same amount of time it takes to sing \"Happy Birthday\" twice. However, if you're tire\u2026 [+1411 chars]"
+        }
+    ]
+}

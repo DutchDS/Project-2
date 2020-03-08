@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "James Nosek",
+            "title": "Empty offices, full homes: Coronavirus might strain the internet",
+            "description": "To protect workers and help stem the spread of Covid-19, tech companies like Twitter Inc. and JPMorgan Chase & Co. are telling employees who can work from home to stay home.",
+            "url": "https://fortune.com/2020/03/08/coronavirus-internet-remote-work-from-home/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/Coronavirus-Mask-Phone-Light.jpg?resize=1200,600",
+            "publishedAt": "2020-03-08T16:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "John Buysse",
+            "title": "Coronavirus symptoms: The progression from moderate to severe can occur \u2018very, very quickly\u2019",
+            "description": "The danger of the virus starts when it reaches the lungs.",
+            "url": "https://fortune.com/2020/03/08/coronavirus-symptoms-covid-19-lungs-nose-throat-cough/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1198473034.jpg?resize=1200,600",
+            "publishedAt": "2020-03-08T20:02:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Bernhard Warner",
+            "title": "\u2018A disaster we didn\u2019t expect\u2019\u2014Italy locks down millions to prevent deadly coronavirus spread",
+            "description": "In a sweeping move, the government has placed up to 16 million people living in the northern business heart of the country in quarantine.",
+            "url": "https://fortune.com/2020/03/08/italy-locks-down-millions-coronavirus/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/03/GettyImages-1211114975.jpg?resize=1200,600",
+            "publishedAt": "2020-03-08T10:50:06Z",
+            "content": null
+        }
+    ]
+}
